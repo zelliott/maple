@@ -10,8 +10,8 @@ import os
 import operator
 
 folderPath = '/nlp/data/corpora/medline_data/xml_files'
-# folderPath = '/home1/z/zelliott/developer/cis400/xml'
-# folderPath = '/Users/Zack/Developer/cis400/xml'
+# folderPath = '/home1/z/zelliott/developer/cis400/test_xml'
+# folderPath = '/Users/Zack/Developer/cis400/test_xml'
 countAbstracts = 0
 countAbstractsWithMesh = 0
 
