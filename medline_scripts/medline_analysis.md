@@ -12,3 +12,13 @@ The file `medline15n0778.xml` has:
  - 14,221 abstracts with `MeshHeadingList`s
 
 This analysis is performed by the script `count_abstracts.py`.
+
+The topics we will be focusin on, based upon the descriptor popularity in `medline15n0778.xml` (397715), are:
+
+ - Signal Transduction, 301
+ - Molecular Sequence Data, 285
+ - Magnetic Resonance Imaging, 278
+ - Algorithms, 268
+ - Cell Line, Tumor, 260
+ - Neoplasms, 211
+ - Obesity, 162

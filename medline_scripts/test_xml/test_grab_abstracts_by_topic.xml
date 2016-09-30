@@ -1,0 +1,18 @@
+<MedlineCitationSet>
+  <MedlineCitation>
+    <Title>A,B,C</Title>
+    <MeshHeadingList>
+      <DescriptorName>A</DescriptorName>
+      <DescriptorName>B</DescriptorName>
+      <DescriptorName>C</DescriptorName>
+    </MeshHeadingList>
+  </MedlineCitation>
+  <MedlineCitation>
+    <Title>C</Title>
+    <MeshHeadingList>
+      <DescriptorName>C</DescriptorName>
+    </MeshHeadingList>
+  </MedlineCitation>
+  <MedlineCitation>
+  </MedlineCitation>
+</MedlineCitationSet>

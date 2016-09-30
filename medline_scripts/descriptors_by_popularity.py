@@ -11,7 +11,7 @@ import os
 import operator
 
 folderPath = '/nlp/data/corpora/medline_data/xml_files'
-# folderPath = '/home1/z/zelliott/developer/cis400/test_xml'
+# folderPath = '/Users/Zack/Developer/maple/medline_scripts/test_xml/'
 countByDescriptor = dict()
 
 def processFile(filename):

@@ -8,31 +8,36 @@
 import xml.etree.ElementTree as et
 import os
 import operator
+import copy
+import sys
 
 folderPath = '/nlp/data/corpora/medline_data/xml_files'
 # folderPath = '/home1/z/zelliott/developer/cis400/test_xml'
 # folderPath = '/Users/Zack/Developer/maple/medline_scripts/test_xml/'
-countAbstracts = 0
-countAbstractsWithMesh = 0
+
+if len(sys.argv) != 2:
+  print "Specify a topic: `python grab_abstracts_by_topic.py [your topic]`"
+  sys.exit()
+
+topic = sys.argv[1]
 
 def processFile(filename):
-  global countAbstracts
-  global countAbstractsWithMesh
+  global topic
 
   tree = et.parse(folderPath + '/' + filename)
   root = tree.getroot()
 
   # Count each abstract/citation
   for citation in root.iter('MedlineCitation'):
-    countAbstracts += 1
 
     # If this article has a mesh list...
-    if len(citation.findall('.//MeshHeadingList')) > 0:
-      countAbstractsWithMesh += 1
+    for descriptor in citation.findall('.//DescriptorName'):
+      if descriptor.text == topic:
+        print et.tostring(citation, encoding='utf8', method='xml')
+        break
+
+print topic
 
 # for f in os.listdir(folderPath):
 processFile('medline15n0778.xml')
-# processFile('test_count_abstracts.xml')
-
-print 'abstracts, ' + str(countAbstracts)
-print 'abstracts with mesh headings, ' + str(countAbstractsWithMesh)
+# processFile('test_grab_abstracts_by_topic.xml')
