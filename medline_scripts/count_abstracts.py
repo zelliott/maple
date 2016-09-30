@@ -31,7 +31,7 @@ def processFile(filename):
       countAbstractsWithMesh += 1
 
 # for f in os.listdir(folderPath):
-processFile('medline15n0778.xml')
+processFile('medline15n0777.xml')
 # processFile('test_count_abstracts.xml')
 
 print 'abstracts, ' + str(countAbstracts)

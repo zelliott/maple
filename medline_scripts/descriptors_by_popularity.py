@@ -25,7 +25,7 @@ def processFile(filename):
       countByDescriptor[descriptor.text] = 1
 
 # for f in os.listdir(folderPath):
-processFile('medline15n0778.xml')
+processFile('medline15n0777.xml')
 # processFile('test_decriptors_by_popularity_a.xml')
 
 sortedDescriptors = sorted(
