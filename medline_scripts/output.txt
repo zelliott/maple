@@ -1,0 +1,12 @@
+Signal Transduction
+Molecular Sequence Data
+Magnetic Resonance Imaging
+Algorithms
+Cell Line, Tumor
+Neoplasms
+Obesity
+
+ - get count of abstracts
+ - get timeframe of file
+ - unique keywords, counts of most popular
+ - other relevant
