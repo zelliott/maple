@@ -19,9 +19,11 @@ if len(sys.argv) != 2:
   print "Specify a topic: `python grab_abstracts_by_topic.py [your topic]`"
   sys.exit()
 
+count = 0
 topic = sys.argv[1]
 
 def processFile(filename):
+  global count
   global topic
 
   tree = et.parse(folderPath + '/' + filename)
@@ -33,6 +35,7 @@ def processFile(filename):
     # If this article has a mesh list...
     for descriptor in citation.findall('.//DescriptorName'):
       if descriptor.text == topic:
+        count += 1
         print et.tostring(citation, encoding='utf8', method='xml')
         break
 
@@ -41,3 +44,5 @@ print topic
 # for f in os.listdir(folderPath):
 processFile('medline15n0778.xml')
 # processFile('test_grab_abstracts_by_topic.xml')
+
+print count
