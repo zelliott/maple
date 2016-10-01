@@ -17,6 +17,16 @@
 </MeshHeadingList>
 ```
 
+`grab_abstracts_by_topic.py`: Given a certain topic (i.e. DescriptorName), return all of the abstracts (in their original XML) who have that topic as one of their MeshHeadings.  The output format is:
+
+```
+[topic name]
+
+[XML abstracts here]
+
+[abstracts count]
+```
+
 #### What is the `scripts_output` folder?
 
 This folder holds the output/results of the various medline_scripts.  The output comes in pairs, and have the following naming convention:
