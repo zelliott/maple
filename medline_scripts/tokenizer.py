@@ -41,6 +41,10 @@ def processFile(tokenDict, filename):
 
   xml = ''
   with open(filePath) as f:
+
+    # Honestly, having to do this is just stupid on my part...
+    # the [topic].xml files are not perfectly valid xml, so you
+    # have to 'fix' them before parsing.
     xml = f.read()
     xml = re.sub(r'(<\?xml[^>]+\?>)', '', xml)
     xml = '<?xml version=\'1.0\' encoding=\'utf8\'?>' + xml
