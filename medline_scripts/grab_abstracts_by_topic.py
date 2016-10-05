@@ -30,7 +30,10 @@ def processFile(filePath, topic):
 
         # Grab each abstract
         for abstractText in citation.findall('.//AbstractText'):
-          print et.tostring(abstractText, encoding='utf8', method='text')
+          text = et.tostring(abstractText, encoding='utf8', method='text')
+
+          if text:
+            print text
 
         print '</Abstract>'
         break

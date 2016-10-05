@@ -1,38 +1,46 @@
 #!/usr/bin/python
 #$ -S /usr/bin/python
 
-# This script examines either a single file or a dir of files
-# and counts (1) the number of medline citations (i.e. abstracts)
-# and (2) the number of citations with mesh headings specified.
+'''
+This script examines either a single file or a dir of files
+and counts (1) the number of medline citations (i.e. abstracts)
+and (2) the number of citations with mesh headings specified.
+'''
 
 import xml.etree.ElementTree as et
 import os
 import operator
+import sys
 
-folderPath = '/nlp/data/corpora/medline_data/xml_files'
-# folderPath = '/home1/z/zelliott/developer/cis400/test_xml'
-# folderPath = '/Users/Zack/Developer/maple/medline_scripts/test_xml/'
-countAbstracts = 0
-countAbstractsWithMesh = 0
+def processFile(filePath):
 
-def processFile(filename):
-  global countAbstracts
-  global countAbstractsWithMesh
-
-  tree = et.parse(folderPath + '/' + filename)
+  count = 0
+  countWithMesh = 0
+  tree = et.parse(filePath)
   root = tree.getroot()
 
   # Count each abstract/citation
   for citation in root.iter('MedlineCitation'):
-    countAbstracts += 1
+    count += 1
 
     # If this article has a mesh list...
     if len(citation.findall('.//MeshHeadingList')) > 0:
-      countAbstractsWithMesh += 1
+      countWithMesh += 1
 
-# for f in os.listdir(folderPath):
-processFile('medline15n0777.xml')
-# processFile('test_count_abstracts.xml')
+  return count, countWithMesh
 
-print 'abstracts, ' + str(countAbstracts)
-print 'abstracts with mesh headings, ' + str(countAbstractsWithMesh)
+def main():
+
+  count = 0
+  countWithMesh = 0
+
+  for f in sys.stdin:
+    fileCount, fileCountWithMesh = processFile(f[:-1])
+    count += fileCount
+    countWithMesh += fileCountWithMesh
+
+  print 'abstracts, ' + str(count)
+  print 'abstracts with mesh headings, ' + str(countWithMesh)
+
+if __name__ == "__main__":
+  main()
