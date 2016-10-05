@@ -36,19 +36,18 @@ def processFile(filePath, topic):
 
 def main():
 
-  if len(sys.argv) != 3:
+  if len(sys.argv) != 2:
     print 'Invalid arguments'
-    print 'Usage: `python grab_abstracts_by_topic.py [file1 file2] [your_topic]`'
+    print 'Usage: `[list of files] | python grab_abstracts_by_topic.py [your_topic]`'
     sys.exit()
 
-  files = sys.argv[1].split()
-  topic = sys.argv[2]
+  topic = sys.argv[1]
 
   print '<Abstracts>'
   print '<Topic>' + topic + '</Topic>'
 
-  for f in files:
-    processFile(f, topic)
+  for f in sys.stdin:
+    processFile(f[:-1], topic)
 
   print '</Abstracts>'
 
