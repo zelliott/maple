@@ -26,12 +26,13 @@ def processFile(filePath, topic):
       # And there is a topic match...
       if descriptor.text == topic:
 
+        print '<Abstract>'
+
         # Grab each abstract
         for abstractText in citation.findall('.//AbstractText'):
-          print '<Abstract>'
-          print abstractText.text
-          print '</Abstract>'
+          print et.tostring(abstractText, encoding='utf8', method='text')
 
+        print '</Abstract>'
         break
 
 def main():
@@ -43,13 +44,15 @@ def main():
 
   topic = sys.argv[1]
 
-  print '<Abstracts>'
+  print '<FilesAbstracts>'
   print '<Topic>' + topic + '</Topic>'
 
   for f in sys.stdin:
+    print '<File>'
     processFile(f[:-1], topic)
+    print '</File>'
 
-  print '</Abstracts>'
+  print '</FilesAbstracts>'
 
 if __name__ == "__main__":
   main()
