@@ -35,25 +35,12 @@ def countTypes(tokenDict, predicate):
 
   return total
 
-def processFile(tokenDict, filename):
+def processFile(tokenDict, filePath):
 
-  filePath = folderPath + '/' + filename
+  # parser = et.XMLParser(encoding='utf-8')
+  root = et.parse(filePath)
 
-  xml = ''
-  with open(filePath) as f:
-
-    # Honestly, having to do this is just stupid on my part...
-    # the [topic].xml files are not perfectly valid xml, so you
-    # have to 'fix' them before parsing.
-    xml = f.read()
-    xml = re.sub(r'(<\?xml[^>]+\?>)', '', xml)
-    xml = '<?xml version=\'1.0\' encoding=\'utf8\'?>' + xml
-    xml = re.sub(r'(<\?xml[^>]+\?>)', r'\1\n<root>', xml) + '</root>'
-
-  parser = et.XMLParser(encoding='utf-8')
-  root = et.fromstring(xml, parser=parser)
-
-  for abstractTextElement in root.findall('.//AbstractText'):
+  for abstractTextElement in root.findall('.//Abstract'):
     abstractText = abstractTextElement.text
     abstractTokens = nltk.word_tokenize(abstractText)
 
@@ -65,33 +52,30 @@ def processFile(tokenDict, filename):
 
   topicDict[topic] = tokenDict
 
-folderPath = '/Users/Zack/Developer/maple/medline_scripts/scripts_output/abstracts_by_topic'
-topicDict = dict()
+def main():
+  folderPath = '/Users/Zack/Developer/maple/medline_scripts/scripts_output/abstracts_by_topic'
+  topicDict = dict()
+  tokensX = []
+  typesY = []
 
-tokensX = []
-typesY = []
+  for f in os.listdir(folderPath):
+    topic = f[:-4]
+    tokenDict = dict()
 
-for f in os.listdir(folderPath):
-  topic = f[:-4]
-  tokenDict = dict()
+    processFile(tokenDict, folderPath + '/' + f)
+    topicDict[topic] = tokenDict
 
-  processFile(tokenDict, f)
-  topicDict[topic] = tokenDict
+    tokens = countTokens(tokenDict, countPredicate)
+    types = countTypes(tokenDict, countPredicate);
+    tokensX.append(tokens)
+    typesY.append(types)
 
-  tokens = countTokens(tokenDict, countPredicate)
-  types = countTypes(tokenDict, countPredicate);
+  plt.scatter(tokensX, typesY)
+  plt.xlabel('tokens')
+  plt.ylabel('types')
+  plt.grid(True)
+  plt.savefig('types_vs_tokens_per_topic.png')
+  plt.show()
 
-  print tokens, types
-
-  tokensX.append(tokens)
-  typesY.append(types)
-
-plt.scatter(tokensX, typesY)
-plt.xlabel('tokens')
-plt.ylabel('types')
-plt.grid(True)
-plt.savefig('types_vs_tokens_per_topic.png')
-plt.show()
-
-
-
+if __name__ == "__main__":
+  main()
