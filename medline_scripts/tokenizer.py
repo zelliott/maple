@@ -17,7 +17,7 @@ import nltk
 import matplotlib.pyplot as plt
 
 def countPredicate(count):
-  return count >= 5
+  return count >= 0
 
 def countTokens(tokenDict, predicate):
   total = 0
@@ -35,8 +35,9 @@ def countTypes(tokenDict, predicate):
 
   return total
 
-def processFile(tokenDict, filePath):
+def processFile(filePath):
 
+  tokenDict = dict()
   # parser = et.XMLParser(encoding='utf-8')
   root = et.parse(filePath)
 
@@ -50,19 +51,17 @@ def processFile(tokenDict, filePath):
       else:
         tokenDict[tok] = 1
 
-  topicDict[topic] = tokenDict
+  return tokenDict
 
 def main():
-  folderPath = '/Users/Zack/Developer/maple/medline_scripts/scripts_output/abstracts_by_topic'
+  folderPath = '/Users/Zack/Developer/maple/medline_scripts/test_xml/test_tokenizer'
   topicDict = dict()
   tokensX = []
   typesY = []
 
   for f in os.listdir(folderPath):
     topic = f[:-4]
-    tokenDict = dict()
-
-    processFile(tokenDict, folderPath + '/' + f)
+    tokenDict = processFile(folderPath + '/' + f)
     topicDict[topic] = tokenDict
 
     tokens = countTokens(tokenDict, countPredicate)

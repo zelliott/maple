@@ -1,0 +1,10 @@
+<FilesAbstracts>
+  <Topic>A</Topic>
+  <File>
+    <Abstract>Stuff stuff</Abstract>
+    <Abstract>More stuff</Abstract>
+  </File>
+  <File>
+    <Abstract>Hello</Abstract>
+  </File>
+</FilesAbstracts>
