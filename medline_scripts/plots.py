@@ -8,7 +8,8 @@ Plots types vs. tokens (essentially a line chart, with the x-axis being
 number of tokens processed, and the y-axis being number of types identified)
 An identical plot as the one mentioned above, but this time ignoring
 any token/type with <= 5 occurrences
-A histogram of counts of tokens (i.e. take the top 100-1000 tokens, and make a histogram of their counts)
+A histogram of counts of tokens (i.e. take the top 100-1000 tokens, and
+make a histogram of their counts)
 '''
 
 import xml.etree.ElementTree as et
@@ -59,7 +60,7 @@ def processFile(filePath):
     count += 1
 
     # remove any punctuation before tokenizing.
-    abstractText = abstractText.translate(None, string.punctuation)
+    abstractText = abstractText.encode('utf-8').translate(None, string.punctuation)
     abstractTokens = nltk.word_tokenize(abstractText)
 
     for tok in abstractTokens:
@@ -98,7 +99,7 @@ def processFileIgnoring(filePath, countDict, count):
     abstractText = abstractTextElement.text
 
     # remove any punctuation before tokenizing.
-    abstractText = abstractText.translate(None, string.punctuation)
+    abstractText = abstractText.encode('utf-8').translate(None, string.punctuation)
 
     abstractTokens = nltk.word_tokenize(abstractText)
 
@@ -122,7 +123,7 @@ def processFileIgnoring(filePath, countDict, count):
 
 def main():
   #change this to actual filePath
-  filePath = '/Users/Zack/Developer/maple/medline_scripts/test_plot.xml'
+  filePath = '/Users/Zack/Developer/maple/medline_scripts/scripts_output/abstracts_by_topic/obesity.xml'
   tokensX = []
   typesY = []
 
@@ -138,7 +139,7 @@ def main():
   plt.xlabel('tokens')
   plt.ylabel('types')
   plt.grid(True)
-  plt.savefig('types_vs_tokens.png')
+  plt.savefig('plots_output/types_vs_tokens.png')
   plt.clf()
 
   #2nd plot
@@ -151,9 +152,8 @@ def main():
   plt.xlabel('tokens')
   plt.ylabel('types')
   plt.grid(True)
-  plt.savefig('types_vs_tokens_ignoring_counts.png')
+  plt.savefig('plots_output/types_vs_tokens_ignoring_counts.png')
   plt.clf()
-
 
   # 3rd plot
   # sort the dictionary by values(counts) in decreasing order
@@ -174,13 +174,11 @@ def main():
   error_config = {'ecolor': '0.3'}
 
   # plot stuff
-  plt.bar(index, barY, bar_width, alpha=opacity,
-                 color='b',
-                 error_kw=error_config,)
+  plt.bar(index, barY, bar_width, alpha=opacity, color='b', error_kw=error_config)
   plt.xlabel('Top 10 Tokens')
   plt.ylabel('Count')
   plt.grid(True)
-  plt.savefig('top_10_tokens.png')
+  plt.savefig('plots_output/top_10_tokens.png')
 
 if __name__ == "__main__":
   main()
