@@ -5,7 +5,7 @@ import build_models
 
 brown_model = build_models.build_brown()
 gutenberg_model = build_models.build_gutenberg()
-# wiki_model = build_models.build_wiki()
+spanish_model = build_models.build_spanish()
 
 def get_abstracts(file_path):
 	texts = []
@@ -24,7 +24,7 @@ def print_entropies(topic, texts):
 	for i in range(len(texts)):
 		print 'Abstract ' + str(i) + ' - Brown: ' + str(brown_model.entropy(texts[i]))
 		print 'Abstract ' + str(i) + ' - Gutenberg: ' + str(gutenberg_model.entropy(texts[i]))
-		# print 'Abstract ' + str(i) + ' - Wiki: ' + str(wiki_model.entropy(texts(i)))
+		print 'Abstract ' + str(i) + ' - Spanish: ' + str(spanish_model.entropy(texts[i]))
 		print ' '
 
 # algorithms_path = os.path.dirname(os.path.abspath(__file__)) + "/../medline_scripts/scripts_output/abstracts_by_topic/_algorithms.xml"

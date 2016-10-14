@@ -1,6 +1,7 @@
 from nltk import download
 from nltk.corpus import brown
 from nltk.corpus import gutenberg
+from nltk.corpus import cess_esp
 from unigram import UnigramModel
 
 
@@ -28,5 +29,12 @@ def build_gutenberg():
 	gutenberg_trainfiles = [' '.join(macbeth), ' '.join(hamlet), ' '.join(caesar)]
 	return UnigramModel(gutenberg_trainfiles)
 
-def build_wiki():
-	return None
+def build_spanish():
+	download('cess_esp')
+	words = cess_esp.words()
+
+	total_size = len(words)
+	print 'Spanish Corpus contains ' + str(total_size) + ' total tokens'
+
+	esp_trainfiles = [' '.join(words)]
+	return UnigramModel(esp_trainfiles)

@@ -32,6 +32,11 @@ class UnigramModel:
 				word_count[token] += 1
 				total_words += 1
 
+		for word in word_count:
+			if word_count[word] is 0:
+				word_count['<UNK>'] += 1
+				word_count[word] = 0
+
 		self._word_count = word_count
 		self._total_words = total_words
 		# self._probdist = LaplaceProbDist(cfd)
@@ -42,7 +47,10 @@ class UnigramModel:
 		"""
 		# context = tuple(context)
 		# return self._probdist.prob((context, word))
-		return float((1.0 + self._word_count[word]) / self._total_words)
+		if self._word_count[word] is 0:
+			return float((1.0 + self._word_count['<UNK>']) / self._total_words)
+		else:
+			return float((1.0 + self._word_count[word]) / self._total_words)
 
 	def log_prob(self, word):
 		"""
