@@ -1,41 +1,66 @@
-from nltk.probability import (
-	ConditionalFreqDist,
-	LaplaceProbDist)
+# from nltk.probability import (
+# 	ConditionalFreqDist,
+# 	LaplaceProbDist)
 from nltk.util import ngrams
+from collections import Counter
 import numpy as np
+import string
+import re
 
 class UnigramModel:
 
 	def __init__(self, trainfiles):
+		"""
+		trainfiles: list of files, where each file is a string
 
-		cfd = ConditionalFreqDist()
+		"""
+
+		total_words = 0
+		word_count = Counter()
 
 		self._ngrams = set()
 
 		for trainfile in trainfiles:
-			raw_ngrams = ngrams(trainfile.split(" "), 1)
+			trainfile_ascii = trainfile.encode('ascii', 'ignore').lower()
+			trainfile_no_punc = trainfile_ascii.translate(None, string.punctuation)
+			trainfile_clean = re.sub(' +', ' ', trainfile_no_punc)
+			raw_ngrams = ngrams(trainfile_clean.split(' '), 1)
 			for ngram in raw_ngrams:
 				self._ngrams.add(ngram)
-				context = tuple(ngram[:-1])
+				# context = tuple(ngram[-1])
 				token = ngram[-1]
-				cfd[(context, token)] += 1
+				word_count[token] += 1
+				total_words += 1
 
-		self._probdist = LaplaceProbDist(cfd)
+		self._word_count = word_count
+		self._total_words = total_words
+		# self._probdist = LaplaceProbDist(cfd)
 
 
-	def prob(self, context, word):
-		context = tuple(context)
-		return self._probdist.prob((context, word))
+	def prob(self, word):
+		"""
+		"""
+		# context = tuple(context)
+		# return self._probdist.prob((context, word))
+		return float((1.0 + self._word_count[word]) / self._total_words)
 
-	def log_prob(self, context, word):
-		return -np.log2(self.prob(context, word))
+	def log_prob(self, word):
+		"""
+		"""
+		return -np.log2(self.prob(word))
 
 	def entropy(self, text):
+		"""
+		"""
 		e = 0.0
-		text = text.split(" ")
-		for word in text:
-			context = word
-			e +=self.log_prob(context, word)
-		return e / float(len(text))
+		text_ascii = text.encode('ascii', 'ignore').lower()
+		text_no_punc = text_ascii.translate(None, string.punctuation)
+		text_clean = re.sub(' +', ' ', text_no_punc)
+		text_split = text_clean.split(' ')
+		for word in text_split:
+			e += self.log_prob(word)
+		return e / float(len(text_split))
 
 
+	def ngrams(self):
+		return self._ngrams
