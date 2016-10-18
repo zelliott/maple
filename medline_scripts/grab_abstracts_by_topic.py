@@ -31,6 +31,9 @@ def processFile(filePath, topic):
         # Grab each abstract
         for abstractText in citation.findall('.//AbstractText'):
           text = et.tostring(abstractText, encoding='utf8', method='text')
+          text = text.replace('&', '&amp;')
+          text = text.replace('<', '&lt;')
+          text = text.replace('>', '&gt;')
 
           if text:
             print text

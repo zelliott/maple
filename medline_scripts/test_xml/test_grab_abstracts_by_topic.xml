@@ -1,7 +1,7 @@
 <MedlineCitationSet>
   <MedlineCitation>
     <AbstractText>A</AbstractText>
-    <AbstractText>B</AbstractText>
+    <AbstractText>B&amp;</AbstractText>
     <AbstractText>C</AbstractText>
     <MeshHeadingList>
       <DescriptorName>A</DescriptorName>

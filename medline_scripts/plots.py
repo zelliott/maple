@@ -12,7 +12,7 @@ A histogram of counts of tokens (i.e. take the top 100-1000 tokens, and
 make a histogram of their counts)
 '''
 
-import xml.etree.ElementTree as et
+import lxml.etree as et
 import os
 import re
 import operator
@@ -20,6 +20,7 @@ import nltk
 import matplotlib.pyplot as plt
 import string
 import numpy as np
+import sys
 
 def countPredicate(count):
   return count >= 0
@@ -48,7 +49,8 @@ def countTypes(tokenDict, predicate):
 def processFile(filePath):
 
   tokenDict = dict()
-  root = et.parse(filePath)
+  parser = et.XMLParser(encoding='utf-8', recover=True)
+  root = et.parse(filePath, parser)
   count = 0
   indexTokens = 0
   indexTypes = 0
@@ -88,7 +90,8 @@ less than or equal to count times
 def processFileIgnoring(filePath, countDict, count):
 
   tokenDict = dict()
-  # parser = et.XMLParser(encoding='utf-8')
+  parser = et.XMLParser(encoding='utf-8', recover=True)
+  root = et.parse(filePath, parser)
   root = et.parse(filePath)
   indexTokens = 0
   indexTypes = 0
@@ -122,27 +125,29 @@ def processFileIgnoring(filePath, countDict, count):
 
 
 def main():
-  #change this to actual filePath
-  filePath = '/Users/Zack/Developer/maple/medline_scripts/scripts_output/abstracts_by_topic/obesity.xml'
+
+  fileName = sys.argv[1]
+  filePath = '/Users/Zack/Developer/maple/medline_scripts/scripts_output/abstracts_by_topic/' + fileName + '.xml'
+  plotsPath = 'plots_output/' + fileName + '/'
   tokensX = []
   typesY = []
 
-  #Process the file and calculate number of abstracts, tokens and types
+  # Process the file and calculate number of abstracts, tokens and types
   tokenDict, numTokens, numTypes, abstracts = processFile(filePath)
   tokens = countTokens(tokenDict, countPredicate)
   types = countTypes(tokenDict, countPredicate);
 
-  #1st plot
+  # 1st plot
   tokensX = numTokens
   typesY = numTypes
   plt.plot(tokensX, typesY)
   plt.xlabel('tokens')
   plt.ylabel('types')
   plt.grid(True)
-  plt.savefig('plots_output/types_vs_tokens.png')
+  plt.savefig(plotsPath + 'types_vs_tokens.png')
   plt.clf()
 
-  #2nd plot
+  # 2nd plot
   count = 5
   numTokens, numTypes = processFileIgnoring(filePath, tokenDict, count)
   tokensX = numTokens
@@ -152,7 +157,7 @@ def main():
   plt.xlabel('tokens')
   plt.ylabel('types')
   plt.grid(True)
-  plt.savefig('plots_output/types_vs_tokens_ignoring_counts.png')
+  plt.savefig(plotsPath + 'types_vs_tokens_ignoring_counts.png')
   plt.clf()
 
   # 3rd plot
@@ -160,7 +165,7 @@ def main():
   sorted_dict = sorted(tokenDict.items(), key=operator.itemgetter(1), reverse=True)
 
   # truncate the sorted_dictionary, can set this to 100 or 1000
-  limit = 10
+  limit = 100
   truncated_dict = sorted_dict [0:limit]
 
   # iterate over the top values of the dictionaries to get their counts
@@ -168,17 +173,17 @@ def main():
   for token in truncated_dict:
     barY.append(tokenDict[token[0]])
 
-  index = np.arange(10) + 1
+  index = np.arange(100) + 1
   bar_width = 0.60
   opacity = 0.4
   error_config = {'ecolor': '0.3'}
 
   # plot stuff
   plt.bar(index, barY, bar_width, alpha=opacity, color='b', error_kw=error_config)
-  plt.xlabel('Top 10 Tokens')
+  plt.xlabel('Top 100 Tokens')
   plt.ylabel('Count')
   plt.grid(True)
-  plt.savefig('plots_output/top_10_tokens.png')
+  plt.savefig(plotsPath + 'top_100_tokens.png')
 
 if __name__ == "__main__":
   main()

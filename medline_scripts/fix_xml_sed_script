@@ -1,0 +1,11 @@
+s/\&/&amp;/g
+s/</\&lt;/g
+s/>/\&gt;/g
+s/\&lt;Abstract\&gt;/<Abstract>/g
+s/\&lt;\/Abstract\&gt;/<\/Abstract>/g
+s/\&lt;File\&gt;/<File>/g
+s/\&lt;\/File\&gt;/<\/File>/g
+s/\&lt;FilesAbstracts\&gt;/<FilesAbstracts>/g
+s/\&lt;\/FilesAbstracts\&gt;/<\/FilesAbstracts>/g
+s/\&lt;Topic\&gt;/<Topic>/g
+s/\&lt;\/Topic&gt;/<\/Topic>/g
