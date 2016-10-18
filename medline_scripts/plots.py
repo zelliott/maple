@@ -12,6 +12,11 @@ A histogram of counts of tokens (i.e. take the top 100-1000 tokens, and
 make a histogram of their counts)
 '''
 
+'''
+Run this sed script to fix bad XML:
+sed -i.bak -f fix_xml_sed_script [path to topic.xml]
+'''
+
 import lxml.etree as et
 import os
 import re
