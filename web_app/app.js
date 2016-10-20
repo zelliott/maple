@@ -6,6 +6,8 @@ var path = require('path');
 var indexRoute = require('./routes/index');
 var testRoute = require('./routes/test');
 
+var db = require('./server/db');
+
 var port = process.env.PORT || 3000;
 
 // Define routes
@@ -26,5 +28,5 @@ indexRoute(app);
 testRoute(app);
 
 app.listen(port, function () {
-  console.log('App listening on port' + port);
+  console.log('App listening on port ' + port);
 });
