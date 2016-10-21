@@ -1,4 +1,33 @@
 extends ./layout.jade
 
 block content
-  | Test
+  //- div(class="col-sm-4 mb-2")
+  //-   div(class="input-group")
+  //-     span(class="input-group-addon", id="passkey}") Passkey
+  //-     input(type="text", class="form-control", aria-describedby="passkey", value="#{passkey}")
+  div(class="col-sm-12 mb-2")
+    div(class="row")
+      div(class="col-sm-6 offset-sm-3")
+        div(class="text-xs-center mb-1", id="test-progress")
+          span(class="current" data-value="#{current}") #{test.length - current} remaining
+          span(class="total" data-value="#{test.length}")
+        progress(class="progress" value="#{current}" max="#{test.length}" aria-describedby="test-progress")
+  div(class="col-sm-12")
+    each te, i in test
+      - var currentClass = (i === current ? 'abstract-current' : '')
+      div(class="row abstract abstract-#{i} #{currentClass}")
+        div(class="col-sm-8 mb-2") !{te.abstract}
+        div(class="col-sm-4")
+          each answer, j in te.answers
+            div(class="input-group mb-2")
+              span(class="input-group-addon", id="addon-#{j}") #{j + 1}
+              input(type="text", class="form-control answer answer-#{j + 1}", aria-describedby="addon-#{j}")
+    div(class="row mt-2")
+      div(class="col-sm-12 text-xs-center")
+        button(type="button", class="btn btn-primary previous-abstract mr-2") Previous
+        button(type="button", class="btn btn-primary next-abstract") Next
+        button(type="button", class="btn btn-primary finish-abstract") Finish
+
+
+block scripts
+  script(type="text/javascript", src="/scripts/test.js")

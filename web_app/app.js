@@ -1,4 +1,5 @@
 var express = require('express');
+var session = require('express-session')
 var bodyParser = require('body-parser');
 var logger = require('morgan');
 var path = require('path');
@@ -12,6 +13,11 @@ var port = process.env.PORT || 3000;
 
 // Define routes
 var app = express();
+
+// Add session
+app.use(session({
+  secret: 'maple-secret'
+}));
 
 // Views
 app.set('views', path.join(__dirname, 'views'));
