@@ -2,18 +2,18 @@ extends ./layout.jade
 
 block content
   div(class="col-sm-4")
+    h5 Start
+    p If you haven't started, start here to begin the test.
+    form(action="/test/start", method="post")
+      input(type="hidden", name="passkey", id="passkey", class="form-control", value="#{passkey}")
+      div(class="form-group")
+        input(type="submit", value="Start test", class="btn btn-primary")
+  div(class="col-sm-4")
     h5 Continue
-    p If you've already started, enter your passkey to continue.
+    p If you've already started, enter your passkey to continue where you left off.
     form(action="/passkey", method="post")
       fieldset(class="form-group")
         label(for="passkey") Passkey
         input(type="text", name="passkey", id="passkey", class="form-control", placeholder="Passkey", required)
       div(class="form-group")
         input(type="submit", value="Continue", class="btn btn-primary")
-  div(class="col-sm-4")
-    h5 Start
-    p If you haven't started, start here.
-    form(action="/test/start", method="post")
-      input(type="hidden", name="passkey", id="passkey", class="form-control", value="#{passkey}")
-      div(class="form-group")
-        input(type="submit", value="Start test", class="btn btn-primary")

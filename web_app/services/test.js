@@ -15,12 +15,12 @@ module.exports = {
     var test = [
       {
         abstract: 'This is a <button type="button" class="btn btn-secondary btn-sm blank">1</button> test.  It has <button type="button" class="btn btn-secondary btn-sm blank">2</button> blanks.',
-        answers: [null,null,null,null,null],
+        answers: [null,null],
         difficulty: -1
       },
       {
         abstract: 'This is another <button type="button" class="btn btn-secondary btn-sm blank">1</button>  It has <button type="button" class="btn btn-secondary btn-sm blank">2</button> blanks.',
-        answers: [null,null,null,null,null],
+        answers: [null,null],
         difficulty: -1
       }
     ];
