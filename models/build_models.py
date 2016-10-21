@@ -31,7 +31,7 @@ def build_gutenberg():
 
 def build_spanish():
 	download('cess_esp')
-	words = cess_esp.words()
+	words = cess_esp.words()[:100000]
 
 	total_size = len(words)
 	print 'Spanish Corpus contains ' + str(total_size) + ' total tokens'
