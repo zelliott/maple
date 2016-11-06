@@ -1,8 +1,8 @@
 var request = require('request');
 var _ = require('lodash');
-var doc = require('dynamodb-doc');
+var aws = require('aws-sdk')
 var db = require('./../server/db');
-var dc = new doc.DynamoDB(db);
+var dc = new aws.DynamoDB.DocumentClient(db);
 
 module.exports = {
   start: function (passkey, cb) {
@@ -12,7 +12,7 @@ module.exports = {
     // Generate unique test here using Zhi's script.
     // --------------------------------------------------
 
-    var test = [
+    var questions = [
       {
         abstract: 'This is a <button type="button" class="btn btn-secondary btn-sm blank">1</button> test.  It has <button type="button" class="btn btn-secondary btn-sm blank">2</button> blanks.',
         answers: [null,null],
@@ -29,13 +29,14 @@ module.exports = {
       TableName: 'Tests',
       Item: {
         passkey: passkey,
-        test: test,
-        current: 0
+        questions: questions,
+        current: 0,
+        completed: false
       }
     };
 
-    dc.putItem(params, function (err, data) {
-      console.log(err, data);
+    dc.put(params, function (err, data) {
+
       // TODO:
       // Handle any error here.
 
@@ -50,6 +51,7 @@ module.exports = {
   },
 
   get: function (passkey, cb) {
+
     var params = {
       TableName: 'Tests',
       Key: {
@@ -57,10 +59,18 @@ module.exports = {
       }
     };
 
-    dc.getItem(params, function (err, data) {
+    dc.get(params, function (err, data) {
 
       // TODO:
       // Handle any error here.
+
+      var test = data.Item;
+
+      // TODO:
+      // If test is already completed, don't load.
+      if (test.completed) {
+
+      }
 
       if (err) {
 
@@ -69,5 +79,44 @@ module.exports = {
         cb(null, data.Item);
       }
     });
+  },
+
+  save: function(data, cb) {
+    this.get(data.passkey, function (err, body) {
+      var questions = body.questions;
+      var current = data.current;
+      var next = data.next;
+      var completed = questions.length < next + 1;
+
+      questions[current].answers = data.answers;
+
+      var params = {
+        TableName: 'Tests',
+        Key: {
+          passkey: data.passkey
+        },
+        UpdateExpression: 'set #propA = :valueA, #propB = :valueB, #probC = :valueC',
+        ExpressionAttributeNames: {
+          '#propA': 'questions',
+          '#propB': 'current',
+          '#probC': 'completed'
+        },
+        ExpressionAttributeValues: {
+          ':valueA': questions,
+          ':valueB': next,
+          ':valueC': completed
+        },
+        ReturnValues: 'UPDATED_NEW'
+      };
+
+      dc.update(params, function (err, data) {
+
+        if (err) {
+
+        } else {
+          cb(null, data.Attributes);
+        }
+      })
+    })
   }
 };

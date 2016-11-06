@@ -11,7 +11,7 @@ block content
   div(class="col-sm-4")
     h5 Continue
     p If you've already started, enter your passkey to continue where you left off.
-    form(action="/passkey", method="post")
+    form(action="/test/continue", method="post")
       fieldset(class="form-group")
         label(for="passkey") Passkey
         input(type="text", name="passkey", id="passkey", class="form-control", placeholder="Passkey", required)

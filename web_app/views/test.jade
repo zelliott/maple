@@ -9,24 +9,26 @@ block content
     div(class="row")
       div(class="col-sm-6 offset-sm-3")
         div(class="text-xs-center mb-1", id="test-progress")
-          span(class="current" data-value="#{current}") #{test.length - current} remaining
-          span(class="total" data-value="#{test.length}")
-        progress(class="progress" value="#{current}" max="#{test.length}" aria-describedby="test-progress")
-  div(class="col-sm-12")
-    each te, i in test
+          span(class="current" data-value="#{current}") #{questions.length - current} remaining
+          span(class="total" data-value="#{questions.length}")
+        progress(class="progress" value="#{current}" max="#{questions.length}" aria-describedby="test-progress")
+  div(class="col-sm-12 test-content")
+    each q, i in questions
       - var currentClass = (i === current ? 'abstract-current' : '')
       div(class="row abstract abstract-#{i} #{currentClass}")
-        div(class="col-sm-8 mb-2") !{te.abstract}
+        div(class="col-sm-8 mb-2") !{q.abstract}
         div(class="col-sm-4")
-          each answer, j in te.answers
+          each answer, j in q.answers
             div(class="input-group mb-2")
               span(class="input-group-addon", id="addon-#{j}") #{j + 1}
-              input(type="text", class="form-control answer answer-#{j + 1}", aria-describedby="addon-#{j}")
+              input(type="text", class="form-control answer answer-#{j + 1}", aria-describedby="addon-#{j}" value="#{(answer !== null) ? answer : ''}")
     div(class="row mt-2")
       div(class="col-sm-12 text-xs-center")
         button(type="button", class="btn btn-primary previous-abstract mr-2") Previous
         button(type="button", class="btn btn-primary next-abstract") Next
         button(type="button", class="btn btn-primary finish-abstract") Finish
+  div(class="col-sm-12 test-completed text-xs-center")
+    | Thanks for completing the cloze test.  You may now close this window.
 
 
 block scripts

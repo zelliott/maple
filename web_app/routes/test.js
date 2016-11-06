@@ -4,10 +4,11 @@ module.exports = function(app) {
 
   app.get('/test', function (req, res) {
     TestService.get(req.session.passkey, function (err, body) {
+
       res.render('test', {
         passkey: body.passkey,
-        test: body.test,
-        current: body.current
+        questions: body.questions,
+        current: Number(body.current)
       });
     });
   });
@@ -21,6 +22,27 @@ module.exports = function(app) {
 
       res.redirect('/test');
     });
+  });
+
+  app.post('/test/continue', function (req, res) {
+    req.session.passkey = req.body.passkey;
+    res.redirect('/test');
   })
+
+  app.post('/test/save', function (req, res) {
+
+    var answers = req.body['answers[]'].map(function (ans) {
+        return (ans.length === 0) ? null : ans;
+    });
+
+    TestService.save({
+      passkey: req.session.passkey,
+      current: req.body.current,
+      next: req.body.next,
+      answers: answers
+    }, function (err, body) {
+
+    })
+  });
 
 };
