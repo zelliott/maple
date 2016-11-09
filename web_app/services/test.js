@@ -4,47 +4,78 @@ var aws = require('aws-sdk')
 var db = require('./../server/db');
 var dc = new aws.DynamoDB.DocumentClient(db);
 
+var formatQuestions = function(rawQuestions) {
+
+  var generateButton = function (i) {
+    return '<button type="button" class="btn btn-secondary btn-sm blank">' + i + '</button>';
+  };
+
+
+  return _.map(rawQuestions, function(question) {
+    var splitAbstract = question.originalString.split(' ');
+    var removed = question.removedWords;
+
+    _.forEach(question.indices, function(index, i) {
+      splitAbstract.splice(index, 1, generateButton(i + 1));
+    });
+
+    var abstract = splitAbstract.join(' ');
+    var answers = [];
+
+    for (var i = 0; i < removed.length; i++) {
+      answers.push(null);
+    }
+
+    return {
+      correct: removed,
+      answers: answers,
+      abstract: abstract,
+      difficulty: -1
+    };
+  });
+};
+
 module.exports = {
   start: function (passkey, cb) {
 
-    // --------------------------------------------------
-    // TODO:
-    // Generate unique test here using Zhi's script.
-    // --------------------------------------------------
-
-    var questions = [
-      {
-        abstract: 'This is a <button type="button" class="btn btn-secondary btn-sm blank">1</button> test.  It has <button type="button" class="btn btn-secondary btn-sm blank">2</button> blanks.',
-        answers: [null,null],
-        difficulty: -1
-      },
-      {
-        abstract: 'This is another <button type="button" class="btn btn-secondary btn-sm blank">1</button>  It has <button type="button" class="btn btn-secondary btn-sm blank">2</button> blanks.',
-        answers: [null,null],
-        difficulty: -1
-      }
-    ];
-
-    var params = {
-      TableName: 'Tests',
-      Item: {
-        passkey: passkey,
-        questions: questions,
-        current: 0,
-        completed: false
+    var id = 0;
+    var paramsGet = {
+      TableName: 'RawTests',
+      Key: {
+        id: id
       }
     };
 
-    dc.put(params, function (err, data) {
-
-      // TODO:
-      // Handle any error here.
+    dc.get(paramsGet, function (err, data) {
 
       if (err) {
 
       } else {
-        cb(null, {
-          passkey: passkey
+        var rawQuestions = data.Item.test;
+        var questions = formatQuestions(rawQuestions);
+
+        var paramsPut = {
+          TableName: 'Tests',
+          Item: {
+            passkey: passkey,
+            questions: questions,
+            current: 0,
+            completed: false
+          }
+        };
+
+        dc.put(paramsPut, function (err, data) {
+
+          // TODO:
+          // Handle any error here.
+
+          if (err) {
+
+          } else {
+            cb(null, {
+              passkey: passkey
+            });
+          }
         });
       }
     });
