@@ -4,3 +4,4 @@
 
 ### Resource
  * [npm shrinkwrap](https://github.com/thewoolleyman/npm-shrinkwrap-helper)
+  * [DocumentClient SDK](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB/DocumentClient.html)

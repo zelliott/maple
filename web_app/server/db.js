@@ -38,26 +38,28 @@ var populateRawTests = function (filename) {
   var rawTests = JSON.parse(fs.readFileSync(filename, 'utf8'));
   var id = 0;
 
-  _.forEach(rawTests, function (test) {
-    var params = {
-      TableName: 'RawTests',
-      Item: {
-        id: id++,
-        test: test
+  var requests = _.map(rawTests, function (test) {
+
+    return {
+      PutRequest: {
+        Item: {
+          id: id++,
+          test: test
+        }
       }
     };
+  });
 
-    dc.put(params, function (err, data) {
+  var slicedRequests = requests.slice(0, 20);
 
-      // TODO:
-      // Handle any error here.
+  var params = {
+    RequestItems: {
+      'RawTests': slicedRequests
+    }
+  };
 
-      if (err) {
-
-      } else {
-
-      }
-    });
+  dc.batchWrite(params, function (err, data) {
+    console.log(err, data);
   });
 };
 
@@ -89,11 +91,12 @@ var paramsRawTests = {
   }
 };
 
+// deleteTable('Tests');
+// deleteTable('RawTests');
+
 // createTable(paramsTests);
 // createTable(paramsRawTests);
 
-populateRawTests('data/rawTests.json');
-
-// deleteTable('RawTests');
+// populateRawTests('data/rawTests.json');
 
 module.exports = db;
