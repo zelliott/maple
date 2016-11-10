@@ -1,5 +1,6 @@
 var request = require('request');
 var _ = require('lodash');
+var fs = require('fs');
 var aws = require('aws-sdk')
 var db = require('./../server/db');
 var dc = new aws.DynamoDB.DocumentClient(db);
@@ -35,10 +36,24 @@ var formatQuestions = function(rawQuestions) {
   });
 };
 
+var getNextId = function (cb) {
+    var filename = 'data/currentTest.json';
+    var id = JSON.parse(fs.readFileSync(filename, 'utf8')).id;
+
+    fs.writeFile(filename, JSON.stringify({ id: id + 1 }), function (err) {
+      if (err) {
+        cb(err, null);
+        return;
+      }
+    });
+
+    return id;
+}
+
 module.exports = {
   start: function (passkey, cb) {
 
-    var id = 0;
+    var id = getNextId(cb);
     var paramsGet = {
       TableName: 'RawTests',
       Key: {
@@ -49,35 +64,37 @@ module.exports = {
     dc.get(paramsGet, function (err, data) {
 
       if (err) {
-
-      } else {
-        var rawQuestions = data.Item.test;
-        var questions = formatQuestions(rawQuestions);
-
-        var paramsPut = {
-          TableName: 'Tests',
-          Item: {
-            passkey: passkey,
-            questions: questions,
-            current: 0,
-            completed: false
-          }
-        };
-
-        dc.put(paramsPut, function (err, data) {
-
-          // TODO:
-          // Handle any error here.
-
-          if (err) {
-
-          } else {
-            cb(null, {
-              passkey: passkey
-            });
-          }
-        });
+        cb(err, null);
+        return;
       }
+
+      var rawQuestions = data.Item.test;
+      var questions = formatQuestions(rawQuestions);
+
+      var paramsPut = {
+        TableName: 'Tests',
+        Item: {
+          passkey: passkey,
+          questions: questions,
+          current: 0,
+          completed: false
+        }
+      };
+
+      dc.put(paramsPut, function (err, data) {
+
+        // TODO:
+        // Handle any error here.
+
+        if (err) {
+          cb(err, null);
+          return;
+        }
+
+        cb(null, {
+          passkey: passkey
+        });
+      });
     });
   },
 
@@ -91,10 +108,6 @@ module.exports = {
     };
 
     dc.get(params, function (err, data) {
-
-      // TODO:
-      // Handle any error here.
-
       var test = data.Item;
 
       // TODO:
@@ -104,16 +117,23 @@ module.exports = {
       }
 
       if (err) {
-
-      } else {
-
-        cb(null, data.Item);
+        cb(err, null);
+        return;
       }
+
+      cb(null, data.Item);
     });
   },
 
   save: function(data, cb) {
+    var TestService = this;
     this.get(data.passkey, function (err, body) {
+
+      if (err) {
+        cb(err, null);
+        return;
+      }
+
       var questions = body.questions;
       var current = data.current;
       var next = data.next;
@@ -137,17 +157,57 @@ module.exports = {
           ':valueB': next,
           ':valueC': completed
         },
-        ReturnValues: 'UPDATED_NEW'
+        ReturnValues: 'ALL_NEW'
       };
 
       dc.update(params, function (err, data) {
 
         if (err) {
-
-        } else {
-          cb(null, data.Attributes);
+          cb(err, null);
+          return;
         }
+
+        var test = data.Attributes;
+
+        if (test.completed) {
+          TestService.complete(test, function (err, body) {
+            if (err) {
+              cb(err, null);
+              return;
+            }
+
+            // TODO:
+            // Pass back current thing
+            cb(null, body);
+          });
+
+          return;
+        }
+
+        // TODO:
+        // Pass back current thing
+        cb(null, test);
       })
     })
+  },
+
+  complete: function(data, cb) {
+
+    var params = {
+      TableName: 'CompletedTests',
+      Item: data
+    };
+
+    dc.put(params, function (err, data) {
+
+      if (err) {
+        cb(err, null);
+        return;
+      }
+
+      // TODO:
+      // Pass back current thing
+      cb(null, data);
+    });
   }
 };

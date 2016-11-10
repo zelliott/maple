@@ -28,21 +28,34 @@ function focusAnswer(el) {
     $('.answer-' + num).focus();
 }
 
+function disableBtns(isDisabled) {
+  if (isDisabled) {
+    $('.previous-abstract, .next-abstract').attr('disabled', 'disabled');
+    $('.saving-status').text('Saving...')
+  } else {
+    $('.previous-abstract, .next-abstract').removeAttr('disabled');
+    $('.saving-status').text('Saved');
+  }
+}
+
 function saveAnswer(delta) {
   var answers = [];
 
+  disableBtns(true);
   $('.answer:visible').each(function (i) {
     answers.push($(this).val());
   });
 
-  $.post('http://localhost:3000/test/save', {
+  // var baseURL = 'http://node-express-env.8nhudetmtc.us-west-1.elasticbeanstalk.com/';
+  var baseURL = 'http://localhost:3000/';
+  $.post(baseURL + 'test/save', {
     current: this.current,
     next: this.current + delta,
     answers: answers
-  }).done(function () {
-
-  }).fail(function () {
-
+  }).done(function (data, status) {
+    disableBtns(false);
+  }).fail(function (data, status) {
+    console.log('Something bad happened and was not caught...');
   });
 }
 
