@@ -91,11 +91,27 @@ var paramsRawTests = {
   }
 };
 
+var paramsCompletedTests = {
+  TableName: 'CompletedTests',
+  KeySchema: [
+    { AttributeName: 'passkey', KeyType: 'HASH' }
+  ],
+  AttributeDefinitions: [
+    { AttributeName: 'passkey', AttributeType: 'S' }
+  ],
+  ProvisionedThroughput: {
+    ReadCapacityUnits: 10,
+    WriteCapacityUnits: 10
+  }
+};
+
 // deleteTable('Tests');
 // deleteTable('RawTests');
+// deleteTable('CompletedTests');
 
 // createTable(paramsTests);
 // createTable(paramsRawTests);
+// createTable(paramsCompletedTests);
 
 // populateRawTests('data/rawTests.json');
 

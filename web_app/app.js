@@ -6,6 +6,7 @@ var path = require('path');
 
 var indexRoute = require('./routes/index');
 var testRoute = require('./routes/test');
+var errorRoute = require('./routes/error');
 
 var db = require('./server/db');
 
@@ -32,6 +33,7 @@ app.use(express.static(__dirname + '/public'));
 // Setup routes
 indexRoute(app);
 testRoute(app);
+errorRoute(app);
 
 app.listen(port, function () {
   console.log('App listening on port ' + port);

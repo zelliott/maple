@@ -1,19 +1,27 @@
 extends ./layout.jade
 
 block content
-  div(class="col-sm-4")
-    h5 Start
-    p If you haven't started, start here to begin the test.
-    form(action="/test/start", method="post")
-      input(type="hidden", name="passkey", id="passkey", class="form-control", value="#{passkey}")
-      div(class="form-group")
-        input(type="submit", value="Start test", class="btn btn-primary")
-  div(class="col-sm-4")
-    h5 Continue
-    p If you've already started, enter your passkey to continue where you left off.
-    form(action="/test/continue", method="post")
-      fieldset(class="form-group")
-        label(for="passkey") Passkey
-        input(type="text", name="passkey", id="passkey", class="form-control", placeholder="Passkey", required)
-      div(class="form-group")
-        input(type="submit", value="Continue", class="btn btn-primary")
+  div(class="col-sm-12")
+    div(class="row")
+      div(class="col-sm-8 mb-1")
+        h5 Instructions
+        ul
+          li This test has 100 questions.  Each question consists of a block of text with five arbitrary words removed.  These are called <strong>cloze words</strong>.  To the best of your ability, try to guess what words were removed.
+          li When you start a test, you will be given a <strong>passkey</strong>.  It is important to save this passkey so that you can continue where you left off if you are interrupted.
+    div(class="row")
+      div(class="col-sm-4")
+        h5 Start
+        p If you have not started, start here to begin the test.
+        form(action="/test/start", method="post")
+          input(type="hidden", name="passkey", id="passkey", class="form-control", value="#{passkey}")
+          div(class="form-group")
+            input(type="submit", value="Start test", class="btn btn-primary")
+      div(class="col-sm-4")
+        h5 Continue
+        p If you have already started or have a passkey, enter your passkey to continue where you left off.
+        form(action="/test/continue", method="post")
+          fieldset(class="form-group")
+            label(for="passkey") Passkey
+            input(type="text", name="passkey", id="passkey", class="form-control", placeholder="Passkey", required)
+          div(class="form-group")
+            input(type="submit", value="Continue", class="btn btn-primary")
