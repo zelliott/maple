@@ -13,7 +13,7 @@ var formatQuestions = function(rawQuestions) {
 
 
   return _.map(rawQuestions, function(question) {
-    var splitAbstract = question.originalString.split(' ');
+    var splitAbstract = question.originalString.split(/\s+/g);
     var removed = question.removedWords;
 
     _.forEach(question.indices, function(index, i) {
@@ -136,7 +136,7 @@ module.exports = {
 
       var questions = body.questions;
       var current = data.current;
-      var next = data.next;
+      var next = Number(data.next);
       var completed = questions.length < next + 1;
 
       questions[current].answers = data.answers;
