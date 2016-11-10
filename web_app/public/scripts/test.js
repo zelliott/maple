@@ -46,8 +46,8 @@ function saveAnswer(delta) {
     answers.push($(this).val());
   });
 
-  // var baseURL = 'http://node-express-env.8nhudetmtc.us-west-1.elasticbeanstalk.com/';
-  var baseURL = 'http://localhost:3000/';
+  var baseURL = 'http://node-express-env.8nhudetmtc.us-west-1.elasticbeanstalk.com/';
+  // var baseURL = 'http://localhost:3000/';
   $.post(baseURL + 'test/save', {
     current: this.current,
     next: this.current + delta,
