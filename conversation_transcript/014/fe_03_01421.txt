@@ -1,0 +1,449 @@
+# fe_03_01421.sph
+# Transcribed by BBN/WordWave
+
+0.00 1.13 A: hello 
+
+0.57 1.76 B: hello 
+
+1.59 3.12 A: hi my name's fred 
+
+2.95 4.40 B: hi i'm jennifer 
+
+4.01 5.22 A: where are you from 
+
+5.01 6.82 B: i'm from st louis how about you 
+
+6.58 8.82 A: oh my sister lives in st louis 
+
+8.47 9.33 B: (( oh )) 
+
+9.10 11.87 A: she um goes to law school at wash u 
+
+11.63 13.47 B: oh okay yeah 
+
+13.04 16.28 A: um yeah i live in cambridge massachusetts 
+
+15.87 17.44 B: oh wow okay 
+
+17.95 19.87 B: (( i don't know anybody in massachusetts )) 
+
+19.28 21.30 A: [laughter] 
+
+20.24 21.62 B: i can't say anything 
+
+22.64 26.31 A: um this is sort of a hard topic actually 
+
+25.83 28.99 B: yeah i haven't really made any changes myself 
+
+28.37 31.44 A: i know i don't think i'll be able to talk about this for ten minutes 
+
+31.11 34.89 B: neither will i. [laughter] 
+
+31.87 34.15 A: [laughter] 
+
+34.35 35.96 A: um 
+
+36.64 37.22 A: (( [lipsmack] )) 
+
+37.34 40.14 A: (( well )) 
+
+40.49 47.55 A: well i don't know but maybe we could talk about if we think the changes that we've seen have been worthwhile 
+
+46.65 53.13 B: mhm worthwhile yeah especially with the airports and their increases in their security 
+
+47.88 48.89 A: i mean 
+
+52.49 55.87 A: yeah i haven't really paid attention i mean 
+
+55.97 59.20 A: i've noticed that they've sometimes make you check 
+
+59.27 69.19 A: your shoes and they are a little bit more careful about checking people when they go in but i mean i haven't really noticed anything more than that really 
+
+64.13 65.21 B: right 
+
+68.42 73.44 B: either have i um from you know all i gather is they've just 
+
+73.98 75.03 B: (( [mn] they're )) 
+
+75.95 81.36 B: a little more cautious but it doesn't seem like they're i don't think they're as cautious as they should be 
+
+80.97 85.01 A: mhm well what more do you think they should do 
+
+84.87 92.94 B: [sigh] you know i'm not really sure i mean as far as you know going going down to strip searching people but you know 
+
+87.69 88.73 A: yeah 
+
+93.42 100.33 B: i i don't think that would be appropriate but then again we don't want anything like sep- september eleventh to happen again 
+
+99.94 101.47 A: right 
+
+101.88 103.98 A: um 
+
+104.13 106.72 A: [mn] i don't know it also seems like 
+
+107.20 109.70 A: whenever i fly from louisville 
+
+109.20 110.07 B: uh-huh 
+
+109.91 117.52 A: that's where i'm originally from that the security there is much less tight than when i fly from boston 
+
+115.08 115.83 B: uh-huh 
+
+118.01 119.16 A: (( um [lipsmack] )) 
+
+119.60 120.85 A: and so 
+
+119.84 121.56 B: smaller airport maybe i 
+
+121.49 122.95 A: what's that 
+
+122.23 125.66 B: think maybe because of the smaller airport that you're at they're not 
+
+126.34 127.84 B: they're not as ah 
+
+129.49 130.96 B: (( i don't know apt to )) 
+
+131.20 132.48 B: to really 
+
+133.94 137.28 B: i guess they probably don't think that anything is going to happen there in louisville 
+
+137.04 139.35 A: yeah but don't you think they should have like a 
+
+139.53 141.87 A: a national standard so that 
+
+140.99 146.53 B: that's that's exactly what i was ah about to get at you know i i'm from st louis so we're 
+
+143.79 145.45 A: yeah 
+
+146.71 151.14 B: kind of directly in the centre and we have a lot of lay overs here in st louis 
+
+149.73 151.67 A: right right 
+
+151.27 157.62 B: and you know even st louis i think they should be a lot stricter than what what it seems like they are 
+
+158.43 162.70 B: i i don't fly very much mys- i've actually never flown myself 
+
+162.76 163.86 A: oh really 
+
+163.52 164.62 B: no 
+
+164.64 165.47 A: (( ahah )) 
+
+166.83 169.33 B: but you know just judging by what 
+
+169.34 171.52 B: what we hear on the t._v. 
+
+170.97 172.43 A: mhm 
+
+171.70 174.57 B: they i think they could be stricter 
+
+175.21 176.71 A: yeah um 
+
+177.47 184.90 A: i don't know i mean it seems to me if someone is flying from louisville they could fly you know anywhere so they could go from a lower 
+
+182.75 183.56 B: (( ahah )) 
+
+185.19 186.00 A: (( you know )) 
+
+186.75 188.88 A: security point 
+
+188.66 189.55 B: right 
+
+188.94 191.36 A: to and then fly anywhere 
+
+191.25 192.11 B: mhm 
+
+191.48 195.47 A: and you know it seems like you'd have to have a national 
+
+195.27 200.57 B: exactly exactly because you know they could start off from louisville and 
+
+195.99 197.00 A: level 
+
+200.83 202.67 B: fly out to washington 
+
+202.14 203.74 A: yeah exactly 
+
+205.01 206.63 A: (( um [lipsmack] )) 
+
+207.79 217.74 A: i sometime i sometimes notice more um i guess army personnel at airports just i guess more security that way 
+
+213.66 214.50 B: uh-huh 
+
+217.19 219.46 B: (( right yeah )) 
+
+218.11 226.63 A: but i think i think that just makes normal people more paranoid than making them feel very safe yeah 
+
+222.30 223.18 B: uh-huh 
+
+223.75 225.38 B: more comfortable right 
+
+227.61 231.22 A: um but i mean other than flying i really haven't 
+
+232.37 238.90 A: um i mean when they when bush issued that um you know alert for 
+
+239.18 241.37 A: i forget what it was called like an orange alert or 
+
+240.83 242.16 B: yeah yeah 
+
+241.46 242.56 A: or whatever 
+
+243.03 246.61 A: i mean i got some e-mails at work saying 
+
+246.84 249.68 A: you know be sure to wear your badge at all times 
+
+249.12 250.23 B: (( mhm uh-huh uh-huh )) 
+
+249.83 259.07 A: be sure to question people if they're if they don't have a badge on and you don't recognize them and they're not accompanied with someone else or 
+
+258.76 259.55 B: (( uh-huh a )) 
+
+259.39 260.75 A: um 
+
+260.77 261.33 A: (( [lipsmack] )) 
+
+261.35 265.85 A: so i mean at work i've gotten a little bit of 
+
+266.06 267.13 A: (( you know )) 
+
+267.28 268.67 A: advice about 
+
+267.66 269.30 B: little more cautious 
+
+268.68 273.02 A: yeah i don't know has has your work done anything like that 
+
+272.45 274.56 B: (( um i actually am a )) 
+
+274.62 275.96 B: homemaker 
+
+275.35 276.74 A: oh okay 
+
+276.20 278.44 B: stay at home mommy is the new term 
+
+277.34 278.26 A: uh-huh 
+
+278.72 280.45 B: so you know we really 
+
+280.62 282.59 B: haven't really changed much 
+
+282.04 284.24 A: yeah do you have kids at school 
+
+284.13 286.64 B: no they're toddlers 
+
+286.04 287.31 A: oh okay 
+
+286.75 291.58 B: but we are more cautious of people in the neighborhood you know we tend to pay attention to 
+
+291.89 293.82 B: strangers in the area 
+
+293.42 295.37 A: mhm 
+
+299.50 300.71 A: oh 
+
+300.27 301.38 B: (( [noise] [laughter] )) 
+
+300.89 301.50 A: (( [laughter] )) 
+
+301.54 306.02 B: my little one's wanting me to hold him probably has to start screaming here he's ah almost two 
+
+303.12 304.49 A: oh how old is he ah 
+
+306.02 309.73 A: okay my nephew is turning one next month 
+
+309.40 310.23 B: uh-huh 
+
+309.93 311.39 A: (( [laughter] yeah )) 
+
+312.14 313.78 B: (( [noise] very sweet )) 
+
+313.71 315.21 A: (( i )) 
+
+314.11 315.15 B: (( whoops )) 
+
+317.35 321.31 A: actually have a sister who lives in d._c. right now 
+
+320.87 321.72 B: uh-huh 
+
+321.74 323.27 B: was she there 
+
+324.54 326.66 B: around anything that happened 
+
+325.80 329.89 A: no she um has just been there for the past six months 
+
+329.75 330.98 B: was she pretty 
+
+331.09 334.26 B: was she pretty ah concerned about going out was she 
+
+334.33 337.57 B: did she do anything you know while she was out there 
+
+337.56 342.38 A: you know i don't think there's anything really that people can do in their day to day life you know 
+
+342.06 343.25 B: yeah 
+
+342.65 347.41 A: um i mean she lives a little bit outside of the city 
+
+346.72 347.61 B: uh-huh 
+
+347.48 348.82 A: um 
+
+350.24 356.10 A: and so she said just because it's d._c. they're just i think there usually is a lot of 
+
+350.31 350.89 B: (( [noise] )) 
+
+356.01 357.27 B: security 
+
+356.86 359.40 A: army personnel yeah and security 
+
+359.64 361.19 A: (( [mn] um )) 
+
+363.58 369.12 A: but you know i mean you can't really just be paranoid all the time and um 
+
+368.05 369.57 B: i completely agree 
+
+369.26 370.84 A: i mean the sort of thing 
+
+372.05 373.31 A: um 
+
+374.50 376.71 A: i mean for one thing it usually happens in 
+
+376.95 378.93 A: um really urban areas 
+
+378.59 379.42 B: uh-huh 
+
+379.08 384.79 A: so like new york and d._c. are more likely targets than you know louisville or st louis 
+
+384.67 388.66 B: and that's what that's one thing that i'm a little concerned with too i mean they they 
+
+388.62 393.32 B: they announce that all over the news and you know they they kind of give you that false security where 
+
+393.27 404.44 B: you know a smaller i mean st louis is kind of a smaller city you know a large city but it's still smaller compared to everything else but they kind of give us a false sense of ah security when 
+
+397.01 398.74 A: mhm 
+
+400.15 401.20 A: right 
+
+405.25 417.60 B: you know announcing it all over t._v. and i'm sitting here thinking okay they're announcing this on t._v. don't you think that's gonna give them another idea to okay let's go ahead to the smaller city and we'll get 'em where we're not where they're not expecting it 
+
+414.19 415.55 A: yeah 
+
+416.84 418.49 A: yeah 
+
+417.97 420.38 B: you know and you know i think the media 
+
+420.59 423.72 B: i think they personally i think need to 
+
+423.80 426.09 B: calm it down a little bit and not 
+
+427.04 436.71 B: [sigh] you know [noise] it's kind of hard to say they shouldn't talk about important issues like that but sometimes i think they need to be a little more i don't know maybe tasteful in what they say 
+
+434.90 436.19 A: yeah 
+
+436.22 437.32 A: right 
+
+438.43 447.61 A: yeah it's a tou- i don't know it's a tough thing the one thing that that i thought was sort of disturbing was that um 
+
+440.63 441.56 B: (( [noise] )) 
+
+447.69 451.54 A: i have a friend who i work with who 
+
+451.91 457.55 A: he is a canadian citizen but his his parents are from pakistan or something 
+
+453.56 454.44 B: uh-huh 
+
+457.29 458.14 B: uh-huh 
+
+457.81 465.27 A: and um he was telling me about how his sister had to register 
+
+465.28 468.63 A: um because 
+
+468.93 474.30 A: i'm not exactly sure what it was but something about how she was from canada and she was 
+
+474.45 479.44 A: sort of arabic and you know i thought that was a little weird 
+
+476.13 477.03 B: uh-huh 
+
+479.11 480.49 B: yeah 
+
+480.25 481.55 A: um 
+
+481.46 485.77 B: [noise] yeah another thing that ah concerned me too is ah 
+
+485.94 491.06 B: i guess more the racial profiling that that happens i have a friend um 
+
+491.42 493.44 B: that is from hungary 
+
+493.58 502.59 B: and he went to school out here you know actually went to wash u. and got a business degree and he was ah he just finished his masters 
+
+497.85 499.09 A: mhm 
+
+502.87 508.79 B: and had the worst time getting a job out here because [noise] the looks 
+
+509.28 510.41 B: (( um )) 
+
+510.50 512.95 B: the i guess the arabic 
+
+513.33 514.38 A: mhm 
+
+513.64 517.16 B: look he he you know he is tall dark skinned dark hair 
+
+516.48 518.37 A: mhm 
+
+517.63 519.28 B: and it's you know 
+
+519.76 520.81 B: (( ah it's a )) 
+
+521.07 527.33 B: little disappointing that ah they had to move back to hungary because he wouldn't get hired by anybody 
+
+526.73 528.37 A: right 
+
+527.89 530.17 B: and i think that that's 
+
+530.29 532.09 B: you know it's a little disappointing 
+
+531.86 536.17 A: yeah i mean a similar thing i think happened around world war two 
+
+535.97 536.86 B: uh-huh 
+
+536.23 541.86 A: with the japanese people i mean that was much more extreme because they were actually shipped off to 
+
+537.50 538.41 B: uh-huh 
+
+541.87 542.80 B: right 
+
+541.91 544.31 A: to these camps or whatever but 
+
+543.67 544.60 B: right 
+
+544.35 545.48 A: um 
+
+545.93 550.24 A: i don't know in situations like this it seems like the government 
+
+550.51 551.91 A: um 
+
+552.56 558.23 A: you know they say that they are trying to protect us but they do some things that you know 
+
+557.01 558.96 B: kind of don't protect us 
+
+558.52 561.31 A: yeah they're just a little bit um 
+
+561.96 563.75 A: suspicious [laughter] 
+
+563.15 564.58 B: yeah [laughter] 
+
+563.92 570.42 A: or a little bit unfair i think but um [lipsmack] 
+
+565.61 566.55 B: right 
+
+575.60 577.71 A: yeah [laughter] 
+
+577.48 578.40 B: [laughter] 
+
+578.78 583.10 B: it's kind of a hard subject to talk about for ten minutes [laughter] 
+
+581.15 582.57 A: yeah i know 
+
+584.05 590.12 B: but as far as you know getting back to the topic day to day life nothing has really changed around here 
+
+589.41 590.99 A: right 
+
+590.59 599.89 B: you know like i said i pay attention to the t._v. more often i'm a little more cautious when i'm out and about especially when i'm by myself with my children 
+

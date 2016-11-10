@@ -1,0 +1,678 @@
+# fe_03_01020.sph
+# Transcribed at the LDC
+
+0.81 1.33 A: hello 
+
+1.74 2.38 B: hi 
+
+2.88 3.73 B: my name is gwen 
+
+3.01 3.59 A: hi 
+
+4.93 5.38 A: huh 
+
+5.92 6.89 A: my name's peg 
+
+7.72 8.08 B: peg 
+
+7.94 9.48 A: and your name's gwen 
+
+9.76 10.33 B: gwen yea 
+
+10.54 10.92 A: gwen 
+
+11.68 13.18 B: hi nice to meet you 
+
+13.29 14.38 A: nice to meet you too 
+
+14.93 15.79 B: okay 
+
+15.19 15.81 A: hum 
+
+16.49 17.36 A: so where are you from 
+
+18.09 19.88 B: i'm from california los angeles 
+
+19.60 19.93 A: oh 
+
+20.53 21.41 A: huh phoenix 
+
+20.60 21.18 B: how about you 
+
+21.67 22.29 A: phoenix 
+
+21.93 22.21 B: phoenix 
+
+22.72 23.28 B: okay 
+
+23.73 24.28 B: not too far 
+
+24.03 24.60 A: hum 
+
+26.21 27.54 A: so our question is 
+
+27.70 31.15 A: would we panic during a terroristic attack 
+
+32.72 33.49 B: hum 
+
+34.11 35.28 B: what would you do 
+
+35.77 37.94 A: i don't think i would panic hum 
+
+39.48 40.09 A: i think i 
+
+40.32 41.12 A: pretty well 
+
+41.39 46.60 A: made myself you know aware of what could happen and what to do if it does happen 
+
+50.89 52.57 B: depends on how close to home it was 
+
+52.95 53.35 A: mm 
+
+53.10 54.91 B: and what kind of attack it was 
+
+55.36 55.82 A: mm 
+
+55.64 56.22 B: hum 
+
+57.57 59.57 B: you know obviously if i knew any one 
+
+60.08 60.71 B: that was 
+
+61.00 61.92 B: (( )) 
+
+62.39 63.41 A: well right 
+
+62.82 63.13 B: but 
+
+63.61 66.81 B: yea like after after the last i get a little bit paranoid 
+
+67.48 70.27 B: with with things but then it's also then you can't 
+
+70.38 70.65 B: stop 
+
+71.35 71.82 B: doing 
+
+72.02 73.07 B: you know living life 
+
+73.49 73.98 A: right 
+
+75.96 76.44 A: mm 
+
+76.21 76.66 B: hum 
+
+77.47 81.10 B: but i mean like you know you here so many different things i would probably get 
+
+81.23 81.69 B: scared 
+
+82.25 82.72 B: if it was 
+
+83.04 83.89 B: biological 
+
+84.71 85.09 A: mm 
+
+86.08 87.01 B: you know especially 
+
+86.29 88.13 A: as opposed to huh 
+
+89.41 90.08 A: nuclear 
+
+91.55 95.40 B: well that yea i don't think i would have time to get scared 
+
+94.69 95.84 A: well that's true 
+
+95.95 96.67 B: yea 
+
+96.99 98.45 B: it would be pretty quick 
+
+102.19 102.67 B: and 
+
+102.26 102.73 A: mm 
+
+102.81 103.75 B: so you know 
+
+103.93 104.95 B: something like that 
+
+105.35 105.76 B: hum 
+
+106.17 106.80 B: and like 
+
+106.93 107.97 B: especially the biological 
+
+108.19 108.56 B: were 
+
+108.86 112.05 B: i wouldn't i would be helpless to do anything for her 
+
+113.53 116.59 B: you know we can think they sit there and talk about small pox and 
+
+116.97 118.19 B: you have a medical 
+
+118.32 120.91 B: addition where i read that you know that it's even worse 
+
+121.79 128.19 B: for me to get vaccinated if you know if it were to come to that cause i heard that they were going to do mandatory vaccination 
+
+128.38 128.94 A: mm 
+
+128.91 130.53 B: if at some point they're thinking of it 
+
+131.84 132.47 B: so hum 
+
+132.84 135.79 B: i don't know cause it's kind of right now it's an intangible 
+
+136.91 137.48 B: because 
+
+137.61 138.75 A: yea it is 
+
+137.62 138.11 B: (( yea we )) 
+
+139.06 140.51 A: really don't know what to do 
+
+141.04 141.59 B: mm 
+
+142.02 142.84 A: you know and your 
+
+142.33 142.72 B: and 
+
+144.17 145.23 B: since huh 
+
+144.45 145.05 A: go ahead 
+
+145.35 146.61 B: i was going to say since you know 
+
+146.76 147.22 B: they have 
+
+147.41 147.87 B: hum 
+
+148.45 150.67 B: made changes you know since nine eleven 
+
+151.16 152.40 B: you know i'm not still 
+
+152.88 155.72 B: i'm not a hundred percent that they are going to catch everything but 
+
+156.05 157.91 B: they're catching a lot more than they were before 
+
+158.33 158.76 A: right 
+
+161.19 161.78 A: hum 
+
+162.92 163.60 A: yea i think 
+
+164.03 167.96 A: huh the public in general is staying fairly calm 
+
+168.55 169.09 B: mm 
+
+169.66 170.35 A: hum 
+
+170.80 176.50 A: i know a lot of people are preparing you know making sure they have a lot of water on hand 
+
+177.19 180.22 A: you know the necessary essentials on hand in case 
+
+181.06 182.41 A: you know that we have too 
+
+182.80 184.29 A: confine ourselves 
+
+185.28 186.23 A: in a room 
+
+186.67 187.18 B: mm 
+
+186.69 188.67 A: you know for a couple of days or what ever 
+
+189.24 191.34 B: you know how we haven't even done anything like that 
+
+191.92 192.41 B: have you 
+
+192.10 192.73 A: well i mean 
+
+192.98 196.32 A: well i've i've huh made sure i have water on hand 
+
+196.70 197.28 B: huh huh 
+
+197.40 199.46 A: and that's probably about it 
+
+200.05 202.18 A: well because i i read that 
+
+202.62 203.85 A: you know if they do hum 
+
+204.46 206.99 A: like chemical war fare 
+
+207.57 208.07 A: huh 
+
+208.66 213.30 A: a lot of times those agents dissipate so quickly in the air 
+
+213.72 214.47 A: that if you 
+
+213.82 214.29 B: mm 
+
+214.64 215.91 A: see or smell something 
+
+216.05 217.72 A: that if you just walk away 
+
+218.01 219.62 A: from the area quickly 
+
+220.38 221.84 A: you know that you won't be affected 
+
+222.56 223.90 B: right now i can see that 
+
+224.29 225.02 B: because hum 
+
+224.70 225.12 A: yea 
+
+225.32 226.54 B: it gets dispersed 
+
+226.70 228.64 B: you know and and it's less potent and everything 
+
+226.96 227.38 A: right 
+
+228.91 230.93 A: yea it's yea and just make sure your not 
+
+231.15 231.79 A: you know your 
+
+232.42 233.53 A: not 
+
+233.73 235.69 A: down wind or up wind or what ever 
+
+236.07 236.80 B: right 
+
+237.91 238.46 A: hum 
+
+239.41 244.05 A: but i mean so if it's something small like that course that's going to be like huh 
+
+245.22 245.96 A: a hum 
+
+246.85 247.69 A: low dose 
+
+248.63 249.11 A: hum 
+
+250.27 252.29 A: area you know somebody just pulling 
+
+252.98 257.77 A: a prank or got to be a prank or a terroristic attach in like a mall or something like that 
+
+258.26 258.64 B: right 
+
+259.13 260.05 A: but if it's 
+
+259.50 259.80 B: right 
+
+260.32 261.80 A: oh where they're 
+
+262.60 264.82 A: so i put some in our water system 
+
+265.30 266.58 A: you know that's that's something 
+
+267.91 269.09 A: totally different 
+
+269.38 269.91 B: mm 
+
+270.28 274.70 B: that would be kind of you know you just you don't know because i've even read things where 
+
+274.98 276.41 B: you know they can sit there and 
+
+276.55 278.46 B: you know if they wanted to get into like you know 
+
+278.85 280.77 B: cereal plants or something like that and 
+
+280.53 281.03 A: mm 
+
+281.22 282.78 B: to high of a dosage of like you know 
+
+281.43 282.09 A: mm 
+
+283.15 287.93 B: some kind of vitamin or something and then you know people are eating cereal they don't know they don't have any clue 
+
+288.14 290.13 A: right you don't have no clue yea 
+
+290.33 290.81 B: mm 
+
+290.89 292.62 A: i mean there are so many different ways 
+
+293.10 294.25 A: that they could 
+
+295.81 296.43 A: hum 
+
+297.90 300.15 A: you know know get into our water or 
+
+300.24 300.53 A: our 
+
+301.03 302.27 A: food or 
+
+303.16 305.20 A: you know that we wouldn't have any idea 
+
+305.64 306.15 B: mm 
+
+306.41 309.01 A: what was going on we wouldn't know how to protect our selves 
+
+310.04 312.02 A: and what to do if we were infected 
+
+312.63 314.62 B: and i get worried with l._a. being 
+
+314.82 315.86 B: such a major city 
+
+316.73 317.41 A: mm 
+
+316.98 317.67 B: that it 
+
+317.99 319.60 B: makes it more probable 
+
+320.07 321.03 B: of a target 
+
+321.54 321.93 A: right 
+
+323.58 326.42 A: well here you know in phoenix i mean i live maybe 
+
+327.78 329.75 A: oh forty miles from (( palo verde )) 
+
+330.41 331.51 A: which is the largest 
+
+330.53 331.06 B: mm 
+
+331.63 333.04 A: nuclear reactor 
+
+333.25 334.69 A: in the western hemisphere 
+
+333.45 333.79 B: oh 
+
+335.58 336.17 B: oh so 
+
+336.54 339.06 A: so 
+
+336.70 340.88 B: your not in the much better position than i am 
+
+340.24 342.95 A: so you know what if they decide to 
+
+343.12 346.04 A: attack (( palo verde )) well there's nothing i can do 
+
+346.51 347.19 B: right now the 
+
+347.56 348.00 B: true 
+
+348.39 349.26 B: that's true i mean 
+
+349.66 350.91 B: that's probably the hum 
+
+352.22 354.50 B: i don't know it's like i don't spend my days 
+
+355.37 356.37 B: worrying about it 
+
+356.77 357.69 A: no i don't either 
+
+356.78 357.79 B: i i do 
+
+358.03 359.01 B: sit there and hum 
+
+359.87 360.99 B: wonder if you know 
+
+361.48 362.92 B: if we end up going to war 
+
+363.66 364.22 A: mm 
+
+364.48 364.95 B: you know 
+
+365.42 365.81 B: what's 
+
+365.45 368.15 A: oh that prospect scares me more than 
+
+365.95 367.45 B: going to happen over here 
+
+369.13 371.20 A: that's what's more scary if we go to war 
+
+372.16 373.22 B: so but then i 
+
+372.63 373.36 A: that's that's 
+
+374.31 377.43 A: yea but then you know if we go to war then there going to 
+
+377.76 379.12 A: want to retaliate 
+
+380.18 382.13 B: so but then on the other hand i mean i 
+
+380.89 381.39 A: you know 
+
+382.47 383.10 B: i 
+
+383.98 386.47 B: i wish there was a peaceful resolution but i don't 
+
+386.80 387.82 B: see it happening 
+
+388.11 389.02 A: yea 
+
+388.16 388.58 B: i don't 
+
+388.68 389.63 B: i don't trust 
+
+390.67 391.74 B: hussein and 
+
+391.80 392.79 A: oh no i'm 
+
+393.05 394.85 A: mm no body should trust him 
+
+393.70 396.74 B: you know i mean if it comes down to you know 
+
+397.95 399.49 B: war is the only way 
+
+399.76 400.84 A: mm 
+
+399.83 402.36 B: that's the only thing i sit there and i think you know 
+
+402.64 403.86 B: some body needs to stop him 
+
+404.29 404.71 A: right 
+
+404.84 406.41 B: and then you know if it's not 
+
+407.33 408.34 B: hum if you know 
+
+408.87 409.74 B: what am i trying to say 
+
+409.31 409.72 A: it's 
+
+409.97 411.26 A: if it's not a s 
+
+411.83 413.65 B: yea somebody has to stop him 
+
+412.97 414.64 A: then somebody has to stop him 
+
+414.80 416.32 B: you know you can't just let him go 
+
+416.75 417.19 A: mm 
+
+418.02 420.26 A: but i think every body's kind of looking 
+
+418.10 418.49 B: and 
+
+420.44 421.11 A: to us 
+
+421.59 422.94 A: to be like the leader 
+
+423.67 426.06 A: because we always have been the leader in the past 
+
+424.04 424.49 B: mm 
+
+426.46 426.89 B: right 
+
+426.67 427.26 A: you know 
+
+428.13 428.83 A: we're always 
+
+429.59 431.95 A: you know come to people's rescue or 
+
+432.23 433.50 A: or we're always 
+
+433.83 436.26 A: everybody's we're like the world's baby sitter 
+
+437.03 437.51 B: mm 
+
+437.69 438.29 B: the police 
+
+437.95 440.89 A: so every body's yea we're we're all the police 
+
+441.10 441.71 B: mm 
+
+443.58 445.60 B: so much for interpol huh 
+
+443.67 444.61 A: but i mean 
+
+445.34 446.18 A: huh 
+
+446.58 448.35 B: i said so much for interpol huh 
+
+448.29 449.04 A: mm 
+
+450.73 452.66 A: so it's like you know if we don't 
+
+452.97 454.09 A: take the step 
+
+454.49 455.91 A: you know towards war 
+
+456.72 457.48 A: then hum 
+
+458.09 458.51 A: and 
+
+458.39 460.00 B: it's just going to continue to happen 
+
+459.74 461.37 A: it's going to continue so 
+
+461.86 463.50 A: there going to attach as 
+
+464.32 465.60 A: if we to war or not 
+
+465.92 466.54 A: probably 
+
+466.98 467.46 B: mm 
+
+467.41 468.13 A: you know 
+
+467.76 468.87 B: oh yea figure 
+
+470.10 470.89 B: with huh 
+
+471.01 473.89 B: nine eleven we weren't any where near 
+
+472.14 473.24 A: mm 
+
+474.23 475.53 B: the way we are now 
+
+475.74 476.42 A: no 
+
+476.04 476.68 B: with them 
+
+476.89 477.37 B: so 
+
+478.59 479.46 B: yea i 
+
+481.15 482.46 B: i have a feeling 
+
+482.62 484.58 B: i mean i'm hopping i'm hopping they catch 
+
+485.40 486.18 B: all the other 
+
+486.33 487.25 B: attempted attack 
+
+487.87 491.87 B: hum i know there's more there are going to be pans weather or not they end up happening 
+
+492.80 493.39 B: you know 
+
+493.69 494.16 A: mm 
+
+493.96 495.87 B: i don't know i guess i got to trust god 
+
+496.98 499.32 A: yea that's that's that's another yea that's true 
+
+497.06 497.48 B: you know 
+
+500.78 504.32 B: although it's like you know you can never really make any sense out of 
+
+501.22 501.70 A: you know 
+
+504.49 505.07 A: no 
+
+505.12 507.36 B: things and you just figure there's got to be some 
+
+505.62 506.00 A: chance 
+
+507.60 508.47 B: some reason 
+
+509.23 509.87 B: some how 
+
+510.86 512.25 A: well some how 
+
+513.38 514.77 B: weather or not we understand it 
+
+513.54 513.92 A: oh 
+
+515.13 519.34 A: yea i don't think he's going to let us destroy ourselves though you know 
+
+519.73 521.13 A: or destroy his 
+
+521.57 522.32 A: world 
+
+523.26 524.48 B: well you hope not 
+
+524.76 525.60 A: i hope not 
+
+525.13 525.64 B: you know 
+
+526.42 527.21 B: but i mean 
+
+527.74 529.42 B: you know i mean they say the rest of the world 
+
+529.86 530.39 A: mm 
+
+530.29 532.44 B: you know there are still going to be people who are alive 
+
+532.86 533.98 B: you know according to the bible 
+
+534.30 534.75 A: right 
+
+536.26 536.86 B: so 
+
+537.24 537.98 B: i don't know 
+
+537.36 540.20 A: but so how are your friends reacting 
+
+540.91 541.84 A: to hum 
+
+542.00 542.81 A: the potential 
+
+543.05 544.07 A: threats and the 
+
+544.96 545.78 B: hum 
+
+546.21 551.04 B: they haven't really i don't think they've even done anything to change the way they live 
+
+551.71 555.09 B: hum figure i grew up in a military town 
+
+555.64 556.63 B: and so 
+
+557.26 559.46 B: yea there like my brother you know 
+
+559.83 561.79 B: actually contemplating joining the navy 
+
+562.66 568.87 B: hum but i don't they really haven't said anything to me i mean when it happens 
+
+569.00 571.89 B: you know my mom called me and was did you see the news and 
+
+573.19 575.12 B: but i don't think they have done anything 
+
+573.40 573.85 A: hum 
+
+575.23 576.96 B: to change the way they live 
+
+577.19 577.70 A: mm 
+
+579.07 580.04 B: so what about you 
+
+579.31 580.01 A: no 
+
+580.35 582.08 A: same here hum 
+
+583.24 587.10 A: probably just course this has effected everybody financially 
+
+587.65 588.61 B: oh yes 
+
+587.73 588.95 A: so everybody's like 
+
+589.10 590.32 A: rethinking 
+
+591.35 598.62 A: you know cause we were supposed to go to europe this year to visit some friends of ours that are over there temporally well i doubt we're going to do that 
+
+598.92 599.45 B: mm 

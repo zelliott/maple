@@ -1,0 +1,347 @@
+# fe_03_05648.sph
+# Transcribed by BBN/WordWave
+
+0.29 1.51 B: (( hello )) 
+
+1.16 2.61 A: hello 
+
+2.77 4.31 A: my name is spencer 
+
+4.40 6.84 B: where are you calling from spencer 
+
+6.16 9.10 A: [noise] i'm calling from brooklyn new york 
+
+8.15 12.26 B: oh i'm calling from san francisco california my name's jason 
+
+11.88 14.78 A: jason what neighborhood do you live in jason 
+
+14.30 19.73 B: [sigh] uh well where i live it's on bush street and uh 
+
+20.19 21.39 A: you're in the city 
+
+20.20 21.20 B: uh 
+
+21.30 22.49 B: what's that 
+
+21.82 23.31 A: you're in the city 
+
+22.67 25.27 B: yeah it's it's very very urban 
+
+25.39 27.16 B: where i am uh 
+
+26.13 29.17 A: which uh i mean i've been to san francisco a bunch of times 
+
+28.95 32.85 B: yeah it it's on it it's on bush at leavenworth 
+
+32.44 33.51 A: uh-huh 
+
+32.87 42.05 B: and uh [mn] uh so it i it's in it's knob hill you know because there's the um 
+
+39.54 40.54 A: knob hill 
+
+42.33 44.21 B: there's the the uh 
+
+44.80 47.80 B: uh knob hill uh cigar store 
+
+47.81 49.47 B: is on sutter street 
+
+47.99 48.84 A: (( [laughter] )) 
+
+49.14 50.04 A: right 
+
+49.73 61.52 B: uh so if you're that familiar with the area you know there's uh you know and then the street down from there is post you know so uh where i live it's not on post you know it's on bush 
+
+56.10 57.80 A: mhm 
+
+60.03 61.10 A: right 
+
+61.67 65.79 A: i'm not i'm not that exact about it depends i was usually in uh 
+
+63.27 64.64 B: [laughter] 
+
+65.95 68.68 A: summer or around valencia or something 
+
+68.79 69.78 B: oh so 
+
+68.83 70.89 A: lower haight 
+
+69.91 80.01 B: oh yeah yeah uh you you being somebody who's uh a resident of new york you might uh be sensitive about the subject of uh airline security 
+
+79.78 83.32 A: um i don't really know 
+
+83.86 85.68 A: um do you fly 
+
+86.53 90.07 B: occasionally uh not so often uh 
+
+90.32 93.60 B: i haven't flown for maybe a year or so 
+
+93.32 94.99 A: right 
+
+94.01 98.13 B: and uh i i i cannot remember 
+
+98.22 100.86 B: an incident when i was on airplane 
+
+101.27 107.63 B: when uh [mn] when i i was frightened for security reasons 
+
+105.37 106.34 A: mhm 
+
+107.05 108.43 A: right 
+
+107.81 119.05 B: i mean i was on one flight where it was a it was a small plane that might even have propellers on it i [laughter] probably not but it was a you know little dinky plane and uh [mn] 
+
+119.30 123.40 B: it might you know as as where where i'm actually from is massachusetts uh 
+
+122.46 123.30 A: mhm 
+
+123.72 130.50 B: and uh you know it it was some kind of a maybe a flight out of newark or something from there to providence rhode island 
+
+128.47 129.30 A: mhm 
+
+130.72 131.88 B: and uh 
+
+132.46 137.63 B: you know it was a a frightening experience because the wind was just knocking the plane all over the place 
+
+137.21 138.15 A: right 
+
+137.84 138.99 B: and uh 
+
+139.03 143.42 B: you know i that you know that was a a time that i had fear for my life but i 
+
+143.52 151.84 B: i can't think of a an incidence where there was you know airport security was really on my mind i've on- i've only flown once since the september eleventh 
+
+152.39 153.30 B: uh 
+
+153.59 158.35 B: incident and i've you know that that's when i i got a 
+
+158.26 168.78 B: a firsthand look at all the added security they have now and i mean i'm glad that that's there you know it it it does make me feel safer and i think it's appropriate 
+
+162.67 163.79 A: right 
+
+169.22 170.99 B: but uh [mn] 
+
+171.24 176.28 B: you know boy uh uh i i i don't know how far you can go with that type of thing 
+
+176.79 178.22 B: you know and 
+
+176.89 182.99 A: well it's interesting i heard something on m._p._r. the other day that none of the the freight that's shipped is checked 
+
+182.61 183.44 B: (( mm )) 
+
+183.35 191.16 A: so there like there's extensive you know personal checking of people but if someone's working for a company that ships airfreight 
+
+191.01 198.56 A: like none of the freight gets checked it gets put into the hold of the of the commercial i mean the yeah commercial aircrafts that are flying passengers 
+
+197.99 202.34 B: so you're saying if someone wanted to destroy a 
+
+202.47 205.56 B: like a u._p._s. airplane if there is such a thing 
+
+204.69 210.27 A: no no no they put they put the freight on normal passenger planes they put it in the in the cargo hold 
+
+210.42 217.51 B: so you're saying if you're going to just put a bomb in a box and ship it somewhere by airmail 
+
+214.27 215.37 A: right 
+
+215.54 217.23 A: yeah you you just you 
+
+217.41 228.21 A: you either ship it or if you work for the company then you could put it in because once they get the crates they don't look they don't look in them because it's uh they can't x. ray them 'cause they're too big so 
+
+219.58 220.22 B: (( mm )) 
+
+228.23 234.74 A: they just accept them and put them in the planes even though they're searching passengers very thoroughly so 
+
+233.51 235.32 B: oh yeah um 
+
+235.86 238.62 B: i i didn't know about that uh 
+
+238.74 241.78 B: you know that would be something if what you're telling me is true 
+
+241.96 245.02 B: uh i would feel better if um 
+
+246.07 248.01 B: you know if they did something 
+
+248.28 250.41 B: to increase security that way 
+
+250.16 251.26 A: (( mhm right )) 
+
+250.64 255.35 B: you know and uh i think that would lead to safer airplanes if what you're telling me is true 
+
+255.38 260.38 B: but i've you you know i i've never heard of that before so uh 
+
+260.02 273.72 A: i think some people have uh they're trying to put a bill into congress and they're of of course the all the shipping companies are arguing with them because that'll make their prices go up and the time be longer and then they'll be less competitive with ground shipping so 
+
+272.24 282.19 B: oh and who who are your congress people there uh i i know you got well you know uh that's you actually have hillary clinton as a senator right and 
+
+280.89 289.62 A: yes she's a junior senator and chuck schumacher schumer is the the senior senator 
+
+289.87 291.16 A: um 
+
+292.24 296.35 A: [lipsmack] gosh i don't even know who who is representative in the house of rep 
+
+296.30 299.73 B: you you uh do you know who's sponsoring that bill even or 
+
+299.11 301.96 A: oh i don't think it's a new york um 
+
+301.51 302.14 B: mm 
+
+301.93 315.21 A: senator or congress person who's sponsoring it necessarily i forget who it was who was trying to sponsor a bill i don't think it was actually on the floor it [noise] yeah but they were trying to introduce it [lipsmack] i forget who 
+
+315.06 320.35 B: it's it's probably not a massachusetts congress person who'd do this but um 
+
+318.35 319.89 A: (( [laughter] )) 
+
+320.55 324.47 B: (( i i mm hm )) 
+
+320.66 326.65 A: probably somewhere where there's not a bunch of companies that ship stuff in the uh ship stuff by air 
+
+327.70 335.67 B: yeah well [laughter] yeah uh you know that's something i'd be in favor of i mean if if you know if what you're saying is accurate that you can just 
+
+335.40 336.57 A: right 
+
+335.76 338.92 B: put a bomb on an airplane without much difficulty 
+
+338.94 347.15 A: well you have to be able to get it [noise] you'd have to be able to have access to uh something that's going to be shipped like as freight 
+
+339.09 340.07 B: then uh 
+
+347.37 353.09 A: so you're going to have to like either work at the company that's pack that's sending the stuff or 
+
+351.94 352.70 B: mm 
+
+353.52 355.12 A: (( somehow )) 
+
+355.29 360.38 A: i don't know like i think it's mostly commercial shipments so it's probably a bit more difficult to access 
+
+360.05 361.45 B: huh 
+
+360.91 364.96 A: you know like they're they're shipping larger items um 
+
+363.87 368.99 B: yeah you you know who my congress person here is is it's uh nancy pelosi 
+
+368.60 370.59 A: mhm 
+
+369.18 371.82 B: i don't know if you're you know that up on 
+
+370.94 371.71 A: (( don't know )) 
+
+371.91 375.35 B: politics and current events and that kind of thing but she's the uh 
+
+375.42 377.99 B: the minority leader you know she's the 
+
+378.14 384.34 B: the the leading democrat in the in the house of representatives i mean of the minority of the dem- what's that 
+
+378.49 379.50 A: in the house 
+
+380.85 382.48 A: is she is she the whip 
+
+383.72 386.05 A: right is she the the minority whip 
+
+385.53 387.27 B: no no minority leader 
+
+387.09 388.10 A: right 
+
+387.43 390.12 B: uh maybe it was dick army 
+
+390.26 394.50 B: that uh she stepped in for or i know that dick uh park was a 
+
+392.24 392.90 A: (( park )) 
+
+394.86 399.23 B: you know was a was up there on for the democrats also but 
+
+398.71 404.24 A: the democrats depress me so much i can't really follow electoral politics these days i have to say [laughter] 
+
+400.59 401.22 B: (( uh )) 
+
+403.55 407.43 B: yeah well the yeah the republicans kinda took over this uh 
+
+407.89 411.41 B: you know i mean it's just republican all through the federal government 
+
+410.77 418.36 A: yeah it's crazy it's uh they have they have house wait do wait do they have [noise] they they have all three 
+
+418.75 423.13 A: branches now not branches but do they have the house and the senate 
+
+418.90 419.82 B: um 
+
+422.35 423.59 B: um 
+
+423.63 434.37 A: who switched i remember right after the elections one of the republicans switched and gave the democrats a one person lead but then i think there were new elections and they lost that 
+
+429.26 429.88 B: (( [noise] )) 
+
+430.85 431.58 B: (( yeah [noise] )) 
+
+434.19 438.52 B: yeah there was there was both a a um it's that's that's it was both a 
+
+438.74 449.92 B: a i mean right know both the senate and the house are republican you know and they're it's just you know there's it's just all through but this state is is uh democratic 
+
+442.36 444.15 A: right right right 
+
+449.58 450.75 A: right 
+
+450.09 451.99 B: you know it's uh but uh 
+
+452.62 458.97 B: but but but here we're on a record record budget it's like a thirty five plus billion dollar 
+
+459.13 469.10 B: debt that the uh that the state's run up [laughter] and it's kinda frightening [laughter] you know what i mean but i i guess california has the the uh the fifth largest economy in the world 
+
+468.59 470.37 A: (( [noise] right )) 
+
+469.38 470.51 B: so uh 
+
+470.62 473.24 B: you gotta look at things on that scale you know uh 
+
+473.63 475.75 B: [sigh] oh but um 
+
+476.63 482.19 B: you know i i don't know of any terrorist incidents on airplanes here in california so 
+
+482.28 485.53 B: you know maybe heightened airline security 
+
+485.67 492.27 B: uh is not all that important uh here in this state you know um 
+
+492.06 505.92 A: i'd like to compare i mean i don't mind the security checks that people have to go through i mean i fly a fair bit and i've gone through them a lot and they don't bother me i'd like to compare to somewhere like israel where they have who always have like heightened security 
+
+505.73 510.08 A: so and see like how intensive it is in comparison to that 
+
+509.82 514.57 B: yeah i mean i i mean i ri- right where we live in mm uh 
+
+512.15 521.17 A: or maybe i'm just in court [laughter] in courts a lot that like i have to go through the same kind of checks that are similar to airplane checks but i mean they're not like that big of a deal 
+
+521.19 523.49 A: you know it doesn't seem to 
+
+524.08 528.50 A: i don't know how effective it is but it doesn't seem to really be that much of a bother 
+
+528.34 534.66 B: [sigh] yeah i mean like you know i i made one phone call already on this earlier so this is my second phone call 
+
+534.67 540.24 B: and towards the end of the phone call like i started to comment that i would feel better if they put 
+
+540.28 546.67 B: a guard near the cabin where the pilot and the copilot and the you know those people are 
+
+546.75 550.30 B: and then uh maybe a guard towards the rear of the airplane 
+
+550.07 551.24 A: (( mhm right )) 
+
+550.78 552.64 B: you know and and uh 
+
+552.50 562.42 A: well do they have the cabins locked now they were trying to get permission for the cabins to be locked and for the the uh pilots to be armed i remember 
+
+562.11 564.50 B: mm well yeah i mean hopefully there'd be a 
+
+564.78 569.83 B: you know hopefully they took at least an extra step after the you know the september eleventh 
+
+569.80 570.74 A: right 
+
+570.43 575.67 B: uh incident and you know uh as far as locking the cabins and that kind of thing 
+
+575.97 583.90 B: but uh i i don't know how far you can go with that sort of thing and i mean i'm i'm confident that they have professionals who have 
+
+585.00 587.32 B: put hours and weeks and months into 
+
+587.43 590.46 B: you know uh analyzing 
+
+591.01 595.71 B: uh airplane security and and moving towards the the uh uh 
+
+592.69 593.91 A: right 
+
+596.64 598.69 B: the best uh 
+
+599.03 599.92 B: you know the best 
+

@@ -1,0 +1,637 @@
+# fe_03_00062.sph
+# Transcribed by BBN/WordWave
+
+0.00 0.53 B: (( hello )) 
+
+0.10 1.27 A: hello 
+
+1.67 2.42 B: (( hello )) 
+
+2.21 3.39 A: hey how are you 
+
+3.38 4.61 B: (( hi how are you )) 
+
+4.36 5.29 A: good 
+
+5.19 7.77 B: um m- my name is salvo what's yours 
+
+7.78 9.07 A: pardon me 
+
+9.11 11.08 B: my name is salvo what's yours 
+
+10.82 12.40 A: oh my name is david 
+
+12.32 13.23 B: (( david )) 
+
+12.93 13.97 A: yeah 
+
+13.41 14.09 B: (( cool )) 
+
+14.48 19.23 A: so what do you think is is the worst personal habit 
+
+17.98 18.93 B: uh 
+
+19.29 22.02 B: (( the worst i would say i don't know )) 
+
+23.04 24.71 B: (( probably )) 
+
+24.90 26.38 B: (( what was the first one )) 
+
+26.62 28.05 A: i think it was 
+
+28.13 29.66 A: gossiping 
+
+29.06 30.29 B: gossiping 
+
+30.30 31.18 B: (( mm )) 
+
+31.84 33.42 B: probably smoking 
+
+33.14 34.30 A: smoking 
+
+34.08 36.22 B: yeah do you smoke 
+
+35.16 37.91 A: yeah i do smoke do you 
+
+37.93 40.73 B: (( [mn] no i don't i don't like it so much )) 
+
+39.03 39.95 A: you don't 
+
+40.61 41.43 A: (( oh )) 
+
+41.98 44.89 A: yeah um yeah i know it's bad 
+
+45.10 47.23 A: um but 
+
+47.38 50.54 B: i mean it's not bad i mean compared to the other ones 
+
+50.82 53.32 B: (( all the other things are bad for you [mn] )) 
+
+53.71 55.12 A: yeah um 
+
+57.46 61.47 A: mm yeah i think i think i think gossiping is worst 
+
+62.00 62.89 B: (( no )) 
+
+63.75 66.00 A: 'cause the other stuff 
+
+63.97 64.91 B: (( well )) 
+
+66.01 71.50 A: [cough] i mean for the most part i think the other stuff um 
+
+72.20 75.42 A: you know is basically just stuff you do to yourself 
+
+75.85 77.04 B: (( right [mn] )) 
+
+76.45 82.06 A: but i guess gossiping you do to other people it affects other people 
+
+82.27 85.61 A: i mean you know i know secondhand smoke and everything but 
+
+85.64 88.61 A: like gossiping is more about other you know what i mean 
+
+88.44 90.55 B: (( yeah yeah )) 
+
+89.88 91.07 A: (( i don't know though )) 
+
+91.46 98.14 B: uh probably smoking yeah oh probably gossiping is really bad if i think about it [mn] 
+
+95.88 97.69 A: [mn] yeah it is i mean 
+
+98.33 102.41 A: yeah when people start like you know talking oh it's awful 
+
+103.12 104.66 B: right 
+
+104.26 105.32 A: um 
+
+106.64 108.77 A: i don't know where are you calling from 
+
+108.66 111.34 B: (( i'm calling from massachussetts )) 
+
+111.36 112.88 A: massachussetts 
+
+112.53 113.46 B: (( where are you )) 
+
+113.28 114.81 A: i'm in philadelphia 
+
+114.99 115.55 B: (( [mn] )) 
+
+117.49 118.40 A: (( oh )) 
+
+117.56 121.77 B: (( yeah you know what i i've been finding about these topics they're )) 
+
+121.76 122.88 A: what 
+
+121.91 123.98 B: (( not not very interesting to )) 
+
+123.81 125.16 A: they're not 
+
+124.10 124.79 B: (( talk )) 
+
+124.96 126.56 B: (( [mn] well you know )) 
+
+127.18 129.49 B: (( i know what else can you say about that )) 
+
+129.06 131.65 A: yeah i know yeah um 
+
+132.52 134.77 A: [mn] right did you guys get a lot of snow 
+
+135.25 142.24 B: (( yeah today we got no today we didn't get any snow at all it was yesterday and the day before )) 
+
+136.28 137.28 A: (( yes mm )) 
+
+143.69 145.33 B: there was like three inches it 
+
+145.71 146.68 A: okay 
+
+146.50 147.40 B: (( wasn't bad )) 
+
+147.59 150.86 A: yeah we got a lot i mean we're not used to it 
+
+150.89 152.48 A: getting snow s- 
+
+151.39 153.28 B: (( oh yeah )) 
+
+152.72 154.23 A: so everyone 
+
+154.47 157.45 A: kinda pa- i mean we got like i guess like eight inches 
+
+157.68 160.66 B: (( wow i heard you don't get too much snow )) 
+
+160.59 161.52 A: pardon 
+
+161.59 164.83 B: i heard you you don't get much snow in that area 
+
+164.41 165.42 A: really 
+
+165.55 167.27 A: i thought it was a lot 
+
+165.77 166.64 B: (( well )) 
+
+167.63 170.79 B: i mean that you don't get so much snow in the 
+
+169.89 172.21 A: oh no yeah we don't 
+
+171.63 176.17 B: so you are not used to it so everything gets closed and 
+
+173.22 175.13 A: exactly 
+
+175.54 179.95 A: yeah like everybody you know everything's closed down and everything 
+
+179.14 182.89 B: (( you don't you don't have the equipment to to deal with )) 
+
+181.64 184.32 A: yeah right 
+
+183.67 184.88 B: that 
+
+184.74 189.09 A: yeah i i can't stand it it's just it's just a major inconvenience [mn] 
+
+189.75 190.38 B: (( [mn] [mn] )) 
+
+189.89 190.82 A: um 
+
+192.07 194.22 A: but well do you exercise 
+
+194.62 198.45 B: i do exercise i've i've been trying to 
+
+198.11 200.04 A: mhm 
+
+199.54 201.41 B: (( i i don't seem very )) 
+
+202.54 203.86 B: (( successful )) 
+
+203.68 205.05 A: yeah 
+
+204.51 206.53 B: uh i i 
+
+207.06 210.92 B: uh i try to go to the gym at least a couple of times a week 
+
+210.33 211.65 A: right 
+
+211.51 212.74 B: (( do you exercise )) 
+
+212.70 216.85 A: um well what i do i have a dog so 
+
+217.11 218.15 B: (( you walk [noise] )) 
+
+217.19 218.54 A: i have to 
+
+218.63 222.62 A: i have an active dog so i have to run with it every morning 
+
+222.72 223.62 B: wow 
+
+224.07 229.92 A: so i guess you know i do exercise but it's more like work [laughter] 
+
+229.59 230.71 B: [laughter] 
+
+230.97 231.95 A: you know 
+
+231.85 232.76 B: yeah 
+
+232.05 234.19 A: like um 
+
+234.56 236.76 A: i mean i don't pardon 
+
+234.85 236.73 B: (( what about )) 
+
+236.75 238.29 B: what about overeating 
+
+238.92 242.70 A: oh oof i could overeat every day of my life [laughter] 
+
+242.21 243.60 B: (( really [laughter] )) 
+
+243.58 244.62 A: um 
+
+244.68 247.74 A: when i got married i gained like sixty pounds 
+
+248.15 249.70 B: (( sixty pounds )) 
+
+249.32 252.41 A: sixty in two years 
+
+250.90 251.79 B: (( wow )) 
+
+253.81 256.01 A: i lost it all again 
+
+254.19 254.75 B: (( [mn] )) 
+
+255.53 257.49 B: (( d- do you recommend to get married )) 
+
+257.31 258.15 A: pardon 
+
+257.55 261.21 B: [laughter] do you recommend anyone to get married [laughter] 
+
+260.74 261.84 A: no 
+
+261.87 263.05 B: [laughter] 
+
+262.67 269.75 A: i fight with my wife all day and you know i gained all that weight i was like god almighty what did i do to myself 
+
+270.25 272.63 B: (( [mn] wow yeah )) 
+
+270.32 271.25 A: (( you know )) 
+
+271.86 274.94 A: i was a happy person three years ago [laughter] 
+
+274.79 277.91 B: (( [laughter] i don't know )) 
+
+277.00 277.86 A: but 
+
+278.10 284.43 B: i'm in kind of that similar situation i'm n- i'm not married but i live with i live with my girlfriend 
+
+281.52 282.47 A: okay 
+
+283.80 284.75 A: okay 
+
+284.94 286.97 B: um it's kinda hard to live with someone 
+
+287.45 297.23 A: yeah you know yeah it is um it really is i don't know what i was i don't know i mean days like today i'm like i don't know what the hell i was thinking [laughter] 
+
+297.28 298.96 B: [laughter] 
+
+300.30 305.90 A: yeah but my wife's a lot younger than i am so i think that might 
+
+306.74 307.66 A: uh 
+
+306.97 308.75 B: (( really so how many years younger )) 
+
+308.53 309.43 A: pardon 
+
+309.48 310.65 B: what did you say 
+
+310.62 313.16 A: oh i said my wife's a lot younger than i am 
+
+312.81 313.84 B: (( oh okay )) 
+
+314.51 317.80 A: so i think that might be a you know part of the problem 
+
+317.68 320.22 B: (( mm what's the age difference )) 
+
+320.01 321.72 A: uh fifteen years 
+
+321.73 322.62 B: (( wow )) 
+
+322.85 323.77 A: so 
+
+324.43 326.69 A: i'm forty she's twenty five 
+
+327.43 328.35 B: (( oh )) 
+
+331.08 334.22 A: i thought i was doing the right thing [laughter] 
+
+334.23 335.22 B: (( what right )) 
+
+335.04 339.42 A: no i said i thought i was doing the right thing but you know 
+
+340.32 343.64 A: it's hard sometimes it's really hard living with somebody i mean you know 
+
+343.79 348.73 B: (( yeah yeah just tell me i don't know i don't know what right )) 
+
+348.93 353.58 B: sometimes do you you just want to be by yourself and it's really hard to 
+
+352.20 353.37 A: yeah 
+
+353.51 355.04 A: right i know 
+
+354.65 355.70 B: (( you just )) 
+
+355.09 356.92 A: right it's it's 
+
+356.27 357.75 B: don't want to 
+
+357.94 360.97 B: you just don't want to talk to anybody and a 
+
+360.42 370.95 A: right yeah that's the way i get especially after like a har you know a not a hard a hard day at work and you know i just wanna come home and watch t._v. or something 
+
+364.05 366.06 B: hard day at work and 
+
+370.82 372.76 B: (( right )) 
+
+372.22 373.73 A: and not have to 
+
+374.31 380.27 A: you know talk talk talk talk talk talk and then talk about having children [laughter] 
+
+374.46 376.20 B: (( be all [mn] [laughter] )) 
+
+379.95 382.84 B: (( oh that's the hardest talk [mn] )) 
+
+382.49 385.49 A: yeah it's a hard talk [laughter] you know 
+
+385.60 386.69 A: um 
+
+387.50 388.68 B: (( what do think )) 
+
+387.72 396.29 A: i mean i guess if you're not if you're not i i guess if you're not married it must not be that difficult but i mean you can at least say well we have to get married first 
+
+396.36 399.99 A: but if you're already married it's tough talk you 
+
+400.23 401.43 B: right 
+
+401.73 403.31 B: so you don't wanna have children 
+
+402.74 406.43 A: know no i you know i don't i'm somebody that uh 
+
+407.45 409.18 A: i don't um 
+
+410.34 412.91 A: i don't m- i i'm not you know 
+
+413.37 424.06 A: yeah i wanna have children but i'm somebody it's just gotta happen you know like i can't plan like i can't say well in ninet- you know in two thousand and five we're going to have children 
+
+424.40 427.47 A: and then like start to get my life in ord- you know what i mean 
+
+427.17 428.61 B: (( right )) 
+
+427.97 430.85 A: i gotta be like okay it's happening you know 
+
+430.98 436.87 A: what's this you know it it happens but um i can't plan it my wife likes to plan things 
+
+437.36 438.30 B: (( [mn] right )) 
+
+438.98 439.71 A: (( [mn] you know )) 
+
+440.00 441.02 A: (( which uh )) 
+
+440.15 444.03 B: mm yeah i don't know i i just i just don't even think about it 
+
+443.63 450.34 A: i don't either it just never enters my like i you know i have a hard time thinking about uh monday [laughter] you know 
+
+444.80 445.81 B: but 
+
+446.47 447.42 B: (( right [laughter] )) 
+
+450.50 456.67 A: let alone having something like having children it's hard for me i mean i guess that's you know 
+
+456.56 458.60 B: (( [mn] yeah no i can understand )) 
+
+458.01 461.12 A: my personality but it's uh 
+
+461.46 462.68 A: (( difficult you )) 
+
+464.16 465.11 A: (( know [noise] but uh )) 
+
+466.73 468.06 A: (( it's uh you know )) 
+
+467.34 469.19 B: (( that is this the first time you you are )) 
+
+469.50 470.37 B: (( working the uh )) 
+
+470.04 471.48 A: yeah 
+
+470.89 472.61 B: y- your first phone call 
+
+472.15 475.32 A: yeah how did you hear about this 
+
+475.25 481.85 B: i hear about it because um i work for a research centre 
+
+481.63 482.82 A: (( oh okay )) 
+
+482.58 484.75 B: and they use 
+
+485.07 486.03 B: some of the 
+
+486.27 489.35 B: information that these conversations produce 
+
+488.95 490.47 A: oh okay 
+
+490.90 491.58 B: (( so )) 
+
+491.51 492.90 A: yeah 
+
+492.29 493.73 B: (( that's how i hear about it )) 
+
+493.50 498.21 A: yeah i'm at the same university that they're at so i got yeah i got 
+
+496.28 497.20 B: (( oh really )) 
+
+497.65 499.13 B: what field are you in 
+
+498.69 500.37 A: i'm in g- german 
+
+500.28 501.22 B: (( german )) 
+
+500.91 508.40 A: yeah just i i teach i'm not i'm not tenured or anything like that but i just uh i teach a few classes [mn] 
+
+505.15 505.90 B: (( mm )) 
+
+508.54 510.25 B: do you teach german 
+
+509.96 511.29 A: yeah 
+
+510.79 513.41 B: (( oh do you live in germany mm )) 
+
+512.92 520.68 A: i did back oof uh in i mean i did i went to one year of university there and then 
+
+520.85 521.93 A: um 
+
+522.55 527.22 A: i've been off and on my mom's german so that's how i know it i mean so 
+
+525.74 526.77 B: (( oh oh [mn] )) 
+
+527.29 530.64 A: um i mean that's how i started i didn't 
+
+530.77 534.00 A: you know i would go over to see family and stuff like that but 
+
+535.06 535.95 A: um 
+
+536.39 537.23 A: i didn't 
+
+537.37 540.61 A: i i learned it from from from her really 
+
+541.83 542.66 A: (( um )) 
+
+543.17 544.29 A: yeah but it's 
+
+544.97 546.14 A: it's fun 
+
+546.94 551.26 A: i gue- i mean i'm glad this classes ended on friday so i'm really glad 
+
+550.33 552.37 B: (( oh me too [laughter] )) 
+
+551.79 553.01 A: [laughter] 
+
+553.15 555.03 B: (( i have time until they )) 
+
+554.95 564.55 A: yeah just exams i mean i hate and i hate grading exams too that's you know i think they should've added laziness as a bad habit because i was i'm lazy [laughter] 
+
+565.15 566.15 B: (( [laughter] )) 
+
+565.69 574.74 A: [laughter] you know that's a personal habit that i would agree is pretty bad but it's so fu- i just oh i hate grading exams 
+
+575.69 576.75 B: (( [noise] yeah i know )) 
+
+577.26 579.38 A: i'd almost rather take an exam 
+
+577.77 578.57 B: (( my )) 
+
+580.59 581.73 A: than grade it 
+
+580.87 584.51 B: (( [laughter] maybe you should do 'em i don't know orally maybe )) 
+
+584.42 585.32 A: pardon 
+
+585.18 586.89 B: you should do them orally 
+
+587.40 589.34 A: i i'm so- i'm sorry i didn't hear you 
+
+589.59 594.35 B: like you you should do an exam just ask questions to students i don't 
+
+593.75 595.39 A: yeah i know 
+
+595.67 604.39 A: i do that sometimes in some of the upper level classes it's hard in the um in the lower level yeah the oral exam is always good [laughter] you know 
+
+601.26 601.87 B: (( know )) 
+
+604.69 606.51 B: (( [mn] yeah )) 
+
+606.86 607.59 A: but 
+
+608.73 610.06 B: (( do you do you )) 
+
+608.73 611.39 A: which which research company do you work for 
+
+611.47 615.23 B: it's not a c- it's not a company i work for uh the university 
+
+614.70 615.89 A: oh which one 
+
+615.96 617.73 B: university of massachussetts 
+
+617.48 618.65 A: oh okay 
+
+618.53 619.69 B: (( amherst )) 
+
+619.40 620.33 A: okay 
+
+620.45 622.33 A: (( and hows that )) 
+
+622.24 623.36 B: (( yeah it's fun )) 
+
+623.60 624.74 B: (( it's okay yeah )) 
+
+625.27 629.43 B: i work full time and i go part time to 
+
+629.45 630.32 B: (( university )) 
+
+630.35 631.25 A: okay 
+
+631.53 632.47 A: oh that's 
+
+632.85 635.26 A: oh that's that's good do you get like uh 
+
+635.33 636.54 A: tuition 
+
+636.41 641.67 B: (( yeah i get the tuition benefit and they pay me reasonably well )) 
+
+641.72 644.65 A: that's that's pretty good the tuition 
+
+643.18 644.47 B: (( yeah it's a good deal )) 
+
+645.06 646.72 A: the uh the tui- 
+
+645.73 646.63 B: (( mm [mn] )) 
+
+647.19 652.01 A: i know at here at penn not not enough people take advantage of that you know 
+
+651.88 652.70 B: (( uh-huh )) 
+
+652.31 653.82 A: i mean that's why they 
+
+654.41 657.95 A: that's why universities pay such low salaries [mn] 
+
+658.73 663.59 A: you know you gotta t- if you know i i'll always tell people to take advantage of that stuff 
+
+664.61 666.00 B: (( yeah it's a good finance rate )) 
+
+666.25 670.17 A: mhm what what are you going for what are you taking classes for 
+
+666.81 667.53 B: (( otherw- )) 
+
+668.60 669.16 B: (( [cough] )) 
+
+669.36 671.41 B: um i'm in computer science 
+
+671.21 672.06 A: okay 
+
+672.73 673.74 B: (( um you know )) 
+
+674.03 675.02 B: (( a masters )) 
+
+675.19 676.58 A: oh okay 
+
+678.36 681.62 A: did you did you was that your major as an undergraduate 
+
+681.03 684.42 B: (( no i i did industrial engineering )) 
+
+683.90 684.84 A: okay 
+
+684.82 687.18 B: (( and then i i don't know why i ch- )) 
+
+687.40 689.62 B: (( [mn] it just happened i guess it was )) 
+
+690.21 691.84 B: (( the economy [mn] i )) 
+
+690.36 691.12 A: oh 
+
+692.01 693.94 A: yeah 
+
+692.82 695.37 B: end up working with computers and then 
+
+695.69 697.62 B: (( i go well is there a masters )) 
+
+698.56 701.48 A: yeah it 
+
+699.86 700.42 B: (( [cough] )) 
+
+700.78 704.96 B: there's it's really hard to find a job in industrial engineering 
+
+704.45 709.05 A: yeah i c- yeah i can imagine it's hard to find a job in german 
+
+708.77 710.27 B: (( [cough] right [mn] )) 
+
+710.05 715.33 A: [mn] [mn] um yeah i can't you know i was thinking the other day i was finished uh 
+
+711.80 712.67 B: (( oh )) 
+
+713.57 714.55 B: (( that's what )) 
+
+715.23 719.27 B: i'm fro- i been i'm not from here i'm i'm from colombia 
+
+718.97 719.90 A: oh okay 
+

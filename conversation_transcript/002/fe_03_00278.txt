@@ -1,0 +1,419 @@
+# fe_03_00278.sph
+# Transcribed by BBN/WordWave
+
+0.13 1.20 B: hi 
+
+1.34 2.49 A: hi 
+
+2.39 7.16 B: um my name's dave pallet i work at newst in gattersberg maryland who are you 
+
+7.23 12.50 A: uh my name is jennifer i work actually at the university of pennsylvania where this study's being done 
+
+9.07 9.88 B: (( huh )) 
+
+12.23 15.33 B: well how about that it's a small world 
+
+12.99 14.30 A: so how 
+
+15.01 18.08 A: how'd you find out about the study where are they recruiting 
+
+17.23 19.41 B: oh i'm in the 
+
+19.46 20.53 B: in the club 
+
+20.88 22.12 A: you're in the club 
+
+21.32 28.99 B: [laughter] yeah nist had a role in uh the ears program for which this data's being collected 
+
+22.72 23.59 A: [laughter] 
+
+28.79 35.59 A: do you to what purpose this data is being used people have asked me about that because i've been telling my friends to enroll for the study 
+
+34.90 39.32 B: yeah it's being used to develop models for conversational speech recognition 
+
+39.18 50.57 A: that's what i thought and so you know they they're wanting samples where for example we talk over each other correct i mean and and and no but i mean uh to see if like a conversational sort of 
+
+45.13 47.00 B: well not necessarily 
+
+50.55 55.31 A: speech recognition software would be able to handle those sort of real life events correct 
+
+54.23 62.59 B: well i think one of the other things that's interesting is uh the the study of disfluencies you notice i stuttered a little bit there an- and that will be 
+
+61.67 63.58 A: oh right right 
+
+62.65 65.68 B: that'll be annotated [laughter] by your colleagues 
+
+65.45 66.35 A: oh 
+
+66.49 67.50 B: anyway 
+
+67.13 67.88 A: (( so )) 
+
+68.01 69.43 B: airport security 
+
+68.09 73.01 A: (( well listen i'm not no they're not actually my colleagues i mean i work at the university but i don't have anything to do with the linguistic data )) 
+
+73.47 83.64 B: oh well they collect data and transcribe it and annotate it and distribute it to um linguistic data consortium members 
+
+83.83 87.95 A: i see there's actually a person transcribing all of this 
+
+88.25 91.34 B: oh my there's a a covey of them 
+
+90.72 102.16 A: i would imagine it would take covey goodn- 'cause this would take a coven it would take like you know samantha twinkling her nose and saying okay transcribe now dah dah dah dah dah you know 
+
+93.89 95.15 B: yeah 'cause [laughter] 
+
+97.95 99.29 B: [laughter] 
+
+101.16 103.76 B: yeah airport security 
+
+103.30 105.86 A: airport security [laughter] 
+
+104.22 107.59 B: yeah [laughter] yeah i 
+
+106.78 109.28 A: i don't know i'm due to fly in a week how 'bout you 
+
+109.21 117.59 B: uh i'm not gonna fly uh i guess for another month or so but i'll tell you i was in europe at the time of uh nine eleven 
+
+113.14 114.40 A: mhm 
+
+117.26 118.54 A: oh really 
+
+117.94 121.12 B: and uh was visiting relatives in norway 
+
+120.97 121.97 A: mhm 
+
+122.21 123.93 B: and uh [sigh] 
+
+123.44 124.43 A: (( wofta )) 
+
+124.60 125.67 B: sorry 
+
+125.35 126.46 A: (( wofta )) 
+
+126.54 137.94 B: [laughter] yeah lofta uh oofta i was uh out seeing some i don't know historic stuff and we came back to the farm where my relatives live 
+
+128.10 129.13 A: (( mhm )) 
+
+138.00 146.75 B: and somebody came out and said have you heard about the the airport crash or the you know air crash into the world trade center 
+
+145.35 146.29 A: mhm 
+
+146.83 148.17 B: and i said no 
+
+148.30 155.97 B: and they said well it's happened you know and described it briefly and i said oh i really miss not being able to see c._n._n. 
+
+156.09 158.92 B: because my hosts didn't have c._n._n. 
+
+159.14 163.37 B: and he said well we have it [laughter] he was in an adjoining farm 
+
+163.63 169.64 B: and so i spent about two days maybe three days watching c._n._n. and just 
+
+168.94 169.66 A: (( oh )) 
+
+169.78 173.43 B: being uh appalled and astonished 
+
+172.45 174.17 A: right right 
+
+173.73 176.22 B: and then i tried to get back to the states 
+
+176.07 176.80 A: oh 
+
+177.24 178.76 B: it was um 
+
+180.16 185.26 B: it was uh an adventure i went from oslo to to uh 
+
+185.41 186.52 B: copenhagen 
+
+186.33 187.33 A: mhm 
+
+187.16 189.59 B: uh which i'd been scheduled to do 
+
+189.88 194.02 B: uh i did it a couple of days later than had been scheduled 
+
+194.25 202.02 B: and then when i got to copenhagen they said well we n- we're not sure we can get you back to the united states but we can probably get you as far as london 
+
+202.53 203.51 A: mhm 
+
+203.01 205.97 B: [laughter] so i went to london and uh 
+
+206.31 213.71 B: uh i missed my connection i i was told uh that was at heathrow 
+
+209.14 210.12 A: aye 
+
+214.16 218.78 B: i was told that they could uh get me on a flight back to the states in a week 
+
+219.92 221.44 B: no sooner than a week 
+
+221.31 224.11 A: wow and so you were stuck in london for a week 
+
+224.04 225.77 B: yes what a hardship 
+
+225.52 227.94 A: [laughter] 
+
+227.27 236.88 B: [laughter] actually i called my office and explained the circumstance and they said well uh don't worry about the expense or anything uh just get back safely 
+
+236.77 237.70 A: wow 
+
+237.40 241.31 B: and uh so ah the i went to a hotel that the 
+
+241.71 243.96 B: uh airline had sent me to 
+
+244.03 247.12 B: and as it turns out i got the airline's rate 
+
+244.12 245.00 A: mhm 
+
+247.14 249.76 B: which was i think forty nine pounds 
+
+247.44 248.31 A: mhm 
+
+249.97 253.62 B: uh which is less than a hundred dollars a night 
+
+250.78 251.67 A: wow 
+
+252.63 253.60 A: right 
+
+253.74 256.57 A: that's very cheap for london i was just there this summer 
+
+255.91 259.18 B: yeah so i had a nice a nice visit in london 
+
+259.78 263.08 A: no and uh yeah all things considered right yeah 
+
+262.14 268.00 B: yeah i think the the thinking about the issues though i think the probability of 
+
+268.09 269.17 B: um 
+
+270.16 272.70 B: there being uh an air 
+
+273.30 281.61 B: problem that any one is personally involved with is is not much greater than it was before maybe a little less 
+
+277.09 277.95 A: mhm 
+
+280.20 280.97 A: sure 
+
+281.75 284.76 B: because of all the heightened security 
+
+284.17 294.51 A: yeah i think the heightened security a lot of it is you know show and no go i mean it's really they still haven't started xraying all luggage for example i mean 
+
+294.63 302.04 A: um yeah they they they they don't xray all checked luggage yet they still don't 
+
+301.33 304.49 B: oh well i tell you they did when i came back from london 
+
+303.64 309.96 A: so yeah um but you know they i mean a sort of domestic air flights now just they don't 
+
+304.94 305.93 B: uh 
+
+309.58 310.30 B: oh 
+
+310.19 313.80 A: they don't they they're they're they're not equipped to do this and um 
+
+313.85 315.42 A: (( [sigh] and it's )) 
+
+315.67 326.77 A: it's not i i read a great quote in the new york times yesterday morning because apparently someone in [lipsmack] uh had placed little boxes throughout the union square 
+
+326.94 332.84 A: station um they were tiny black boxes with the words beer inscribed on them 
+
+332.85 340.04 A: and they were there were there were several of them there were probably about a dozen of them and they were just placed in locations throughout the union square subway station 
+
+340.08 344.94 A: and they were affixed on walls and kind of up in corners and stuff like that 
+
+344.91 359.09 A: and so finally someone pointed out to the transit authorities these were there and and to the police and then they went in and they evacuated the station and everything and there was a comment from someone who was a graduate student in new york who was from israel and he 
+
+359.12 362.01 A: basically said something to the effect of you know 
+
+362.85 375.98 A: you people have an awful lot to learn like if this had happened in tel aviv ah we would have had a robot go in there and take care of it in five minutes either it would have detonated it or you know found out it was nothing and gotten it outta there the robot would have done it you know [laughter] 
+
+373.42 374.26 B: yeah 
+
+375.88 381.08 B: i don't know if they would have done it in five minutes though the the problem is uh one of scale 
+
+381.16 384.24 B: um if if you attack many 
+
+384.33 387.20 B: you know places at once ah 
+
+387.72 390.56 B: gee whiz uh one of them might go off 
+
+389.09 389.86 A: (( yeah )) 
+
+390.38 392.43 A: well you know when i was in london 
+
+392.53 393.30 A: um 
+
+394.05 398.06 A: i remember actually going to westminster abbey and uh 
+
+398.26 404.08 A: having uh had a sandwich i was trying to look for some place to dispose of a sandwich wrapper 
+
+403.61 404.82 B: (( mhm )) 
+
+404.20 409.92 A: um and i couldn't find any there was none in westminster station i looked around and then i looked around in the 
+
+410.01 417.39 A: all the street corners surrounding the station and when i got up above ground there were none and i walked over past the houses of parliament and there were no 
+
+414.07 415.29 B: oh that's right [laughter] 
+
+417.27 425.13 A: [laughter] and then i finally walked into westminster abbey and i walked to the information desk and i said i'm really sorry but uh is there some place i could find a trash can 
+
+425.14 437.30 A: and they promptly informed me that uh there was one rubbish rubbish bin outside the door but um if but that if but that 'cause i said honestly i really have been trying uh to 
+
+437.36 445.07 A: (( look for about twenty minutes for some place to uh discard this and i haven't been able to find any oh no there are no rubbish bins in the station )) 
+
+445.12 448.87 A: (( and then they said it's a perfect place to place an i._r._a. bomb )) 
+
+445.48 447.17 B: well i had that in london 
+
+448.66 452.32 B: yeah it's an i._r._a. thing their their 
+
+450.55 451.80 A: oh totally 
+
+452.62 456.74 B: their security is heightened by the irish terrorism 
+
+456.41 463.22 A: right oh well their se- you know our security just is laughable compared to theirs you know and they still have bombs going off so 
+
+463.27 467.42 A: um i mean if somebody really wanted to do it and what american's don't understand 
+
+467.87 470.90 A: [laughter] i think is that uh 
+
+471.90 474.87 A: okay you make it more difficult but 
+
+475.15 477.08 A: it's sort of like these sorts of 
+
+477.53 478.38 A: uh 
+
+478.62 480.86 A: plans take a lot of patience 
+
+481.18 485.40 A: and also a lot of persistence and sort of like okay well now 
+
+485.51 499.25 A: you know you're just gonna have to be more careful to do something like this but if if if we're not actually screening all the luggage okay as you say just send in you know eighteen in- incendiary devices in the luggage and if oh 
+
+499.28 501.58 A: five of them happened to be caught by random 
+
+502.00 503.84 A: thirteen of 'em still go off 
+
+503.48 505.08 B: yeah 
+
+505.22 514.19 A: it's just yeah no i don't particularly think of airport security as all that great you know on the other hand it's sort of like what really are the odds 
+
+514.51 523.08 A: of uh you know you're buying it and you get in a vehicle off the lot it's a lot greater if you get into a car than if you get in a plane that's still statistically true 
+
+523.49 528.00 A: so i mean i- it remains you know quite statistically true so 
+
+527.16 529.13 B: (( yeah [laughter] )) 
+
+528.79 529.66 A: um 
+
+529.91 533.56 A: [mn] no but i don't think airport security's really terribly good 
+
+533.88 537.89 A: (( um still and uh i think that um )) 
+
+538.38 542.08 A: think it's just people being inconvenienced now but uh 
+
+542.48 545.06 A: (( i i'm not really sure )) 
+
+545.95 547.01 B: well i think 
+
+546.19 548.07 A: how much better security is 
+
+546.90 557.34 B: what's desirable is to have some security measures that do provide some deterrent and and yet that people will accept 
+
+553.88 554.79 A: right 
+
+557.17 558.20 A: right but 
+
+557.21 565.89 B: and we're just ridiculously uh free and open about travel and you know i was at um 
+
+562.28 563.07 A: right 
+
+563.09 564.26 A: right 
+
+566.51 569.13 B: mcdonald's yesterday morning f- 
+
+569.25 576.37 B: to get some breakfast stuff i don't normally do that but we didn't have electric power in our house so 
+
+570.94 571.76 A: (( mhm mhm )) 
+
+572.58 573.67 A: mhm 
+
+577.16 587.98 B: so uh there's a woman ahead of me in line with two children uh that was ordering her breakfast and it came to ten dollars and fifty six cents if i remember 
+
+588.13 594.09 B: and uh she looked at the money she had and she had said i only have nine dollars 
+
+588.31 589.12 A: mhm 
+
+594.37 595.25 A: mhm 
+
+594.72 601.52 B: a- and uh the man uh ahead of me just reached in his wallet and han- handed her two dollars 
+
+601.97 606.25 B: we're just i mean a generous society 
+
+601.99 602.84 A: mhm 
+
+605.57 608.22 A: mhm yeah we're an open society basically 
+
+606.91 607.68 B: yeah 
+
+608.55 610.31 A: so um 
+
+610.40 622.41 A: and the paradox that people don't understand is that we're an open society within our with our within our own borders but that part of the reason i think why this has been happening is because 
+
+622.43 624.97 A: um the way that things happen here 
+
+625.16 629.95 A: is not the way that america handles our affairs in 
+
+630.23 635.11 A: on the world stage i mean america is known in many corners of the world as being incredibly 
+
+635.15 635.79 A: (( uh )) 
+
+636.58 639.52 A: repressive and and incredibly brutal 
+
+639.62 644.30 A: um and we do that in the name of preserving that kind of openness 
+
+643.96 644.86 B: yeah 
+
+644.20 654.71 A: within our own shores but we don't know what it looks like to other people we we we don't see that um and and it's when you start to live and travel abroad uh 
+
+654.99 662.44 A: i think you get a much better sense of that and that's the only america that a lot of that the that most people in the world know most people who are not us 
+
+662.15 663.42 B: mhm 
+
+662.83 663.44 A: (( um )) 
+
+663.65 665.09 A: and uh 
+
+665.14 670.42 A: it's it's this enormous paradox that we're willing to go to very extreme lengths of of 
+
+670.85 671.52 A: (( um )) 
+
+671.72 674.14 A: our our government certainly 
+
+673.05 674.89 B: you were born in the united states 
+
+674.59 676.26 A: (( i was i was )) 
+
+676.02 678.19 B: uh-huh and you've traveled abroad though 
+
+676.46 677.45 A: (( but ah )) 
+
+678.40 683.82 A: yeah and i've lived abroad as well but our government is is willing to go to um enormous 
+
+684.21 687.67 A: uh lengths in defensive um 
+
+687.86 690.51 A: [lipsmack] what we decide are american interests 
+
+690.23 694.73 B: how would you feel about going to a third world country like 
+
+690.86 692.22 A: (( um abroad )) 
+
+694.17 695.88 A: i did live in a third world country 
+
+695.44 697.75 B: uh one of the african states 
+
+697.54 700.34 A: (( no not one of the african states in asia yeah but uh )) 
+
+698.40 699.30 B: asian 
+
+699.73 700.59 B: uh-huh 
+
+701.85 706.34 A: you know and and so it's it's very hard for us to understand i think 
+
+706.42 719.90 A: a lot how what this what this looks like to other people you know [lipsmack] when you explain to american's like remember the popular kid in high school you know [laughter] remember the popular kids who seemed to have it all going on and you know seemed to always get what they wanted and 
+

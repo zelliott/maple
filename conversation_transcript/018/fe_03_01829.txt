@@ -1,0 +1,341 @@
+# fe_03_01829.sph
+# Transcribed by BBN/WordWave
+
+0.51 2.72 A: (( hello my name's craig )) 
+
+1.68 3.02 B: (( hi )) 
+
+3.23 5.58 B: (( how are you who am i speaking with )) 
+
+5.41 7.72 A: this is craig who's that 
+
+7.12 9.46 B: craig okay i'm darren [noise] good ah nice to 
+
+9.28 12.21 A: hi darren nice to nice meet you 
+
+12.15 15.06 B: (( meet you as well [mn] well it's education and computers and i i guess it's how [mn] computers play what part do )) 
+
+16.30 18.11 B: (( computers play in the education process i guess that's )) 
+
+16.65 17.98 A: (( ah what what )) 
+
+18.25 24.87 A: was the topic it's education ah specific was it specifically something or just general education 
+
+24.24 30.93 B: (( kinda [noise] my guess um i [cough] personally think that [noise] computers are extremely important in terms of being able to process and provide ah large amounts of information in a very short amount of time i think however that um sometimes they can misused ah i know that i um )) 
+
+27.64 29.03 A: oh okay [noise] 
+
+30.98 33.48 B: (( and have been involved in the education ah ah field as a )) 
+
+33.50 35.18 B: (( teacher and i've seen kids )) 
+
+34.72 36.25 A: (( [noise] ahah okay [noise] [noise] [noise] )) 
+
+35.68 38.59 B: (( play games and do other things when they're supposed to be doing academics types )) 
+
+38.67 40.36 B: (( of stuff )) 
+
+40.47 45.14 B: (( types of things they're playing games and doing other things so i think they can be primarily for )) 
+
+45.30 47.89 B: (( the most )) 
+
+48.96 52.37 B: (( part i think they're a major advantage but what about you oh )) 
+
+53.03 54.71 B: (( [laughter] he wants to )) 
+
+55.84 57.46 B: (( give his input too )) 
+
+57.73 58.92 B: (( oh oh )) 
+
+58.97 59.53 B: (( [laughter] )) 
+
+59.93 65.03 B: (( um [noise] i have to say i i think computers are a wonderful power tool )) 
+
+65.06 67.66 B: (( but that we're still doing some catching up )) 
+
+68.54 74.09 B: (( in terms of pedagogical you know the appropriate pedagogical techniques to use them in classrooms i )) 
+
+73.22 74.87 A: (( [noise] [noise] [noise] yeah [noise] [noise] )) 
+
+74.45 77.43 B: (( personally ah have been in classrooms where there is a )) 
+
+75.02 75.84 A: (( yeah yeah )) 
+
+76.09 77.00 A: yeah 
+
+77.93 78.90 B: (( computer )) 
+
+79.01 79.80 B: (( in )) 
+
+79.84 83.25 B: (( front of every student ah [noise] [noise] )) 
+
+83.15 90.46 A: [noise] i think they're ah [noise] i i [noise] agree ah you know i've got a two year old in the background and i'm trying to 
+
+88.47 89.59 B: (( [noise] )) 
+
+90.70 91.89 B: (( [noise] )) 
+
+92.05 93.86 B: (( [noise] [laughter] [noise] [noise] )) 
+
+95.31 99.40 A: (( trying to [noise] okay buddy you want some )) 
+
+99.81 101.23 B: (( [noise] )) 
+
+102.13 103.25 A: (( of )) 
+
+103.84 111.56 A: (( that yeah he wants to give his input too you wanna know what he wants [noise] he )) 
+
+111.62 113.74 A: (( wants to input some )) 
+
+114.15 114.97 A: (( chips )) 
+
+116.57 123.08 A: (( in his mouth and i don't have any [laughter] in )) 
+
+125.55 126.36 A: (( you )) 
+
+126.88 127.87 A: (( know )) 
+
+128.27 135.93 A: within graduate school and ah well i should say it was an undergraduate class but ah no it was a graduate class anyway 
+
+135.73 148.34 A: you know but at the beginning of that cl- the semester everyone was paying attention to the professor and by the end of the semester fifty per cent of the people were paying attention to the professor and the other fifty were surfing the web and checking their email 
+
+148.79 163.41 A: [laughter] in general just showing up to be there and then leaving and that's i i found it distracting being one of the people who was trying to pay attention to the class that you know all the screens around me were switching but i think also you know 
+
+164.08 170.22 A: [lipsmack] once you're once you're um ah sort of ah you've adapted to 
+
+170.64 183.12 A: ah once you've adapted to that environment maybe that's not such a big issue i also know that um you know there's a lot of success using um what they're calling cognitive tutors you know these sort of 
+
+183.07 185.99 A: intelligent tutoring programs so 
+
+186.13 190.80 A: i don't know i think like you said i think they're they're a really wonderful tool they can be 
+
+191.00 194.70 A: just as disruptive as they can be helpful if they're applied wrong and 
+
+195.10 196.08 A: um 
+
+196.27 200.65 A: (( they're also sort of an inevitably [laughter] you know like in a different way )) 
+
+199.06 200.35 B: yeah 
+
+200.64 206.08 B: that's true but that's like anything else i think almost any tool 
+
+206.27 207.36 B: (( that [mn] )) 
+
+207.86 212.33 B: that is is used to to do a certain job or 
+
+212.37 216.31 B: provide a certain function can also be misused 
+
+214.49 215.07 A: (( [noise] )) 
+
+216.41 217.27 A: yeah 
+
+216.56 221.69 B: and if it's misused then it's not of not of great value in that sense 
+
+221.74 222.64 A: (( yep [noise] [noise] )) 
+
+221.90 226.77 B: but that doesn't mean it's no good intrinsically you know it still has 
+
+227.03 230.67 B: a great deal of of value overall 
+
+230.77 244.16 A: moreover i think also it's a little bit there is a little bit of ah pandora's box aspect too in the sense that you know once you begin to put computers in a classroom or even 
+
+231.16 232.59 B: (( i mean that's what i think )) 
+
+238.30 238.87 B: (( [noise] )) 
+
+244.44 257.14 A: begin to put computers in front of kids for a purpose of learning which is certainly a good purpose ah there is no going back you know you can't decide oh this isn't working we're going to get rid of these things 
+
+257.32 258.28 A: so 
+
+258.93 261.61 B: yeah i i agree 
+
+262.01 264.15 B: (( [mn] i think for the most [noise] part though )) 
+
+264.81 266.51 B: they provide a real 
+
+266.96 272.40 B: ah a great assistance to the kids i mean because like you said you you were talking about the cognitive 
+
+268.01 268.75 A: (( [noise] [noise] [noise] )) 
+
+271.56 273.12 A: (( [noise] [noise] [noise] [noise] [noise] [noise] [noise] [noise] )) 
+
+272.58 274.07 B: (( ah tutoring )) 
+
+274.24 281.66 B: and i think that works very well i mean i have some friends now who are teachers and computers do a great job of um you 
+
+278.28 279.62 A: (( [noise] [noise] [noise] )) 
+
+282.06 287.34 B: know [mn] kind of tutoring kids in maths and reading and all those you know the basic um 
+
+288.34 289.60 B: skills 
+
+290.35 297.97 B: [mn] but i think i think they work pretty well but i think you know just like just like anything else it kind works both ways i guess 
+
+297.66 304.13 A: yeah yeah there's a group there's a group [noise] that comes out of [noise] um 
+
+299.36 300.87 B: (( yeah so um [mn] )) 
+
+305.16 307.52 A: (( carnegie mellon systems [mn] )) 
+
+307.54 308.71 B: (( [noise] [noise] )) 
+
+308.57 311.00 A: designing these systems where 
+
+311.20 312.12 A: the 
+
+312.19 313.95 A: the computer 
+
+314.05 318.91 A: is tutoring the students and [noise] it's adaptively 
+
+318.96 320.25 A: um 
+
+321.21 324.07 A: you know adjusting what it's teaching the students 
+
+324.19 327.90 A: based on the students' performance i think it's really kinda incredible 
+
+328.50 329.27 B: (( [noise] yeh )) 
+
+331.35 335.47 A: [noise] so [noise] do you work you you work in education still 
+
+331.86 332.68 B: maybe 
+
+336.07 340.20 B: um no i actually don't i'm i'm actually 
+
+340.83 344.29 B: (( a [mn] consultant for um [mn] )) 
+
+342.47 343.25 A: (( mhm mhm )) 
+
+345.04 355.05 B: um [noise] i actually work for a consulting firm now we actually go around and do all types of management consulting for different types of firms and that kind of thing 
+
+355.15 356.69 B: (( what do you do [noise] [noise] [noise] [noise] )) 
+
+356.33 358.82 A: (( [noise] [noise] ah i'm ah )) 
+
+358.93 363.29 A: (( graduate research assistant and ah )) 
+
+363.32 372.39 A: part of why i know about this these cognitive tutors that are being developed at carnegie melon is i work with computers and logistics 
+
+372.67 373.92 A: (( and ah )) 
+
+374.28 379.42 A: it's an interest of mine is to sort of ah see how computers can be used 
+
+379.65 383.83 A: ah model the way a human being think or to enhance 
+
+384.07 387.43 A: a ah cognitive ability to people and 
+
+387.91 389.03 A: so ah 
+
+389.46 392.13 A: (( it's an interesting time an interesting field )) 
+
+392.00 396.92 B: [noise] [noise] yeah it sounds very interesting what what are you are you working on a degree in something or [noise] 
+
+396.74 402.68 A: yeah i'm working on a phd ah i'm working in a phd in library and information science 
+
+402.79 412.18 A: ah but i'm particularly interested in information seeking behaviors and where people get their strategies for finding information 
+
+412.20 416.30 A: and the degree to which [noise] um 
+
+416.31 419.93 A: those strategies are sort of encoded in our language 
+
+420.18 424.49 A: [noise] which is how [noise] i happen to know a bunch of complicational linguists 
+
+424.58 437.69 A: ah which is how i happen to get an email saying oh there's this fisher project and they're looking for callers [laughter] [laughter] and that that puts me here talking to you while driving down the road on my cell phone 
+
+430.82 432.04 B: (( [laughter] [noise] [noise] )) 
+
+437.55 439.42 B: yeah and i am too 
+
+437.93 439.03 A: (( [noise] [noise] )) 
+
+439.91 443.32 B: let me ask you this do you know what the purpose of this study is [noise] 
+
+443.62 455.08 A: [lipsmack] um i don't know exactly what they're going to do with this collection but ah i know i know some of the kinds of things they do um with 
+
+455.17 458.25 A: these [noise] recordings so you [noise] 
+
+458.21 470.03 A: can they'll probably be tran- probably though these will be manually transcribed certainly someone will try running automated ah speech recognition against them [lipsmack] um 
+
+469.84 478.61 A: they might be analyzed for all kinds of linguistic features like ah you know discourse analysis um [noise] 
+
+478.60 492.38 A: like when i'm going um i'm sort of when i'm you know you and i have take taking turns [noise] talking i don't know exactly what they're going to do you know with this particular collection but i know that's the kind of things [noise] that they have been doing with 
+
+492.44 494.35 A: similar ah 
+
+494.42 498.88 A: databases of telephone conversations they have been doing it for a few years too 
+
+499.10 501.77 A: it's kinda cool [laughter] 
+
+499.38 499.94 B: (( [mn] )) 
+
+500.33 501.90 B: have you done them before 
+
+501.98 506.02 A: no no this is the well you're the third call that i've done 
+
+506.02 520.72 A: so i got two calls at home and then they stopped calling me at home and then i noticed they tried calling me a couple of times over the last day or two specifically on my cell phone so i'm guessing they're trying to collect more cell phone data 
+
+521.10 522.04 A: um 
+
+522.04 523.05 B: mhm 
+
+522.30 523.23 A: kinda neat 
+
+523.55 524.11 A: (( [mn] )) 
+
+524.06 525.60 B: [mn] yeah it is 
+
+524.34 525.88 A: how about you how did you 
+
+526.09 528.82 A: wind up ah involved in this project 
+
+529.38 530.41 B: well 
+
+530.19 531.98 A: (( how did you won't up calling )) 
+
+530.52 532.95 B: there's a website called um 
+
+533.55 535.36 B: fat wallet dot com 
+
+535.13 537.30 A: oh right i know that website 
+
+537.70 540.62 B: you've you you've checked it out a few times or [mn] [noise] 
+
+540.01 549.75 A: yeah a a friend of mine a college of mine pointed out to me ah because he's found some incredible computer deals through there and all kinds of incredible stuff 
+
+549.91 552.58 A: so there was something on fat wallet about this 
+
+552.36 553.88 B: yeah 
+
+553.36 555.01 A: oh that's really cool 
+
+554.59 557.60 B: [laughter] fat wallet has everything 
+
+555.37 556.02 A: [mn] 
+
+557.59 562.94 A: yeah there is another website that i really like too deal sea have you ever been to that one 
+
+563.09 564.90 B: (( [mn] d._o._t. [mn] )) 
+
+564.32 568.94 A: no deal sea ah like dealing cards and then ocean 
+
+569.12 571.94 A: d. e. a. l. s. e. a. dot com 
+
+571.78 585.10 A: and ah it's not quite like fat wallet there's not these sort of postings back and forth but there's [noise] ah there's lots of really good stuff that gets posted up there coupons and great deals [noise] 
+
+584.98 587.64 A: and a lot of it [laughter] [laughter] 
+
+586.38 588.14 B: (( you said you said d- )) 
+
+588.32 590.59 B: d. e. a. l. what 
+
+590.51 592.63 A: s. e. a. [noise] dot com 
+
+593.43 594.69 B: oh okay 
+
+593.58 596.53 A: [mn] you know in ocean of ocean of good deals 
+
+595.11 596.03 B: (( it's just )) 
+
+596.05 598.51 B: okay deal and then sea 
+
+598.43 599.89 A: (( right with )) 
+

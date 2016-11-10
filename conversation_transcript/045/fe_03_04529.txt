@@ -1,0 +1,325 @@
+# fe_03_04529.sph
+# Transcribed by BBN/WordWave
+
+0.00 1.07 A: (( hello )) 
+
+0.35 2.15 B: ((  )) 
+
+1.26 2.70 A: hi this is jim 
+
+2.24 6.13 B: ((  )) 
+
+3.23 4.22 A: yes 
+
+5.32 7.32 A: i'm doing okay how are you doing ed 
+
+6.64 9.09 B: ((  )) 
+
+8.32 10.80 A: um i'm here in uh brooklyn new york 
+
+10.19 21.57 B: ((  )) 
+
+11.44 12.73 A: (( yes mhm )) 
+
+21.12 22.14 A: uh-huh 
+
+21.55 27.71 B: ((  )) 
+
+25.96 26.95 A: uh-huh 
+
+27.94 36.57 B: ((  )) 
+
+34.50 35.88 A: mhm 
+
+37.32 40.74 B: (( um from me where uh actually a friend of mine is a teacher and he did teach )) 
+
+40.50 41.46 A: uh-huh 
+
+40.96 51.42 B: (( at this one school and um he said and i- it's a whole nother world i'm i'm forty one and i come from uh the earlier generation than this one and it it just seemed like a mother or )) 
+
+45.20 48.24 A: (( [laughter] and mm )) 
+
+50.85 52.14 A: that was great 
+
+52.38 54.65 B: (( a father was always available and )) 
+
+52.40 53.60 A: wow 
+
+54.04 55.70 A: yes um 
+
+55.74 67.92 A: i do um i do get into the city quite often uh i have thank god you know usually um well sometimes a lot of people who live in a certain place they don't get to see the city until they have 
+
+67.77 78.32 A: uh friends come from out of town which helps a little bit with me i had some friends come in from texas and uh we went um up to the top of the world trade when it was still there and uh 
+
+74.27 74.95 B: (( always )) 
+
+78.21 90.65 A: uh we did some other tourist things but uh thank god i i have a friend who is very into uh getting to plays and uh going to restaurants and getting into the city quite often so uh 
+
+90.52 101.97 A: i do take advantage of uh new york city but um yeah basically most of my living is here in brooklyn which is fine it's uh i'm so used to it i grew up here so 
+
+90.70 91.67 B: (( there )) 
+
+101.99 105.02 A: um it's a decent place for me 
+
+105.34 107.35 A: so where do you live now 
+
+106.81 109.29 B: (( to help you with your homework and answer )) 
+
+109.61 111.26 B: (( questions and kind of )) 
+
+110.96 112.83 A: oh how do you like that 
+
+112.40 118.13 B: (( be there for you um at least in my family and so it was a different atmosphere )) 
+
+117.35 125.95 A: yeah you know what i was in ohio once and unfortunately i didn't get there i would have really have enjoyed that i'm a big football fan 
+
+126.15 129.97 A: but uh yeah that must be really nice so you like living there 
+
+128.59 129.20 B: (( than )) 
+
+129.76 131.53 B: (( now where um a lot of the children )) 
+
+130.94 132.37 A: oh that's great 
+
+131.60 137.40 B: (( that he was teaching were from single family uh single parent homes and that )) 
+
+133.12 134.10 A: uh-huh 
+
+135.81 139.52 A: [laughter] oh well i'm glad to hear that 
+
+139.08 146.54 B: (( parent was out working and so the child was coming home to an empty house and um with had no mot- )) 
+
+141.24 142.15 A: (( yeah mm )) 
+
+144.03 145.07 A: mhm 
+
+146.13 147.79 A: well that's terrific 
+
+150.12 154.35 A: (( i like hearing that when someone has )) 
+
+155.01 156.35 A: (( retired )) 
+
+157.34 158.18 A: (( uh )) 
+
+160.60 169.27 A: (( i like to know that they uh they have a plan with what to do you know when so many people retire and they just don't know what to do )) 
+
+163.14 164.15 B: (( motivation )) 
+
+169.61 171.62 B: (( to do their homework the )) 
+
+171.24 175.76 A: (( with themselves and uh you know for for )) 
+
+176.81 182.18 A: (( some of those people retirement isn't the right choice )) 
+
+182.22 183.21 A: (( you know )) 
+
+185.23 188.78 A: (( but you know if you have a )) 
+
+189.05 190.21 A: (( plan and you )) 
+
+189.52 190.18 B: (( parent )) 
+
+190.24 204.72 A: (( like to travel and like to do things boy retirement is a real blessing um the question was um do you agree with affirmative action and um also talked about something to do with salaries i guess )) 
+
+204.62 209.13 A: (( in conjunction with the salaries um you know what this is a tough topic because )) 
+
+208.98 222.78 A: (( yeah obviously you want everyone to have an equal chance but um i've always thought and maybe i'm wrong um and you can tell me what you believe but i always felt like the the best person the most qualified person for a job )) 
+
+223.70 225.91 A: (( should get it regardless of )) 
+
+225.43 229.51 B: (( oftentimes got home from work so tired that they )) 
+
+229.57 232.51 B: (( didn't do the homework with the child )) 
+
+232.76 238.54 B: (( or didn't even check the homework and so uh the children a lot of the children in the school were really without help )) 
+
+238.52 239.44 A: (( race )) 
+
+238.79 240.56 B: (( and without discipline and uh )) 
+
+240.58 250.69 B: ((  )) 
+
+251.67 253.42 B: (( really should have been )) 
+
+253.87 254.66 B: (( a lot )) 
+
+254.69 255.54 A: (( or )) 
+
+255.68 257.92 A: (( religion or any other )) 
+
+258.59 262.38 A: (( factors if if someone's interviewing and there are certain guidelines to be )) 
+
+262.63 263.48 B: (( further past )) 
+
+262.67 269.76 A: (( the best person for the job i always felt it it really didn't matter as far as any of )) 
+
+270.59 271.58 A: (( the other )) 
+
+271.69 272.67 A: (( factors )) 
+
+273.01 275.32 A: (( uh whoever really had the )) 
+
+275.57 279.55 A: (( best interview and was most qualified uh )) 
+
+279.94 280.76 A: (( should )) 
+
+282.45 283.16 A: (( get )) 
+
+285.52 289.12 A: (( the job um that's that's basically )) 
+
+289.43 297.99 A: (( how i feel mhm mhm mhm right right mhm mhm mm right right well i guess the big argument has always been um )) 
+
+298.24 305.76 A: (( there t- e- especially i i'll use new york city as an example um the inner city schools )) 
+
+306.48 307.93 A: (( um where there )) 
+
+310.24 312.87 A: (( the income levels are )) 
+
+313.21 316.26 A: (( lower and the um the )) 
+
+316.77 317.74 A: (( the )) 
+
+319.42 321.62 A: (( neighborhoods could be )) 
+
+320.89 326.88 B: (( at this stage in their learning and so when you you you do that and you go from grammar )) 
+
+327.09 327.79 B: (( school )) 
+
+328.31 334.22 B: (( and they this new social behaviour they don't want to leave you behind because they're afraid it's going to )) 
+
+334.44 336.37 B: (( affect them socially )) 
+
+336.38 337.18 B: (( so )) 
+
+337.66 339.67 B: (( then they move them up into )) 
+
+339.81 340.51 B: (( high )) 
+
+340.55 341.53 B: school 
+
+342.90 349.57 B: (( and then the high schools just pass them on and um they go for for for jobs and they're not really as qualified as say a )) 
+
+349.61 350.58 B: (( child who again )) 
+
+350.92 354.40 B: (( went to a better school and got a )) 
+
+354.64 360.57 B: (( better education and his parents were home for him and he had uh a lot )) 
+
+360.89 362.38 B: (( more opportunity to )) 
+
+362.32 363.04 A: (( a )) 
+
+363.34 378.28 B: (( learn you you put these two people together at an interview and the child that went to the school where he didn't um and and the home that he came out of that didn't have these same opportunities he's not going to have the same test scores at a at an )) 
+
+371.10 371.96 A: (( little )) 
+
+374.59 375.44 A: (( bit )) 
+
+378.41 380.65 B: (( interview and he's not going to )) 
+
+380.70 389.10 B: (( probably have the same good interview that the other child is going to have so you know what do you do with that that disadvantaged )) 
+
+387.38 388.37 A: (( more dangerous )) 
+
+389.98 393.82 B: (( child i mean does he have to wash windows or work at burger king )) 
+
+394.67 397.00 B: (( the rest of his life )) 
+
+397.19 398.88 B: (( you know it )) 
+
+398.62 399.48 A: (( to )) 
+
+400.21 403.04 B: (( it's really hard to know )) 
+
+402.62 403.51 A: (( live )) 
+
+404.29 405.09 A: (( in )) 
+
+405.87 411.03 A: (( um they don't get a good crop of teachers and so those schools )) 
+
+411.64 415.96 A: (( um have a tougher the the kids in )) 
+
+416.20 423.49 A: (( those schools have a tougher time getting say the same education as say a child who lives in a little )) 
+
+423.51 426.10 A: (( better neighbourhood which attracts better )) 
+
+426.28 430.47 A: (( teachers and has a better environment to learn so )) 
+
+430.81 433.74 A: (( that the question )) 
+
+433.77 444.97 A: (( here has always been um do you give those children a break and when they they grow up and they um are behind the curve in the learning area um if there is five jobs open at a company do you kind of give them a )) 
+
+445.24 448.64 A: (( curve on their requirements )) 
+
+448.82 455.54 A: (( to get the job because they didn't have the same opportunities growing up uh it's uh it's a very )) 
+
+455.59 467.10 A: (( hard question i- it it it is very very hard because you you just you can come from the best neighbourhood or the poorest neighbourhood and people have a little difficulty in judging you for your first )) 
+
+467.21 472.86 A: (( interview i i was always in favor of when i i remember looking )) 
+
+473.46 474.54 A: (( for )) 
+
+474.57 481.46 A: (( work wh- when i got out of school my im- impression was i'd try to impress )) 
+
+481.75 486.20 A: (( them on my first stop but i always l- liked to go back for another )) 
+
+486.31 487.42 A: (( interview let )) 
+
+487.94 499.44 A: (( them think me over and and things like that and you know y- i at the same time would say this and that and so forth and sometimes you say the wrong things )) 
+
+499.33 505.28 A: (( at the wrong time too and uh and then then again you're looking for work uh sometimes you're really )) 
+
+505.59 506.65 A: (( fed )) 
+
+506.67 513.69 A: (( up and you don't care what you say and [laughter] so it it's a )) 
+
+514.03 514.96 A: (( h- hard )) 
+
+515.97 516.97 A: (( little job )) 
+
+517.09 517.95 A: (( to get )) 
+
+517.99 521.03 A: (( around but with children it's it's very )) 
+
+521.25 527.20 A: (( important that uh you you you've got to show them )) 
+
+527.21 531.33 A: (( some knowledge that the knowledge you got to show to them is )) 
+
+531.58 533.91 A: (( that you care and you care for them because )) 
+
+533.94 535.92 A: (( uh when when i know )) 
+
+536.04 546.30 A: (( when i when i got out of uh leehigh university got into uh union carbide boy i found out it was a different world and i- it's true no matter where you're working mhm )) 
+
+545.69 553.92 B: yes that is very you're very very true on in saying that uh the the problem tha- that comes up really is 
+
+555.16 556.35 B: d- does 
+
+556.59 558.56 B: does the children 
+
+558.79 560.85 B: e- e- even if they have 
+
+561.10 563.73 B: if s- come from a single parent 
+
+563.97 578.09 B: uh f- f- family or they have their mother and father or they come from a large family or they are the only child so much depends on how the children got a long with their parents that seems to be so true 
+
+575.76 576.72 A: (( mhm mhm )) 
+
+577.69 579.30 A: yes yeah 
+
+578.40 581.02 B: uh i i know uh uh 
+
+581.07 584.21 B: like i came from a big family seven children 
+
+583.71 584.60 A: wow 
+
+584.25 590.46 B: so i had i had all the opportunities of learning from my older sisters and so forth 
+
+589.99 591.30 A: (( mhm )) 
+
+590.72 591.81 B: and uh 
+
+591.90 592.74 B: uh 
+
+593.04 599.89 B: i know today if if uh you come from a family that size boy they think you you're 
+

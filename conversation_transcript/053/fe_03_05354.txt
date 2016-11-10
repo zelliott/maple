@@ -1,0 +1,437 @@
+# fe_03_05354.sph
+# Transcribed by BBN/WordWave
+
+0.47 1.83 B: (( [noise] hello )) 
+
+1.39 2.62 A: (( hello )) 
+
+2.92 4.11 B: (( how you doing [noise] )) 
+
+2.93 6.27 A: hiya pretty good i'm toby 
+
+5.32 6.39 B: i'm joe [noise] 
+
+6.36 7.29 A: hey joe 
+
+8.06 12.07 B: [noise] um i don't really have anything to talk about with life partners do 
+
+12.76 16.27 A: [noise] well uh i guess we're supposed to talk for ten minutes though 
+
+16.59 18.71 B: you yeah i think we can talk about anything though 
+
+16.84 17.71 A: (( uh )) 
+
+18.85 21.24 A: (( okay really okay )) 
+
+20.22 22.89 B: yeah i don't think you have to talk about the topics 
+
+23.05 27.18 A: okay well i mean i guess that would be the point but whatever 
+
+27.56 30.39 A: (( so where are you where are you from )) 
+
+27.63 29.39 B: (( well we can go ahead [mn] )) 
+
+30.37 31.33 B: (( what did you say )) 
+
+30.89 32.71 A: where are you from 
+
+32.27 33.87 B: walton new jersey 
+
+33.81 36.98 A: okay cool i'm in uh upstate new york 
+
+34.90 36.20 B: (( [noise] oh yeah [noise] [noise] )) 
+
+37.03 38.13 B: i 
+
+37.72 39.51 A: yeah 
+
+38.66 42.59 B: wonder how far this study thing uh extends i've no idea 
+
+42.73 47.72 A: well i mean i don't know it it's quite nice these days like the weather and everything 
+
+47.22 48.73 B: excuse me 
+
+48.00 51.61 A: it's quite nice here the weather and things like that 
+
+50.29 52.94 B: (( yeah it's been all right these last couple of days )) 
+
+52.68 53.63 A: okay 
+
+53.86 56.40 B: fr- freaking rain finally stopped 
+
+56.30 60.12 A: oh yeah it it rained here too actually 
+
+59.90 60.79 B: today 
+
+60.79 63.01 A: uh no just a few days ago 
+
+62.70 64.68 B: (( oh yeah )) 
+
+64.76 66.33 B: (( [sigh] yes how old are you )) 
+
+66.24 67.71 A: i'm twenty nine 
+
+67.50 69.45 B: okay i'm twenty one [noise] 
+
+68.97 69.87 A: okay 
+
+70.12 70.93 A: cool 
+
+70.22 71.26 B: uh 
+
+71.41 73.02 A: are you in college still 
+
+72.73 76.16 B: yeah i'm actually at college right now i'm between classes 
+
+77.33 78.35 A: oh wow 
+
+78.36 80.67 A: so you're pretty you must be pretty busy 
+
+78.46 80.91 B: yeah i gotta i'm taking summer courses 
+
+81.10 82.28 B: (( 'scuse me )) 
+
+81.67 83.29 A: (( you must be pretty busy then )) 
+
+83.32 90.13 B: [noise] yeah i been it's just i'm doing an internship too so it's tough i haven't been able to work much 
+
+87.48 88.47 A: okay 
+
+90.64 92.68 B: so [noise] how about you 
+
+91.65 95.14 A: well i'm i'm unemployed i um 
+
+93.88 94.81 B: yeah 
+
+95.32 105.63 A: i got laid off from a computer job and i haven't been able to find work and it kind of sucks so i just sit at home and look for work or play computer games and things like that 
+
+97.62 98.51 B: uh-huh 
+
+99.45 100.70 B: uh it sucks 
+
+104.96 108.42 B: yeah what kind of stuff do you do with computers 
+
+106.21 106.77 A: (( [mn] )) 
+
+108.75 110.34 A: i'm a web developer 
+
+110.53 111.81 B: a what 
+
+111.24 113.12 A: a web applications developer 
+
+113.39 115.15 B: (( i don't know what that is what's that )) 
+
+114.43 117.88 A: it's like a programmer that writes like internet pages 
+
+118.87 120.91 B: i see like writes script and stuff 
+
+120.34 123.87 A: yeah like active server pages and java 
+
+121.39 122.52 B: that's cool 
+
+123.89 126.75 A: java and c. sharp and things like that 
+
+126.26 128.01 B: yeah 
+
+128.27 129.61 B: (( what's their descri- )) 
+
+128.51 130.27 A: what what field are you in 
+
+130.70 133.55 B: uh i'm studying to be a teacher history teacher 
+
+133.34 135.58 A: okay cool that sounds interesting 
+
+134.54 137.05 B: and i've a minor in law and justice 
+
+136.65 137.61 A: (( okay )) 
+
+137.67 138.51 A: great 
+
+137.95 138.79 B: so 
+
+138.94 141.19 B: what part of new york are you from 
+
+140.69 141.59 A: um 
+
+141.73 143.74 A: well i'm in rochester right now 
+
+144.35 147.47 A: uh but originally i'm from pakistan 
+
+147.64 149.42 B: (( oh yeah )) 
+
+148.46 152.53 A: yeah i've been in the u._s. for about um nine years now 
+
+152.62 154.42 B: right what made you come here [mn] 
+
+154.37 158.98 A: school i went to attend school in minnesota macalester college 
+
+158.46 159.35 B: uh-huh 
+
+159.18 164.05 A: and i guess i just decided that this country is uh 
+
+164.24 167.39 A: much better opportunity wise for me 
+
+166.91 168.45 B: (( yeah you like it here )) 
+
+167.89 172.71 A: yeah and i mean it it's home now for me so 
+
+169.12 170.12 B: that's good 
+
+171.68 172.59 B: yeah 
+
+172.87 175.71 A: i'm here i'm married actually 
+
+174.01 174.72 B: wh- 
+
+175.30 176.33 B: you're married 
+
+175.97 177.65 A: yeah 
+
+176.67 177.84 B: you have any kids 
+
+177.69 179.73 A: no not yet 
+
+178.92 180.70 B: no aren't you trying 
+
+180.42 185.94 A: mm well we're not ready yet i mean i'm unemployed i mean kids take a lot of uh money 
+
+185.38 187.16 B: (( yeah a lot of money and a lot of time )) 
+
+186.10 193.58 A: yeah see like lots of money to spend on taking care of them and i can't afford it i mean why why have kids when you can't afford it you know 
+
+189.99 190.95 B: (( how long have you )) 
+
+193.23 196.81 B: (( [noise] yeah i hear you how long have you been married )) 
+
+196.96 198.76 A: um two years 
+
+198.48 199.50 B: two years 
+
+199.06 200.72 A: yeah 
+
+200.08 201.32 B: (( where did you meet her )) 
+
+201.14 202.64 A: uh in boston 
+
+202.14 203.93 B: boston 
+
+203.59 205.26 A: yeah 
+
+204.28 205.99 B: you travel a lot uh-huh 
+
+205.51 208.25 A: yeah i lived in boston for a year 
+
+208.86 209.81 B: (( oh yeah [noise] )) 
+
+209.29 212.65 A: like uh before like coming to rochester 
+
+213.01 213.88 B: uh-huh 
+
+214.33 217.08 A: so yeah i met there met her there 
+
+217.35 220.29 A: so are you are you um in a relationship 
+
+220.29 221.97 B: am am i what 
+
+221.38 224.00 A: are you in a relationship 
+
+223.30 225.90 B: nope i haven't had a girlfriend in three years 
+
+226.23 227.97 A: oh you broke up 
+
+228.36 232.80 B: yeah i had like when i before i came to college i had a couple like uh 
+
+233.55 242.98 B: couple of short you know girl- short term relationship girlfriends but then i came to college and i don't know i'm kind of shy so 
+
+237.20 238.30 A: okay 
+
+242.72 254.39 A: oh well all all that matters is that like uh if you like somebody just go out and talk to that person that's all 'cause i it's like uh overcoming your fear of rejection you know 
+
+243.38 244.99 B: i haven't really met anyone 
+
+249.13 252.26 B: yeah i don't know i'm not i'm not too good at that stuff 
+
+254.13 256.94 B: (( yeah i know it's tough )) 
+
+255.36 258.26 A: like that's what a guy has to do that 
+
+257.22 267.16 B: it's tough too at college i mean you went to college you know how many girls are around so it's tough having like a million girls around and not being able to talk to them you know what i mean 
+
+266.93 275.81 A: yeah but college is where you have the most opportunity to do when you get out of college and you're working it's harder to meet people so make the most of it you know 
+
+272.68 274.46 B: yeah i'm sure 
+
+275.20 276.43 B: [laughter] 
+
+276.83 278.25 B: (( yeah i hear you man )) 
+
+278.36 281.60 A: so do you have to talk like whole ten minutes or what 
+
+281.00 283.23 B: yeah complete ten minutes 
+
+281.79 282.82 A: okay 
+
+283.72 284.62 B: (( so )) 
+
+284.64 285.66 B: (( i don't know )) 
+
+285.03 287.80 A: do you play computer games anything like that 
+
+286.86 300.41 B: [sigh] no i actually hate computers [laughter] like it's funny 'cause like i i use computers and stuff you know all the time i have to and a lot of my friends like i have a friend that's a unix uh system administrator 
+
+289.30 290.58 A: [laughter] 
+
+295.82 296.63 A: (( oh yes )) 
+
+300.08 300.97 A: okay 
+
+300.67 312.55 B: and a couple of my cousins that i'm close to like they all go to college for computers and like everyone's into computers i just i hate 'em i don't know why like you know how when something goes wrong and on the computer it's like 
+
+312.68 321.85 B: it could be one of like a million freaking things i can't stand that like i like if i have a problem i want to be able to find the problem and just fix it 
+
+315.04 316.72 A: oh yeah i hate that 
+
+319.90 326.13 A: yeah i mean i really wish computers were like uh as easy to use as like a t._v. you know 
+
+326.18 327.70 B: yeah 
+
+327.75 330.06 A: (( like if th- i think it's )) 
+
+328.78 336.82 B: yeah like i just hate like i like like say cars you know something goes wrong you have an idea of what's wrong i mean maybe it's just 'cause i'm 
+
+336.85 344.49 B: not educated enough in computers so i'm kind of ignorant but i just i just don't i can't stand them enough to even learn about 'em you know 
+
+340.10 342.95 A: well yeah 
+
+343.68 348.07 A: i think like the thing with computers is that 'cause we're like using them a lot you know 
+
+347.97 349.42 B: yeah 
+
+349.07 353.14 A: so i don't know i just use um computers a lot since i was in fifth grade 
+
+349.99 351.14 B: i just [noise] 
+
+352.97 354.26 B: (( really )) 
+
+353.70 355.46 A: yeah 
+
+354.45 358.18 B: i just don't have patience with 'em i don't i don't know 
+
+356.84 364.48 A: but they annoy me still like you know despite like all experience i mean i still get annoyed by them i think they're not perfect at all 
+
+361.90 362.99 B: yeah 
+
+364.23 374.60 B: yeah and then i think i think uh all these software companies write uh glitches in on purpose and s- and like everything they put out you know 
+
+372.77 376.97 A: yeah so that's like people who buy like net versions and upgrade them 
+
+376.36 378.51 B: yeah and it's ridiculous 
+
+377.21 385.84 A: i mean yeah they leave out important features because they realize they can sell it without those features so that they can put in the network and i mean that it's all marketing 
+
+384.94 390.75 B: yeah and my computer at home uh i hate computers even more because my computer sucks 
+
+386.16 386.90 A: so 
+
+390.96 394.82 B: i have a dell from like eight years ago or something 
+
+391.13 392.09 A: oh 
+
+393.68 396.41 A: okay so yeah it must be really slow now 
+
+395.87 405.07 B: yeah it's pretty slow and [mn] i live in montana so i'm not going to buy a computer myself i don't care i don't use it enough but my dad won't buy a new one because 
+
+402.59 403.47 A: (( okay )) 
+
+404.98 415.74 B: he bought it when computers were like so expensive so he i guess he remembers spending like two grand on it or whatever and um he he has put a lot of upgrades in it like you know a new hard drive [mn] 
+
+415.79 422.82 B: uh c._d. writer drive you know all that junk but i think all the stuff that he put on just makes it slower 
+
+418.91 420.12 A: right 
+
+423.11 428.34 B: like there's too many programs and stuff it's just not fast enough to handle it and it it's always crashing 
+
+428.23 429.22 A: (( okay )) 
+
+429.44 430.82 B: (( so i don't know )) 
+
+431.29 434.03 B: [noise] uh what do you think about uh 
+
+434.64 437.71 B: the whole iraq war thing being from the middle east 
+
+436.45 441.37 A: oh well i'm not exactly from the middle east i'm i'm from a muslim country though 
+
+441.22 453.16 A: and and they feel sympathetic towards like muslims you know like uh all over the world so iraq is a muslim country so i mean people in my country they feel that this war was like too much you know and a sign of american arrogance 
+
+441.45 442.32 B: uh-huh 
+
+453.22 454.18 B: uh-huh 
+
+453.71 460.55 A: and i mean i somewhat see that but i also see that like uh a g- i mean a really good thing we've done for the iraqi people 
+
+460.75 461.88 B: yeah 
+
+461.29 467.54 A: i mean i don't support it on the grounds of the weapons of mass destruction i support on a humanitarian ground you know 
+
+467.22 469.83 B: yeah yeah i think that's the way most people feel 
+
+467.78 475.84 A: but those people i mean that guy was a was a was a psycho like the guy who was ruling them i mean he wasn't good for anybody there 
+
+473.15 474.03 B: uh-huh 
+
+475.69 476.52 B: yeah 
+
+475.91 480.80 A: i mean he tortured and killed like people in his country like in mass you know 
+
+480.87 484.53 B: [noise] yeah i think i think the main problem is i don't think um 
+
+485.16 486.68 B: (( [lipsmack] u._s. really knew that they )) 
+
+486.64 501.30 B: uh not that they don't know what they're getting theirselves into but i think a lot of the public thinks like so it's going to be like a conventional war or like we're going to go in you know fight a little bit and then that'll be it i don't think people know that this is just the beginning and it's going to take at least ten years like 
+
+498.84 510.46 A: no that's uh that's the thing yeah i mean to leave to leave them in this state right now it's going to just leave leave them to more chaos whatever weapons have gone missing 'cause i mean 
+
+501.17 503.41 B: to set the government up and 
+
+507.70 509.04 B: yeah mhm [noise] 
+
+510.62 514.50 A: the u._s. is concerned that there c- like um what do you say 
+
+514.62 529.17 A: convinced that there are weapons and now they're nowhere to be found where are they who has them you know that's the key thing i mean those weapons need to be found before they end up in the wrong hands i mean those things are important rebuilding their society is important i mean they had like bombs dropped on them you know 
+
+518.56 519.50 B: yeah 
+
+528.87 541.67 B: [noise] [noise] yeah yeah i'm quite surprised they haven't found anything yet 'cause i mean i have read a lot about you know they they went in based on bad information and all that stuff but then you gotta think well why was saddam 
+
+542.09 553.62 B: you know so pushy with the u._n. and u._n. guys and all that stuff if he didn't have anything so like i'm s- you know so it's it's already been you know a while since the war ended it's like when are they going to find something 
+
+546.51 547.78 A: right 
+
+552.86 558.24 A: so i mean that makes it even more important for for them to find those weapons 
+
+557.29 559.55 B: yes yeah yeah i totally agree 
+
+559.80 561.41 A: so yeah i mean i don't know 
+
+560.40 562.98 B: that was the justification for going in you know 
+
+562.75 567.59 A: yeah i mean and if they're not found then i mean it's scary that like somebody else could have them you know 
+
+567.51 573.42 B: yeah now being from the middle east like after sep- september eleventh and everything 
+
+573.44 574.63 B: (( do you )) 
+
+574.84 578.56 B: have you experienced any problems like profiling or anything like that 
+
+577.91 578.99 A: um 
+
+579.24 585.74 A: not not a whole lot i know other people have like people i know like friends i have they have experienced it 
+
+582.28 583.31 B: yeah 
+
+585.47 586.32 B: yeah 
+
+585.63 599.72 A: although like i have uh experienced uh more scrutiny than i had before like when crossing borders to go into canada for example or and reentering the u._s. and things like that i think that they were more strict with me than they had been in the past 
+
+595.58 596.67 B: mhm 
+

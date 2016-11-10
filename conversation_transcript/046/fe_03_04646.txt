@@ -1,0 +1,455 @@
+# fe_03_04646.sph
+# Transcribed by BBN/WordWave
+
+0.07 1.70 B: [noise] hello 
+
+1.19 2.73 A: hi 
+
+2.32 3.86 B: this is dave price 
+
+3.63 7.05 A: uh this is keith mcdermott i'm i live in atlanta oh 
+
+6.76 9.25 B: uh i live in connecticut 
+
+9.02 10.38 A: okay 
+
+9.96 11.25 B: (( how're you doing )) 
+
+10.64 12.33 A: i'm doing well how are you 
+
+12.02 14.59 B: good are you a verizon employee 
+
+13.95 15.89 A: uh no i'm not 
+
+16.27 18.76 A: i i go to school i'm a student 
+
+18.18 19.17 B: okay 
+
+20.02 24.14 B: (( how did you get signed up to participate in this saw it online uh-huh so i was lucky i fine that's fine oh really yeah yeah or where do you get your current event news from )) 
+
+22.17 26.94 A: uh well we saw that uh they were i don't know they saw it online 
+
+27.17 29.01 B: (( i get it from the internet i mean i live in a small house so i got a i'm in college )) 
+
+28.38 33.14 A: yeah saw it online so i was like oh i can do that and from the university of pennsylvania 
+
+33.48 34.68 B: (( i don't really have like cable so i've )) 
+
+34.16 36.72 A: (( yeah i work for a company )) 
+
+36.46 40.77 B: (( got this internet so i watch i get from news dot google dot com yeah that's like )) 
+
+41.71 43.13 B: (( a comprehensive )) 
+
+43.14 47.20 B: (( list of like the top stories from around the world but it was like each story will have )) 
+
+47.30 48.81 B: (( like a hundred different sources )) 
+
+48.99 51.37 A: (( that uh is owned by )) 
+
+49.89 52.84 B: (( so you can get like all the different viewpoints )) 
+
+52.22 55.35 A: (( verizon and our company is participating in this project )) 
+
+55.04 57.53 B: (( on it yeah all the time i don't use anything else )) 
+
+55.51 56.32 A: (( so )) 
+
+57.44 58.61 A: (( they asked )) 
+
+58.46 59.73 B: (( actually really uh i think )) 
+
+59.06 65.60 A: (( the employees to volunteer to participate so anyway )) 
+
+66.01 71.53 A: (( we're supposed to talk about current events okay where do you get your current event news from you do news dot google dot com )) 
+
+71.11 73.51 B: (( yahoo's powered by google now so i )) 
+
+73.05 78.93 A: (( right do you use )) 
+
+79.28 84.33 A: (( google for most of your search i )) 
+
+80.94 81.83 B: (( don't think )) 
+
+85.44 88.32 B: (( it makes a difference but google's just real simple doesn't )) 
+
+88.52 91.30 A: (( i use yahoo is )) 
+
+92.44 96.58 B: (( have any like graphics or anything i don't have to )) 
+
+97.50 99.05 A: (( google a )) 
+
+98.23 99.53 B: (( um i'm just )) 
+
+99.22 100.85 A: (( lot better )) 
+
+101.85 104.49 A: (( okay right i )) 
+
+104.47 105.29 B: (( a )) 
+
+105.53 106.52 A: (( get my )) 
+
+107.50 108.44 A: (( news )) 
+
+108.57 111.75 B: (( simple simple user oh really i love n._p._r. when i'm in my )) 
+
+112.46 115.24 A: (( from uh n._p._r. radio right )) 
+
+114.64 115.42 B: (( car )) 
+
+115.59 119.76 B: well i spend uh two hours a day in my car so 
+
+119.97 125.29 B: uh in the morning and the evening so i i sort of get my news consumption that way 
+
+123.63 124.66 A: yeah 
+
+125.29 127.77 A: i like uh all things considered 
+
+127.34 128.52 B: right 
+
+127.93 129.56 A: on npr 
+
+129.98 131.87 A: (( it's like great detail )) 
+
+130.19 131.05 B: right 
+
+132.79 134.95 B: i i also you know 
+
+135.17 139.94 B: will read news on the web particularly if there's some event going on that i'm interested in 
+
+139.80 141.11 A: yeah 
+
+140.21 143.01 B: like the war in iraq obviously and 
+
+142.54 144.00 A: yeah 
+
+144.32 147.54 B: um and and then i go to like uh 
+
+147.75 151.84 B: c._n._n. dot com or um 
+
+149.45 150.60 A: yeah 
+
+152.16 153.81 B: a._b._c. dot com 
+
+154.51 159.80 B: quite frankly i'm a little disappointed with their coverage of news on the web 
+
+159.62 165.62 A: yeah i i try to stay away from them so i'm like i don't know there's a lot of other places that seem to do a really good job 
+
+165.39 166.48 B: right 
+
+165.77 173.24 A: like it's hard for u._s. news i don't really find them good for but for international news anything that's going on overseas b._b._c. does a really good job 
+
+172.99 174.09 B: right 
+
+173.51 175.65 A: or you can get it straight from reuters 
+
+175.53 177.36 B: right or the a._p. 
+
+176.38 189.35 A: like online or a._p. yeah they do they do decent i can't i got really frustrated with like media news like c._n._n. during the war 'cause that was all that was on it's all they had coveraged 
+
+185.05 185.96 B: yeah 
+
+188.68 190.19 B: exactly 
+
+189.60 191.33 A: i just got bored 
+
+190.98 192.40 B: [laughter] 
+
+191.76 194.89 A: i wanted to see what else was going on in the world 
+
+194.79 198.09 B: do you consider yourself a republican or a democrat 
+
+197.58 201.27 A: uh pretty much a democrat at this point in my life but 
+
+200.22 201.19 B: me too 
+
+201.33 203.79 A: i'm kinda kinda i don't know they're they're 
+
+204.50 208.15 A: sometimes when it come down to it i i can't ever see the difference 
+
+207.94 209.08 B: [laughter] 
+
+209.37 210.78 A: they get so 
+
+211.07 212.65 A: so caught up 
+
+212.86 214.00 B: yeah 
+
+213.65 215.09 A: but 
+
+215.41 217.14 B: oh what are we studying 
+
+215.46 216.71 A: (( what can i say )) 
+
+216.77 218.72 A: i'm studying computer science 
+
+219.38 222.65 A: actually right now i go to georgia tech 
+
+222.35 223.32 B: okay 
+
+223.69 225.53 A: here in atlanta so 
+
+226.07 228.37 B: what are the business prospects like for 
+
+229.00 230.43 B: computer science 
+
+229.18 230.10 A: (( um )) 
+
+230.14 238.03 A: hopefully pretty good i still i still have another year at school though so i'm not really sure what i want to do i think i'm gonna go to grad school 
+
+237.88 239.09 B: right 
+
+238.47 241.43 A: maybe wait the economy out a little bit 
+
+241.05 242.92 B: yeah i hope it turns around quickly 
+
+242.72 249.57 A: yeah 'cause i don't really want to i don't know try to go find a job right now 'cause i'm trying to find a summer job right now it's 
+
+248.58 249.72 B: mhm 
+
+250.36 252.41 A: it's nearly impossible 
+
+252.23 253.34 B: right 
+
+253.14 258.15 A: to find something that's like flexible and i mean everyone it's like all the jobs just disappeared 
+
+258.47 260.26 B: [laughter] 
+
+258.98 259.74 A: (( [laughter] )) 
+
+260.70 268.60 B: yeah it must be tough i i know that last year's and perhaps the year's before graduates had a tough time finding work 
+
+268.32 269.43 A: yeah 
+
+268.86 273.18 B: but there's some sense that maybe that we've turned the corner on the economy and 
+
+272.85 275.09 A: yeah it seems like it's getting better 
+
+275.90 276.99 B: let's hope 
+
+276.95 279.39 A: i still i'm hoping i mean i 
+
+279.55 287.63 A: just read in the read in the news i always hear i always hear about like all the things that are going wrong and every now and again you catch something good 
+
+288.19 293.33 B: well you know it feeds on itself too i i think you know they report bad news 
+
+293.35 294.55 B: people 
+
+295.39 298.79 B: say to themselves oh there's all this bad stuff going on and then 
+
+299.08 304.77 B: you know companies don't spend money they don't care stocks don't go up you know 
+
+301.31 302.26 A: yeah 
+
+305.26 314.44 B: and and the inverse is true too you know if if companies appear to be making money people want to buy their stock the stock goes up they're hiring they're buying you know 
+
+308.64 309.87 A: we think 
+
+314.19 315.25 A: yeah 
+
+314.65 317.40 B: it's just goes through these big swings 
+
+317.22 322.23 A: yeah and we got all the war hype and everything i was actually overseas during the war 
+
+321.66 322.59 B: yeah 
+
+322.22 333.16 A: and so i uh i kept like reading news from home and everything kept saying war costs the u._s. mil- you know it's gonna cost us billions it's gonna hurt our economy 
+
+333.29 336.55 A: like people were arguing for and it didn't really do 
+
+337.18 340.30 A: got ourselves all hyped for nothing 
+
+340.54 341.86 B: well 
+
+341.90 347.79 B: i guess i mean i don't know what the real cost is and what the impact of that cost is gonna be 
+
+347.89 350.11 B: on the economy or the 
+
+350.37 352.58 B: country's deficit but uh 
+
+351.97 353.59 A: yeah 
+
+353.67 355.42 B: we never know anyway 
+
+354.99 358.31 A: yeah it always come around i don't know we 
+
+357.31 359.98 B: the other the other news event that's sort of 
+
+360.03 363.01 B: boggles my mind is the fact that all these states 
+
+363.13 373.69 B: have surpluses in their budgets you know just two just two years they had you know millions to to billions of dollars of surpluses in their budgets 
+
+366.83 368.00 A: oh really 
+
+373.76 375.78 B: and now they're all screaming 
+
+376.13 383.79 B: huge deficits you know we're never gonna make it we're cutting school programs we're cutting road services we're cutting this we're cutting jobs 
+
+378.19 379.12 A: oh 
+
+383.83 385.38 B: (( you know i'm thinking to myself )) 
+
+385.45 389.06 B: w- what's the difference is it all just a function of 
+
+389.12 391.66 B: stock dividends or you know 
+
+391.58 396.44 A: yeah well like even even the federal government had a huge surplus 
+
+392.08 393.52 B: capital gains 
+
+396.19 397.11 B: right 
+
+396.48 398.98 A: that's just i'm pretty sure that's gone now 
+
+398.96 400.88 B: yeah absolutely 
+
+400.35 402.46 A: totally disappeared unless 
+
+402.54 406.10 A: i mean right when bush got elected it was gone i think 
+
+406.14 407.40 B: yeah [laughter] 
+
+406.74 410.13 A: it totally disappeared once he passed his first budget 
+
+410.07 411.60 B: right 
+
+411.07 414.14 A: so i don't know it's kinda hard to say 
+
+413.81 416.21 B: i'm not a big george bush fan 
+
+415.62 417.22 A: i'm not either 
+
+416.88 421.74 B: um i'm not sure i can necessarily blame him for the state of the economy 
+
+421.95 424.76 A: no it's not i mean that was probably coming 
+
+424.47 425.53 B: right 
+
+425.06 428.27 A: this i mean our stock market was over inflated 
+
+428.79 433.51 B: part of me wants the economy to turn around for selfish reasons 
+
+433.14 434.75 A: do better on the 
+
+434.23 437.53 B: the other part of me wants it to stay crummy until he's gone 
+
+437.82 440.05 A: [laughter] yeah so he doesn't get reelected 
+
+439.24 441.14 B: (( [mn] so he doesn't reelected )) 
+
+440.77 442.06 A: yeah 
+
+441.51 446.51 B: 'cause that's about all he needs i think to get reelected would be to have 
+
+446.60 447.69 A: yeah 
+
+446.78 450.31 B: the economy turn around and the stock market go up and 
+
+449.34 453.63 A: i know well i mean have you seen like the democratic candidates 
+
+453.17 454.25 B: yeah 
+
+454.09 459.09 A: i do you think any of them's gonna come out like a shining star at this point 
+
+459.26 460.82 B: no [laughter] 
+
+460.14 464.10 A: yeah see [laughter] that's the that's the huge problem [mn] 
+
+464.21 466.10 B: how about that guy from florida 
+
+466.09 467.60 A: what's his name 
+
+468.40 471.97 A: i mean the only people that i can think of right now are leiberman and gapart 
+
+473.19 475.80 B: there's bob carey from massachusetts 
+
+474.71 475.82 A: bob carey 
+
+476.48 478.75 B: there's somebody from new hampshire who i've 
+
+478.83 481.40 B: only heard i hadn't seen him 
+
+481.53 483.85 B: he sounded pretty reasonable 
+
+483.25 485.39 A: yeah 
+
+484.84 486.53 B: but um 
+
+485.88 494.21 A: yeah i'm wondering what's gonna happen with that 'cause i saw like they'd missed their first democratic debate or i didn't see i just heard about it and 
+
+494.47 496.66 A: just didn't look that good 
+
+496.39 500.32 B: i i didn't see it either um 
+
+498.51 499.33 A: (( like )) 
+
+500.92 505.70 A: like i think reverend al sharp is running for democratic candidacy 
+
+505.54 508.16 B: oh yeah he'll he'll make president right 
+
+507.57 513.62 A: yeah god [laughter] yeah i just i mean just craziness i was just wondering if 
+
+509.29 510.34 B: [laughter] 
+
+513.69 519.87 A: i don't know i haven't really been keeping with i just started school again too so my news reading has declined 
+
+519.30 520.32 B: right 
+
+520.65 522.12 B: i think uh 
+
+522.35 529.30 B: guys like sharp you know that they don't enter with the anticipation of winning it's just to get a forum for their issues 
+
+526.55 527.59 A: yeah 
+
+529.23 537.72 A: yeah i uh sometimes it feels like they're pulling away from the like the people that could have won it's like ralph nader pulling away from al gore 
+
+538.28 539.30 B: right 
+
+538.68 544.42 A: like people that had possibly voted for him and changed the election they voted for nader and his 
+
+545.30 547.65 A: i guess he was green party then 
+
+547.48 548.78 B: yeah 
+
+548.39 550.21 A: something like that 
+
+549.50 551.22 B: (( let's see the democratic )) 
+
+551.28 553.78 B: national committee website 
+
+554.78 558.76 B: you'd think i ought to be able to find something here about candidates right 
+
+558.17 559.75 A: (( yeah seriously )) 
+
+562.38 564.17 B: more special events 
+
+564.50 565.78 B: (( democrat )) 
+
+566.61 569.08 B: nothing going there oh here we go 
+
+567.73 568.98 A: (( [mn] so you're actually )) 
+
+569.33 569.89 A: (( [mn] )) 
+
+569.57 572.20 B: two thousand and four white house candidates 
+
+573.83 575.41 B: (( hm )) 
+
+576.48 578.27 B: carol mosley braun 
+
+578.65 580.01 B: black female 
+
+580.21 582.16 A: yeah i saw her actually 
+
+582.74 583.92 B: what was she like 
+
+583.80 589.05 A: she seemed to be great i mean the but i mean taking the demographics of our country she's 
+
+589.11 590.34 B: (( doesn't have a chance )) 
+
+589.69 592.22 A: probably having not a chance in hell 
+
+592.27 595.98 B: there's a senator john edwards from raleigh north carolina 
+
+596.21 598.54 B: he seems a little slick for me 
+

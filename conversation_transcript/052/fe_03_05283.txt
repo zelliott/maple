@@ -1,0 +1,473 @@
+# fe_03_05283.sph
+# Transcribed by BBN/WordWave
+
+0.00 1.43 B: (( hi this is jordan )) 
+
+1.22 2.92 A: hello it's kim hung 
+
+3.14 4.16 A: (( how're you doing )) 
+
+3.25 4.28 B: (( hi how are you )) 
+
+4.54 5.68 A: hi i'm fine 
+
+4.72 5.67 B: pretty all 
+
+6.21 9.42 B: right so where are you calling from 
+
+9.51 11.44 A: oh i'm calling from georgia 
+
+11.52 12.47 B: georgia 
+
+12.35 13.45 A: (( yeah )) 
+
+13.12 13.96 B: cool 
+
+14.22 16.49 B: yeah i'm calling from arizona 
+
+16.17 17.58 A: oh really 
+
+17.37 19.14 B: yeah 
+
+18.12 21.75 A: yeah so it's hot here currently 
+
+19.49 20.29 B: so 
+
+21.85 24.46 B: oh yeah cool 
+
+22.66 24.91 A: mhm yeah 
+
+24.50 26.43 B: so um 
+
+26.95 30.13 B: topic is holidays uh [laughter] 
+
+28.68 31.61 A: yeah yeah yeah [mn] 
+
+30.14 32.71 B: what what's your what's your favorite holiday 
+
+32.44 38.41 A: [laughter] actually i come from china currently i'm a yeah i'm a graduate student in 
+
+33.67 34.57 B: [laughter] 
+
+35.32 36.61 B: oh yeah 
+
+38.94 40.72 B: [laughter] 
+
+39.26 42.28 A: so there are plenty of holidays in china 
+
+42.29 51.04 A: we have the lunar new year the spring festival i mean the chinese lunar new year that's the most important festival in china 
+
+42.38 43.26 B: yeah 
+
+44.70 45.52 B: uh-huh 
+
+48.57 49.37 B: right 
+
+50.99 53.63 B: oh cool when is that 
+
+52.16 53.10 A: (( [laughter] )) 
+
+54.38 56.91 B: what time what time of the year is that 
+
+54.67 55.52 A: (( uh )) 
+
+56.65 61.08 A: [noise] uh that depends that's the fourth day in the chinese lunar year 
+
+59.06 59.85 B: uh-huh 
+
+61.06 61.97 B: okay 
+
+61.33 64.89 A: uh sometime it's in january sometime it is in february 
+
+64.92 66.05 B: oh okay 
+
+66.09 66.89 B: cool 
+
+66.29 67.35 A: yeah 
+
+67.08 70.69 B: there's there's big like a big party or 
+
+67.49 68.33 A: (( so )) 
+
+70.79 78.64 A: yeah so that that's the time for all the family family member have our dinner together 
+
+73.94 75.32 B: (( [laughter] mm )) 
+
+76.90 77.79 B: uh-huh 
+
+78.69 79.62 B: okay 
+
+79.76 85.28 A: (( and the the uh most traditional food is uh chinese dumpling )) 
+
+79.96 80.71 B: cool 
+
+85.46 86.53 B: (( oh okay )) 
+
+86.47 95.12 A: yeah so it's uh nighttime for everyone um um make dumpling together and uh cook them and eat them 
+
+89.91 90.47 B: (( yeah )) 
+
+94.53 96.61 B: wow nice [laughter] 
+
+95.69 98.60 A: (( [laughter] [laughter] )) 
+
+96.71 97.81 B: that's cool 
+
+97.96 103.12 B: it it just sounds like our new year almost too [laughter] everyone to get together 
+
+100.88 103.19 A: yeah and 
+
+103.22 104.85 A: yeah yeah 
+
+104.24 105.22 B: um 
+
+105.24 113.56 A: and uh i think from nineteen eighty maybe nineteen eighty four chinese tele- uh television 
+
+113.86 118.23 A: um uh i mean the chinese central television in beijing 
+
+118.30 128.04 A: (( they with special party for the uh for the chinese lunar lunar new year for the spring spring festival )) 
+
+118.40 119.16 B: uh-huh 
+
+125.21 126.15 B: (( oh okay )) 
+
+128.00 128.85 B: uh-huh 
+
+128.26 135.33 A: (( it is also traditional for chinese people uh watch the the spring festival party )) 
+
+135.52 136.82 A: (( through the t._v. )) 
+
+135.61 136.51 B: mhm 
+
+137.18 137.89 B: (( oh )) 
+
+138.20 139.15 B: nice 
+
+139.49 141.22 B: that's cool um 
+
+141.44 144.46 B: how and that's all through china 
+
+144.97 147.45 A: um yeah yeah every chinese 
+
+145.12 145.99 B: every 
+
+147.65 150.32 A: every chinese guy like this festival 
+
+150.40 151.30 B: okay 
+
+150.75 155.82 A: actually mm i think as you know there are many people in asia live in china 
+
+155.81 156.65 B: uh-huh 
+
+156.24 160.67 A: some other nations uh may have their their own festival 
+
+160.50 161.40 B: right 
+
+160.66 173.08 A: different with uh spring festival uh such as in tibet in mongolia i mean you know mongolia they have their own festival it's a little bit different with um 
+
+168.65 169.49 B: (( cool mhm )) 
+
+170.83 171.67 B: oh 
+
+173.11 177.48 A: (( the the mm the mainstream of chinese )) 
+
+177.45 178.15 B: (( yes )) 
+
+177.50 180.19 A: but that's very similar [mn] 
+
+179.75 183.78 B: oh okay what if you don't mind asking what part of china are you from 
+
+183.61 184.54 A: beijing 
+
+184.53 188.47 B: beijing okay my aunt was just in i'm probably 
+
+185.26 186.92 A: yeah 
+
+188.49 191.96 B: totally going to say this the wrong way um guangzhou 
+
+192.83 193.66 B: (( guangzhou )) 
+
+192.90 194.01 A: oh i'm sorry 
+
+194.06 204.58 B: i uh [sigh] i can't my aunt was just in china i can't remember the city i can't pronounce the city she that she was in [laughter] but it was it was south of beijing so 
+
+200.15 201.16 A: oh 
+
+201.33 202.50 A: (( [laughter] )) 
+
+204.66 205.76 A: oh 
+
+204.75 205.91 B: but it was 
+
+206.80 210.59 B: i can't i can't pronounce it i won't even try to sl- i won't try 
+
+209.22 212.35 A: oh that's okay that's okay [laughter] uh-huh 
+
+210.85 217.67 B: yeah [laughter] but uh yeah um i my i think my favorite holiday is thanksgiving 
+
+217.68 220.49 A: oh that's uh that's for turkey 
+
+220.43 234.64 B: yes the turkey holiday [laughter] just christmas is just christmas is fun too um just you know everyone gets together and it's a good chance for all the family to get together and 
+
+221.58 224.05 A: (( [mn] [laughter] yeah uh )) 
+
+224.20 225.12 A: mm 
+
+230.81 232.27 A: mhm 
+
+234.23 235.46 A: mhm 
+
+234.90 242.97 B: visit and eat and [laughter] you know just be together but it's i like thanksgiving better 'cause 
+
+238.03 238.99 A: (( mm )) 
+
+239.04 240.04 A: yeah 
+
+242.73 243.29 A: (( [mn] )) 
+
+243.14 246.12 B: in you know america christmas 
+
+245.23 247.00 A: (( [noise] )) 
+
+246.24 255.21 B: is so such a corporate holiday and everyone just worries about the gifts that they're getting and giving and it turns into more 
+
+253.44 254.48 A: mhm 
+
+255.10 256.09 A: mhm 
+
+255.18 265.89 B: instead of the family and the reason the holiday's there it's more about the gifts whereas thanksgiving is just because you're happy just because it's family and you're thankful for 
+
+259.45 260.43 A: mhm 
+
+266.24 268.44 B: you know what you're getting so 
+
+266.26 268.09 A: mhm 
+
+268.42 279.05 A: mm yeah actually i have been here for three years but it's a pity i have never spent my christmas here because every winter holiday i went back to china 
+
+268.87 269.53 B: but 
+
+271.89 272.99 B: (( uh-huh [mn] )) 
+
+278.82 279.72 B: uh-huh 
+
+279.73 282.81 A: yeah but i i i spent i already spent um 
+
+283.06 284.33 A: (( two thanksgiving )) 
+
+284.35 285.22 B: yeah 
+
+284.91 291.12 A: (( holiday here and both thanksgivings [noise] i i went to uh a american family )) 
+
+290.90 291.72 B: uh-huh 
+
+291.21 303.43 A: yeah actually they are very warm hearted and uh um invite many foreigner foreigner student uh go to their house and uh have a party 
+
+303.31 304.20 B: uh-huh 
+
+303.40 309.84 A: yeah that's really interesting when we were in the second i mean last year i went to my friend's 
+
+309.74 322.43 A: home and they they do a lot of delicious food yeah and they invite invited many chinese student to share the food with them yeah it's really a nice experience 
+
+313.91 314.71 B: uh-huh 
+
+317.62 318.58 B: yeah 
+
+320.06 320.64 B: (( [mn] )) 
+
+322.39 326.05 B: yeah did you did you like the food was it pretty different than 
+
+324.85 335.28 A: oh sure yeah actually the turkey the turkey delicious but this time that maybe depend on how how do you make it 
+
+326.34 327.23 B: yeah 
+
+328.43 329.34 B: uh-huh 
+
+335.14 336.30 B: right 
+
+335.75 343.34 A: i mean yeah [laughter] sometime yeah mm er i think the wife of my friend is really good at cooking 
+
+343.28 351.63 A: (( so the turkey meat is delicious but if i made it it's it's maybe not so good )) 
+
+343.28 344.02 B: right 
+
+346.11 346.75 B: right 
+
+351.10 361.96 B: yeah [laughter] i i don't eat i'm a vegetarian so i don't eat i don't have to worry about cooking turkey so [laughter] i just i eat the rest of it though 
+
+351.79 354.05 A: [laughter] 
+
+355.92 356.90 A: oh 
+
+358.05 360.63 A: oh [laughter] 
+
+362.02 363.22 A: oh 
+
+363.09 368.86 B: so i i like the corn and the potatoes and the stuffing the stuffing was good 
+
+363.76 364.78 A: mm 
+
+366.61 367.89 A: mhm 
+
+368.40 375.03 A: okay yeah yeah yeah how how do you think think about the the independent day 
+
+370.34 371.12 B: (( but )) 
+
+375.26 376.28 A: is coming 
+
+375.47 376.36 B: the what 
+
+376.56 377.96 A: the independent day 
+
+378.20 382.36 B: oh independence day uh yeah it's fun too um 
+
+382.83 385.00 B: i like we like uh 
+
+383.48 386.35 A: (( mhm )) 
+
+385.76 388.34 B: you know just going to watch the fireworks and 
+
+388.21 390.00 A: mhm 
+
+388.48 389.21 B: it's 
+
+389.38 391.08 B: you know it's kind of a 
+
+391.24 393.28 B: a funny holiday because 
+
+393.57 394.60 B: um 
+
+397.01 404.93 B: i don't know i don't know [laughter] a lot of people a lot of people forget why what's it for [laughter] why it's why it's a holiday 
+
+398.07 400.03 A: [laughter] 
+
+402.65 403.56 A: (( oh )) 
+
+404.84 416.33 A: (( yeah i think there are um uh another two holidays also very important one is the the independent day of china chinese um national day )) 
+
+404.97 406.68 B: (( they just )) 
+
+416.14 417.03 B: uh-huh 
+
+416.49 419.79 A: actually that is um august fourth 
+
+419.89 420.70 B: uh-huh 
+
+420.11 432.28 A: and uh it's it's just the right time for for people to travel because that's in the fall and then the weather is very is very suitable for people to travel around uh different place 
+
+426.50 427.16 B: (( uh-huh )) 
+
+429.02 429.80 B: oh 
+
+432.32 436.27 A: and so chinese come and get one week holiday 
+
+432.37 433.18 B: uh-huh 
+
+436.28 437.40 B: oh cool 
+
+436.31 444.16 A: so that just encourage everyone to spend money and uh yeah buy something and uh do some tra- traveling 
+
+443.93 446.29 B: yeah now independence from who 
+
+446.65 447.21 B: (( [lipsmack] )) 
+
+446.67 447.91 A: um 
+
+448.00 451.62 A: um uh i think that's after the civil war 
+
+451.74 453.28 A: the chinese civil war 
+
+451.88 452.88 B: (( after the civil )) 
+
+453.09 454.05 B: (( oh okay )) 
+
+453.40 454.82 A: yeah 
+
+454.59 458.77 B: okay cool yeah i imagine you have pretty good fireworks uh 
+
+458.58 461.76 A: (( yeah of course [laughter] yeah uh )) 
+
+460.73 462.96 B: [laughter] yes 
+
+461.95 467.27 A: mm actually there are many traditional holidays in china 
+
+467.33 471.87 A: (( and uh each of them may have a beautiful story aft- behind them )) 
+
+471.92 472.73 B: uh-huh 
+
+472.68 474.61 A: yeah for example the 
+
+475.32 479.43 A: (( duan wu the duan wu holiday is come from uh famous poet )) 
+
+479.90 485.81 A: uh in ancient china maybe three thousand years ago who who love 
+
+485.82 490.32 A: his country and died for his country after that mm 
+
+490.52 493.17 A: (( people want to uh )) 
+
+493.61 498.94 A: that's a uh make a holiday at the the the the date 
+
+498.99 503.56 A: uh the poet who has died and want to remember him forever 
+
+499.12 499.92 B: uh-huh 
+
+503.57 504.52 B: right 
+
+505.09 511.40 B: well that's that's cool three thousand years ago man that's a long hist- that's a long history [laughter] 
+
+508.29 509.96 A: (( [laughter] yeah )) 
+
+510.79 512.96 A: yeah yeah yeah 
+
+512.25 518.00 B: yeah ours is only a few hundred years old a little over two hundred [laughter] [sigh] 
+
+517.06 520.45 A: (( oh that's okay uh america is uh a very modern )) 
+
+518.46 519.42 B: yeah 
+
+520.56 521.47 B: yeah 
+
+520.70 527.47 A: country and uh yeah it's well developed and uh there are lots of things we can learn from here 
+
+524.09 525.00 B: yeah 
+
+527.92 534.63 B: yeah yeah my my aunt said uh china was a great place to visit she loved it it 
+
+533.44 543.80 A: (( mhm yeah the the mm yeah i i think the main difference between china and uh america well the main difference is the culture )) 
+
+534.92 535.87 B: (( was nice )) 
+
+543.75 544.66 B: uh-huh 
+
+544.31 547.57 A: the culture chinese has very unique culture 
+
+547.73 548.66 B: yeah 
+
+547.73 550.20 A: different with old western countries 
+
+550.14 562.24 A: and um yeah yeah and uh uh you may find many stories cultural stories history story mm in some holiday or for some other 
+
+562.14 572.11 A: i mean some some even for some natural scenery or some beauty yeah there are many mm history stories behind them 
+
+565.82 566.73 B: uh-huh 
+
+567.22 568.46 B: right 
+
+572.12 576.93 B: yeah cool [mn] man i i'd like to go some day it'd be fun 
+
+573.43 574.00 A: (( mm )) 
+
+575.94 579.82 A: yeah it it could be very interesting 
+
+578.62 582.29 B: mm nice [sigh] um 
+
+582.79 592.75 B: do you get like in america do they have you said you get a week off at independence day does are there other days that you get off for holidays or 
+
+589.77 590.53 A: (( mhm )) 
+
+591.43 599.95 A: yeah another holiday is uh labor day it's different with american labor day it's maybe similar with european labor day it's in the 
+
+594.07 595.07 B: oh okay 
+
+598.97 599.95 B: (( mm )) 
+

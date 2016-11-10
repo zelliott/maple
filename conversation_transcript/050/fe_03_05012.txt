@@ -1,0 +1,377 @@
+# fe_03_05012.sph
+# Transcribed by BBN/WordWave
+
+0.00 1.99 A: (( [noise] )) 
+
+1.17 2.40 B: hello 
+
+2.41 4.76 A: (( [noise] hello [noise] )) 
+
+4.04 5.15 B: hi 
+
+5.96 7.71 A: (( hi i'm tiernan gordonson )) 
+
+7.84 9.30 B: what's your name 
+
+9.02 12.01 A: (( [noise] [noise] say again [noise] )) 
+
+11.36 13.45 B: i can't hardly hear you 
+
+13.56 15.05 B: i'm donna 
+
+15.55 16.78 A: hi i'm tiernan 
+
+16.55 20.55 B: oh that's much better now i can hear you 
+
+21.35 28.05 B: now let's see our topic was has our lives changed since sep- september eleventh right 
+
+27.90 29.12 A: (( yes it [noise] )) 
+
+29.05 31.44 B: [mn] we- well has yours 
+
+32.34 35.47 A: well i look at things differently you know 
+
+35.66 36.73 A: just 
+
+37.80 44.20 A: with all the war and stuff going on it's [noise] it's a lot happening i see i see a lot of things differently but [noise] 
+
+44.91 48.58 A: i still live the sa- i i still try and live my life the same way you know 
+
+48.98 55.17 B: yeah i live my live the same way life seems a little more precious to me 
+
+55.13 59.55 A: yeah it it's more precious you know you want to you want to live life you don't want to 
+
+59.70 61.65 A: (( walk around worrying about )) 
+
+61.77 63.54 A: this war and stuff you know 
+
+63.13 64.86 B: [noise] i know 
+
+65.11 66.61 B: sure don't 
+
+67.65 71.17 B: and i watch the news a lot more than i used to 
+
+71.26 72.55 A: [noise] excuse me 
+
+72.18 75.74 B: i say i watch the news a lot more than i used to 
+
+75.81 77.82 A: yes i keep up with the news too 
+
+77.71 85.76 B: i used to i didn't until it happened i didn't watch the news hardly at all now i catch myself watching the news a lot [noise] 
+
+85.31 88.90 A: yeah i want to see what's going on you know i keep up with everything 
+
+89.10 92.19 A: what's going on with the war and stuff the war on terrorists 
+
+91.13 94.07 B: [noise] mhm 
+
+93.32 95.77 A: i try to see what's what's going on 
+
+96.66 100.81 A: but i still live my life my life it's it's changed because you 
+
+101.39 102.97 A: know i see things 
+
+103.12 104.42 A: i see things mm 
+
+104.34 105.21 B: (( [noise] [noise] )) 
+
+104.43 105.70 A: differently now 
+
+106.11 106.99 A: (( you know )) 
+
+106.58 107.15 B: (( [noise] )) 
+
+107.87 109.17 B: yeah 
+
+109.27 117.84 B: i know that's kinda the way i am i haven't changed my life but yet my thoughts about life have changed 
+
+116.68 119.81 A: [noise] yeah yeah my thoughts that's it 
+
+118.97 123.96 B: something like that [mn] my heart feels like life's a little bit more 
+
+125.40 127.58 B: more delicate you know 
+
+127.76 132.90 B: my freedom can be gone a lot quicker than i used to think it could [noise] 
+
+133.00 134.08 A: (( yeah [lipsmack] )) 
+
+133.53 135.55 B: [noise] i don't know 
+
+137.30 139.00 B: (( [noise] [noise] )) 
+
+138.34 140.01 A: (( yeah that's right yeah [noise] )) 
+
+141.61 145.53 A: and i think about this war you know because i got like family members over there 
+
+145.35 146.83 B: oh do you 
+
+146.95 148.08 A: yes 
+
+148.19 152.99 A: i have a brother that's that's fighting on in afghanis- not afghanistan but he's in cuba 
+
+148.31 149.07 B: [noise] 
+
+153.40 154.47 A: that's like 
+
+154.63 156.60 A: that's where they send the prisoners there 
+
+156.66 159.56 B: (( [noise] [noise] [noise] [noise] yeah )) 
+
+158.69 160.88 A: so he's he's over there 
+
+162.40 169.01 B: [noise] wow well i don't have anybody [noise] involved in the war thank god [sigh] 
+
+169.32 175.76 B: all my grandkids are all girls and my son aint old enough and my daughters are 
+
+176.20 184.59 B: too old [laughter] i have a very confusing family [laughter] 
+
+178.31 179.93 A: [laughter] 
+
+182.69 184.83 A: yeah i do too 
+
+184.78 196.03 B: [laughter] that probably sounded real strange my grandkids are girls and my son aint old enough my daughters are too old but it's true [laughter] 
+
+193.74 194.90 A: [laughter] 
+
+196.27 197.66 A: (( [laughter] [laughter] )) 
+
+197.84 203.03 B: [sigh] oh my youngest daughter was twenty five when i had my son so 
+
+203.62 205.74 B: makes quite a difference 
+
+205.77 206.78 A: yeah 
+
+206.31 208.31 B: (( [noise] [noise] [laughter] )) 
+
+209.87 211.37 B: where do you live 
+
+211.63 213.28 B: what part of the country 
+
+212.01 212.92 A: (( i live in )) 
+
+213.43 215.13 A: i live in south carolina 
+
+214.75 219.91 B: oh yeah it's so pretty there i'm in missouri [mn] 
+
+216.46 217.81 A: (( what about you [mn] )) 
+
+220.01 221.95 A: oh missouri i've never been there 
+
+221.47 224.95 B: i'm right in the middle of farming country 
+
+225.47 227.88 A: all right i never i never been up there 
+
+227.66 228.65 B: (( [mn] )) 
+
+228.77 233.62 B: it's pretty busy this time of year i live out in the country and it's 
+
+234.47 240.45 B: uh the cities are busy all the time the country only gets busy during warm weather 
+
+240.47 241.60 A: yeah 
+
+242.44 243.72 B: in the wi- 
+
+242.66 243.77 A: down here 
+
+245.07 247.99 B: it's warmer where you're at all the time 
+
+247.98 249.67 A: it's pretty warm yeah it's 
+
+249.37 252.28 B: [noise] we get really cold in the winter 
+
+254.40 255.49 B: [noise] 
+
+254.58 256.76 A: a pretty good temperature year round 
+
+255.85 256.40 B: [noise] 
+
+256.80 259.19 A: pretty good it's a good place to be i like it here 
+
+258.91 260.53 B: that's cool 
+
+260.36 262.36 A: 'cause i'm originally from maryland 
+
+262.44 268.14 B: oh it's cold up there aint it [mn] [laughter] 
+
+264.72 266.81 A: yes it's pretty cold 
+
+267.95 269.09 A: [laughter] 
+
+269.66 276.49 B: well i was born and raised here this is the only place i've been 'cept for travelling so it's all i know 
+
+276.97 278.46 A: yes me too 
+
+279.75 281.69 A: so how did you feel like 
+
+282.29 285.32 A: like when you first found out about september eleven 
+
+284.95 292.12 B: [mn] i didn't believe it when i first seen it on t._v. i came in i was going to 
+
+292.92 305.87 B: uh school to work on computers and i came in from school and it was on the t._v. and i thought this is some hoax of some kind i just didn't believe it 
+
+303.48 304.39 A: yes 
+
+305.87 312.15 A: i couldn't believe it either it's it took me o- it took a while for it to settle down for me to realise what actually happened 
+
+313.52 318.02 B: yeah it's like no that don't happen in my world 
+
+313.58 314.41 A: but 
+
+318.04 319.04 A: yeah 
+
+318.50 320.85 B: [laughter] the you know 
+
+322.65 329.07 B: and then i get to thinking about it now and wow like we're over there fighting now 
+
+329.23 329.94 A: (( yeah )) 
+
+329.44 333.25 B: most countries except ours have been in war 
+
+334.05 339.98 B: since existence in their country people have had to live in the middle of a war 
+
+339.86 341.21 A: (( yeah i know )) 
+
+341.30 344.60 B: [noise] and i never even thought about that till now 
+
+346.17 349.61 A: [lipsmack] well have you ever been to new york have you ever been to ground zero 
+
+350.02 351.01 B: (( mm mm )) 
+
+351.03 355.08 A: yeah i took i took a trip up there um 
+
+351.86 353.27 B: (( [noise] )) 
+
+355.22 358.82 A: during christmas i went up there for some family you know 
+
+359.20 360.83 A: took some pictures and stuff 
+
+362.06 364.10 A: they're pretty much fixing it up now 
+
+364.83 368.88 B: i figured they'd do it it's it's been a few years though 
+
+368.75 370.88 A: (( yes it's been a few years )) 
+
+372.06 376.52 B: [noise] it's been gosh when was that 
+
+375.64 376.57 A: (( that was )) 
+
+376.59 378.53 A: two thousand and one 
+
+377.35 381.23 B: yeah well it's been a while 
+
+381.43 384.41 A: it doesn't seem that long ago but it it has 
+
+383.45 384.02 B: (( [noise] )) 
+
+384.18 399.12 B: no it still like sometimes i think did it really happen [noise] but then i haven't out here in the middle of the united states i haven't really been confronted with it it has made me realise that uh 
+
+399.22 406.37 B: like all the old missile silos and everything are right here in the central united states 
+
+406.70 416.90 B: and i think wow you know if i was them if i was going to do a terrorist thing i'd be hitting our missiles silos and stuff [noise] 
+
+416.98 417.96 A: yeah 
+
+417.99 425.17 B: e- even though they're supposed to be deactivated i don't [noise] i don't know about that 
+
+423.42 425.05 A: [noise] yeah i don't about that either 
+
+425.47 430.98 B: [noise] there's too much activity still going on around them as you drive by makes me wonder 
+
+430.97 434.51 A: [noise] yeah there's too much stuff going on that that we don't know about 
+
+434.17 439.13 B: yeah and we only we only know what they want us to hear 
+
+435.61 436.71 A: they try to keep 
+
+438.79 442.34 A: yeah it's it's a lot i think it's a lot more to it than that 
+
+442.35 443.86 B: i do too 
+
+445.48 452.55 B: um the older i get the more skeptical i get on what what i hear on the news it's like [noise] 
+
+452.63 457.00 B: is that really the news or is that what i'm supposed to hear 
+
+457.05 457.98 B: [laughter] 
+
+457.63 461.77 A: (( yeah [laughter] yes i see that i understand what you're saying )) 
+
+458.52 459.63 B: [laughter] 
+
+461.61 464.97 B: [laughter] and it's kind of wild [noise] 
+
+468.47 469.04 B: [noise] 
+
+468.51 471.86 A: (( but yeah that's yeah that's that's crazy though )) 
+
+475.21 478.59 A: so what's like how are they dealing with it in missouri 
+
+478.97 481.62 A: like what's the talk up there about september eleven 
+
+482.21 488.02 B: oh just about how awful it is and stuff you know we're so far away 
+
+488.35 501.62 B: um it has affected our economy quite a bit don't anybody seem to have as much or have as much good a like lots of people i know are not working now at all 
+
+492.94 493.67 A: (( mhm )) 
+
+501.89 504.36 A: see it it's not like that here you know every 
+
+503.33 505.27 B: oh really 
+
+504.53 506.53 A: yeah everything's pretty much the same 
+
+506.36 508.01 B: wow 
+
+508.13 509.45 A: (( yeah our gas )) 
+
+508.17 508.98 B: (( are you )) 
+
+509.83 516.60 A: our gas prices went up a little bit but they dropped back down to a regular price so e- everything's pretty much the same 
+
+514.63 515.82 B: our 
+
+517.17 524.09 B: it's it's affected it here quite a bit it takes a while longer it seems like 
+
+524.63 533.98 B: out here in the middle of nowhere when something happens on either coast or anywhere else in the world that it takes longer to affect us 
+
+534.01 534.86 A: mhm 
+
+535.32 537.12 B: it's kinda weird 
+
+538.69 549.22 B: so we have we have like quite a bit of months to for things to soak in before it hits us and then when it hits us it don't seem like it goes away near as quick either 
+
+551.05 551.85 B: (( [noise] [mn] )) 
+
+551.69 553.06 A: (( [noise] yes )) 
+
+555.43 559.59 B: it certainly certainly made a difference in the way you think 
+
+560.07 562.35 A: yeah that's that's like the main thing 
+
+562.81 563.37 B: (( [noise] )) 
+
+565.11 566.99 A: (( you know i took um a )) 
+
+571.40 572.81 A: (( lot of things happening )) 
+
+572.85 575.22 B: yeah lots of things 
+
+575.25 576.04 B: [noise] 
+
+576.75 579.96 B: i really couldn't believe we went to war 
+
+580.46 581.82 A: (( yes at first i w- )) 
+
+583.02 586.64 A: at first i didn't believe we was going but like as time went 
+
+586.69 591.07 A: (( as like the years passed like things kept getting worse and worse )) 
+
+591.83 592.65 A: so 
+
+593.71 595.84 A: i figured it'll happen sooner or later 
+
+596.00 597.42 B: (( [noise] [noise] that's )) 
+
+596.36 598.75 A: (( the sooner it happens the sooner it's over with )) 
+
+598.30 599.10 B: [noise] 
+

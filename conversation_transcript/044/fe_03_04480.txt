@@ -1,0 +1,353 @@
+# fe_03_04480.sph
+# Transcribed by BBN/WordWave
+
+0.81 1.94 A: hello 
+
+1.63 2.64 B: (( hello )) 
+
+2.76 3.67 A: hello 
+
+3.64 4.53 B: yes 
+
+4.72 6.90 A: this is larry i live in maine 
+
+5.70 8.07 B: hey larry how are you doing 
+
+7.71 9.83 A: i'm doing fine and who are you 
+
+8.60 9.61 B: they said 
+
+9.92 12.77 B: i'm clinton how are you doing i'm sorry 
+
+12.42 13.70 A: and from where 
+
+13.67 15.97 B: (( ah i'm from louisville texas )) 
+
+16.00 16.77 A: (( uh-huh )) 
+
+16.71 18.37 B: where are you from 
+
+17.75 18.62 A: maine 
+
+18.77 19.51 B: maine 
+
+19.92 22.04 B: well how's the weather there 
+
+21.91 25.32 A: uh it's been a very cold spring [laughter] 
+
+24.07 26.66 B: really it's pretty warm here 
+
+25.71 26.89 A: cold and wet 
+
+26.89 29.21 B: oh i bet i know they say 
+
+28.09 29.95 A: and a long winter this year 
+
+29.93 31.45 B: is it 
+
+30.94 34.95 A: it was yeah yeah it it was in the fifties today 
+
+35.25 37.28 B: oh that's not too bad 
+
+36.04 40.47 A: but no no spring is slow to arrive 
+
+40.76 44.36 A: uh i understand we're supposed to comment on public schools 
+
+44.07 45.27 B: yes 
+
+46.19 47.68 A: do you have any opinions 
+
+47.54 53.20 B: well there's good and bad about it i mean where i grew up in uh florida they had uh 
+
+53.41 57.79 B: public schools were pretty bad down there a lot of crime rates and stuff but uh 
+
+58.43 65.20 B: some of the teachers didn't really seem to care about the the students or whatnot but then you had a selective few teachers that did you know 
+
+65.72 69.87 B: but uh but out here in louisville in texas it seems a little better 
+
+71.45 73.40 B: how are the schools out there 
+
+74.27 75.16 A: well 
+
+75.97 79.35 A: actually i think all things considered probably 
+
+79.40 85.14 A: maine's education system is in pretty good uh standing compared to the rest of the nation but 
+
+83.23 83.91 B: (( oh )) 
+
+85.93 89.82 A: up to the fourth grade we have the highest reading scores in the country 
+
+89.84 95.56 A: but grades four through twelve there seems to be a serious decline and 
+
+89.91 91.11 B: really 
+
+95.86 103.58 A: i'm not sure i can point my finger at the exact cause but i think i think we have a lot of parental interference 
+
+103.85 113.96 A: we have a lot of parents that are making demands on the school system that perhaps are unjustified and i think that interferes a little bit with the daily operation of the schools 
+
+109.85 110.56 B: (( mm )) 
+
+114.39 115.31 A: uh 
+
+116.18 119.60 A: it's my perception that what has really happened is 
+
+120.02 123.91 A: that educators don't have control over education 
+
+124.64 127.80 A: and i think the older the kids get 
+
+127.83 130.75 A: the less control the educators have over 
+
+131.05 132.64 A: the educational process 
+
+133.63 135.44 A: i'm not sure how to correct it 
+
+135.70 150.12 B: yeah i know out here it seems like the school system i just knew in in this metroplex over here it seems like they're highly rated i know plainer has really great schools and they rave a lot about them the students seem to 
+
+150.13 155.77 B: have a lot of activities and and i just think that parents need to get more involved than what they are right now 
+
+156.51 158.29 A: well that's probably a good thing 
+
+158.96 160.91 B: that they're not or they are 
+
+160.51 162.11 A: that they are involved 
+
+162.02 164.11 B: yeah well they need to be you know 
+
+164.38 177.04 B: that's definitely i know my parents were involved with us when we were in school too but there's a difference between it seems like with public schools and private schools because i went to a private school for about a year or so and it just seems 
+
+177.08 187.46 B: totally different just i guess if they it seems like a lot of schools in dallas are adopting uh dress codes as far as you know a blue 
+
+187.84 191.30 B: navy shirt and white pants or black pants you know 
+
+191.60 197.75 B: that way kids don't have to worry about certain clothes that they're wearing or certain clothes that they buy and all that or 
+
+195.40 196.25 A: right 
+
+196.26 202.19 A: they don't have to be concerned about keeping up with the joneses [laughter] yeah when they're all dressed the same way 
+
+199.73 201.18 B: right or 
+
+201.53 209.92 B: yeah or gang colors and all that ridiculous stuff can focus more on education which is good but i think public schools are good for 
+
+203.89 204.69 A: right 
+
+210.59 222.81 B: more so than just education they're adapting to other things too you know intermingling with adults and i think learning commonsense also you know 'cause you have cliques in in schools also 
+
+222.42 223.63 A: oh for sure 
+
+223.06 226.30 B: so i think their mind more so 'cause i know my wife was home schooled 
+
+226.47 234.98 B: and i know that there's things that home school that i saw that's different with public school because i was raised in a public school so i see where there is different things 
+
+235.37 244.09 B: where it seems home school kids adapt better with adults more so than kids i guess that go to public school 
+
+243.28 252.08 A: i think that's probably right and they probably don't get some of the social skills of uh age group though that they otherwise would get by being in the public 
+
+244.79 245.77 B: so 
+
+248.06 250.78 B: right 
+
+251.86 259.95 B: and i think it's one of the the good things about public school that you do get not just education you get education on other things as well as just in the books 
+
+255.39 256.21 A: right 
+
+260.03 266.47 A: right unfortunately you also get subject to a number of put downs [laughter] 
+
+260.15 262.29 B: so you get the street smarts i guess 
+
+264.89 268.91 B: yeah and that's true too so hopefully you have a uh a stronger 
+
+269.28 272.66 B: foothold you know [laughter] you don't let things bother you so 
+
+272.23 273.47 A: oh that's right 
+
+273.42 277.72 B: 'cause i know i got that growing up but you don't worry about it you don't sweat the small stuff 
+
+276.98 283.18 A: no no and as you get older you sweat the small stuff even less [laughter] 
+
+281.14 284.35 B: [laughter] that's true that is true 
+
+285.23 297.32 B: but i don't know there's a lot of good things i got out of public school i mean they had some great programs and stuff that went above all the crime and all the stuff that we had at the schools and drugs and all that i mean there was i had some good times and good memories there 
+
+296.85 301.57 A: well i think if if you really look at public schools objectively 
+
+301.68 306.50 A: they probably are a mirror image of society at large 
+
+307.13 313.71 A: and they will be as strong or as weak as society allows them to be 
+
+314.37 316.20 A: no more no less 
+
+316.63 317.53 A: uh 
+
+317.72 326.19 A: i do believe very strongly if education were totally in the hands of educators the schools would operate a little differently than they operate right now 
+
+325.97 328.98 B: oh yeah there is a lot of 
+
+327.59 336.42 A: the entire board of education uh i can't speak for your state but in maine the board of education is made up of people that are 
+
+336.82 338.69 A: uh not even 
+
+338.97 343.33 A: skilled in the educational process okay now if you wanted to be an attorney 
+
+340.91 347.35 B: mhm 
+
+343.78 346.68 A: and you passed the maine bar exam 
+
+347.43 351.65 A: all the questions and the board is made up of attorneys 
+
+347.72 348.30 B: (( mm )) 
+
+349.92 356.71 B: mhm 
+
+352.32 353.98 A: not true with education 
+
+354.47 357.54 A: and you know any anybody that 
+
+358.10 359.61 A: is a layperson 
+
+360.34 366.34 A: can be on the state board of education and i i can't in my own mind 
+
+367.66 369.70 A: conceive how they 
+
+370.53 376.40 A: could determine what the good educational process would be or what would be a good quality of school 
+
+376.70 379.35 A: if they don't have an educational background themselves 
+
+379.48 382.25 A: (( i don't think that they have the qualifications to do that )) 
+
+382.23 385.68 B: i agree a lot of it goes down to politics too though 
+
+385.40 387.55 A: oh sure that's right 
+
+385.96 387.39 B: you know they want 
+
+387.41 391.50 B: minorities or this and that in our in our school system and stuff too and it's 
+
+389.76 394.14 A: that's right school is one of the biggest political footballs in the country and 
+
+392.90 394.52 B: oh yeah uh-huh 
+
+394.24 398.76 A: and if there's a place where there should never be any politics it's school 
+
+398.56 399.54 B: yeah 
+
+398.92 403.49 A: but if there's a place where there is politics it's school [laughter] 
+
+401.58 411.40 B: that's true they'll never drop the football team in high school but they'll drop the band team funds in a heartbeat you know because that's what what's bringing in money uh-huh it's true 
+
+405.66 406.81 A: that's right 
+
+407.13 409.54 A: and it's so sad 
+
+411.35 413.04 A: yeah it's true that's right 
+
+411.77 419.93 B: that is very true mhm 
+
+414.02 415.26 A: and uh 
+
+415.77 423.83 A: well i think in recent years well i say in recent years over the last thirty years you know looking back over how education has changed here 
+
+425.12 427.64 A: the school day hasn't gotten any longer 
+
+428.58 432.45 A: but what teachers are expected to impart 
+
+432.77 436.32 A: to the students has increased dramatically 
+
+436.81 439.92 A: and we've gone from reading and writing and arithmetic 
+
+440.48 452.49 A: to having six or seven different subjects in the curriculum and the school's expected to pick up the political football and go with it you know they're expected to feed them lunch they're expected to uh give them a snack break 
+
+452.68 456.70 A: we have schools in maine now that furnish breakfast for kids 
+
+456.71 457.66 B: wow 
+
+457.04 464.48 A: uh health is now a requirement family life is now a requirement i'm not saying that it shouldn't be 
+
+458.98 462.26 B: (( mhm )) 
+
+464.59 469.50 A: but every time that you put some of those things into the school curriculum 
+
+469.74 471.86 A: something else gets bumped a little bit 
+
+471.77 473.05 B: yeah 
+
+472.42 477.63 A: so our our our kids are probably doing better in terms of 
+
+478.60 485.33 A: uh being educated in health and family life and living and probably better educated now on 
+
+485.79 489.71 A: but at the sacrifice of reading and mathematics 
+
+488.92 490.76 B: mhm 
+
+489.77 492.22 A: because those were staples of the curriculum 
+
+492.47 496.74 A: but now they make up a smaller percentage of the instructional time 
+
+497.35 502.37 A: and every time something comes in something else has to go and uh 
+
+503.05 508.35 A: i think that's i think that's you know a real problem and probably on a nationwide scale 
+
+503.10 504.45 B: that is true 
+
+508.26 516.20 B: yeah and they pay school taxes and all that it's just a shame you don't get the vote on what what classes you can have for a kid do you know what i mean 
+
+515.98 517.45 A: oh yeah [laughter] 
+
+516.60 523.49 B: like okay they're gonna have these activities let's all vote on them you know what i mean and but they don't that's what's kind of odd 
+
+525.03 530.20 B: you have to give your money away but you can't have no choice [laughter] you don't have the matter what what's in school systems 
+
+527.86 529.89 A: (( yeah right [laughter] )) 
+
+530.07 533.46 A: well a few things in life that are certain death and taxes 
+
+533.17 538.87 B: that is true yeah not necessarily in that order either [laughter] that is true 
+
+533.49 535.87 A: (( [laughter] [laughter] )) 
+
+536.43 537.58 A: that's right 
+
+537.67 538.64 A: (( yeah )) 
+
+539.37 543.96 A: yeah probably in reverse order [laughter] [laughter] 
+
+541.30 543.15 B: yeah that is true 
+
+543.76 553.67 B: that is huh the other are your schools up there are they i mean are they mixed you have a lot of spanish or blacks or whites or 
+
+546.18 546.90 A: (( yeah )) 
+
+552.72 554.41 A: oh gosh no 
+
+554.31 555.17 B: no 
+
+554.59 560.99 A: no uh it's very very rare oh probably in the in the bigger cities you know bangor and uh 
+
+559.66 565.41 B: mhm 
+
+561.56 564.80 A: portland area you probably have some of those but 
+
+565.47 569.83 A: i live in the eastern part i live right near by in the arcadia national park 
+
+570.21 581.77 A: and it's very rare to have a black person here usually they're military okay they're stationed in the navy base or coastguard or their um sorry but their parents usually are stationed at one of the bases 
+
+573.54 580.44 B: (( yeah )) 
+
+582.24 583.26 A: uh 
+
+583.35 590.00 B: so you don't have security pretty strong there do you metal detectors and all that 
+
+586.19 586.93 A: no 
+
+587.60 588.40 A: no 
+
+589.25 592.61 A: no that's not something we have to be concerned about yet 
+
+592.49 595.70 B: yeah hopefully it doesn't go to that 
+
+593.02 593.99 A: (( ah )) 
+
+594.61 596.96 A: it it may be coming to that but 
+
+597.12 599.17 A: we're we're hopeful that it won't 
+
