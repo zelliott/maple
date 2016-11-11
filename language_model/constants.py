@@ -2,6 +2,7 @@ srilm_path = '/Users/spencerlake/Dropbox/upenn/senior_design/srilm-1.7.1/bin/mac
 
 model_order = '1'
 corpus_size = 1000000
+temp_test_file = 'temp_test.txt'
 
 test_data_raw_path = './test_data/raw'
 test_data_clean_path = './test_data/clean'

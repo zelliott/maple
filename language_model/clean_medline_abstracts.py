@@ -35,11 +35,12 @@ def create_abstract_dirs(abstract_files):
 		call(['mkdir', abstract_dir])
 
 		abstracts = get_abstracts(test_data_raw_path + '/' + abstract_file)
-		
+
 		for i in range(0, len(abstracts)):
 			if len(abstracts[i].replace(' ', '').replace('\n', '')) > 0:
 				to_write = open(abstract_dir + '/' + str(i), 'w')
 				to_write.write(abstracts[i].encode('UTF-8'))
+				to_write.close()
 
 abstract_files = os.listdir(test_data_raw_path)
 create_abstract_dirs(abstract_files)
