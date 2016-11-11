@@ -1,5 +1,4 @@
 import os
-import re
 import xml.etree.ElementTree as et
 from subprocess import call
 from constants import test_data_raw_path

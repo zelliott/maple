@@ -17,4 +17,5 @@ def make_model(train_file):
 	call(args)
 
 # make_model('brown.txt')
-make_model('gutenberg.txt')
+# make_model('gutenberg.txt')
+# make_model('nytimes.txt')
