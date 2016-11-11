@@ -1,0 +1,5 @@
+
+SARGE is a tool for creating, visualizing and manipulating a putative genetic network from time series microarray data. The tool assigns potential edges through time-lagged correlation, incorporates a clustering mechanism, an interactive visual graph representation and employs simulated annealing for network optimization.
+
+The application is available as a .jar file from http://www.bioinformatics.cs.ncl.ac.uk/sarge/index.html.
+

@@ -1,0 +1,9 @@
+
+Osteoporosis affects 200 million people worldwide and places an enormous economic burden on society. We aim to identify the feature genes that are related to osteoprotegerin in osteoporosis and to perform function analysis with DNA microarray from human bone marrow.
+
+We downloaded the gene expression profile GSE35957 from Gene Expression Omnibus database including nine gene chips from bone marrow mesenchymal stem cells of five osteoporotic and four non-osteoporotic subjects. The differentially expressed genes between normal and disease samples were identified by LIMMA package in R language. The interactions among the osteoprotegerin gene (OPG) and differentially expressed genes were searched and visualized by Cytoscape. MCODE and Bingo were used to perform module analysis. Finally, GENECODIS was used to obtain enriched pathways of genes in an interaction network.
+
+A total of 656 genes were identified as differentially expressed genes between osteoporotic and non-osteoporotic samples. IL17RC, COL1A1, and ESR1 were identified to interact with OPG directly from the protein-protein interaction network. A module containing ERS1 was screened out, and this module was most significantly enriched in organ development. Pathway enrichment analysis suggested genes in the interaction network were related to focal adhesion.
+
+The expression pattern of IL17RC, COL1A1, and ESR1 can be useful in osteoporosis detection, which may help in identifying those populations at high risk for osteoporosis, and in directing treatment of osteoporosis.
+

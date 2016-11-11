@@ -1,0 +1,9 @@
+
+Hyperactivation of phosphatidylinositol 3-kinase (PI3K), commonly observed in cancer, is believed to promote cancer cell growth and survival. Appropriate mitochondrial function is an integral part of cellular function. How PI3K affects mitochondrial homeostasis is not fully understood.
+
+Mitochondrial mass, membrane potential and reactive oxygen species (ROS) were quantified by three different fluorogenic probes. Gene expression at the levels of mRNA and protein were measured by quantitative RT-PCR and Western analysis.
+
+Using the PI3K inhibitors LY294002 and PI103, we found that suppressing PI3K activity altered mitochondrial function. Specifically, LY294002 and PI103 suppressed the mRNA expression levels of mitochondrial regulators nuclear respiratory factors 1 and 2 (NRF1 and NRF2). As NRF1 and NRF2 are under the transcriptional control of peroxisome proliferator-activated receptor γ coactivators-1α and -1β (PGC-1α and PGC-1β), we found that suppressing PI3K activity selectively reduced both the mRNA and protein levels of PGC-1β but not PGC-1α. Reducing PGC-1β expression also led to reduced mRNA expression levels of uncoupling protein 1, 2 (UCP1 and UCP2) and superoxide dismutase 2. Correspondingly, mitochondrial membrane potential (Δψ(m)) and ROS levels were increased. Finally, we partially blunted the LY294002-mediated growth suppression by using an antioxidant or over-expressing PGC-1β.
+
+PI3K regulates mitochondrial homeostasis in part through PGC-1β and blocking this pathway induces ROS to arrest cell growth at the G₁ phase.
+

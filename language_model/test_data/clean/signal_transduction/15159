@@ -1,0 +1,7 @@
+
+In general, each cell signaling pathway involves many proteins, each with one or more specific roles. As they are essential components of cell activity, it is important to understand how these proteins work-and in particular, to determine which of the species' proteins participate in each role. Experimentally determining this mapping of proteins to roles is difficult and time consuming. Fortunately, many pathways are similar across species, so we may be able to use known pathway information of one species to understand the corresponding pathway of another.
+
+We present an automatic approach, Predict Signaling Pathway (PSP), which uses the signaling pathways in well-studied species to predict the roles of proteins in less-studied species. We use a machine learning approach to create a predictor that achieves a generalization F-measure of 78.2% when applied to 11 different pathways across 14 different species. We also show our approach is very effective in predicting the pathways that have not yet been experimentally studied completely.
+
+The list of predicted proteins for all pathways over all considered species is available at http://www.cs.ualberta.ca/~bioinfo/signaling.
+

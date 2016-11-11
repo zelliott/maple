@@ -1,0 +1,7 @@
+
+Large amounts of protein and domain interaction data are being produced by experimental high-throughput techniques and computational approaches. To gain insight into the value of the provided data, we used our new similarity measure based on the Gene Ontology (GO) to evaluate the molecular functions and biological processes of interacting proteins or domains. The applied measure particularly addresses the frequent annotation of proteins or domains with multiple GO terms.
+
+Using our similarity measure, we compare predicted domain-domain and human protein-protein interactions with experimentally derived interactions. The results show that our similarity measure is of significant benefit in quality assessment and confidence ranking of domain and protein networks. We also derive useful confidence score thresholds for dividing domain interaction predictions into subsets of low and high confidence.
+
+Supplementary data are available at Bioinformatics online.
+

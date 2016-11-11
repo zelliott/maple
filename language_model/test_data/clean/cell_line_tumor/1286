@@ -1,0 +1,9 @@
+
+KAI1 was initially identified as a metastasis-suppressor gene in prostate cancer. It is a member of the tetraspan transmembrane superfamily (TM4SF) of membrane glycoproteins. As part of a tetraspanin-enriched microdomain (TEM), KAI1 inhibits tumor metastasis by negative regulation of Src. However, the underlying regulatory mechanism has not yet been fully elucidated. CUB-domain-containing protein 1 (CDCP1), which was previously known as tetraspanin-interacting protein in TEM, promoted metastasis via enhancement of Src activity. To better understand how KAI1 is involved in the negative regulation of Src, we here examined the function of KAI1 in CDCP1-mediated Src kinase activation and the consequences of this process, focusing on HIF-1 α and VEGF expression.
+
+We used the human prostate cancer cell line PC3 which was devoid of KAI1 expression. Vector-transfected cells (PC3-GFP clone #8) and KAI1-expressing PC3 clones (PC3-KAI1 clone #5 and #6) were picked after stable transfection with KAI1 cDNA and selection in 800 μg/ml G418. Protein levels were assessed by immunoblotting and VEGF reporter gene activity was measured by assaying luciferase activitiy. We followed tumor growth in vivo and immunohistochemistry was performed for detection of HIF-1, CDCP1, and VHL protein level.
+
+We demonstrated that Hypoxia-inducible factor 1α (HIF-1α) and VEGF expression were significantly inhibited by restoration of KAI1 in PC3 cells. In response to KAI1 expression, CDCP1-enhanced Src activation was down-regulated and the level of von Hippel-Lindau (VHL) protein was significantly increased. In an in vivo xenograft model, KAI1 inhibited the expression of CDCP1 and HIF-1α.
+
+These novel observations may indicate that KAI1 exerts profound metastasis-suppressor activity in the tumor malignancy process via inhibition of CDCP1-mediated Src activation, followed by VHL-induced HIF-1α degradation and, ultimately, decreased VEGF expression.
+

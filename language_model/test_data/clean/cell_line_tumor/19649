@@ -1,0 +1,9 @@
+
+The ImageStream system combines advances in CCD technologies with a novel optical architecture for high sensitivity and multispectral imaging of cells in flow. The sensitivity and dynamic range as well as a methodology for spectral compensation of imagery is presented.
+
+Multicolored fluorescent beads were run on the ImageStream and a flow cytometer. Four single color fluorescent control samples of cells were run to quantify spectral overlap. An additional sample, labeled with all colors was run and compensated in six spectral channels.
+
+Analysis of empirical data for sensitivity and dynamic range matched theoretical predictions. The ImageStream system demonstrated fluorescence sensitivity comparable to a PMT-based flow cytometer. A methodology for addressing spectral overlap, individual pixel anomalies, and multiple imaging modalities was demonstrated for spectral compensation of K562 cells. Imagery is shown pre- and post-compensation.
+
+Unlike intensity measurements made with conventional flow cytometers, object size impacts both dynamic range and fluorescence sensitivity in systems that utilize pixilated detection. Simultaneous imaging of alternate modalities can be employed to increase fluorescent sensitivity. Effective compensation of complex multimode imagery spanning six spectral bands is accomplished in a semi-automated manner.
+

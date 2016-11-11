@@ -1,0 +1,3 @@
+
+Sensitivity amplification has long been regarded as a virtually universal property of signal transduction cascades, yet a comprehensive parameter analysis remains a challenge even for relatively simple networks. We use a fast and accurate method to compute properties of multilevel cascades of activation-inactivation cycles and show that the monocyclic cascades amplify sensitivity only under specific conditions. In particular, it is found that efficient sensitivity amplification in a cascade, relative to the sensitivities of individual cycles, requires asymmetry in saturation of converter enzymes, with inhibitors much more saturated than activators.
+

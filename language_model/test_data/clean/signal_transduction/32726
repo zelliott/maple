@@ -1,0 +1,3 @@
+
+NMR detection of multiply labeled compounds in biological samples is often used to follow metabolic pathways. Detection of protons bound to 13C atoms offers a more sensitive approach than direct 13C detection, but generally results in the loss of carbon-carbon coupling information. We have modified an HSQC sequence to refocus the carbon chemical shifts in order to obtain a proton-correlated 13C homonuclear J spectrum, which allows us to measure singly and doubly labeled compounds in the same spectrum.
+

@@ -1,0 +1,5 @@
+
+We describe the JigCell Model Builder (JCMB), a tool for creating biochemical reaction network models. JCMB is designed for ease of use and its interface uses the standard spreadsheet metaphor. The JigCell Run Manager (JCRM) is a tool for organizing the large collections of simulation runs typically required by reaction network modeling activities.
+
+JCMB and JCRM are part of the JigCell suite available at http://jigcell.biol.vt.edu.
+

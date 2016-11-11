@@ -1,0 +1,5 @@
+
+We describe an open source library written in the R programming language for Medline literature data mining. This MedlineR library includes programs to query Medline through the NCBI PubMed database; to construct the co-occurrence matrix; and to visualize the network topology of query terms. The open source nature of this library allows users to extend it freely in the statistical programming language of R. To demonstrate its utility, we have built an application to analyze term-association by using only 10 lines of code. We provide MedlineR as a library foundation for bioinformaticians and statisticians to build more sophisticated literature data mining applications.
+
+The library is available from http://dbsr.duke.edu/pub/MedlineR.
+

@@ -1,0 +1,13 @@
+
+Body mass index (BMI; weight (Wt)/height (Ht) (in kg m(-2)) and waist circumference (WC) are widely used as proxy anthropometric measures for total adiposity. Little is known about what scaling power of 'x' in both Wt(kg)/Ht(m)(x) and WC(m)/Ht(m)(x) is maximally associated with measured total body fat mass (TBFM). Establishing values for x would provide the information needed to create optimum anthropometric surrogate measures of adiposity.
+
+To estimate the value of 'x' that renders Wt/Ht(x) and WC/Ht(x) maximally associated with DXA-measured TBFM.
+
+Participants of the NHANES 1999-2004 surveys, stratified by sex (men, women), race/ethnicity (non-Hispanic whites, non-Hispanic blacks, Mexican-Americans), and age(18-29, 30-49, 50-84 years).
+
+We apply a grid search by increasing x from 0.0-3.0 by increments of 0.1 to the simple regression models, TBFM=b0+b1*(Wt/Ht(x)) and TBFM=b0+b1*(WC/Ht(x)) to obtain an estimate of x that results in the greatest R(2), taking into account complex survey design features and multiply imputed data.
+
+R(2)'s for BMI are 0.86 for men (N=6544) and 0.92 for women (N=6362). The optimal powers x for weight are 1.0 (R(2)=0.90) for men and 0.8 (R(2)=0.96) for women. The optimal power x for WC is 0, that is, no scaling of WC to height, for men (R(2)=0.90) or women (R(2)=0.82). The optimal powers for weight across nine combinations of race/ethnicity and age groups for each sex vary slightly (x=0.8-1.3) whereas the optimal scaling powers for WC are all 0 for both sexes except for non-Hispanic black men aged 18-29y (x=0.1). Although the weight-for-height indices with optimal powers are not independent of height, they yield more accurate TBFM estimates than BMI.
+
+In reference to TBFM, Wt/Ht and Wt/Ht(0.8) are the optimal weight-for-height indices for men and women, respectively, whereas WC alone, without Ht adjustment, is the optimal WC-for-height index for both sexes. Thus, BMI, an index independent of height, may be less useful when predicting TBFM.
+

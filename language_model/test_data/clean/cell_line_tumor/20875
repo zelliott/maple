@@ -1,0 +1,7 @@
+
+To explore whether the vector construction of short hairpin in vivo could make human glioma cell line BT325 produce RNA interference (RNAi) duplexes and reverse the expression of the MDR1 gene.
+
+Three 62nt oligonucleotide fragments (shRNA) were constructed according to GeneBank MDR1 sequence and were cloned to the retrovirus-delivered vectors. After these vectors were transfected directly to the BT325 cell by Lipofectamine 2000 with enhanced green fluorescent protein (EGFP) co-transfection, the MDR1 gene silence effects were detected by the changing levels of mRNA and P-glycoprotein (P-gp) including real-time PCR (RT-PCR), Northern blot and Western blot analysis. For assessing multidrug resistance against doxorubicin (DOX) and vincristine (VCR), cell proliferation assays were performed by cell counting kit-8 and IC50 was calculated.
+
+The RNAi plasmid vectors were constructed successfully. The gene silence became the strongest after 48 hour transfection from Northern blot; Western blot analysis demonstrated that P-gp expression reduced to 12.9, 30.3 and 4.8%. The chemosensitivity assays showed that the transfected cell could increase the sensitivity of DOX and VCR. Based on the value of IC50, BT325 cells increased sensitivity to drugs obviously. The sequence specific RNAi could inhibit MDR1 mRNA and P-gp expression of the glioma cell line. And it may reverse multidrug resistance phenotype, which may provide promising therapeutic modalities in the treatment of human glioma.
+

@@ -1,0 +1,9 @@
+
+Cell motility is vital in many physiological and pathological processes, such as embryogenesis, inflammation, wound healing, and metastasis. However, the time-consuming step in the evaluation of individual cell motility is the analysis of hundreds of recorded images of cell cultures in general consisting of retrieving images, one at a time, and marking the positions of individual cells by a computer mouse. Therefore, the aim of the present study was to develop a novel automatic procedure for the evaluation of cell motility.
+
+The procedure was tested on fibroblasts and glioma and adenocarcinoma cells engineered to express the green fluorescent protein by either transient transfection or adenovirus transduction, allowing automatic recognition of cell coordinates on retrieved images.
+
+The effects of serum growth factors, teratogenic compounds, and overexpression of transcription factors on the motile behavior of cultured cells were determined. Cell motility was estimated by both manual and automatic marking of cell position and subsequently motility parameters were computed. The results obtained by the two procedures were found to correlate significantly.
+
+We developed a procedure allowing automatic video recording of sparsely seeded cells transfected with a plasmid or tranduced with a recombinant virus expressing the enhanced green fluorescent protein (EGFP).
+

@@ -1,0 +1,9 @@
+
+It is controversial whether persistent signaling by the thyrotropin (TSH) receptor (TSHR) is cell-type specific. We reported persistent TSHR signaling in human embryonic kidney 293 (HEK293) cells expressing human TSHRs (HEK-TSHRs), whereas another group reported persistent signaling in mouse thyroid follicles but not in HEK293 cells. Herein, we test this hypothesis directly.
+
+We used two methods to measure persistent signaling in HEK-TSHRs and confirm our previous observations. In Method 1, we used a chemiluminescent immunoassay to measure intracellular cAMP accumulation over 30-60 min by adding a phosphodiesterase inhibitor to the incubation medium. In Method 2, we used an intracellular biosensor to record cAMP levels continuously.
+
+Using Method 1, we show that TSHR signals persistently in human thyrocytes and human osteosarcoma U2OS-TSHR cells. Using Method 1 in HEK-TSHRs, we show that after 5 min, the phosphodiesterase inhibitor isobutylmethylxanthine (IBMX) increases cAMP to 2.5 pmol/well, TSH increases cAMP to 1.6 pmol/well, but IBMX added 30 min after TSH withdrawal increases cAMP to 105 pmol/well. Using Method 2 in HEK-TSHRs, we confirm that without IBMX, TSH causes a transient increase in cAMP and 30 min after TSH withdrawal, IBMX increases cAMP in cells pretreated with TSH more rapidly and to a higher level than IBMX added to cells not pre-exposed to TSH. Lastly, using Method 2, we show that in HEK-TSHRs phosphodiesterases types 3 and 4 are involved in degrading cAMP as the specific inhibitors Rolipram and Milrinone expose persistent TSHR signaling.
+
+We conclude that persistent TSHR activation occurs in human thyrocytes, U2OS-TSHR cells and HEK-TSHRs; it is not cell-type specific but is revealed by inhibiting phosphodiesterases.
+

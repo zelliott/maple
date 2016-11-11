@@ -1,0 +1,9 @@
+
+Pre-existing and acquired drug resistance are major obstacles to the successful treatment of glioblastomas.
+
+We used an integrated resistance model and genomics tools to globally explore molecular factors and cellular pathways mediating resistance to O6-alkylating agents in glioblastoma cells.
+
+We identified a transcriptomic signature that predicts a common in vitro and in vivo resistance phenotype to these agents, a proportion of which is imprinted recurrently by gene dosage changes in the resistant glioblastoma genome. This signature was highly enriched for genes with functions in cell death, compromise, and survival. Modularity was a predominant organizational principle of the signature, with functions being carried out by groups of interacting molecules in overlapping networks. A highly significant network was built around nuclear factor-kappaB (NF-kappaB), which included the persistent alterations of various NF-kappaB pathway elements. Tumor necrosis factor-alpha-induced protein 3 (TNFAIP3) was identified as a new regulatory component of a putative cytoplasmic signaling cascade that mediates NF-kappaB activation in response to DNA damage caused by O6-alkylating agents. Expression of the corresponding zinc finger protein A20 closely mirrored the expression of the TNFAIP3 transcript, and was inversely related to NF-kappaB activation status in the resistant cells. A prediction model based on the resistance signature enabled the subclassification of an independent, validation cohort of 31 glioblastomas into two outcome groups (P = .037) and revealed TNFAIP3 as part of an optimized four-gene predictor associated significantly with patient survival (P = .022).
+
+Our results offer strong evidence for TNFAIP3 as a key regulator of the cytoplasmic signaling to activate NF-kappaB en route to O6-alkylating agent resistance in glioblastoma cells. This pathway may be an attractive target for therapeutic modulation of glioblastomas.
+

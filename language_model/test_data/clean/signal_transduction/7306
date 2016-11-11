@@ -1,0 +1,9 @@
+
+We wish to implement a proteomics-based approach to pick and identify the proteins associated with curcumin enhancing efficacy of irinotecan inducing apoptosis of colorectal cancer LOVO cells, and further explore their synergy mechanism by bioinformatics.
+
+A colorectal cancer cell line (LOVO cell) treated by curcumin combined with irinotecan in different ways respectively was used as our comparative model. Protein spots were analyzed through MALDI-TOF/TOF. The location and function of differential protein spots were analyzed through UniProt database. Protein-protein interactions were examined through String software.
+
+A total of 54 protein spots differentially expressed with 1.5-fold difference were picked, 11 of which were repeated. They mainly were involved in intracellular calcium pathways, cellular respiratory chain pathway and intracellular redox reaction pathways of LOVO cell. According to the function of various protein points, combining with varying curves of protein points in each treatment groups, we selected five interesting protein spots, 4 of which exists Protein-protein interactions, and they were close to the formation and reduction of disulfides in intracellular endoplasmic reticulum (ER).
+
+We selected preliminary but comprehensive data about differential expression protein spots of LOVO cell. Among these, the five interesting differential expression protein spots identified in this study may provide new insight into LOVO cell therapeutic biomarkers. Curcumin may suppress GSTM5 expression to enhance the lethal effect of irinotecan on LOVO cells, and maybe their combination via the affection of PDI and PRDX4 to disturb the formation and reduction of disulfides results in inducing apoptosis of LOVO cell.
+

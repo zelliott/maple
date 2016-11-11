@@ -1,0 +1,7 @@
+
+Text-mining research in the biomedical domain has been motivated by the rapid growth of new research findings. Improving the accessibility of findings has potential to speed hypothesis generation.
+
+We present the Arizona Relation Parser that differs from other parsers in its use of a broad coverage syntax-semantic hybrid grammar. While syntax grammars have generally been tested over more documents, semantic grammars have outperformed them in precision and recall. We combined access to syntax and semantic information from a single grammar. The parser was trained using 40 PubMed abstracts and then tested using 100 unseen abstracts, half for precision and half for recall. Expert evaluation showed that the parser extracted biologically relevant relations with 89% precision. Recall of expert identified relations with semantic filtering was 35 and 61% before semantic filtering. Such results approach the higher-performing semantic parsers. However, the AZ parser was tested over a greater variety of writing styles and semantic content.
+
+Relations extracted from over 600 000 PubMed abstracts are available for retrieval and visualization at http://econport.arizona.edu:8080/NetVis/index.html.
+

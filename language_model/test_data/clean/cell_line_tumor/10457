@@ -1,0 +1,9 @@
+
+Cell-based approaches were used to identify genetic markers predictive of patients' risk for poor response prior to chemotherapy.
+
+We conducted genome-wide association studies (GWAS) to identify single-nucleotide polymorphisms (SNP) associated with cellular sensitivity to carboplatin through their effects on mRNA expression using International HapMap lymphoblastoid cell lines (LCL) and replicated them in additional LCLs. SNPs passing both stages of the cell-based study were tested for association with progression-free survival (PFS) in patients. Phase 1 validation was based on 377 ovarian cancer patients receiving at least four cycles of carboplatin and paclitaxel from the Australian Ovarian Cancer Study (AOCS). Positive associations were then assessed in phase 2 validation analysis of 1,326 patients from the Ovarian Cancer Association Consortium and The Cancer Genome Atlas.
+
+In the initial GWAS, 342 SNPs were associated with carboplatin-induced cytotoxicity, of which 18 unique SNPs were retained after assessing their association with gene expression. One SNP (rs1649942) was replicated in an independent LCL set (Bonferroni adjusted P < 0.05). It was found to be significantly associated with decreased PFS in phase 1 AOCS patients (P(per-allele) = 2 × 10(-2)), with a stronger effect in the subset of women with optimally debulked tumors (P(per-allele) = 4 × 10(-3)). rs1649942 was also associated with poorer overall survival in women with optimally debulked tumors (P(per-allele) = 9 × 10(-3)). However, this SNP was not significant in phase 2 validation analysis with patients from numerous cohorts.
+
+This study shows the potential of cell-based, genome-wide approaches to identify germline predictors of treatment outcome and highlights the need for extensive validation in patients to assess their clinical effect.
+

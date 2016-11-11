@@ -1,0 +1,7 @@
+
+DNA copy number aberration (CNA) is one of the key characteristics of cancer cells. Recent studies demonstrated the feasibility of utilizing high density single nucleotide polymorphism (SNP) genotyping arrays to detect CNA. Compared with the two-color array-based comparative genomic hybridization (array-CGH), the SNP arrays offer much higher probe density and lower signal-to-noise ratio at the single SNP level. To accurately identify small segments of CNA from SNP array data, segmentation methods that are sensitive to CNA while resistant to noise are required.
+
+We have developed a highly sensitive algorithm for the edge detection of copy number data which is especially suitable for the SNP array-based copy number data. The method consists of an over-sensitive edge-detection step and a test-based forward-backward edge selection step.
+
+Using simulations constructed from real experimental data, the method shows high sensitivity and specificity in detecting small copy number changes in focused regions. The method is implemented in an R package FASeg, which includes data processing and visualization utilities, as well as libraries for processing Affymetrix SNP array data.
+

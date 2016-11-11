@@ -1,0 +1,11 @@
+
+Differences in gene expression are frequently encountered in malignant tissues, and have been intensively studied as they can reflect different experimental or clinical conditions. Quantification of the often subtle changes in messenger RNA content is performed through comparison with the expression of endogenous controls. The appropriate choice of these endogenous controls (e.g. housekeeping genes) is critical for meaningful quantitative RNA analysis. The most important characteristics of housekeeping genes are that they are present in all cells and that their expression levels remain relatively constant in different experimental conditions. However, no single housekeeping gene always manifests stable expression levels under all experimental conditions. Therefore, it is necessary to characterize the suitability of various housekeeping genes to serve as internal RNA controls under particular experimental conditions where transcription effects are being tested.
+
+It was the aim of this study to determine the validity of a number of housekeeping genes for their use as internal standards in cancer research.
+
+The expression of the housekeeping genes porphobilinogen deaminase (PBGD) and mitochondrial ATP synthase 6 (mATPsy6), were compared with the expression of the more commonly used glyceraldehyde-3-phosphate dehydrogenase (GAPDH). We examined a number of cell lines and tumor versus matched normal tissue samples using real-time quantitative (RTq)-PCR.
+
+Our findings suggest that in cell lines, all three of the studied housekeeping genes can be used as an internal control. When comparing tumor tissue samples with matched normal tissue samples, we validated mitochondrial ATPsy6 (mATPsy6) as the best choice for a housekeeping gene.
+
+Since gene expression studies are becoming increasingly important in the clinical environment, especially in cancer diagnosis and treatment, the use of an reliable housekeeping gene in these studies to normalize gene expression is essential. We conclude that a bad choice of housekeeping gene may lead to errors when interpreting experiments involving quantitation of gene expression. Our study demonstrated the usefulness of mATPsy6 as an endogenous control when comparing tumor tissue samples with normal tissue samples.
+

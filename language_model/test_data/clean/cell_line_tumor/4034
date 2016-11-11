@@ -1,0 +1,9 @@
+
+Response to the oncology drug gemcitabine may be variable in part due to genetic differences in the enzymes and transporters responsible for its metabolism and disposition. The aim of our in-silico study was to identify gene variants significantly associated with gemcitabine response that may help to personalize treatment in the clinic.
+
+We analyzed two independent data sets: (a) genotype data from NCI-60 cell lines using the Affymetrix DMET 1.0 platform combined with gemcitabine cytotoxicity data in those cell lines, and (b) genome-wide association studies (GWAS) data from 351 pancreatic cancer patients treated on an NCI-sponsored phase III clinical trial. We also performed a subset analysis on the GWAS data set for 135 patients who were given gemcitabine+placebo. Statistical and systems biology analyses were performed on each individual data set to identify biomarkers significantly associated with gemcitabine response.
+
+Genetic variants in the ABC transporters (ABCC1, ABCC4) and the CYP4 family members CYP4F8 and CYP4F12, CHST3, and PPARD were found to be significant in both the NCI-60 and GWAS data sets. We report significant association between drug response and variants within members of the chondroitin sulfotransferase family (CHST) whose role in gemcitabine response is yet to be delineated.
+
+Biomarkers identified in this integrative analysis may contribute insights into gemcitabine response variability. As genotype data become more readily available, similar studies can be conducted to gain insights into drug response mechanisms and to facilitate clinical trial design and regulatory reviews.
+

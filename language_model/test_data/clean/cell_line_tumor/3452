@@ -1,0 +1,7 @@
+
+Two major identifiable sources of variation in data derived from the Serial Analysis of Gene Expression (SAGE) are within-library sampling variability and between-library heterogeneity within a group. Most published methods for identifying differential expression focus on just the sampling variability. In recent work, the problem of assessing differential expression between two groups of SAGE libraries has been addressed by introducing a beta-binomial hierarchical model that explicitly deals with both of the above sources of variation. This model leads to a test statistic analogous to a weighted two-sample t-test. When the number of groups involved is more than two, however, a more general approach is needed.
+
+We describe how logistic regression with overdispersion supplies this generalization, carrying with it the framework for incorporating other covariates into the model as a byproduct. This approach has the advantage that logistic regression routines are available in several common statistical packages.
+
+The described method provides an easily implemented tool for analyzing SAGE data that correctly handles multiple types of variation and allows for more flexible modelling.
+

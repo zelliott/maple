@@ -1,0 +1,3 @@
+
+Pathway reconstruction builds on genome and biochemical data with the aim of reconstructing higher level interactions between identified enzymes in a specific genome, in particular the different enzyme pathways (species or individual/patient). Metabolite flow in a pathway is analyzed by different tools, such as elementary mode analysis. This reveals key enzymes and pharmacological targets in the enzyme network. An overview of bioinformatic tools and algorithms for these tasks, application examples and recent results from these techniques are presented. Target selection, drug development and optimization can all be sped up using these approaches.
+

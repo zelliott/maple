@@ -1,11 +1,17 @@
 from subprocess import call
 from constants import srilm_path
-from constants import language_model_file
-from constants import temp_train_file
+from contstants import train_data_clean_path
+from constants import srilm_language_model_path
 
 
-def make_model():
+def make_model(train_file):
 	ngram_count_cmd = srilm_path + '/ngram-count'
-	args = [ngram_count_cmd, '-text', temp_train_file, '-lm', language_model_file]
+
+	model_name = train_file.split('.')[0] + '.lm'
+	model_path = srilm_language_model_path + '/' + model_name
+
+	train_file_path = train_data_clean_path + '/' + train_file
+	
+	args = [ngram_count_cmd, '-text', train_file_path, '-lm', model_path]
 	print ' '.join(args)
-	call([ngram_count_cmd, '-text', temp_train_file, '-lm', language_model_file])
+	call(args)

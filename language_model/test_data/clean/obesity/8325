@@ -1,0 +1,9 @@
+
+Negative interactions with healthcare providers may lead patients to switch physicians or "doctor shop." We hypothesized that overweight and obese patients would be more likely to doctor shop, and as a result, have increased rates of emergency department (ED) visits and hospitalizations as compared to normal weight nonshoppers.
+
+We combined claims data from a health plan in one state with information from beneficiaries' health risk assessments. The primary outcome was "doctor shopping," which we defined as having outpatient claims with ≥5 different primary care physicians (PCPs) during a 24-month period. The independent variable was standard NIH categories of weight by BMI. We performed multivariate logistic regression to evaluate the association between weight categories and doctor shopping. We conducted multivariate zero-inflated negative binominal regression to evaluate the association between weight-doctor shopping categories with counts of ED visits and hospitalizations.
+
+Of the 20,726 beneficiaries, the mean BMI was 26.3 kg m(-2) (SD 5.1), mean age was 44.4 years (SD 11.1) and 53% were female. As compared to normal weight beneficiaries, overweight beneficiaries had 23% greater adjusted odds of doctor shopping (OR 1.23, 95%CI 1.04-1.46) and obese beneficiaries had 52% greater adjusted odds of doctor shopping (OR 1.52, 95%CI 1.26-1.82). As compared to normal weight non-shoppers, overweight and obese shoppers had higher rates of ED visits (IRR 1.85, 95%CI 1.37-2.45; IRR 1.83, 95%CI 1.34-2.50, respectively), which persisted during within weight group comparisons (Overweight IRR 1.50, 95%CI 1.10-2.03; Obese IRR 1.54, 95%CI 1.12-2.11).
+
+Frequently changing PCPs may impair continuity and result in increased healthcare utilization.
+

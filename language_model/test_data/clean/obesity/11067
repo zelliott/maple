@@ -1,0 +1,9 @@
+
+A widely used physiological simulator is generally accepted to give valid predictions of oxygenation status during disturbances in breathing associated with anesthesia. We compared predicted measures with physiological measurements available in the literature, or derived from other models.
+
+Five studies were selected from the literature which explored arterial oxygenation, with or without preoxygenation, in clinical situations or through mathematical modeling as well as the evolution of the fraction of expired oxygen (Feo2) during preoxygenation maneuvers. Scenarios from these studies were simulated on the METI-Human Patient Simulator™ simulator, and the data were compared with the results in the literature.
+
+Crash-induction anesthesia without preoxygenation induces an O2 pulse saturation (Spo2) decrease that is not observed on the METI simulator. In humans, after 8 minutes of apnea, Spo2 decreased below 90% while the worst value was 95% during the simulation. The apnea time to reach 85% was less with obese patients than with healthy simulated patients and was shortened in the absence of preoxygenation. However, the data in the literature include METI simulator confidence interval 95% values only for healthy humans receiving preoxygenation. The decrease in Pao2 during 35-second apnea started at end-expiration was slower on the METI simulator than the values reported in the literature. Feo2 evolution during preoxygenation maneuvers on the METI simulator with various inspired oxygen fractions (100%, 92%, 84%, and 68%) was very close to those reported in humans when perfect mask seal is provided. In practice, this seal is impossible to obtain on the METI simulator.
+
+Spo2 decreased much later during apnea on the METI simulator than in a clinical situation, whether preoxygenation was performed or not. The debriefing after simulation of critical situations or the use of the METI simulator to test a new equipment must consider these results.
+

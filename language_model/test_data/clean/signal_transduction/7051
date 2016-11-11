@@ -1,0 +1,9 @@
+
+Multidrug efflux pumps mediate resistance to antibiotics and other toxic compounds. We studied the role of AcrAB-TolC, the main efflux pump in Escherichia coli, in regulating gene expression.
+
+Deletion mutants, an acrABp-lacZ fusion and reverse transcription-real-time quantitative PCR experiments were used to study the role of AcrAB-TolC and metabolism in regulating gene expression of the acrAB operon and its transcriptional regulators.
+
+Deletion of the acrB gene increased the expression of the acrAB operon. A similar induction of acrAB was found when acrA or tolC was deleted, and when the pump function was inhibited using phenylalanine-arginine-β-naphthylamide. The induction of acrAB in the ΔacrB strain was totally (AcrR or SoxS) or partially (SoxR or MarA) prevented when the genes for these acrAB regulators were also deleted. The expression of soxS and marA, but not of acrR, was increased in the ΔacrB strain, which also showed altered expression of many other genes related to different cellular processes, including motility. Deletion of the metabolic genes entA and entE (enterobactin biosysnthesis), glpX (gluconeogenesis), cysH (cysteine biosynthesis) and purA (purine biosynthesis) also prevented activation of the acrAB promoter in the ΔacrB strain. Addition of the enterobactin biosynthesis intermediate metabolite 2,3-dihydroxybenzoate induced the expression of acrAB.
+
+These results together suggest a model in which the AcrAB-TolC pump effluxes cellular metabolites that are toxic and/or have a signalling role. If the pump is inactivated or inhibited, these metabolites would accumulate, inactivating AcrR and/or up-regulating soxS and marA expression, ultimately triggering the up-regulation of acrAB expression to restore homeostasis.
+

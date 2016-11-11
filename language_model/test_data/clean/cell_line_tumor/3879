@@ -1,0 +1,9 @@
+
+KRAS wild-type status is an imperfect predictor of sensitivity to anti-EGF receptor (EGFR) monoclonal antibodies in colorectal cancer, motivating efforts to identify novel molecular aberrations driving RAS. This study aimed to build a quantitative readout of RAS pathway activity to (i) uncover molecular surrogates of RAS activity specific to colorectal cancer, (ii) improve the prediction of cetuximab response in patients, and (iii) suggest new treatment strategies.
+
+A model of RAS pathway activity was trained in a large colorectal cancer dataset and validated in three independent colorectal cancer patient datasets. Novel molecular traits were inferred from The Cancer Genome Atlas colorectal cancer data. The ability of the RAS model to predict resistance to cetuximab was tested in mouse xenografts and three independent patient cohorts. Drug sensitivity correlations between our model and large cell line compendiums were performed.
+
+The performance of the RAS model was remarkably robust across three validation datasets. (i) Our model confirmed the heterogeneity of the RAS phenotype in KRAS wild-type patients, and suggests novel molecular traits driving its phenotype (e.g., MED12 loss, FBXW7 mutation, MAP2K4 mutation). (ii) It improved the prediction of response and progression-free survival (HR, 2.0; P < 0.01) to cetuximab compared with KRAS mutation (xenograft and patient cohorts). (iii) Our model consistently predicted sensitivity to MAP-ERK kinase (MEK) inhibitors (P < 0.01) in two cell panel screens.
+
+Modeling the RAS phenotype in colorectal cancer allows for the robust interrogation of RAS pathway activity across cell lines, xenografts, and patient cohorts. It demonstrates clinical utility in predicting response to anti-EGFR agents and MEK inhibitors.
+

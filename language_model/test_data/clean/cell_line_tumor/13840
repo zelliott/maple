@@ -1,0 +1,7 @@
+
+The spatiotemporal expression patterns of microRNAs (miRNAs) are important to the verification of their predicted function. RT-qPCR is the accepted technique for the quantification of miRNA expression; however, stem-loop RT-PCR and poly(T)-adapter assay, the two most frequently used methods, are not very convenient in practice and have poor specificity, respectively.
+
+We have developed an optimal approach that integrates these two methods and allows specific and rapid detection of tiny amounts of sample RNA and reduces costs relative to other techniques. miRNAs of the same sample are polyuridylated and reverse transcribed into cDNAs using a universal poly(A)-stem-loop RT primer and then used as templates for SYBR® Green real-time PCR. The technique has a dynamic range of eight orders of magnitude with a sensitivity of up to 0.2 fM miRNA or as little as 10 pg of total RNA. Virtually no cross-reaction is observed among the closely-related miRNA family members and with miRNAs that have only a single nucleotide difference in this highly specific assay. The spatial constraint of the stem-loop structure of the modified RT primer allowed detection of miRNAs directly from cell lysates without laborious total RNA isolation, and the poly(U) tail made it possible to use multiplex RT reactions of mRNA and miRNAs in the same run.
+
+The cost-effective RT-qPCR of miRNAs with poly(A)-stem-loop RT primer is simple to perform and highly specific, which is especially important for samples that are precious and/or difficult to obtain.
+
