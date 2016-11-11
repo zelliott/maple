@@ -1,0 +1,3 @@
+
+GPCR-GRAPA-LIB is a library of HMMs describing G protein coupled receptor families. These families are initially defined by class of receptor ligand, with divergent families divided into subfamilies using phylogenic analysis and knowledge of GPCR function. Protein sequences are applied to the models with the GRAPA curve-based selection criteria. RefSeq sequences for Homo sapiens, Drosophila melanogaster, and Caenorhabditis elegans have been annotated using this approach.
+

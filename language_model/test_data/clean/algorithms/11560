@@ -1,0 +1,3 @@
+
+Although spatio-temporal gradient schemes are widely used in the computation of image motion, algorithms are ill conditioned for particular classes of input. This paper addresses this problem. Motion is computed as the space-time direction in which the difference in image illuminance from the local mean is conserved. This method can reliably detect motion in first-order and some second-order motion stimuli. Components of the model can be identified with directionally asymmetric and directionally selective simple cells. A stage in which we compute spatial and temporal derivatives of the difference between image illuminance and the local mean illuminance using a truncated Taylor series gives rise to a phase-invariant output reminiscent of the response of complex cells.
+

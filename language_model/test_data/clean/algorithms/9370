@@ -1,0 +1,7 @@
+
+We have developed the software CopyCat which provides an easy and fast access to cophylogenetic analyses. It incorporates a wrapper for the program ParaFit, which conducts a statistical test for the presence of congruence between host and parasite phylogenies. CopyCat offers various features, such as the creation of customized host-parasite association data and the computation of phylogenetic host/parasite trees based on the NCBI taxonomy.
+
+CopyCat and its manual are freely available at http://www-ab.informatik.uni-tuebingen.de/software/copycat.
+
+Results of the real-world example can be found at http://www-ab.informatik.uni-tuebingen.de/software/copycat or Bioinformatics online.
+

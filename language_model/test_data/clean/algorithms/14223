@@ -1,0 +1,3 @@
+
+We used straightforward linear mixed effects models as described in Worsley et al. together with recent advances in smoothing to control the degrees of freedom, and random field theory based on discrete local maxima. This has been implemented in BRAINSTAT, a Python version of FMRISTAT. Our main novelty is voxel-wise inference for both magnitude and delay (latency) of the hemodynamic response. Our analysis appears to be more sensitive than that of Dehaene-Lambertz et al. Our main findings are greater magnitude (1.08% +/- 0.17%) and delay (0.153 +/- 0.035 s) for different sentences compared to same sentences, together with a smaller but still significantly greater magnitude for different speaker compared to same speaker (0.47% +/- 0.08%).
+

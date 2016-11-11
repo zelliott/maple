@@ -1,0 +1,3 @@
+
+The relation existing between support vector machines (SVMs) and recurrent associative memories is investigated. The design of associative memories based on the generalized brain-state-in-a-box (GBSB) neural model is formulated as a set of independent classification tasks which can be efficiently solved by standard software packages for SVM learning. Some properties of the networks designed in this way are evidenced, like the fact that surprisingly they follow a generalized Hebb's law. The performance of the SVM approach is compared to existing methods with nonsymmetric connections, by some design examples.
+

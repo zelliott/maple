@@ -1,0 +1,9 @@
+
+Bone age rating is associated with a considerable rater variability, which limits its usefulness in modern pediatric endocrinology. An automated computerized method would theoretically solve this problem but has been surprisingly difficult to establish.
+
+We review the development of automated bone age assessment and describe how the conceptual understanding of bone age rating shifted from a rule-based theory to a more intuitive and experience-based approach. The role of the CASAS system from 1992 is described. The BoneXpert system from 2008 employs deformable models of each bone to locate the bones and extracts the component of the bone appearance related to maturity in a holistic, statistical manner. Two clinical studies have been published on its accuracy, defined as the root mean square deviation from manual rating. Other studies addressed the precision of the method, defined as its ability to give the same result on a repeated x-ray, expressed as the sd on a single measurement.
+
+The accuracy of the automated bone age determination was 0.71-0.72 yr, and the precision was 0.17-0.18 yr. More than 98.6% of the images could be analyzed. The system was validated on children with various diagnoses of short stature in the bone age range 2.5-17 yr for boys and 2-15 yr for girls.
+
+The reviewed validation studies suggest that this automated bone age determination system has adequate accuracy, precision, and efficiency to be clinically useful.
+

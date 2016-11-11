@@ -1,0 +1,9 @@
+
+To compare the dose and image quality of a standard dose abdominal and pelvic CT with Filtered Back Projection (FBP) to low-dose CT with Adaptive Iterative Dose Reduction 3D (AIDR 3D).
+
+We retrospectively examined the images of 21 patients in the portal phase of an abdominal and pelvic CT scan before and after implementation of AIDR 3D iterative reconstruction. The acquisition length, dose and evaluations of the image quality were compared between standard dose FBP images and low-dose images reconstructed with AIDR 3D and FBP using the Wilcoxon test.
+
+The mean acquisition length was similar for both CT scans. There was a significant dose reduction of 49.5% with low-dose CT compared to standard dose CT (mean DLP of 451mGy.cm versus 892mGy.cm, P<0.001). There were no differences in image quality scores between standard dose FBP and low-dose AIDR 3D images (4.6±0.6 versus 4.4±0.6 respectively, P=0.147).
+
+AIDR 3D iterative reconstruction enables a significant reduction in dose of 49.5% to be achieved with abdominal CT scan compared to FBP, whilst maintaining equivalent image quality.
+

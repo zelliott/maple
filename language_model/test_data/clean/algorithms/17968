@@ -1,0 +1,3 @@
+
+Widely used regression approaches in modeling quantitative structure-property relationships, such as PLS regression, are highly susceptible to outlying observations that will impair the prognostic value of a model. Our aim is to compile homogeneous datasets as the basis for regression modeling by removing outlying compounds and applying variable selection. We investigate different approaches to create robust, outlier-resistant regression models in the field of prediction of drug molecules' permeability. The objective is to join the strength of outlier detection and variable elimination increasing the predictive power of prognostic regression models. In conclusion, outlier detection is employed to identify multiple, homogeneous data subsets for regression modeling.
+

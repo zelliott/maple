@@ -1,0 +1,7 @@
+
+For analyzing high-dimensional time-to-event data with competing risks, tailored modeling techniques are required that consider the event of interest and the competing events at the same time, while also dealing with censoring. For low-dimensional settings, proportional hazards models for the subdistribution hazard have been proposed, but an adaptation for high-dimensional settings is missing. In addition, tools for judging the prediction performance of fitted models have to be provided.
+
+We propose a boosting approach for fitting proportional subdistribution hazards models for high-dimensional data, that can e.g. incorporate a large number of microarray features, while also taking clinical covariates into account. Prediction performance is evaluated using bootstrap.632+ estimates of prediction error curves, adapted for the competing risks setting. This is illustrated with bladder cancer microarray data, where simultaneous consideration of both, the event of interest and competing events, allows for judging the additional predictive power gained from incorporating microarray measurements.
+
+The proposed boosting approach is implemented in the R package CoxBoost and prediction error estimation in the package peperr, both available from CRAN.
+

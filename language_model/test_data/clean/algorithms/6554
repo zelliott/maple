@@ -1,0 +1,9 @@
+
+Analysis of the conversion of (13)C glucose within the metabolic network allows the evaluation of the biochemical fluxes in interconnecting metabolic pathways. Such analyses require solving hundreds of equations with respect to individual isotopomer concentrations, and this assumes applying special software even for constructing the equations. The algorithm, proposed by others could be improved.
+
+A C-code linked to the program written in Mathematica (Wolfram Research Inc.), constructs and solves differential equations for all isotopomer concentrations, using the general enzyme characteristics (K(m), equilibrium constant, etc.). This code uses innovative algorithm of determination for the isotopomers-products, thus essentially decreasing the computation time. Feasible metabolic fluxes are provided by the parameters of enzyme kinetics found from the data fitting.
+
+The software effectively evaluates metabolic fluxes based on the measured isotopomer distribution, as was illustrated by the analysis of glycolysis and pentose phosphate cycle. The mechanism of transketolase and transaldolase catalysis was shown to induce a specific kind of isotopomer re-distribution, which, despite the significance of its effect, usually is not taken into account.
+
+The software could be freely downloaded from the site: http://bq.ub.es/bioqint/label_distribution/.
+

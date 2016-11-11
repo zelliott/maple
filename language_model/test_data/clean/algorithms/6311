@@ -1,0 +1,3 @@
+
+Rapidly advancing registration methods increasingly employ warping transforms. High degrees of freedom (DOF) warpings can be specified by manually placing control points or instantiating a regular, dense grid of control points everywhere. The former approach is laborious and prone to operator bias, whereas the latter is computationally expensive. We propose to improve upon the latter approach by adaptively placing control points where they are needed. Local estimates of mutual information (MI) and entropy are used to identify local regions requiring additional DOF.
+

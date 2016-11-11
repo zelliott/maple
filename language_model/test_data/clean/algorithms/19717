@@ -1,0 +1,3 @@
+
+A method is described for the refinement of rough protein models based on finding a selection of structural fragments that match the model. Unlike most fragment-based methods, these are not necessarily contiguous in the sequence and form a tiling (tessellation) that covers most of the structure. The residue positions of the fragments are then used as a target for the model atoms to generate a revised model which is used as the basis of a subsequent pattern definition and search. The method was shown to improve the recognition of the native fold in a series of decoys largely as a result of improved secondary structure representation.
+

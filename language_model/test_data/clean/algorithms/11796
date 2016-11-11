@@ -1,0 +1,3 @@
+
+The parts of system automatically detecting the standard 12-synchronous-lead ECG (electrocardiograms) signal based on personal computer is introduced in this paper. The object-oriented programming method is adopted based on Windows System. We put forward methods to analyze QRS complex wave, P wave, T wave and ST fragment. In this paper the techniques such as ECG signal preprocessing, cardio wave parameters detecting and wave pattern cognizing are discussed too. Furthermore we use wavelet transform technique to analyze the wave pattern and get sound effect.
+

@@ -1,0 +1,7 @@
+
+The aim of this paper is to report a method of atherosclerotic plaque tissue characterisation based on pattern recognition and assess its accuracy under conditions of potential clinical relevance.
+
+Excised saline infused human arteries were imaged using IVUS with RF acquisition. 40% of the vessels were re-imaged with human blood infusion. A database of approximately 12000 image regions-of-interest (ROIs) of histologically established types was used to design a pattern recognition algorithm to predict the tissue type of a given ROI by comparing its RF-spectrum against the database, and also to estimate the confidence of prediction. Ex vivo validation demonstrated accuracies at the highest level of confidence as: 97%, 98%, 95%, and 98% for necrotic, lipidic, fibrotic and calcified regions respectively. Good agreement with histology was shown in an in vivo swine animal model.
+
+Ex vivo validation demonstrated the ability to characterise plaque tissue using an IVUS+RF system and a method incorporating (1) full spectral information (2) spectral similarity (3) estimating confidence of characterisation and, (4) ability to characterise plaque imaged through blood. Promising results were demonstrated in a live animal model. This approach may have potential for accurate and reproducible plaque characterisation in vivo.
+

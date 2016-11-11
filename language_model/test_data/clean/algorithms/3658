@@ -1,0 +1,5 @@
+
+ClutrFree facilitates the visualization and interpretation of clusters or patterns computed from microarray data through a graphical user interface that displays patterns, membership information of the genes and annotation statistics simultaneously. ClutrFree creates a tree linking the patterns based on similarity, permitting the navigation among patterns identified by different algorithms or by the same algorithm with different parameters, and aids the inferring of conclusions from a microarray experiment.
+
+The ClutrFree Java source code and compiled bytecode are available as a package under the GNU General Public License at http://bioinformatics.fccc.edu
+

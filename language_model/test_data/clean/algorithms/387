@@ -1,0 +1,3 @@
+
+This paper proposes a novel method for text mining on the Grid, aimed at pointing out hidden relationships for hypothesis generation and suitable for semi-interactive querying. The method is based on unsupervised clustering and the outputs are visualized with contextual information. Grid implementation is crucial for feasibility. We demonstrate it with a mining run for discovering genes-diseases associations from bibliographic sources and annotated databases. The proposed methodology is in view of a Grid architecture specialized in bioinformatics mining tasks. Some performance considerations are provided.
+

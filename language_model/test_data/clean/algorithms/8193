@@ -1,0 +1,9 @@
+
+The processing of dynamic susceptibility contrast perfusion measurements requires an extraction of the first bolus passage of the injected contrast agent. State-of-the-art methods employ the fit of a gamma variate function to the measured data. The use of a gamma variate function is motivated by its shape similarity to the expected relaxation rate time-course during the first bolus passage. However, the quality of this result is strongly influenced by the amount of overlap of the first and second bolus passage. In this work we present an alternative, data-driven method for the extraction of the first bolus passage from a measured relaxation time-course.
+
+By using prior knowledge of the injection function, the measured time-courses can be transformed to time-courses that would occur at a shorter injection duration where the two bolus passages have less overlap. This time-course is found by Tikhonov regularized deconvolution of the measured time-courses with an injection function that bases on the measurement protocol. A minimum search yields the cut-off point at which the first bolus can be extrapolated to zero. The gamma variate fit is performed using Powells algorithm. The proposed approach is compared to the gamma variate fit approach using simulations and an exemplary dataset from one healthy volunteer.
+
+The new method performs comparably stable as the gamma variate function fit approach in simulations. Both methods are superior to a simple exponential extrapolation approach. Applied to volunteer data, the new method performs much faster than the gamma variate fit approach. The results obtained from both methods correspond well.
+
+The new method offers a conceptual understanding of the first bolus passage and yields similar results to the gamma variate function fit approach but performs much faster.
+

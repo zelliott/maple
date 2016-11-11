@@ -1,0 +1,3 @@
+
+We report a scheme for the detector system of confocal microscopes in which the pinhole and a large-area detector are substituted by a CCD camera. The numerical integration of the intensities acquired by the active pixels emulates the signal passing through the pinhole. We demonstrate the imaging capability and the optical sectioning of the system. Subtractive-imaging confocal microscopy can be implemented in a simple manner, providing superresolution and improving optical sectioning.
+

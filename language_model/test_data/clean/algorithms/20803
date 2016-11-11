@@ -1,0 +1,3 @@
+
+A software package, capable of optimizing beam energy and weight and wedge angle and orientation in conjunction with commercial treatment planning system, has been developed to effectively generate three-dimensional conformal radiation therapy (3DCRT) plans for breast irradiation with complicated dosimetry requirements. A nonlinear optimization procedure was utilized for the optimization. The study with 15 patient cases shows that the technique can reduce treatment planning time and effort significantly and can give comparable or slightly better dosimetry results. The package can also be used to optimize the beam weights of 3DCRT plans for other treatment sites.
+

@@ -1,0 +1,7 @@
+
+Base pairing probability matrices have been frequently used for the analyses of structural RNA sequences. Recently, there has been a growing need for computing these probabilities for long DNA sequences by constraining the maximal span of base pairs to a limited value. However, none of the existing programs can exactly compute the base pairing probabilities associated with the energy model of secondary structures under such a constraint.
+
+We present an algorithm that exactly computes the base pairing probabilities associated with the energy model under the constraint on the maximal span W of base pairs. The complexity of our algorithm is given by O(NW2) in time and O(N+W2) in memory, where N is the sequence length. We show that our algorithm has a higher sensitivity to the true base pairs as compared to that of RNAplfold. We also present an algorithm that predicts a mutually consistent set of local secondary structures by maximizing the expected accuracy function. The comparison of the local secondary structure predictions with those of RNALfold indicates that our algorithm is more accurate. Our algorithms are implemented in the software named 'Rfold.'
+
+The C++ source code of the Rfold software and the test dataset used in this study are available at http://www.ncrna.org/software/Rfold/.
+

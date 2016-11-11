@@ -1,0 +1,9 @@
+
+The need to allow for prognostic factors when designing and analysing cancer trials is well recognised, but the possibility of overstratification should be avoided by restricting the number of strata. The proposed method improves on existing guidance by being based on explicit principles and being more adaptable to circumstances, and should be of particular use to clinicians when designing a trial.
+
+Given a proposed sample size, a minimum allowable number in a stratum and an acceptable risk of observing fewer than this minimum, the number of strata can then be obtained by assuming a Poisson distribution for the number of observations per stratum. This can easily be programmed into Excel.
+
+An example is given for a hypothetical typical trial of 250 patients, which for 80% power and 5% two-sided significance would correspond to a Cohen's effect size of 0.355 (about halfway between the 'small' and 'moderate' thresholds). To have a &lt;1% risk of fewer than 10 patients in a stratum, no &gt;13 strata should be considered. For a survival analysis with the same overall sample size but 170 deaths, no &gt;9 strata would be prudent. In the context of a cancer trial this could easily be met by only two prognostic variables.
+
+The method proposed is flexible and based on explicit principles and may be applied in the design or analysis of both clinical trials and epidemiological studies.
+

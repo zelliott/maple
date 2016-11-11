@@ -1,0 +1,3 @@
+
+Understanding the dynamics of human hosts and tumors is of critical importance. A mathematical model was developed that explored the immune response to tumors that was used to study a special type of treatment. This treatment approach uses elements of the host to boost its immune response in the hopes that the host can clear the tumor. This model was extensively studied using numerical simulation, however no global analytical results were originally presented. In this work we explore the global dynamics to show under what conditions tumor clearance can be achieved.
+

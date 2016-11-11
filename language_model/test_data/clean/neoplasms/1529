@@ -1,0 +1,9 @@
+
+To efficiently construct a recombinant adenovirus containing cytosine deaminase (CD) gene driven by vascular endothelial growth factor (VEGF) promoter using an AdEasier-1 system and observe its killing effect on LoVo cells in vitro.
+
+The CD gene was amplified by PCR, and amplicons were cloned in JM109 bacteria, and then recombined into pREP8 to obtain pREP8-CD, which was then digested by HindIIIand XbaIfor the CD fragment with polyadenylation site (CD-pA) subcloned into the VEGFP -containing shuttle plasmid pAdtrack-VEGFP to generate pAdtrack-VEGFP-CD-pA. After linearization with PmeI, pAdtrack-VEGFP-CD-pA was transformed into AdEasier-1 cells, and the transformants were selected on LB agar plates containing 25 microg/ml kanamycin followed by identification of the positive pAdEasy-VEGFP-CD with electrophoretic analysis and enzymatic digestion. pAdEasy-VEGFP-CD was then digested with PacIand transfected into 293 cells to produce the recombinant adenovirus Ad-VEGFP-CD, which was finally confirmed by PCR. The positive recombinant adenoviruses were transfected into LoVo cells to observe their in vitro anti-tumor effect.
+
+pAdEasy-VEGFP-CD was constructed with a success rate of 70%. After being packaged in 293 cells and purified by CsCl banding, the titer of the recombinant adenovirus Ad-VEGFP-CD reached as high as 4.8x10(12) CFU particle/ml, and the adenovirus was further confirmed by PCR analysis. In the presence of the prodrug 5-FC, the recombinant adenoviruses remarkably inhibited the growth of LoVo cells.
+
+The recombinant adenoviruses containing CD gene under the control of VEGF promoter can be efficiently generated using the AdEasier-1 system, and exhibit potent anti-tumor effect in vitro.
+

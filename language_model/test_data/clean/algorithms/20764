@@ -1,0 +1,9 @@
+
+To improve physicians' ability to discriminate tuberculous from malignant pleural effusions through a simple clinical algorithm that avoids pleural biopsy.
+
+We retrospectively compared the clinical and pleural fluid features of 238 adults with pleural effusion who satisfied diagnostic criteria for tuberculosis (n=64) or malignancy (n=174) at one academic center (derivation cohort). Then, we built a decision tree model to predict tuberculosis using the C4.5 algorithm. The model was validated with an independent sample set from another center that included 74 tuberculous and 293 malignant effusions (validation cohort).
+
+Among 12 potential predictor variables, the classification tree analysis selected four discriminant parameters (age>35 years, pleural fluid adenosine deaminase>38U/L, temperature>or=37.8 degrees C, and pleural fluid LDH>320U/L) from the derivation cohort. The generated flowchart had 92.2% sensitivity, 98.3% specificity, and an area under the ROC curve of 0.976 for diagnosing tuberculosis. The corresponding operating characteristics for the validation cohort were 85.1%, 96.9% and 0.958.
+
+Applying a decision tree analysis that contains simple clinical and laboratory data can help in the differential diagnosis of tuberculous and malignant pleural effusions.
+

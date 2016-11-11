@@ -1,0 +1,3 @@
+
+Selection bias is a potential problem, especially in trials where blinding is not possible. Randomization with a constrained block of large size provides better protection from selection bias than using a sequence of blocks of small size with the same maximum imbalance. We propose an algorithm that efficiently generates constrained block allocation sequences, and we describe two clinical trials in which such a constrained randomization was used.
+

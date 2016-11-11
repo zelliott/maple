@@ -1,0 +1,9 @@
+
+To derive micronutrient recommendations in a scientifically sound way, it is important to obtain and analyse all published information on the association between micronutrient intake and biochemical proxies for micronutrient status using a systematic approach. Therefore, it is important to incorporate information from randomized controlled trials as well as observational studies as both of these provide information on the association. However, original research papers present their data in various ways.
+
+This paper presents a methodology to obtain an estimate of the dose-response curve, assuming a bivariate normal linear model on the logarithmic scale, incorporating a range of transformations of the original reported data.
+
+The simulation study, conducted to validate the methodology, shows that there is no bias in the transformations. Furthermore, it is shown that when the original studies report the mean and standard deviation or the geometric mean and confidence interval the results are less variable compared to when the median with IQR or range is reported in the original study.
+
+The presented methodology with transformations for various reported data provides a valid way to estimate the dose-response curve for micronutrient intake and status using both randomized controlled trials and observational studies.
+

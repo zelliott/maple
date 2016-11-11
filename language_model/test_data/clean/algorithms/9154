@@ -1,0 +1,3 @@
+
+The information-transfer rate (ITR) is commonly used to assess the performance of brain-computer interfaces (BCIs). Various studies have shown that the optimal number of mental tasks to be used is fairly low, around 3 or 4. We propose an experimental validation as well as a formal approach to demonstrate and confirm that this optimum is user and BCI design dependent. Even if increasing the number of mental tasks to the optimum indeed leads to an increase of the ITR, the gain remains small. This might not justify the added complexity in terms of protocol design.
+

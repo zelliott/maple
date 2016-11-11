@@ -1,0 +1,5 @@
+
+Finishing, i.e. gap closure and editing, is the most time-consuming part of genome sequencing. Repeated sequences together with sequencing errors complicate the assembly and often result in misassemblies that are difficult to correct. Repeat Discrepancy Tagger (ReDiT) is a tool designed to aid in the finishing step. This software processes assembly results produced by any fragment assembly program that outputs ace files. The input sequences are analyzed to determine possible differences between repeated sequences. The output is written as tags in an ace file that can be viewed by, e.g. the Consed sequence editor.
+
+The ReDiT program is freely available at http://web.cgb.ki.se/redit
+

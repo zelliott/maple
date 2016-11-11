@@ -1,0 +1,7 @@
+
+GenePicker allows efficient analysis of Affymetrix gene expression data performed in replicate, through definition of analysis schemes, data normalization, t-test/ANOVA, Change-Fold Change-analysis and yields lists of differentially expressed genes with high confidence. Comparison of noise and signal analysis schemes allows determining a signal-to-noise ratio in a given experiment. Change Call, Fold Change and Signal mean ratios are used in the analysis. While each parameter alone yields gene lists that contain up to 30% false positives, the combination of these parameters nearly eliminates the false positives as verified by northern blotting, quantitative PCR in numerous independent experiments as well as by the analysis of spike-in data.
+
+http://www.ifom-firc.it/RESEARCH/Appl_Bioinfo/tools.html.
+
+http://www.ifom-firc.it/RESEARCH/Appl_Bioinfo/tools.html.
+

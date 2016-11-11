@@ -1,0 +1,3 @@
+
+A Cox-type regression model accommodating heteroscedasticity, with a power factor of the baseline cumulative hazard, is investigated for analyzing data with crossing hazards behavior. Since the approach of partial likelihood cannot eliminate the baseline hazard, an overidentified estimating equation (OEE) approach is introduced in the estimation procedure. It by-product, a model checking statistic, is presented to test for the overall adequacy of the heteroscedastic model. Further, under the heteroscedastic model setting, we propose two statistics to test the proportional hazards assumption. Implementation of this model is illustrated in a data analysis of a cancer clinical trial.
+

@@ -1,0 +1,3 @@
+
+With the flooding datasets of medical Computed Tomography (CT) and Magnetic Resonance Imaging (MRI), implicit modeling techniques are increasingly applied to reconstruct the human organs, especially the vasculature. However, displaying implicitly represented geometric objects arises heavy computational burden. In this study, a Graphics Processing Unit (GPU) accelerating technique was developed for high performance rendering of implicitly represented objects, especially the vasculatures. The experimental results suggested that the rendering performance was greatly enhanced via exploiting the advantages of modern GPUs.
+

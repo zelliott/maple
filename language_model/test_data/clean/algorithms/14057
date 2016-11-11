@@ -1,0 +1,5 @@
+
+In microarray gene expression studies, the number of replicated microarrays is usually small because of cost and sample availability, resulting in unreliable variance estimation and thus unreliable statistical hypothesis tests. The unreliable variance estimation is further complicated by the fact that the technology-specific variance is intrinsically intensity-dependent.
+
+The Rosetta error model captures the variance-intensity relationship for various types of microarray technologies, such as single-color arrays and two-color arrays. This error model conservatively estimates intensity error and uses this value to stabilize the variance estimation. We present two commonly used error models: the intensity error-model for single-color microarrays and the ratio error model for two-color microarrays or ratios built from two single-color arrays. We present examples to demonstrate the strength of our error models in improving statistical power of microarray data analysis, particularly, in increasing expression detection sensitivity and specificity when the number of replicates is limited.
+

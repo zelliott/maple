@@ -1,0 +1,3 @@
+
+The three-parameter Sokoloff equation is used to measure the rates of glucose consumption in the brain in vivo. This equation depends linearly on one of its parameters, k1, which is responsible for the glucose transport from plasma to tissue. By equating to zero the first derivative of the minimization function with respect to k1, it is possible to express this parameter as a function of the other two and reduce the non-linear search from three to two dimensions. This approach was examined by the Nelder-Mead simplex method and the Levenberg-Marquardt algorithm. In both cases the process of convergence was more robust and required fewer iterations to achieve a given accuracy than the direct three-parameter non-linear search.
+

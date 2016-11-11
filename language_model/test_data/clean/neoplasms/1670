@@ -1,0 +1,9 @@
+
+In Brazil cancer incidence rates have to be estimated from occasional surveys, due to lack of continuous cancer registries. Many estimated rates have very large variances, because only few years of data were collected. When dealing with a single cancer site, it is possible to adopt a Bayesian method which borrows information about the cancer rates from other geographical areas to estimate the cancer rate in a given area. We suggest an additional improvement to this method which explores the correlation between multiple cancer sites rates in a same area and in different areas.
+
+Our method works with a multivariate vector of different cancer sites rates in several areas and it borrows information from both, across geographical areas and across different cancer sites. We applied our method to data from a survey carried out in 18 Brazilian cities in São Paulo State in 1991. We estimated age and sex indirect standardized incidence rates for the six most common cancers in men and women, and calculated the 95% interval estimation for the incidence rates.
+
+The usual indirect standardized incidence rates had very large confidence intervals for many cancers and cities due to small expected number of cases. The use of the multivariate Bayesian method led to more precise estimates.
+
+More precise age-standardized cancer incidence rates can be calculated using data from other cancers. The method is conceptually simple, easy to perform, has low cost, and can improve substantially the estimation of cancer incidence and other vital rates.
+

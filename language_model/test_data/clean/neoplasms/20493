@@ -1,0 +1,9 @@
+
+An important challenge in the use of large-scale gene expression data for biological classification occurs when the expression dataset being analyzed involves multiple classes. Key issues that need to be addressed under such circumstances are the efficient selection of good predictive gene groups from datasets that are inherently 'noisy', and the development of new methodologies that can enhance the successful classification of these complex datasets.
+
+We have applied genetic algorithms (GAs) to the problem of multi-class prediction. A GA-based gene selection scheme is described that automatically determines the members of a predictive gene group, as well as the optimal group size, that maximizes classification success using a maximum likelihood (MLHD) classification method.
+
+The GA/MLHD-based approach achieves higher classification accuracies than other published predictive methods on the same multi-class test dataset. It also permits substantial feature reduction in classifier genesets without compromising predictive accuracy. We propose that GA-based algorithms may represent a powerful new tool in the analysis and exploration of complex multi-class gene expression data.
+
+Supplementary information, data sets and source codes are available at http://www.omniarray.com/bioinformatics/GA.
+

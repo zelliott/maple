@@ -1,0 +1,9 @@
+
+   In model-based respiratory motion estimation for the liver or other abdominal organs, the surrogate respiratory signal is usually obtained by using special tracking devices from skin or diaphragm, and subsequently applied to parameterize a 4D motion model for prediction or compensation. However, due to the intrinsic limits and economical costs of these tracking devices, the identification of the respiratory signal directly from intra-operative ultrasound images is a more attractive alternative.
+
+   We propose a fast and robust method to extract the respiratory motion of the liver from an intra-operative 2D ultrasound image sequence. Our method employs a preprocess to remove speckle-like noises in the ultrasound images and utilizes the normalized cross-correlation to measure the image similarity fast. More importantly, we present a novel adaptive search strategy, which makes full use of the inter-frame dependency of the image sequence. This search strategy narrows the search range of the optimal matching, thus greatly reduces the search time, and makes the matching process more robust and accurate.
+
+   The experimental results on four volunteers demonstrate that our method is able to extract the respiratory signal from an image sequence of 256 image frames in 5 s. The quantitative evaluation using the correlation coefficient reveals that the respiratory motion, extracted near the liver boundaries and vessels, is highly consistent with the reference motion tracked by an EM device.
+
+   Our method can use 2D ultrasound to track natural landmarks from the liver as surrogate respiratory signal and hence provide a feasible solution to replace special tracking devices.
+

@@ -1,0 +1,9 @@
+
+Accurate information is needed to direct healthcare systems' efforts to control methicillin-resistant Staphylococcus aureus (MRSA). Assembling complete and correct microbiology data is vital to understanding and addressing the multiple drug-resistant organisms in our hospitals.
+
+Herein, we describe a system that securely gathers microbiology data from the Department of Veterans Affairs (VA) network of databases. Using natural language processing methods, we applied an information extraction process to extract organisms and susceptibilities from the free-text data. We then validated the extraction against independently derived electronic data and expert annotation.
+
+We estimate that the collected microbiology data are 98.5% complete and that methicillin-resistant Staphylococcus aureus was extracted accurately 99.7% of the time.
+
+Applying natural language processing methods to microbiology records appears to be a promising way to extract accurate and useful nosocomial pathogen surveillance data. Both scientific inquiry and the data's reliability will be dependent on the surveillance system's capability to compare from multiple sources and circumvent systematic error. The dataset constructed and methods used for this investigation could contribute to a comprehensive infectious disease surveillance system or other pressing needs.
+

@@ -1,0 +1,3 @@
+
+3D q-space can be viewed as the surface of a 4D hypersphere. In this paper, we seek to develop a 4D hyperspherical interpretation of q-space by projecting it onto a hypersphere and subsequently modeling the q-space signal via 4D hyperspherical harmonics (HSH). Using this orthonormal basis, we analytically derive several quantitative indices and numerically estimate the diffusion ODF. Importantly, we derive the integral transform describing the relationship between the diffusion signal and propagator on a hypersphere. We also show that the HSH basis expends less fitting parameters than other well-established methods to achieve comparable signal and better ODF reconstructions. All in all, this work provides a new way of looking at q-space.
+

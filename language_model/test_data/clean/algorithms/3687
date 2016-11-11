@@ -1,0 +1,3 @@
+
+Practical applications of structured illumination microscopy (SIM) often suffer from various artefacts that result from imprecise instrumental hardware and certain bleaching properties of the sample. These artefacts can be observed as residual stripe patterns originating from the illumination grating. We investigated some significant causes of these artefacts and developed a correction approach that can be applied to images after acquisition. Most of the artefacts can be attributed to changes in illumination and detection intensities during acquisition. The proposed correction algorithm has been shown to be functional on noisy image data, and produces exceptional, artefact-free results in everyday laboratory work.
+

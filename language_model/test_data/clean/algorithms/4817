@@ -1,0 +1,9 @@
+
+To develop a computer-based system for modelling and interpreting plasma antiretroviral concentrations for therapeutic drug monitoring (TDM).
+
+Data were extracted from a prospective TDM study of 199 HIV-infected patients (CCTG 578). Lopinavir (LPV) and efavirenz (EFV) pharmacokinetic (PK) parameters were modelled using a Bayesian method and interpreted by an expert committee of HIV specialists and pharmacologists who made TDM recommendations. These PK models and recommendations formed the knowledge base to develop an artificial intelligence (AI) system that could estimate drug exposure, interpret PK data and generate TDM recommendations. The modelled PK exposures and expert committee TDM recommendations were considered optimum and used to validate results obtained by the AI system.
+
+A group of patients, 67 on LPV, 46 on EFV and three on both drugs, were included in this analysis. Correlations were high for LPV and EFV estimated trough and 4 h post-dose concentrations between the Al estimates and modelled values (r > 0.79 for all comparisons; P < 0.0001). Although trough concentrations were similar, significant differences were seen for mean predicted 4 h concentrations for EFV (4.16 microg/ml versus 3.89 microg/ml; P = 0.02) and LPV (7.99 microg/ml versus 8.79 microg/ml; P < 0.001). The AI and expert committee TDM recommendations agreed in 53 out of 69 LPV cases [kappa (kappa) = 0.53; P < 0.001] and 47 out of 49 EFV cases (kappa = 0.91; P < 0.001).
+
+The AI system successfully estimated LPV and EFV trough concentrations and achieved good agreement with expert committee TDM recommendations for EFV- and LPV-treated patients.
+

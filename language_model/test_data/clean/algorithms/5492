@@ -1,0 +1,9 @@
+
+To demonstrate robust detection of biomarkers in broad-mass-range TOF-MS data.
+
+Spectra were obtained for two serum protein profiling studies: (i) 2-200 kDa for 132 patients, 67 healthy and 65 diagnosed as having adult T-cell leukemia and (ii) 2-100 kDa for 140 patients, 70 pairs, each with matched prostate-specific antigen (PSA) levels and biopsy-confirmed diagnoses of one benign and one prostate cancer. Signal processing was performed on raw spectra and peak data were normalized using four methods. Feature selection was performed using Bayesian Network Analysis and a classifier was tested on withheld data. Identification of candidate biomarkers was pursued.
+
+Integrated peak intensities were resolved over full spectra. Normalization using local noise values was superior to global methods in reducing peak correlations, reducing replicate variability and improving feature selection stability. For the leukemia data set, potential disease biomarkers were detected and were found to be predictive for withheld data. Preliminary assignments of protein IDs were consistent with published results and LC-MS/MS identification. No prostate-specific-antigen-independent biomarkers were detected in the prostate cancer data set.
+
+Signal processing, local signal-to-noise (SNR) normalization and Bayesian Network Analysis feature selection facilitate robust detection and identification of biomarker proteins in broad-mass-range clinical TOF-MS data.
+

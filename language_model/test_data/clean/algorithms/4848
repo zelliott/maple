@@ -1,0 +1,3 @@
+
+We present a new version of the 3D TROSY HNCO pulse scheme, referred to as HR-TROSY HNCO, with comparable resolution in the (15)N dimension to a 2D (1)H-(15)N HSQC experiment. In the conventional 3D TROSY HNCO, the constant time period (1/2J(NC) approximately 32 ms) severely limits the maximum resolution in the (15)N dimension. In the HR-TROSY HNCO experiment presented here, both constant time periods (approximately 32 ms each) for coherence forward and backward transfer between (15)N and (13)C' are utilized to double the (15)N evolution time. This leads to a dramatic enhancement in peak separation along the (15)N dimension, making the HR-TROSY HNCO an ideal pulse scheme for accurate paramagnetic relaxation enhancement and residual dipolar coupling measurements.
+

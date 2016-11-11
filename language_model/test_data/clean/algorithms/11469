@@ -1,0 +1,9 @@
+
+The auditory radiation crosses other white matter tracts and cannot reliably be delineated or quantitatively assessed with DTI fiber tracking. This study investigates whether HARDI fiber tracking can be used to robustly delineate the full extent of the tract.
+
+HARDI (64-direction, b=3000 s/mm²) and DTI (30-direction, b=1000 s/mm²) were acquired from 25 control participants between 8 and 26 years old. Probabilistic HARDI and DTI fiber tracking of the auditory radiation was performed with starting and filter regions automatically generated from the FreeSurfer white matter parcellation. DTI fiber tracking was performed with both the 64-direction and the 30-direction datasets. Fiber-tracking trials demonstrating connectivity from the Heschl gyrus to the medial geniculate nucleus were considered successful.
+
+The HARDI fiber tracking success rate was 98% and was significantly higher than the 64-direction DTI rate of 50% or the 30-direction DTI rate of 42% (P < .001). The success rates of HARDI fiber tracking for the left and right auditory radiations were not significantly different. In contrast, the left auditory radiation was successfully delineated with DTI fiber tracking at a higher rate than the right auditory radiation.
+
+HARDI can discriminate the complex white matter pathways at the junction of the auditory radiation and the ILF. HARDI fiber tracking can reliably delineate the auditory radiation.
+

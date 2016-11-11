@@ -1,0 +1,3 @@
+
+Simulation-based parameter estimation offers a powerful means of estimating parameters in complex stochastic models. We illustrate the application of these ideas in the setting of a natural history model for breast cancer. Our model assumes that the tumor growth process follows a geometric Brownian motion; parameters are estimated from the SEER registry. Our discussion focuses on the use of simulation for computing the maximum likelihood estimator for this class of models. The analysis shows that simulation provides a straightforward means of computing such estimators for models of substantial complexity.
+

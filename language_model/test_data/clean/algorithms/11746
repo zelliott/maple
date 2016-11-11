@@ -1,0 +1,3 @@
+
+The Web provides a useful environment for simple surgical training simulations. A combination of VRML for 3D rendering, and Java code for the simulation engine, has been used for a range of simple neurosurgical demonstrators. However the elements in these simulators are rigid, to avoid the computational complexity of deformable modelling. In this paper we describe a variation of the ChainMail technique that allows us to provide real-time deformable modelling, even in a Web browser environment on a PC. Our new algorithm, SurfaceChainMail, has been used to develop a simulator for the cutting of two layers of tissue, and separating the layers by pulling them apart.
+

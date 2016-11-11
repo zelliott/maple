@@ -1,0 +1,3 @@
+
+At present, one of the most promising windows to the functional organization of the human brain is magnetoencephalography (MEG). By mapping the magnetic field distribution outside the head the sites of neural events can be located with an accuracy of a few millimeters and the temporal evolution of the activation can be traced with a millisecond resolution. This paper reviews some forward field calculation approaches suitable for the interpretation of the brain's electromagnetic signals. Inverse modelling with multiple dipoles is described in detail. An example of the analysis of the somatosensory evoked-responses illustrates the potential of multiple signal classification (MUSIC) algorithm in finding optimal dipole positions.
+

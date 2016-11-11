@@ -1,0 +1,9 @@
+
+To compare dose values specified at the reference point, as recommended by the International Commission on Radiation Units and Measurements, ICRU, and the mean dose to the planning target volume, PTV.
+
+CT-based dose calculations were performed with a 3-D treatment planning system for 6 series of patients treated for bladder, brain, breast, lung, oropharynx and parotid gland tumour. All patients were arbitrarily chosen from a set of previously treated patients irradiated with a two- or three-field technique using customised blocks. Appropriate wedge angles and beam weights were chosen to make the dose distribution as homogeneous as possible.
+
+The dose at the ICRU reference point was generally higher than the mean dose to the PTV. The difference between the ICRU reference dose and the mean dose to the PTV for an individual patient was less than 3% in 88% of cases and less than 2% in 72% of the cases. The differences were larger in those patients where the dose distribution is significantly influenced by the presence of lungs or air gaps. For each series of patients the mean difference between the ICRU reference dose and the mean dose to the PTV was calculated. The difference between these two values never exceeded 2%. Because not all planning systems are able to calculate the mean dose to the PTV, the concept of the mean central dose, the mean of the dose values at the centre of the PTV in each CT slice, has been introduced. The mean central dose was also calculated for the same patients and was closer to the mean dose to the PTV than the ICRU reference dose.
+
+The mean dose to the PTV is well estimated by either the ICRU reference dose or the mean central dose for a variety of treatment techniques for common types of cancer.
+

@@ -1,0 +1,3 @@
+
+This paper introduces the technology of recognizing CD4 cell by a computer, which successfully segments the objects from the background through image processing and analyses the four features including geometric features, optical density, color and texture features. The method based on Principal Component Analysis algorithm is used for feature extraction, and a Back Propagation neural network classifier is constructed, from which the CD4 cell can be well recognized. CD4 cell, image segmentation, feature analysis, Principal Component Analysis (PCA), Back Propagation (BP) neural network classifier is constructed, from which the CD4 cell can be well recognized.
+

@@ -1,0 +1,9 @@
+
+To build an early warning score (EWS) based exclusively on routinely undertaken laboratory tests that might provide early discrimination of in-hospital death and could be easily implemented on paper.
+
+Using a database of combined haematology and biochemistry results for 86,472 discharged adult patients for whom the admission specialty was Medicine, we used decision tree (DT) analysis to generate a laboratory decision tree early warning score (LDT-EWS) for each gender. LDT-EWS was developed for a single set (n=3496) (Q1) and validated in 22 other discrete sets each of three months long (Q2, Q3…Q23) (total n=82,976; range of n=3428 to 4093) by testing its ability to discriminate in-hospital death using the area under the receiver-operating characteristic (AUROC) curve.
+
+The data generated slightly different models for male and female patients. The ranges of AUROC values (95% CI) for LDT-EWS with in-hospital death as the outcome for the validation sets Q2-Q23 were: 0.755 (0.727-0.783) (Q16) to 0.801 (0.776-0.826) [all patients combined, n=82,976]; 0.744 (0.704-0.784, Q16) to 0.824 (0.792-0.856, Q2) [39,591 males]; and 0.742 (0.707-0.777, Q10) to 0.826 (0.796-0.856, Q12) [43,385 females].
+
+This study provides evidence that the results of commonly measured laboratory tests collected soon after hospital admission can be represented in a simple, paper-based EWS (LDT-EWS) to discriminate in-hospital mortality. We hypothesise that, with appropriate modification, it might be possible to extend the use of LDT-EWS throughout the patient's hospital stay.
+

@@ -1,0 +1,9 @@
+
+To optimize dose distribution for high-dose-rate brachytherapy for prostate cancer, we have developed a new algorithm named Attraction-Repulsion Model (ARM). In this study, we compared the ARM with geometric optimization (GO).
+
+The ARM was used to optimize the dose distribution by finding the best dwell time combination. ARM requires grids inside the clinical target volume (CTV) and critical organs. These grids generate attraction or repulsion based on specific dose constraints. After calculations were performed repeatedly until the attraction and repulsion forces reached equilibrium, the optimal dwell time distribution was established. We compared the ARM with GO for 10 patients using dose-volume histograms.
+
+The CTV ranged from 23 to 48 cc, and the CTV V150 ranged from 52% to 79%, and 23% to 44% for GO and ARM, respectively. This indicates that the dose homogeneity indices, as well as the conformal indices, were higher for ARM than for GO. The urethra V150 was 0-99% and 0-1% for GO and ARM, respectively.
+
+The ARM proved to be superior to GO in minimizing the dose to normal structures and in improving dose homogeneity for the target while reducing the dose to normal tissues.
+

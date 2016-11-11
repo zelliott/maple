@@ -1,0 +1,3 @@
+
+Inner hair cells (IHCs) transform the mechanical movements of the basilar membrane into electrical impulses. The impulse coding of the IHCs is the main information carrier in the auditory process and is the basis for improvements of cochlea implants as well as for low rate, high-quality speech processing and compression. This paper shows how to compute the speech signal from the neural firing based on the analysis of the interspike interval histogram. This new approach solves problems that other standard analysis methods do not solve sufficiently well.
+

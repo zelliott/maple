@@ -1,0 +1,3 @@
+
+According to the limitations of wavelet threshold in de-noising method, we approached a combining algorithm of the stationary wavelet transform with adaptive filter. The stationary wavelet transformation can suppress Gibbs phenomena in traditional DWT effectively, and adaptive filter is introduced at the high scale wavelet coefficient of the stationary wavelet transformation. It would remove baseline wander and keep the shape of low frequency and low amplitude P wave, T wave and ST segment wave of ECG signal well. That is important for analyzing ECG signal of other feature information.
+

@@ -1,0 +1,13 @@
+
+Two- or three-stage designs are commonly used in phase II cancer clinical trials. These designs possess good frequentist properties and allow early termination of the trial when the interim data indicate that the experimental regimen is inefficacious. The rigid study design, however, can be difficult to follow exactly because the response has to be evaluated at prespecified fixed number of patients.
+
+Our goal is to develop an efficient and flexible design that possesses desirable statistical properties.
+
+A flexible design based on Bayesian predictive probability and the minimax criterion is constructed. A three-dimensional search algorithm is implemented to determine the design parameters.
+
+The new design controls type I and type II error rates, and allows continuous monitoring of the trial outcome. Consequently, under the null hypothesis when the experimental treatment is not efficacious, the design is more efficient in stopping the trial earlier, which results in a smaller expected sample size. Exact computation and simulation studies demonstrate that the predictive probability design possesses good operating characteristics.
+
+The predictive probability design is more computationally intensive than two- or three-stage designs. Similar to all designs with early stopping due to futility, the resulting estimate of treatment efficacy may be biased.
+
+The predictive probability design is efficient and remains robust in controlling type I and type II error rates when the trial conduct deviates from the original design. It is more adaptable than traditional multi-stage designs in evaluating the study outcome, hence, it is easier to implement. S-PLUS/R programs are provided to assist the study design.
+

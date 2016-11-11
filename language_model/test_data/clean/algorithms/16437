@@ -1,0 +1,3 @@
+
+In this paper, an integrated electrocardiogram (ECG) signal-processing scheme is proposed. Using a systematic wavelet transform algorithm, this signal-processing scheme can realize multiple functions in real time, including baseline-drift removal, noise suppression, QRS detection, heart beat rate prediction and classification, and clean ECG reconstruction. Utilizing the novel low-cost hardware architecture, the proposed ECG signal-processing scheme is implemented in application-specific integrated circuits with 0.18 μ m CMOS technology. This ECG signal-processor chip achieves low area and power consumptions, and is highly suitable for wearable applications of long-term cardiac monitoring.
+

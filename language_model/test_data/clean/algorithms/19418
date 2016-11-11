@@ -1,0 +1,9 @@
+
+To assess the effect of three-dimensional (3D) lossy image compression of multidetector computed tomography chest scans on computer-aided detection (CAD) of solid lung nodules greater than 4 mm in size.
+
+A total of 120 cases, acquired with 1.25-mm collimation, were collected from 5 different sites, of which 66/120 were low-dose cases. Two chest radiologists established that 37 cases had no actionable lung nodules; the remaining 83 cases contained 169 nodules (range 3.8-35.0 mm, mean 5.8 mm +/- 3.0 [SD]). All cases were compressed using the 3D Set Partitioning in Hierarchical Trees algorithm to 24:1, 48:1, and 96:1 levels. A study of the effect of compression on computer-aided detection (CAD) sensitivity was performed at operating points of 2.5 false marks (FM), 5 FM, and 10 FM per case using McNemar's test. Logistic regression models were used to evaluate the impact on CAD sensitivity by compression level on nodule and image characteristics.
+
+Compared with no compression, there was no significant degradation in CAD sensitivity found at any of the studied compression levels and operating points. However, between compression levels, there was marginal association with sensitivity. Specifically, 24:1 level was significantly better than 96:1 at all operating points, and occasionally better than no compression at 10 FM/case. Based on multivariate analysis, nodule location was found to be a significant predictor (P = .01) with a lower sensitivity associated with juxtapleural nodules. Nodule size, dose, reconstruction filter, and contrast medium were not significant predictors.
+
+CAD detection performance of solid lung nodules did not suffer until 48:1 compression.
+

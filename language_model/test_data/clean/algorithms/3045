@@ -1,0 +1,7 @@
+
+Alcoholic fatty liver disease (AFLD) and non-AFLD (NAFLD) can progress to severe liver diseases such as steatohepatitis, cirrhosis and cancer. Thus, the detection of early liver disease is essential; however, minimal invasive diagnostic methods in clinical hepatology still lack specificity.
+
+Ion molecule reaction mass spectrometry (IMR-MS) was applied to a total of 126 human breath gas samples comprising 91 cases (AFLD, NAFLD and cirrhosis) and 35 healthy controls. A new feature selection modality termed Stacked Feature Ranking (SFR) was developed to identify potential liver disease marker candidates in breath gas samples, relying on the combination of different entropy- and correlation-based feature ranking methods including statistical hypothesis testing using a two-level architecture with a suggestion and a decision layer. We benchmarked SFR against four single feature selection methods, a wrapper and a recently described ensemble method, indicating a significantly higher discriminatory ability of up to 10-15% for the SFR selected gas compounds expressed by the area under the ROC curve (AUC) of 0.85-0.95. Using this approach, we were able to identify unexpected breath gas marker candidates in liver disease of high predictive value. A literature study further supports top-ranked markers to be associated with liver disease. We propose SFR as a powerful tool for biomarker search in breath gas and other biological samples using mass spectrometry.
+
+The algorithm SFR and IMR-MS datasets are available under http://biomed.umit.at/page.cfm?pageid=526.
+

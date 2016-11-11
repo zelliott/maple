@@ -1,0 +1,3 @@
+
+Docking, virtual screening and structure-based drug design are routinely used in modern drug discovery programs. Although current docking methods deal with flexible ligands, managing receptor flexibility has proved to be challenging. In this brief review, we present the current state-of-the-art for computationally handling receptor flexibility, including a novel statistical computational approach published recently. We conclude, from a comparison of the different approaches, that a combination of methods is likely to provide the most reliable solution to the problem of finding the right protein conformation for a given ligand.
+

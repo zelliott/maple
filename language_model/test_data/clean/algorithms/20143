@@ -1,0 +1,9 @@
+
+To evaluate image quality of 320-detector row wide-volume (WV) computed tomography (CT) compared to 64-detector row helical CT from axial images and coronal multiplanar reformation (MPR).
+
+Thirty-five patients with diffuse lung diseases were scanned using both 320-detector row WV CT (coneXact and volumeXact+) and 64-detector row helical protocols. Three blinded observers evaluated dislocation and heterogeneity of normal structures on 3 MPR patterns (WV scan with coneXact, WV scan with volumeXact+, and helical scan) using a 3-point scale from 1 (severe dislocation/heterogeneity) to 3 (no dislocation/heterogeneity). They also evaluated axial images of 2 scan patterns (WV with volumeXact+ and helical) using a 5-point scale from 1 (nondiagnostic) to 5 (excellent). Statistical analyses were performed with a post hoc test, Wilcoxon signed rank test, Mann-Whitney U test, or the Kendall W test.
+
+The WV scans with the coneXact algorithm had significantly lower quality scores than the WV scans with the volumeXact+ algorithm and the helical scans (P < 0.01) with MPR. Helical scans had significantly lower quality scores than the WV scans with volumeXact+ for heterogeneity on the mediastinal window setting with MPR (P < 0.01). There were no significant differences concerning total image quality of axial images between the WV scans with the volumeXact+ algorithm and the helical scans.
+
+The overall image quality of WV scans with the volumeXact+ algorithm was almost comparable to that of the helical scans on the lung window setting, but density homogeneity with helical scans was inferior to that of the WV scans with the volumeXact+ algorithm on the mediastinal window setting with MPR.
+

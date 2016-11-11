@@ -1,0 +1,3 @@
+
+Retinal blood vessels are important structures in ophthalmological images. Many detection methods are available, but the results are not always satisfactory. In this paper, we present a novel model based method for blood vessel detection in retinal images. It is based on a Laplace and thresholding segmentation step, followed by a classification step to improve performance. The last step assures incorporation of the inner part of large vessels with specular reflection. The method gives a sensitivity of 92% with a specificity of 91%. The method can be optimized for the specific properties of the blood vessels in the image and it allows for detection of vessels that appear to be split due to specular reflection.
+

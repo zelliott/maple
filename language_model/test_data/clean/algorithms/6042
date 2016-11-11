@@ -1,0 +1,9 @@
+
+Visual interpretation of angiographic images has been shown to be inadequate for assessing the severity of intermediate coronary stenoses. An approach for evaluating both the anatomic and functional impact of a stenosis is needed. An automated technique for determining both coronary blood flow and lumen volume based on a first-pass analysis (FPA) of coronary angiograms and a template matching algorithm was evaluated.
+
+Coronary angiograms of a swine animal model were obtained during power injections of contrast material into the left coronary ostium. Background anatomy was subtracted with an automated phase matching program. A template matching algorithm and first-pass analysis were then used to quantify coronary blood flow and lumen volume. Coronary blood flow and lumen volume measurements were validated with a transit-time ultrasound flow probe and a polymer cast of the coronary arteries, respectively.
+
+In 14 independent comparisons, the mean coronary blood flow measured with FPA showed strong correlation with the mean flow measured with the ultrasound flow probe (Q(FPA) = 0.88Q(probe) - 1.99; r = 0.977; standard error of estimate = 3.23 mL/minute). The lumen volumes determined with FPA and cast measurements demonstrated excellent correlation and can be related to each other by V(FPA) = 0.95V(C) - 0.01 (r = 0.997; standard error of estimate = 0.01 mL).
+
+The proposed automated method for accurate determination of coronary blood flow and lumen volume can supplement visual evaluation of coronary anatomy with quantitative physiologic data. This automated technique potentially offers a clinically feasible method of quantifying coronary blood flow and lumen volume in conjunction with routine cardiac catheterization.
+

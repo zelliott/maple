@@ -1,0 +1,3 @@
+
+Voxel-by-voxel estimation of liver perfusion using nonlinear least-squares fits of dynamic contrast enhanced computed tomography or magnetic resonance imaging data to a compartmental model is a computational expensive process. In this report, a "linear" least-squares method for estimation of liver perfusion is described. Simulated data and the data from an example case of a patient with intrahepatic cancer are presented. Compared to the nonlinear method, the new method can improve computational speed by a factor of approximately 400, which makes it practical for use in clinical trials.
+

@@ -1,0 +1,5 @@
+
+The GoSh database is a collection of 58 990 Capra hircus and Ovis aries expressed sequence tags. A perl pipeline was prepared to process sequences, and data were collected in a MySQL database. A PHP-based web interface allows browsing and querying the database. Putative single nucleotide polymorphism (SNP) detection, as well as search to repeats were performed, and links to external related resources were provided. Sequences were annotated against three different databases and an algorithm was implemented to create statistics of the distribution of retrieved homologous ontologies in the Gene Ontology categories. The GoSh database is a repository of data and links related to goat and sheep expressed genes.
+
+The GoSh database is available at http://www.itb.cnr.it/gosh/
+

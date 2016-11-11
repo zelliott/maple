@@ -1,0 +1,3 @@
+
+A procedure for the optimal utilization and representation of the information retrieved from atmospheric observations is discussed. We show that the "measurement-space solution" exclusively contains the information present in the observations, but is not suitable for a representation of the retrieved profile in the form of a graph. The new method of the "null-space regularization", which provides in a complement space an external constraint and makes the solution compliant with this representation, is presented. In this way the measurement and the constraint are separately determined and are given in a vertical grid that can be freely chosen as fine as desired. The method is applied to simulated measurements and is used to define a procedure for data fusion.
+

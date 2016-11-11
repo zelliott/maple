@@ -1,0 +1,3 @@
+
+There has been considerable interest in recent years in the monitoring of the well-being of the fetus by the analysis of changes in morphology of the fetal electrocardiogram (FECG) signal. In this article, a brief review is first made of the use of the scalp electrode method to obtain an enhanced FECG complex. Subsequently, the problems in extracting the fetal signal from measurements taken from the abdomen of the mother are discussed. A comparison is made between two existing algorithms to extract the fetal signal: (1) the method of Akselrod; and (2) the adaptive filtering algorithm of Widrow. These algorithms are evaluated by considering the errors that could occur in locating the fetal R wave in the presence of noise.
+

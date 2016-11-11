@@ -1,0 +1,3 @@
+
+In this paper, we derive a technique for analysis of local distortions which affect data in real-world applications. In the paper, we focus on image data, specifically handwritten characters. Given a reference image and a distorted copy of it, the method is able to efficiently determine the rotations, translations, scaling, and any other distortions that have been applied. Because the method is robust, it is also able to estimate distortions for two unrelated images, thus determining the distortions that would be required to cause the two images to resemble each other. The approach is based on a polynomial series expansion using matrix powers of linear transformation matrices. The technique has applications in pattern recognition in the presence of distortions.
+

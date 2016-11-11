@@ -1,0 +1,9 @@
+
+To determine whether parameters obtained from intravoxel incoherent motion (IVIM)-diffusion-weighted imaging (DWI) using multiple b-values can improve characterization of common focal liver lesions (FLLs), compared with the apparent diffusion coefficient (ADCtotal ).
+
+Our Institutional Review Board approved this retrospective study and informed consent was waived. In all, 142 patients with 169 FLLs underwent liver magnetic resonance imaging (MRI) including IVIM-DWI with multiple b factors at 3.0T. ADCtotal and IVIM-DWI-derived parameters including true diffusion (Dt ), pseudodiffusion (Dp ), and perfusion fraction (f) were calculated for each lesion and compared using dedicated software.
+
+Dt and ADCtotal were significantly lower in malignancies (0.95 ± 0.21, 1.14 ± 0.24, (×10(-3) mm(2) /sec)) than in benign FLLs (1.61 ± 0.34, 1.72 ± 0.37, (×10(-3) mm(2) /sec)). In the differential diagnosis of malignancies from benign lesions, Dt (Az value: 0.971) showed better diagnostic performance than ADCtotal (Az: 0.933) (P < 0.0005). Dt (Az: 0.961) also showed better diagnostic performance than ADCtotal (Az: 0.919) in differentiating hypervascular malignancies from benign hypervascular FLLs (P < 0.0005). In addition, Dp and f were significantly higher in hypervascular FLLs (35.74 ± 20.08 (×10(-3) mm(2) /sec), 28.14 ± 11.82 (%)) than hypovascular FLLs (21.87 ± 13.8 (×10(-3) mm(2) /sec), 12.2 ± 5.92 (%)) (P < 0.0001).
+
+Dt provided better diagnostic performance than ADCtotal in differentiating benign from malignant lesions. Dp and f were significant parameters for diagnosing hypervascular FLLs.
+

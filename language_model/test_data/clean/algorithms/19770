@@ -1,0 +1,11 @@
+
+The current form of the diabetes population risk tool (DPoRT) includes a non-specific category of ethnicity in concordance with publicly data available. Given the importance of ethnicity in influencing diabetes risk and its significance in a multi-ethnic population, it is prudent to determine its influence on a population-based risk prediction tool.
+
+To apply and compare the DPoRT with a modified version that includes detailed ethnic information in Canada's largest and most ethnically diverse province.
+
+Two additional diabetes prediction models were created: a model that contained predictors specific to the following ethnic groups--White, Black, Asian, south Asian, and First Nation; and a reference model which did not include a term for ethnicity. In addition to discrimination and calibration, 10-year diabetes incidence was compared. The algorithms were developed in Ontario using the 1996-1997 National Population Health Survey (N=19,861) and validated in the 2000/2001 Canadian community health survey (N=26,465).
+
+All non-white ethnicities were associated with higher risk for developing diabetes with south Asians having the highest risk. Discrimination was similar (0.75-0.77) and sufficient calibration was maintained for all models except the detailed ethnicity models for males. DPoRT produced the lowest overall ratio between observed and predicted diabetes risk. DPoRT identified more high risk cases than the other algorithms in males, whereas in females both DPoRT and the full ethnicity model identified more high risk cases. Overall DPoRT and full ethnicity algorithms were very similar in terms of predictive accuracy and population risk.
+
+Although from the individual risk perspective, incorporating information on ethnicity is important, when predicting new cases of diabetes at the population level and accounting for other risk factors, detailed ethnic information did not improve the discrimination and accuracy of the model or identify significantly more diabetes cases in the population.
+

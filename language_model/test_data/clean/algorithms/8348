@@ -1,0 +1,3 @@
+
+A method for assessing the preserved stem-loops of RNA secondary structures is presented. Frequently recurring helical stems in a set of secondary structures resulting from the simulated folding process of a given RNA are assessed and consensus structural motifs can then be selected to construct a secondary structure of the RNA. Alternatively, it can be applied to a series of 'optimal' and 'suboptimal' secondary structures computed using the dynamic program developed by Williams and Tinoco. To demonstrate the power and the usefulness of the program we give examples of this procedure.
+

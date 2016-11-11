@@ -1,0 +1,3 @@
+
+A look-up table algorithm is described for enhancing the luminance resolution at the expense of the colour resolution in digital displays of colour images. For colour displays with a look-up table resolution of 8 bits/gun, the algorithm provides a luminance resolution of 11-12 bits without loss of spatial or temporal resolution. This improvement can reduce the minimum luminance step in the mid-luminance range from 1.5% to > 0.2% with no additional hardware.
+

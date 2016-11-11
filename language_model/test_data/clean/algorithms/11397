@@ -1,0 +1,3 @@
+
+It has been proposed that a secure key distribution scheme using correlated random bit sequences can be implemented using common random-signal induced synchronization of semiconductor laser systems. In this scheme it is necessary to use laser systems consisting of multiple cascaded lasers to be secure against a powerful eavesdropper. In this paper, we report the results of an experimental study that demonstrate that the common random-signal induced synchronization is possible in cascaded semiconductor laser systems. We also show that the correlated random bit sequences generated in the synchronized cascaded laser systems can be used to create an information-theoretically secure key between two legitimate users.
+

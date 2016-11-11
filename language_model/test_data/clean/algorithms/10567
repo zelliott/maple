@@ -1,0 +1,3 @@
+
+We extend the traditional diffusion theory by distinguishing between the energy radiance in the forward and backward directions at each point in space. This approach leads to a new effective source for the diffusion equation that is nonzero for an anisotropic light source. It differs significantly from the diffusion theory for short source-detector spacings. We derive an analytical solution for the two lowest-order velocity moments of the radiance.
+

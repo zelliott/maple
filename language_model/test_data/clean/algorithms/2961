@@ -1,0 +1,9 @@
+
+To develop a method that reconstructs, independently of previous (planning) information, the dose delivered to patients by combining in-room imaging with transit dose measurements during treatment.
+
+A megavoltage cone-beam CT scan of the patient anatomy was acquired with the patient in treatment position. During treatment, delivered fields were measured behind the patient with an electronic portal imaging device. The dose information in these images was back-projected through the cone-beam CT scan and used for Monte Carlo simulation of the dose distribution inside the cone-beam CT scan. Validation was performed using various phantoms for conformal and IMRT plans. Clinical applicability is shown for a head-and-neck cancer patient treated with IMRT.
+
+For single IMRT beams and a seven-field IMRT step-and-shoot plan, the dose distribution was reconstructed within 3%/3mm compared with the measured or planned dose. A three-dimensional conformal plan, verified using eight point-dose measurements, resulted in a difference of 1.3 +/- 3.3% (1 SD) compared with the reconstructed dose. For the patient case, planned and reconstructed dose distribution was within 3%/3mm for about 95% of the points within the 20% isodose line. Reconstructed mean dose values, obtained from dose-volume histograms, were within 3% of prescribed values for target volumes and normal tissues.
+
+We present a new method that verifies the dose delivered to a patient by combining in-room imaging with the transit dose measured during treatment. This verification procedure opens possibilities for offline adaptive radiotherapy and dose-guided radiotherapy strategies taking into account the dose distribution delivered during treatment sessions.
+

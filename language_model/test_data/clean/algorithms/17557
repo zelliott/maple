@@ -1,0 +1,3 @@
+
+It is pointed out that the so called momentum method, much used in the neural network literature as an acceleration of the backpropagation method, is a stationary version of the conjugate gradient method. Connections with the continuous optimization method known as heavy ball with friction are also made. In both cases, adaptive (dynamic) choices of the so called learning rate and momentum parameters are obtained using a control Liapunov function analysis of the system.
+

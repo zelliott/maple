@@ -1,0 +1,9 @@
+
+The Tanner-Whitehouse III (TW3) method is popular for assessing children's bone age, but it is time-consuming in clinical settings; to simplify this, a grouped-TW algorithm (GTA) was developed.
+
+A total of 534 left-hand roentgenograms of subjects aged 2-15 years, including 270 training and 264 testing datasets, were evaluated by a senior pediatrician. Next, GTA was used to choose the appropriate candidate of radius, ulna, and short bones and to classify the bones into three groups by data mining. Group 1 was composed of the maturity pattern of the radius and the middle phalange of the third and fifth digits and three weights were obtained by data mining, yielding a result similar to that of TW3. Subsequently, new bone-age assessment tables were constructed for boys and girls by linear regression and fuzzy logic. In addition, the Bland-Altman plot was utilized to compare accuracy between the GTA, the Greulich-Pyle (GP), and the TW3 method.
+
+The relative accuracy between the GTA and the TW3 was 96.2% in boys and 95% in girls, with an error of 1 year, while that between the assessment results of the GP and TW3 was about 87%, with an error of 1 year. However, even if the three weights were not optimally processed, GTA yielded a marginal result with an accuracy of 78.2% in boys and 79.6% in girls.
+
+GTA can efficiently simplify the complexity of the TW3 method, while maintaining almost the same accuracy. The relative accuracy between the assessment results of GTA and GP can also be marginal.
+

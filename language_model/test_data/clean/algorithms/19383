@@ -1,0 +1,3 @@
+
+This paper presents the pruning and model-selecting algorithms to the support vector learning for sample classification and function regression. When constructing RBF network by support vector learning we occasionally obtain redundant support vectors which do not significantly affect the final classification and function approximation results. The pruning algorithms primarily based on the sensitivity measure and the penalty term. The kernel function parameters and the position of each support vector are updated in order to have minimal increase in error, and this makes the structure of SVM network more flexible. We illustrate this approach with synthetic data simulation and face detection problem in order to demonstrate the pruning effectiveness.
+

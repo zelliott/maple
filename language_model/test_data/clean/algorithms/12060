@@ -1,0 +1,3 @@
+
+A method for designing a variable-SOBP (spread-out Bragg peak) ridge filter has been proposed. First, ridge filter parameters are determined by using a Monte Carlo calculation followed by a fast two-step iterative optimization. Then, tilting the ridge filter results in continuous variation of the SOBP width. Monte Carlo calculations show that depth dose uniformity changes from +/- 1.3% to +/- 1.6% for SOBP widths ranging from 10.3 cm to 14.5 cm. Advantages of the proposed tilting ridge filter include a capability of continuous SOBP variation and cost-effective installation for a given SOBP width range.
+

@@ -1,0 +1,9 @@
+
+To construct a population pharmacokinetic (popPK) model for ketamine (Ket), norketamine (norKet), dehydronorketamine (DHNK), hydroxynorketamine (2S,6S;2R,6R)-HNK) and hydroxyketamine (HK) in patients with treatment-resistant bipolar depression.
+
+Plasma samples were collected at 40, 80, 110, 230 min on day 1, 2 and 3 in nine patients following a 40 min infusion of (R,S)-Ket (0.5 mg kg⁻¹) and analyzed for Ket, norKet and DHNK enantiomers and (2S,6S;2R,6R)-HNK, (2S,6S;2R,6R)-HK and (2S,6R;2R,6S)-HK. A compartmental popPK model was constructed that included all quantified analytes, and unknown parameters were estimated with an iterative two-stage algorithm in ADAPT5.
+
+Ket, norKet, DHNK and (2S,6S;2R,6R)-HNK were present during the first 230 min post infusion and significant concentrations (>5 ng ml⁻¹) were observed on day 1. Plasma concentrations of (2S,6S;2R,6R)-HK and (2S,6R;2R,6S)-HK were below the limit of quantification. The average (S) : (R) plasma concentrations for Ket and DHNK were <1.0 while no significant enantioselectivity was observed for norKet. There were large inter-patient variations in terminal half-lives and relative metabolite concentrations; at 230 min (R,S)-DHNK was the major metabolite in four out of nine patients, (R,S)-norKet in three out of nine patients and (2S,6S;2R,6R)-HNK in two out of nine patients. The final PK model included three compartments for (R,S)-Ket, two compartments for (R,S)-norKet and single compartments for DHNK and HNK. All PK profiles were well described, and parameters for (R,S)-Ket and (R,S)-norKet were in agreement with prior estimates.
+
+This represents the first PK analysis of (2S,6S;2R,6R)-HNK and (R,S)-DHNK. The results demonstrate that while norKet is the initial metabolite, it is not the main metabolite suggesting that future Ket studies should include the analysis of the major metabolites.
+

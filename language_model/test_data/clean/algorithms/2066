@@ -1,0 +1,3 @@
+
+The effectiveness of an induction algorithm for making decisions was investigated using a complete set of diagnoses and corresponding outcomes for all possible distinct cases of thyroid disorders. Investigation of both diagnoses and outcomes followed a late discovery of a misunderstanding between the knowledge engineers and the expert. The knowledge engineers had erroneously equated the expert's terms 'diagnosis' and 'outcome'. Following this discovery, two previously reported induced expert systems were re-evaluated using the more appropriate 'outcomes' and were found to be correct for 79 and 70% of all cases.
+

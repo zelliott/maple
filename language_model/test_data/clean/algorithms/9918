@@ -1,0 +1,3 @@
+
+With the increase of the A-line speed of optical coherence tomography (OCT) systems, real-time processing of acquired data has become a bottleneck. The shared-memory parallel computing technique is used to process OCT data in real time. The real-time processing power of a quad-core personal computer (PC) is analyzed. It is shown that the quad-core PC could provide real-time OCT data processing ability of more than 80 K A-lines per second. A real-time, fiber-based, swept source polarization-sensitive OCT system with 20 K A-line speed is demonstrated with this technique. The real-time 2D and 3D polarization-sensitive imaging of chicken muscle and pig tendon is also demonstrated.
+

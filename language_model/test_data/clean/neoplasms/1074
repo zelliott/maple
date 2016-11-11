@@ -1,0 +1,11 @@
+
+Two erythropoiesis-stimulating agents (ESAs), epoetin alfa and darbepoetin alfa, are approved for the treatment of chemotherapy-induced anemia in patients with cancer. Randomized controlled trials indicate that the drugs are similarly efficacious, but that the duration of clinical benefit (DCB) ranges from 2 to 7 days for epoetin alfa and from 7 to 21 days for darbepoetin alfa, depending on dose. Given equivalent efficacy, payers are increasingly interested in understanding the cost differences for these 2 drugs.
+
+To examine the impact of different methodological approaches on the cost comparison between epoetin alfa and darbepoetin alfa users, with cancer from a payer perspective.
+
+Episodes of care (episode) were constructed for cancer patients treated with ESAs, using MarketScan claims data. Episodes started with the first ESA claim and ended on the last ESA claim or the claim before a 42-day or longer gap in ESA therapy. Each episode was augmented with an estimated DCB based on the last dose in the episode. Cost was reimbursed amount observed in the claims database. Adjusted weekly cost was estimated using generalized linear models to control for difference in clinical and demographic differences across epoetin alfa and darbepoetin alfa episodes.
+
+Episodes were created in 324 darbepoetin alfa and 342 epoetin alfa users. Darbepoetin alfa users tended to be younger, had more comorbidities, and had advanced cancer (all p &lt; 0.001). After accounting for DCB, the average weekly cost of darbepoetin alfa was significantly lower than that of epoetin alfa ($619 vs $940; p &lt; 0.001). After multivariate adjustment, darbepoetin alfa had lower costs than epoetin alfa in the base case and all alternative approaches.
+
+To reduce the risk of potential bias, DCB and different patient characteristics should be taken into account when using retrospective claims data to conduct cost comparisons between agents that have significant differences in dosing schedule.
+

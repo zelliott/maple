@@ -1,0 +1,7 @@
+
+ROSO is software to design optimal oligonucleotide probe sets for microarrays. Selected probes show no significant cross-hybridization, no stable secondary structures and their Tm are chosen to minimize the Tm variability of the probe set.
+
+The program is available on the internet. Sources are freely available, for non-profit use, on request to the authors.
+
+http://pbil.univ-lyon1.fr/roso
+

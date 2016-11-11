@@ -1,0 +1,9 @@
+
+Due to the high cost of manual curation of key aspects from the scientific literature, automated methods for assisting this process are greatly desired. Here, we report a novel approach to facilitate MeSH indexing, a challenging task of assigning MeSH terms to MEDLINE citations for their archiving and retrieval.
+
+Unlike previous methods for automatic MeSH term assignment, we reformulate the indexing task as a ranking problem such that relevant MeSH headings are ranked higher than those irrelevant ones. Specifically, for each document we retrieve 20 neighbor documents, obtain a list of MeSH main headings from neighbors, and rank the MeSH main headings using ListNet-a learning-to-rank algorithm. We trained our algorithm on 200 documents and tested on a previously used benchmark set of 200 documents and a larger dataset of 1000 documents.
+
+Tested on the benchmark dataset, our method achieved a precision of 0.390, recall of 0.712, and mean average precision (MAP) of 0.626. In comparison to the state of the art, we observe statistically significant improvements as large as 39% in MAP (p-value <0.001). Similar significant improvements were also obtained on the larger document set.
+
+Experimental results show that our approach makes the most accurate MeSH predictions to date, which suggests its great potential in making a practical impact on MeSH indexing. Furthermore, as discussed the proposed learning framework is robust and can be adapted to many other similar tasks beyond MeSH indexing in the biomedical domain. All data sets are available at: http://www.ncbi.nlm.nih.gov/CBBresearch/Lu/indexing.
+

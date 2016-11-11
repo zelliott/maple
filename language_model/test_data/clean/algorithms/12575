@@ -1,0 +1,3 @@
+
+This study investigates a level set method for complex polarimetric image segmentation. It consists of minimizing a functional containing an original observation term derived from maximum-likelihood approximation and a complex Wishart/Gaussian image representation and a classical boundary length prior. The minimization is carried out efficiently by a new multiphase method which embeds a simple partition constraint directly in curve evolution to guarantee a partition of the image domain from an arbitrary initial partition. Results are shown on both synthetic and real images. Quantitative performance evaluation and comparisons are also given.
+

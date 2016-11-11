@@ -1,0 +1,3 @@
+
+Institutional review board approval and informed consent were obtained. The purpose was to evaluate the differences in tracer delay-induced effects of various deconvolution algorithms for computed tomographic (CT) perfusion imaging by using digital phantoms created from actual source data. Three methods of singular value decomposition (SVD) were evaluated. For standard SVD (sSVD), the delays induced significant errors in cerebral blood flow and mean transit time. In contrast, for block-circulant SVD (bSVD), these values remained virtually unchanged, whereas for delay-corrected SVD (dSVD), mild changes were observed. bSVD was superior to sSVD and dSVD for avoiding the tracer delay-induced effects in CT perfusion imaging.
+

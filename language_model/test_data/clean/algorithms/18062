@@ -1,0 +1,7 @@
+
+Transcription factors (TFs) have multiple combinatorial forms to regulate the transcription of a target gene. For example, one TF can help another TF to stabilize onto regulatory DNA sequence and the other TF may attract RNA polymerase (RNAP) to start transcription; alternatively, two TFs may both interact with both the DNA sequence and the RNAP. The different forms of TF-TF interaction have different effects on the probability of RNAP's binding onto the promoter sequence and therefore confer different transcriptional efficiencies.
+
+We have developed an analytical method to identify the thermodynamic model that best describes the form of TF-TF interaction among a set of TF interactions for every target gene. In this method, time-course microarray data are used to estimate the steady state concentration of the transcript of a target gene, as well as the relative changes of the active concentration for each TF. These estimated concentrations and changes of concentrations are fed into an inference scheme to identify the most compatible thermodynamic model. Such a model represents a particular way of combinatorial control by multiple TFs on a target gene.
+
+Applying this approach to a time-course microarray dataset of embryonic stem cells, we have inferred five interaction patterns among three regulators, Oct4, Sox2 and Nanog, on ten target genes.
+

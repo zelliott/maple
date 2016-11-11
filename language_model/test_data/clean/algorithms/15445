@@ -1,0 +1,3 @@
+
+Latent class regression (LCR) is a popular method for analyzing multiple categorical outcomes. While nonresponse to the manifest items is a common complication, inferences of LCR can be evaluated using maximum likelihood, multiple imputation, and two-stage multiple imputation. Under similar missing data assumptions, the estimates and variances from all three procedures are quite close. However, multiple imputation and two-stage multiple imputation can provide additional information: estimates for the rates of missing information. The methodology is illustrated using an example from a study on racial and ethnic disparities in breast cancer severity.
+

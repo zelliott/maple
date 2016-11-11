@@ -1,0 +1,3 @@
+
+We propose a novel approach to identify the foci of a neurological disorder based on anatomical and functional connectivity information. Specifically, we formulate a generative model that characterizes the network of abnormal functional connectivity emanating from the affected foci. This allows us to aggregate pairwise connectivity changes into a region-based representation of the disease. We employ the variational expectation-maximization algorithm to fit the model and subsequently identify both the afflicted regions and the differences in connectivity induced by the disorder. We demonstrate our method on a population study of schizophrenia.
+

@@ -1,0 +1,3 @@
+
+This letter develops a Bayesian focalization approach for three-dimensional localization of an unknown number of sources in shallow water with uncertain environmental properties. The algorithm minimizes the Bayesian information criterion using adaptive hybrid optimization for environmental parameters, Metropolis sampling for source bearing, and Gibbs sampling for source ranges and depths. Maximum-likelihood expressions are used for unknown complex source strengths and noise variance, which allows these parameters to be sampled implicitly. An efficient scheme for adding/deleting sources is used during the optimization. A synthetic example considers localizing a quiet source in the presence of multiple interferers using a horizontal line array.
+

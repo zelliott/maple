@@ -1,0 +1,9 @@
+
+A semi-automated high-dimensional propensity score (hd-PS) algorithm has been proposed to adjust for confounding in claims databases. The feasibility of using this algorithm in other types of healthcare databases is unknown.
+
+We estimated the comparative safety of traditional non-steroidal anti-inflammatory drugs (NSAIDs) and selective COX-2 inhibitors regarding the risk of upper gastrointestinal bleeding (UGIB) in The Health Improvement Network, an electronic medical record (EMR) database in the UK. We compared the adjusted effect estimates when the confounders were identified using expert knowledge or the semi-automated hd-PS algorithm.
+
+Compared with the 411,616 traditional NSAID initiators, the crude odds ratio (OR) of UGIB was 1.50 (95%CI: 0.98, 2.28) for the 43,569 selective COX-2 inhibitor initiators. The OR dropped to 0.81 (0.52, 1.27) upon adjustment for known risk factors for UGIB that are typically available in both claims and EMR databases. The OR remained similar when further adjusting for covariates--smoking, alcohol consumption, and body mass index-that are not typically recorded in claims databases (OR 0.81; 0.51, 1.26) or adding 500 empirically identified covariates using the hd-PS algorithm (OR 0.78; 0.49, 1.22). Adjusting for age and sex plus 500 empirically identified covariates produced an OR of 0.87 (0.56, 1.34).
+
+The hd-PS algorithm can be implemented in pharmacoepidemiologic studies that use primary care EMR databases such as The Health Improvement Network. For the NSAID-UGIB association for which major confounders are well known, further adjustment for covariates selected by the algorithm had little impact on the effect estimate.
+

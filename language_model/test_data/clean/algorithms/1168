@@ -1,0 +1,3 @@
+
+A new application of DrugScore is reported in which the knowledge-based pair potentials serve as objective function in docking optimizations. The Lamarckian genetic algorithm of AutoDock is used to search for favorable ligand binding modes guided by DrugScore grids as representations of the protein binding site. The approach is found to be successful in many cases where DrugScore-based re-ranking of already docked ligand conformations does not yield satisfactory results. Compared to the AutoDock scoring function, DrugScore yields slightly superior results in flexible docking.
+

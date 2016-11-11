@@ -1,0 +1,9 @@
+
+This paper presents an automated method for the identification of thin membrane tubes in 3D fluorescence images. These tubes, referred to as tunneling nanotubes (TNTs), are newly discovered intercellular structures that connect living cells through a membrane continuity. TNTs are 50-200 nm in diameter, crossing from one cell to another at their nearest distance. In microscopic images, they are seen as straight lines. It now emerges that the TNTs represent the underlying structure of a new type of cell-to-cell communication.
+
+Our approach for the identification of TNTs is based on a combination of biological cell markers and known image processing techniques. Watershed segmentation and edge detectors are used to find cell borders, TNTs, and image artifacts. Mathematical morphology is employed at several stages of the processing chain. Two image channels are used for the calculations to improve classification of watershed regions into cells and background. One image channel displays cell borders and TNTs, the second is used for cell classification and displays the cytoplasmic compartments of the cells. The method for cell segmentation is 3D, and the TNT detection incorporates 3D information using various 2D projections.
+
+The TNT- and cell-detection were applied to numerous 3D stacks of images. A success rate of 67% was obtained compared with manual identification of the TNTs. The digitalized results were used to achieve statistical information of selected properties of TNTs.
+
+To further explore these structures, automated detection and quantification is desirable. Consequently, this automated recognition tool will be useful in biological studies on cell-to-cell communication where TNT quantification is essential.
+

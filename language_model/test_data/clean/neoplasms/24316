@@ -1,0 +1,3 @@
+
+The aim of this paper is to present the newest algorithms and simulation results of a computer model of in vivo tumour growth and response to radiotherapy. The new algorithms are analytically presented. A set of parametric simulations has been performed with special emphasis on the influence of the genetic profile of a tumour on its radiosensitivity. The results of the simulation procedure are three-dimensionally visualized and critically surveyed. The long-term goal of this work is twofold: the development of a computational tool for getting insight into cancer biology and the development of a patient-specific decision support system.
+

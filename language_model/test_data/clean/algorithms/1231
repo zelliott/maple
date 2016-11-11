@@ -1,0 +1,3 @@
+
+A novel technique for estimating the distribution of the conduction velocity of peripheral nerve fibers is described in this paper. In order to overcome the sensitivity of present methods to noisy data, a regularized-least-squares (RLS) method with a smoothing constraint and a self-adaptation of regularization parameter was adopted. The simulation results demonstrated that the improved technique maybe applied in clinical diagnosis because it yielded reliable and almost undistorted results even when the simulated data are severely contaminated by noise.
+

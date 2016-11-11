@@ -1,0 +1,3 @@
+
+Transcriptome complexity and its relation to numerous diseases underpins the need to predict in silico splice variants and the regulatory elements that affect them. Building upon our recently described splicing code, we developed AVISPA, a Galaxy-based web tool for splicing prediction and analysis. Given an exon and its proximal sequence, the tool predicts whether the exon is alternatively spliced, displays tissue-dependent splicing patterns, and whether it has associated regulatory elements. We assess AVISPA's accuracy on an independent dataset of tissue-dependent exons, and illustrate how the tool can be applied to analyze a gene of interest. AVISPA is available at http://avispa.biociphers.org.
+

@@ -1,0 +1,3 @@
+
+The choice of the regularization parameter has a profound effect on the solution of ill-posed inverse problems such as optical topography. We review 11 different methods for selecting the Tikhonov regularization parameter that have been described previously in the literature. We test them on two trial problems, deblurring and optical topography, and conclude that the L-curve method is the method of choice, though in particularly ill-posed problems, generalized cross-validation may provide an alternative.
+

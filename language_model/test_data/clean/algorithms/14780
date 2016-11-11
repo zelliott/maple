@@ -1,0 +1,3 @@
+
+A Bayesian model is developed to match aerospace ocean color observation to field measurements and derive the spatial variability of match-up sites. The performance of the model is tested against populations of synthesized spectra and full and reduced resolutions of MERIS data. The model derived the scale difference between synthesized satellite pixel and point measurements with R(2) > 0.88 and relative error < 21% in the spectral range from 400 nm to 695 nm. The sub-pixel variabilities of reduced resolution MERIS image are derived with less than 12% of relative errors in heterogeneous region. The method is generic and applicable to different sensors.
+

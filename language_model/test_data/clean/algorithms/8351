@@ -1,0 +1,3 @@
+
+Two programs, MOTIF and PATTERN, that scan sequences for matches to user-defined motifs and patterns of motifs based on identity and set membership are described. The programs use a simple and logical notation to define motifs, and may be used either interactively or by using command line parameters (suitable for batch processing). The two programs described also incorporate a simple, yet reliable, algorithm that automatically detects in which of six possible formats the sequence entry is written.
+

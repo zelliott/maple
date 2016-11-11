@@ -1,0 +1,13 @@
+
+To test the feasibility of using text mining to depict meaningfully the experience of pain in patients with metastatic prostate cancer, to identify novel pain phenotypes, and to propose methods for longitudinal visualization of pain status.
+
+Text from 4409 clinical encounters for 33 men enrolled in a 15-year longitudinal clinical/molecular autopsy study of metastatic prostate cancer (Project to ELIminate lethal CANcer) was subjected to natural language processing (NLP) using Unified Medical Language System-based terms. A four-tiered pain scale was developed, and logistic regression analysis identified factors that correlated with experience of severe pain during each month.
+
+NLP identified 6387 pain and 13 827 drug mentions in the text. Graphical displays revealed the pain 'landscape' described in the textual records and confirmed dramatically increasing levels of pain in the last years of life in all but two patients, all of whom died from metastatic cancer. Severe pain was associated with receipt of opioids (OR=6.6, p<0.0001) and palliative radiation (OR=3.4, p=0.0002). Surprisingly, no severe or controlled pain was detected in two of 33 subjects' clinical records. Additionally, the NLP algorithm proved generalizable in an evaluation using a separate data source (889 Informatics for Integrating Biology and the Bedside (i2b2) discharge summaries).
+
+Patterns in the pain experience, undetectable without the use of NLP to mine the longitudinal clinical record, were consistent with clinical expectations, suggesting that meaningful NLP-based pain status monitoring is feasible. Findings in this initial cohort suggest that 'outlier' pain phenotypes useful for probing the molecular basis of cancer pain may exist.
+
+The results are limited by a small cohort size and use of proprietary NLP software.
+
+We have established the feasibility of tracking longitudinal patterns of pain by text mining of free text clinical records. These methods may be useful for monitoring pain management and identifying novel cancer phenotypes.
+

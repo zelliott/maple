@@ -1,0 +1,9 @@
+
+Inappropriate shocks continue to be a problem for patients with implantable defibrillators (ICD). We evaluated the performance of polynomial-modeled ventricular electrograms (EGM) to discriminate between supraventricular tachycardia (SVT) and ventricular tachycardia (VT).
+
+Seven sets of EGM from patients having both SVT and VT documented during a single ICD interrogation were included. The cardiac cycle was analyzed off-line in two parts, QR and RQ segments, which were modeled separately using third-order and sixth-order polynomial equations, respectively. These segments were then analyzed to determine which polynomial coefficients were most significant for rhythm discrimination.
+
+When analyzing the QR segment during arrhythmia, there were statistically significant (P<0.05) correlations in 4 of 4 (100%) of the QR coefficients when comparing normal sinus rhythm (NSR) to SVT and 2 of 4 (50%) when comparing NSR to VT or SVT to VT. When analyzing the RQ segment during arrhythmia, there were statistically significant (P<0.05) correlations in 4 of 7 (57%) of the RQ coefficients when comparing NSR to SVT, 5 of 7 (71%) when comparing NSR to VT, and 3 of 7 (43%) when comparing SVT to VT. Using a cutoff value of 50% change from NSR, the ratio of first-order to zero-order QR coefficient was able to completely separate VT from SVT (P=0.03) in this series of patients.
+
+Our data demonstrate the feasibility of simple polynomial equations that reproduce the depolarization and repolarization phases of human ventricular shock EGM. The ratio of first-order to zero-order QR coefficient was able to reliably discriminate between SVT and VT while reducing the polynomial model to a first-order system. The results of this pilot trial may serve as the basis for a larger prospective trial implementing a discrimination algorithm for use in low computational power implantable devices.
+

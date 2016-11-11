@@ -1,0 +1,3 @@
+
+This paper presents a unified approach to multiscale detection of transient evoked otoacoustic emissions (TEOAEs). Using statistical detection theory, it is shown that the optimal detector involves a time windowing operation where the window can be estimated from ensemble correlation information. The detector performs adaptive splitting of the signal into different frequency bands using either wavelet or wavelet packet decomposition. A simplified detector is proposed in which signal energy is omitted. The results show that the simplified detector performs significantly better than existing TEOAE detectors based on wave reproducibility or the modified variance ratio, whereas the detector involving signal energy does not offer such a performance advantage.
+

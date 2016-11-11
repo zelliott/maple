@@ -1,0 +1,3 @@
+
+This paper proposes a method of automatic ECG analysis and arrhythmia diagnosis for telemonitoring system. A multi-buffer technique is applied to organize dispersive ECG data. Then, according to second order derivatives of ECG signals, peaks of R waves are automatically detected. Finally, real-time heart rhythm is decided by results of R wave detection. Tests prove that the proposed method is precise, efficient and stable to be applied in real-time ECG telemonitoring system.
+

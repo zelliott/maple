@@ -1,0 +1,3 @@
+
+SATé is a method for estimating multiple sequence alignments and trees that has been shown to produce highly accurate results for datasets with large numbers of sequences. Running SATé using its default settings is very simple, but improved accuracy can be obtained by modifying its algorithmic parameters. We provide a detailed introduction to the algorithmic approach used by SATé, and instructions for running a SATé analysis using the GUI under default settings. We also provide a discussion of how to modify these settings to obtain improved results, and how to use SATé in a phylogenetic analysis pipeline.
+

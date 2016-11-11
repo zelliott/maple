@@ -1,0 +1,9 @@
+
+PCT postprocessing commonly uses either the MS or a variant of the DC approach for modeling of voxel-based time-attenuation curves. There is an ongoing discussion about the respective merits and limitations of both methods, frequently on the basis of theoretic reasoning or simulated data. We performed a qualitative and quantitative comparison of DC and MS by using identical source datasets and preprocessing parameters.
+
+From the PCT data of 50 patients with acute ischemic stroke, color maps of CBF, CBV, and various temporal parameters were calculated with software implementing both DC and MS algorithms. Color maps were qualitatively categorized. Quantitative region-of-interest-based measurements were made in nonischemic GM and WM, suspected penumbra, and suspected infarction core. Qualitative results, quantitative results, and PCT lesion sizes from DC and MS were statistically compared.
+
+CBF and CBV color maps based on DC and MS were of comparably high quality. Quantitative CBF and CBV values calculated by DC and MS were within the same range in nonischemic regions. In suspected penumbra regions, average CBF(DC) was lower than CBF(MS). In suspected infarction core regions, average CBV(DC) was similar to CBV(MS). Using adapted tissue-at-risk/nonviable-tissue thresholds, we found excellent correlation of DC and MS lesion sizes.
+
+DC and MS yielded comparable qualitative and quantitative results. Lesion sizes indicated by DC and MS showed excellent agreement when using adapted thresholds. In all cases, the same therapy decision would have been made.
+

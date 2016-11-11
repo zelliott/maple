@@ -1,0 +1,3 @@
+
+A new scheme for obtaining HSQC spectra with improved resolution or in a shorter time called SHARC (Shaped Arrayed data aCquisition protocol) is proposed, which uses region selective RF pulses and allows the sweep width to be adjusted individually for each region. It thus bypasses the problems with the Nyquist theorem associated with other method suggested for this purpose. Assignment of the cross-peaks to their respective region is achieved by manipulating the phases of the RF pulses and/or their frequencies. SHARC NMR can be applied without any previous knowledge of the chemical shift distribution, but can be further optimized on the basis of a quick overview spectrum.
+

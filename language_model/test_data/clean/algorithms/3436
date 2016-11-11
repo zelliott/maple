@@ -1,0 +1,9 @@
+
+This work analyzes use of the Laser Induced Fluorescence Spectroscopy technique for characterization of normal and neoplastic tissue in the oral mucosa of hamsters, with potential to diagnose neoplastic tissue in vivo.
+
+Carcinogen DMBA was applied to the right cheek of 31 hamsters weighing 150 +/- 10g, three times per week during 12 weeks. One animal was kept as a control (without application of the drug). At the end of this period, the animals were submitted to fluorescence spectroscopy excited by an argon laser (488nm) connected to an optical fiber cable. Tissue autofluorescence was analyzed by a spectrograph and a CCD camera with 1024X256 pixels covering the spectral range of 550nm to 700nm. Fluorescence emission spectra were collected in the induced region and normal counter side cheek of all the animals and also in the control animal. After spectroscopy, biopsy was carried out for histopathological analysis. Two diagnosis algorithms, one based on the ratio of spectral regions and another based on Principal Components Analysis (PCA) were implemented.
+
+Spectral analysis had demonstrated existence of an intense peak in the region of 630nm in neoplastic tissues (attributed to protoporphyrin IX) when compared to the normal tissue. The algorithm based on the ratio of two spectral regions had 100% of sensitivity and specificity. The algorithm based on the PCA had 94% and 100% of specificity and sensitivity, respectively.
+
+This work indicates that tissue autofluorescence may be used as a non-invasive technique for diagnosis of the neoplastic oral mucosa.
+

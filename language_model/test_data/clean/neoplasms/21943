@@ -1,0 +1,9 @@
+
+Dose-related toxicity of cyclophosphamide may be reduced and therapeutic efficacy may be improved by pharmacokinetic sampling and dose adjustment to achieve a target area under the curve (AUC) for two of its metabolites, hydroxycyclophosphamide (HCY) and carboxyethylphosphoramide mustard (CEPM). To facilitate real-time dose adjustment, we developed open-source code within the statistical software R that incorporates individual data into a population pharmacokinetic model.
+
+Dosage prediction performance was compared to that obtained with nonlinear mixed-effects modeling using NONMEM in 20 cancer patients receiving cyclophosphamide. Bayesian estimation of individual pharmacokinetic parameters was accomplished from limited (i.e., five samples over 0-16 hours) sampling of plasma HCY and CEPM after the initial cyclophosphamide dose. Conditional on individual pharmacokinetics, simulations of the AUC of both HCY and CEPM were provided for a range of second doses (i.e., 0-100 mg/kg cyclophosphamide).
+
+The results compared favorably with NONMEM and returned accurate predictions for AUCs of HCY and CEPM with comparable mean absolute prediction error and root mean square prediction error. With our method, the mean absolute prediction error and root mean square prediction error of AUC CEPM were 11.0% and 12.8% and AUC HCY were 31.7% and 44.8%, respectively.
+
+We developed dose adjustment software that potentially can be used to adjust cyclophosphamide dosing in a clinical setting, thus expanding the opportunity for pharmacokinetic individualization of cyclophosphamide. The software is simple to use (requiring no programming experience), reads individual patient data directly from an Excel spreadsheet, and runs in less than 5 minutes on a desktop PC.
+

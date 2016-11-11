@@ -1,0 +1,11 @@
+
+Failure to rescue (FTR), the rate of death in patients suffering 1 of 6 in-hospital complications, is an Agency for Healthcare Research and Quality (AHRQ) Patient Safety Indicator calculated from administrative data.
+
+: We sought to assess the accuracy of the AHRQ FTR algorithm.
+
+We undertook a retrospective chart review of 60 denominator cases of FTR identified by the algorithm at each of 40 University HealthSystem Consortium institutions. The primary outcome was the overall accuracy of the algorithm compared with chart review. We also assessed accuracy by complication type, patient characteristics, institution, service assignment, and mortality.
+
+Of 2354 cases, 1193 (50.7%) were accurately identified by the algorithm as having had at least one of the FTR-qualifying complications during hospitalization. Of the 3073 complications identified in these patients, 1497 (48.7%) were correctly flagged by the algorithm, 907 (29.5%) were present on admission, 419 (13.6%) were not confirmed by chart review, and 250 (8.1%) met a predefined complication-specific criterion for exclusion. The case accuracy rate varied significantly by institution (mean, 50.7%; range, 18.3-100%; P < 0.001), service assignment (surgical service, 62.9% vs. nonsurgical service, 42.9%; P < 0.001), and mortality (alive, 43.9% vs. dead, 67.5%; P < 0.001) but was not affected by patients' age, gender, race, or insurance status.
+
+As currently calculated from administrative data, the FTR algorithm misidentifies half of the cases on average, is least accurate for nonsurgical cases, and is widely variable across institutions. This indicator may be useful internally to flag possible cases of quality failure but has limitations for external institutional comparisons. Improvements in coding quality and consistency across institutions are needed.
+

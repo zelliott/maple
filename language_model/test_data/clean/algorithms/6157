@@ -1,0 +1,3 @@
+
+Hypotheses of homology are the basis of phylogenetic analysis. All character data are considered to be equivalent regardless of the source of those characters. Putative homology statements are designated based on observations of similarity. Pairwise sequence alignment using the Needleman-Wunsch algorithm is the basis for similarity maximization between molecular sequences. Multiple sequence alignment uses this algorithm in a topologically hierarchical framework. The resulting hypotheses of homology are tested in conjunction with character congruence through parsimony. This review introduces some underlying principles of phylogenetic analysis as they pertain homology testing and DNA sequence alignment.
+

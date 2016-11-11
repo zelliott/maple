@@ -1,0 +1,9 @@
+
+To determine whether an algorithm we have developed can be used to measure the retinal thickness on optical coherence tomography (OCT) images.
+
+Six radial linear scans of 6 mm were made with the OCT instrument. The retinal thickness and volume determined with the built-in algorithm for the OCT instrument for 50 eyes of 50 control subjects with normal retinal boundaries were compared to the values obtained with our algorithm. The macular volume was also measured in 26 eyes of 25 subjects before and after photodynamic therapy (PDT).
+
+The values obtained by the two algorithms in normal retinas were strongly correlated (R=0.99). Bland-Altman plots of the mean differences between the two algorithm measurement values showed excellent agreement. The mean macular volume determined before and 1 week after PDT with the built-in algorithm was significantly larger than that measured with our algorithm (P=0.035 pre-PDT; P=0.004 1 week after PDT).
+
+Our algorithm can be used to obtain a valid measurement of retinal thickness in normal retinas. The macular volume before and 1 week after PDT obtained with the built-in algorithm was larger than those measurements obtained with our algorithm.
+

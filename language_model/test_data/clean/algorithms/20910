@@ -1,0 +1,7 @@
+
+Morphology discrimination (MD) is an algorithm based on QRS morphology analysis, that can be used alone or in various combinations with other discriminators in order to diagnose ventricular tachycardia (VT) [the implantable cardioverter-defibrillator (ICD) may be set to diagnose VT if 'Any' or 'All' the discriminators indicate VT)].
+
+We evaluated the contribution of MD in terms of Specificity (SP) and Sensitivity (SE) of rhythm discrimination in slow and fast VT zones (rates <150 bpm and between 150 and 180 bpm, respectively). Detection results (682 spontaneous episodes in 58 patients) were corrected for multiple episodes within a patient (generalized estimating equations method). Rhythm discrimination in slow VT zones was characterized by SE and SP below 80% without MD, while the use of MD alone allowed to enhance SP, maintaining SE at 96%. Use of MD in combination with other discriminators resulted in a decrease in SP (setting 'Any'). In fast VT zones, MD allows an increase in SE for VT detection from around 82% up to approximately 94%, coupled with an SP of 95-96%., although SP is much higher with MD alone (94.8%) than with any other combination (78.4%). Both in slow and fast VT zones, use of multiple discriminators with the setting 'All' resulted in an unacceptable decrease in SE.
+
+MD in a dual-chamber ICD in combination with a rate branch classification system makes it possible to achieve a very high SP in discriminating detected events both in slow and fast VT zones, while maintaining SE for VT detection.
+

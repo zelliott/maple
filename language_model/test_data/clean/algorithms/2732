@@ -1,0 +1,13 @@
+
+Earlier diagnosis of renal tract cancer could help improve survival so better tools are needed to help this.
+
+To derive and validate an algorithm to estimate the absolute risk of renal tract cancer in patients with and without symptoms in  primary care.
+
+Cohort study using data from 375 UK QResearch® general practices for development and 189 for validation.
+
+Included patients were aged 30-84 years free at baseline of a diagnosis of renal tract cancer (bladder, kidney,  ureter, or urethra) and without haematuria, abdominal pain, appetite loss, or weight loss in previous 12 months. The primary outcome was incident diagnosis of renal tract cancer recorded in the next 2 years. Risk factors examined were age, body mass index, smoking, alcohol, deprivation, treated  hypertension, renal stones, structural kidney problems, diabetes, previous diagnosis of cancer apart from renal tract cancer, haematuria, abdominal pain, appetite loss, weight loss, diarrhoea, constipation, tiredness, and anaemia. Cox proportional hazards models were used to develop separate  risk equations in males and females. Measures of calibration and discrimination assessed performance in the validation cohort.
+
+There were 2878 incident cases of renal tract cancer from 4.1 million person-years in the derivation cohort. Independent predictors in  both males and females were age, smoking status, haematuria, abdominal pain, weight loss, and anaemia. A history of prior cancer other than renal tract cancer, and appetite loss were predictors for females only. On validation, the algorithms explained 75% of the variation in females and 76%  in males. The receiver operating curve statistics were 0.91 (females) and 0.95 (males). The D statistic was 3.53 (females) and 3.60 (males). The 10% of patients with the highest predicted risks contained 87% of all renal tract cancers diagnosed over the next 2 years.
+
+The algorithm has good discrimination and calibration and could potentially be used to identify those at highest risk of renal tract cancer, to facilitate more timely referral and investigation.
+

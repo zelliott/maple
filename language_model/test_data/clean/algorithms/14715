@@ -1,0 +1,3 @@
+
+In this paper, a new data centric storage that is dynamically adapted to the work load changes is proposed. The proposed data centric storage distributes the load of hot spot areas to neighboring sensor nodes by using a multilevel grid technique. The proposed method is also able to use existing routing protocols such as GPSR (Greedy Perimeter Stateless Routing) with small changes. Through simulation, the proposed method enhances the lifetime of sensor networks over one of the state-of-the-art data centric storages. We implement the proposed method based on an operating system for sensor networks, and evaluate the performance through running based on a simulation tool.
+

@@ -1,0 +1,3 @@
+
+We describe a novel algorithm for identification of activity/rest periods based on actigraphy signals designed to be used for a proper estimation of ambulatory blood pressure monitoring parameters. Automatic and accurate determination of activity/rest periods is critical in cardiovascular risk assessment applications including the evaluation of dipper versus non-dipper status. The algorithm is based on adaptive rank-order filters, rank-order decision logic, and morphological processing. The algorithm was validated on a database of 104 subjects including actigraphy signals for both the dominant and non-dominant hands (i.e., 208 actigraphy recordings). The algorithm achieved a mean performance above 94.0%, with an average number of 0.02 invalid transitions per 48 h.
+

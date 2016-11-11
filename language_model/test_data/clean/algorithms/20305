@@ -1,0 +1,9 @@
+
+To compare the performance of a neural network in identifying visual field defects with the performance of other available algorithms.
+
+A feed-forward neural network with a single hidden layer was trained to recognize visual field defects previously collected in a longitudinal follow-up glaucoma study, and then tested on fields taken from the same study but not used in the training. The receiver operating characteristics of the network then were compared with the previously determined performance of other algorithms on the same data set.
+
+At a specificity greater than 90%, the neural network was more sensitive than any of the available algorithms (although only the global indices were available for comparison, as the cluster and cross-meridional algorithms did not achieve such high specificity at their current settings). At a lower specificity (80-85%), the neural network was unable to attain the high sensitivity of the cluster or cross-meridional algorithms; in fact, the cluster algorithm from the Low-Tension Glaucoma study was significantly more sensitive.
+
+The receiver operating characteristics of a feed-forward neural network designed to detect visual field defects were explored. At a very high specificity (90-95%) a neural network performed better than the global indices. However, at a lower specificity (78%-88%), the neural network performed worse than cluster and cross-meridional algorithms.
+

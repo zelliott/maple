@@ -1,0 +1,5 @@
+
+Association studies may request more details of a specific haplotype. Haplotype-specific decay of linkage disequilibrium is such a crucial and versatile characteristic. It may be used, e.g. to search for signals of natural selection in a risk haplotype. Here, we present a web-based tool to explore the relationship between population frequency and extended linkage disequilibrium measured as haplotype homozygosity of observed haplotypes within a specified candidate region.
+
+The web-tool is available at http://ihg.gsf.de/cgi-bin/mueller/webehh.pl
+

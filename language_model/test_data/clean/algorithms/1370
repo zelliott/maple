@@ -1,0 +1,9 @@
+
+The purpose of this work was to develop a new family of test algorithms for computerized static threshold perimetry which significantly reduces test time without any reduction of data quality.
+
+A comprehensive visual field model constructed from available knowledge of normal and glaucomatous visual fields is continuously updated during testing. The model produces threshold estimates and also estimates of the certainty to which the threshold is known at each point. Testing is interrupted at each test location at predetermined levels of threshold certainty. New time-saving methods are employed for estimation of false answers, and test pacing is optimized. After completion of the test, all threshold estimates are re-computed, taking into account the complete body of patient responses. Computer simulations were used to optimize the different parameters of the new algorithms, to evaluate the relative importance of those parameters, and to evaluate the performance of the algorithm as a whole in comparison with a standard algorithm.
+
+Simulated test results obtained with this algorithm were slightly more accurate than those of the Humphrey Full Threshold test algorithm. The number of simulated stimuli presented was reduced by an average of 29% in normal fields and 26% in glaucomatous fields. Actual clinical test time should be further reduced, since the influence of the improved timing algorithm was not included in the simulations.
+
+We applied new methods which take available knowledge of visual field physiology and pathophysiology into account, and employ modern computer-intensive mathematical methods for real time estimates of threshold values and threshold error estimates. In this way it was possible to design a family of testing algorithms which significantly reduced perimetric test time without any loss of quality in results.
+

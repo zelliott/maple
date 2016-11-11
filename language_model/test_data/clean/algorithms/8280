@@ -1,0 +1,3 @@
+
+To improve the single-run performance of online learning and reinforce its stability, we consider online learning with limited adaptive learning rate in this letter. The letter extends convergence proofs for NORMA to a range of step sizes, then employs support vector learning with stochastic meta-descent (SVMD) limited to that range for step size adaptation, so as to obtain an online kernel algorithm that combines theoretical convergence guarantees with good practical performance. Experiments on different data sets corroborate theoretical results well and show that our method is another promising way for online learning.
+

@@ -1,0 +1,9 @@
+
+To develop prediction models of the relative need for care to differentiate between urgent and not urgent individuals presenting for emergency dental care.
+
+Data were collected from 839 adults presenting to public dental clinics across South Australia (SA) and New South Wales (NSW) for emergency dental care. Prediction of the urgency of emergency dental care was based on the assessment of two binary logistic regression models - Model 1: urgency of care=<48 hours vs. 2+ days, Model 2: urgency of care=2-7 days vs. 8+ days. Subsequently predictive equations for urgency of emergency dental care were developed using binary logistic regression analysis. The models incorporated subjective oral health indicators (i.e., experience of pain or other oral symptoms) and measures of psychosocial impact of oral disorders (i.e., difficulty sleeping and being worried about the appearance/health of one's teeth or mouth).
+
+The cut-off point for the prediction of urgency was defined as a probability value > or =0.40 and > or =0.50 for Model 1 and Model 2 respectively. These cut-off values were chosen as they produced test results that were consistent with the proportions of patients falling into various urgency categories derived from dentist's assessment of urgency. Model 1's sensitivity was 58%, specificity 77% and positive predictive value (PPV) 59%. Model 2's sensitivity was 75%, specificity 65% and PPV 71%.
+
+These models of relative need may be useful tools for the screening of urgent dental care and for allocating priority among patients presenting for emergency dental care.
+

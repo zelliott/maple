@@ -1,0 +1,9 @@
+
+A new system is presented and evaluated for real-time monitoring of blood leakage during hyperthermic isolated limb perfusion (HILP) surgery, the Veenstra HILP system. This system incorporates two software models to determine blood leakage: a single-nuclide algorithm and a newly developed dual-nuclide algorithm. The latter algorithm has the advantage that, in principle, it is independent of system sensitivity and thus independent of changes in geometrical efficiency. A physical description of the system is given, together with the required hardware and software specifications.
+
+In-vitro measurements, corresponding to the intended clinical use, are presented to investigate the relevant performance characteristics of the system: count rate linearity, measurement uncertainty, response time, and accuracy. As the Veenstra HILP system provides the opportunity to use different filter settings and averaging time, the influence of these settings on the time response and measurement uncertainty is described.
+
+Count rate linearity was better than 1% for the count rate domain typically observed during HILP procedures. The response time of the system degrades with increasing total averaging time. In contrast, measurement uncertainty in the blood leakage factor improves with increasing radiotracer count rates and increasing total averaging time. For both blood leakage algorithms, measurement accuracy is better than 1.0 and 1.5%, respectively.
+
+Measurements have shown that the system is well suited for the real-time monitoring of blood leakage during HILP surgery. Furthermore, a good agreement was observed between the theoretical and measured response time and measurement uncertainty.
+

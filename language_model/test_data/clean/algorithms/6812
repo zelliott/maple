@@ -1,0 +1,9 @@
+
+Transcriptome analysis allows detection and clustering of genes that are coexpressed under various biological circumstances. Under the assumption that coregulated genes share cis-acting regulatory elements, it is important to investigate the upstream sequences controlling the transcription of these genes. To improve the robustness of the Gibbs sampling algorithm to noisy data sets we propose an extension of this algorithm for motif finding with a higher-order background model.
+
+Simulated data and real biological data sets with well-described regulatory elements are used to test the influence of the different background models on the performance of the motif detection algorithm. We show that the use of a higher-order model considerably enhances the performance of our motif finding algorithm in the presence of noisy data. For Arabidopsis thaliana, a reliable background model based on a set of carefully selected intergenic sequences was constructed.
+
+Our implementation of the Gibbs sampler called the Motif Sampler can be used through a web interface: http://www.esat.kuleuven.ac.be/~thijs/Work/MotifSampler.html.
+
+gert.thijs@esat.kuleuven.ac.be; yves.moreau@esat.kuleuven.ac.be
+

@@ -1,0 +1,9 @@
+
+Public access defibrillators (PADs) are now available for more efficient and rapid treatment of out-of-hospital sudden cardiac arrest. PADs are used normally by untrained people on the streets and in sports centers, airports, and other public areas. Therefore, automated detection of ventricular fibrillation, or its exclusion, is of high importance. A special case exists at railway stations, where electric power-line frequency interference is significant. Many countries, especially in Europe, use 16.7 Hz AC power, which introduces high level frequency-varying interference that may compromise fibrillation detection.
+
+Moving signal averaging is often used for 50/60 Hz interference suppression if its effect on the ECG spectrum has little importance (no morphological analysis is performed). This approach may be also applied to the railway situation, if the interference frequency is continuously detected so as to synchronize the analog-to-digital conversion (ADC) for introducing variable inter-sample intervals. A better solution consists of rated ADC, software frequency measuring, internal irregular re-sampling according to the interference frequency, and a moving average over a constant sample number, followed by regular back re-sampling.
+
+The proposed method leads to a total railway interference cancellation, together with suppression of inherent noise, while the peak amplitudes of some sharp complexes are reduced. This reduction has negligible effect on accurate fibrillation detection.
+
+The method is developed in the MATLAB environment and represents a useful tool for real time railway interference suppression.
+

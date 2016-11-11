@@ -1,0 +1,7 @@
+
+Mutagenicity is among the toxicological end points that pose the highest concern. The accelerated pace of drug discovery has heightened the need for efficient prediction methods. Currently, most available tools fall short of the desired degree of accuracy, and can only provide a binary classification. It is of significance to develop a discriminative and informative model for the mutagenicity prediction.
+
+Here we developed a mutagenic probability prediction model addressing the problem, based on datasets covering a large chemical space. A novel molecular electrophilicity vector (MEV) is first devised to represent the structure profile of chemical compounds. An extended support vector machine (SVM) method is then used to derive the posterior probabilistic estimation of mutagenicity from the MEVs of the training set. The results show that our model gives a better performance than TOPKAT (http://www.accelrys.com) and other previously published methods. In addition, a confidence level related to the prediction can be provided, which may help people make more flexible decisions on chemical ordering or synthesis.
+
+The binary program (ZGTOX_1.1) based on our model and samples of input datasets on Windows PC are available at http://dddc.ac.cn/adme upon request from the authors.
+

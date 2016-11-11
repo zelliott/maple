@@ -1,0 +1,3 @@
+
+Methods for automated identification and building of protein-bound ligands in electron-density maps are described. An error model of the geometrical features of the molecular structure of a ligand based on a lattice distribution of positional parameters is obtained via simulation and is used for the construction of an approximate likelihood scoring function. This scoring function combined with a graph-based search technique provides a flexible model-building scheme and its application shows promising initial results. Several ligands with sizes ranging from 9 to 44 non-H atoms have been identified in various X-ray structures and built in an automatic way using a minimal amount of prior stereochemical knowledge.
+

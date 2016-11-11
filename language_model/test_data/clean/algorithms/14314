@@ -1,0 +1,3 @@
+
+This paper proposes a sequential coupling of a Hidden Markov Model (HMM) recognizer for offline handwritten English sentences with a probabilistic bottom-up chart parser using Stochastic Context-Free Grammars (SCFG) extracted from a text corpus. Based on extensive experiments, we conclude that syntax analysis helps to improve recognition rates significantly.
+

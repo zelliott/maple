@@ -1,0 +1,7 @@
+
+More than one million terms from biomedical ontologies and controlled vocabularies are available through the Ontology Lookup Service (OLS). Although OLS provides ample possibility for querying and browsing terms, the visualization of parts of the ontology graphs is rather limited and inflexible.
+
+We created the OLSVis web application, a visualiser for browsing all ontologies available in the OLS database. OLSVis shows customisable subgraphs of the OLS ontologies. Subgraphs are animated via a real-time force-based layout algorithm which is fully interactive: each time the user makes a change, e.g. browsing to a new term, hiding, adding, or dragging terms, the algorithm performs smooth and only essential reorganisations of the graph. This assures an optimal viewing experience, because subsequent screen layouts are not grossly altered, and users can easily navigate through the graph. URL: http://ols.wordvis.com
+
+The OLSVis web application provides a user-friendly tool to visualise ontologies from the OLS repository. It broadens the possibilities to investigate and select ontology subgraphs through a smooth visualisation method.
+

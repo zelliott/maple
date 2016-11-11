@@ -1,0 +1,9 @@
+
+This article describes a method of assessing the biologic consequences of nonuniform dose distributions produced in tumors by biologically targeted radionuclide therapy. The analysis is based on a simple mathematical model that assumes all tumor cells are uniformly radiosensitive.
+
+Using the linear-quadratic radiobiologic model, it is possible to represent an absorbed dose distribution by a biologically effective dose (BED) volume histogram (BVH). The Laplace transform of the BVH yields an equivalent uniform biologically effective dose. This is a one-number value that fully describes the biologic effect of a nonuniform absorbed dose distribution. In this article, for the purposes of exposition, nonuniform BED distributions are represented by normal distributions.
+
+Nonuniform absorbed dose distributions are inefficient in sterilizing tumors and become proportionately less effective as the mean dose increases. The loss in effectiveness is most severe for radiosensitive tumors.
+
+Several approaches may alleviate the consequences of dosimetric nonuniformity. These include the use of smaller targeting molecules, radionuclides with longer emission ranges, fractionated administration of biologically targeted radionuclide therapy and combined modality treatments.
+

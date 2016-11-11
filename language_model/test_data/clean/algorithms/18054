@@ -1,0 +1,7 @@
+
+The exponential growth of research in molecular biology has brought concomitant proliferation of databases for stocking its findings. A variety of protein sequence databases exist. While all of these strive for completeness, the range of user interests is often beyond their scope. Large databases covering a broad range of domains tend to offer less detailed information than smaller, more specialized resources, often creating a need to combine data from many sources in order to obtain a complete picture. Scientific researchers are continually developing new specific databases to enhance their understanding of biological processes.
+
+In this article, we present the implementation of a new tool for protein data analysis. With its easy-to-use user interface, this software provides the opportunity to build more specialized protein databases from a universal protein sequence database such as Swiss-Prot. A family of proteins known as bacteriocins is analyzed as 'proof of concept'.
+
+SciDBMaker is stand-alone software that allows the extraction of protein data from the Swiss-Prot database, sequence analysis comprising physicochemical profile calculations, homologous sequences search, multiple sequence alignments and the building of new and more specialized databases. It compiles information with relative ease, updates and compares various data relevant to a given protein family and could solve the problem of dispersed biological search results.
+

@@ -1,0 +1,3 @@
+
+We have developed two phase-retrieval techniques for analyser-based phase contrast imaging that provide information about an object's X-ray absorption, refraction and scattering properties. The first requires rocking curves to be measured with and without the sample and improves upon existing techniques by accurately fitting the curves with Pearson type VII functions. The second employs an iterative approach using two simultaneously recorded images by exploiting the Laue crystal geometry. This technique provides a substantial reduction in X-ray dose and enables quantitative phase retrieval to be performed on images of moving objects.
+

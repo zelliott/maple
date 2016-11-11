@@ -1,0 +1,9 @@
+
+To evaluate the effect of computer-aided detection (CAD) system on observer performance in the detection of malignant lung nodules on chest radiograph.
+
+Two hundred chest radiographs (100 normal and 100 abnormal with malignant solitary lung nodules) were evaluated. With CT and histological confirmation serving as a reference, the mean nodule size was 15.4 mm (range, 7-20 mm). Five chest radiologists and five radiology residents independently interpreted both the original radiographs and CAD output images using the sequential testing method. The performances of the observers for the detection of malignant nodules with and without CAD were compared using the jackknife free-response receiver operating characteristic analysis.
+
+Fifty-nine nodules were detected by the CAD system with a false positive rate of 1.9 nodules per case. The detection of malignant lung nodules significantly increased from 0.90 to 0.92 for a group of observers, excluding one first-year resident (p = 0.04). When lowering the confidence score was not allowed, the average figure of merit also increased from 0.90 to 0.91 (p = 0.04) for all observers after a CAD review. On average, the sensitivities with and without CAD were 87% and 84%, respectively; the false positive rates per case with and without CAD were 0.19 and 0.17, respectively. The number of additional malignancies detected following true positive CAD marks ranged from zero to seven for the various observers.
+
+The CAD system may help improve observer performance in detecting malignant lung nodules on chest radiographs and contribute to a decrease in missed lung cancer.
+

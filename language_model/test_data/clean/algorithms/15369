@@ -1,0 +1,11 @@
+
+When the minimisation method due to Taves is used to balance treatment groups across prognostic factors, a problem arises at the time of analysing the results. Since minimisation is essentially a deterministic method, any statistical test based on the assumption of complete randomisation should not be used in the analysis. Previous articles have shown that analysis of covariance (ANOCOVA) produces valid tests.
+
+In this article, these results are extended to trials with more than one prognostic factor and more than two treatments. An alternative design to minimisation which makes use of optimum design theory is also considered, with two choices of biased coin. Simulation is used to study the effect on the power and the coverage probabilities of the usual tests and confidence intervals when these different allocation methods are applied. The results are then illustrated using data from an actual clinical trial.
+
+Simulation shows that when ANOCOVA is used, it is sometimes more powerful with these designs than with minimisation and produces slightly conservative confidence intervals for the treatment mean differences. The increase in power and conservativeness is more pronounced when there are more prognostic factors. The possibility of treatment-covariate interactions is also addressed.
+
+Results are only given when treatment responses are normally distributed.
+
+Under the simulated situations considered, when a covariate-adaptive design is used, the use of ANOCOVA yields a test which preserves the nominal significance level as compared to the conservativeness of analysis of variance.
+

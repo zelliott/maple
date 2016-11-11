@@ -1,0 +1,3 @@
+
+We consider an extension of Granger causality to nonlinear bivariate time series. In this frame, if the prediction error of the first time series is reduced by including measurements from the second time series, then the second time series is said to have a causal influence on the first one. Not all the nonlinear prediction schemes are suitable to evaluate causality; indeed, not all of them allow one to quantify how much knowledge of the other time series counts to improve prediction error. We present an approach with bivariate time series modeled by a generalization of radial basis functions and show its application to a pair of unidirectionally coupled chaotic maps and to physiological examples.
+

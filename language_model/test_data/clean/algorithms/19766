@@ -1,0 +1,3 @@
+
+A hidden Markov model (HMM) of electrocardiogram (ECG) signal is presented for detection of myocardial ischemia. The time domain signals that are recorded by the ECG before and during the episode of local ischemia were pre-processed to produce input sequences, which is needed for the model training. The model is also verified by test data, and the results show that the models have certain function for the detection of myocardial ischemia. The algorithm based on HMM provides a possible approach for the timely, rapid and automatic diagnosis of myocardial ischemia, and also can be used in portable medical diagnostic equipment in the future.
+

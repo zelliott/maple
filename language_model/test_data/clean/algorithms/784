@@ -1,0 +1,3 @@
+
+Here, we describe BioInfo3D, a suite of freely available web services for protein structural analysis. The FlexProt method performs flexible structural alignment of protein molecules. FlexProt simultaneously detects the hinge regions and aligns the rigid subparts of the molecules. It does not require an a priori knowledge of the flexible hinge regions. MultiProt and MASS perform simultaneous comparison of multiple protein structures. PatchDock performs prediction of protein-protein and protein-small molecule interactions. The input to all services is either protein PDB codes or protein structures uploaded to the server. All the services are available at http://bioinfo3d.cs.tau.ac.il.
+

@@ -1,0 +1,3 @@
+
+Optical tomography using early photons can improve resolution and reduce the ill-posed nature of the inversion problem. In this work we use 360 degrees projection experimental data to investigate the inversion performance of three commonly used numerical inversion methods: the random algebraic reconstruction technique (rART), singular value decomposition (SVD), and the conjugate-gradient-type method LSQR. Results are contrasted to each other and the effects of different photon propagation models are also investigated. We find that all methods perform adequately given appropriate regularization parameters, and that an experimentally measured photon weight function yields superior results over two approximate weights that have been previously used.
+

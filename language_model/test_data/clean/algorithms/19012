@@ -1,0 +1,3 @@
+
+Recent psychological studies have strongly suggested that humans share common visual preferences for facial attractiveness. Here, we present a learning model that automatically extracts measurements of facial features from raw images and obtains human-level performance in predicting facial attractiveness ratings. The machine's ratings are highly correlated with mean human ratings, markedly improving on recent machine learning studies of this task. Simulated psychophysical experiments with virtually manipulated images reveal preferences in the machine's judgments that are remarkably similar to those of humans. Thus, a model trained explicitly to capture a specific operational performance criteria, implicitly captures basic human psychophysical characteristics.
+

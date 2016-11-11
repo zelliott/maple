@@ -1,0 +1,9 @@
+
+Insulin-induced hypoglycemia is as a critical barrier in the treatment of type 1 diabetes mellitus patients and may lead to unconsciousness, brain damage, or even death. Clinically, glucagon is used as a rescue drug to treat severe hypoglycemic episodes. More recently, in a bihormonal closed-loop glucose control, glucagon has been used subcutaneously along with insulin for protection against hypoglycemia. In this context, small doses of glucagon are frequently administered. The efficacy and safety of such systems, however, require precise information on the pharmacokinetics of the glucagon transport from the administrative site to the circulation, which is currently lacking. The goal of this work is to address this need by developing and validating a mathematical model of exogenous glucagon transport to the plasma.
+
+Eight pharmacokinetic models with various levels of complexity were fitted to nine clinical datasets. An optimal model was chosen in two consecutive steps. At Step 1, all models were screened for parameter identifiability (discarding the unidentifiable candidates). At Step 2, the remaining models are compared based on Bayesian information criterion.
+
+At Step 1, two models were removed for higher parameter fractional SDs. Another three were discarded for location of their optimal parameters on the parameter search boundaries. At Step 2, an optimal model was selected based on the Bayesian information criterion. It has a simple linear structure, assuming that glucagon is injected into one compartment, from where it enters a pool for a slower release into a third, plasma compartment. In the first and third compartments, glucagon is cleared at a rate proportional to its concentration.
+
+A linear kinetic model of glucagon intervention has been developed and validated. It is expected to provide guidance for glucagon delivery and the construction of preclinical simulation testing platforms.
+

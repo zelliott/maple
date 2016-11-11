@@ -1,0 +1,3 @@
+
+The paper addresses a problem of constructing a composite plan for a medical treatment on the basis of hierarchical morphological approach, multicriteria ranking, and morphological clique problem. The approach consists of the following phases: (a) hierarchical description of the medical plan; (b) generation of local alternative actions; (c) multicriteria selection of the local actions; and (d) composition of the best local actions into the global composite medical plan. An illustrative numerical example for children asthma describes the problem and solving processes.
+

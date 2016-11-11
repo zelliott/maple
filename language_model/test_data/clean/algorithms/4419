@@ -1,0 +1,9 @@
+
+To predict the development of carcinoid heart disease (CHD), which is a life-threatening complication of certain neuroendocrine tumors. To this end, a novel type of Bayesian classifier, known as the noisy-threshold classifier, is applied.
+
+Fifty-four cases of patients that suffered from a low-grade midgut carcinoid tumor, of which 22 patients developed CHD, were obtained from the Netherlands Cancer Institute (NKI). Eleven attributes that are known at admission have been used to classify whether the patient develops CHD. Classification accuracy and area under the receiver operating characteristics (ROC) curve of the noisy-threshold classifier are compared with those of the naive-Bayes classifier, logistic regression, the decision-tree learning algorithm C4.5, and a decision rule, as formulated by an expert physician.
+
+The noisy-threshold classifier showed the best classification accuracy of 72% correctly classified cases, although differences were significant only for logistic regression and C4.5. An area under the ROC curve of 0.66 was attained for the noisy-threshold classifier, and equaled that of the physician's decision-rule.
+
+The noisy-threshold classifier performed favorably to other state-of-the-art classification algorithms, and equally well as a decision-rule that was formulated by the physician. Furthermore, the semantics of the noisy-threshold classifier make it a useful machine learning technique in domains where multiple causes influence a common effect.
+

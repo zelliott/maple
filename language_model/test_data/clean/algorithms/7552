@@ -1,0 +1,3 @@
+
+In this paper, the problem of sampled-data synchronization for Markovian jump neural networks with time-varying delay and variable samplings is considered. In the framework of the input delay approach and the linear matrix inequality technique, two delay-dependent criteria are derived to ensure the stochastic stability of the error systems, and thus, the master systems stochastically synchronize with the slave systems. The desired mode-independent controller is designed, which depends upon the maximum sampling interval. The effectiveness and potential of the obtained results is verified by two simulation examples.
+

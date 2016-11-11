@@ -1,0 +1,3 @@
+
+The bistable Swift-Hohenberg equation possesses a variety of time-independent spatially localized solutions organized in the so-called snakes-and-ladders structure. This structure is a consequence of a phenomenon known as homoclinic snaking, and is in turn a consequence of spatial reversibility of the equation. We examine here the consequences of breaking spatial reversibility on the snakes-and-ladders structure. We find that the localized states now drift, and show that the snakes-and-ladders structure breaks up into a stack of isolas. We explore the evolution of this new structure with increasing reversibility breaking and study the dynamics of the system outside of the snaking region using a combination of numerical and analytical techniques.
+

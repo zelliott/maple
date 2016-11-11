@@ -1,0 +1,5 @@
+
+With advances in high-throughput sequencing methods, and the corresponding exponential growth in sequence data, it has become critical to develop scalable data management techniques for sequence storage, retrieval and analysis. In this paper we present a novel disk-based suffix tree approach, called TRELLIS+, that effectively scales to massive amount of sequence data using only a limited amount of main-memory, based on a novel string buffering strategy. We show experimentally that TRELLIS+ outperforms existing suffix tree approaches; it is able to index genome-scale sequences (e.g., the entire Human genome), and it also allows rapid query processing over the disk-based index.
+
+TRELLIS+ source code is available online at http://www.cs.rpi.edu/-zaki/software/trellis
+

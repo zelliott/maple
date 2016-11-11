@@ -1,0 +1,3 @@
+
+The use of nuclear magnetic resonance (NMR) to carry out quantum information processing (QIP) often requires the preparation, transformation, and detection of pseudopure states. In our previous work, it was shown that the use of pairs of pseudopure states (POPS) as a basis for QIP is very convenient because of the simplicity in experimental execution. It is now further demonstrated that the product of the NMR spectra corresponding to two sets of POPS that share a common pseudopure state has the same peak frequencies as those of the common (single) pseudopure state. Examples of applying two different quantum logic gates to a 5-qubit system are given.
+

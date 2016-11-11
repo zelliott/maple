@@ -1,0 +1,9 @@
+
+The cultivation of adherently growing cell populations is a major task in the field of adult stem cell production used for drug discovery and in the field of regenerative medicine. To assessthe quality of a cell population, a crucial event is the mitotic cell division: the precise knowledge of these events enables the reconstruction of lineages and accurate proliferation curves as well as a detailed analysis of cell cycles. To serve in an autonomous cell farming framework, such a detector requires to work reliably and unsupervised.
+
+We introduce a mitosis detector that is using a maximum likelihood (ML) estimator based on morphological cell features (cell area, brightness, length, compactness). It adapts to the 3 phases of cell growth (lag, log and stationary phase). As a concurrent model, we compared ML with kernel SVMs using linear, quadratic and Gaussian kernel functions. All approaches are evaluated for their ability to distinguish between mitotic and non-mitotic events. The large, publicly available benchmark data CeTReS (reference data set A with >240,000 segmented cells, >2,000 mitotic events) is used for this evaluation.
+
+The adaptive (unsupervised) ML approach clearly outperforms previously published non-adaptive approaches and the linear SVM. Furthermore, it robustly reaches a performance comparable to quadratic and Gaussian SVM.
+
+The proposed simple and label free adaptive variant might be the method of choice when it comes to autonomous cell farming. Hereby, it is essential to have reliable and unsupervised mitosis detection that covers all phases of cell growth.
+

@@ -1,0 +1,7 @@
+
+Methods involving fuzzy theory have been rarely applied to genetics. We present an open platform for experimentation with fuzzy numbers as a tool to represent imprecise phenotypes in genetic modeling.
+
+A C++ library for simulation of genetic information transmission is introduced. The study of genetic linkage was its first goal, though a design so general as possible has been meant. Fuzzy-valued phenotypes are handled by means of fuzzy numbers.
+
+ftp://carleos.etsiig.uniovi.es/pub/falin ftp://fisher.ciencias.uniovi.es/pub/falin ftp://bellman.ciencias.uniovi.es/pub/falin Licensed under the GNU General Public License version 2 (see http://www.gnu.org/licenses/gpl.html).
+

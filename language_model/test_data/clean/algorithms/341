@@ -1,0 +1,7 @@
+
+High-density short oligonucleotide microarrays are useful tools for studying biodiversity, because they can be used to investigate both nucleotide and expression polymorphisms. However, when different strains (or species) produce different signal intensities after mRNA hybridization, it is not easy to determine whether the signal intensities were affected by nucleotide or expression polymorphisms. To overcome this difficulty, nucleotide and expression polymorphisms are currently examined separately.
+
+We have developed SNEP, a new method that allows simultaneous detection of both nucleotide and expression polymorphisms. SNEP involves a robust statistical procedure based on the idea that a nucleotide polymorphism observed at the probe level can be regarded as an outlier, because the nucleotide polymorphism can reduce the hybridization signal intensity. To investigate the performance of SNEP, we used three species: barley, rice and mice. In addition to the publicly available barley data, we obtained new rice and mouse data from the strains with available genome sequences. The sensitivity and false positive rate of nucleotide polymorphism detection were estimated based on the sequence information. The robustness of expression polymorphism detection against nucleotide polymorphisms was also investigated.
+
+SNEP performed well regardless of the genome size and showed a better performance for nucleotide polymorphism detection, when compared with other previously proposed methods. The R-software 'SNEP' is available at http://www.ism.ac.jp/~fujisawa/SNEP/.
+

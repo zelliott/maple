@@ -1,0 +1,3 @@
+
+In an ECG auto-analysis system, correct QRS detection is most important. For this detection there are several methods, such as derivative-based algorithms, filter-bank methods and wavelet based methods and neural network approaches, but there is no single method that is extensively used. These methods are compared and analyzed in this paper.
+

@@ -1,0 +1,3 @@
+
+Decompression sickness (DCS) is a disease known to be related to inert gas bubble formation originating from gases dissolved in body tissues. Probabilistic DCS models, which employ survival and hazard functions, are optimized by fitting model parameters to experimental dive data. In the work reported here, I develop methods to find the survival function gain parameter analytically, thus removing it from the fitting process. I show that the number of iterations required for model optimization is significantly reduced. The analytic gain method substantially improves the condition number of the Hessian matrix which reduces the model confidence intervals by more than an order of magnitude.
+

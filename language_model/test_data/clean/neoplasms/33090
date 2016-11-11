@@ -1,0 +1,11 @@
+
+Statistical mediation is an important tool in behavioral health sciences, but it has been confined primarily to continuous variables. As prevention studies become increasingly common, more often the mediator or outcome is binary. Recent work by D. P. MacKinnon and J. H. Dwyer (1993) has explicated the steps necessary to estimate models for mediation when the mediator or the outcome is binary.
+
+To report the release of a set of SAS macros used to implement the statistical analyses required to analyze data with binary and continuous-level data.
+
+A brief introduction to the methodology of mediation analysis in the presence of a binary outcome, mediator, or both is provided. The macros are tested on a sample of 84 participants who were experiencing pain. It is hypothesized that the relationship between pain and fatigue is mediated by sleep disturbance.
+
+The relationship between pain and fatigue was mediated by the presence of sleep disturbances, and the amount of mediation was 23.34%.
+
+The SAS macros are available for download without charge from the second author's Web site. Instructions are provided in an included technical manual.
+

@@ -1,0 +1,9 @@
+
+The objective of this study is to assess the performance of existing wear/nonwear time classification algorithms for accelerometry data collected in the free-living environment using a wrist-worn triaxial accelerometer and a waist-worn uniaxial accelerometer in older adults.
+
+Twenty-nine adults age 76 to 96 yr wore wrist accelerometers for approximately 24 h per day and waist accelerometers during waking for approximately 7 d of free living. Wear and nonwear times were classified by existing algorithms (Alg([ActiLife]), Alg([Troiano]), and Alg([Choi])) and compared with wear and nonwear times identified by data plots and diary records. With the use of bias and probability of correct classification, the performance of the algorithms, two time windows (60 and 90 min), and vector magnitude (VM) versus vertical axis (V) counts from a triaxial accelerometer were compared.
+
+Automated algorithms (Alg([Choi]) and Alg([Troiano])) classified wear/nonwear time intervals more accurately from VM than V counts. The use of the 90-min time window improved wear/nonwear classification accuracy when compared with the 60-min window. The Alg([Choi]) and Alg([Troiano]) performed better than the manufacturer-provided algorithm (Alg([ActiLife])), and the Alg([Choi]) performed better than the Alg([Troiano]) for wear/nonwear time classification using the data collected by both accelerometers.
+
+Triaxial wrist-worn accelerometer can be used for an accurate wear/nonwear time classification in free-living older adults. The use of the 90-min window and the VM counts improves the performance of commonly used algorithms for wear/nonwear classification for both uniaxial and triaxial accelerometers.
+

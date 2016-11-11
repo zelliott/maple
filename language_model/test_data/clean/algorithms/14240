@@ -1,0 +1,3 @@
+
+In this paper we study several constitutive equations for the brain based on the strain energy density function. We use the polynomial function and hyper-elastic Ogden model for the strain energy and include the energy dissipation by a Prony series expansion. The models are compared with known unconfined compression experimental results of the human brain tissue to obtain the best fitted model and brain mechanical parameters. Finite element simulations are also performed using the given constitutive equations, and numerical solutions match the analytical results very closely. The results are compared with other analytical and numerical calculations.
+

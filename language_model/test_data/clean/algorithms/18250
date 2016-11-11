@@ -1,0 +1,3 @@
+
+We describe Census, a quantitative software tool compatible with many labeling strategies as well as with label-free analyses, single-stage mass spectrometry (MS1) and tandem mass spectrometry (MS/MS) scans, and high- and low-resolution mass spectrometry data. Census uses robust algorithms to address poor-quality measurements and improve quantitative efficiency, and it can support several input file formats. We tested Census with stable-isotope labeling analyses as well as label-free analyses.
+

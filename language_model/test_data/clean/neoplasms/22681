@@ -1,0 +1,9 @@
+
+Tirapazamine (TPZ) has attractive features for targeting hypoxic cells in tumors but has limited clinical activity, in part because of poor extravascular penetration. Here, we identify improved TPZ analogues by using a spatially resolved pharmacokinetic/pharmacodynamic (SR-PKPD) model that considers tissue penetration explicitly during lead optimization.
+
+The SR-PKPD model was used to guide the progression of 281 TPZ analogues through a hierarchical screen. For compounds exceeding hypoxic selectivity thresholds in single-cell cultures, SR-PKPD model parameters (kinetics of bioreductive metabolism, clonogenic cell killing potency, diffusion coefficients in multicellular layers, and plasma pharmacokinetics at well tolerated doses in mice) were measured to prioritize testing in xenograft models in combination with radiation.
+
+SR-PKPD-guided lead optimization identified SN29751 and SN30000 as the most promising hypoxic cytotoxins from two different structural subseries. Both were reduced to the corresponding 1-oxide selectively under hypoxia by HT29 cells, with an oxygen dependence quantitatively similar to that of TPZ. SN30000, in particular, showed higher hypoxic potency and selectivity than TPZ in tumor cell cultures and faster diffusion through HT29 and SiHa multicellular layers. Both compounds also provided superior plasma PK in mice and rats at equivalent toxicity. In agreement with SR-PKPD predictions, both were more active than TPZ with single dose or fractionated radiation against multiple human tumor xenografts.
+
+SN30000 and SN29751 are improved TPZ analogues with potential for targeting tumor hypoxia in humans. Novel SR-PKPD modeling approaches can be used for lead optimization during anticancer drug development.
+

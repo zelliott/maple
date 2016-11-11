@@ -1,0 +1,9 @@
+
+The objective is to develop an automated image analysis protocol to quantify the cell volume fraction of filamentous fungi (Trichoderma reesei) and estimate the biomass concentration.
+
+Both dry weight and image analyses were performed on samples collected periodically from 7-l stirred tank fermentations. Using the projected area of lactophenol blue-stained hyphae, the fraction occupied by the cells in a given volume was estimated. Combined with the biomass dry weight obtained by filtration, the method was used to estimate the density of filamentous fungi. Knowing the density of fungi, the algorithm was employed to quantitatively assess the biomass evolution during the course of fermentation even in the presence of solid particles.
+
+A density of 0.334 g dry weight cm(-3) was found for T. reesei RUT C-30. The image analysis protocol allowed successful estimation of biomass concentration in the presence or absence of solid particles.
+
+Methods to quantify biomass during the industrial production of cellulase with T. reesei are often limited due to the presence of solid substrates. The image analysis protocol presented here offers a quick and easy way to estimate biomass concentration of filamentous micro-organisms in insoluble medium.
+

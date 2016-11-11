@@ -1,0 +1,3 @@
+
+This paper describes a system for context awareness in smart environments, which is based on an ontology expressed in description logic and implemented in OWL 2 EL, which is a subset of the Web Ontology Language that allows for reasoning in polynomial time. The approach is different from all other works in the literature since the proposed system requires only the basic reasoning mechanisms of description logic, i.e., subsumption and instance checking, without any additional external reasoning engine. Experiments performed with data collected in three different scenarios are described, i.e., the CASAS Project at Washington State University, the assisted living facility Villa Basilea in Genoa, and the Merry Porter mobile robot at the Polyclinic of Modena.
+

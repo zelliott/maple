@@ -1,0 +1,3 @@
+
+Scanning images in illumination-mode, scanning-near-field optical microscopy (SNOM) are numerically studied by the boundary element method based on rigorous vector electromagnetic theory. Computation results of constant-height and constant-distance images for samples with different topographic features are presented. Effects of the polarization of the input light and the optical parameters of samples on the resolution of SNOM are discussed. The artifacts in constant-distance images are also investigated. Numerical results indicate that the constant-height images for TM input light and constant-distance images for both TE and TM input light give only the local changes of the sample topography because of the loss of the low-frequency component of the topography.
+

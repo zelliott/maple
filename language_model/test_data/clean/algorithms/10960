@@ -1,0 +1,3 @@
+
+Because of the ongoing development to more complex non-coplanar techniques in radiotherapy, the use of modem computer graphics while designing a dose plan becomes increasingly essential and more important. In this paper, we describe a concept to simulate 3D conformal treatment techniques on the computer. All important components of the treatment device and relevant patient structures are mapped to an internal model, which allows simulation of motion sequences as well as the interactive adjustment of treatment parameters. The intention of this user interface is to save time by using mainly graphical modules in the optimization process instead of running through the dose calculation every time.
+

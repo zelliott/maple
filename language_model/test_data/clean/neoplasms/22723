@@ -1,0 +1,9 @@
+
+Tumor control probability (TCP) to radiotherapy is determined by complex interactions between tumor biology, tumor microenvironment, radiation dosimetry, and patient-related variables. The complexity of these heterogeneous variable interactions constitutes a challenge for building predictive models for routine clinical practice. We describe a datamining framework that can unravel the higher order relationships among dosimetric dose-volume prognostic variables, interrogate various radiobiological processes, and generalize to unseen data before when applied prospectively.
+
+Several datamining approaches are discussed that include dose-volume metrics, equivalent uniform dose, mechanistic Poisson model, and model building methods using statistical regression and machine learning techniques. Institutional datasets of non-small cell lung cancer (NSCLC) patients are used to demonstrate these methods. The performance of the different methods was evaluated using bivariate Spearman rank correlations (rs). Over-fitting was controlled via resampling methods.
+
+Using a dataset of 56 patients with primary NCSLC tumors and 23 candidate variables, we estimated GTV volume and V75 to be the best model parameters for predicting TCP using statistical resampling and a logistic model. Using these variables, the support vector machine (SVM) kernel method provided superior performance for TCP prediction with an rs=0.68 on leave-one-out testing compared to logistic regression (rs=0.4), Poisson-based TCP (rs=0.33), and cell kill equivalent uniform dose model (rs=0.17).
+
+The prediction of treatment response can be improved by utilizing datamining approaches, which are able to unravel important non-linear complex interactions among model variables and have the capacity to predict on unseen data for prospective clinical applications.
+

@@ -1,0 +1,9 @@
+
+The current study assesses artificial intelligence methods to identify prostate carcinoma patients at low risk for lymph node spread. If patients can be assigned accurately to a low risk group, unnecessary lymph node dissections can be avoided, thereby reducing morbidity and costs.
+
+A rule-derivation technology for simple decision-tree analysis was trained and validated using patient data from a large database (4,133 patients) to derive low risk cutoff values for Gleason sum and prostate specific antigen (PSA) level. An empiric analysis was used to derive a low risk cutoff value for clinical TNM stage. These cutoff values then were applied to 2 additional, smaller databases (227 and 330 patients, respectively) from separate institutions.
+
+The decision-tree protocol derived cutoff values of < or = 6 for Gleason sum and < or = 10.6 ng/mL for PSA. The empiric analysis yielded a clinical TNM stage low risk cutoff value of < or = T2a. When these cutoff values were applied to the larger database, 44% of patients were classified as being at low risk for lymph node metastases (0.8% false-negative rate). When the same cutoff values were applied to the smaller databases, between 11 and 43% of patients were classified as low risk with a false-negative rate of between 0.0 and 0.7%.
+
+The results of the current study indicate that a population of prostate carcinoma patients at low risk for lymph node metastases can be identified accurately using a simple decision algorithm that considers preoperative PSA, Gleason sum, and clinical TNM stage. The risk of lymph node metastases in these patients is < or = 1%; therefore, pelvic lymph node dissection may be avoided safely. The implications of these findings in surgical and nonsurgical treatment are significant.
+

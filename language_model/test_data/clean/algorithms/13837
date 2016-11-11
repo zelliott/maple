@@ -1,0 +1,3 @@
+
+This report describes a new methodology aimed at grouping 3D-QSAR interaction energy descriptors into regions of neighbor variables bearing the same chemical and statistical information. These regions represent the structural variability of the series better than individual descriptor variables and can advantageously replace them in the chemometric analysis. The algorithm used to generate such regions is described, together with their application for improving the quality of GOLPE variable selection. The method is illustrated on a series of 47 glucose analogues, inhibitors of glycogen phosphorylase b, and is shown to improve both the predictive ability and the interpretability of the 3D-QSAR models obtained, comparing favorably with other methods previously described.
+

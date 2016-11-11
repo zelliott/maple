@@ -1,0 +1,3 @@
+
+A method of three-dimensional diffraction tomography based on image projections is derived. Inversion methods based on projections generally are inaccurate due to the spreading nature of the scattered wave. By backpropagating the field onto a single plane in the image region, diffraction effects are reduced and a projection of the weakly scattering object is generated. Consequently, conventional X-ray inversion techniques may be used to image the object. The relationship between the backpropagated field and the projection is derived both for high frequency incident waves and low spatial frequency scatterers. The generalized image kernel allows the use of curved or misaligned recording surfaces. Numerical results are included.
+

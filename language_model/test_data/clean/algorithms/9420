@@ -1,0 +1,9 @@
+
+We are developing an automated ultrasound imaging-mammography system wherein a digital mammography unit has been augmented with a motorized ultrasound transducer carriage above a special compression paddle. Challenges of this system are acquiring complete coverage of the breast and minimizing motion. We assessed these problems and investigated methods to increase coverage and stabilize the compressed breast.
+
+Visual tracings of the breast-to-paddle contact area and breast periphery were made for 10 patients to estimate coverage area. Various motion artifacts were evaluated in 6 patients. Nine materials were tested for coupling the paddle to the breast. Fourteen substances were tested for coupling the transducer to the paddle in lateral-to-medial and medial-to-lateral views and filling the gap between the peripheral breast and paddle. In-house image registration software was used to register adjacent ultrasound sweeps.
+
+The average breast contact area was 56%. The average percentage of the peripheral air gap filled with ultrasound gel was 61%. Shallow patient breathing proved equivalent to breath holding, whereas speech and sudden breathing caused unacceptable artifacts. An adhesive spray that preserves image quality was found to be best for coupling the breast to the paddle and minimizing motion. A highly viscous ultrasound gel proved most effective for coupling the transducer to the paddle for lateral-to-medial and medial-to-lateral views and for edge fill-in.
+
+The challenges of automated ultrasound scanning in a multimodality breast imaging system have been addressed by developing methods to fill in peripheral gaps, minimize patient motion, and register and reconstruct multisweep ultrasound image volumes.
+

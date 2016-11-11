@@ -1,0 +1,3 @@
+
+A sequence databases are growing rapidly, results from sequence comparison searches using fast search methods such as BLAST and FASTA tend to be long and difficult to digest. In this paper, we present a new method to extract domain information from sequence comparison searches by clustering the resulting alignments according to their similarity to the query sequence. Efficient tree structures and algorithms are used to organize the alignment data such that structurally conserved elements can be easily identified. The hierarchical nature of the data structures used and the flexible X-Window based interface provide an efficient and intuitive means to explore the alignment data at different levels so the main domains as well as distantly related features can be explored.
+

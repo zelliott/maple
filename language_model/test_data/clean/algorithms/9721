@@ -1,0 +1,3 @@
+
+A body sensor network (BSN) is a network of sensors deployed on a person's body for health care monitoring. Since the sensors collect personal medical data, security and privacy are important components in a BSN. In this paper, we developed IBE-Lite, a lightweight identity-based encryption suitable for sensors in a BSN. We present protocols based on IBE-Lite that balance security and privacy with accessibility and perform evaluation using experiments conducted on commercially available sensors.
+

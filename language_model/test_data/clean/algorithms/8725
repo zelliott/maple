@@ -1,0 +1,9 @@
+
+To successfully ablate moving tumors in robotic radio-surgery, it is necessary to compensate for motion of inner organs caused by respiration. This can be achieved by tracking the body surface and correlating the external movement with the tumor position as it is implemented in the CyberKnife[Formula: see text] Synchrony system. Tracking errors, originating from system immanent time delays, are typically reduced by time series prediction. Many prediction algorithms exploit autoregressive (AR) properties of the signal. Estimating the optimal model order [Formula: see text] for these algorithms constitutes a challenge often solved via grid search or prior knowledge about the signal.
+
+Aiming at a more efficient approach instead, this study evaluates the Akaike information criterion (AIC), the corrected AIC, and the Bayesian information criterion (BIC) on the first minute of the respiratory signal. Exemplarily, we evaluated the approach for a least mean square (LMS) and a wavelet-based LMS (wLMS) predictor.
+
+Analyzing 12 motion traces, orders estimated by AIC had the highest prediction accuracy for both prediction algorithms. Extending the investigations to 304 real motion traces, the prediction error of wLMS using AIC was found to decrease significantly by 85.1 % of the data compared to the original implementation
+
+The overall results suggest that using AIC to estimate the model order [Formula: see text] for prediction algorithms based on AR properties is a valid method which avoids intensive grid search and leads to high prediction accuracy.
+

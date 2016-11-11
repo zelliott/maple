@@ -1,0 +1,3 @@
+
+This paper presents a region-based method for background subtraction. It relies on color histograms, texture information, and successive division of candidate rectangular image regions to model the background and detect motion. Our proposed algorithm uses this principle and combines it with Gaussian mixture background modeling to produce a new method which outperforms the classic Gaussian mixture background subtraction method. Our method has the advantages of filtering noise during image differentiation and providing a selectable level of detail for the contour of the moving shapes. The algorithm is tested on various video sequences and is shown to outperform state-of-the-art background subtraction methods.
+

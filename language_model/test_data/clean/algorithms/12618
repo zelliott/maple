@@ -1,0 +1,9 @@
+
+Insulin secretion is pulsatile, and has been shown to be altered in both physiologic and pathophysiologic conditions. The identification and characterization of such pulses have been challenging, partially because of the low concentrations of insulin during fasting and its short half-life. Existing pulse detection algorithms used to identify insulin pulses either cannot separate hormone pulses into their secretory burst and clearance components, or have been limited by both the subjective nature of initial peak selection and a lack of statistical verification of bursts.
+
+To address these concerns, we have developed AutoDecon, a novel deconvolution computer program.
+
+AutoDecon was applied to synthetic insulin concentration-time series modeled on data derived from normal fasting subjects and simulated to reflect several sampling frequencies, sampling durations, and assay replicates. The operating characteristics of AutoDecon were compared to those obtained with Cluster, a standard pulse detection algorithm. AutoDecon performed considerably better than Cluster with regard to sensitivity and secretory burst detection rates for true positives, false positives, and false negatives. As expected, given the short half-life of insulin, sampling at 30-second intervals is required for optimal analytical results. The choice of sampling duration is more flexible and relates to the number of replicates assayed.
+
+AutoDecon represents a viable alternative to standard pulse detection algorithms for the appraisal of fasting insulin pulsatility.
+

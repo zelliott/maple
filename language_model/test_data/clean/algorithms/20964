@@ -1,0 +1,7 @@
+
+Several fractal and non-fractal parameters have been considered for the quantitative assessment of the vascular architecture, using a variety of test specimens and of computational tools. The fractal parameters have the advantage of being scale invariant, i.e. to be independent of the magnification and resolution of the images to be investigated, making easier the comparison among different setups and experiments.
+
+The success of several commercial and/or free codes in computing the fractal parameters has been tested on well known exact models. Based on such a preliminary study, we selected the code Frac-lac in order to analyze images obtained by visualizing the angiogenetic process occurring in chick Chorio Allontoic Membranes (CAM), assumed to be paradigmatic of a realistic 2D vascular network. Among the parameters investigated, the fractal dimension Df proved to be the most robust estimator for CAM vascular networks. Moreover, only Df was able to discriminate between effective and elusive increases in vascularization after drug-induced angiogenic stimulations on CAMs.
+
+The fractal dimension Df is likely to be the most promising tool for monitoring the effectiveness of anti-angiogenic therapies in various clinical contexts.
+

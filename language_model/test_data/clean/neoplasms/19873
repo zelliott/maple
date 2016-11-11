@@ -1,0 +1,9 @@
+
+To demonstrate a data-driven dose-painting strategy based on the spatial distribution of recurrences in previously treated patients. The result is a quantitative way to define a dose prescription function, optimizing the predicted local control at constant treatment intensity. A dose planning study using the optimized dose prescription in 20 patients is performed.
+
+Patients treated at our center have five tumor subvolumes from the center of the tumor (PET positive volume) and out delineated. The spatial distribution of 48 failures in patients with complete clinical response after (chemo)radiation is used to derive a model for tumor control probability (TCP). The total TCP is fixed to the clinically observed 70% actuarial TCP at five years. Additionally, the authors match the distribution of failures between the five subvolumes to the observed distribution. The steepness of the dose-response is extracted from the literature and the authors assume 30% and 20% risk of subclinical involvement in the elective volumes. The result is a five-compartment dose response model matching the observed distribution of failures. The model is used to optimize the distribution of dose in individual patients, while keeping the treatment intensity constant and the maximum prescribed dose below 85 Gy.
+
+The vast majority of failures occur centrally despite the small volumes of the central regions. Thus, optimizing the dose prescription yields higher doses to the central target volumes and lower doses to the elective volumes. The dose planning study shows that the modified prescription is clinically feasible. The optimized TCP is 89% (range: 82%-91%) as compared to the observed TCP of 70%.
+
+The observed distribution of locoregional failures was used to derive an objective, data-driven dose prescription function. The optimized dose is predicted to result in a substantial increase in local control without increasing the predicted risk of toxicity.
+

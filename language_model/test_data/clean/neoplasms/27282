@@ -1,0 +1,3 @@
+
+For many drugs used in chemotherapy the difference between the therapeutic concentration and the toxic concentration is small. During treatment of a living organism from cancer by using chemotherapy, it is therefore important to foresee the therapeutic concentration in the organism as a function of the injected therapeutic drug dose. This article provides a mathematical dynamic description of the interaction between the organism and the drug, and analyses the dynamics by using ordinary differential equations. The model is tested in a clinical situation where digitoxin is used as the therapeutic drug. The agreement with this experiment is good.
+

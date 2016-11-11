@@ -1,0 +1,3 @@
+
+RNA locally optimal secondary structures provide a concise and exhaustive description of all possible secondary structures of a given RNA sequence, and hence a very good representation of the RNA folding space. In this paper, we present an efficient algorithm that computes all locally optimal secondary structures for any folding model that takes into account the stability of helical regions. This algorithm is implemented in a software called regliss that runs on a publicly accessible web server.
+

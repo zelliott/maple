@@ -1,0 +1,9 @@
+
+The current gold standard of bladder cancer surveillance, endoscopic visualization, is manually manipulated and still has significant room for improvement in performance and controls.
+
+This paper reports our developments toward automated bladder surveillance that employs a shape memory alloy-based machine-controlled scanning mechanism. In conjunction with the electro-mechanical advances, we use modified commercial post-processing computer vision software capable of converting cystoscopic video of the bladder into stitched panoramas.
+
+Experimental results conducted on a synthetic bladder demonstrate that this computer-aided scanning tool can help 82% of the entire bladder surface being scanned. Although the panoramic stitching algorithm increases the field of view and generates reasonable results in many cases, some image matching failures result in incompleteness in its full panoramic reconstruction.
+
+Our current study ensures that the automated steering mechanism can follow the desired trajectory to scan the surface of the bladder but must be improved. The current reconstruction algorithm needs further modification. Our methodology may constitute a first step in suggesting a new automated and computer-aided bladder surveillance system.
+

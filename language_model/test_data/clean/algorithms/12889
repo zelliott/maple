@@ -1,0 +1,3 @@
+
+We present a technique to solve numerically the Fresnel diffraction integral by representing a given complex function as a finite superposition of complex Gaussians. Once an accurate representation of these functions is attained, it is possible to find analytically its diffraction pattern. There are two useful consequences of this representation: first, the analytical results may be used for further theoretical studies and second, it may be used as a versatile and accurate numerical diffraction technique. The use of the technique is illustrated by calculating the intensity distribution in a vicinity of the focal region of an aberrated converging spherical wave emerging from a circular aperture.
+

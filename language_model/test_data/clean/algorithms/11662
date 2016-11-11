@@ -1,0 +1,9 @@
+
+The comet or single-cell gel electrophoresis assay is a sensitive method for the detection of DNA damage. The main drawback of comet sampling is the low cell density necessary to prevent nucleus overlap after electrophoresis, which limits large-scale high throughput screening. Another problem may be inconsistent comet focusing. We investigated whether an approach based on three-dimensional (3D) confocal microscopy might be beneficial for these concerns.
+
+A vertical comet assay enabling three-dimensional confocal comet imaging of nuclei seeded at very high density was developed together with dedicated software algorithms to retrieve quantitative data at the single cell level.
+
+Three-dimensional confocal comet imaging greatly relieved the user interactions of our nonautomated two-dimensional comet sampling procedure. Batches of comets were blindly sampled, and confocal sectioning improved the clarity of the images and the accuracy of comet sampling. A 1-Gy dose response was readily established. The sampling speed was competitive with that of commercial packages.
+
+Vertical comet imaging is a new concept for fast and user-friendly comet sampling that allows miniaturization of the assay. It may become an essential step toward high throughput screening and exploit the benefits of confocal imaging.
+

@@ -1,0 +1,15 @@
+
+To develop a technique using a fixed, discrete set of wavelengths that can detect erythema in persons with darkly pigmented skin. The resulting erythema detection approach will then be incorporated into a handheld, point-of-care device that is clinically viable and affordable.
+
+A multispectral imaging system was used to acquire spectral images of induced erythema. Individual images were combined into a single image using different fusion algorithms. Image fusion algorithms based on published literature and using linear and nonlinear color space transformation were tested to optimize the contrast between erythematic and uninvolved skin.
+
+A research laboratory at Georgia Institute of Technology, Atlanta, Georgia.
+
+Fifty-six subjects, of whom 28 had darkly pigmented skin, were recruited from a pool of students, faculty, and staff.
+
+The ability of detection algorithms to detect erythema was measured using Weber contrast. A simple threshold classifier determined accuracy, sensitivity, and specificity for each algorithm.
+
+Four algorithms enhanced contrast of erythema by an order of magnitude over that of a digital photograph. The accuracy of the detection algorithms ranged from 66% to 95%. Sensitivity and specificity ranged from 0% to 100%. One fusion algorithm exhibited an accuracy of more than 90% and sensitivity and specificity of more than 90%.
+
+The results indicate that erythema in different skin tones can be identified using 2 to 3 filters. Increasing accuracy and discrimination will be targeted via use of filters with narrower half-wave bandwidths, more consistent camera lighting, and improved machine vision techniques.
+

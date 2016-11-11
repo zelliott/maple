@@ -1,0 +1,11 @@
+
+This study compared the dosimetry of volumetric-arc therapy (VMAT) and intensity-modulated radiotherapy (IMRT) with a dynamic multileaf collimator using the Monte Carlo algorithm in the treatment of prostate cancer with and without simultaneous integrated boost (SIB) at different energy levels.
+
+The data of 15 biopsy-proven prostate cancer patients were evaluated. The prescribed dose was 78 Gy to the planning target volume (PTV78) including the prostate and seminal vesicles and 86 Gy (PTV86) in 39 fractions to the intraprostatic lesion, which was delineated by MRI or MR-spectroscopy.
+
+PTV dose homogeneity was better for IMRT than VMAT at all energy levels for both PTV78 and PTV86. Lower rectum doses (V30-V50) were significantly higher with SIB compared with PTV78 plans in both IMRT and VMAT plans at all energy levels. The bladder doses at high dose level (V60-V80) were significantly higher in IMRT plans with SIB at all energy levels compared with PTV78 plans, but no significant difference was observed in VMAT plans. VMAT plans resulted in a significant decrease in the mean monitor units (MUs) for 6, 10, and 15 MV energy levels both in plans with and those without SIB.
+
+Dose escalation to intraprostatic lesions with 86 Gy is safe without causing serious increase in organs at risk (OARs) doses. VMAT is advantageous in sparing OARs and requiring less MU than IMRT.
+
+VMAT with SIB to intraprostatic lesion is a feasible method in treating prostate cancer. Additionally, no dosimetric advantage of higher energy is observed.
+

@@ -1,0 +1,3 @@
+
+Two-class supervised learning in the context of a classifier ensemble may be formulated as learning an incompletely specified Boolean function, and the associated Walsh coefficients can be estimated without the knowledge of the unspecified patterns. Using an extended version of the Tumer-Ghosh model, the relationship between added classification error and second-order Walsh coefficients is established. In this brief, the ensemble is composed of multilayer perceptron base classifiers, with the number of hidden nodes and epochs systematically varied. Experiments demonstrate that the mean second-order coefficients peak at the same number of training epochs as ensemble test error reaches a minimum.
+

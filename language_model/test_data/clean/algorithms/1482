@@ -1,0 +1,7 @@
+
+To evaluate the usefulness of artificial neural networks (ANN) for differential diagnosis of bone tumours and tumour-like lesions. MATERIAL AND TECHNIQUE: Different ANN were designed to distinguish between 23 types of bone lesions and to classify these lesions as benign or malignant on the basis of 28 items of clinical and radiographic information. Training of the feed-forward networks with a back-propagation algorithm was performed using either 46 hypothetical examples or 115 real cases. The data base for testing the different ANN included 115 clinical cases (5 cases for each possible diagnosis), which were different from the examples used for training. The decision performance of the ANN was evaluated by means of ROC analysis. Results were compared to the performance of an experienced radiologist.
+
+The radiologist was significantly superior in finding the correct diagnosis (69/115 vs. 41/115; p < 0.001) and the area under his ROC curve (referring to the discrimination between benign and malignant lesions) was slightly larger than that of two different ANN (0.973 vs. 0.945 and 0.973 vs. 0.962 resp.; differences not significant).
+
+ANN may be potentially useful to distinguish between malignant and benign lesions, but their performance in differentiating between 23 diagnoses must be improved significantly.
+

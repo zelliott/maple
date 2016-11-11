@@ -1,0 +1,9 @@
+
+Estimating the required sample size and statistical power for a study is an integral part of study design. For standard designs, power equations provide an efficient solution to the problem, but they are unavailable for many complex study designs that arise in practice. For such complex study designs, computer simulation is a useful alternative for estimating study power. Although this approach is well known among statisticians, in our experience many epidemiologists and social scientists are unfamiliar with the technique. This article aims to address this knowledge gap.
+
+We review an approach to estimate study power for individual- or cluster-randomized designs using computer simulation. This flexible approach arises naturally from the model used to derive conventional power equations, but extends those methods to accommodate arbitrarily complex designs. The method is universally applicable to a broad range of designs and outcomes, and we present the material in a way that is approachable for quantitative, applied researchers. We illustrate the method using two examples (one simple, one complex) based on sanitation and nutritional interventions to improve child growth.
+
+We first show how simulation reproduces conventional power estimates for simple randomized designs over a broad range of sample scenarios to familiarize the reader with the approach. We then demonstrate how to extend the simulation approach to more complex designs. Finally, we discuss extensions to the examples in the article, and provide computer code to efficiently run the example simulations in both R and Stata.
+
+Simulation methods offer a flexible option to estimate statistical power for standard and non-traditional study designs and parameters of interest. The approach we have described is universally applicable for evaluating study designs used in epidemiologic and social science research.
+

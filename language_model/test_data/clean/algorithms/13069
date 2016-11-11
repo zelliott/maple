@@ -1,0 +1,3 @@
+
+Minimization is a type of dynamic randomization method that is recommended for use in clinical trials. However, partly due to its organizational complexity in implementation, the utilization of minimization is seldom reported. We developed a centralized random allocation system named "MagMin" using Pocock and Simon's minimization methods, which has been in use since 2006. To date, 5 clinical trials have been randomized using this system, and the other 17 clinical trials are still running on this system. An example is introduced in this paper to describe the implementation of this system. Problems and countermeasures are also discussed.
+

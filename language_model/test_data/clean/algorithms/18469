@@ -1,0 +1,3 @@
+
+In this article we use the recently developed perturbed matrix method (PMM) to investigate the effect of conformational fluctuations on the electronic properties of heme in Myoglobin. This widely studied biomolecule has been chosen as a benchmark for evaluating the accuracy of PMM in a large and complex system. Using a long, 80-ns, molecular dynamics simulation and unperturbed Configuration Interaction (CISD) calculations in PMM, we reproduced the main spectroscopic features of deoxy-Myoglobin. Moreover, in line with our previous results on a photosensitive protein, this study reveals a clear dynamical coupling between electronic properties and conformational fluctuations, suggesting that this correlation could be a general feature of proteins.
+

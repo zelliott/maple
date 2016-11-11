@@ -1,0 +1,9 @@
+
+Available alfentanil pharmacokinetic (PK) sets for target-controlled infusion (TCI) were derived from populations with normal BMI. The performance and accuracy of the models devised by Maitre and colleagues and Scott and colleagues were evaluated in a population including morbidly obese patients.
+
+Alfentanil TCI using Maitre and colleagues' model was administered to 10 obese and six non-obese women (BMI 19.5-57.4 kg m(-2)) undergoing laparoscopic surgery. The initial effect-site target concentration was 100 ng ml(-1). Alfentanil arterial plasma concentrations were sampled from TCI onset to 220 min after its termination. Stanpump(®) software calculated predicted alfentanil concentrations. Data were analysed with a non-linear mixed-effect model (NONMEM, version 7.2), including calculations of the median performance error (MDPE) and the median absolute performance error (MDAPE). Scott and colleagues' model was evaluated retrospectively.
+
+Using Maitre and colleagues' model, MDPE and MDAPE (range) for the whole population were 13.3% and 23.9%, respectively. With Scott and colleagues' model, MDPE and MDAPE were -30.7% and 50.1%, respectively. We created a three-compartment model with BMI as the covariate (CL), yielding MDPE 1.1% and MDAPE 30.6%.
+
+Maitre and colleagues' PK set underestimated the predicted concentrations in our mixed-weighted population, but its bias and accuracy were acceptable for clinical application. Scott and colleagues' model was inaccurate. The NONMEM model seemed to be more accurate during the infusion and for high concentrations, but it needs to be validated in a larger population.
+

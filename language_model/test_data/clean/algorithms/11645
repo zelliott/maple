@@ -1,0 +1,7 @@
+
+One of the major problems in DNA sequencing is assembling the fragments obtained by shotgun sequencing. Most existing fragment assembly techniques follow the overlap-layout-consensus approach. This framework requires extensive computation in each phase and becomes inefficient with increasing number of fragments.
+
+We propose a new algorithm which solves the overlap, layout, and consensus phases simultaneously. The fragments are clustered with respect to their Average Mutual Information (AMI) profiles using the k-means algorithm. This removes the unnecessary burden of considering the collection of fragments as a whole. Instead, the orientation and overlap detection are solved efficiently, within the clusters. The algorithm has successfully reconstructed both artificial and real data.
+
+Available on request from the authors.
+

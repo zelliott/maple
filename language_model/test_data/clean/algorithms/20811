@@ -1,0 +1,3 @@
+
+Hairpins are a ubiquitous secondary structure motif in RNA molecules. Despite their simple structure, there is some debate over whether they fold in a two-state or multi-state manner. We have studied the folding of a small tetraloop hairpin using a serial version of replica exchange molecular dynamics on a distributed computing environment. On the basis of these simulations, we have identified a number of intermediates that are consistent with experimental results. We also find that folding is not simply the reverse of high-temperature unfolding and suggest that this may be a general feature of biomolecular folding.
+

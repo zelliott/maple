@@ -1,0 +1,7 @@
+
+The problem of early-stage protein folding is critical for protein structure prediction. The model presented introduces a common definition of protein structures which may be treated as the possible in silico early-stage form of the polypeptide chain. Limitation of the conformational space to the ellipse path on the Ramachandran map was tested as a possible sub-space to represent the early-stage structure for simulation of protein folding. The proposed conformational sub-space was developed on the basis of the backbone conformation, with side-chain interactions excluded.
+
+The ellipse-path-limited conformation of BPTI was created using the criterion of shortest distance between Phi, Psi angles in native form of protein and the Phi, Psi angles belonging to the ellipse. No knots were observed in the structure created according to ellipse-path conformational sub-space. The energy minimization procedure applied to ellipse-path derived conformation directed structural changes toward the native form of the protein with SS-bonds system introduced to the procedure.
+
+Program 'Ellipse' to create the ellipse-path derived structure available on request: myroterm@cyf-kr.edu.pl
+

@@ -1,0 +1,7 @@
+
+The protein side-chain conformation problem is a central problem in proteomics with wide applications in protein structure prediction and design. Computational complexity results show that the problem is hard to solve. Yet, instances from realistic applications are large and demand fast and reliable algorithms.
+
+We propose a new global optimization algorithm, which for the first time integrates residue reduction and rotamer reduction techniques previously developed for the protein side-chain conformation problem. We show that the proposed approach simplifies dramatically the topology of the underlining residue graph. Computations show that our algorithm solves problems using only 1-10% of the time required by the mixed-integer linear programming approach available in the literature. In addition, on a set of hard side-chain conformation problems, our algorithm runs 2-78 times faster than SCWRL 3.0, which is widely used for solving these problems.
+
+The implementation is available as an online server at http://eudoxus.scs.uiuc.edu/r3.html
+

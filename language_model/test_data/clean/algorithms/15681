@@ -1,0 +1,3 @@
+
+In this paper we considered a theoretical evaluation of data and text compression algorithm based on the Burrows-Wheeler Transform (BWT) and General Bidirectional Associative Memory (GBAM). A new data and text lossless compression method, based on the combination of BWT1 and GBAM2 approaches, is presented. The algorithm was tested on many texts in different formats (ASCII and RTF). The compression ratio achieved is fairly good, on average 28-36%. Decompression is fast.
+

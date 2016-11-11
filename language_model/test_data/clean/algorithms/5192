@@ -1,0 +1,7 @@
+
+To investigate structure-function relationships, life sciences researchers usually retrieve and classify proteins with similar substructures into the same fold. A manually constructed database, SCOP, is believed to be highly accurate; however, it is labor intensive. Another known method, DALI, is also precise but computationally expensive. We have developed an efficient algorithm, namely, index-based protein substructure alignment (IPSA), for protein-fold classification. IPSA constructs a two-layer indexing tree to quickly retrieve similar substructures in proteins and suggests possible folds by aligning these substructures.
+
+Compared with known algorithms, such as DALI, CE, MultiProt and MAMMOTH, on a sample dataset of non-redundant proteins from SCOP v1.73, IPSA exhibits an efficiency improvement of 53.10, 16.87, 3.60 and 1.64 times speedup, respectively. Evaluated on three different datasets of non-redundant proteins from SCOP, average accuracy of IPSA is approximately equal to DALI and better than CE, MAMMOTH, MultiProt and SSM. With reliable accuracy and efficiency, this work will benefit the study of high-throughput protein structure-function relationships.
+
+IPSA is publicly accessible at http://ProteinDBS.rnet.missouri.edu/IPSA.php
+

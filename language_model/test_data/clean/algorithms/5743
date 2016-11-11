@@ -1,0 +1,9 @@
+
+Small radiation fields are increasingly applied in clinical routine. In particular, they are necessary for the treatment of eye tumors. However, available treatment planning systems do not calculate the absorbed dose with the desired accuracy in the presence of small fields. Absorbed dose estimations obtained with Monte Carlo methods have the required accuracy for clinical applications, but the exceedingly long computation times associated with them hinder their routine use. In this article, a code for automatic Monte Carlo simulation of linacs and an application in the treatment of conjunctival lymphoma are presented.
+
+Simulations of clinical linear accelerators were performed with the general-purpose radiation transport Monte Carlo code penelope. Accelerator geometry files, in electron mode, were generated with the program AutolinaC.
+
+The Monte Carlo simulation of an annular electron 6 MeV field used for the treatment of the conjunctival lymphoma yielded absorbed dose results statistically compatible with experimental measurements. In this simulation, 2% standard statistical uncertainty was reached in the same time employed by a hybrid Monte Carlo commercial code (eMC); however, eMC showed discrepancies of up to 7% on the absorbed dose with respect to experimental data. Results obtained with the analytic algorithm Pencil Beam Convolution differed from experimental data by 10% for this case.
+
+Owing to the systematic application of variance-reduction techniques, it is possible to accurately estimate the absorbed dose in patient images, using Monte Carlo methods, in times within clinical routine requirements. The program AutolinaC allows systematic use of these variance-reduction techniques within the code penelope.
+

@@ -1,0 +1,5 @@
+
+Given the thousands of genes and the small number of samples, gene selection has emerged as an important research problem in microarray data analysis. Support Vector Machine-Recursive Feature Elimination (SVM-RFE) is one of a group of recently described algorithms which represent the stat-of-the-art for gene selection. Just like SVM itself, SVM-RFE was originally designed to solve binary gene selection problems. Several groups have extended SVM-RFE to solve multiclass problems using one-versus-all techniques. However, the genes selected from one binary gene selection problem may reduce the classification performance in other binary problems.
+
+In the present study, we propose a family of four extensions to SVM-RFE (called MSVM-RFE) to solve the multiclass gene selection problem, based on different frameworks of multiclass SVMs. By simultaneously considering all classes during the gene selection stages, our proposed extensions identify genes leading to more accurate classification.
+

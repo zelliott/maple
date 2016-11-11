@@ -1,0 +1,3 @@
+
+Proschan and Hunsberger (1) propose a method based on conditional power for designed extension of a study beyond its originally intended sample size. Their data-dependent sampling method can be viewed as a two-stage procedure in which the target total sample size is dependent upon the data observed at the first stage. We demonstrate that the maximum likelihood estimate of the parameter of interest upon completion may be biased, and that this bias is similar in direction and magnitude to that commonly associated with estimation following a group sequential test with predetermined target total sample size. Furthermore, we show how a bias adjusted estimate may be formed.
+

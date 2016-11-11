@@ -1,0 +1,3 @@
+
+A challenging practical problem in medicinal chemistry is the transfer of SAR information from one chemical series to another. Currently, there are no computational methods available to rationalize or support this process. Herein, we present a data mining approach that enables the identification of alternative analog series with different core structures, corresponding substitution patterns, and comparable potency progression. Scaffolds can be exchanged between these series and new analogs suggested that incorporate preferred R-groups. The methodology can be applied to search for alternative analog series if one series is known or, alternatively, to systematically assess SAR transfer potential in compound databases.
+

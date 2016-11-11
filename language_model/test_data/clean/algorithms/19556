@@ -1,0 +1,3 @@
+
+Initial results are reported of a Polish-Finnish project to verify electron dose distributions calculated by treatment planning systems (TPSs), CadPlan v.6.3.2 and Theraplan v.3.5, which use different electron beam dose distribution algorithms. Treatment of gross tumour volumes representing lung and parotid cancer was simulated in an Alderson anthropomorphic phantom with thermoluminescent detectors (TLDs) (Li(2)B(4)O(7):Mn,Si) placed at selected measurement points inside its volume. The observed discrepancy between relative values of dose calculated and measured by TLDs at each of the measurement points and those calculated by the different TPSs at the same points is discussed.
+

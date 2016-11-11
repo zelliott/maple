@@ -1,0 +1,3 @@
+
+A simple, fast and efficient noise-reduction protocol for three-dimensional electron tomographic reconstructions of biological material is presented. The approach is based on iterative application of median filtering and shows promise for automatic noise reduction as a pre-processor for automated data analysis tools which aim at segmentation, feature extraction and pattern recognition. The application of this algorithm produces encouraging results for a wide variety of experimental and synthetic electron tomographic reconstructions.
+

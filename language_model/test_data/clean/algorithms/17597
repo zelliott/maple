@@ -1,0 +1,3 @@
+
+As a result of the time- and context-dependency of gene expression, gene regulatory and signaling pathways undergo dynamic changes during development. Creating a model of the dynamics of molecular interaction networks offers enormous potential for understanding how a genome orchestrates the developmental processes of an organism. The dynamic nature of pathway topology calls for new modeling strategies that can capture transient molecular links at the runtime. The aim of this paper is to present a brief and informative, but not all-inclusive, viewpoint on the computational aspects of modeling and simulation of a non-static molecular network.
+

@@ -1,0 +1,9 @@
+
+The maximum fluxes (J(M)) of nicotinic acid esters (NAE) across silicone membranes from water (J(MPAQ)) have been measured to determine how well they correlate with J(M) of NAE across human skin from water in vitro (J(MHAQ)) and in vivo (J(MHAQ1)) and with J(M) of NAE across hairless mouse skin from water (J(MMAQ)).
+
+The NAE were all commercially available. Solubilities in water (S(AQ)), isopropyl myristate (S(IPM)) and octanol (S(OCT)) were obtained from literature sources. J(MPAQ) were measured at saturation for all the esters except the methyl ester. In that case, flux was measured at a concentration (C) less than saturation (J(PAQ)) and converted to J(MPAQ) = (J(PAQ))(S(AQ)/C(AQ)).
+
+J(MPAQ) values predicted from the previously reported coefficients to the parameters in the Roberts-Sloan (RS) equation (PRE J(MPAQ)) were substantially lower than the experimental J(MPAQ) values (EXP J(MPAQ)) values obtained here. The EXP J(MPAQ) were incorporated into the previous J(MPAQ) database and new coefficients were obtained: x = -1.837; y = 0.742; z = 0.00435; r² = 0.86. Correlation of J(MPAQ) values with J(MHAQ), J(MHAQ1), and J(MMAQ) values show the same trend as the J(MPAQ) values.
+
+The inclusion of the NAE n = 6 data into the previous n = 32 database for the permeation of the prodrugs through a silicone membrane from water (J(MPAQ)) greatly improved the fit of the n = 38 database to the RS equation: r² = 0.86 vs r² = 0.77. The correlation between log J(MHAQ) and log J(MPAQ) gave r² = 0.98. This suggests that J(MPAQ) values are good predictors of J(MHAQ) values.
+

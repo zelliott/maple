@@ -1,0 +1,3 @@
+
+To acquire images of dynamic scenes from multiple points of view simultaneously, the acquisition time of vision sensors should be synchronized. This paper describes an illumination-based synchronization method derived from the phase-locked loop (PLL) algorithm. Incident light to a vision sensor from an intensity-modulated illumination source serves as the reference signal for synchronization. Analog and digital computation within the vision sensor forms a PLL to regulate the output signal, which corresponds to the vision frame timing, to be synchronized with the reference. Simulated and experimental results show that a 1,000 Hz frame rate vision sensor was successfully synchronized with 32 μs jitters.
+

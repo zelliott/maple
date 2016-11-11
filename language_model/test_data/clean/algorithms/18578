@@ -1,0 +1,3 @@
+
+A novel method based on continuous wavelet transform (CWT) for predicting the number and location of helices in membrane proteins is presented. Two bacteria proteins are chosen as examples to describe the prediction of transmembrane helices (HTM) by using this method. Selections of an appropriate dilation and hydrophobicity data types are discussed in the text. The results indicate that CWT is a promising approach for the prediction of HTM.
+

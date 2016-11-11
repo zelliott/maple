@@ -1,0 +1,7 @@
+
+The incorporation of biological knowledge can enhance the analysis of biomedical data. We present a novel method that uses a proteomic knowledge base to enhance the performance of a rule-learning algorithm in identifying putative biomarkers of disease from high-dimensional proteomic mass spectral data. In particular, we use the Empirical Proteomics Ontology Knowledge Base (EPO-KB) that contains previously identified and validated proteomic biomarkers to select m/zs in a proteomic dataset prior to analysis to increase performance.
+
+We show that using EPO-KB as a pre-processing method, specifically selecting all biomarkers found only in the biofluid of the proteomic dataset, reduces the dimensionality by 95% and provides a statistically significantly greater increase in performance over no variable selection and random variable selection.
+
+Knowledge-based variable selection even with a sparsely-populated resource such as the EPO-KB increases overall performance of rule-learning for disease classification from high-dimensional proteomic mass spectra.
+

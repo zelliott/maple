@@ -1,0 +1,3 @@
+
+Fluorescence microscopy allows real-time monitoring of optical molecular probes for disease characterization, drug development, and tissue regeneration. However, when a biological sample is thicker than 1 mm, intense scattering of light would significantly degrade the spatial resolution of fluorescence microscopy. In this paper, we develop a fluorescence microtomography technique that utilizes the Monte Carlo method to image fluorescence reporters in thick biological samples. This approach is based on an l(0)-regularized tomography model and provides an excellent solution. Our studies on biomimetic tissue scaffolds have demonstrated that the proposed approach is capable of localizing and quantifying the distribution of optical molecular probe accurately and reliably.
+

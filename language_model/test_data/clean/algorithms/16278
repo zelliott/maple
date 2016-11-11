@@ -1,0 +1,9 @@
+
+In vivo dose verification is used to prevent major deviations between the prescribed dose and the dose really delivered to the patient. This work presents a quick and simple alternative method for verification of dose delivered to the patient using photon beams. During the treatment session, a transit dose is measured with the EPID and the dose in the patient is estimated from back projection of the portal dose.
+
+The formalism for dose calculation is described. It is independent of the detector and has been validated for different beam energies using an ionization chamber (IC). Central axis doses estimated by this formalism were compared with measured dose. Subsequently, the IC was replaced by the EPID appropriately calibrated. The feasibility of the method and its applicability in clinical use has been evaluated on 3 8 patients treated with conformal therapy for various localizations.
+
+Ratios between stated and measured doses are reported. They are within the accepted tolerance of classical in vivo dosimetry (SD of 3.5%).
+
+The proposed method for in vivo dose verification is very simple to implement and to use in clinics. Measurements can be repeated during several sessions giving the opportunity to built new strategies for the validation by statistical evaluation of the data. The trending of in vivo dose along the treatment becomes also possible. The number of checkable beams is also increased by this method.
+

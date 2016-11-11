@@ -1,0 +1,3 @@
+
+We present an enhanced feature extraction algorithm which combines block and adaptive processing to identify motion command for the control of a prosthetic arm. The algorithm is capable of precise and stable feature extraction. A sample application with the block processing stationary model parameters is provided to evaluate the feasibility of the adaptive cepstrum vector extracted by the proposed algorithm for electromyographic (EMG) pattern classification.
+

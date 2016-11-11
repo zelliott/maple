@@ -1,0 +1,9 @@
+
+To generate on-board digital tomosynthesis (DTS) and reference DTS images for three-dimensional image-guided radiation therapy (IGRT) as an alternative to conventional portal imaging or on-board cone-beam computed tomography (CBCT).
+
+Three clinical cases (prostate, head-and-neck, and liver) were selected to illustrate the capabilities of on-board DTS for IGRT. Corresponding reference DTS images were reconstructed from digitally reconstructed radiographs computed from planning CT image sets. The effect of scan angle on DTS slice thickness was examined by computing the mutual information between coincident CBCT and DTS images, as the DTS scan angle was varied from 0 degrees to 165 degrees . A breath-hold DTS acquisition strategy was implemented to remove respiratory motion artifacts.
+
+Digital tomosynthesis slices appeared similar to coincident CBCT planes and yielded substantially more anatomic information than either kilovoltage or megavoltage radiographs. Breath-hold DTS acquisition improved soft-tissue visibility by suppressing respiratory motion.
+
+Improved bony and soft-tissue visibility in DTS images is likely to improve target localization compared with radiographic verification techniques and might allow for daily localization of a soft-tissue target. Breath-hold DTS is a potential alternative to on-board CBCT for sites prone to respiratory motion.
+

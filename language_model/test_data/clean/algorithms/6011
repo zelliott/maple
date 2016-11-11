@@ -1,0 +1,3 @@
+
+An evolutionary algorithm was used to determine the optimal combination of parameters for transconjugant formation. As a model system, a gfp tagged TOL plasmid pWW0 was chosen to examine transfer from Pseudomonas putida to Escherichia coli. A comparison of flow cytometry results with plating and microscopy showed that the majority of transconjugants were not culturable. The transconjugant ratio therefore was determined by flow cytometry. The evolutionary algorithm showed that the optimal conditions were obtained at 28 degrees C and at the highest nutrient concentrations. This work demonstrates that evolutionary algorithms can be used to find optimal parameter interactions in environmental microbiology.
+

@@ -1,0 +1,7 @@
+
+Appropriate clinical decisions concerning diagnosis and treatment of coronary artery disease rely on correct integration of data on coronary anatomy and myocardial perfusion. The purpose of this article is to introduce a new left ventricular segmentation model for improved alignment of coronary arterial segments and myocardial perfusion territories, designed for the CORE320 study.
+
+CORE320 is a prospective, multicenter study with a primary objective to evaluate the diagnostic accuracy of 320-row detector computed tomography (CT) to detect coronary artery luminal stenosis and corresponding myocardial perfusion deficits in patients with suspected coronary artery disease compared with the gold standard of conventional coronary angiography and single-photon emission CT myocardial perfusion imaging. We describe a 19-coronary segment and 13-myocardial territory alignment model, its application in both standard and CT image data sets, and the adjudication process of the initial cohort of patients recruited for the CORE320 study. Adjudication committees reviewed the images of the first 101 gold standard and 107 CT data sets. On the basis of the presented model and rules, all cases for adjudication were correctly identified. During image review, 6 (5.9%) gold standard and 9 (8.4%) CT data sets needed further realignment not triggered by the algorithm.
+
+We present a vascular territory distribution model developed for the CORE320 multicenter study, which accounts for variability in coronary anatomy and potential myocardial perfusion territory overlap.
+

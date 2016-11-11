@@ -1,0 +1,9 @@
+
+To create a ray-traced, three-dimensional display system for Cirrus high-definition optical coherence tomography (Carl Zeiss Meditec, Inc., Dublin, CA) that improves the visualization of subtle structures of the vitreoretinal interface.
+
+High-definition optical coherence tomography (HD-OCT) data for epiretinal membranes (17 eyes), macular holes (11 eyes), and posterior vitreal detachments (17 eyes) were collected. A display system that visualizes the acquired data using ray-tracing algorithms was designed and compared with the Cirrus HD-OCT 2.0 advanced visualization software system. The area around the vitreoretinal interface was visualized using a 100-microm-thick internal limiting membrane (ILM) fitted slab as well as ILM and retinal pigment epithelium surface reconstructions.
+
+Subtle structures could be visualized more distinctly using the ray-traced, three-dimensional rendering software.
+
+A ray-traced visualization system improves the visualization of subtle structures in and around the vitreoretinal interface.
+

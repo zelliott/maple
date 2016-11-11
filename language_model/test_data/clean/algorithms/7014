@@ -1,0 +1,3 @@
+
+Sinc interpolation is a useful method for improving digital waveforms measured by A/D converters. This algorithm reconstructs the intermediate points between sampled data. I describe here a fast method for computing the sinc interpolation by the use of the Hilbert transform.
+

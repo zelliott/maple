@@ -1,0 +1,7 @@
+
+CGHcall achieves high calling accuracy for array CGH data by effective use of breakpoint information from segmentation and by inclusion of several biological concepts that are ignored by existing algorithms. The algorithm is validated for simulated and verified real array CGH data. By incorporating more than three classes, CGHcall improves detection of single copy gains and amplifications. Moreover, it allows effective inclusion of chromosome arm information.
+
+An R-package (GUI), a manual and an example data set are available at http://www.few.vu.nl/~mavdwiel/CGHcall.html.
+
+Supplementary data are available at Bioinformatics online.
+

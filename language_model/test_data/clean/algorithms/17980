@@ -1,0 +1,3 @@
+
+Reconstruction of the central surface representation of the cerebral cortex is an important means to study the structure and function of the human brain. In this paper, we propose a novel method based on an elastic transform vector field to drive a deformable model for the reconstruction of the central cortical surface. Both simulated brain cortexes and real brain images are used to evaluate this approach. We applied the surface reconstruction method and a hybrid volumetric and surface registration algorithm to detect simulated brain atrophy. Experimental results show that the central cortical surface representation has better performance in detecting simulated atrophy than the traditionally used inner or outer cortical surface representations.
+

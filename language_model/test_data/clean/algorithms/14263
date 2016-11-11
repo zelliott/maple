@@ -1,0 +1,3 @@
+
+We describe a photoacoustic image reconstruction algorithm that is based on the finite-element solution to the photoacoustic wave equation in the frequency domain. Our reconstruction approach is an iterative Newton method coupled with combined Marquardt and Tikhonov regularizations that can extract the spatial distribution of optical-absorption property in heterogeneous media. We demonstrate this algorithm by using phantom and chicken bone measurements from a circular scanning photoacoustic tomography system. The results obtained show that millimeter-sized phantom objects and chicken bones and/or joints can be clearly detected using our finite-element-based photoacoustic tomography method.
+

@@ -1,0 +1,9 @@
+
+Telestration is an important teaching tool in minimally invasive surgery (MIS). While robotic surgery offers the added benefit of three-dimensional (3-D) visualization, telestration technology does not currently exist for this modality. This project aimed to develop a video algorithm to accurately translate a mentor's two-dimensional (2-D) telestration into a 3-D telestration in the da Vinci visual field.
+
+A prototype 3-D telestration system was constructed to translate 2-D telestration from a mentor station into 3-D graphics for the trainee at the robotic console. This system uses fast image correlation algorithms to allow 2-D images to be placed over the same anatomic location in the two separate video channels of the stereoscopic robotic visualization system. Three subjects of varying surgical backgrounds, blinded to the mode of telestration (2-D vs. 3-D), were tested in the laboratory, using a simulated robotic task.
+
+There were few technologic errors (2), only one of which resulted in a task error, in 99 total trials. Only the experienced MIS staff surgeon had a significantly faster task time in 2-D than in 3-D (P < 0.05). The MIS fellow recorded the fastest task times in 2-D and 3-D (P < 0.05). There were nine task errors, six of which were committed by the MIS fellow. The nonsurgeon trainee had the least number of errors but also had the slowest times.
+
+Robotic telestration in 3-D is feasible and does not negatively impact performance in laboratory tasks. We plan to refine the prototype and investigate its use in vivo.
+

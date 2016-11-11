@@ -1,0 +1,9 @@
+
+To develop and test a new algorithm for fast direct Fourier transform (DrFT) reconstruction of MR data on non-Cartesian trajectories composed of lines with equally spaced points.
+
+The DrFT, which is normally used as a reference in evaluating the accuracy of other reconstruction methods, can reconstruct images directly from non-Cartesian MR data without interpolation. However, DrFT reconstruction involves substantially intensive computation, which makes the DrFT impractical for clinical routine applications. In this article, the Chirp transform algorithm was introduced to accelerate the DrFT reconstruction of radial and Periodically Rotated Overlapping ParallEL Lines with Enhanced Reconstruction (PROPELLER) MRI data located on the trajectories that are composed of lines with equally spaced points. The performance of the proposed Chirp transform algorithm-DrFT algorithm was evaluated by using simulation and in vivo MRI data.
+
+After implementing the algorithm on a graphics processing unit, the proposed Chirp transform algorithm-DrFT algorithm achieved an acceleration of approximately one order of magnitude, and the speed-up factor was further increased to approximately three orders of magnitude compared with the traditional single-thread DrFT reconstruction.
+
+Implementation the Chirp transform algorithm-DrFT algorithm on the graphics processing unit can efficiently calculate the DrFT reconstruction of the radial and PROPELLER MRI data.
+

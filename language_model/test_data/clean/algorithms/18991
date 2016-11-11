@@ -1,0 +1,3 @@
+
+In this letter, by design of Complex Morlet Wavelet and Complex Frequency B-Spline Wavelet and linearly combining them, a novel approach, Hybrid Complex Wavelet, has been proposed to identify and detect the components of ECG signal such as QRS complex and R peak. By train and test of implementing the proposed method on both clinically recorded signals from 40 patients and 30 signals of MIT BIH database, we reached better recognition accuracy in comparison to other well-known approaches.
+

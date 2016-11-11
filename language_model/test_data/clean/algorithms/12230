@@ -1,0 +1,3 @@
+
+A new learning algorithm for the hierarchical structure learning automata (HSLA) operating in the nonstationary multiteacher environment (NME) is proposed. The proposed algorithm is derived by extending the original relative reward-strength algorithm to be utilized in the HSLA operating in the general NME. It is shown that the proposed algorithm ensures convergence with probability 1 to the optimal path under a certain type of the NME. Several computer-simulation results, which have been carried out in order to compare the relative performance of the proposed algorithm in some NMEs against those of the two of the fastest algorithms today, confirm the effectiveness of the proposed algorithm.
+

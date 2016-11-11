@@ -1,0 +1,3 @@
+
+Recently, the multivariate complex normal distribution has been used to develop a maximum-likelihood probability function for single-wavelength anomalous diffraction phasing and refinement of heavy-atom parameters [Pannu & Read (2004), Acta Cryst. D60, 22-27]. The function accounts explicitly for the correlations between the observed and calculated Friedel mates and their errors. However, the method of derivation of the equation described by Pannu & Read (2004) leads to a complicated likelihood expression that suffers from a number of algorithmic limitations. Here, an alternative derivation of the P(SAD) function is described that leads to simplified algorithmic requirements and that allows an intuitive understanding of the expression.
+

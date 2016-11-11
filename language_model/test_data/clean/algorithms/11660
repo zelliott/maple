@@ -1,0 +1,5 @@
+
+MAVG is a software tool for finding k non-overlapping maximum-average segments that are sufficiently long in a given sequence of real numbers, for any k > 0. It has applications in several areas of biomolecular sequence analysis including locating GC-rich regions and CpG islands in a genomic sequence, and annotating multiple sequence alignments.
+
+http://iubio.bio.indiana.edu/soft/molbio/pattern/cpg_islands/.
+

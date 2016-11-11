@@ -1,0 +1,3 @@
+
+We propose an HMM model for contour detection based on multiple visual cues in spatial domain and improve it by joint probabilistic matching to reduce background clutter. It is further integrated with unscented Kalman filter to exploit object dynamics in nonlinear systems for robust contour tracking.
+

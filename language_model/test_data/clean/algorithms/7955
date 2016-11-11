@@ -1,0 +1,3 @@
+
+A novel fast double-phase retrieval algorithm for lensless optical security systems based on the Fresnel domain is presented in this paper. Two phase-only masks are efficiently determined by using a modified Gerchberg-Saxton algorithm, in which two cascaded Fresnel transforms are replaced by one Fourier transform with compensations to reduce the consumed computations. Simulation results show that the proposed algorithm substantially speeds up the iterative process, while keeping the reconstructed image highly correlated with the original one.
+

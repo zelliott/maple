@@ -1,0 +1,3 @@
+
+A practical D-bar algorithm for reconstructing conductivity changes from EIT data taken on electrodes in a 2D geometry is described. The algorithm is based on the global uniqueness proof of Nachman (1996 Ann. Math. 143 71-96) for the 2D inverse conductivity problem. Results are shown for reconstructions from data collected on electrodes placed around the circumference of a human chest to reconstruct a 2D cross-section of the torso. The images show changes in conductivity during a cardiac cycle.
+

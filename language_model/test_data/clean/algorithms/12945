@@ -1,0 +1,3 @@
+
+For the first time, we demonstrate the application of the time domain transmission line method (TLM) to accurate modeling of surface plasmon polariton (SPP) structures. The constructed TLM node allows for modeling of dispersive materials through simple time-difference equations. Using such node, an ultra-wide band excitation can be applied to obtain the response over the band of interest. Bérenger's perfectly matched layer (PML) boundary condition can readily be implemented using the same node. We illustrate our TLM approach through the modeling of different challenging structures including SPPs filters and focusing structures.
+

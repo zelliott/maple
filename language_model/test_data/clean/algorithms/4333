@@ -1,0 +1,9 @@
+
+Automated measurements of electrocardiographic (ECG) intervals are widely used by clinicians for individual patient diagnosis and by investigators in population studies. We examined whether clinically significant systematic differences exist in ECG intervals measured by current generation digital electrocardiographs from different manufacturers and whether differences, if present, are dependent on the degree of abnormality of the selected ECGs.
+
+Measurements of RR interval, PR interval, QRS duration, and QT interval were made blindly by 4 major manufacturers of digital electrocardiographs used in the United States from 600 XML files of ECG tracings stored in the US FDA ECG warehouse and released for the purpose of this study by the Cardiac Safety Research Consortium. Included were 3 groups based on expected QT interval and degree of repolarization abnormality, comprising 200 ECGs each from (1) placebo or baseline study period in normal subjects during thorough QT studies, (2) peak moxifloxacin effect in otherwise normal subjects during thorough QT studies, and (3) patients with genotyped variants of congenital long QT syndrome (LQTS).
+
+Differences of means between manufacturers were generally small in the normal and moxifloxacin subjects, but in the LQTS patients, differences of means ranged from 2.0 to 14.0 ms for QRS duration and from 0.8 to 18.1 ms for the QT interval. Mean absolute differences between algorithms were similar for QRS duration and QT intervals in the normal and in the moxifloxacin subjects (mean ≤6 ms) but were significantly larger in patients with LQTS.
+
+Small but statistically significant group differences in mean interval and duration measurements and means of individual absolute differences exist among automated algorithms of widely used, current generation digital electrocardiographs. Measurement differences, including QRS duration and the QT interval, are greatest for the most abnormal ECGs.
+

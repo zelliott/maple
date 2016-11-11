@@ -1,0 +1,3 @@
+
+A novel power-line interference (PLI) detection and suppression algorithm is presented to preprocess the electrocardiogram (ECG) signals. A distinct feature of this proposed algorithm is its ability to detect the presence of PLI in the ECG signal before applying the PLI suppression algorithm. No PLI suppression operation will be performed if PLI is not detected. We propose a PLI detector that employs an optimal linear discriminant analysis (LDA) algorithm to make a decision for the PLI presence. An efficient recursive least-squares (RLS) adaptive notch filter is also developed to serve the purpose of PLI suppression. Experimental results demonstrate superior performance of this proposed algorithm.
+

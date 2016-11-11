@@ -1,0 +1,3 @@
+
+Finding an accurate approximation of a discriminating function in order to evaluate its extrema is a common problem in the field of machine learning. A new type of neural network, the Quantron, generates a complicated wave function whose global maximum value is crucial for classifying patterns. To obtain an analytical approximation of this maximum, we present a multiscale scheme based on compactly supported inverted parabolas. Motivated by the Quantron's architecture as well as Laplace's method, this scheme stems from the multiresolution analysis (MRA) developed in the theory of wavelets. This approximation method will be performed, first, one scale at a time and, second, as a global approach. Convergence will be proved and results analyzed.
+

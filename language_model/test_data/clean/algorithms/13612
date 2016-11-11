@@ -1,0 +1,3 @@
+
+Semi-supervised learning has attracted a great deal of attention in machine learning and data mining. In this paper, we have proposed a novel Laplacian Twin Support Vector Machine (called Lap-TSVM) for the semi-supervised classification problem, which can exploit the geometry information of the marginal distribution embedded in unlabeled data to construct a more reasonable classifier and be a useful extension of TSVM. Furthermore, by choosing appropriate parameters, Lap-TSVM degenerates to either TSVM or TBSVM. All experiments on synthetic and real data sets show that the Lap-TSVM's classifier combined by two nonparallel hyperplanes is superior to Lap-SVM and TSVM in both classification accuracy and computation time.
+

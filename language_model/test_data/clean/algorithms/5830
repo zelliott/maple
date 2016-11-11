@@ -1,0 +1,9 @@
+
+Steady-State Visual Evoked Potential (SSVEP) is a visual cortical response evoked by repetitive stimuli with a light source flickering at frequencies above 4 Hz and could be classified into three ranges: low (up to 12 Hz), medium (12-30) and high frequency (> 30 Hz). SSVEP-based Brain-Computer Interfaces (BCI) are principally focused on the low and medium range of frequencies whereas there are only a few projects in the high-frequency range. However, they only evaluate the performance of different methods to extract SSVEP.
+
+This research proposed a high-frequency SSVEP-based asynchronous BCI in order to control the navigation of a mobile object on the screen through a scenario and to reach its final destination. This could help impaired people to navigate a robotic wheelchair. There were three different scenarios with different difficulty levels (easy, medium and difficult). The signal processing method is based on Fourier transform and three EEG measurement channels.
+
+The research obtained accuracies ranging in classification from 65% to 100% with Information Transfer Rate varying from 9.4 to 45 bits/min.
+
+Our proposed method allows all subjects participating in the study to control the mobile object and to reach a final target without prior training.
+

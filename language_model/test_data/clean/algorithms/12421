@@ -1,0 +1,9 @@
+
+Ideally, only proteins that exhibit highly similar domain architectures should be compared with one another as homologues or be classified into a single family. By combining three different indices, the Jaccard index, the Goodman-Kruskal gamma function and the domain duplicate index, into a single similarity measure, we propose a method for comparing proteins based on their domain architectures.
+
+Evaluation of the method using the eukaryotic orthologous groups of proteins (KOGs) database indicated that it allows the automatic and efficient comparison of multiple-domain proteins, which are usually refractory to classic approaches based on sequence similarity measures. As a case study, the PDZ and LRR_1 domains are used to demonstrate how proteins containing promiscuous domains can be clearly compared using our method. For the convenience of users, a web server was set up where three different query interfaces were implemented to compare different domain architectures or proteins with domain(s), and to identify the relationships among domain architectures within a given KOG from the Clusters of Orthologous Groups of Proteins database.
+
+The approach we propose is suitable for estimating the similarity of domain architectures of proteins, especially those of multidomain proteins.
+
+http://cmb.bnu.edu.cn/pdart/.
+

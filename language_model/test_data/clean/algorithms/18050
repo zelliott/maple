@@ -1,0 +1,7 @@
+
+Modern omics research involves the application of high-throughput technologies that generate vast volumes of data. These data need to be pre-processed, analyzed and integrated with existing knowledge through the use of diverse sets of software tools, models and databases. The analyses are often interdependent and chained together to form complex workflows or pipelines. Given the volume of the data used and the multitude of computational resources available, specialized pipeline software is required to make high-throughput analysis of large-scale omics datasets feasible.
+
+We have developed a generic pipeline system called Cyrille2. The system is modular in design and consists of three functionally distinct parts: 1) a web based, graphical user interface (GUI) that enables a pipeline operator to manage the system; 2) the Scheduler, which forms the functional core of the system and which tracks what data enters the system and determines what jobs must be scheduled for execution, and; 3) the Executor, which searches for scheduled jobs and executes these on a compute cluster.
+
+The Cyrille2 system is an extensible, modular system, implementing the stated requirements. Cyrille2 enables easy creation and execution of high throughput, flexible bioinformatics pipelines.
+

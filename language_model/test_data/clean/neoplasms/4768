@@ -1,0 +1,9 @@
+
+Life expectancy is strongly related to national income, whether there is an additional contribution of income inequality is unclear.
+
+We used negative binomial regression to examine the association of neighborhood-level Gini, adjusted for age, sex, and income, with mortality rates in Hong Kong from 1976 to 2006.
+
+The association of neighborhood Gini with all-cause mortality varied over time (p-value for interaction &lt; .01). Neighborhood Gini was positively associated with nonmedical mortality in 1976 to 1986; incident rate ratio (IRR) 1.09, 95% confidence interval (95% CI) 1.02-1.16 per 0.1 change and in 1991 to 2006, IRR 1.24, 95% CI 1.13-1.36, adjusted for age, sex and absolute income. Similarly adjusted, Gini was not associated with all-cause mortality in 1976 to 1986 (IRR 0.96, 95% CI 0.93-1.00) but was in 1991 to 2006 (IRR 1.25, 95% CI 1.20-1.29), when Gini was also positively associated with death from cardiovascular diseases, respiratory diseases and some cancers.
+
+Independent of income, income inequality was positively associated with nonmedical mortality rates at a low level of spatial aggregation, indicating the consistent harms of social disharmony. However, the impact on medical mortality was less consistent, suggesting the relevance of contextual factors.
+

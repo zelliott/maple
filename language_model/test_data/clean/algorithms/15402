@@ -1,0 +1,9 @@
+
+Motif discovery is the problem of finding recurring patterns in biological data. Patterns can be sequential, mainly when discovered in DNA sequences. They can also be structural (e.g. when discovering RNA motifs). Finding common structural patterns helps to gain a better understanding of the mechanism of action (e.g. post-transcriptional regulation). Unlike DNA motifs, which are sequentially conserved, RNA motifs exhibit conservation in structure, which may be common even if the sequences are different. Over the past few years, hundreds of algorithms have been developed to solve the sequential motif discovery problem, while less work has been done for the structural case.
+
+In this paper, we survey, classify, and compare different algorithms that solve the structural motif discovery problem, where the underlying sequences may be different. We highlight their strengths and weaknesses. We start by proposing a benchmark dataset and a measurement tool that can be used to evaluate different motif discovery approaches. Then, we proceed by proposing our experimental setup. Finally, results are obtained using the proposed benchmark to compare available tools. To the best of our knowledge, this is the first attempt to compare tools solely designed for structural motif discovery.
+
+Results show that the accuracy of discovered motifs is relatively low. The results also suggest a complementary behavior among tools where some tools perform well on simple structures, while other tools are better for complex structures.
+
+We have classified and evaluated the performance of available structural motif discovery tools. In addition, we have proposed a benchmark dataset with tools that can be used to evaluate newly developed tools.
+

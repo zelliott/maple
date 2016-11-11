@@ -1,0 +1,9 @@
+
+While there are published equations for calculating the hybrid (macro) rates constants (lambda1 and lambda2) of a two-compartment mamillary pharmacokinetic model from its micro-rate constants (e.g., k12, k21 etc.), there appears to be no report of an analogous method for a three-compartment model. The hybrid rate constants are the exponents of the multi-exponential equation describing the time-course of the predicted blood concentrations.
+
+Using the method of Wagner, the differential equations of a three-compartment model were solved by transformation into the Laplace domain then matrix manipulation. The inversion of the result back into the time domain requires finding the roots of a cubic polynomial. The equations of a convenient method for doing so are reported. This "analytical" method for finding the hybrid rate constants was compared with an alternative "simulation and fitting" method. For this, a model with known micro-rate constants was used to predict a time-course of blood concentrations for a bolus dose, which was then fitted to a tri-exponential equation to find the hybrid rate constants.
+
+The hybrid rate constants for the two methods were identical to at least four significant figures, confirming the validity of the analytical equations.
+
+The equations presented here fill a gap in the pharmacokinetic literature, which may be useful in some applications considering the widespread use of the three-compartment mamillary pharmacokinetic model.
+

@@ -1,0 +1,3 @@
+
+This paper provides a methodology for the optimal choice of a subset from a large number of interrelated diagnostic variables. We use predetermined abnormal ranges for each measurement and code subjects as abnormal or normal on this basis. We present a procedure to determine the smallest subset of measurements that identifies any subject abnormal on at least one measurement. We formulate and solve the problem using integer programming. We then apply this methodology to study the use of M-mode echocardiography to determine potentially cardiotoxic side effects of chemotherapy and compare its performance to several multivariate methods. Extensions and modifications are discussed.
+

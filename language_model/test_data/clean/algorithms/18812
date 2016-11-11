@@ -1,0 +1,5 @@
+
+We describe an algorithm for global alignment of multiple protein-protein interaction (PPI) networks, the goal being to maximize the overall match across the input networks. The intuition behind our algorithm is that a protein in one PPI network is a good match for a protein in another network if the former's neighbors are good matches for the latter's neighbors. We encode this intuition by constructing an eigenvalue problem for every pair of input networks and then using k-partite matching to extract the final global alignment across all the species. We compute the first known global alignment of PPI networks from five species: yeast, fly, worm, mouse and human. The global alignment immediately suggests functional orthologs across these species; we believe these are the first set of functional orthologs that cover all the five species. We show that these functional orthologs compare favorably with current sequence-only orthology prediction approaches, including better prediction of orthologs for some human disease-related proteins.
+
+http://groups.csail.mit.edu/cb/mna.
+

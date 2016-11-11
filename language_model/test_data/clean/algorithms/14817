@@ -1,0 +1,9 @@
+
+In radiotherapy treatment, the calculation of radiation dose distribution in target volume lead to an optimum set of planning parameters. This worked has been aimed to compare two photon beam dose calculation algorithms in the Oncentra Treatment Planning system for Varian Linear Accelerator, to assure the quality of treatment planning.
+
+Monitor Units to be delivered on normalization depth in patient has been calculated using the pencil beam and collapsed cone algorithms for two photon energies 6 and 10 MV. The percentage depth dose and beam profiles for 21 treatment fields, for both the calculation systems have been compared for both photon energies.
+
+The percentage depth doses and beam profiles for both calculation systems are comparable in large field sizes as well as central axis field settings. The doses normalization depth deviate for some field settings, but in central axis large field sizes the difference within tolerance limits.
+
+Both calculation algorithms are in close agreement in most of the field settings (mainly in central axis fields), within tolerance level. The difference is relatively greater in small field sizes and off-axis field settings.
+

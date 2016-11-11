@@ -1,0 +1,9 @@
+
+Combinatorial histone modification is an important epigenetic mechanism for regulating chromatin state and gene expression. Given the rapid accumulation of genome-wide histone modification maps, there is a pressing need for computational methods capable of joint analysis of multiple maps to reveal combinatorial modification patterns.
+
+We present the Semi-Supervised Coherent and Shifted Bicluster Identification algorithm (SS-CoSBI). It uses prior knowledge of combinatorial histone modifications to guide the biclustering process. Specifically, co-occurrence frequencies of histone modifications characterized by mass spectrometry are used as probabilistic priors to adjust the similarity measure in the biclustering process. Using a high-quality set of transcriptional enhancers and associated histone marks, we demonstrate that SS-CoSBI outperforms its predecessor by finding histone modification and genomic locus biclusters with higher enrichment of enhancers. We apply SS-CoSBI to identify multiple cell-type-specific combinatorial histone modification states associated with human enhancers. We show enhancer histone modification states are correlated with the expression of nearby genes. Further, we find that enhancers with the histone mark H3K4me1 have higher levels of DNA methylation and decreased expression of nearby genes, suggesting a functional interplay between H3K4me1 and DNA methylation that can modulate enhancer activities.
+
+The analysis presented here provides a systematic characterization of combinatorial histone codes of enhancers across three human cell types using a novel semi-supervised biclustering algorithm. As epigenomic maps accumulate, SS-CoSBI will become increasingly useful for understanding combinatorial chromatin modifications by taking advantage of existing knowledge.
+
+SS-CoSBI is implemented in C. The source code is freely available at http://www.healthcare.uiowa.edu/labs/tan/SS-CoSBI.gz.
+

@@ -1,0 +1,9 @@
+
+Recent experiments have shown that electrocorticography (ECoG) can provide robust control signals for a brain-computer interface (BCI). Strategies that attempt to adapt a BCI control algorithm by learning from past trials often assume that the subject is attending to each training trial. Likewise, automatic disabling of movement control would be desirable during resting periods when random brain fluctuations might cause unintended movements of a device. To this end, our goal was to identify ECoG differences that arise between periods of active BCI use and rest.
+
+We examined spectral differences in multi-channel, epidural micro-ECoG signals recorded from non-human primates when rest periods were interleaved between blocks of an active BCI control task.
+
+Post-hoc analyses demonstrated that these states can be decoded accurately on both a trial-by-trial and real-time basis, and this discriminability remains robust over a period of weeks. In addition, high gamma frequencies showed greater modulation with desired movement direction, while lower frequency components demonstrated greater amplitude differences between task and rest periods, suggesting possible specialized BCI roles for these frequencies.
+
+The results presented here provide valuable insight into the neurophysiology of BCI control as well as important considerations toward the design of an asynchronous BCI system.
+

@@ -1,0 +1,9 @@
+
+The aims of this study were to develop and validate an automated method to segment the renal cortex on contrast-enhanced abdominal computed tomographic images from kidney donors and to track cortex volume change after donation.
+
+A three-dimensional fully automated renal cortex segmentation method was developed and validated on 37 arterial phase computed tomographic data sets (27 patients, 10 of whom underwent two computed tomographic scans before and after nephrectomy) using leave-one-out strategy. Two expert interpreters manually segmented the cortex slice by slice, and linear regression analysis and Bland-Altman plots were used to compare automated and manual segmentation. The true-positive and false-positive volume fractions were also calculated to evaluate the accuracy of the proposed method. Cortex volume changes in 10 subjects were also calculated.
+
+The linear regression analysis results showed that the automated and manual segmentation methods had strong correlations, with Pearson's correlations of 0.9529, 0.9309, 0.9283, and 0.9124 between intraobserver variation, interobserver variation, automated and user 1, and automated and user 2, respectively (P < .001 for all analyses). The Bland-Altman plots for cortex segmentation also showed that the automated and manual methods had agreeable segmentation. The mean volume increase of the cortex for the 10 subjects was 35.1 ± 13.2% (P < .01 by paired t test). The overall true-positive and false-positive volume fractions for cortex segmentation were 90.15 ± 3.11% and 0.85 ± 0.05%. With the proposed automated method, the time for cortex segmentation was reduced from 20 minutes for manual segmentation to 2 minutes.
+
+The proposed method was accurate and efficient and can replace the current subjective and time-consuming manual procedure. The computer measurement confirms the volume of renal cortex increases after kidney donation.
+

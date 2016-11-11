@@ -1,0 +1,11 @@
+
+Mathematical models are commonly used to predict future benefits of new therapies or interventions in the healthcare setting. The reliability of model results is greatly dependent on accuracy of model inputs but on occasion, data sources may not provide all the required inputs. Therefore, calibration of model inputs to epidemiological endpoints informed by existing data can be a useful tool to ensure credibility of the results.
+
+To compare different computational methods of calibrating a Markov model to US data.
+
+We developed a Markov model that simulates the natural history of human papillomavirus (HPV) infection and subsequent cervical disease in the US. Because the model consists of numerous transition probabilities that cannot be directly estimated from data, calibration to multiple disease endpoints was required to ensure its predictive validity. Goodness of fit was measured as the mean percentage deviation of model-predicted endpoints from target estimates. During the calibration process we used the manual, random and Nelder-Mead calibration methods.
+
+The Nelder-Mead and manual calibration methods achieved the best fit, with mean deviations of 7% and 10%, respectively. Nelder-Mead accomplished this result with substantially less analyst time than the manual method, but required more intensive computing capability. The random search method achieved a mean deviation of 39%, which we considered unacceptable despite the ease of implementation of that method.
+
+The Nelder-Mead and manual techniques may be preferable calibration methods based on both performance and efficiency, provided that sufficient resources are available.
+

@@ -1,0 +1,3 @@
+
+This letter discusses blind separability based on temporal predictability (Stone, 2001 ; Xie, He, & Fu, 2005 ). Our results show that the sources are separable using the temporal predictability method if and only if they have different temporal structures (i.e., autocorrelations). Consequently, the applicability and limitations of the temporal predictability method are clarified. In addition, instead of using generalized eigendecomposition, we suggest using joint approximate diagonalization algorithms to improve the robustness of the method. A new criterion is presented to evaluate the separation results. Numerical simulations are performed to demonstrate the validity of the theoretical results.
+

@@ -1,0 +1,7 @@
+
+High-throughput technologies create the necessity to mine large amounts of gene annotations from diverse databanks, and to integrate the resulting data. Most databanks can be interrogated only via Web, for a single gene at a time, and query results are generally available only in the HTML format. Although some databanks provide batch retrieval of data via FTP, this requires expertise and resources for locally reimplementing the databank.
+
+We developed MyWEST, a tool aimed at researchers without extensive informatics skills or resources, which exploits user-defined templates to easily mine selected annotations from different Web-interfaced databanks, and aggregates and structures results in an automatically updated database. Using microarray results from a model system of retinoic acid-induced differentiation, MyWEST effectively gathered relevant annotations from various biomolecular databanks, highlighted significant biological characteristics and supported a global approach to the understanding of complex cellular mechanisms.
+
+MyWEST is freely available for non-profit use at http://www.medinfopoli.polimi.it/MyWEST/
+

@@ -1,0 +1,3 @@
+
+The commonly used setup of an automatic glucose-clamp was analyzed as a control system, modeling the measuring device and the patient in a simple but effective way. Strict limits in response time, parasitic oscillation amplitude, and accuracy were defined in order to approach the physician's requirements. We developed a new control algorithm and defined the gain coefficients which can lead the system within these limits. Computer simulations with model parameters from literature (patient) and from experimental data (measuring device) are presented. Preliminary in vivo trials are also presented.
+

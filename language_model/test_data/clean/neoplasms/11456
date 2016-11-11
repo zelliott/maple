@@ -1,0 +1,13 @@
+
+To perform a risk analysis of the cancer chemotherapy process, by comparing five different organizations. To quantitatively demonstrate the usefulness of centralization and information technologies, to identify residual risks that may be the target of additional actions.
+
+A reengineering of the process started in 1999 and was planned to be finished in 2006. The analysis was performed after the centralization and at the beginning of information technologies integration.
+
+Two thousand two hundred beds university hospital, with medical, surgical, haematological, gynaecological, geriatric, paediatric oncological departments. Twelve thousand cancer chemotherapies each year.
+
+According to the failure modes, effects and criticality analysis (FMECA) method, the failure modes were defined and their criticality indexes were calculated on the basis of the likelihood of occurrence, the potential severity for the patients, and the detection probability. Criticality indexes were compared and the acceptability of residual risks was evaluated.
+
+The sum of criticality indexes of 27 identified failure modes was 3596 for the decentralized phase, 2682 for centralization, 2385 for electronic prescription, 2081 for electronic production control, and 1824 for bedside scanning (49% global reduction). The greatest improvements concerned the risk of errors in the production protocols (by a factor of 48), followed by readability problems during transmission (14) and product/dose errors during the production (8). Among the six criticality indexes remaining superior to 100 in the final process, two were judged to be acceptable, whereas further improvements were planned for the four others.
+
+Centralization to the pharmacy was associated with a strong improvement but additional developments involving information technologies also contributed to a major risk reduction. A cost-effect analysis confirmed the pertinence of all developments, as the cost per gained criticality point remained stable all over the different phases.
+

@@ -1,0 +1,9 @@
+
+Sudden cardiac death is the most common cause of death among individuals undergoing hemodialysis. The epidemiology of sudden cardiac death has been well studied, and efforts are shifting to risk assessment. This study aimed to test whether assessment of acute changes during hemodialysis that are captured in electronic health records improved risk assessment.
+
+Data were collected from all hemodialysis sessions of patients 66 years and older receiving hemodialysis from a large national dialysis provider between 2004 and 2008. The primary outcome of interest was sudden cardiac death the day of or day after a dialysis session. This study used data from 2004 to 2006 as the training set and data from 2007 to 2008 as the validation set. The machine learning algorithm, Random Forests, was used to derive the prediction model.
+
+In 22 million sessions, 898 people between 2004 and 2006 and 826 people between 2007 and 2008 died on the day of or day after a dialysis session that was serving as a training or test data session, respectively. A reasonably strong predictor was derived using just predialysis information (concordance statistic=0.782), which showed modest but significant improvement after inclusion of postdialysis information (concordance statistic=0.799, P<0.001). However, risk prediction decreased the farther out that it was forecasted (up to 1 year), and postdialytic information became less important.
+
+Subtle changes in the experience of hemodialysis aid in the assessment of sudden cardiac death and are captured by modern electronic health records. The collected data are better for the assessment of near-term risk as opposed to longer-term risk.
+

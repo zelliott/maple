@@ -1,0 +1,7 @@
+
+New efforts to guide and prioritize the selection of cancer drug targets are urgently needed, as is evident by the slow development of novel anti-cancer agents and the narrow therapeutic index of existing drugs. Given these limitations, the current study was conducted to explore the classification features defining the therapeutic success that can result from targeting a particular gene.
+
+Classification was based on extracting features specific to known successful anti-cancer targets and combining them in a linear classifier, resulting in calculation of an enrichment score for each gene. Extended description, the search tool used in this study, enriched existing drug target candidates by up to 10-fold at an approximately 50% recall rate, covering approximately 24 000 genes or approximately 80% of genome. More importantly, the target category with high attrition rate was classified from target category with low attrition rate, allowing to refine the drug development portfolios. Biological relevance of the parameters comprising the enrichment score was explored. Enrichment in cancer-specific effects was independently demonstrated by literature analysis. Imposing these enrichment scores on existing structural, pathway and phenotype-based procedures for prospective target selection may enhance the efficiency and accuracy of target identification and accelerate drug design.
+
+The software used in this work is available upon request.
+

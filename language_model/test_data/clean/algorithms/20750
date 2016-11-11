@@ -1,0 +1,3 @@
+
+Using a Hamilton-Jacobi equation approach, we obtain analytic equations for steady-state population distributions and mean fitness functions for Crow-Kimura and Eigen-type diploid biological evolution models with general smooth hypergeometric fitness landscapes. Our numerical solutions of diploid biological evolution models confirm the analytic equations obtained. We also study the parallel diploid model for the simple case of recombination and calculate the variance of distribution, which is consistent with numerical results.
+

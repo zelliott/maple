@@ -1,0 +1,9 @@
+
+The purpose of this study was to develop a population pharmacokinetic (PK) model for 3-AP, to evaluate the effect of ABCB1 polymorphisms on the pharmacokinetic profile of 3-AP, and to assess the relationship between 3AP disposition and patient covariates.
+
+A total of 40 patients with advanced cancer from two phase 1 studies were included in the population PK model building. Patients received 3-AP 25-105 mg/m(2) IV on day 1. 3-AP plasma and erythrocyte levels were sampled at 10 timepoints over a 24-h period and measured by a validated HPLC method. Data were analyzed by a nonlinear mixed-effects modeling approach using the NONMEM system.
+
+3-AP pharmacokinetics were described as a 3-compartment model with first-order elimination, with one compartment representing the plasma and another representing erythrocyte concentrations. Gender was associated with volume of distribution, in which women had a lower V2. The number of cycles administered was associated with clearance; those with decreased clearance were more likely to receive less than 2 cycles before going off study.
+
+This study suggests that monitoring 3-AP plasma concentrations in the first cycle and dose adjustment in those with decreased clearance may be helpful in decreasing toxicity associated with the 3-AP.
+

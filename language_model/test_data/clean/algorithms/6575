@@ -1,0 +1,9 @@
+
+Networks have been used to model many real-world phenomena to better understand the phenomena and to guide experiments in order to predict their behavior. Since incorrect models lead to incorrect predictions, it is vital to have as accurate a model as possible. As a result, new techniques and models for analyzing and modeling real-world networks have recently been introduced.
+
+One example of large and complex networks involves protein-protein interaction (PPI) networks. We analyze PPI networks of yeast Saccharomyces cerevisiae and fruitfly Drosophila melanogaster using a newly introduced measure of local network structure as well as the standardly used measures of global network structure. We examine the fit of four different network models, including Erdos-Renyi, scale-free and geometric random network models, to these PPI networks with respect to the measures of local and global network structure. We demonstrate that the currently accepted scale-free model of PPI networks fails to fit the data in several respects and show that a random geometric model provides a much more accurate model of the PPI data. We hypothesize that only the noise in these networks is scale-free.
+
+We systematically evaluate how well-different network models fit the PPI networks. We show that the structure of PPI networks is better modeled by a geometric random graph than by a scale-free model.
+
+Supplementary information is available at http://www.cs.utoronto.ca/~juris/data/data/ppiGRG04/
+

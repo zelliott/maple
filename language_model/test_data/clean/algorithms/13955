@@ -1,0 +1,11 @@
+
+First, to compare the distribution of complications and comorbidities associated with 17 common surgical procedures. We then describe the effect of augmenting an ICD-9-CM version of the Charlson comorbidity index, given the possible confounding of comorbidities and complications, for three common inpatient surgical procedures: coronary artery bypass surgery, pacemaker surgery, and hip fracture repair.
+
+Individuals having one of the above procedures between April 1, 1990 and March 31, 1994, identified from Manitoba Health hospital discharge data, and their extracted records.
+
+Design was cross-sectional and longitudinal using Manitoba data on hospital utilization and mortality.
+
+Manitoba hospital discharge abstracts permit identifying whether or not the diagnosis represents an in-hospital complication of care. Two data sets were created for each procedure, one including complication diagnoses and another with complications removed.
+
+The degree to which complications contaminated estimation of comorbidity depended both on the procedures studied and on the covariates selected. The unique structure of the algorithm for the Charlson comorbidity index led to complication diagnoses having only a minor effect on the comorbidity score generated. Unless a data set affords the opportunity to remove complication diagnoses, the improvement in comorbidity detection afforded by augmenting the Charlson index, combined with the potential for overestimation of comorbidity, seem sufficiently modest to contraindicate such augmentation.
+

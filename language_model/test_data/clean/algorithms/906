@@ -1,0 +1,3 @@
+
+The problem of choosing the number and the thoracic locations of the leads needed for reconstructing body surface maps of heart potentials is considered. In a previous work (P. Barone, In "Computers in Cardiology" (K. L. Ripley, Ed.), pp. 491-494. IEEE Computer Soc. Press, Washington, DC, 1985) the problem was solved, provided that the user is able to give a threshold below which the information content of two leads is considered equal. In this paper a sensitivity analysis that can help the user in choosing the optimal threshold, or, equivalently, the optimal number of leads, is performed. The problem is reduced to the dynamic search of spanning forests of an undirected graph. An example using real data is also discussed.
+

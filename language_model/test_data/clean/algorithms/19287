@@ -1,0 +1,3 @@
+
+We study in this paper the statistics of the radio frequency (RF) signal in the case of partially developed speckle. Using the K distribution framework, we give the probability density function of the associated distribution, the corresponding moments, and estimators for the parameters of the distribution. The consistency of the proposed estimators is evaluated in terms of their bias and variance through numerical simulations. The ability of the proposed distribution to model RF echographic signals from cardiac tissues is evaluated from data acquired in vivo.
+

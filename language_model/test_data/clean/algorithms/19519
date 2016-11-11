@@ -1,0 +1,3 @@
+
+ScrumPy is a software package used for the definition and analysis of metabolic models. It is written using the Python programming language that is also used as a user interface. ScrumPy has features for both kinetic and structural modelling, but the emphasis is on structural modelling and those features of most relevance to analysis of large (genome-scale) models. The aim is at describing ScrumPy's functionality to readers with some knowledge of metabolic modelling, but implementation, programming and other computational details are omitted. ScrumPy is released under the Gnu Public Licence, and available for download from http://mudshark.brookes.ac.uk/ ScrumPy.
+

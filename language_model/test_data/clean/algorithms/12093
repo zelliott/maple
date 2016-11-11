@@ -1,0 +1,11 @@
+
+For patients with impaired renal function, dosage adjustment is necessary for many drugs. Adjustment with respect only to pharmacokinetic parameters may be insufficient.
+
+To apply the theory of pharmacokinetics and pharmacodynamics to derive a mathematical model that links the concentration-time course and the clinical response by means of the pharmacokinetic-pharmacodynamic parameter 'area under the effect-time curve' (AUETC), and to use this analysis and clinical data for aminoglycosides to calculate dosage adjustments in renal impairment.
+
+Model parameters were estimated for the antimicrobial and nephrotoxic effects of aminoglycosides on the basis of data from the literature. Effect parameters were calculated for various degrees of impaired renal function.
+
+Use of the model parameters gave a high correlation between the predicted and the observed (literature) values for antimicrobial efficacy and nephrotoxicity. When calculating dosage adjustments in renal impairment, it was possible to hold only one effect (antimicrobial or nephrotoxic) constant by dosage adjustment, whereas the other changed unfavourably. This was explained by differences between the pharmacodynamic parameters for each effect. For high antimicrobial efficacy, a target peak concentration of 9 mg/L (for gentamicin) should be obtained every 48 hours in advanced renal impairment. For low nephrotoxicity, the peak concentration should not exceed 3 mg/L.
+
+The parameter AUETC could be a useful pharmacokinetic-pharmacodynamic surrogate marker for dosage adjustment in renal impairment. Using the AUETC method, the beneficial effect can be balanced against the adverse effect.
+

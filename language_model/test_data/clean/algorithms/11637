@@ -1,0 +1,3 @@
+
+Generation of the list of near-neighbor pairs of atoms not bonded to each other is a key feature of many programs for calculating the energy and energy derivatives for large molecules. Because this step can take a significant amount of CPU time, more efficient nonbonded list generation can speed up the energy calculations. In this article, a novel nonbonded list generation algorithm, BYCC, is introduced. It combines certain features of other algorithms and achieves more rapid nonbonded list generation; a factor of approximately 2.5 for a molecule of 5000 atoms with a cutoff in the 10 A range is obtained on Hewlett-Packard (HP) and Alpha processors, without greatly increasing memory requirements.
+

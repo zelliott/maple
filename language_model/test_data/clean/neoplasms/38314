@@ -1,0 +1,9 @@
+
+Phase II oncology trials traditionally have used response rate (RR) as the primary end point, but newer targeted agents require the consideration of alternative end points. High rates of early progressive disease (EPD) suggest inadequate drug activity and may be useful in the early stopping of trials. This study used a simulation to define a set of rules to assess a combined end point of RR and EPD.
+
+The simulation assumed a two-stage trial with a specified alpha error and power. It randomly generated the true response rate, r, of the agent under study and its true rate of early progressive disease, epd, for each run of the simulation. Two pairs of parameters were specified: (r(nul), epd(nul)) and (r(alt), epd(alt)). A drug was considered uninteresting for further development if r was less than or equal to r(nul) and epd was greater than or equal to epd(nul) (ie, the null hypothesis) and interesting for further development if r was greater than or equal to r(alt) or epd was less than or equal to epd(alt) (ie, the alternate hypotheses). Thresholds for the required number of patients with responses, n(r) and EPD, n(p), were generated for each set of parameters.
+
+Thresholds for n(r) and n(p) that satisfied the specified error rates were generated. There was at least an 89% likelihood that a study would be stopped at the first stage of accrual if r and epd were uninteresting.
+
+The simulation was able to establish stopping rules by combining the RR and the EPD that achieved the desired error rates. High rates of early stopping suggest that this design could shorten phase II trials of inactive agents.
+

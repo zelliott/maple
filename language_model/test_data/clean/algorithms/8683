@@ -1,0 +1,3 @@
+
+There are several MR imaging procedures that result in three-dimensional data of moving spins. One way to evaluate these data is a sequential observation of 2D slices. A more common and efficient approach is to retrospectively calculate two-dimensional projection images at different angles representing individual views of the tomographic volume. The display of different views from the same data set will allow a realistic visualization of the blood vessel anatomy.
+

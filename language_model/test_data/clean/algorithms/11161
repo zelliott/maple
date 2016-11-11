@@ -1,0 +1,9 @@
+
+Extreme acceleration maneuvers encountered in modern agile fighter aircraft can wreak havoc on human physiology, thereby significantly influencing cognitive task performance. As oxygen content declines under acceleration stress, the activity of high order cortical tissue reduces to ensure sufficient metabolic resources are available for critical life-sustaining autonomic functions. Consequently, cognitive abilities reliant on these affected areas suffer significant performance degradations. The goal was to develop and validate a model capable of predicting human cognitive performance under acceleration stress.
+
+Development began with creation of a proportional control cardiovascular model that produced predictions of several hemodynamic parameters, including eye-level blood pressure and regional cerebral oxygen saturation (rSo2). An algorithm was derived to relate changes in rSo2 within specific brain structures to performance on cognitive tasks that require engagement of different brain areas. Data from the "precision timing" experiment were then used to validate the model predicting cognitive performance as a function of G(z) profile.
+
+The following are value ranges. Results showed high agreement between the measured and predicted values for the rSo2 (correlation coefficient: 0.7483-0.8687; linear best-fit slope: 0.5760-0.9484; mean percent error: 0.75-3.33) and cognitive performance models (motion inference task--correlation coefficient: 0.7103-0.9451; linear best-fit slope: 0.7416-0.9144; mean percent error: 6.35-38.21; precision timing task--correlation coefficient: 0.6856-0.9726; linear best-fit slope: 0.5795-1.027; mean percent error: 6.30-17.28).
+
+The evidence suggests that the model is capable of accurately predicting cognitive performance of simplistic tasks under high acceleration stress.
+

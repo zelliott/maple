@@ -1,0 +1,5 @@
+
+Analysis of microarray experiments is complicated by the huge amount of data involved. Searching for groups of co-expressed genes is akin to searching for protein families in a database as, in both cases, small subsets of genes with similar features are to be found within vast quantities of data. CLANS was originally developed to find protein families in large sets of amino acid sequences where the amount of data involved made phylogenetic approaches overly cumbersome. We present a number of improvements that greatly extend the previous version of CLANS and show its application to microarray data as well as its ability of incorporating additional information to facilitate interactive analysis.
+
+The program is available for download from: http://bioinfoserver.rsbs.anu.edu.au/downloads/clans/
+

@@ -1,0 +1,9 @@
+
+Progression free survival (PFS) is increasingly used as a primary end-point in oncology clinical trials. This paper provides recommendations for optimal trial design, conduct and analysis in situations where PFS has the potential to be an acceptable end-point for regulatory approval.
+
+These recommendations are based on research performed by the Pharmaceutical Research and Manufacturers Association (PhRMA) sponsored PFS Working Group, including the re-analysis of 28 randomised Phase III trials from 12 companies/institutions.
+
+(1) In the assessment of PFS, there is a critical distinction between measurement error that results from random variation, which by itself tends to attenuate treatment effect, versus bias which increases the probability of a false negative or false positive finding. Investigator bias can be detected by auditing a random sample of patients by blinded, independent, central review (BICR). (2) ITT analyses generally resulted in smaller treatment effects (HRs closer to 1) than analyses that censor patients for potentially informative events (such as starting other anti-cancer therapy). (3) Interval censored analyses (ICA) are more robust to time-evaluation bias than the log-rank test.
+
+A sample based BICR audit may be employed in open or partially blinded trials and should not be required in true double-blind trials. Patients should be followed until progression even if they have discontinued treatment to be consistent with the ITT principle. ICAs should be a standard sensitivity analysis to assess time-evaluation bias. Implementation of these recommendations would standardize and in many cases simplify phase III oncology clinical trials that use a PFS primary end-point.
+

@@ -1,0 +1,9 @@
+
+To evaluate the effects of false-positive (FP) response errors on mean deviation (MD), pattern standard deviation (PSD), glaucoma hemifield test (GHT), and test duration in the Humphrey Field Analyzer's (HFA II) Swedish Interactive Threshold Algorithm (SITA; Carl Zeiss Meditec, Inc., Dublin, CA).
+
+Five individuals with glaucoma (ages 52, 63, 69, 77, and 78 years) and five individuals with normal, healthy eyes (ages 25, 34, 43, 45, and 52 years), participated in the study. Each subject was experienced in automated perimetry and performed multiple, monocular baseline SITA-standard (SITA-S) 24-2 visual field tests. In addition, normal subjects completed SITA-S 24-2 field examinations in which known frequencies of FP error were introduced (0%, 5%, 10%, 20%, or 33% frequency). Likewise, the subjects with glaucoma completed visual field examinations with 0%, 20%, and 33% error introduced during the test.
+
+Reported FP errors were significantly lower than the introduced frequency of error. The SITA algorithm more accurately identified FP errors when the MD and PSD diverged from normal. Test duration increased as introduced error frequencies increased. The Statpac single-field analyses indicated that two thirds of the tests with introduced errors produced a "low-patient-reliability" determination.
+
+HFA II SITA-S underestimates patients' FP errors, particularly among normal patients. High FP error frequencies can have adverse effects on MD and PSD, leading clinicians and researchers to an inaccurate determination of the amount and severity of visual field loss.
+

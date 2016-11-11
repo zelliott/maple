@@ -1,0 +1,3 @@
+
+Many mendelian traits show heterogeneity; that is, the disease phenotype in different families may be caused by genes at different locations. In linkage analysis, this admixture type of heterogeneity (locus heterogeneity) has often been accommodated with one of the HOMOG programs, which thus far have been restricted to at most two disease gene locations. Here, an extension to an arbitrary number of disease locations is described. It has been implemented in a computer program, HOMOGM. This approach is also suitable as an approximation to the situation of complex traits, in which multiple disease genes may occur in the same family.
+

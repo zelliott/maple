@@ -1,0 +1,3 @@
+
+In this paper we study the delayed Gompertz model, as a typical model of tumor growth, with a term describing external interference that can reflect a treatment, e.g. chemotherapy. We mainly consider two types of delayed models, the one with the delay introduced in the per capita growth rate (we call it the single delayed model) and the other with the delay introduced in the net growth rate (the double delayed model). We focus on stability and possible stability switches with increasing delay for the positive steady state. Moreover, we study a Hopf bifurcation, including stability of arising periodic solutions for a constant treatment. The analytical results are extended by numerical simulations for a pharmacokinetic treatment function.
+

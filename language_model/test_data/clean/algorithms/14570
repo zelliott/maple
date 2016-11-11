@@ -1,0 +1,3 @@
+
+Amino acid selective cross-saturation (ASCS) method not only provides information about the interface of a protein assembly by the spin relaxation experiment, but also identifies the amino acid residues in the acceptor protein, which are located close to the selectively labeled amino acid residues in the donor protein. Here, a new method was developed to build a precise structural model of a protein assembly, which satisfies the experimental ASCS values, using simulated annealing computation. This method was applied to the ubiquitin-yeast ubiquitin hydrolase 1 (Ub-YUH1) complex to build a precise complex structure compatible with that determined by X-ray crystallography.
+

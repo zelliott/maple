@@ -1,0 +1,7 @@
+
+CARNAC is a new method for pairwise folding of RNA sequences. The program takes into account local similarity, stem energy, and covariations to produce the common folding. It can handle all RNA types, and has also been adapted to align a new homologous sequence along a reference structured sequence.
+
+Using different data sets, we show that CARNAC provides a good partial prediction for a wide range of sequences (16S ssu rRNA, RNase P RNA, viruses) with only two sequences. In presence of a whole family of sequences, we also show that CARNAC can be used to detect whether the sequences actually share the same structure.
+
+CARNAC is available at the URLhttp://www.lifl.fr/~perrique/rna/.
+

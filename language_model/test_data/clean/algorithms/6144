@@ -1,0 +1,3 @@
+
+In this paper we report on a multi-resonant transducer that may be used to replace a traditional speech processor in cochlear implant applications. The transducer, made from an array of micro-machined polymer resonators, is capable of passively splitting sound into its frequency sub-bands without the need for analog-to-digital conversion and subsequent digital processing. Since all bands are mechanically filtered in parallel, there is low latency in the output signals. The simplicity of the device, high channel capability, low power requirements, and small form factor (less than 1 cm) make it a good candidate for a completely implantable bionic ear device.
+

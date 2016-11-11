@@ -1,0 +1,11 @@
+
+Chronic obstructive pulmonary disease (COPD) is a major cause of death in the United States, but most persons who have airflow obstruction have never been diagnosed with lung disease. This undiagnosed COPD negatively affects health status, and COPD patients may have increased health care utilization several years before the initial diagnosis of COPD is made.
+
+To investigate whether utilization patterns derived from analysis of administrative claims data using a discriminant function algorithm could be used to identify undiagnosed COPD patients.
+
+Each patient who had a new diagnosis of COPD during the study period (N = 2,129) was matched to as many as 3 control subjects by age and gender. Controls were assigned an index date that was identical to that of the corresponding case, and then all health care utilization for cases and controls for the 24 months prior to the initial COPD diagnosis was compared using logistic regression models. Factors that were significantly associated with COPD were then entered into a discriminant function algorithm. This algorithm was then validated using a separate patient population.
+
+In the main model, 19 utilization characteristics were significantly associated with preclinical COPD, although most of the power of the discriminant function algorithm was concentrated in a few of these factors. The main model was able to identify COPD patients in the validation population of adult subjects aged 40 years and older (N = 41,428), with a sensitivity of 60.5% and specificity of 82.1%, even without having information on the history of tobacco use for the majority of the group. Models developed and tested on only 12 months of utilization data performed similarly.
+
+Discriminant function algorithms based on health care utilization data can be developed that have sufficient positive predictive value to be used as screening tools to identify individuals at risk for having undiagnosed COPD.
+

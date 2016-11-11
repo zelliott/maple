@@ -1,0 +1,3 @@
+
+We propose and investigate the performance of a new geometry-based algorithm designed to identify potentially informative data points for classification. An incremental QR update scheme is used to build a classifier using a subset of these points as radial basis function centers. The minimum descriptive length and the leave-one-out error criteria are employed for automatic model selection. The proposed scheme is shown to generate parsimonious models, which perform generalization comparable to the state-of-the-art support and relevance vector machines.
+

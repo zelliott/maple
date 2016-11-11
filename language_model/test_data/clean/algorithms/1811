@@ -1,0 +1,9 @@
+
+Citrate anticoagulation offers several advantages in comparison to conventional anticoagulation. Most algorithms for regional citrate-calcium anticoagulation are based on citrate and calcium chloride infusion coupled in a fixed proportion to the blood flow without considering the hematocrit (Hct)/plasma flow or the filter clearance of citrate and calcium.
+
+The aim of this study was to develop an algorithm for optimized citrate anticoagulation in extracorporeal therapies such as dialysis. A mathematical model was developed to calculate the volume of citrate infusion required to achieve a desired ionized calcium (iCa) target level in the extracorporeal circuit and to restore the total calcium level to a physiological value.
+
+The model was validated by correlation analyses for different blood Hct values and shows an excellent fit to the laboratory measurements.
+
+The results for both iCa target concentrations, namely those after citrate and calcium infusion, proved that the software algorithm adapts well to variable treatment parameters.
+

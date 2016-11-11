@@ -1,0 +1,3 @@
+
+Microarray gene expression data usually have a large number of dimensions, e.g., over ten thousand genes, and a small number of samples, e.g., a few tens of patients. In this paper, we use the support vector machine (SVM) for cancer classification with microarray data. Dimensionality reduction methods, such as principal components analysis (PCA), class-separability measure, Fisher ratio, and t-test, are used for gene selection. A voting scheme is then employed to do multi-group classification by k(k - 1) binary SVMs. We are able to obtain the same classification accuracy but with much fewer features compared to other published results.
+

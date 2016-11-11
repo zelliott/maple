@@ -1,0 +1,5 @@
+
+We have previously reported an algorithm for discovering patterns conserved in sets of related unaligned protein sequences. The algorithm was implemented in a program called Pratt. Pratt allows the user to define a class of patterns (e.g. the degree of ambiguity allowed and the length and number of gaps), and is then guaranteed to find the conserved patterns in this class scoring highest according to a defined fitness measure. In many cases, this version of Pratt was very efficient, but in other cases it was too time consuming to be applied. Hence, a more efficient algorithm was needed.
+
+In this paper, we describe a new and improved searching strategy that has two main advantages over the old strategy. First, it allows for easier integration with programs for multiple sequence alignment and data base search. Secondly, it makes it possible to use branch-and-bound search, and heuristics, to speed up the search. The new search strategy has been implemented in a new version of the Pratt program.
+

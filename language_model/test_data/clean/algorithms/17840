@@ -1,0 +1,9 @@
+
+Freehand 3D ultrasound is a powerful imaging modality with many potential applications. However, its reliance on add-on position sensors, which can be expensive, obtrusive and difficult to calibrate, is a major drawback. Alternatively, freehand 3D ultrasound can be acquired without a position sensor using image-based techniques. Sensorless reconstructions exhibit good fine scale detail but are prone to tracking drift, resulting in large scale geometrical distortions.
+
+We investigate an alternative position sensor, the Xsens MT9-B, which is relatively unobtrusive but measures orientation only. We describe a straightforward approach to calibrating the sensor, and we measure the calibration precision (by repeated calibrations) and the orientation accuracy (using independent orientation measurements). We introduce algorithms that allow the MT9-B potentially to correct both linear and angular drift in sensorless reconstructions.
+
+The MT9-B can be calibrated to a precision of around 1 degrees . Reconstruction accuracy is also around 1 degrees . The MT9-B was able to eliminate angular drift in sensorless reconstructions, though it had little impact on linear drift. In comparison, six degree-of-freedom drift correction was shown to produce excellent reconstructions.
+
+Gold standard freehand 3D ultrasound acquisition requires the synthesis of image-based techniques, for good fine scale detail, and position sensors, for good large scale geometrical accuracy. A hybrid system incorporating the MT9-B offers an attractive compromise between quality and ease of use. The position sensor is unobtrusive and the system is capable of faithful acquisition, with the one exception of linear drift in the elevational direction.
+

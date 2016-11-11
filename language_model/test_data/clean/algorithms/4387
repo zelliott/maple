@@ -1,0 +1,7 @@
+
+An apparent paradox in computational RNA structure prediction is that many methods, in advance, require a multiple alignment of a set of related sequences, when searching for a common structure between them. However, such a multiple alignment is hard to obtain even for few sequences with low sequence similarity without simultaneously folding and aligning them. Furthermore, it is of interest to conduct a multiple alignment of RNA sequence candidates found from searching as few as two genomic sequences.
+
+Here, based on the PMcomp program, we present a global multiple alignment program, foldalignM, which performs especially well on few sequences with low sequence similarity, and is comparable in performance with state of the art programs in general. In addition, it can cluster sequences based on sequence and structure similarity and output a multiple alignment for each cluster. Furthermore, preliminary results with local datasets indicate that the program is useful for post processing foldalign pairwise scans.
+
+The program foldalignM is implemented in JAVA and is, along with some accompanying PERL scripts, available at http://foldalign.ku.dk/
+

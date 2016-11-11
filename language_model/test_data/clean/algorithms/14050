@@ -1,0 +1,5 @@
+
+The genome of Arabidopsis thaliana, which has the best understood plant genome, still has approximately one-third of its genes with no functional annotation at all from either MIPS or TAIR. We have applied our Data Mining Prediction (DMP) method to the problem of predicting the functional classes of these protein sequences. This method is based on using a hybrid machine-learning/data-mining method to identify patterns in the bioinformatic data about sequences that are predictive of function. We use data about sequence, predicted secondary structure, predicted structural domain, InterPro patterns, sequence similarity profile and expressions data.
+
+We predicted the functional class of a high percentage of the Arabidopsis genes with currently unknown function. These predictions are interpretable and have good test accuracies. We describe in detail seven of the rules produced.
+

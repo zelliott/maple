@@ -1,0 +1,7 @@
+
+The definition of a distance measure plays a key role in the evaluation of different clustering solutions of gene expression profiles. In this empirical study we compare different clustering solutions when using the Mutual Information (MI) measure versus the use of the well known Euclidean distance and Pearson correlation coefficient.
+
+Relying on several public gene expression datasets, we evaluate the homogeneity and separation scores of different clustering solutions. It was found that the use of the MI measure yields a more significant differentiation among erroneous clustering solutions. The proposed measure was also used to analyze the performance of several known clustering algorithms. A comparative study of these algorithms reveals that their "best solutions" are ranked almost oppositely when using different distance measures, despite the found correspondence between these measures when analysing the averaged scores of groups of solutions.
+
+In view of the results, further attention should be paid to the selection of a proper distance measure for analyzing the clustering of gene expression data.
+

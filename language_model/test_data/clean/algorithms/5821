@@ -1,0 +1,9 @@
+
+Segmenting the cardiac ventricles in magnetic resonance (MR) images is required for cardiac function assessment. Numerous segmentation methods have been developed and applied to MR ventriculography. Quantitative validation of these segmentation methods with ground truth is needed prior to clinical use, but requires manual delineation of hundreds of images. We applied a well-established method to this problem and rigorously validated the results.
+
+An automatic method based on active contours without edges was used for left and the right ventricle cavity segmentation. A large database of 1,920 MR images obtained from 59 patients who gave informed consent was evaluated. Two standard metrics were used for quantitative error measurement.
+
+Segmentation results are comparable to previously reported values in the literature. Since different points in the cardiac cycle and different slice levels were used in this study, a detailed error analysis is possible. Better performance was obtained at end diastole than at end systole, and on mid-ventricular slices than apical slices. Localization of segmentation errors were highlighted through a study of their spatial distribution.
+
+Ventricular segmentation based on region-driven active contours provided satisfactory results in MRI, without the use of a priori knowledge. The study of error distribution allows identification of potential improvements in algorithm performance.
+

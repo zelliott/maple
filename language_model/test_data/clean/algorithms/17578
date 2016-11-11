@@ -1,0 +1,5 @@
+
+In the genomic era, researchers often want to know more information about a biological sequence by retrieving its related articles. However, there is no available tool yet to achieve conveniently this goal. Here we developed a new literature-mining tool MedBlast, which uses natural language processing techniques, to retrieve the related articles of a given sequence. An online server of this program is also provided.
+
+Both online server and the program are available freely at http://medblast.sibsnet.org
+

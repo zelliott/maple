@@ -1,0 +1,11 @@
+
+Early risk stratification is important in the management of patients with acute coronary syndromes (ACS).
+
+To develop a rapidly available risk stratification tool for use in all ACS.
+
+Application of modern data mining and machine learning algorithms to a derivation cohort of 7520 ACS patients included in the AMIS (Acute Myocardial Infarction in Switzerland)-Plus registry between 2001 and 2005; prospective model testing in two validation cohorts.
+
+The most accurate prediction of in-hospital mortality was achieved with the "Averaged One-Dependence Estimators" (AODE) algorithm, with input of seven variables available at first patient contact: age, Killip class, systolic blood pressure, heart rate, pre-hospital cardiopulmonary resuscitation, history of heart failure, history of cerebrovascular disease. The c-statistic for the derivation cohort (0.875) was essentially maintained in important subgroups, and calibration over five risk categories, ranging from <1% to >30% predicted mortality, was accurate. Results were validated prospectively against an independent AMIS-Plus cohort (n = 2854, c-statistic 0.868) and the Krakow-Region ACS Registry (n = 2635, c-statistic 0.842). The AMIS model significantly outperformed established "point-of-care" risk-prediction tools in both validation cohorts. In comparison to a logistic regression-based model, the AODE-based model proved to be more robust when tested on the Krakow validation cohort (c-statistic 0.842 vs 0.746). Accuracy of the AMIS model prediction was maintained at 12-month follow-up in an independent cohort (n = 1972, c-statistic 0.877).
+
+The AMIS model is a reproducibly accurate point-of-care risk stratification tool for the complete range of ACS, based on variables available at first patient contact.
+

@@ -1,0 +1,3 @@
+
+We present a spectral phase unwrapping approach for grating-based differential phase-contrast data where the unwrapped interferometer phase shift is estimated from energy discriminated measurements using maximum likelihood principles. We demonstrate the method on tomographic data sets of a test specimen taken at different x-ray energies using synchrotron radiation. The proposed unwrapping technique was demonstrated to successfully correct the data set for phase wrapping.
+

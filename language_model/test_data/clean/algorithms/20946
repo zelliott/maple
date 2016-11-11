@@ -1,0 +1,9 @@
+
+To study the effect of motion velocity on image quality to determine the requirements for 4-dimensional (4D; ie, 3D + time) musculoskeletal computed tomographic (CT) imaging.
+
+A phantom with resolution targets in both axial (x-y) and coronal (x-z) planes was attached to a motion device and scanned with 64-slice CT using a retrospectively gated CT protocol with pitch values of 0.1 and 0.2. Data were acquired with the phantom at rest and while moving periodically along the x axis at several velocities. Spatial resolution and motion artifacts were assessed both for the axial and coronal targets.
+
+A linear relationship was found between motion artifact severity and phantom velocity. Spatial resolution was better preserved in the coronal target. However, coronal images displayed banding artifacts, with band displacements being linearly related to motion velocity.
+
+The 4D CT imaging of periodically moving objects with velocities up to 20 mm/s is feasible using a pitch value of 0.1 and a motion frequency of 30 cycles per minute.
+

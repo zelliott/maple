@@ -1,0 +1,3 @@
+
+The increase of the amount of DNA sequences requires efficient computational algorithms for performing sequence comparison and analysis. Standard compression algorithms are not able to compress DNA sequences because they do not consider special characteristics of DNA sequences (i.e., DNA sequences contain several approximate repeats and complimentary palindromes). Recently, new algorithms have been proposed to compress DNA sequences, often using detection of long approximate repeats. The current work proposes a Lossless Compression Algorithm (LCA), providing a new encoding method. LCA achieves a better compression ratio than that of existing DNA-oriented compression algorithms, when compared to GenCompress, DNACompress, and DNAPack.
+

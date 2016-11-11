@@ -1,0 +1,5 @@
+
+Analysis of unannotated genomic sequences for regulatory regions depends on a reliable recognition of individual cis-acting elements. Since some of them have a very low conserved sequence pattern, additional criteria are required.
+
+Using molecular modelling techniques, we have created a complete database for the conversion of base sequences into profiles of structural parameters of DNA. On this basis, search routines can be developed that scan for profile matches. They may be used instead of or, probably most appropriate in most cases, in combination with conventional sequence pattern searches.
+

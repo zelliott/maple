@@ -1,0 +1,9 @@
+
+Grating-based x-ray phase-contrast imaging is a fast developing new modality not only for medical imaging, but as well for other fields such as material sciences. While these many possible applications arise, the knowledge of the noise behavior is essential.
+
+In this work, the authors used a least squares fitting algorithm to calculate the noise behavior of the three quantities absorption, differential phase, and dark-field image. Further, the calculated error formula of the differential phase image was verified by measurements. Therefore, a Talbot interferometer was setup, using a microfocus x-ray tube as source and a Timepix detector for photon counting. Additionally, simulations regarding this topic were performed.
+
+It turned out that the variance of the reconstructed phase is only dependent of the total number of photons used to generate the phase image and the visibility of the experimental setup. These results could be evaluated in measurements as well as in simulations. Furthermore, the correlation between absorption and dark-field image was calculated.
+
+These results provide the understanding of the noise characteristics of grating-based phase-contrast imaging and will help to improve image quality.
+

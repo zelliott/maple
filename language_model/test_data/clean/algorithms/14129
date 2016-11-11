@@ -1,0 +1,7 @@
+
+This study evaluated the acute clinical performance of a new ventricular automatic capture algorithm developed to work with all lead types and pacing vectors.
+
+During regular pacemaker implant or replacement, AutoThreshold and manual threshold tests were performed in ventricular unipolar (UP) and bipolar (BP, if applicable) pacing using a customized external prototype INSIGNIA pacemaker. The success rate and accuracy of two different modes (commanded and ambulatory) of the automatic capture algorithm were used to evaluate the performance. Loss-of-capture events (two consecutive non-captured beats without backup pacing) were used to assess safety. Data of 53 patients (33 DDD/20 VVI) from four medical centres were analysed. Tested leads included 43 BP and 10 UP from nine manufacturers, and seven had electrodes with low polarization. The rate of successful commanded and ambulatory AutoThreshold tests was 96 and 94%, respectively, with an average absolute threshold difference compared with manual threshold of < 0.1 V at 0.4 ms (commanded 0.07 +/- 0.07 V and ambulatory 0.08 +/- 0.07 V). There was no significant difference in performance between UP/BP pacing, polarization, and lead type. No loss-of-capture event was observed.
+
+When successful, the ventricular automatic capture algorithm accurately determined pacing thresholds in either a UP or BP pacing configuration among all leads tested.
+

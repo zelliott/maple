@@ -1,0 +1,5 @@
+
+Computing the reversal distance and searching for an optimal sequence of reversals to transform a unichromosomal genome into another are useful algorithmic tools to analyse real evolutionary scenarios. Currently, these problems can be solved by at least two available softwares, the prominent of which are GRAPPA and GRIMM. However, the number of different optimal sequences is usually huge and taking only the distance and/or one example is often insufficient to do a proper analysis. Here, we offer an alternative and present baobabLUNA, a framework that contains an algorithm to give a compact representation of the whole space of solutions for the sorting by reversals problem.
+
+Compiled code implemented in Java is freely available for download at http://pbil.univ-lyon1.fr/software/luna/. Documentation with methodological background, technical aspects, download and setup instructions, interface description and tutorial are available at http://pbil.univ-lyon1.fr/software/luna/doc/luna-doc.pdf.
+

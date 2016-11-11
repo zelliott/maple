@@ -1,0 +1,3 @@
+
+We derive an expectation maximization algorithm for maximum-likelihood training of substitution rate matrices from multiple sequence alignments. The algorithm can be used to train hidden substitution models, where the structural context of a residue is treated as a hidden variable that can evolve over time. We used the algorithm to train hidden substitution matrices on protein alignments in the Pfam database. Measuring the accuracy of multiple alignment algorithms with reference to BAliBASE (a database of structural reference alignments) our substitution matrices consistently outperform the PAM series, with the improvement steadily increasing as up to four hidden site classes are added. We discuss several applications of this algorithm in bioinformatics.
+

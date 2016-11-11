@@ -1,0 +1,7 @@
+
+Abundant information about gene products is stored in online searchable databases such as annotation or literature. To efficiently obtain and digest such information, there is a pressing need for automated information-summarization and functional-similarity clustering of genes.
+
+We have developed a novel method for semantic measurement of annotation and integrated it with a biomedical literature summarization system to establish a platform, GeneLibrarian, to provide users well-organized information about any specific group of genes (e.g. one cluster of genes from a microarray chip) they might be interested in. The GeneLibrarian generates a summarized viewgraph of candidate genes for a user based on his/her preference and delivers the desired background information effectively to the user. The summarization technique involves optimizing the text mining algorithm and Gene Ontology-based clustering method to enable the discovery of gene relations.
+
+GeneLibrarian is a Java-based web application that automates the process of retrieving critical information from the literature and expanding the number of potential genes for further analysis. This study concentrates on providing well organized information to users and we believe that will be useful in their researches. GeneLibrarian is available on http://gen.csie.ncku.edu.tw/GeneLibrarian/.
+

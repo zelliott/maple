@@ -1,0 +1,3 @@
+
+The structural analysis of large metabolic networks exhibits a combinatorial explosion of elementary modes. A new method of classification has been developed [called aggregation around common motif (ACoM)], which groups elementary modes into classes with similar substructures. This method is applied to the tricarboxylic acid cycle and metabolite carriers. The analysis of this network evidences a great number of elementary flux modes (204) despite the low number of reactions (23). The ACoM is used to class these elementary modes in a low number of sets (8) with biological meanings.
+

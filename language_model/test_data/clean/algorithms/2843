@@ -1,0 +1,9 @@
+
+During cardiopulmonary bypass (CPB) monitor alarms are routinely disabled. Failure to reactivate these alarms after CPB may jeopardize patient safety. We have produced an electronic reminder that automatically alerts clinicians to reactivate alarms after CPB and have evaluated the alarm reactivation rate after its implementation.
+
+We developed and implemented an algorithm that identifies separation from CPB by the return of pulsatile flow and of mechanical ventilation, and checks alarm status (activated, disabled or silenced). If alarms have not been reactivated after separation from CPB, an electronic reminder appears. Data were collected during three time periods: Stage I (304 patients)--baseline period before implementation of the electronic reminder; Stage II (256 patients)--after implementation; Stage III-(435 patients) after a single educational departmental meeting, at the end of Stage II. Incidence of proper alarm reactivation and the number of electronic reminders per patient were compared among stages.
+
+The rate of alarm reactivation at baseline (Stage I) was 22%, increased to 63% (Stage II), and again to 83% during Stage III (P < 0.001). The spontaneous alarm reactivation rate before the appearance of the electronic reminder on the anesthesia information management system screen increased from 19% at Stage II to 42% at stage III (P < 0.001).
+
+Introducing an automatic electronic reminder significantly increased the rate of alarm reactivation after separation from CPB. Real-time computerized decision-support tools can be developed within anesthesia information management system and may be useful for improving safety during anesthesia.
+

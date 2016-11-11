@@ -1,0 +1,3 @@
+
+Magnetic Resonance (MR) imaging techniques are used to measure biophysical properties of tissues. As clinical diagnoses are mainly based on the evaluation of contrast in MR images, relaxation times assume a fundamental role providing a major source of contrast. Moreover, they can give useful information in cancer diagnostic. In this paper we present a statistical technique to estimate relaxation times exploiting complex-valued MR images. Working in the complex domain instead of the amplitude one allows us to consider the data bivariate Gaussian distributed, and thus to implement a simple Least Square (LS) estimator on the available complex data. The proposed estimator results to be simple, accurate and unbiased.
+

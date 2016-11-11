@@ -1,0 +1,3 @@
+
+This paper describes some parallel processing algorithms for the analysis of two-dimensional electrophoresis images. The machine used for the processing was the CLIP4 Cellular Array Computer at University College, London, one of the largest processor arrays in the world. Included in this paper are an algorithm for centroid detection, Gaussian fitting algorithms, and an algorithm for the extraction of data out of the cellular array machine. It is shown that these parallel algorithms can run at a speed almost completely independent of the number of spots in the gel images.
+

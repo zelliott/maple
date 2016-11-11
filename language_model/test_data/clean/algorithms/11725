@@ -1,0 +1,3 @@
+
+In this paper, we present the development of a remote server that provides a user-friendly access to advanced electrocardiographic (ECG) signal processing techniques. The prototype supplies telemedicine facilities to doctors for clinical indexes remote computation to support diagnosis through the Internet. The user-friendly interface is based on the selection of the desired ECG signal processing tools on a Web browser window. The centralized structure of the system permits unique and user-independent update and management of the software and, therefore, is especially suitable for remote or rural regions to have access to the new ECG information techniques.
+

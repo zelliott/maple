@@ -1,0 +1,9 @@
+
+Many methods of identifying differential expression in genes depend on testing the null hypotheses of exactly equal means or distributions of expression levels for each gene across groups, even though a statistically significant difference in the expression level does not imply the occurrence of any difference of biological or clinical significance. This is because a mathematical definition of 'differential expression' as any non-zero difference does not correspond to the differential expression biologists seek. Furthermore, while some current methods account for multiple comparisons in hypothesis tests, they do not accordingly adjust estimates of the degrees to which genes are differentially expressed. Both problems lead to overstating the relevance of findings.
+
+Testing whether genes have relevant differential expression can be accomplished with customized null hypotheses, thereby redefining 'differential expression' in a way that is more biologically meaningful. When such tests control the false discovery rate, they effectively discover genes based on a desired quantile of differential gene expression. Estimation of the degree to which genes are differentially expressed has been corrected for multiple comparisons.
+
+R code is freely available from http://www.davidbickel.com and may become available from www.r-project.org or www.bioconductor.org
+
+Applications to cancer microarrays, an application in the absence of differential expression, pseudocode, and a guide to customizing the methods may be found at www.davidbickel.com and www.mathpreprints.com
+

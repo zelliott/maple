@@ -1,0 +1,7 @@
+
+Drug resistance is a very important factor influencing the failure of current HIV therapies. The ability to predict the drug resistance of HIV protease mutants may be useful in developing more effective and longer lasting treatment regimens.
+
+The HIV resistance is predicted to two current protease inhibitors, Indinavir and Saquinavir. The problem was approached from two perspectives. First, a predictor was constructed based on the structural features of the HIV protease-drug inhibitor complex. A particular structure was represented by its list of contacts between the inhibitor and the protease. Next, a classifier was constructed based on the sequence data of various drug resistant mutants. In both cases, self-organizing maps were first used to extract the important features and cluster the patterns in an unsupervised manner. This was followed by subsequent labelling based on the known patterns in the training set.
+
+The prediction performance of the classifiers was measured by cross-validation. The classifier using the structure information correctly classified previously unseen mutants with an accuracy of between 60 and 70%. Several architectures were tested on the more abundant sequence data. The best single classifier provided an accuracy of 68% and a coverage of 69%. Multiple networks were then combined into various majority voting schemes. The best combination yielded an average of 85% coverage and 78% accuracy on previously unseen data. This is more than two times better than the 33% accuracy expected from a random classifier.
+

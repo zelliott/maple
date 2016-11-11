@@ -1,0 +1,9 @@
+
+High-intensity focused ultrasound (HIFU) is a type of micro-invasive treatment of tumor. It is important to create a guideline for the volume and position of the necrotic field by means of a theoretical model, this being one of the key problems in the clinic application of HIFU.
+
+Based on cellular thermo-necrotic theory, a computational model of temperature distribution and, therefore, the necrotic field was developed. A multi-transducer system with non-interferential and self-focused property was devised to provide experimental verification of the theoretical model.
+
+The necrotic field resulting from the modeling simulation did not show any evident difference from that of the experiment. The necrotic field of the same heating duration (4 seconds) was found with both modeling and experiment to be spheroid, with its center at the system's geometric focus and a volume of 1x1x2 cm3.
+
+The model of this study may predict the practical volume of the necrotic field as well as the time needed for it to form.
+

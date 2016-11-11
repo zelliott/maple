@@ -1,0 +1,9 @@
+
+To establish the range of normal values for quantitative CT-based measures of lung structure and function, the authors developed a method for matching pulmonary structures across individuals and creating a normative human lung atlas.
+
+A computerized human lung atlas was synthesized from computed tomographic (CT) images from six subjects by means of three-dimensional image registration. The authors identified a set of reproducible feature points for each CT image and used these points to establish correspondences across subjects, used a landmark- and intensity-based consistent image registration algorithm to register a template image volume from the population to the rest of the pulmonary CT volumes in the population, averaged these transformations, and constructed an atlas by deforming the template with the average transformation.
+
+The effectiveness of the authors' method was evaluated and visualized by means of both gray-level and segmented CT images. The method reduced the average landmark registration error from 10.5 mm to 0.4 mm and the average relative volume overlap error from 0.7 to 0.11 for the six data sets studied.
+
+The method, and the computerized human lung atlas constructed and visualized by the authors with this method, provides a basis for establishing regional ranges of normative values for structural and functional measures of the human lung.
+

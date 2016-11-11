@@ -1,0 +1,9 @@
+
+Surface curvatures are important geometric features for the computer-aided analysis and detection of polyps in CT colonography (CTC). However, the general kernel approach for curvature computation can yield erroneous results for small polyps and for polyps that lie on haustral folds. Those erroneous curvatures will reduce the performance of polyp detection. This paper presents an analysis of interpolation's effect on curvature estimation for thin structures and its application on computer-aided detection of small polyps in CTC.
+
+The authors demonstrated that a simple technique, image interpolation, can improve the accuracy of curvature estimation for thin structures and thus significantly improve the sensitivity of small polyp detection in CTC.
+
+Our experiments showed that the merits of interpolating included more accurate curvature values for simulated data, and isolation of polyps near folds for clinical data. After testing on a large clinical data set, it was observed that sensitivities with linear, quadratic B-spline and cubic B-spline interpolations significantly improved the sensitivity for small polyp detection.
+
+The image interpolation can improve the accuracy of curvature estimation for thin structures and thus improve the computer-aided detection of small polyps in CTC.
+

@@ -1,0 +1,9 @@
+
+T2 relaxation time is a promising MRI parameter for the early diagnosis and follow-up of osteoarthritis. Assessing the evolution of osteoarthritis needs exact comparison of datasets acquired at different times and knowledge of the T2 reproducibility. The aims of this work were to establish a method for voxel-wise comparison of T2 datasets and to assess voxel-based T2 reproducibility in healthy patellar cartilage.
+
+A new rigid 3D-registration algorithm was developed. The precision of the registration algorithm was calculated with numerical simulations and in vitro measurements. In vivo T2 reproducibility was assessed in six volunteers measured at seven different times. The voxel-based reproducibility was characterized with the coefficient of variation (CV) of T2, and its regional variations were analyzed.
+
+The registration algorithm showed an average registration precision lower than 25% of the voxel size. In vivo voxel-based T2 reproducibility exhibited a median CV of 10.1%. Reproducibility showed significant regional differences. Largest CVs (15.4%) were found near the articular surface. The central regions showed the lowest CVs (7.2%) and the lateral regions intermediate CVs (11.2%).
+
+Using a rigid 3D-registration algorithm provides voxel-based T2 reproducibility errors comparable to former, 2D region-based approaches, thus opening the possibility of voxel-based monitoring of cartilage degradation in osteoarthritis.
+

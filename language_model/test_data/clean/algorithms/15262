@@ -1,0 +1,7 @@
+
+Assigning a protein into one of its folds is a transitional step for discovering three dimensional protein structure, which is a challenging task in bimolecular (biological) science. The present research focuses on: 1) the development of classifiers, and 2) the development of feature extraction techniques based on syntactic and/or physicochemical properties.
+
+Apart from the above two main categories of research, we have shown that the selection of physicochemical attributes of the amino acids is an important step in protein fold recognition and has not been explored adequately. We have presented a multi-dimensional successive feature selection (MD-SFS) approach to systematically select attributes. The proposed method is applied on protein sequence data and an improvement of around 24% in fold recognition has been noted when selecting attributes appropriately.
+
+The MD-SFS has been applied successfully in selecting physicochemical attributes of the amino acids. The selected attributes show improved protein fold recognition performance.
+

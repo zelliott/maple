@@ -1,0 +1,9 @@
+
+The results of Randomized Controlled Trials (RCTs) on time-to-event outcomes that are usually reported are median time to events and Cox Hazard Ratio. These do not constitute the sufficient statistics required for meta-analysis or cost-effectiveness analysis, and their use in secondary analyses requires strong assumptions that may not have been adequately tested. In order to enhance the quality of secondary data analyses, we propose a method which derives from the published Kaplan Meier survival curves a close approximation to the original individual patient time-to-event data from which they were generated.
+
+We develop an algorithm that maps from digitised curves back to KM data by finding numerical solutions to the inverted KM equations, using where available information on number of events and numbers at risk. The reproducibility and accuracy of survival probabilities, median survival times and hazard ratios based on reconstructed KM data was assessed by comparing published statistics (survival probabilities, medians and hazard ratios) with statistics based on repeated reconstructions by multiple observers.
+
+The validation exercise established there was no material systematic error and that there was a high degree of reproducibility for all statistics. Accuracy was excellent for survival probabilities and medians, for hazard ratios reasonable accuracy can only be obtained if at least numbers at risk or total number of events are reported.
+
+The algorithm is a reliable tool for meta-analysis and cost-effectiveness analyses of RCTs reporting time-to-event data. It is recommended that all RCTs should report information on numbers at risk and total number of events alongside KM curves.
+

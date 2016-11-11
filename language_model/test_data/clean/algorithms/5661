@@ -1,0 +1,9 @@
+
+The goal of this study is to investigate the advantages of large scale optimization methods vs conventional classification techniques in predicting acute toxicity for urinary bladder and rectum due to prostate irradiation.
+
+Clinical and dosimetric data of 321 patients undergoing prostate conformal radiotherapy were recorded. Gastro-intestinal and genito-urinary acute toxicities were scored according to the Radiation Therapy Oncology Group/European Organization for Research and Treatment of Cancer (RTOG/EORTC) scale. Patients were classified in two categories to separate mild (Grade < 2) from severe toxicity levels (Grade > 2). Machine learning methods at different complexity were implemented to predict toxicity as a function of multiple variables. The first approach consisted of a large scale optimization method, based on genetic algorithms (GAs) and artificial neural networks (ANN). The second approach was a binary classifier based on support vector machines (SVM).
+
+The ANN and SVM-based solutions showed comparable prediction accuracy, exhibiting an area under the receiver operating characteristic (ROC) curve of 0.7. Different sensitivity and specificity features were measured for the two approaches. The ANN algorithm showed enhanced sensitivity if combined with appropriate classification criteria.
+
+The results demonstrate that high sensitivity in toxicity prediction can be achieved with optimized ANNs, that are put forward to represent a valuable support in medical decisions. Future studies will be focused on enlarging the available patient database to increase the reliability of toxicity prediction algorithms and to define optimal classification criteria.
+

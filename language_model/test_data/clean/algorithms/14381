@@ -1,0 +1,9 @@
+
+Knowledge acquisition and maintenance in medical domains with a large application domain ontology is a difficult task. To reduce knowledge elicitation costs, semi-automatic learning methods can be used to support the domain specialists. They are usually not only interested in the accuracy of the learned knowledge: the understandability and interpretability of the learned models is of prime importance as well. Then, often simple models are more favorable than complex ones.
+
+We propose diagnostic scores as a promising approach for the representation of simple diagnostic knowledge, and present a method for inductive learning of diagnostic scores. It can be incrementally refined by including background knowledge. We present complexity measures for determining the complexity of the learned scores.
+
+We give an evaluation of the presented approach using a case base from the fielded system SonoConsult. We further discuss that the user can easily balance between accuracy and complexity of the learned knowledge applying the presented measures.
+
+We argue that semi-automatic learning methods can support the domain specialist efficiently when building (diagnostic) knowledge systems from scratch. The presented complexity measures allow for an intuitive assessment of the learned patterns.
+

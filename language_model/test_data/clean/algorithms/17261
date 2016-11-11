@@ -1,0 +1,3 @@
+
+Three-dimensional reconstruction of a section of biological tissue by electron tomography requires precise alignment of a series of two-dimensional images of the section made at numerous successive tilt angles. Gold beads on or in the section serve as fiducial markers. A scheme is described that automatically detects the position of these markers and indexes them from image to image. The resulting set of position vectors are arranged in a matrix representation of the tilt geometry and, by inversion, alignment information is obtained. The scheme is convenient, requires little operator time and provides an accuracy of < 2 pixels RMS. A tilt series of 60-70 images can be aligned in approximately 30 min on any modern desktop computer.
+

@@ -1,0 +1,9 @@
+
+The accuracy of pedicle screw placement during image-guided spine surgery (IGSS) can be characterized by estimating the target registration error (TRE). The major factors that influence TRE were identified, minimized, and verified with in vitro experiments.
+
+Computed-tomography-compatible markers are placed over anatomical landmarks of lumbar vertebral segments in locations that are feasible and routinely used in surgical procedures. TRE was determined directly for markers placed on the pedicles of vertebra segments. First, optimum selections of landmarks are proposed for different landmarks according to the minimum achievable TRE values in different configurations. These anatomical landmarks are feasible and accessible to overcome constraints that may be imposed during surgical procedures. Second, the effect of fiducial weighting on corresponding points to overcome anisotropic localization error based on maximum likelihood approach is evaluated. Third, an experimental model for fiducial localization error (FLE) is derived to obtain the weights. At the end, an error zone was obtained for each marker to indicate the possible acceptable deviation from the marker's exact location in practice. This study was performed in vitro on a spine phantom.
+
+Optimal landmark selection led to a 30% reduction in TRE. In addition, optimum weighting of the fiducials in an FLE model that incorporates anisotropic localization error in the registration algorithm led to a 28% reduction in the TRE.
+
+Landmark configuration, transformation parameters, and fiducial localization error are factors that significantly affect the total TRE. These factors should be optimized to minimize the TRE. Both the optimum configuration of landmarks and the anisotropic weighing of fiducials have significant impact on the registration accuracy for IGSS.
+

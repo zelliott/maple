@@ -1,0 +1,3 @@
+
+In this chapter, we demonstrate the usage of a coarse-grained elastic network model to analyze protein conformational transitions in the NS3 helicase (NS3hel) of Hepatitis C virus (HCV). This analysis allows us to identify and visualize collective domain motions involved in the conformational transitions and predict the order of structural events during the transitions. It is highly efficient and applicable to many multi-domain protein structures which undergo large conformational changes to fulfill their functions. This method is made available through a Web server ( http://enm.lobos.nih.gov ).
+

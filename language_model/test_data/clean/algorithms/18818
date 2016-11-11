@@ -1,0 +1,3 @@
+
+This paper concerns with predicting the regulatory targets of a transcription factor (TF). We propose and study a joint model that combines the use of DNA-protein binding, gene expression and DNA sequence data simultaneously; a parametric mixture model is used to realize unsupervised learning, which however can be extended to semi-supervised learning too. We applied the methods to an E coli dataset to identify the target genes of LexA, which, along with applications to simulated data, demonstrated potential gains of jointly modeling multiple types of data over using only one type of data.
+

@@ -1,0 +1,13 @@
+
+Work-related musculoskeletal disorders (MSD) of the neck and the shoulders are a growing problem in society. An interesting pattern of spontaneous muscle activity, the firing of a single motor unit, in the trapezius muscle is observed during a laboratory study in a rest state or a state with a mental load.
+
+In this study, we report on the finding of the single motor unit firing and we present a detection algorithm to localize these single motor unit firings.
+
+A spike train detection algorithm, using a nonlinear energy operator and correlation, is presented to detect burst of highly correlated, high energetic spike-like segments.
+
+This single motor unit was visible in 65% of the test subjects on one or both trapezius muscles although there was no change in posture of the test subjects. All the segments in the data that were determined as single motor unit firings were detected by the algorithm.
+
+The physiological meaning of this firing pattern is a very low and subconscious contraction of the muscle. A long-term contraction could lead to the exhaustion of the muscle fibers, thus resulting in musculoskeletal disorders. The detection algorithm is able to localize this phenomenon in a sEMG measurement. The ability of detecting these firings is helpful in the research of its origin.
+
+The detection algorithm can be used to gain insight in the physiological origin of this phenomenon. In addition, the algorithm can also be used in a biofeedback system to warn the user for this undesired contraction to prevent MSD.
+

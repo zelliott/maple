@@ -1,0 +1,9 @@
+
+To investigate the feasibility of implementing quantitative T1-perfusion in the routine MRA-protocol and to obtain a first experience in normals and pathology.
+
+For perfusion imaging, IR-prepared FLASH (one 4 mm slice at mid-renal level, TR 4.4 ms, TE 2.2 ms, TI 180 ms, FA 50 degrees , matrix 128 x 256, bandwidth per pixel 300, 400 dynamics, temporal resolution 0.3 s, total measurement time 2 min) was applied during the injection of 10 ml of standard 0.5 mmol/ml Gadolinium-DTPA solution at 2 ml/s, followed by 3DCE-MRA with bolus tracking (TR 5.4, TE 1.4, FA 40 degrees , matrix 192 x 512, NSA 1, slice thickness 1.5 mm), using a second dose of 0.1 mmol Gadolinium-DTPA per kg body weight with a maximum of 20 ml. The T1-weighted signals (perfusion data) were converted to tissue tracer concentrations and deconvolved with an inflow corrected AIF; blood flow, distribution volume, mean transit time and blood flow heterogeneity were derived.
+
+MRA quality was uncompromised by the first bolus administered for perfusion purposes. In the normals, average cortical RBF, RVD and MTT were 1.2 ml/min/ml (S.D. 0.3 ml/min/ml), 0.4 ml/ml (S.D. 0.1 ml/ml) and 21s (S.D. 4s). These RBF values are lower than those found in the literature, probably due to residual AIF inflow effects. The sensitivity of the technique was sufficient to demonstrate altered perfusion in the examples of pathology.
+
+Combined quantitative T1-perfusion and MRA have a potential for noninvasive renovascular screening and may provide an anatomical and physiological evaluation of renal status.
+

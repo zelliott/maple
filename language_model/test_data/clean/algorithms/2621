@@ -1,0 +1,3 @@
+
+The Kodak Image Station In-Vivo FX has an x-ray module with cone-beam configuration for radiographic imaging but lacks the functionality of tomography. To introduce x-ray tomography into the system, we choose the two-circles-plus-one-line trajectory by mounting one translation motor and one rotation motor. We establish a reconstruction algorithm by applying the M-line reconstruction method. Numerical studies and preliminary physical phantom experiment demonstrate the feasibility of the proposed design and reconstruction algorithm.
+

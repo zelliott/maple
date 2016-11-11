@@ -1,0 +1,9 @@
+
+The theoretical explanation of the limits of an array transducer to coagulate large tissues volumes.
+
+A theoretical model is used to illustrate the focal limitations of a spherically sectioned array designed for the treatment of deep seated tissue, e.g. liver. The design optimizes the acoustic dose as a function of the focal depth and available acoustic aperture with the goal of coagulating large volumes in a single sonication period. A quantitative measure of the possible region of focal necrosis is modeled as a function of array parameters with the limiting criteria being near field heating and patient pain.
+
+Acoustic simulations show that the maximum distance to produce continuous necrosis between foci in a multiple focus pattern and in a temporally multiplexed pattern is approximately 50% larger than the distance needed between sequential foci.
+
+Multiple focus patterns or rapidly scanned single foci are significantly advantageous to sequential sonications of a single focus transducer.
+

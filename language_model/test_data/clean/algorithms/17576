@@ -1,0 +1,7 @@
+
+Predicting protein interactions is one of the most challenging problems in functional genomics. Given two proteins known to interact, current docking methods evaluate billions of docked conformations by simple scoring functions, and in addition to near-native structures yield many false positives, i.e. structures with good surface complementarity but far from the native.
+
+We have developed a fast algorithm for filtering docked conformations with good surface complementarity, and ranking them based on their clustering properties. The free energy filters select complexes with lowest desolvation and electrostatic energies. Clustering is then used to smooth the local minima and to select the ones with the broadest energy wells-a property associated with the free energy at the binding site. The robustness of the method was tested on sets of 2000 docked conformations generated for 48 pairs of interacting proteins. In 31 of these cases, the top 10 predictions include at least one near-native complex, with an average RMSD of 5 A from the native structure. The docking and discrimination method also provides good results for a number of complexes that were used as targets in the Critical Assessment of PRedictions of Interactions experiment.
+
+The fully automated docking and discrimination server ClusPro can be found at http://structure.bu.edu
+

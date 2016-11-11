@@ -1,0 +1,3 @@
+
+We introduce a framework for mining event related dynamics based on conditional FCM (CFCM). For a given set of responses, the variation in the data is summarized by means of a small set of meaningful prototypes accompanied with a low-dimensional graph capturing their relative relationships. CFCM enables prototyping in a principled manner. User-defined constraints, which are imposed by the nature of experimental data and/or dictated by the neuroscientist's intuition, direct the process of knowledge extraction and can robustify single-trial analysis. The method is introduced using simulated data and demonstrated using actual encephalographic data.
+

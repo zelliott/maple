@@ -1,0 +1,3 @@
+
+The probability to predict correctly a protein structure can be enhanced through introduction of spatial constraints - either from NMR experiments or from homologous structures. However, the additional constraints lead often to new local energy minima and worse sampling efficiency in simulations. In this work, we present a new parallel tempering variant that alleviates the energy barriers resulting from spatial constraints and therefore yields to an enhanced sampling in structure prediction simulations.
+

@@ -1,0 +1,7 @@
+
+In real-time PCR, it is necessary to consider the efficiency of amplification (EA) of amplicons in order to determine initial target levels properly. EAs can be deduced from standard curves, but these involve extra effort and cost and may yield invalid EAs. Alternatively, EA can be extracted from individual fluorescence curves. Unfortunately, this is not reliable enough.
+
+Here we introduce simultaneous non-linear fitting to determine - without standard curves - an optimal common EA for all samples of a group. In order to adjust EA as a function of target fluorescence, and still to describe fluorescence as a function of cycle number, we use an iterative algorithm that increases fluorescence cycle by cycle and thus simulates the PCR process. A Gauss peak function is used to model the decrease of EA with increasing amplicon accumulation. Our approach was validated experimentally with hydrolysis probe or SYBR green detection with dilution series of 5 different targets. It performed distinctly better in terms of accuracy than standard curve, DART-PCR, and LinRegPCR approaches. Based on reliable EAs, it was possible to detect that for some amplicons, extraordinary fluorescence (EA > 2.00) was generated with locked nucleic acid hydrolysis probes, but not with SYBR green.
+
+In comparison to previously reported approaches that are based on the separate analysis of each curve and on modelling EA as a function of cycle number, our approach yields more accurate and precise estimates of relative initial target levels.
+

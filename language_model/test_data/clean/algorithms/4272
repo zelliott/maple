@@ -1,0 +1,7 @@
+
+The identification of cell cycle-regulated genes through the cyclicity of messenger RNAs in genome-wide studies is a difficult task due to the presence of internal and external noise in microarray data. Moreover, the analysis is also complicated by the loss of synchrony occurring in cell cycle experiments, which often results in additional background noise.
+
+To overcome these problems, here we propose the LEON (LEarning and OptimizatioN) algorithm, able to characterize the 'cyclicity degree' of a gene expression time profile using a two-step cascade procedure. The first step identifies a potentially cyclic behavior by means of a Support Vector Machine trained with a reliable set of positive and negative examples. The second step selects those genes having peak timing consistency along two cell cycles by means of a non-linear optimization technique using radial basis functions. To prove the effectiveness of our combined approach, we use recently published human fibroblasts cell cycle data and, performing in vivo experiments, we demonstrate that our computational strategy is able not only to confirm well-known cell cycle-regulated genes, but also to predict not yet identified ones.
+
+All scripts for implementation can be obtained on request.
+

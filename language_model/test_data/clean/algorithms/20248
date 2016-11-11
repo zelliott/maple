@@ -1,0 +1,3 @@
+
+This paper describes a new approach to feedback equalization for hearing aids. The method involves the use of an adaptive algorithm that estimates and tracks the characteristic of the hearing aid feedback path. The algorithm is described and the results of simulation studies and bench testing are presented.
+

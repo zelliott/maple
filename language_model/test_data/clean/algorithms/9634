@@ -1,0 +1,3 @@
+
+In this brief, a synthesis procedure for cellular neural networks (CNNs) with space-invariant cloning templates is proposed. The design algorithm is based on the use of the evolutionary algorithm of the particle swarm optimization (PSO) with the application to associative memories. The proposed synthesis procedure takes into account requirements in terms of robustness to parametric variations. Numerical results show that the networks also guarantee good performances in terms of correct recall in the presence of noisy patterns.
+

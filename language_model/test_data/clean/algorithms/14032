@@ -1,0 +1,9 @@
+
+To investigate whether contrast enhancement by non-interactive, sliding window adaptive histogram equalization (SWAHE) can enhance the image quality of intraoral radiographs in the dental clinic.
+
+Three dentists read 22 periapical and 12 bitewing storage phosphor (SP) radiographs. For the periapical readings they graded the quality of the examination with regard to visually locating the root apex. For the bitewing readings they registered all occurrences of approximal caries on a confidence scale. Each reading was first done on an unprocessed radiograph ("single-view"), and then re-done with the image processed with SWAHE displayed beside the unprocessed version ("twin-view"). The processing parameters for SWAHE were the same for all the images.
+
+For the periapical examinations, twin-view was judged to raise the image quality for 52% of those cases where the single-view quality was below the maximum. For the bitewing radiographs, there was a change of caries classification (both positive and negative) with twin-view in 19% of the cases, but with only a 3% net increase in the total number of caries registrations. For both examinations interobserver variance was unaffected.
+
+Non-interactive SWAHE applied to dental SP radiographs produces a supplemental contrast enhanced image which in twin-view reading improves the image quality of periapical examinations. SWAHE also affects caries diagnosis of bitewing images, and further study using a gold standard is warranted.
+

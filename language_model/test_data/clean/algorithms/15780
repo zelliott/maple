@@ -1,0 +1,5 @@
+
+Any triplet codon may be regarded as a 12-dimensional fuzzy code. Sufficient information about a particular sequence may not be available in certain situations. The investigator will be confronted with imprecise sequences, yet want to make comparisons of sequences. Fuzzy polynucleotides can be compared by using geometrical interpretation of fuzzy sets as points in a hypercube.
+
+We introduce the space of fuzzy polynucleotides and a means of measuring dissimilitudes between them. We establish mathematical principles to measure dissimilarities between fuzzy polynucleotides and present several examples in this metric space. We calculate the frequencies of the nucleotides at the three base sites of a codon in the coding sequences of Escherichia coli K-12 and Mycobacterium tuberculosis H37Rv, and consider them as points in that fuzzy space. We compute the distance between the genomes of E.coli and M.tuberculosis.
+

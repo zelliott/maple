@@ -1,0 +1,9 @@
+
+Combining multiple databases with disjunctive or additional information on the same person is occurring increasingly throughout research. If unique identification numbers for these individuals are not available, probabilistic record linkage is used for the identification of matching record pairs. In many applications, identifiers have to be encrypted due to privacy concerns.
+
+A new protocol for privacy-preserving record linkage with encrypted identifiers allowing for errors in identifiers has been developed. The protocol is based on Bloom filters on q-grams of identifiers.
+
+Tests on simulated and actual databases yield linkage results comparable to non-encrypted identifiers and superior to results from phonetic encodings.
+
+We proposed a protocol for privacy-preserving record linkage with encrypted identifiers allowing for errors in identifiers. Since the protocol can be easily enhanced and has a low computational burden, the protocol might be useful for many applications requiring privacy-preserving record linkage.
+

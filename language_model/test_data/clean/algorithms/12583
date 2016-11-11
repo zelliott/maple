@@ -1,0 +1,3 @@
+
+In this paper, some familiar algorithms of edge detection in ultrasound B-scan images are analyzed and studied. The results show that Sobel, Prewitt and Laplacian operators are sensitive to noise, Hough transform adapts to the whole detection, while LoG algorithm's average is zero and it couldn't change the whole dynamic area. Accordingly LoG algorithm is preferable.
+

@@ -1,0 +1,13 @@
+
+To estimate the effect of Employee Assistance Program (EAP) use on healthcare utilization as measured by health claims.
+
+A unique data set that combines individual-level information on EAP utilization, demographic information, and health insurance claims from 1991 to 1995 for all employees of a large midwestern employer.
+
+Using "fixed-effect" econometric models that control for unobserved differences between individuals' propensities to use healthcare resources and the EAP, we perform our analyses in two steps. First, for those employees who visited the EAP, we test whether post-EAP claims differ from pre-EAP claims. Second, we combine claims data of individuals who went to an EAP with those of individuals who did not use an EAP to test whether differences in utilization exist between EAP users and nonusers.
+
+From the EAP we obtained the date of first EAP contact for all employees who used the service, and from the company's human resources department we obtained limited demographic data on all employees. We obtained healthcare utilization claims data on all employees and their dependents from the company's two healthcare plans: a fee-for-service (FFS) plan and a health maintenance organization (HMO) plan.
+
+We found that going to an EAP substantially increases both the probability of an alcohol, drug abuse, or mental health (ADM) claim and the number of ADM claims in the same quarter as EAP contact. The increased probability of an ADM claim persists for approximately 11 quarters after the initial contact, while the increased ADM charges persist for approximately six quarters after the initial EAP contact.
+
+Our results strongly suggest that the EAP is able to identify behavioral and other health problems that may affect workplace performance and prompt EAP users to access ADM and other healthcare. Consistent with the stated goals of many EAPs, including the one examined in this study, this process should improve individuals' health, family functioning, and workplace performance.
+

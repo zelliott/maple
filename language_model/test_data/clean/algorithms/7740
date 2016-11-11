@@ -1,0 +1,3 @@
+
+The elements of an algorithm are presented which predicts for some simple forms (circles and ellipses) the kinematic and figural aspects of the trajectories of the human wrist when these are drawn in any arbitrary plane of free, three-dimensional space. The algorithm is based on theoretical considerations and experimental data and specifies in a unique way the angular motion at the shoulder and elbow joints by utilizing a coordinate transformation, which is only approximate, between the chosen extrinsic (trajectory) and intrinsic (joint angles) parameters. A way to extend the use of this algorithm to generate any arbitrary complex movement in all possible planes of space is also suggested.
+

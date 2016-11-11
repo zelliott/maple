@@ -1,0 +1,9 @@
+
+To elucidate the causes of aliasing artifacts with the BLADE technique and clarify the effective suppression methods.
+
+We separately observed the aliasing artifacts of BLADE from features inside and then outside the defined field-of-view (FOV) using phantom studies. The effectiveness of suppressing them with phase oversampling (POS) and presaturation pulses (SAT) was evaluated. Finally, our observations were confirmed for a healthy volunteer.
+
+Characteristic aliasing artifacts were observed from both inside and outside the FOV. Those from inside the FOV were sufficiently suppressed by using a POS of 25%, considering the acquisition time prolongation. Those from outside the FOV were nearly suppressed using SAT outside the FOV without selecting needless receiver coils. Aliasing artifacts on the coronal images of the head and neck with a healthy volunteer were completely suppressed by a combination of using a POS of 25% and using SAT on all four sides outside the FOV.
+
+The characteristic aliasing artifacts of BLADE are caused from both inside and outside the defined FOV. They can be effectively suppressed by a combination of using a POS of 25% and using SAT on all four sides outside the FOV.
+

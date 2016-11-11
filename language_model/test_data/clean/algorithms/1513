@@ -1,0 +1,3 @@
+
+Techniques to extract focus properties of microscopy images are many and varied. Many of them, however, rely on the summation of local statistical properties. Presented here is an examination of conventional focus determination algorithms, and a new method based on planar histograms of these local statistical properties. It is shown that this new method provides finer discernment of the focus properties of an image, and provides a means to extend the focus of an optical microscopy system.
+

@@ -1,0 +1,3 @@
+
+Overcomplete representations have greater robustness in noise environment and also have greater flexibility in matching structure in the data. Lewicki and Sejnowski (2000) proposed an efficient extended natural gradient for learning the overcomplete basis and developed an overcomplete representation approach. However, they derived their gradient by many approximations, and their proof is very complicated. To give a stronger theoretical basis, we provide a brief and more rigorous mathematical proof for this gradient in this note. In addition, we propose a more robust constrained Lewicki-Sejnowski gradient.
+

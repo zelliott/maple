@@ -1,0 +1,9 @@
+
+In the MCF7 human breast cancer cell line, several patterns of cytokeratin networks are observed, depending on the intracellular localization. Our hypothesis is that architectural variations of cytokeratin networks depend on local tensions or forces appearing spontaneously in the cytoplasm. The aim of this work was to discriminate between the different patterns and to quantitate these variations.
+
+Image analysis procedures were developed to extract cytokeratin filament networks visualized by immunofluorescence and confocal microscopy. Two methods were used to segment sets of curvilinear objects. The first, the "mesh-approach," based on classical methods of mathematical morphology, takes into account global network topology. The second, the "filament-approach" (novel), is meant to account for individual element morphology. These methods and their combination allow the computation of several features at two levels of geometry: global (network topology) and local (filament morphology).
+
+Variations in cytokeratin networks are characterized by their connectivity, density, mesh structure, and filament shape. The connectivity and the density of a network describe its location in a local "stress-force" zone or in a "relaxed" zone. The mesh structure characterizes the intracellular localization of the network. Moreover, the filament shape reflects the intracellular localization and the occurrence of a "stress-force" zone.
+
+These features permitted the quantitation of differences within the network patterns and within the specific filament shapes according to the intracellular localization. Further experiments on cells submitted to external forces will test the hypothesis that the architectural variations of intermediate filaments reflect intracytoplasmic tensions.
+

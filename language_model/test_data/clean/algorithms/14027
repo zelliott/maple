@@ -1,0 +1,3 @@
+
+In this paper, an automated method of boundary detection of the left ventricle (LV) is proposed. The method uses a watershed transform and morphological operation to locate the region containing the LV, then performs snake deformation with a multiscale directional edge map for the detection of the endocardial boundary of the LV.
+

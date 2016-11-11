@@ -1,0 +1,3 @@
+
+The planted (l, d)-motif search problem is a mathematical abstraction of the DNA functional site discovery task. In this paper, we propose a heuristic algorithm that can find planted (l, d)-signals in a given set of DNA sequences. Evaluations on simulated data sets demonstrate that the proposed algorithm outperforms current widely used motif finding algorithms. We also report the results of experiments on real biological data sets.
+

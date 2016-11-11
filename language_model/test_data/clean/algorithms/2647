@@ -1,0 +1,3 @@
+
+A general framework for solving image inverse problems with piecewise linear estimations is introduced in this paper. The approach is based on Gaussian mixture models, which are estimated via a maximum a posteriori expectation-maximization algorithm. A dual mathematical interpretation of the proposed framework with a structured sparse estimation is described, which shows that the resulting piecewise linear estimate stabilizes the estimation when compared with traditional sparse inverse problem techniques. We demonstrate that, in a number of image inverse problems, including interpolation, zooming, and deblurring of narrow kernels, the same simple and computationally efficient algorithm yields results in the same ballpark as that of the state of the art.
+

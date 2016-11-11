@@ -1,0 +1,3 @@
+
+On the basis of detailed analysis of ultrasonographic features in 105 breast masses (55 malignant, 50 benign), a computer-aided diagnostic system using fuzzy inference has been developed. Ultrasonographic features of a mass for the input data included shape, border, halo (boundary echoes), internal echoes, posterior echoes, and edge shadows (bilateral shadows). The probability of malignancy was described by an actual number ranging from 0.0 to 1.0. The algorithm of inference was constructed, and a sensitivity of 94.5% and specificity of 76.0% for cancer diagnosis were obtained.
+

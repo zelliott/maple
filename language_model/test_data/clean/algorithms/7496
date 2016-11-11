@@ -1,0 +1,3 @@
+
+The accurate and automated measuring of durations of certain human embryo stages is important to assess embryo viability and predict its clinical outcomes in in vitro fertilization (IVF). In this work, we present a multi-level embryo stage classification method to identify the number of cells at every time point of a time-lapse microscopy video of early human embryo development. The proposed method employs a rich set of hand-crafted and automatically learned embryo features for classification and avoids explicit segmentation or tracking of individual embryo cells. It was quantitatively evaluated using a total of 389 human embryo videos, resulting in a 87.92% overall embryo stage classification accuracy.
+

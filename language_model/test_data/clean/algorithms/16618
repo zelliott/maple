@@ -1,0 +1,9 @@
+
+The optimal electrode trajectory is needed to assist surgeons in planning Deep Brain Stimulation (DBS). A method for image-based trajectory planning was developed and tested.
+
+Rules governing the DBS surgical procedure were defined with geometric constraints. A formal geometric solver using multimodal brain images and a template built from 15 brain MRI scans were used to identify a space of possible solutions and select the optimal one. For validation, a retrospective study of 30 DBS electrode implantations from 18 patients was performed. A trajectory was computed in each case and compared with the trajectories of the electrodes that were actually implanted.
+
+Computed trajectories had an average difference of 6.45° compared with reference trajectories and achieved a better overall score based on satisfaction of geometric constraints. Trajectories were computed in 2 min for each case.
+
+A rule-based solver using pre-operative MR brain images can automatically compute relevant and accurate patient-specific DBS electrode trajectories.
+

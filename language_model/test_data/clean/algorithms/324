@@ -1,0 +1,3 @@
+
+Many spectroscopic applications of femtosecond laser pulses require properly-shaped spectral phase profiles. The optimal phase profile can be programmed on the pulse by adaptive pulse shaping. A promising optimization algorithm for such adaptive experiments is evolution strategy (ES). Here, we report a four fold increase in the rate of convergence and ten percent increase in the final yield of the optimization, compared to the direct parameterization approach, by using a new version of ES in combination with Legendre polynomials and frequency-resolved detection. Such a fast learning rate is of paramount importance in spectroscopy for reducing the artifacts of laser drift, optical degradation, and precipitation.
+

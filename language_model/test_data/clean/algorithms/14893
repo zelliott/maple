@@ -1,0 +1,7 @@
+
+It is well known that eukaryotic mRNAs are translated at different levels depending on their sequence characteristics. Evaluation of mRNA translatability is of importance in prediction of the gene expression pattern by computer methods and to improve the recognition of mRNAs within cloned nucleotide sequences. It may also be used in biotechnological experiments to optimize the expression of foreign genes in transgenic organisms.
+
+The sets of 5' untranslated region characteristics, significantly different between mRNAs encoding abundant and scarce polypeptides, were determined for mammals, dicot plants and monocot plants, and collected in the LEADER_RNA database. Computer tools for the prediction of mRNA translatability are presented.
+
+Programs for mRNA translatability prediction are available at http://wwwmgs.bionet.nsc. ru/programs/acts2/mo_mRNA.htm (for monocots), http://wwwmgs.bionet. nsc.ru/programs/acts2/di_mRNA.htm (for dicots) and http://wwwmgs. bionet.nsc.ru/programs/acts2/ma_mRNA.htm (for mammals). The LEADER_RNA database may be accessed at: http://wwwmgs.bionet.nsc. ru/systems/LeaderRNA/.
+

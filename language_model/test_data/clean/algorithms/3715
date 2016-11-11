@@ -1,0 +1,7 @@
+
+Conventional ICD algorithms yield approximately 10-30% of spurious interventions. Our aim was to check whether nonlinear dynamics methods might be useful in the verification of ICD interventions.
+
+We extracted 190 consecutive RR files (approximately 2000-9000 RR intervals long) from the ICDs of 70 patients (36 with coronary artery disease, 8 with hypertrophic cardiomyopathy, 19 with dilated cardiomyopathy and 7 with other diseases). The 3D phase space trajectories in delay coordinates, window pattern entropy, and algorithmic complexity of the RR intervals were examined within a 50 beat sliding window. Data were not filtered for arrhythmia and artefacts. Of the 83 recordings with appropriate interventions 79 were correctly recognised in a blind test. Two interventions were not identified in patients with fast atrial fibrillation and two in cases of complex and frequent forms of arrhythmia. There were nine spurious interventions. In all except one case (atrial fibrillation with a fast ventricular response) the analysis by nonlinear methods showed that the intervention was not necessary. All of the 98 control recordings were correctly identified in the blind test.
+
+The results show that nonlinear dynamics methods may be used to supplement the existing ICD detection algorithms to enhance the detection success rate.
+

@@ -1,0 +1,9 @@
+
+The purpose of this article was to investigate how exceeding specified rectal wall dose-volume constraints impacts on the risk of late rectal bleeding by using radiobiologic calculations.
+
+Dose-volume histograms (DVH) of the rectal wall of 250 patients with prostate cancer were analyzed. All patients were treated by three-dimensional conformal radiation therapy, receiving mean target doses of 80 Gy. To study the main features of the patient population, the average and the standard deviation of the distribution of DVHs were generated. The mean dose <D>, generalized equivalent uniform dose formulation (gEUD), modified equivalent uniform dose formulation (mEUD)(0), and normal tissue complication probability (NTCP) distributions were also produced. The DVHs set was then binned into eight classes on the basis of the exceeding or the fulfilling of three dose-volume constraints: V(40) = 60%, V(50) = 50%, and V(70) = 25%. Comparisons were made between them by <D>, gEUD, mEUD(0), and NTCP.
+
+The radiobiologic calculations suggest that late rectal toxicity is mostly influenced by V(70). The gEUD and mEUD(0) are risk factors of toxicity always concordant with NTCP, inside each DVH class. The mean dose, although a reliable index, may be misleading in critical situations.
+
+Both in three-dimensional conformal radiation therapy and particularly in intensity-modulated radiation therapy, it should be known what the relative importance of each specified dose-volume constraint is for each organ at risk. This requires a greater awareness of radiobiologic properties of tissues and radiobiologic indices may help to gradually become aware of this issue.
+

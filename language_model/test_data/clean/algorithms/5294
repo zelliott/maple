@@ -1,0 +1,7 @@
+
+Statistical approaches for protein design are relevant in the field of molecular evolutionary studies. In recent years, new, so-called structurally constrained (SC) models of protein-coding sequence evolution have been proposed, which use statistical potentials to assess sequence-structure compatibility. In a previous work, we defined a statistical framework for optimizing knowledge-based potentials especially suited to SC models. Our method used the maximum likelihood principle and provided what we call the joint potentials. However, the method required numerical estimations by the use of computationally heavy Markov Chain Monte Carlo sampling algorithms.
+
+Here, we develop an alternative optimization procedure, based on a leave-one-out argument coupled to fast gradient descent algorithms. We assess that the leave-one-out potential yields very similar results to the joint approach developed previously, both in terms of the resulting potential parameters, and by Bayes factor evaluation in a phylogenetic context. On the other hand, the leave-one-out approach results in a considerable computational benefit (up to a 1,000 fold decrease in computational time for the optimization procedure).
+
+Due to its computational speed, the optimization method we propose offers an attractive alternative for the design and empirical evaluation of alternative forms of potentials, using large data sets and high-dimensional parameterizations.
+

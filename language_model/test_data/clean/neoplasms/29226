@@ -1,0 +1,9 @@
+
+Automated border detection is an important and challenging task in the computerized analysis of dermoscopy images. However, dermoscopic images often contain artifacts such as illumination, dermoscopic gel, and outline (hair, skin lines, ruler markings, and blood vessels). As a result, there is a need for robust methods to remove artifacts and detect lesion borders in dermoscopy images.
+
+This automated method consists of three main steps: (1) preprocessing, (2) edge candidate point detection, and (3) tumor outline delineation. First, algorithms to reduce artifacts were used. Second, a least-squares method (LSM) was performed to acquire edge points. Third, dynamic programming (DP) technique was used to find the optimal boundary of the lesion. Statistical measures based on dermatologist-drawn borders were utilized as ground-truth to evaluate the performance of the proposed method.
+
+The method is tested on a total of 240 dermoscopic images: 30 benign melanocytic, 50 malignant melanomas, 50 basal cell carcinomas, 20 Merkel cell carcinomas, 60 seborrheic keratosis, and 30 atypical naevi. We obtained mean border detection error of 8.6%, 5.04%, 9.0%, 7.02%, 2.01%, and 3.24%, respectively.
+
+The results demonstrate that border detection combined with artifact removal increases sensitivity and specificity for segmentation of lesions in dermoscopy images.
+

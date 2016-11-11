@@ -1,0 +1,5 @@
+
+We propose a Bayesian method for the problem of multiple hypothesis testing that is routinely encountered in bioinformatics research, such as the differential gene expression analysis. Our algorithm is based on modeling the distributions of test statistics under both null and alternative hypotheses. We substantially reduce the complexity of the process of defining posterior model probabilities by modeling the test statistics directly instead of modeling the full data. Computationally, we apply a Bayesian FDR approach to control the number of rejections of null hypotheses. To check if our model assumptions for the test statistics are valid for various bioinformatics experiments, we also propose a simple graphical model-assessment tool.
+
+Using extensive simulations, we demonstrate the performance of our models and the utility of the model-assessment tool. In the end, we apply the proposed methodology to an siRNA screening and a gene expression experiment.
+

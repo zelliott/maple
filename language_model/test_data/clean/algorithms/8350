@@ -1,0 +1,3 @@
+
+TEFOOL/2, a program written in BASIC, is presented in this paper. The purpose of TEFOOL/2 is to provide people interested in drug design with an easy-to-handle program where some of the most important techniques in QSAR are included. The program permits the selection of the training series, performs regression calculations and searches for optimum substituents. The latter is achieved by using either a Hansch's strategy or geometrical procedures. The program is interactive and can be implemented on an IBM-PC or compatible microcomputer. Although TEFOOL/2 has been developed for its application in drug design studies, its great flexibility makes it suitable for application to any experimental design or optimization process.
+

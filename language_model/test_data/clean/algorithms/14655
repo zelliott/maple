@@ -1,0 +1,9 @@
+
+Diagnosing acute appendicitis clinically is still difficult. We developed random forests, support vector machines, and artificial neural network models to diagnose acute appendicitis.
+
+Between January 2006 and December 2008, patients who had a consultation session with surgeons for suspected acute appendicitis were enrolled. Seventy-five percent of the data set was used to construct models including random forest, support vector machines, artificial neural networks, and logistic regression. Twenty-five percent of the data set was withheld to evaluate model performance. The area under the receiver operating characteristic curve (AUC) was used to evaluate performance, which was compared with that of the Alvarado score.
+
+Data from a total of 180 patients were collected, 135 used for training and 45 for testing. The mean age of patients was 39.4 years (range, 16-85). Final diagnosis revealed 115 patients with and 65 without appendicitis. The AUC of random forest, support vector machines, artificial neural networks, logistic regression, and Alvarado was 0.98, 0.96, 0.91, 0.87, and 0.77, respectively. The sensitivity, specificity, positive, and negative predictive values of random forest were 94%, 100%, 100%, and 87%, respectively. Random forest performed better than artificial neural networks, logistic regression, and Alvarado.
+
+We demonstrated that random forest can predict acute appendicitis with good accuracy and, deployed appropriately, can be an effective tool in clinical decision making.
+

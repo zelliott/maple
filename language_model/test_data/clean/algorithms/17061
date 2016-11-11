@@ -1,0 +1,3 @@
+
+An improved algorithm was elaborated to analyse tRNA interaction with aminoacyl-tRNA synthetase based on analysis of tRNA sequences. The fundamental element defining the interaction between the tRNA and the synthetase is not a single nucleotide but a nucleotide combination named a tile which comprises of a given nucleotide and its neighbours as they are defined by the tertiary structure of the molecule. Informational content of each tile is calculated as its probability to occur exclusively in a set of cognate tRNAs. Based on this algorithm the identity sites of E. coli tRNA(Ala) and tRNA(Gln) were determined. The results are in a good agreement with the biochemical data and provide new information about identity sites of these tRNAs.
+

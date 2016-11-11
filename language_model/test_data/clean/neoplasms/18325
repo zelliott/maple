@@ -1,0 +1,9 @@
+
+The aim of this article is to map the European Organization for Research and Treatment of Cancer (EORTC) QLQ C-30 onto the EQ-5D measure to enable the estimation of health state values based on the EORTC QLQ C-30 data. The EORTC QLQ C-30 is of interest because it is the most commonly used instrument to measure the quality of life of cancer patients.
+
+Regression analysis is used to establish the relationship between the two instruments. The performance of the model is assessed in terms of how well the responses to the EORTC QLQ C-30 predict the EQ-5D responses for a separate data set.
+
+The results showed that the model explaining EQ-5D values predicted well. All of the actual values were within the 95% confidence intervals of the predicted values. More importantly, predicted difference in quality-adjusted life-years (QALYs) between the arms of the trial was almost identical to the actual difference.
+
+There is potential to estimate EQ-5D values using responses to the disease-specific EORTC QLQ C-30 measure of quality of life. Such potential implies that in studies that do not include disease-specific measures, it might still be possible to estimate QALYs.
+

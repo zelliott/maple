@@ -1,0 +1,3 @@
+
+Eye movements are studied in neurophysiology, neurology, ophthalmology, and otology both clinically and in research. In this article, a syntactic method for recognition of horizontal nystagmus and smooth pursuit eye movements is presented. Eye movement signals, which are recorded, for example, electro-oculographically, are transformed into symbol strings of context free grammars. These symbol strings are fed to an LR(k) parser, which detects eye movements as sentences of the formal languages produced by these LR(k) grammars. Since LR(k) grammars have been used, the time required by the whole recognition method is directly proportional to the number of symbols in an input string.
+

@@ -1,0 +1,9 @@
+
+High-resolution multistage MS(n) data contains detailed information that can be used for structural elucidation of compounds observed in metabolomics studies. However, full exploitation of this complex data requires significant analysis efforts by human experts. In silico methods currently used to support data annotation by assigning substructures of candidate molecules are limited to a single level of MS fragmentation.
+
+We present an extended substructure-based approach which allows annotation of hierarchical spectral trees obtained from high-resolution multistage MS(n) experiments. The algorithm yields a hierarchical tree of substructures of a candidate molecule to explain the fragment peaks observed at consecutive levels of the multistage MS(n) spectral tree. A matching score is calculated that indicates how well the candidate structure can explain the observed hierarchical fragmentation pattern.
+
+The method is applied to MS(n) spectral trees of a set of compounds representing important chemical classes in metabolomics. Based on the calculated score, the correct molecules were successfully prioritized among extensive sets of candidates structures retrieved from the PubChem database.
+
+The results indicate that the inclusion of subsequent levels of fragmentation in the automatic annotation of MS(n) data improves the identification of the correct compounds. We show that, especially in the case of lower mass accuracy, this improvement is not only due to the inclusion of additional fragment ions in the analysis, but also to the specific hierarchical information present in the MS(n) spectral trees. This method may significantly reduce the time required by MS experts to analyze complex MS(n) data.
+

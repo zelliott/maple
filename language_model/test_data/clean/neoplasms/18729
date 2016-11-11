@@ -1,0 +1,9 @@
+
+Cancer patients are at high risks of drug-drug interactions (DDIs). Clinicians need to know the magnitude of DDIs so as to better manage their patients' drug therapies. We have previously created a novel interaction database for oncology prescriptions (OncoRx). In this project, we leverage on 3G networks to further develop this database into an iPhone-specific application for the mobile internet (OncoRx-MI).
+
+Data on anticancer drugs (ACDs), chemotherapy regimens (CRegs) and DDIs with psychotropics were compiled from various hardcopy and online resources, and published articles from PubMed, Scopus and Science Direct. The database and iPhone web documents were designed using Adobe Dreamweaver CS4 and associated with a combination of open-source programming scripts.
+
+OncoRx-MI currently detects over 5000 DDIs (69.3% pharmacokinetic, 30.7% pharmacodynamic) between 256 single-agent and combination CRegs with 51 psychotropic drugs. OncoRx-MI fits the iPhone screen configuration, and displays information regarding the regimen, pharmacokinetics of the drugs and detected DDIs in tabular format for improved usability.
+
+OncoRx-MI is the first mobile DDI application of its kind which detects interactions for combination CRegs. Future versions will include DDIs with other drug categories. Usability studies on its impact in clinical practice will also be carried out.
+

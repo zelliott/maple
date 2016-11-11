@@ -1,0 +1,3 @@
+
+We apply a recently published method of text-based molecular similarity searching (LINGO) to standard data sets for the purpose of quantifying the accuracy of the approach. Our implementation is based on a pattern-matching finite state machine (FSM) which results in fast search times. The accuracy of LINGO is demonstrated to be comparable to that of a path-based fingerprint and offers a simple yet effective method for similarity searching.
+

@@ -1,0 +1,7 @@
+
+MicroRNAs are small endogenously expressed non-coding RNA molecules that regulate target gene expression through translation repression or messenger RNA degradation. MicroRNA regulation is performed through pairing of the microRNA to sites in the messenger RNA of protein coding genes. Since experimental identification of miRNA target genes poses difficulties, computational microRNA target prediction is one of the key means in deciphering the role of microRNAs in development and disease.
+
+DIANA-microT 3.0 is an algorithm for microRNA target prediction which is based on several parameters calculated individually for each microRNA and combines conserved and non-conserved microRNA recognition elements into a final prediction score, which correlates with protein production fold change. Specifically, for each predicted interaction the program reports a signal to noise ratio and a precision score which can be used as an indication of the false positive rate of the prediction.
+
+Recently, several computational target prediction programs were benchmarked based on a set of microRNA target genes identified by the pSILAC method. In this assessment DIANA-microT 3.0 was found to achieve the highest precision among the most widely used microRNA target prediction programs reaching approximately 66%. The DIANA-microT 3.0 prediction results are available online in a user friendly web server at http://www.microrna.gr/microT.
+

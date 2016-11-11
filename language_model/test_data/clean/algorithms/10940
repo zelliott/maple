@@ -1,0 +1,3 @@
+
+We describe a computer program that uses mutually orthogonal Latin squares (MOLS) to perform an efficient and exhaustive conformational search of the multi-dimensional potential energy hypersurface of an oligopeptide, and locate all its low energy conformations. The software package has been developed with a user-friendly graphical interface using the Fast Light Tool Kit (FLTK)--a cross platform C++ toolkit.
+

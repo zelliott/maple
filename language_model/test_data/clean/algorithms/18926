@@ -1,0 +1,7 @@
+
+Affymetrix arrays use multiple probes per gene to measure mRNA abundances. Standard software takes averages over probes. Important information may be lost if polymorphisms in the mRNA affect the hybridization of individual probes.
+
+We present custom software to analyze genetical genomics experiments in human, mouse and other organisms: (i) an R package providing functions for QTL analysis at the individual probe level and (ii) Perl scripts providing custom tracks in the UCSC Genome Browser to check for sequence polymorphisms in probe regions.
+
+http://gbic.biol.rug.nl/supplementary.
+

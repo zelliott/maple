@@ -1,0 +1,7 @@
+
+The standard L(2)-norm support vector machine (SVM) is a widely used tool for microarray classification. Previous studies have demonstrated its superior performance in terms of classification accuracy. However, a major limitation of the SVM is that it cannot automatically select relevant genes for the classification. The L(1)-norm SVM is a variant of the standard L(2)-norm SVM, that constrains the L(1)-norm of the fitted coefficients. Due to the singularity of the L(1)-norm, the L(1)-norm SVM has the property of automatically selecting relevant genes. On the other hand, the L(1)-norm SVM has two drawbacks: (1) the number of selected genes is upper bounded by the size of the training data; (2) when there are several highly correlated genes, the L(1)-norm SVM tends to pick only a few of them, and remove the rest.
+
+We propose a hybrid huberized support vector machine (HHSVM). The HHSVM combines the huberized hinge loss function and the elastic-net penalty. By doing so, the HHSVM performs automatic gene selection in a way similar to the L(1)-norm SVM. In addition, the HHSVM encourages highly correlated genes to be selected (or removed) together. We also develop an efficient algorithm to compute the entire solution path of the HHSVM. Numerical results indicate that the HHSVM tends to provide better variable selection results than the L(1)-norm SVM, especially when variables are highly correlated.
+
+R code are available at http://www.stat.lsa.umich.edu/~jizhu/code/hhsvm/.
+

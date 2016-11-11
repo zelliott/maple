@@ -1,0 +1,9 @@
+
+Although HLA identity between donor and recipient is no longer an absolute requirement for bone marrow transplantation, knowledge of the degree of HLA compatibility is necessary for determining the induction and immunosuppression regimen to be used. In cases of related donor transplantation, HLA compatibility may be assessed by defining the HLA phenotypes at the allele level using high-resolution, DNA-based typing methods or by determining the genotypes of the patient and potential donor from the HLA phenotypes, ascertained by low-resolution typing, of their family members.
+
+We developed an algorithm that can be used to assess the relative costs of these two approaches. We applied population frequencies for HLA-DR alleles to this algorithm to determine at what cost per test ratio for high-resolution:low-resolution testing the costs of the two approaches are equal.
+
+In transplants involving a sibling pair who have the same HLA-A, -B, and -DR antigens, these values are 1.16-1.83 for African-Americans and 1.23-1.97 for Caucasians, depending on the relatives available for testing. With a slight increase in the resolution level achieved with DR antigen testing, the range of values becomes 1.10-1.74. We also estimated that the probability that two antigenically identical siblings have identical HLA-DRB1 alleles is >99% for both African-Americans and Caucasians. A review of 615 cases from our transplant program showed that all of 192 pairs of antigenically identical patients and sibling donors were genotypically or allelically identical, indicating that this estimate is valid.
+
+Transplant programs can apply these algorithms to determine the most cost-effective scheme for histocompatibility testing.
+

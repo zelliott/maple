@@ -1,0 +1,3 @@
+
+This article describes and demonstrates the BayesGCM software package. The software is designed to perform Bayesian analysis with the generalized context model (GCM). It is intended to make the GCM easily accessible to a general public of experimental, social, and clinical psychologists interested in category learning, sensitivity, and attention. The software uses MATLAB and relies on WinBUGS to draw samples from the posterior distribution of the GCM's parameters. The returned output comprises the full set of posterior samples, summary descriptive statistics, and graphs of the posterior distribution for each parameter of interest.
+

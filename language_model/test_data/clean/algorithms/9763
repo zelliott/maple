@@ -1,0 +1,9 @@
+
+The analysis of pelvic CT scans is a crucial step for detecting and assessing the severity of Traumatic Pelvic Injuries. Automating the processing of pelvic CT scans could impact decision accuracy, decrease the time for decision making, and reduce health care cost. This paper discusses a method to automate the segmentation of bone from pelvic CT images. Accurate segmentation of bone is very important for developing an automated assisted-decision support system for Traumatic Pelvic Injury diagnosis and treatment.
+
+The automated method for pelvic CT bone segmentation is a hierarchical approach that combines filtering and histogram equalization, for image enhancement, wavelet analysis and automated seeded region growing. Initial results of segmentation are used to identify the region where bone is present and to target histogram equalization towards the specific area. Speckle Reducing Anisotropic Didffusion (SRAD) filter is applied to accentuate the desired features in the region. Automated seeded region growing is performed to refine the initial bone segmentation results.
+
+The proposed method automatically processes pelvic CT images and produces accurate segmentation. Bone connectivity is achieved and the contours and sizes of bones are true to the actual contour and size displayed in the original image. Results are promising and show great potential for fracture detection and assessing hemorrhage presence and severity.
+
+Preliminary experimental results of the automated method show accurate bone segmentation. The novelty of the method lies in the unique hierarchical combination of image enhancement and segmentation methods that aims at maximizing the advantages of the combined algorithms. The proposed method has the following advantages: it produces accurate bone segmentation with maintaining bone contour and size true to the original image and is suitable for automated bone segmentation from pelvic CT images.
+

@@ -1,0 +1,3 @@
+
+We show how statistical methods based on directed graphs may be useful in modeling traffic fatalities by comparing models specified using directed graphs to a model originally developed by Peltzman. The comparison uses Peltzman's original data, as well as up-dated data (and coefficients) through 1993. Out-of-sample forecasts of traffic fatalities from Peltzman's model are compared with those from a model constructed using directed graphs over data for the more recent period. The directed graphs model outperforms Peltzman's model in root mean squared forecast error.
+

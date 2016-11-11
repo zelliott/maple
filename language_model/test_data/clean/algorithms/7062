@@ -1,0 +1,3 @@
+
+A triangulation algorithm for a dotted surface (i.e. a surface defined by point coordinates in three dimensions) is given. The individual triangles are generated on the basis of a hierarchy of strategies according to increasing surface complexity. While for small molecules an elementary algorithm is sufficient to triangulate the surface, large molecules-like proteins-generally need all steps of the hierarchy. Although this program has been developed with the aim of triangulating molecular surfaces, it can in principle be applied to any surface defined by 3D point coordinates.
+

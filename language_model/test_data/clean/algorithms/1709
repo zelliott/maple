@@ -1,0 +1,11 @@
+
+T-wave oversensing (TWOS) may cause inappropriate shocks in patients with implantable cardioverter-defibrillator (ICD). Programming options to prevent TWOS are usually implemented only after TWOS has occurred, and they may compromise sensing of ventricular fibrillation (VF).
+
+To evaluate an ICD algorithm that differentiates TWOS from ventricular tachycardia (VT) or VF to prevent inappropriate detection of VT/VF when TWOS occurs.
+
+We developed a TWOS algorithm based on both the differential frequency content of R vs T waves and their alternating pattern. Algorithm parameters were developed from a database of stored electrograms. The algorithm was validated on a hardware system consisting of actual ICD circuitry by using an independent database of stored electrograms including inappropriate detections of both VT/VF caused by spontaneous TWOS and induced true VF to assess delays in detection.
+
+We tested 83 inappropriate detections of VF due to TWOS from 22 patients. All 22 patients had at least 1 successful rejection of TWOS, and rejection was effective in 80 of the 83 episodes. After adjustment for multiple episodes per patient, specificity was 96.6% (95% confidence interval 90.3%-98.8%). In 166 episodes of true VF in 92 patients, the sensitivity for VF detection was 100% (95% confidence interval 98.2%-100%) at a nominal sensitivity of 0.3 mV; the new TWOS algorithm did not delay the detection of VF.
+
+A novel TWOS rejection algorithm is designed to operate in real time. The algorithm reduced inappropriate detections of VF in spontaneous TWOS episodes by 96.6% while maintaining 100% sensitivity for detecting true VF.
+

@@ -1,0 +1,3 @@
+
+Many relevant process states in wastewater treatment are not measurable, or their measurements are subject to considerable uncertainty. This poses a serious problem for process monitoring and control. Model-based state estimation can provide estimates of the unknown states and increase the reliability of measurements. In this paper, an integrated approach is presented for the optimization-based sensor network design and the estimation problem. Using the ASM1 model in the reference scenario BSM1, a cost-optimal sensor network is designed and the prominent estimators EKF and MHE are evaluated. Very good estimation results for the system comprising 78 states are found requiring sensor networks of only moderate complexity.
+

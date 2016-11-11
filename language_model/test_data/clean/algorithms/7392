@@ -1,0 +1,7 @@
+
+Flow cytometry has been widely used for the diagnosis of various hematopoietic diseases. Although there have been advances in the number of biomarkers that can be analyzed simultaneously and technologies that enable fast performance, the diagnostic data are still interpreted by a manual gating strategy. The process is labor-intensive, time-consuming, and subject to human error.
+
+We used 80 sets of flow cytometry data from 44 healthy donors, 21 patients with chronic lymphocytic leukemia (CLL), and 15 patients with follicular lymphoma (FL). Approximately 15% of data from each group were used to build the profiles. Our approach was able to successfully identify 36/37 healthy donor cases, 18/18 CLL cases, and 12/13 FL cases.
+
+This proof-of-concept study demonstrated that an automated diagnosis of CLL and FL can be obtained by examining the cell capture rates of a test case using the computational method based on the multi-profile detection algorithm. The testing phase of our system is efficient and can facilitate diagnosis of B-lymphocyte neoplasms.
+

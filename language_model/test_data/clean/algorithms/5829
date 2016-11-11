@@ -1,0 +1,3 @@
+
+Deconvolution algorithms are tools for the restoration of data degraded by blur and noise. An incorporation of regularization functions into the iterative form of reconstruction algorithms can improve the restoration performance and characteristics (e.g. noise and artefact handling). In this study, algorithms based on Richardson-Lucy deconvolution algorithm are tested. The ability of these algorithms to improve axial resolution of three-dimensional data sets is evaluated on model synthetic data. Finally, unregularized Richardson-Lucy algorithm is selected for the evaluation and reconstruction of three-dimensional chromosomal data sets of Drosophila melanogaster. Problems concerning the reconstruction process are discussed and further improvements are proposed.
+

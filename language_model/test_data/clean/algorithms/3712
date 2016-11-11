@@ -1,0 +1,3 @@
+
+Paroxysmal atrial fibrillation (PAF) is one of the most common heart arrhythmias. It is very difficult to detect unless an explicit Atrial Fibrillation episode occurs during the exploration. The present paper describes a number of low level parameters extracted from ECG traces where no Atrial Fibrillation process is present. The ability of this parameter set to characterize PAF patients is studied and discussed. Based on these parameters a modular automatic classification algorithm for PAF diagnosis is developed and evaluated.
+

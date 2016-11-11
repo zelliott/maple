@@ -1,0 +1,7 @@
+
+CRH_Server is an on line Comparative and Radiation Hybrid mapping Server dedicated to canine genomics. CRH_Server allows users to compute their own RH data using the current canine RH map, and allows comparative dog/human mapping analyses. Finally, it suggests multiple options for storage and queries of the dog RH database.
+
+http://idefix.univ-rennes1.fr:8080/Dogs/rh-server.html.
+
+All information is available at http://idefix.univ-rennes1.fr:8080/Dogs/help_rh-server.html.
+

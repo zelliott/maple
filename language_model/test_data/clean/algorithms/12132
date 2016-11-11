@@ -1,0 +1,3 @@
+
+We propose a novel scheme for error-resilient image transmission. The proposed scheme employs a product coder consisting of low-density parity check (LDPC) codes and Reed-Solomon codes in order to deal effectively with bit errors. The efficiency of the proposed scheme is based on the exploitation of determinate symbols in Tanner graph decoding of LDPC codes and a novel product code optimization technique based on error estimation. Experimental evaluation demonstrates the superiority of the proposed system in comparison to recent state-of-the-art techniques for image transmission.
+

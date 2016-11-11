@@ -1,0 +1,9 @@
+
+Advances in biotechnology have changed the manner of characterizing large populations of microbial communities that are ubiquitous across several environments."Metagenome" sequencing involves decoding the DNA of organisms co-existing within ecosystems ranging from ocean, soil and human body. Several researchers are interested in metagenomics because it provides an insight into the complex biodiversity across several environments. Clinicians are using metagenomics to determine the role played by collection of microbial organisms within human body with respect to human health wellness and disease.
+
+We have developed an efficient and scalable, species richness estimation algorithm that uses locality sensitive hashing (LSH). Our algorithm achieves efficiency by approximating the pairwise sequence comparison operations using hashing and also incorporates matching of fixed-length, gapless subsequences criterion to improve the quality of sequence comparisons. We use LSH-based similarity function to cluster similar sequences and make individual groups, called operational taxonomic units (OTUs). We also compute different species diversity/richness metrics by utilizing OTU assignment results to further extend our analysis.
+
+The algorithm is evaluated on synthetic samples and eight targeted 16S rRNA metagenome samples taken from seawater. We compare the performance of our algorithm with several competing diversity estimation algorithms. We show the benefits of our approach with respect to computational runtime and meaningful OTU assignments. We also demonstrate practical significance of the developed algorithm by comparing bacterial diversity and structure across different skin locations.
+
+http://www.cs.gmu.edu/~mlbio/LSH-DIV.
+

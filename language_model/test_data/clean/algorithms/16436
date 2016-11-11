@@ -1,0 +1,3 @@
+
+This letter describes a fast and very simple algorithm for estimating the fetal electrocardiogram (FECG). It is based on independent component analysis, but we substitute its computationally demanding calculations for a much simpler procedure. The resulting method consists of two steps: 1) a dimensionality reduction step and 2) a computationally light postprocessing stage used to enhance the FECG signal.
+

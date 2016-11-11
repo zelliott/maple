@@ -1,0 +1,3 @@
+
+The fractal dimensions of color-specific paint patterns in various Jackson Pollock paintings are calculated using a filtering process that models perceptual response to color differences (L*a*b* color space). The advantage of the L*a*b* space filtering method over traditional red-green-blue (RGB) spaces is that the former is a perceptually uniform (metric) space, leading to a more consistent definition of "perceptually different" colors. It is determined that the RGB filtering method underestimates the perceived fractal dimension of lighter-colored patterns but not of darker ones, if the same selection criteria is applied to each. Implications of the findings to Fechner's "principle of the aesthetic middle" and Berlyne's work on perception of complexity are discussed.
+

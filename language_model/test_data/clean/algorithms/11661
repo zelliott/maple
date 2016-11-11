@@ -1,0 +1,5 @@
+
+We have developed a WWW server, HBPRINT, for the identification of hydrogen-bond signature patterns in protein families from their structures. The server calculates (a) common hydrogen bonds between two structures (b) a hydrogen-bond fingerprint in a set of structural neighbours and (c) details of conserved hydrogen bonds. The server also enables the visualization of the hydrogen bond network comprising the signature pattern.
+
+HBPRINT and a tutorial are available from http://144.16.93.115/hb_page/index.html.
+

@@ -1,0 +1,3 @@
+
+The instar and outstar synaptic models are among the oldest and most useful in the field of neural networks. In this paper we show how to approximate the behavior of instar and outstar synapses in neuromorphic electronic systems using memristive nanodevices and spiking neurons. Memristive nanodevices are especially attractive for this application since such devices are tiny, can be densely packed in crossbar-like structures and possess the long time constants, or memory, needed by the synaptic models.
+

@@ -1,0 +1,9 @@
+
+Linear least squares estimators are widely used in diffusion MRI for the estimation of diffusion parameters. Although adding proper weights is necessary to increase the precision of these linear estimators, there is no consensus on how to practically define them. In this study, the impact of the commonly used weighting strategies on the accuracy and precision of linear diffusion parameter estimators is evaluated and compared with the nonlinear least squares estimation approach.
+
+Simulation and real data experiments were done to study the performance of the weighted linear least squares estimators with weights defined by (a) the squares of the respective noisy diffusion-weighted signals; and (b) the squares of the predicted signals, which are reconstructed from a previous estimate of the diffusion model parameters.
+
+The negative effect of weighting strategy (a) on the accuracy of the estimator was surprisingly high. Multi-step weighting strategies yield better performance and, in some cases, even outperformed the nonlinear least squares estimator.
+
+If proper weighting strategies are applied, the weighted linear least squares approach shows high performance characteristics in terms of accuracy/precision and may even be preferred over nonlinear estimation methods.
+

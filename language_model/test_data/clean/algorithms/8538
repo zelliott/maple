@@ -1,0 +1,9 @@
+
+of the second part of the investigation was the evaluation of a newly developed adaptive autowindow algorithm in comparison to the system processing radiographs of the wrist and ankle to further optimize the image quality with softcopy reading.
+
+All 120 radiographs of the wrist and all 100 radiographs of the ankle used in the 1st part of this paper were processed with the adaptive autowindow algorithm. The evaluation was again performed by 5 radiologists with softcopy reading. For the data analysis a variation of the Visual Grading Analysis (VGA) was used.
+
+Up to 19 % of the wrist radiographs and 2 % of the ankle radiographs processed with the system software had to be processed manually afterwards to get acceptable results. By the application of the adaptive autowindow algorithm a manual post-processing was no longer necessary. Highly significant (p less-than-or-equal 0.001) differences for all criteria to be evaluated were found for the wrist radiographs and in the case of the ankle radiographs for the bone contrast, the contrast in soft-tissue regions, the fine details in the bone and the artifacts, the adaptive autowindow algorithm performed always better than the system software.
+
+Using half of the exposition dose on a flat-panel detector, an optimized post-processing leads to comparable or better results compared to the conventional film-screen-system concerning the image quality.
+

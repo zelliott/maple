@@ -1,0 +1,3 @@
+
+This paper studies the global asymptotic stability problem of a class of reaction–diffusion neural networks with time-varying delays. To overcome the difficulty caused by the partial differential term, a novel Lyapunov–Krasovskii functional is proposed, and a partial differential equation technique together with a linear operator approach are also applied to obtain the delay-dependent stability criteria, which are less conservative than the existing results. Finally, simulation examples are given to verify and illustrate the theoretical analysis.
+

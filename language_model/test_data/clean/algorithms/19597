@@ -1,0 +1,7 @@
+
+Previous studies demonstrated breast cancer tumor tissue samples could be classified into different subtypes based upon DNA microarray profiles. The most recent study presented evidence for the existence of five different subtypes: normal breast-like, basal, luminal A, luminal B, and ERBB2+.
+
+Based upon the analysis of 599 microarrays (five separate cDNA microarray datasets) using a novel approach, we present evidence in support of the most consistently identifiable subtypes of breast cancer tumor tissue microarrays being: ESR1+/ERBB2-, ESR1-/ERBB2-, and ERBB2+ (collectively called the ESR1/ERBB2 subtypes). We validate all three subtypes statistically and show the subtype to which a sample belongs is a significant predictor of overall survival and distant-metastasis free probability.
+
+As a consequence of the statistical validation procedure we have a set of centroids which can be applied to any microarray (indexed by UniGene Cluster ID) to classify it to one of the ESR1/ERBB2 subtypes. Moreover, the method used to define the ESR1/ERBB2 subtypes is not specific to the disease. The method can be used to identify subtypes in any disease for which there are at least two independent microarray datasets of disease samples.
+

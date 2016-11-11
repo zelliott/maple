@@ -1,0 +1,11 @@
+
+A precise detection of volume change allows for better estimating the biological behavior of the lung nodules. Postprocessing tools with automated detection, segmentation, and volumetric analysis of lung nodules may expedite radiological processes and give additional confidence to the radiologists.
+
+To compare two different postprocessing software algorithms (LMS Lung, Median Technologies; LungCARE®, Siemens) in CT volumetric measurement and to analyze the effect of soft (B30) and hard reconstruction filter (B70) on automated volume measurement.
+
+Between January 2010 and April 2010, 45 patients with a total of 113 pulmonary nodules were included. The CT exam was performed on a 64-row multidetector CT scanner (Somatom Sensation, Siemens, Erlangen, Germany) with the following parameters: collimation, 24x1.2 mm; pitch, 1.15; voltage, 120 kVp; reference tube current-time, 100 mAs. Automated volumetric measurement of each lung nodule was performed with the two different postprocessing algorithms based on two reconstruction filters (B30 and B70). The average relative volume measurement difference (VME%) and the limits of agreement between two methods were used for comparison.
+
+At soft reconstruction filters the LMS system produced mean nodule volumes that were 34.1% (P < 0.0001) larger than those by LungCARE® system. The VME% was 42.2% with a limit of agreement between -53.9% and 138.4%.The volume measurement with soft filters (B30) was significantly larger than with hard filters (B70); 11.2% for LMS and 1.6% for LungCARE®, respectively (both with P < 0.05). LMS measured greater volumes with both filters, 13.6% for soft and 3.8% for hard filters, respectively (P < 0.01 and P > 0.05).
+
+There is a substantial inter-software (LMS/LungCARE®) as well as intra-software variability (B30/B70) in lung nodule volume measurement; therefore, it is mandatory to use the same equipment with the same reconstruction filter for the follow-up of lung nodule volume.
+

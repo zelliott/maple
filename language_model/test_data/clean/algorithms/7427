@@ -1,0 +1,7 @@
+
+One of the most important projects in the post-genome-era is the systemic identification of biological network. The almost of studies for network identification focused on the improvement of computational efficiency in large-scale network inference of complex system with cyclic relations and few attempted have been done for answering practical problem occurred in real biological systems. In this study, we focused to evaluate inferring performance of our previously proposed method for inferring biological network on simple network motifs.
+
+We evaluated the network inferring accuracy and efficiency of our previously proposed network inferring algorithm, by using 6 kinds of repeated appearance of highly significant network motifs in the regulatory network of E. coli proposed by Shen-Orr et al and Herrgård et al, and 2 kinds of network motif in S. cerevisiae proposed by Lee et. al. As a result, our method could reconstruct about 40% of interactions in network motif from time-series data set. Moreover the introduction of time-series data of one-factor disrupted model could remarkably improved the performance of network inference.
+
+The results of network inference examination of E. coli network motif shows that our network inferring algorithm was able to apply to typical topology of biological network. A continuous examination of inferring well established network motif in biology would strengthen the applicability of our algorithm to the realistic biological network.
+

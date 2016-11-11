@@ -1,0 +1,3 @@
+
+Several authors have suggested allowing for unknown latency of the hemodynamic response by incorporation of hemodynamic derivative terms into the linear model for the statistical analysis of fMRI data. In this paper, we show how to use random field theory to provide a P value for local maxima of two test statistics that have been recently proposed for detecting activation based on this analysis.
+

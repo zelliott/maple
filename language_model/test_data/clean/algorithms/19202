@@ -1,0 +1,3 @@
+
+A new stimulated-echo based pulsed gradient spin-echo NMR diffusion sequence incorporating WATERGATE solvent suppression, PGSTE-WATERGATE, is presented. The sequence provides superb solvent suppression without any phase distortions. The sequence is simple to set up and particularly suited to measuring diffusion coefficients in aqueous solution such as is commonly required in pharmaceutical and combinatorial applications. The utility of the sequence is demonstrated on samples containing lysozyme and sucrose. Importantly, the high degree of phase-distortion suppression allows more complicated selective pi pulses to be used to enhance the selectivity of solvent suppression.
+

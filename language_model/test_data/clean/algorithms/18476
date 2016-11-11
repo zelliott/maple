@@ -1,0 +1,9 @@
+
+The objective of this study was to explore suitable spatial filters for inverse estimation of cortical potentials from the scalp electroencephalogram. The effect of incorporating noise covariance into inverse procedures was examined by computer simulations and tested in human experiment.
+
+The parametric projection filter, which allows inverse estimation with the presence of information on the noise, was applied to an inhomogeneous three-concentric-sphere model under various noise conditions in order to estimate the cortical potentials from the scalp potentials. The method for determining the optimum regularization parameter, which can be applied for parametric inverse techniques, is also discussed.
+
+Human visual evoked potential experiment was carried out to examine the performance of the proposed restoration method. The parametric projection filter gave more localized inverse solution of cortical potential distribution than the truncated SVD and Tikhonov regularization.
+
+The present simulation results suggest that incorporation of information on the noise covariance allows better estimation of cortical potentials, than inverse solutions without knowledge about the noise covariance, when the correlation between the signal and noise is low.
+

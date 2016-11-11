@@ -1,0 +1,3 @@
+
+A control algorithm is presented that addresses the stability issues inherent to the operation of monolithic mode-locked laser diodes. It enables a continuous pulse duration tuning without any onset of Q-switching instabilities. A demonstration of the algorithm performance is presented for two radically different laser diode geometries and continuous pulse duration tuning between 0.5 ps to 2.2 ps and 1.2 ps to 10.2 ps is achieved. With practical applications in mind, this algorithm also facilitates control over performance parameters such as output power and wavelength during pulse duration tuning. The developed algorithm enables the user to harness the operational flexibility from such a laser with 'push-button' simplicity.
+

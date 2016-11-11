@@ -1,0 +1,7 @@
+
+Alignment-free metrics were recently reviewed by the authors, but have not until now been object of a comparative study. This paper compares the classification accuracy of word composition metrics therein reviewed. It also presents a new distance definition between protein sequences, the W-metric, which bridges between alignment metrics, such as scores produced by the Smith-Waterman algorithm, and methods based solely in L-tuple composition, such as Euclidean distance and Information content.
+
+The comparative study reported here used the SCOP/ASTRAL protein structure hierarchical database and accessed the discriminant value of alternative sequence dissimilarity measures by calculating areas under the Receiver Operating Characteristic curves. Although alignment methods resulted in very good classification accuracy at family and superfamily levels, alignment-free distances, in particular Standard Euclidean Distance, are as good as alignment algorithms when sequence similarity is smaller, such as for recognition of fold or class relationships. This observation justifies its advantageous use to pre-filter homologous proteins since word statistics techniques are computed much faster than the alignment methods.
+
+All MATLAB code used to generate the data is available upon request to the authors. Additional material available at http://bioinformatics.musc.edu/wmetric
+

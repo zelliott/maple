@@ -1,0 +1,7 @@
+
+Biochemical signaling pathways and genetic circuits often involve very small numbers of key signaling molecules. Computationally expensive stochastic methods are necessary to simulate such chemical situations. Single-molecule chemical events often co-exist with much larger numbers of signaling molecules where mass-action kinetics is a reasonable approximation. Here, we describe an adaptive stochastic method that dynamically chooses between deterministic and stochastic calculations depending on molecular count and propensity of forward reactions. The method is fixed timestep and has first order accuracy. We compare the efficiency of this method with exact stochastic methods.
+
+We have implemented an adaptive stochastic-deterministic approximate simulation method for chemical kinetics. With an error margin of 5%, the method solves typical biologically constrained reaction schemes more rapidly than exact stochastic methods for reaction volumes >1-10 micro m(3). We have developed a test suite of reaction cases to test the accuracy of mixed simulation methods.
+
+Simulation software used in the paper is freely available from http://www.ncbs.res.in/kinetikit/download.html
+

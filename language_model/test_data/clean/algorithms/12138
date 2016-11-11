@@ -1,0 +1,3 @@
+
+We address the problem of enhancement layer drift estimation for fine granular scalable video. An optimal per-pixel drift estimation algorithm is introduced. The encoder assumes that there is some truncation of the enhancement layer, which does not allow the enhancement layer reference to be properly reconstructed, and the encoder recursively estimates the associated drift and chooses coding modes accordingly. The approach yields performance gains of about 1 dB across low to medium rates. In addition, we investigate dual frame prediction, for both base and enhancement layer, with pulsed-quality allocation in the base
+

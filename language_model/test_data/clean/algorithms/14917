@@ -1,0 +1,3 @@
+
+This article focuses on gradient-based backpropagation algorithms that use either a common adaptive learning rate for all weights or an individual adaptive learning rate for each weight and apply the Goldstein/Armijo line search. The learning-rate adaptation is based on descent techniques and estimates of the local Lipschitz constant that are obtained without additional error function and gradient evaluations. The proposed algorithms improve the backpropagation training in terms of both convergence rate and convergence characteristics, such as stable learning and robustness to oscillations. Simulations are conducted to compare and evaluate the convergence behavior of these gradient-based training algorithms with several popular training methods.
+

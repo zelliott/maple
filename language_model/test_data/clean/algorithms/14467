@@ -1,0 +1,3 @@
+
+Recently Liu et al. published a fast algorithm to solve the eigenvector problem arising in the quaternion-based method for the rotational superposition of molecular structures (J Comput Chem 2010, 31, 1561.). In this Comment, it is shown that the construction of the 4 × 4 matrix to be diagonalized—and not the diagonalization itself—represents the dominating part of the computational effort for the quaternion-based solution of the rotational superposition problem if molecules with more than about 100 atoms are considered.
+

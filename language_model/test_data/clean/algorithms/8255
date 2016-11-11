@@ -1,0 +1,3 @@
+
+Fluorescence data of replicate samples obtained from different fluorescence spectrometers or by the same spectrometer but with different instrument settings can have great intensity differences. In order to compare such data an intensity calibration must be applied. Here we explain a simple calibration method for fluorescence intensity using only the integrated area of a water Raman peak. By applying this method to data from three different instruments, we show that it is possible to remove instrument-dependent intensity factors, and we present results on a unified scale of Raman units. The method presented is a rapid and simple approach suitable for routine measurements with no need for hazardous chemicals.
+

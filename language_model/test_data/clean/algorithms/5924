@@ -1,0 +1,3 @@
+
+In this paper we use the 2D angular spring based mass-spring-damper (AMSD) model to simulate the plastic mesh in a laparoscopic hernia surgery simulator. We propose a physically based method to systematically derive the optimal parameters of the 2D AMSD model. While the traditional 2D MSD model lacks resistance against bending, the 2D AMSD model with optimized parameters can provide correct bending resistance as well as stretching resistance. The simulated mesh is demonstrated to be much more realistic.
+

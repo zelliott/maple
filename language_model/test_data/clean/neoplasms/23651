@@ -1,0 +1,3 @@
+
+This paper provides equations for calculating the sample size necessary to test an interaction effect in an 2 x k factorial design when time-to-failure is the outcome of interest. The results are a direct extension of those used by George and Desu and Makuch and Simon who provide sample size requirements for comparing two and k treatment groups, respectively. Duration of a clinical trial concerned with an interaction is calculated using the results of Rubinstein, Gail, and Santner. The results in the present paper can also be used to investigate the impact that an unforeseen interaction has on the power to detect a treatment main effect. This impact can be substantial, even for moderate interactions.
+

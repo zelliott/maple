@@ -1,0 +1,7 @@
+
+This paper proposes a method of implementing parallel gene prediction algorithms in MATLAB. The proposed designs are based on either Goertzel's algorithm or on FFTs and have been implemented using varying amounts of parallelism on a central processing unit (CPU) and on a graphics processing unit (GPU).
+
+Results show that an implementation using a straightforward approach can require over 4.5 h to process 15 million base pairs (bps) whereas a properly designed one could perform the same task in less than five minutes. In the best case, a GPU implementation can yield these results in 57 s.
+
+The present work shows how parallelism can be used in MATLAB for gene prediction in very large DNA sequences to produce results that are over 270 times faster than a conventional approach. This is significant as MATLAB is typically overlooked due to its apparent slow processing time even though it offers a convenient environment for bioinformatics. From a practical standpoint, this work proposes two strategies for accelerating genome data processing which rely on different parallelization mechanisms. Using a CPU, the work shows that direct access to the MEX function increases execution speed and that the PARFOR construct should be used in order to take full advantage of the parallelizable Goertzel implementation. When the target is a GPU, the work shows that data needs to be segmented into manageable sizes within the GFOR construct before processing in order to minimize execution time.
+

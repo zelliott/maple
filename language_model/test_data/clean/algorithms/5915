@@ -1,0 +1,3 @@
+
+Construction of speed function is crucial in applying level set method for medical image segmentation. We present a unified approach for segmenting and tracking of the high-resolution Chinese Visible Human (CVH) data. The underlying link of these two parts relies on the proposed variational framework for the speed function. Our proposed method can be applied to segmenting the first slice of the volume data, in the first step; It can also be adapted to track the boundaries of the homogeneous organs in the following serial images. In addition to promising segmentation results, the tracking procedure shows the advantage of less amount of user intervention.
+

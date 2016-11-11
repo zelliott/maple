@@ -1,0 +1,7 @@
+
+The success of targeted anti-cancer drugs are frequently hindered by the lack of knowledge of the individual pathway of the patient and the extreme data requirements on the estimation of the personalized genetic network of the patient's tumor. The prediction of tumor sensitivity to targeted drugs remains a major challenge in the design of optimal therapeutic strategies. The current sensitivity prediction approaches are primarily based on genetic characterizations of the tumor sample. We propose a novel sensitivity prediction approach based on functional perturbation data that incorporates the drug protein interaction information and sensitivities to a training set of drugs with known targets.
+
+We illustrate the high prediction accuracy of our framework on synthetic data generated from the Kyoto Encyclopedia of Genes and Genomes (KEGG) and an experimental dataset of four canine osteosarcoma tumor cultures following application of 60 targeted small-molecule drugs. We achieve a low leave one out cross validation error of &lt;10% for the canine osteosarcoma tumor cultures using a drug screen consisting of 60 targeted drugs.
+
+The proposed framework provides a unique input-output based methodology to model a cancer pathway and predict the effectiveness of targeted anti-cancer drugs. This framework can be developed as a viable approach for personalized cancer therapy.
+

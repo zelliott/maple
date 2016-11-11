@@ -1,0 +1,9 @@
+
+To use structural magnetic resonance (MR) images to identify a pattern of regional atrophy characteristic of mild Alzheimer disease (AD) and to investigate whether presence of this pattern prospectively can aid prediction of 1-year clinical decline and increased structural loss in mild cognitive impairment (MCI).
+
+The study was conducted with institutional review board approval and compliance with HIPAA regulations. Written informed consent was obtained from each participant. High-throughput volumetric segmentation and cortical surface reconstruction methods were applied to MR images from 84 subjects with mild AD, 175 with MCI, and 139 healthy control (HC) subjects. Stepwise linear discriminant analysis was used to identify regions that best can aid discrimination of HC subjects from subjects with AD. A classifier trained on data from HC subjects and those with AD was applied to data from subjects with MCI to determine whether presence of phenotypic AD atrophy at baseline was predictive of clinical decline and structural loss.
+
+Atrophy in mesial and lateral temporal, isthmus cingulate, and orbitofrontal areas aided discrimination of HC subjects from subjects with AD, with fully cross-validated sensitivity of 83% and specificity of 93%. Subjects with MCI who had phenotypic AD atrophy showed significantly greater 1-year clinical decline and structural loss than those who did not and were more likely to have progression to probable AD (annual progression rate of 29% for subjects with MCI who had AD atrophy vs 8% for those who did not).
+
+Semiautomated, individually specific quantitative MR imaging methods can be used to identify a pattern of regional atrophy in MCI that is predictive of clinical decline. Such information may aid in prediction of patient prognosis and increase the efficiency of clinical trials.
+

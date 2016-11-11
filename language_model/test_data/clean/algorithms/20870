@@ -1,0 +1,3 @@
+
+The isolation of single units in extracellular recordings involves filtering. Removing lower frequencies allows a constant threshold to be applied in order to identify and extract action potential events. However, standard methods such as Butterworth bandpass filtering perform this frequency excision at a cost of grossly distorting waveform shapes. Here, we apply wavelet decomposition and reconstruction as a filter for electrophysiology data and demonstrate its ability to better preserve spike shape. For the majority of cells, this approach also improves spike signal-to-noise ratio (SNR) and increases cluster discrimination. Additionally, the described technique is fast enough to be applied real-time.
+

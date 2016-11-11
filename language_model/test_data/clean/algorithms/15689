@@ -1,0 +1,3 @@
+
+The dynamical and stationary properties of on-line learning from finite training sets are analyzed by using the cavity method. For large input dimensions, we derive equations for the macroscopic parameters, namely, the student-teacher correlation, the student-student autocorrelation and the learning force fluctuation. This enables us to provide analytical solutions to Adaline learning as a benchmark. Theoretical predictions of training errors in transient and stationary states are obtained by a Monte Carlo sampling procedure. Generalization and training errors are found to agree with simulations. The physical origin of the critical learning rate is presented. Comparison with batch learning is discussed throughout the paper.
+

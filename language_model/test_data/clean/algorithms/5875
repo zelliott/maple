@@ -1,0 +1,3 @@
+
+A portable data recorder was developed to parallel measure the electrocardiogram and body accelerations. A multilayer fuzzy clustering algorithm was proposed to classify the physical activity based on body accelerations. Discrete wavelet transform was incorporated to retrieve time-varying characteristics of heart rate variability under different physical activities. Nine healthy subjects were included to investigate activity-related heart rate variability during 24 h. The results showed that the heartbeat fluctuations in high frequencies were the greatest during lying and the smallest during standing. Moreover, very-low-frequency heartbeat fluctuations during low activity level (lying) were greater than during high activity level (nonlying).
+

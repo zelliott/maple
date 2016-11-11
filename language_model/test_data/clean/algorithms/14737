@@ -1,0 +1,3 @@
+
+The use of on-body wearable sensors is widespread in several academic and industrial domains. Of great interest are their applications in ambulatory monitoring and pervasive computing systems; here, some quantitative analysis of human motion and its automatic classification are the main computational tasks to be pursued. In this paper, we discuss how human physical activity can be classified using on-body accelerometers, with a major emphasis devoted to the computational algorithms employed for this purpose. In particular, we motivate our current interest for classifiers based on Hidden Markov Models (HMMs). An example is illustrated and discussed by analysing a dataset of accelerometer time series.
+

@@ -1,0 +1,3 @@
+
+In this paper, an iterative cell image segmentation algorithm using short-time Fourier transform magnitude vectors as class features is presented. The cluster centroids of the magnitude vectors are obtained by the K-means clustering method and used as representative class features. The initial image segmentation classifies only those image pixels whose surrounding closely matches a class centroid. The subsequent procedure iteratively classifies the remaining image pixels by combining their spatial distance from the regions already segmented and the similarities between their corresponding magnitude vectors and the cluster centroids. Experimental results of the proposed algorithm for segmenting real cell images are provided.
+

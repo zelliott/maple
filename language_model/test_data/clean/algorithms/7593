@@ -1,0 +1,3 @@
+
+This paper is concerned with analyzing input-to-state stability (ISS) for a class of switched nonlinear systems with time delays under asynchronous switching. Due to the existence of switching delay, the switching of the controller does not coincide accurately with the switching of the system.When the subsystem is stabilized with the matched controller, the subsystem is ISS; otherwise, the subsystem may be not ISS. We establish efficient condition, in terms of an upper bound on the switching delay, and in terms of a lower bound on the matched time intervals for the subsystem and the controller, which ensures ISS for the whole switched nonlinear system. Finally, an illustrative example is presented to demonstrate the efficacy of the results.
+

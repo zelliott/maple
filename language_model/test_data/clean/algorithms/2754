@@ -1,0 +1,9 @@
+
+We studied the implementation of a patient-specific torso model created without the use of magnetic resonance imaging in the inverse problem of electrocardiology.
+
+Three types of inhomogeneous numerical torso models were created, with different degrees of adjustment of the outer surface to patients, whereas the heart and lung models remained unchanged. The torso models were used in the inverse localization of small areas with repolarization changes from simulated difference integral QRST maps. The localization error (LE) was evaluated as the distance between the centers of the modeled and the inversely found area with repolarization changes.
+
+The mean LE was 1.88 cm with the standard torso model. After adapting the torso shape, the mean LE was 1.83 cm, whereas after adapting both, the shape and electrode positions, the mean LE was 1.02 cm.
+
+If torso imaging is not available, a torso model with adapted shape and electrode positions gives only slightly less accurate results.
+

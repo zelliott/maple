@@ -1,0 +1,9 @@
+
+The objective of the paper is to describe an automatic algorithm for Paroxysmal Atrial Fibrillation (PAF) Detection, based on parameters extracted from ECG traces with no atrial fibrillation episode. The modular automatic classification algorithm for PAF diagnosis is developed and evaluated with different parameter configurations.
+
+The database used in this study was provided by Physiobank for The Computers in Cardiology Challenge 2001. Each ECG file in this database was translated into a 48 parameter vector. The modular classification algorithm used for PAF diagnosis was based on the nearest K-neighbours. Several configuration options were evaluated to optimize the classification performance.
+
+Different configurations of the proposed modular classification algorithm were tested. The uni-parametric approach achieved a top classification rate value of 76%. A multi-parametric approach was configured using the 5 parameters with highest discrimination power, and a top classification rate of 80% was achieved; different functions to typify the parameters were tested. Finally, two automatic parametric scanning strategies, Forward and Backward methods, were adopted. The results obtained with these approaches achieved a top classification rate of 92%.
+
+A modular classification algorithm based on the nearest K-neighbours was designed. The classification performance of the algorithm was evaluated using different parameter configurations, typification functions and number of K-neighbors. The automatic parametric scanning techniques achieved much better results than previously tested configurations.
+

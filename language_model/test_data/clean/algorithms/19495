@@ -1,0 +1,3 @@
+
+We propose a novel object-of-interest (OOI) segmentation algorithm for various images that is based on human attention and semantic region clustering. As object-based image segmentation is beyond current computer vision techniques, the proposed method segments an image into regions, which are then merged as a semantic object. At the same time, an attention window (AW) is created based on the saliency map and saliency points from an image. Within the AW, a support vector machine is used to select the salient regions, which are then clustered into the OOI using the proposed region merging. Unlike other algorithms, the proposed method allows multiple OOIs to be segmented according to the saliency map.
+

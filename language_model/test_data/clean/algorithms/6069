@@ -1,0 +1,13 @@
+
+Comorbidity measures are designed to exclude complications when they map International Classification of Diseases (ICD-9-CM) codes to diagnostic categories. The use of data fields that indicates whether each secondary diagnosis was present at the time of hospital admission may lead to the more accurate identification of preexisting conditions.
+
+To examine the rate of misclassification of ICD-9-CM codes into diagnostic categories by the Dartmouth-Manitoba adaptation of the Charlson index and by the Elixhauser comorbidity algorithm.
+
+Analysis of 178,838 patients in the California State Inpatient Database (CA SID) admitted in 2000 for one of seven major medical and surgical conditions. The CA SID includes a condition present at admission (CPAA) modifier for each ICD-9-CM code.
+
+The Dartmouth/Charlson index and the Elixhauser comorbidity measure were used to map the ICD-9-CM codes into diagnostic categories for patients in each study population. We calculated the misclassification rate for each mapping algorithm, using information from the CPAA as the "gold standard."
+
+The Dartmouth/Charlson index underestimated the prevalence of hemiplegia/paraplegia by 70 percent, cerebrovascular disease by 70 percent, myocardial infarction by 65 percent, congestive heart failure (CHF) by 45 percent, and peptic ulcer disease by 34 percent. The Elixhauser algorithm misclassified complications as preexisting conditions for 43 percent of the coagulopathies, 25 percent of the fluid and electrolyte disorders, 18 percent of the cardiac arrhythmias, 18 percent of the cardiac arrhythmias, and 9 percent of the cases of CHF.
+
+Adding the CPAA modifier to administrative data would significantly enhance the ability of the Dartmouth/Charlson index and of the Elixhauser algorithm to map ICD-9-CM codes to diagnostic categories accurately.
+

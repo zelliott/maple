@@ -1,0 +1,13 @@
+
+In clinical trials of treatment for stimulant abuse, researchers commonly record both Time-Line Follow-Back (TLFB) self-reports and urine drug screen (UDS) results.
+
+To compare the power of self-report, qualitative (use vs. no use) UDS assessment, and various algorithms to generate self-report-UDS composite measures to detect treatment differences via t-test in simulated clinical trial data.
+
+We performed Monte Carlo simulations patterned in part on real data to model self-report reliability, UDS errors, dropout, informatively missing UDS reports, incomplete adherence to a urine donation schedule, temporal correlation of drug use, number of days in the study period, number of patients per arm, and distribution of drug-use probabilities. Investigated algorithms include maximum likelihood and Bayesian estimates, self-report alone, UDS alone, and several simple modifications of self-report (referred to here as ELCON algorithms) which eliminate perceived contradictions between it and UDS.
+
+Among the algorithms investigated, simple ELCON algorithms gave rise to the most powerful t-tests to detect mean group differences in stimulant drug use.
+
+Further investigation is needed to determine if simple, naïve procedures such as the ELCON algorithms are optimal for comparing clinical study treatment arms. But researchers who currently require an automated algorithm in scenarios similar to those simulated for combining TLFB and UDS to test group differences in stimulant use should consider one of the ELCON algorithms.
+
+This analysis continues a line of inquiry which could determine how best to measure outpatient stimulant use in clinical trials (NIDA. NIDA Monograph-57: Self-Report Methods of Estimating Drug Abuse: Meeting Current Challenges to Validity. NTIS PB 88248083. Bethesda, MD: National Institutes of Health, 1985; NIDA. NIDA Research Monograph 73: Urine Testing for Drugs of Abuse. NTIS PB 89151971. Bethesda, MD: National Institutes of Health, 1987; NIDA. NIDA Research Monograph 167: The Validity of Self-Reported Drug Use: Improving the Accuracy of Survey Estimates. NTIS PB 97175889. GPO 017-024-01607-1. Bethesda, MD: National Institutes of Health, 1997).
+

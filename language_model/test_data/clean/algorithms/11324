@@ -1,0 +1,3 @@
+
+Minimum squared error based classification (MSEC) method establishes a unique classification model for all the test samples. However, this classification model may be not optimal for each test sample. This paper proposes an improved MSEC (IMSEC) method, which is tailored for each test sample. The proposed method first roughly identifies the possible classes of the test sample, and then establishes a minimum squared error (MSE) model based on the training samples from these possible classes of the test sample. We apply our method to face recognition. The experimental results on several datasets show that IMSEC outperforms MSEC and the other state-of-the-art methods in terms of accuracy.
+

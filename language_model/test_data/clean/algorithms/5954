@@ -1,0 +1,9 @@
+
+To acquire high-resolution magnetic resonance (MR) images, we developed a new blinking artifact reduced pulse (BARP) sequence with a surface coil specialized for microscopic imaging (47 mm in diameter).
+
+To reduce eye movement, we ascertained that the subjects' eyes were kept open and fixated to the target in the 1.5-T MR gantry. To reduce motion artifacts from blinking, we inserted rest periods for blinking (1.5 s within every 5 s) during MR scanning (T2-weighted fast spin echo; repetition time, 5 s; echo time, 100 ms; echo train, 11; matrix, 256 x 128; field of view, 5 cm; 1-mm thickness x 30 slices). Three scans (100 s x 3) were performed for each normal subject, and they were added together after automatic adjustment for location to reduce quality loss caused by head motion.
+
+T2-weighted MR images were acquired with a high resolution and a high signal-to-noise ratio. Motion artifacts were reduced with BARP, as compared with those with random blinking. Intraocular structures such as the iris and ciliary muscles were clearly visualized. Because the whole eye can be covered with a 1-mm thickness by this method, three-dimensional maps can easily be generated from the obtained images.
+
+The application of BARP with a surface coil of the human eye might become a useful and widely adopted procedure for MR microimaging.
+

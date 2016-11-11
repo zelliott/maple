@@ -1,0 +1,9 @@
+
+Gene expression studies provide molecular insights improving the classification of patients with high-grade gliomas. We have developed a risk estimation strategy based on a combined analysis of gene expression data to search for robust biomarkers associated with outcome in these tumors.
+
+We performed a meta-analysis using 3 publicly available malignant gliomas microarray data sets (267 patients) to define the genes related to both glioma malignancy and patient outcome. These biomarkers were used to construct a risk-score equation based on a Cox proportional hazards model on a subset of 144 patients. External validations were performed on microarray data (59 patients) and on RT-qPCR data (194 patients). The risk-score model performances (discrimination and calibration) were evaluated and compared with that of clinical risk factors, MGMT promoter methylation status, and IDH1 mutational status.
+
+This interstudy cross-validation approach allowed the identification of a 4-gene signature highly correlated to survival (CHAF1B, PDLIM4, EDNRB, and HJURP), from which an optimal survival model was built (P < 0.001 in training and validation sets). Multivariate analysis showed that the 4-gene risk score was strongly and independently associated with survival (hazard ratio = 0.46; 95% CI, 0.26-0.81; P = 0.007). Performance estimations indicated that this score added beyond standard clinical parameters and beyond both the MGMT methylation status and the IDH1 mutational status in terms of discrimination (C statistics, 0.827 versus 0.835; P < 0.001).
+
+The 4-gene signature provides an independent risk score strongly associated with outcome of patients with high-grade gliomas.
+

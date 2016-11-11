@@ -1,0 +1,3 @@
+
+The boundary condition, which has been used in the conventional electrokinetic calculation in the thin double layer approximation, has a flaw that it does not give the Onsager reciprocal relation for the sedimentation of charged particle. We propose a new boundary condition, which satisfies the reciprocal relation, and derive a general form for the mobility matrix for the motion of a charged particle under the action of external force, torque, and electric field. We then calculate the mobility matrix explicitly for homogeneously charged spherical particle and discuss the effect of the surface slippage and the surface conductivity on the particle mobility and electric conductivity.
+

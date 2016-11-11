@@ -1,0 +1,9 @@
+
+Despite its widespread use, the limitations of the 12-lead electrocardiogram (ECG) are undisputed. The main deficiency is that just a small area of the precordium is interrogated and for some abnormalities information may be transmitted to a region of the body surface where information is not recorded. In this study, we attempted to optimize the 12-lead ECG by using a data-driven approach to suggest alternate recording sites.
+
+A sequential lead selection algorithm was applied to a set of 744 body surface potential maps (BSPMs), consisting of recordings from subjects with myocardial infarction, left ventricular hypertrophy, and no apparent disease. A number of scenarios were investigated in which pairs of precordial leads were repositioned; these pairs were V3 and V5, V4 and V5, and V4 and V6. The algorithm was also used to find optimal positions for all 6 precordial leads.
+
+Through estimation of entire surface potential distributions it was found that each of the scenarios, with 2 leads repositioned, captured more information than the standard 12-lead ECG. The scenario with V4 and V6 repositioned performed best with a root mean square error of 22.3 microvolts and a correlation coefficient of 0.967. This configuration also fared favorably when compared to the scenario where all 6 precordial leads were repositioned as optimizing all 6 leads offered no significant improvement.
+
+This study demonstrated the use of a lead selection algorithm in enhancing the 12-lead ECG. The results also indicated that repositioning just 2 precordial leads can provide the same level of information capture as that observed when all precordial leads are optimally placed.
+

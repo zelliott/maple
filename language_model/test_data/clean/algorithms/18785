@@ -1,0 +1,9 @@
+
+To propose a new algorithm for medical image segmentation based on Gibbs morphological gradient and distance map (DM) Snake model, which allows identification of the correct contours of the objects when processing medical images with noises and pseudo-edges.
+
+Gibbs morphological gradient was deduced and the method for image segmentation based on Gibbs morphological gradient and distance map Snake model was presented.
+
+This new medical image segmentation algorithm proved to effectively suppress the noises and pseudo-edges when calculating distance map.
+
+The proposed algorithm is robust for image noise suppression and allows easy implementation in clinical image segmentation without the need of user interventions.
+

@@ -1,0 +1,7 @@
+
+Current methods of analyzing Affymetrix GeneChip microarray data require the estimation of probe set expression summaries, followed by application of statistical tests to determine which genes are differentially expressed. The S-Score algorithm described by Zhang and colleagues is an alternative method that allows tests of hypotheses directly from probe level data. It is based on an error model in which the detected signal is proportional to the probe pair signal for highly expressed genes, but approaches a background level (rather than 0) for genes with low levels of expression. This model is used to calculate relative change in probe pair intensities that converts probe signals into multiple measurements with equalized errors, which are summed over a probe set to form the S-Score. Assuming no expression differences between chips, the S-Score follows a standard normal distribution, allowing direct tests of hypotheses to be made. Using spike-in and dilution datasets, we validated the S-Score method against comparisons of gene expression utilizing the more recently developed methods RMA, dChip, and MAS5.
+
+The S-score showed excellent sensitivity and specificity in detecting low-level gene expression changes. Rank ordering of S-Score values more accurately reflected known fold-change values compared to other algorithms.
+
+The S-score method, utilizing probe level data directly, offers significant advantages over comparisons using only probe set expression summaries.
+

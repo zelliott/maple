@@ -1,0 +1,3 @@
+
+In this paper, a novel unknown parameter identifier of nonlinear dynamical systems is designed through the integrator theory, and the corresponding sufficient conditions for the existence of unknown parameter identifiers are presented. In order to illustrate the effectiveness of the proposed method, simulation results are given. The effects of system noise and measurement noise for the proposed method are discussed in detail. The comparative analysis between the proposed method based on integrator theory and the approach based on adaptive synchronization is also given.
+

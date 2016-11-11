@@ -1,0 +1,9 @@
+
+To introduce a method of independent determination of CH2 and CH3 components of intramyocellular lipids (IMCLs) by using long TE for spectra measurement and LCModel for spectra evaluation, to test this technique in controls and insulin-resistant subjects, and to compare results at 1.5 and 3 T.
+
+Eight healthy volunteers and 11 patients with type 2 diabetes mellitus underwent measurement using a 1.5-T MR scanner; six healthy volunteers were measured using a 3-T MR scanner. Spectra from the tibialis anterior muscle were acquired by using a point resolved spectroscopy (PRESS) sequence with the following parameters: TR/TE/ACQ = 2000 msec/270 msec/256. Spectra were processed by LCModel 6.1 software with two types of adopted basis-set.
+
+Spectra with good separation of both CH2 and CH3 components of IMCL and extramyocellular lipids (EMCLs) were obtained and the LCModel routine was successfully applied. The reproducibility comparison (N= 7 at 1.5 T vs. N = 5 at 3 T) showed that better results can be obtained at higher B0 values. The comparison of the healthy and insulin-resistant subjects proved that both IMCL_CH2/Cr and IMCL_CH3/Cr ratios significantly differ.
+
+Long TE spectroscopy of the human muscle with IMCL quantification using the LCModel technique can detect changes in IMCL levels as well as help in the study of fatty acyl chain composition. Using a higher field strength increased the intra-individual reproducibility by approximately 150%.
+

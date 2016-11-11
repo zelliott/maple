@@ -1,0 +1,3 @@
+
+The softassign quadratic assignment algorithm is a discrete-time, continuous-state, synchronous updating optimizing neural network. While its effectiveness has been shown in the traveling salesman problem, graph matching, and graph partitioning in thousands of simulations, its convergence properties have not been studied. Here, we construct discrete-time Lyapunov functions for the cases of exact and approximate doubly stochastic constraint satisfaction, which show convergence to a fixed point. The combination of good convergence properties and experimental success makes the softassign algorithm an excellent choice for neural quadratic assignment optimization.
+

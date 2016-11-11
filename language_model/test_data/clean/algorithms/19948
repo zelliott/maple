@@ -1,0 +1,3 @@
+
+This paper describes the implementation of a practical approach for fuel cells system data analysis. A number of data treatment techniques such as data management and treatment, data synchronization, and data reconciliation are introduced and discussed in order to solve the issues raised in the practical case. These techniques are integrated in a software environment which provides user a fast, efficient, and rational electrochemical investigation. The performance of the approach is illustrated using an industrial fuel cell stack test system.
+

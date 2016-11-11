@@ -1,0 +1,3 @@
+
+We present a modified master equation for a homogeneous gaseous reactive system which includes nonequilibrium corrections due to the reaction-induced perturbation of the particle velocity distribution function. For the Schlögl model, the modified stochastic approach predicts nonequilibrium-induced transitions between different dynamical regimes, including the transformation of a monostable system into a bistable one, and vice versa. These predictions are confirmed by the comparison with microscopic simulations using the direct simulation Monte Carlo method. Compared to microscopic simulations of the particle dynamics, the modified master equation approach proves to be much more efficient.
+

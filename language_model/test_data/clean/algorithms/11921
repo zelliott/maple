@@ -1,0 +1,9 @@
+
+It is generally accepted that periodontal disease progresses by a series of bursts that are interspersed by periods of stability or even gain of attachment. In order to analyze longitudinal data on a patient's disease experience, it is necessary to use models which accommodate serial dependence. Ante-dependence between the results of a series of periodontal examinations over time can be modeled using a Markov chain. This model describes temporal changes in patients' levels of disease in terms of transition probabilities, which allow for both regression and progression of the disease. The aim of the present study was to demonstrate the use of a Markov chain model to analyze data from a longitudinal study investigating the progression of periodontal disease in an adult population.
+
+The study population consisted of 504 volunteers; however, only 456 were included in the analysis because the remaining 48 subjects did not give consecutive data. Subjects were examined at baseline, 6 months, and 1, 2, and 3 years. Probing depths (PD) were recorded using an automated probe. Disease was defined as four or more sites with PD > or = 4 mm. Markov chain modeling was used to determine the effect of age, gender, and smoking on the natural progression and regression (healing) of periodontal disease.
+
+Smoking and increasing age had no effect on the progression of disease in this population, but did have a significant effect (P values < or = 0.05) in reducing the regression of disease; i.e., their effect on disease appears to be inhibition of the natural healing process. Gender had no significant effects.
+
+These results demonstrate how ante-dependence modeling of longitudinal data can reveal effects that may not be immediately apparent from the data, with smoking and increasing age being seen to inhibit the healing process rather than promote disease progression.
+

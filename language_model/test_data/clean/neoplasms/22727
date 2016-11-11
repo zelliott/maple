@@ -1,0 +1,9 @@
+
+Concomitant use of anticancer drugs (ACDs) and antidepressants (ADs) in the treatment of depression in patients with cancer may result in potentially harmful drug-drug interactions (DDIs). It is crucial that clinicians make timely, accurate, safe and effective decisions regarding drug therapies in patients. The ubiquitous nature of the internet or "cloud" has enabled easy dissemination of DDI information, but there is currently no database dedicated to allow searching of ACD interactions by chemotherapy regimens. We describe the implementation of an AD interaction module to a previously published oncology-specific DDI database for clinicians which focuses on ACDs, single-agent and multiple-agent chemotherapy regimens.
+
+Drug- and DDI-related information were collated from drug information handbooks, databases, package inserts, and published literature from PubMed, Scopus and Science Direct. Web documents were constructed using Adobe software and programming scripts, and mounted on a domain served from the internet cloud.
+
+OncoRx is an oncology-specific DDI database whose structure is designed around all the major classes of ACDs and their frequently prescribed chemotherapy regimens. There are 117 ACDs and 256 regimens in OncoRx, and it can detect over 1 500 interactions with 21 ADs. Clinicians are provided with the pharmacokinetic parameters of the drugs, information on the regimens and details of the detected DDIs during an interaction search.
+
+OncoRx is the first database of its kind which allows detection of ACD and chemotherapy regimen interactions with ADs. This tool will assist clinicians in improving clinical response and reducing adverse effects based on the therapeutic and toxicity profiles of the drugs.
+

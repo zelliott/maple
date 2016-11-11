@@ -1,0 +1,3 @@
+
+We describe a method to simultaneously measure thickness variation and refractive index homogeneity of 300 mm diameter silicon wafers using a wavelength-shifting Fizeau interferometer operating at 1550 nm. Only three measurements are required, corresponding to three different cavity configurations. A customized phase shifting algorithm is used to suppress several high order harmonics and minimize intensity sampling errors. The new method was tested with both silicon and fused silica wafers and measurement results proved to be highly repeatable. The reliability of the method was further verified by comparing the measured thickness variation of a 150 mm diameter wafer to a measurement of the wafer flatness after bonding the wafer to an optical flat.
+

@@ -1,0 +1,3 @@
+
+Real-time 3-D ultrasound scan conversion (SC) in software has not been practical due to its high computation and I/O data handling requirements. In this paper, we describe software-based 3-D SC with high volume rates using a multicore processor, Cell. We have implemented both 3-D SC approaches: 1) the separable 3-D SC where two 2-D coordinate transformations in orthogonal planes are performed in sequence and 2) the direct 3-D SC where the coordinate transformation is directly handled in 3-D. One Cell processor can scan-convert a 192 x 192 x 192 16-bit volume at 87.8 volumes/s with the separable 3-D SC algorithm and 28 volumes/s with the direct 3-D SC algorithm.
+

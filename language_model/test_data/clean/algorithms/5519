@@ -1,0 +1,3 @@
+
+A new approach for nonlinear system identification and control based on modular neural networks (MNN) is proposed in this paper. The computational complexity of neural identification can be greatly reduced if the whole system is decomposed into several subsystems. This is obtained using a partitioning algorithm. Each local nonlinear model is associated with a nonlinear controller. These are also implemented by neural networks. The switching between the neural controllers is done by a dynamical switcher, also implemented by neural networks, that tracks the different operating points. The proposed multiple modelling and control strategy has been successfully tested on simulated laboratory scale liquid-level system.
+

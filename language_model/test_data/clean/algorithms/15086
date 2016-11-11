@@ -1,0 +1,3 @@
+
+Cortical potentials are estimated from scalp potentials using a realistically shaped inhomogeneous head model, by means of the boundary element method (BEM). A new adaptive algorithm has been developed to achieve high accuracy to link directly the cortical potentials to the scalp potentials in a realistically shaped inhomogeneous head model including the thin low-conductivity skull layer. Computer simulations using a concentric three-spheres head model have tested this approach. The present study demonstrates that the cortical potentials can be directly estimated from the scalp potentials using the BEM in a realistically shaped inhomogeneous head model.
+

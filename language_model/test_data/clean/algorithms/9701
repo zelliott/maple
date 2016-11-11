@@ -1,0 +1,7 @@
+
+Common contemporary practice within the nuclear magnetic resonance (NMR) metabolomics community is to evaluate and validate novel algorithms on empirical data or simplified simulated data. Empirical data captures the complex characteristics of experimental data, but the optimal or most correct analysis is unknown a priori; therefore, researchers are forced to rely on indirect performance metrics, which are of limited value. In order to achieve fair and complete analysis of competing techniques more exacting metrics are required. Thus, metabolomics researchers often evaluate their algorithms on simplified simulated data with a known answer. Unfortunately, the conclusions obtained on simulated data are only of value if the data sets are complex enough for results to generalize to true experimental data. Ideally, synthetic data should be indistinguishable from empirical data, yet retain a known best analysis.
+
+We have developed a technique for creating realistic synthetic metabolomics validation sets based on NMR spectroscopic data. The validation sets are developed by characterizing the salient distributions in sets of empirical spectroscopic data. Using this technique, several validation sets are constructed with a variety of characteristics present in 'real' data. A case study is then presented to compare the relative accuracy of several alignment algorithms using the increased precision afforded by these synthetic data sets.
+
+These data sets are available for download at http://birg.cs.wright.edu/nmr_synthetic_data_sets.
+

@@ -1,0 +1,3 @@
+
+A method for the analysis of vocal tract parameters is developed, aimed to perform quantitative analysis of rigidity from speech signals of Parkinsonian patients. The cross-sectional area function of the vocal tract is calculated using pitch synchronous autoregressive moving average (ARMA) analysis. The changes in Parkinsonian subjects of the cross-sectional area during the utterance of sustained sounds are attributed to both Parkinsonian tremor and rigidity. In order to isolate the effects of the rigidity on the vocal tract from those of the tremor, an adaptive tremor cancellation (ATC) algorithm is developed, based on the correlation of tremor signals extracted from different locations of the speech production system.
+

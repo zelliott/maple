@@ -1,0 +1,5 @@
+
+This paper studies the problem of discovering subsequences, known as motifs, that are common to a given collection of related biosequences, by proposing a greedy algorithm for learning a mixture of motifs model through likelihood maximization. The approach adds sequentially a new motif to a mixture model by performing a combined scheme of global and local search for appropriately initializing its parameters. In addition, a hierarchical partitioning scheme based on kd-trees is presented for partitioning the input dataset in order to speed-up the global searching procedure. The proposed method compares favorably over the well-known MEME approach and treats successfully several drawbacks of MEME.
+
+Experimental results indicate that the algorithm is advantageous in identifying larger groups of motifs characteristic of biological families with significant conservation. In addition, it offers better diagnostic capabilities by building more powerful statistical motif-models with improved classification accuracy.
+

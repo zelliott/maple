@@ -1,0 +1,3 @@
+
+We describe an approach to brain extraction from T1-weighted MR volumes that uses a hierarchy of masks created by different models to form a consensus mask. The algorithm (McStrip) incorporates atlas-based extraction via nonlinear warping, intensity-threshold masking with connectivity constraints, and edge-based masking with morphological operations. Volume and boundary metrics were computed to evaluate the reproducibility and accuracy of McStrip against manual brain extraction on 38 scans from normal and ataxic subjects. McStrip masks were reproducible across six repeat scans of a normal subject and were significantly more accurate than the masks produced by any of the individual algorithmic components.
+

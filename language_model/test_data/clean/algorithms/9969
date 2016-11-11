@@ -1,0 +1,3 @@
+
+We discuss a modification to random matrix theory (RMT) eigenstate statistics that systematically takes into account the nonuniversal short-time behavior of chaotic systems. The method avoids diagonalization of the Hamiltonian, instead requiring only knowledge of short-time dynamics for a chaotic system or ensemble of similar systems. Standard RMT and semiclassical predictions are recovered in the limits of zero Ehrenfest time and infinite Heisenberg time, respectively. As examples, we discuss wave-function autocorrelations and cross correlations and show how the approach leads to a significant improvement in the accuracy for simple chaotic systems where comparison can be made with brute-force diagonalization.
+

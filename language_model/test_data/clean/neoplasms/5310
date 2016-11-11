@@ -1,0 +1,9 @@
+
+To determine the effect of accelerated fractionated radiation therapy on the reoxygenation of chronic hypoxic tumor cells by means of a three-dimensional Monte Carlo simulation.
+
+Tumor growth (cell cycle time [Tc] of 2 or 5 days), irradiation (alpha = 0.3 Gy-1, alpha/beta = 10 Gy), oxygen tension (oxygen enhancement ratio of 3.0), capillary network distortion, and shrinkage of a small (10(4)-cell) tumor were modeled on a workstation. Conventional (2 Gy delivered five times per week), accelerated (1.6 Gy delivered twice a day for 5 d/wk), and split-course (1.6 Gy delivered twice a day for 5 d/wk with a break in week 3) radiation therapies were simulated with total doses of 50-70 Gy.
+
+Tumors grew in cords with a central necrotic area surrounded by hypoxic cells (hypoxic fraction, 25%). If undisturbed tumor shrinkage occurred, complete reoxygenation took 2 1/2 weeks for accelerated, 3-5 weeks for split-course, or 4-6 weeks for conventional radiation therapy. If shrinkage was prevented, the hypoxic fraction rose to 90%-100% at 2-3 weeks. In the shrinking, reoxygenation tumors with a Tc of 2 days, accelerated radiation therapy increased tumor control by 40%-80% over the control with conventional radiation therapy. With split-course therapy, this advantage was lost at doses below 70 Gy. Shrinking tumors with a Tc of 5 days were all controlled with 50 Gy.
+
+Fast-growing tumors that reoxygenate by shrinking are especially sensitive to acceleration and treatment breaks.
+

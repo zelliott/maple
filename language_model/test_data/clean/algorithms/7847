@@ -1,0 +1,3 @@
+
+This paper explains the biophysical principles which, according to us, govern the Proteus mirabilis swarm phenomenon. Then, this explanation is translated into a mathematical model, essentially based on partial differential equations. This model is then implemented using numerical methods of the finite volume type in order to make simulations. The simulations show most of the characteristics which are observed in situ and in particular the terrace generation.
+

@@ -1,0 +1,9 @@
+
+Fetal heart rate (FHR) values in the averaged format that are provided by commercial computed cardiotocography analysis systems may be unsuitable for special analysis purposes.
+
+I developed a communication software program to obtain any measured values of fetal monitors for individual analysis of computed cardiotocography.
+
+The software program was used to study the data continuity of beat-to-beat FHR values as an experiment for chaos theory and power spectrum analysis. The results indicated that the signal loss was recognized at a precision of 95%.
+
+The described method of digital communication with fetal monitors was found to be useful for individual purposes in the field of computed cardiotocography analysis.
+

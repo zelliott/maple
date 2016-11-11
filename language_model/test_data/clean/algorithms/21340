@@ -1,0 +1,3 @@
+
+An iterative algorithm is given to correct for the zeroth and first order phase errors in NMR spectroscopy. A FORTRAN computer program is listed and two sample runs exemplified. No a priori knowledge of the existing phase errors is required. The parameters are optimised iteratively under the assumption that when the spectrum is correctly phased the ratio of the area above the spectrum to that below it is a maximum.
+

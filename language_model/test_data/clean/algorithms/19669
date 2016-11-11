@@ -1,0 +1,3 @@
+
+We present an efficient feature selection algorithm for the general regression problem, which utilizes a piecewise linear orthonormal least squares (OLS) procedure. The algorithm 1) determines an appropriate piecewise linear network (PLN) model for the given data set, 2) applies the OLS procedure to the PLN model, and 3) searches for useful feature subsets using a floating search algorithm. The floating search prevents the "nesting effect." The proposed algorithm is computationally very efficient because only one data pass is required. Several examples are given to demonstrate the effectiveness of the proposed algorithm.
+

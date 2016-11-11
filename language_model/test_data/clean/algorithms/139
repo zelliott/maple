@@ -1,0 +1,9 @@
+
+Despite recent advances in CT technology, metal orthopedic implants continue to cause significant artifacts on many CT exams, often obscuring diagnostic information. We performed this prospective study to evaluate the effectiveness of an experimental metal artifact reduction (MAR) image reconstruction program for CT.
+
+We examined image quality on CT exams performed in patients with hip arthroplasties as well as other types of implanted metal orthopedic devices. The exam raw data were reconstructed using two different methods, the standard filtered backprojection (FBP) program and the MAR program. Images were evaluated for quality of the metal-cement-bone interfaces, trabeculae < or = 1 cm from the metal, trabeculae 5 cm apart from the metal, streak artifact, and overall soft tissue detail. The Wilcoxon Rank Sum test was used to compare the image scores from the large and small prostheses. Interobserver agreement was calculated.
+
+When all patients were grouped together, the MAR images showed mild to moderate improvement over the FBP images. However, when the cases were divided by implant size, the MAR images consistently received higher image quality scores than the FBP images for large metal implants (total hip prostheses). For small metal implants (screws, plates, staples), conversely, the MAR images received lower image quality scores than the FBP images due to blurring artifact. The difference of image scores for the large and small implants was significant (p = 0.002). Interobserver agreement was found to be high for all measures of image quality (k > 0.9).
+
+The experimental MAR reconstruction algorithm significantly improved CT image quality for patients with large metal implants. However, the MAR algorithm introduced blurring artifact that reduced image quality with small metal implants.
+

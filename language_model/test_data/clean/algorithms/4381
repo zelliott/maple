@@ -1,0 +1,7 @@
+
+Microarray experiments have revolutionized the study of gene expression with their ability to generate large amounts of data. This article describes an alternative to existing approaches to clustering of gene expression profiles; the key idea is to cluster in stages using a hierarchy of distance measures. This method is motivated by the way in which the human mind sorts and so groups many items. The distance measures arise from the orthogonal breakup of Euclidean distance, giving us a set of independent measures of different attributes of the gene expression profile. Interpretation of these distances is closely related to the statistical design of the microarray experiment. This clustering method not only accommodates missing data but also leads to an associated imputation method.
+
+The performance of the clustering and imputation methods was tested on a simulated dataset, a yeast cell cycle dataset and a central nervous system development dataset. Based on the Rand and adjusted Rand indices, the clustering method is more consistent with the biological classification of the data than commonly used clustering methods. The imputation method, at varying levels of missingness, outperforms most imputation methods, based on root mean squared error (RMSE).
+
+Code in R is available on request from the authors.
+

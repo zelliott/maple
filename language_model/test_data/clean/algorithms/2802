@@ -1,0 +1,3 @@
+
+We describe a complete implementation of all-atom protein molecular dynamics running entirely on a graphics processing unit (GPU), including all standard force field terms, integration, constraints, and implicit solvent. We discuss the design of our algorithms and important optimizations needed to fully take advantage of a GPU. We evaluate its performance, and show that it can be more than 700 times faster than a conventional implementation running on a single CPU core.
+

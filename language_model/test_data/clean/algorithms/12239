@@ -1,0 +1,3 @@
+
+A Takagi-Sugeno (T-S) model is employed to represent a networked control system (NCS) with different network-induced delays. Comparing with existing NCS modeling methods, this approach does not require the knowledge of exact values of network-induced delays. Instead, it addresses situations involving all possible network-induced delays. Moreover, this approach also handles data-packet loss. As an application of the T-S-based modeling method, a parity-equation approach and a fuzzy-observer-based approach for fault detection of an NCS were developed. An example of a two-link inverted pendulum is used to illustrate the utility and viability of the proposed approaches.
+

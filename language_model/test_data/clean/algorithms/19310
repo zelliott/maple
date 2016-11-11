@@ -1,0 +1,3 @@
+
+Whole body exposure from photon-emitting hot particles is receiving new attention because of changes in skin dose regulations. A recent study calculated and tabulated effective dose equivalent (EDE) and effective dose (ED) for photon energies between 0.1 MeV and 2 MeV for point sources at 74 locations on the skin. This technical note describes a software package called the EPRI EDE Calculator that allows a user to input exposure data and to calculate the EDE and ED automatically.
+

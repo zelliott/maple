@@ -1,0 +1,3 @@
+
+A framework for superimposing small molecules is presented. The proposed method consists of a simple atom-based, flexible alignment. The optimization procedure used in the alignment is based on a recently published variant of the simulated annealing whereby nonlinear constraints are accommodated using Lagrangian multipliers. It differs from other published superposition algorithms in that any number of nonlinear constraints can be readily imposed on the structural alignment directly through the objective function without assuming an a priori trade-off between competing conditions. These can include equality and equality constraints on distances, angles, and energy states. Examples illustrating the use of the proposed approach are also provided.
+

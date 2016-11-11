@@ -1,0 +1,9 @@
+
+Accurate multiple sequence alignments are essential in protein structure modeling, functional prediction and efficient planning of experiments. Although the alignment problem has attracted considerable attention, preparation of high-quality alignments for distantly related sequences remains a difficult task.
+
+We developed PROMALS, a multiple alignment method that shows promising results for protein homologs with sequence identity below 10%, aligning close to half of the amino acid residues correctly on average. This is about three times more accurate than traditional pairwise sequence alignment methods. PROMALS algorithm derives its strength from several sources: (i) sequence database searches to retrieve additional homologs; (ii) accurate secondary structure prediction; (iii) a hidden Markov model that uses a novel combined scoring of amino acids and secondary structures; (iv) probabilistic consistency-based scoring applied to progressive alignment of profiles. Compared to the best alignment methods that do not use secondary structure prediction and database searches (e.g. MUMMALS, ProbCons and MAFFT), PROMALS is up to 30% more accurate, with improvement being most prominent for highly divergent homologs. Compared to SPEM and HHalign, which also employ database searches and secondary structure prediction, PROMALS shows an accuracy improvement of several percent.
+
+The PROMALS web server is available at: http://prodata.swmed.edu/promals/.
+
+Supplementary data are available at Bioinformatics online.
+

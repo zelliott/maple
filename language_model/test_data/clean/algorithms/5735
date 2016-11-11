@@ -1,0 +1,9 @@
+
+To validate the 2010 diagnostic criteria from the American Association for the Study of Liver Diseases (AASLD) for hepatocellular carcinoma (HCC) on MRI using the surgical liver specimen as a gold standard.
+
+A total of 21 liver transplant recipients were retrospectively included. Each underwent surgery because of HCC between January 2007 and January 2008. Pre-transplant MRI was performed on a 1.5 Tesla MR unit. The T1W and T2W signal and kinetic contrast enhancement were correlated for each lesion with the surgical specimen. Lesion diameters between MRI and specimen were compared (Spearman). A multivariate model was created (R statistics software package) to predict the presence and grade of tumor differentiation (WHO, Edmonson Steiner).
+
+A total of 71 nodules were detected at histology, including 54 HCC (mean size: 25.3mm) compared to 68 on MRI. There was moderate agreement (r=0.58, P<0.001) between the maximum lesion diameters measured on MRI and at histology. Wash-out on MRI provided an accuracy of 75 % for the detection of HCC (sensitivity=75 %, specificity=76 %). Adding T2W hyperintensity to the AASLD criteria increased the sensitivity of MRI from 70.3 % to 77.7 % for the diagnosis of HCC and from 67.6 % to 79 % for nodules less than 20mm in diameter, without affecting specificity. On multivariate analysis, wash out as a single variable was significantly associated with a diagnosis of HCC (P<0.01, odds ratio 12.0, CI 95 % [2.6-55.5]). T1W hyperintensity (P=0.04, odds ratio 5.4) and loss of signal on opposed-phase images (P=0.02, odds ratio 9.2) were predictive of good differentiation.
+
+On MRI, the AASLD criteria or presence of wash out within a liver nodule in patients with underlying chronic hepatocellular disease are suggestive of tumoral transformation. The addition of T2W hyperintensity to the AASLD criteria increases the detection of HCC, especially nodules smaller than 20mm.
+

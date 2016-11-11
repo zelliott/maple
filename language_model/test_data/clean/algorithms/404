@@ -1,0 +1,3 @@
+
+Chromatin immunoprecipitation on microarrays, also known as ChIP-chip, is a popular technique for genome-wide localization of DNA-binding proteins. However, the high density (several million genomic sequences for small eukaryote genomes) and the high noise-to-signal ratio of microarrays make the analysis of ChIP-chip data very challenging. In this chapter, we review some of the issues involved in the analysis of ChIP-chip data and present a few statistical methods that can be used to overcome these issues and improve the detection of DNA-protein binding sites.
+

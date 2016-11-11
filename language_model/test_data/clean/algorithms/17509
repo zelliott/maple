@@ -1,0 +1,3 @@
+
+In this paper, the authors propose a new model for active contours segmentation in a given image, based on Mumford-Shah functional (Mumford and Shah, 1989). The model is composed of a system of differential and integral equations. By the experimental results we can keep the advantages of Chan and Vese's model (Chan and Vese, 2001) and avoid the regularization for Dirac function. More importantly, in theory we prove that the system has a unique viscosity solution.
+

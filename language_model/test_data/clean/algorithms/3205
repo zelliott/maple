@@ -1,0 +1,3 @@
+
+For an electron accelerated by a tightly focused Gaussian laser beam, its dynamics are usually simulated through the field obtained by Lax approach [Phys. Rev. A 11, 1365 (1975)]. However, as Lax series field (LSF) is not always convergent, the obtained results are usually inaccurate and even illogical. Here we report that the divergence of LSF can be eliminated by using Weniger transformation, and the electron dynamics simulated by this new field are logical and accurate.
+

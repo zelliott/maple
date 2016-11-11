@@ -1,0 +1,3 @@
+
+To measure cortical and medullary MR renograms, regions of interest (ROIs) are placed on the kidney in images acquired using dynamic MRI. Since native kidneys move with breathing, and breath-holding techniques are not feasible, movement correction is necessary. In this contribution we compare three correction methods, based on image matching, phase difference movement detection (PDMD), and cross-correlation, respectively. The PDMD-based method showed the best performance and was able to determine kidney movement in our test series in 68% of the scans with no visible deviation, and in 88% of the scans if a one-pixel deviation is considered acceptable.
+

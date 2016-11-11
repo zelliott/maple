@@ -1,0 +1,3 @@
+
+In electron paramagnetic resonance (EPR) distance distributions between site-directedly attached spin labels in soft matter are obtained by measuring their dipole-dipole interaction. The analysis of these distance distributions can be misleading particularly for broad distributions, because the most probable distance deviates from the distance between the most probable label positions. The current manuscript studies this effect using numerically generated spin label positions, molecular dynamics simulations, and experimental data of a model system. An approach involving Rice distributions is proposed to overcome this problem.
+

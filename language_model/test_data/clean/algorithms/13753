@@ -1,0 +1,3 @@
+
+Standard Back Propagation (BP), Partially Recurrent (PR) and Cascade-Correlation (CC) neural networks were used to predict the side of finger movement on the basis of non-averaged single trial multi-channel EEG data recorded prior to movement. From these EEG data, power values were calculated and used as parameters for classification. The results obtained on three subjects show that the Cascade-Correlation neural network is an appropriate choice for neural network based classification of spatio-temporal single-trial EEG patterns. It is fast, stable and able to discover and recognize underlying dynamics of rhythmic activities within the alpha band which precede execution of hand movements.
+

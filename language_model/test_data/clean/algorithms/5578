@@ -1,0 +1,9 @@
+
+Personalized health-care promises tailored health-care solutions to individual patients based on their genetic background and/or environmental exposure history. To date, disease prediction has been based on a few environmental factors and/or single nucleotide polymorphisms (SNPs), while complex diseases are usually affected by many genetic and environmental factors with each factor contributing a small portion to the outcome. We hypothesized that the use of random forests classifiers to select SNPs would result in an improved predictive model of asthma exacerbations. We tested this hypothesis in a population of childhood asthmatics.
+
+In this study, using emergency room visits or hospitalizations as the definition of a severe asthma exacerbation, we first identified a list of top Genome Wide Association Study (GWAS) SNPs ranked by Random Forests (RF) importance score for the CAMP (Childhood Asthma Management Program) population of 127 exacerbation cases and 290 non-exacerbation controls. We predict severe asthma exacerbations using the top 10 to 320 SNPs together with age, sex, pre-bronchodilator FEV1 percentage predicted, and treatment group.
+
+Testing in an independent set of the CAMP population shows that severe asthma exacerbations can be predicted with an Area Under the Curve (AUC)=0.66 with 160-320 SNPs in comparison to an AUC score of 0.57 with 10 SNPs. Using the clinical traits alone yielded AUC score of 0.54, suggesting the phenotype is affected by genetic as well as environmental factors.
+
+Our study shows that a random forests algorithm can effectively extract and use the information contained in a small number of samples. Random forests, and other machine learning tools, can be used with GWAS studies to integrate large numbers of predictors simultaneously.
+

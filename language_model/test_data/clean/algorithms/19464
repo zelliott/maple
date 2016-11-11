@@ -1,0 +1,3 @@
+
+We consider a network of imaging sensors. We address the problem of energy-efficient communication of the measurements of the sensors. A novel algorithm is presented for the purpose of exploiting intersensor and intrasensor correlation, which is inherent in a network of imaging sensors. The collaborative algorithm is used in conjunction with a cooperative multihop routing strategy to maximize the lifetime of the network. The algorithm is demonstrated to achieve an average gain in the lifetime as high as 3.2 over previous methods.
+

@@ -1,0 +1,3 @@
+
+The use of a weighted sum of Kendall's taus or a weighted sum of Spearman's rhos for testing association in the presence of a blocking variable is discussed. In a Monte Carlo study the two are shown to have essentially the same power with the optimal choice of weights. In the presence of ties, the weighted sum of Spearman's rhos is preferred because its variance has a much simpler form. An example is given from the field of radiation therapy.
+

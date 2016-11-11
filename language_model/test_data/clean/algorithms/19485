@@ -1,0 +1,3 @@
+
+We consider two regularization approaches, the LASSO and the threshold-gradient-directed regularization, for estimation and variable selection in the accelerated failure time model with multiple covariates based on Stute's weighted least squares method. The Stute estimator uses Kaplan-Meier weights to account for censoring in the least squares criterion. The weighted least squares objective function makes the adaptation of this approach to multiple covariate settings computationally feasible. We use V-fold cross-validation and a modified Akaike's Information Criterion for tuning parameter selection, and a bootstrap approach for variance estimation. The proposed method is evaluated using simulations and demonstrated on a real data example.
+

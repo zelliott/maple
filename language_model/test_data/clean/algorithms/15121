@@ -1,0 +1,3 @@
+
+Two pixel-oriented methods for designing Fourier transform holograms--pseudorandom encoding and minimum-distance encoding-usually produce higher-fidelity reconstructions when combined than those produced by each method individually. In previous studies minimum-distance encoding was defined as the mapping from the desired complex value to the closest value produced by the modulator. This method is compared with a new minimum-distance criterion in which the desired complex value is mapped to the closest value that can be realized by pseudorandom encoding. Simulations and experimental measurements using quantized phase and amplitude modulators show that the modified approach to blended encoding produces more faithful reconstructions than those of the previous method.
+

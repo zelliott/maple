@@ -1,0 +1,7 @@
+
+Genome evolution is shaped not only by nucleotide substitutions, but also by structural changes including gene and genome duplications, insertions, deletions and gene order rearrangements. The most popular methods for reconstructing phylogeny from genome rearrangements include GRAPPA and MGR. However these methods are limited to cases where equal gene content or few deletions can be assumed. Since conserved duplicated regions are present in many chloroplast genomes, the inference of inverted repeats is needed in chloroplast phylogeny analysis and ancestral genome reconstruction.
+
+We extend GRAPPA and develop a new method GRAPPA-IR to handle chloroplast genomes. A test of GRAPPA-IR using divergent chloroplast genomes from land plants and green algae recovers the phylogeny congruent with prior studies, while analysis that do not consider IR structure fail to obtain the accepted topology. Our extensive simulation study also confirms that GRAPPA has better accuracy then the existing methods.
+
+Tests on a biological and simulated dataset show GRAPPA-IR can accurately recover the genome phylogeny as well as ancestral gene orders. Close analysis of the ancestral genome structure suggests that genome rearrangement in chloroplasts is probably limited by inverted repeats with a conserved core region. In addition, the boundaries of inverted repeats are hot spots for gene duplications or deletions. The new GRAPPA-IR is available from http://phylo.cse.sc.edu.
+

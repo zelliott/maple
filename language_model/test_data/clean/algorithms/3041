@@ -1,0 +1,9 @@
+
+Interactions of molecules, such as signaling proteins, with multiple binding sites and/or multiple sites of post-translational covalent modification can be modeled using reaction rules. Rules comprehensively, but implicitly, define the individual chemical species and reactions that molecular interactions can potentially generate. Although rules can be automatically processed to define a biochemical reaction network, the network implied by a set of rules is often too large to generate completely or to simulate using conventional procedures. To address this problem, we present DYNSTOC, a general-purpose tool for simulating rule-based models.
+
+DYNSTOC implements a null-event algorithm for simulating chemical reactions in a homogenous reaction compartment. The simulation method does not require that a reaction network be specified explicitly in advance, but rather takes advantage of the availability of the reaction rules in a rule-based specification of a network to determine if a randomly selected set of molecular components participates in a reaction during a time step. DYNSTOC reads reaction rules written in the BioNetGen language which is useful for modeling protein-protein interactions involved in signal transduction. The method of DYNSTOC is closely related to that of StochSim. DYNSTOC differs from StochSim by allowing for model specification in terms of BNGL, which extends the range of protein complexes that can be considered in a model. DYNSTOC enables the simulation of rule-based models that cannot be simulated by conventional methods. We demonstrate the ability of DYNSTOC to simulate models accounting for multisite phosphorylation and multivalent binding processes that are characterized by large numbers of reactions.
+
+DYNSTOC is free for non-commercial use. The C source code, supporting documentation and example input files are available at http://public.tgen.org/dynstoc/.
+
+Supplementary data are available at Bioinformatics online.
+

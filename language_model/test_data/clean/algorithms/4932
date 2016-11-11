@@ -1,0 +1,7 @@
+
+This study describes a large-scale manual re-annotation of data samples in the Gene Expression Omnibus (GEO), using variables and values derived from the National Cancer Institute thesaurus. A framework is described for creating an annotation scheme for various diseases that is flexible, comprehensive, and scalable. The annotation structure is evaluated by measuring coverage and agreement between annotators.
+
+There were 12,500 samples annotated with approximately 30 variables, in each of six disease categories - breast cancer, colon cancer, inflammatory bowel disease (IBD), rheumatoid arthritis (RA), systemic lupus erythematosus (SLE), and Type 1 diabetes mellitus (DM). The annotators provided excellent variable coverage, with known values for over 98% of three critical variables: disease state, tissue, and sample type. There was 89% strict inter-annotator agreement and 92% agreement when using semantic and partial similarity measures.
+
+We show that it is possible to perform manual re-annotation of a large repository in a reliable manner.
+

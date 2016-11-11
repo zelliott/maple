@@ -1,0 +1,9 @@
+
+Radiofrequency (RF ablation) is the treatment of choice for certain types of cardiac arrhythmias. Recent studies have suggested that using gold instead of platinum as the electrode material for cardiac catheter ablation leads to larger thermal lesions due to its higher thermal conductivity. In this study we created computer models to compare the effects of different electrode materials on lesion dimensions using different catheters, insertion depths, and flow rates.
+
+Finite element method (FEM) models of two cardiac ablation electrodes (7Fr, length 4 mm and 8Fr, length 10 mm) made of platinum, gold, and copper were created with tissue insertion depths of 0.75, 1.25, and 2.5 mm. Convective cooling was applied to the electrode and tissue based on measurements from previous studies at different flow rates. RF ablations were simulated with both temperature control and constant power control algorithms to determine temperature profiles after 60 s.
+
+With the constant power algorithm there was no difference in lesion dimensions between the electrode materials over the range of parameters. With the temperature control algorithm, lesion width and depth were only marginally larger ( approximately 0.1-0.7 mm) with the gold and copper electrodes compared to the platinum electrode for all parameter combinations.
+
+Our computer modelling results show only minor increases in thermal lesion dimensions with electrode materials of higher thermal conductivity. These observed differences likely do not provide a significant advantage during clinical procedures.
+

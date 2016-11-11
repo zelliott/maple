@@ -1,0 +1,9 @@
+
+We have developed a completely automatic software package to normalize, rigidly register and elastically match serial whole-body planar images from patients with limb tumors. Variations in tumor uptake and size are analyzed and quantitated by the software.
+
+The software consists of a chain of modules incorporating several automatic algorithms. A rigid registration algorithm aligns images by translation and rotation based on feature points corresponding to the patient's neck and bladder. An elastic matching algorithm generates a grid for each image in a sequence by combining thresholding and local feature analysis in the head, torso and leg regions. A linear warping algorithm then interpolates pixel values and locations to make the grid points in all images coincide with the grid points of one of them (the reference image). All images in a sequence are normalized based on brain uptake. Quantitation of tumor uptake and size is performed in all images using an ROI automatically determined from a single user-selected seed point.
+
+The software was tested on four 2-image and one 3-image sequences from five patients (11 images). Quantitative measurements of body contour overlap show an average intrasequence agreement of 73.4%, 78.7% and 91.5% for unregistered, rigidly registered and rigidly registered + matched images, respectively.
+
+Our method represents an objective, quantitative tool to measure tumor activity in sequential whole-body scintigraphic images, and may help assess tumor response to chemotherapy or radiation therapy.
+

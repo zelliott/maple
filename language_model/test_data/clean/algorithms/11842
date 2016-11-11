@@ -1,0 +1,3 @@
+
+The essence of bioinformatics is dealing with large quantities of information. Whether it be sequencing data, microarray data files, mass spectrometric data (e.g., fingerprints), the catalog of strains arising from an insertional mutagenesis project, or even large numbers of PDF files, there inevitably comes a time when the information can simply no longer be managed with files and directories. This is where databases come into play. This unit briefly reviews the characteristics of several database management systems, including flat file, indexed file, and relational databases, as well as ACeDB. It compares their strengths and weaknesses and offers some general guidelines for selecting an appropriate database management system.
+

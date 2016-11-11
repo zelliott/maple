@@ -1,0 +1,9 @@
+
+Previous research has shown that information seekers in biomedical domain need more support in formulating their queries. A user study was conducted to evaluate the effectiveness of a metadata based query suggestion interface for PubMed bibliographic search. The study also investigated the impact of search task familiarity on search behaviors and the effectiveness of the interface.
+
+A real user, user search request and real system approach was used for the study. Unlike tradition IR evaluation, where assigned tasks were used, the participants were asked to search requests of their own. Forty-four researchers in Health Sciences participated in the evaluation - each conducted two research requests of their own, alternately with the proposed interface and the PubMed baseline. Several performance criteria were measured to assess the potential benefits of the experimental interface, including users' assessment of their original and eventual queries, the perceived usefulness of the interfaces, satisfaction with the search results, and the average relevance score of the saved records.
+
+The results show that, when searching for an unfamiliar topic, users were more likely to change their queries, indicating the effect of familiarity on search behaviors. The results also show that the interface scored higher on several of the performance criteria, such as the "goodness" of the queries, perceived usefulness, and user satisfaction. Furthermore, in line with our hypothesis, the proposed interface was relatively more effective when less familiar search requests were attempted.
+
+Results indicate that there is a selective compatibility between search familiarity and search interface. One implication of the research for system evaluation is the importance of taking into consideration task familiarity when assessing the effectiveness of interactive IR systems.
+

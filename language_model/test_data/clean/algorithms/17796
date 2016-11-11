@@ -1,0 +1,9 @@
+
+Detection of differentially expressed genes is one of the major goals of microarray experiments. Pairwise comparison for each gene is not appropriate without controlling the overall (experimentwise) type 1 error rate. Dudoit et al. have advocated use of permutation-based step-down P-value adjustments to correct the observed significance levels for the individual (i.e. for each gene) two sample t-tests.
+
+In this paper, we consider an ANOVA formulation of the gene expression levels corresponding to multiple tissue types. We provide resampling-based step-down adjustments to correct the observed significance levels for the individual ANOVA t-tests for each gene and for each pair of tissue type comparisons. More importantly, we introduce a novel empirical Bayes adjustment to the t-test statistics that can be incorporated into the step-down procedure. Using simulated data, we show that the empirical Bayes adjustment improved the sensitivity of detecting differentially expressed genes up to 16%, while maintaining a high level of specificity. This adjustment also reduces the false non-discovery rate to some degree at the cost of a modest increase in the false discovery rate. We illustrate our approach using a human colon cancer dataset consisting of oligonucleotide arrays of normal, adenoma and carcinoma cells. The number of genes with differential expression level declared statistically significant was about 50 when comparing normal to adenoma cells and about five when comparing adenoma to carcinoma cells. This list includes genes previously known to be associated with colon cancer as well as some novel genes.
+
+R code for the empirical Bayes adjustment and step-down P-value calculation via resampling are available from the supplementary web-site.
+
+http://www.mathstat.gsu.edu/~matsnd/EB/supp.htm
+

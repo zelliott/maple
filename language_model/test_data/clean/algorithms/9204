@@ -1,0 +1,9 @@
+
+As part of ongoing efforts to develop computerized planning tools for cryosurgery, the current study provides a comparison between two recently developed methods for planning, known as bubble packing and force-field analogy.
+
+For the purpose of comparison, four 3D prostate models were reconstructed from ultrasound imaging. The quality of planning for each method was evaluated based on bioheat transfer simulations.
+
+Both methods are shown to be robust planning tools in 3D. Typical results show at least 75% of the target region volume having temperatures below a target temperature isotherm for planning. While the force-field analogy method yields superior planning results, it comes at the expense of an order of magnitude longer run time, with only moderate improvement.
+
+Due to time constraints in a clinical setup, bubble packing alone may be considered adequate for computerized planning. Furthermore, only bubble packing is demonstrated to be adequate for intra-operative planning.
+

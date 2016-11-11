@@ -1,0 +1,3 @@
+
+The square root of a covariance spectrum, which offers high spectral resolution along both dimensions requiring only few t (1) increments, yields in good approximation the idealized 2D FT spectrum provided that the amount of magnetization exchanged between spins is relatively small. When this condition is violated, 2D FT and covariance peak volumes may differ. A regularization method is presented that produces a modified covariance spectrum with cross-peak volumes that closely match their 2D FT analogues. The method is demonstrated for TOCSY spectra with variable mixing times.
+

@@ -1,0 +1,3 @@
+
+This study compares a manifold of parametric models reported in the literature with two novel parametric models for identifying human input respiratory impedance. The analysis is carried out on typical patient data obtained with the forced oscillations technique (FOT), on three sets of representative diagnosed subjects: healthy, asthma and COPD. The performance of the models is characterized by the error between the true respiratory impedance of the patient and the estimated impedance by the parametric models. The optimal solutions of the nonlinear estimations are compared. The resulting parameter values are discussed with respect to both model structure and physiological insight.
+

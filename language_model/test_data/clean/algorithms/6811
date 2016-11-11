@@ -1,0 +1,9 @@
+
+Most sequence comparison methods assume that the data being compared are trustworthy, but this is not the case with raw DNA sequences obtained from automatic sequencing machines. Nevertheless, sequence comparisons need to be done on them in order to remove vector splice sites and contaminants. This step is necessary before other genomic data processing stages can be carried out, such as fragment assembly or EST clustering. A specialized tool is therefore needed to solve this apparent dilemma.
+
+We have designed and implemented a program that specifically addresses the problem. This program, called LUCY, has been in use since 1998 at The Institute for Genomic Research (TIGR). During this period, many rounds of experience-driven modifications were made to LUCY to improve its accuracy and its ability to deal with extremely difficult input cases. We believe we have finally obtained a useful program which strikes a delicate balance among the many issues involved in the raw sequence cleaning problem, and we wish to share it with the research community.
+
+LUCY is available directly from TIGR (http://www.tigr.org/softlab). Academic users can download LUCY after accepting a free academic use license. Business users may need to pay a license fee to use LUCY for commercial purposes.
+
+Questions regarding the quality assessment module of LUCY should be directed to Michael Holmes (mholmes@tigr.org). Questions regarding other aspects of LUCY should be directed to Hui-Hsien Chou (hhchou@iastate.edu).
+

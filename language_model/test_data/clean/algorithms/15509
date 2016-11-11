@@ -1,0 +1,9 @@
+
+4-slice CT scanners have shown limitations in clinical application for noninvasive coronary CT angiography (CTA). We evaluate advances in ECG-gated scanning of the heart and the coronary arteries with recently introduced 16-slice CT equipment (SOMATOM Sensation 16, Siemens, Forchheim, Germany).
+
+The technical principles of ECG-gated cardiac scanning, scan parameters, and detector design of the new scanner are presented. ECG-gated scan and image reconstruction techniques and ECG-controlled dose modulation ("ECG pulsing") for a reduction of the patient dose are described, key parameters for image quality and simulation results presented, and phantom studies and initial patient experience discussed. The impact of reduced gantry rotation time (0.42 s) on temporal resolution and initial estimations of the patient dose are presented.
+
+Extensions of ECG-gated reconstruction algorithms used for 4-slice CT provide adequate image quality for up to 16 slices. For each detector collimation different slice widths are available for retrospective reconstruction with well-defined slice sensitivity profiles (SSPs). For coronary CTA the heart can be covered with 0.75 mm collimation within a 20-s breathhold. The best possible spatial resolution is 0.5 x 0.5 x 0.6 mm. For 0.42 s gantry rotation time, temporal resolution reaches its optimum (105 ms) at a heart rate of 81 bpm. Effective patient dose for coronary CTA is 4-5 mSv using ECG-pulsed acquisition.
+
+The clinical performance of coronary CTA by means of spatial resolution, temporal resolution and scan time is substantially improved with the evaluated 16-slice CT scanner. Also, display of smaller coronary segments and instent visualization are substantially improved.
+

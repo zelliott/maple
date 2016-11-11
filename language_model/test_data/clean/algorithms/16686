@@ -1,0 +1,9 @@
+
+The Integrated Relaxation Pressure (IRP) is the esophageal pressure topography (EPT) metric used for assessing the adequacy of esophagogastric junction (EGJ) relaxation in the Chicago Classification of motility disorders. However, because the IRP value is also influenced by distal esophageal contractility, we hypothesized that its normal limits should vary with different patterns of contractility.
+
+Five hundred and twenty two selected EPT studies were used to compare the accuracy of alternative analysis paradigms to that of a motility expert (the 'gold standard'). Chicago Classification metrics were scored manually and used as inputs for MATLAB™ programs that utilized either strict algorithm-based interpretation (fixed abnormal IRP threshold of 15 mmHg) or a classification and regression tree (CART) model that selected variable IRP thresholds depending on the associated esophageal contractility.
+
+The sensitivity of the CART model for achalasia (93%) was better than that of the algorithm-based approach (85%) on account of using variable IRP thresholds that ranged from a low value of >10 mmHg to distinguish type I achalasia from absent peristalsis to a high value of >17 mmHg to distinguish type III achalasia from distal esophageal spasm. Additionally, type II achalasia was diagnosed solely by panesophageal pressurization without the IRP entering the algorithm.
+
+Automated interpretation of EPT studies more closely mimics that of a motility expert when IRP thresholds for impaired EGJ relaxation are adjusted depending on the pattern of associated esophageal contractility. The range of IRP cutoffs suggested by the CART model ranged from 10 to 17 mmHg.
+

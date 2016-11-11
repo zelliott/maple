@@ -1,0 +1,9 @@
+
+Contrast between not fully mineralized tissues is weak and limits conventional computed tomography (CT). An automated grayscale histogram-based analysis features could improve the sensitivity to tissue alterations during early bone healing.
+
+Tissue formation in a rat osteotomy model was analyzed using in vivo micro-CT and classified histologically (mineralized, cartilage, and connective tissues). A conventional threshold-based method including manual contouring was compared to a novel moment-based method: after removing the background peak, the histograms of each slice were characterized by their moments and analyzed as a function of the position along the long bone axis.
+
+The threshold-based method could differentiate between the mineralized and connective tissue (R = 0.73). The moment-based approach yielded a clear distinction between all 3 groups with a classification accuracy up to R = 0.93.
+
+The moment-based evaluation outperforms the conventional threshold-based CT analysis in sensitivity to the healing stage, user independence, and time consumption.
+

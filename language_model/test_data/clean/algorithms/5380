@@ -1,0 +1,9 @@
+
+Hemorrhagic shock is a leading cause of death in both civilian and battlefield trauma. Currently available medical monitors provide measures of standard vital signs that are insensitive and nonspecific. More important, hypotension and other signs and symptoms of shock can appear when it may be too late to apply effective life-saving interventions. The resulting challenge is that early diagnosis is difficult because hemorrhagic shock is first recognized by late-responding vital signs and symptoms. The purpose of these experiments was to test the hypothesis that state-of-the-art machine-learning techniques, when integrated with novel non-invasive monitoring technologies, could detect early indicators of blood volume loss and impending circulatory failure in conscious, healthy humans who experience reduced central blood volume.
+
+Humans were exposed to progressive reductions in central blood volume using lower body negative pressure as a model of hemorrhage until the onset of hemodynamic decompensation. Continuous, noninvasively measured hemodynamic signals were used for the development of machine-learning algorithms. Accuracy estimates were obtained by building models using signals from all but one subject and testing on that subject. This process was repeated, each time using a different subject.
+
+The model was 96.5% accurate in predicting the estimated amount of reduced central blood volume, and the correlation between predicted and actual lower body negative pressure level for hemodynamic decompensation was 0.89.
+
+Machine modeling can accurately identify reduced central blood volume and predict impending hemodynamic decompensation (shock onset) in individuals. Such a capability can provide decision support for earlier intervention.
+

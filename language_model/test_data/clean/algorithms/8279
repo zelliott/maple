@@ -1,0 +1,3 @@
+
+This letter is devoted to the suppression of spurious signals (artifacts) in records of neural activity during deep brain stimulation. An approach based on nonlinear adaptive model with self-oscillations is proposed. We developed an algorithm of adaptive filtering based on this approach. The proposed algorithm was tested using recordings collected from patients during the stimulation. This was then compared to existing methods and showed the best performance.
+

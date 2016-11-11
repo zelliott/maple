@@ -1,0 +1,7 @@
+
+The use of DNA microarrays and oligonucleotide chips of high density in modern biomedical research provides complex, high dimensional data which have been proven to convey crucial information about gene expression levels and to play an important role in disease diagnosis. Therefore, there is a need for developing new, robust statistical techniques to analyze these data.
+
+depthTools is an R package for a robust statistical analysis of gene expression data, based on an efficient implementation of a feasible notion of depth, the Modified Band Depth. This software includes several visualization and inference tools successfully applied to high dimensional gene expression data. A user-friendly interface is also provided via an R-commander plugin.
+
+We illustrate the utility of the depthTools package, that could be used, for instance, to achieve a better understanding of genome-level variation between tumors and to facilitate the development of personalized treatments.
+

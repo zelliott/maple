@@ -1,0 +1,9 @@
+
+To describe the frequency distribution for the number of residual subclinical metastatic tumor cells after removal of the primary cancer.
+
+Previously obtained autopsy, surgical pathological and laboratory data were used to characterize the size and number distributions for hematogenous and lymphatic metastases. Monte Carlo simulations were used to estimate the numbers of residual tumor cells based upon the assumption of a lognormal distribution for the sizes of metastases and Poisson, Poisson negative binomial, or negative binomial distributed numbers of metastases (corresponding to lymphatic metastases within individuals, hematogenous metastases within individuals, and lymphatic metastases within populations, respectively).
+
+In each of the scenarios the resultant distribution for the numbers of subclinical tumor cells was unimodal and positively skewed, with a tail extending to the higher numbers of metastases. When plotted with equal sized counting bins and according the logarithm of the number of tumor cells, the distributions showed deviations from the normal form no greater than several percentage points--a result considered acceptable given the variabilities inherent to metastasis data.
+
+The distribution for the number of residual subclinical metastases may be extrapolated from data and models derived from the size and number distributions for metastases. In the absence of a closed form description for this distribution, the lognormal distribution could provide a crude, but practical, approximation for cases limited to occult microscopic residual disease. These analyses will facilitate the definition of the dose-response for the adjuvant therapy of subclinical metastases.
+

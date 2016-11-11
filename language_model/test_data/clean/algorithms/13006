@@ -1,0 +1,11 @@
+
+A common cause for damage to the neonatal brain is a shortage in the oxygen supply to the brain or asphyxia. Neonatal seizures are the most frequent manifestation of neonatal neurologic disorders. Multichannel EEG recordings allow topographic localization of seizure foci.
+
+We want to objectively determine the spatial distribution of the seizure on the scalp, the location in time and order the dominant sources in the brain based on their strength.
+
+In this paper we combine a method based on higher order CP-decomposition with subsequent singular value decomposition (SVD).
+
+We illustrate the abilities of the method on simulated as well as on real neonatal seizure EEG.
+
+The proposed method provides reliable time and spatial information about the seizure, gives a clear overview of what is going on in the EEG and allows easy interpretation.
+

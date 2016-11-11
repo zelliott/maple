@@ -1,0 +1,3 @@
+
+Array-based gene expression studies frequently serve to identify genes that are expressed differently under two or more conditions. The actual analysis of the data, however, may be hampered by a number of technical and statistical problems. Possible remedies on the level of computational analysis lie in appropriate preprocessing steps, proper normalization of the data and application of statistical testing procedures in the derivation of differentially expressed genes. This review summarizes methods that are available for these purposes and provides a brief overview of the available software tools.
+

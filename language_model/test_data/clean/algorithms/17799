@@ -1,0 +1,7 @@
+
+The Edinburgh Mouse Atlas and Gene Expression Database project has developed a digital atlas of mouse development to provide a spatio-temporal framework for spatially mapped data such as in situ gene expression and cell lineage. As part of this database, a mouse embryo anatomy ontology has been created. A formalization of this anatomy is required to document its precise semantics and how it is used in the context of the Mouse Atlas.
+
+The paper describes the existing anatomy ontology and formalizes aspects of it using a predicate logic based approach. It therefore provides a guide for users of the current version of the ontology, as well as the basis for a description of the anatomy using an ontology language, such as OWL, thus enabling future work on reasoning about the Mouse Atlas in the context of an intelligent gene expression bioinformatics workflow system. The logic has been implemented in a Prolog prototype.
+
+The Mouse Atlas is available on-line at http://genex.hgu.mrc.ac.uk
+

@@ -1,0 +1,9 @@
+
+This work is concerned with the creation of three-dimensional (3D) extended-field-of-view ultrasound from a set of volumes acquired using a mechanically swept 3D probe. 3D volumes of ultrasound data can be registered by attaching a position sensor to the probe; this can be an inconvenience in a clinical setting. A position sensor can also cause some misalignment due to patient movement and respiratory motion. We propose a combination of three-degrees-of-freedom image registration and an unobtrusively integrated inertial sensor for measuring orientation. The aim of this research is to produce a reliable and portable ultrasound system that is able to register 3D volumes quickly, making it suitable for clinical use.
+
+As part of a feasibility study we recruited 28 pregnant females attending for routine obstetric scans to undergo 3D extended-field-of-view ultrasound. A total of 49 data sets were recorded. Each registered data set was assessed for correct alignment of each volume by two independent observers.
+
+In 77-83% of the data sets more than four consecutive volumes registered. The successful registration relies on good overlap between volumes and is adversely affected by advancing gestational age and foetal movement.
+
+The development of reliable 3D extended-field-of-view ultrasound may help ultrasound practitioners to demonstrate the anatomical relation of pathology and provide a convenient way to store data.
+

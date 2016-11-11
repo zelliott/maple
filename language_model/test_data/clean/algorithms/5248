@@ -1,0 +1,3 @@
+
+Part of understanding a molecule's conformational dynamics is mapping out the dominant metastable, or long lived, states that it occupies. Once identified, the rates for transitioning between these states may then be determined in order to create a complete model of the system's conformational dynamics. Here we describe the use of the MSMBuilder package (now available at http://simtk.org/home/msmbuilder/) to build Markov State Models (MSMs) to identify the metastable states from Generalized Ensemble (GE) simulations, as well as other simulation datasets. Besides building MSMs, the code also includes tools for model evaluation and visualization.
+

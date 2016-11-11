@@ -1,0 +1,3 @@
+
+Statistical inference for the probability distribution of a reporting delay is considered when delays are recorded only after a certain point in time tau. A method is proposed which utilizes data on incidences arising prior to tau. By a suitable choice of parameters we find explicit expressions for maximum likelihood estimates and standard errors. An application to reporting delay data on Australian AIDS diagnoses demonstrates that inclusion of data on AIDS diagnoses made prior to tau results in significant gains in the precision of estimates. A simulation study indicates for this data set that there is minimal bias in the estimates and the large sample formulae for the standard errors give good estimates of the standard deviation of the estimators.
+

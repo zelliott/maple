@@ -1,0 +1,3 @@
+
+The deterministic limit of a Hopfield-type mutation-selection model in the sequence space approach is investigated. Genotypes are identified with two-letter sequences. Mutation is modelled as a Markov process, fitness functions are of Hopfield type, where the fitness of a sequence is determined by the Hamming distances to a number of predefined patterns. Using a maximum principle for the population mean fitness in equilibrium, the error threshold phenomenon is studied for quadratic Hopfield-type fitness functions with small numbers of patterns. Different from previous investigations of the Hopfield model, the system shows error threshold behaviour not for all fitness functions, but only for certain parameter values.
+

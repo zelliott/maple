@@ -1,0 +1,9 @@
+
+The purpose of this study was to develop a new method for automated lung nodule detection in serial section CT images with using the characteristics of the 3D appearance of the nodules that distinguish themselves from the vessels.
+
+Lung nodules were detected in four steps. First, to reduce the number of region of interests (ROIs) and the computation time, the lung regions of the CTs were segmented using Genetic Cellular Neural Networks (G-CNN). Then, for each lung region, ROIs were specified with using the 8 directional search; +1 or -1 values were assigned to each voxel. The 3D ROI image was obtained by combining all the 2-Dimensional (2D) ROI images. A 3D template was created to find the nodule-like structures on the 3D ROI image. Convolution of the 3D ROI image with the proposed template strengthens the shapes that are similar to those of the template and it weakens the other ones. Finally, fuzzy rule based thresholding was applied and the ROI's were found. To test the system's efficiency, we used 16 cases with a total of 425 slices, which were taken from the Lung Image Database Consortium (LIDC) dataset.
+
+The computer aided diagnosis (CAD) system achieved 100% sensitivity with 13.375 FPs per case when the nodule thickness was greater than or equal to 5.625 mm.
+
+Our results indicate that the detection performance of our algorithm is satisfactory, and this may well improve the performance of computer-aided detection of lung nodules.
+

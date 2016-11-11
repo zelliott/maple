@@ -1,0 +1,7 @@
+
+The Genome Organization Analysis Tool (GOAT) is a program that performs comparative sequence analysis on ordered gene lists from annotated genomes, provides visual and tabular output, and provides means of accessing and analyzing related gene sequence data, for the purpose of comparing genome organization at the gene-order level. GOAT can be used to compare any two or more genomes or chromosomes on demand, or configured to provide access to precomputed comparisons of a specific group of genome sequences.
+
+Demonstration web server and software download, subject to the Virginia Tech Noncommercial License are available at http://gaia.biotech.vt.edu/goat/.
+
+Updates, installation and configuration information are available at http://gaia.biotech.vt.edu/goat.
+

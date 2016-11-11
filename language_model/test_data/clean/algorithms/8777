@@ -1,0 +1,3 @@
+
+This paper presents an algorithm to identify features of the navigation surface in front of a wheeled robot. Recent advances in mobile robotics have brought about the development of smart wheelchairs to assist disabled people, allowing them to be more independent. These robots have a human occupant and operate in real environments where they must be able to detect hazards like holes, stairs, or obstacles. Furthermore, to ensure safe navigation, wheelchairs often need to locate and navigate on ramps. The algorithm is implemented on data from a Kinect and can effectively identify these features, increasing occupant safety and allowing for a smoother ride.
+

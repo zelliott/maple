@@ -1,0 +1,3 @@
+
+Analysis of a major multi-site epidemiologic study of heart disease has required estimation of the pairwise correlation of several measurements across subpopulations. Because the measurements from each subpopulation were subject to sampling variability, the Pearson product moment estimator of these correlations produces biased estimates. This paper proposes a model that takes into account within and between sub-population variation, provides algorithms for obtaining maximum likelihood estimates of these correlations and discusses several approaches for obtaining interval estimates.
+

@@ -1,0 +1,3 @@
+
+Given a family of related sequences, one can first determine alignments between various pairs of those sequences, then construct a simultaneous alignment of all the sequences that is determined in a natural manner by the set of pairwise alignments. This approach is sometimes effective for exposing the existence and locations of conserved regions, which can then be aligned by more sensitive multiple-alignment methods. This paper presents an efficient algorithm for constructing a multiple alignment from a set of pairwise alignments.
+

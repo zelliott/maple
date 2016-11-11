@@ -1,0 +1,9 @@
+
+To study the variation of computed tomography (CT) number from a simulator-based scanner and the effect of this variation on photon-dose calculations.
+
+CT images of a cylindrical phantom with multiple inserts were obtained using a commercially-available simulator-CT (Ximatron: Varian, Palo Alto, CA). The linear correlation coefficient and Chi-square methods were used to determine the X-ray effective energy in a phantom. CT numbers in Hounsfield units (HU) were measured as a function of phantom size, orientation, field of view (FOV), distance from the center, and time for various inserts. The change of dose calculations due to the CT number variations was then determined using the equivalent path-length (EPL) and collapsed cone convolution methods.
+
+A significant beam-hardening effect was observed for the simulator-CT. Consequently, the CT number from the sim-CT was more sensitive to the size of the phantom than those from a conventional CT. The sim-CT number is not sensitive to the locations within the phantom and is stable over a 6-week period. It is important to use the proper FOV for sim-CT studies; scanning a small polystyrene phantom using a large FOV may result in an increase of l20 HU in CT number at the center of the field. However, the dose-calculation variations, due to the CT number uncertainty, do not exceed 2-3% for 6-18 MV photon beams.
+
+The simulator CT images were acquired with patients in the treatment position, and these CT numbers are useful for CT-based dose calculations.
+

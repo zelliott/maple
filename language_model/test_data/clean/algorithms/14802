@@ -1,0 +1,3 @@
+
+Shape memory alloys (SMAs) offer a high power-to-weight ratio, large recovery strain, and low driving voltages, and have thus attracted considerable research attention. The difficulty of controlling SMA actuators arises from their highly nonlinear hysteresis and temperature dependence. This paper describes a combination of self-sensing and model-based control, where the model includes both the major and minor hysteresis loops as well as the thermodynamics effects. The self-sensing algorithm uses only the power width modulation (PWM) signal and requires no heavy equipment. The method can achieve high-accuracy servo control and is especially suitable for miniaturized applications.
+

@@ -1,0 +1,9 @@
+
+A limited number of scans compromise conventional optical coherence tomography (OCT) to track chorioretinal disease in its full extension. Failures in edge-detection algorithms falsify the results of retinal mapping even further. High-definition-OCT (HD-OCT) is based on raster scanning and was used to visualise the localisation and volume of intra- and sub-pigment-epithelial (RPE) changes in fibrovascular pigment epithelial detachments (fPED). Two different scanning patterns were evaluated.
+
+22 eyes with fPED were imaged using a frequency-domain, high-speed prototype of the Cirrus HD-OCT. The axial resolution was 6 mum, and the scanning speed was 25 kA scans/s. Two different scanning patterns covering an area of 6 x 6 mm in the macular retina were compared. Three-dimensional topographic reconstructions and volume calculations were performed using MATLAB-based automatic segmentation software.
+
+Detailed information about layer-specific distribution of fluid accumulation and volumetric measurements can be obtained for retinal- and sub-RPE volumes. Both raster scans show a high correlation (p<0.01; R2>0.89) of measured values, that is PED volume/area, retinal volume and mean retinal thickness. Quality control of the automatic segmentation revealed reasonable results in over 90% of the examinations.
+
+Automatic segmentation allows for detailed quantitative and topographic analysis of the RPE and the overlying retina. In fPED, the 128 x 512 scanning-pattern shows mild advantages when compared with the 256 x 256 scan. Together with the ability for automatic segmentation, HD-OCT clearly improves the clinical monitoring of chorioretinal disease by adding relevant new parameters. HD-OCT is likely capable of enhancing the understanding of pathophysiology and benefits of treatment for current anti-CNV strategies in future.
+

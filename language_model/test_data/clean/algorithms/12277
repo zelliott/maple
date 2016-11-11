@@ -1,0 +1,9 @@
+
+An explorative study to assess the value of a model for the automatic detection and characterization of heart rate (HR) changes during seizures in severe epilepsy.
+
+Heart rate changes were monitored in 10 patients with 104 seizures, mostly tonic and myoclonic, to assess the value of various modalities for the detection of seizures based on heart rate. EEG/video monitoring served as the golden standard. Two algorithms were developed. First, a curve-fitting algorithm was used to characterize the heart rate patterns. A second algorithm based on a moving median filter was developed for automatic detection of the heart rate change onset. For varying model parameters the sensitivity (SENS) and positive predictive values (PPV) were determined.
+
+Changes in heart rate were found in 8 of the 10 patients and 50 of 104 seizures. Patterns of heart rate changes could be quantitatively characterized and were found to be stereotype for each individual patient. Large differences of the curve-fitting pattern were in some cases due to a tachycardia at seizure onset that was followed by a significant postictal bradycardia. In two out of three patients with more than 10 seizures a PPV of at least 50% yielded a SENS above 90%.
+
+Heart rate patterns can be accurately characterized with a new developed curve-fitting algorithm. Heart rate changes can also be used for automatic detection of seizures in patients with severe epilepsy if the model parameters are chosen according to predefined characteristics of the patient.
+

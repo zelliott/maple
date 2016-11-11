@@ -1,0 +1,9 @@
+
+While global breast cancer gene expression data sets have considerable commonality in terms of their data content, the populations that they represent and the data collection methods utilized can be quite disparate. We sought to assess the extent and consequence of these systematic differences with respect to identifying clinically significant prognostic groups.
+
+We ascertained how effectively unsupervised clustering employing randomly generated sets of genes could segregate tumors into prognostic groups using four well-characterized breast cancer data sets.
+
+Using a common set of 5,000 randomly generated lists (70 genes/list), the percentages of clusters with significant differences in metastasis latencies (HR p-value<0.01) was 62%, 15%, 21% and 0% in the NKI2 (Netherlands Cancer Institute), Wang, TRANSBIG and KJX64/KJ125 data sets, respectively. Among ER positive tumors, the percentages were 38%, 11%, 4% and 0%, respectively. Few random lists were predictive among ER negative tumors in any data set. Clustering was associated with ER status and, after globally adjusting for the effects of ER-alpha gene expression, the percentages were 25%, 33%, 1% and 0%, respectively. The impact of adjusting for ER status depended on the extent of confounding between ER-alpha gene expression and markers of proliferation.
+
+It is highly probable to identify a statistically significant association between a given gene list and prognosis in the NKI2 dataset due to its large sample size and the interrelationship between ER-alpha expression and markers of proliferation. In most respects, the TRANSBIG data set generated similar outcomes as the NKI2 data set, although its smaller sample size led to fewer statistically significant results.
+

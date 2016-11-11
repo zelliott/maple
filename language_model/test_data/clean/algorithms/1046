@@ -1,0 +1,3 @@
+
+Effective modeling of nonlinear dynamic systems can be achieved by employing Laguerre expansions and feedforward artificial neural networks in the form of the Laguerre-Volterra network (LVN). This paper presents a different formulation of the LVN that can be employed to model nonlinear systems displaying complex dynamics effectively. This is achieved by using two different filter banks, instead of one as in the original definition of the LVN, in the input stage and selecting their structural parameters in an appropriate way. Results from simulated systems show that this method can yield accurate nonlinear models of Volterra systems, even when considerable noise is present, separating at the same time the fast from the slow components of these systems effectively.
+

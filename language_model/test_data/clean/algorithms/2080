@@ -1,0 +1,3 @@
+
+Biological macromolecules represent a valuable source of information for the identification and phylogenetic classification of microorganisms. One of the most commonly used macromolecules for this task is the 16S rDNA. The WWW-based RIFLE system presented here supports large-scale identification tasks by comparing 16S rDNA restriction patterns to a database of restriction patterns derived from sequence databases. Computing efficiency and robustness against experimental errors are gained by employing a new distance measure for restriction patterns, the fragment length distance. Results from the application of the system to the identification of uncultured microorganisms associated with the seagrass halophila stipulacea show the reliability of the method.
+

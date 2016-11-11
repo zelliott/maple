@@ -1,0 +1,3 @@
+
+In this paper, a class of neutral high-order stochastic Hopfield neural networks with Markovian jump parameters and mixed time delays is investigated. The jumping parameters are modeled as a continuous-time finite-state Markov chain. At first, the existence of equilibrium point for the addressed neural networks is studied. By utilizing the Lyapunov stability theory, stochastic analysis theory and linear matrix inequality (LMI) technique, new delay-dependent stability criteria are presented in terms of linear matrix inequalities to guarantee the neural networks to be globally exponentially stable in the mean square. Numerical simulations are carried out to illustrate the main results.
+

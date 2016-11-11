@@ -1,0 +1,9 @@
+
+We hypothesized that a treatment planning technique that incorporates predicted lung tumor regression into optimization, predictive treatment planning (PTP), could allow dose escalation to the residual tumor while maintaining coverage of the initial target without increasing dose to surrounding organs at risk (OARs).
+
+We created a model to estimate the geometric presence of residual tumors after radiation therapy using planning computed tomography (CT) and weekly cone beam CT scans of 5 lung cancer patients. For planning purposes, we modeled the dynamic process of tumor shrinkage by morphing the original planning target volume (PTVorig) in 3 equispaced steps to the predicted residue (PTVpred). Patients were treated with a uniform prescription dose to PTVorig. By contrast, PTP optimization started with the same prescription dose to PTVorig but linearly increased the dose at each step, until reaching the highest dose achievable to PTVpred consistent with OAR limits. This method is compared with midcourse adaptive replanning.
+
+Initial parenchymal gross tumor volume (GTV) ranged from 3.6 to 186.5 cm(3). On average, the primary GTV and PTV decreased by 39% and 27%, respectively, at the end of treatment. The PTP approach gave PTVorig at least the prescription dose, and it increased the mean dose of the true residual tumor by an average of 6.0 Gy above the adaptive approach.
+
+PTP, incorporating a tumor regression model from the start, represents a new approach to increase tumor dose without increasing toxicities, and reduce clinical workload compared with the adaptive approach, although model verification using per-patient midcourse imaging would be prudent.
+

@@ -1,0 +1,9 @@
+
+To construct a quantitative, flexible and simplified mathematical model of the patient flow through the Eye Clinic at the Steno Diabetes Centre (SDC) in order to enable rational dimensioning and assess the effects of modifications.
+
+Patient data were drawn from the Eye Care database at the SDC. A simple patient flow model was constructed, allowing simultaneous adjustments of all variables, and the model was tested. Two scenarios were simulated: (1) adjusting the algorithm that assigns the follow-up intervals, and (2) increasing the population size to include all patients with diabetes in Copenhagen County.
+
+The model can describe the patient flow under steady state conditions, but is less precise in predicting transient changes with the present set-up. Accordingly all simulations were run for a substantial number of iterations. The two scenarios illustrate the usefulness of the model by calculating the required photographic examination capacity for the specific population, thereby allowing better estimations of future dimensioning of the organization.
+
+The study presents a patient flow model that can be used to illustrate the effects of proposed changes prior to their implementation, specifically with respect to the capacity of the system.
+

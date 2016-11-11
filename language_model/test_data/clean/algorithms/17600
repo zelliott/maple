@@ -1,0 +1,3 @@
+
+An improved version of the fragment-based flexible ligand docking approach SEED-FFLD is tested on inhibitors of human immunodeficiency virus type 1 protease, human alpha-thrombin and the estrogen receptor beta. The docking results indicate that it is possible to correctly reproduce the binding mode of inhibitors with more than ten rotatable bonds if the strain in their covalent geometry upon binding is not large. A high degree of convergence towards a unique binding mode in multiple runs of the genetic algorithm is proposed as a necessary condition for successful docking.
+

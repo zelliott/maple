@@ -1,0 +1,9 @@
+
+To introduce algorithms for effective segmentation of teeth MRI-UTE image.
+
+To construct second-segmentation algorithm process based on layer-dependent multi-constrained method. Firstly, a level set method was used to segment the initial boundary from the region determined by user in the reference slice. Secondly, both crown and root of the tooth were segmented by the improved level set method which took the information of the former layer's result as constraint conditions. Finally, the improved level set based on the information of the former and later layer's results was executed for the second time to improve the accuracy of segmentation, in which, the parameter of the overlapping ratio was considered.
+
+The accuracy was 86.98% for the first-segmentation and was increased to 88.35% for the second-segmentation. Compared to the two other methods, the accuracy of the algorithms provided was improved significantly (P < 0.05).
+
+The proposed algorithms can effectively achieve the segmentation of teeth MRI-UTE image and has a great improvement on accuracy.
+

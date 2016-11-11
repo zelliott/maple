@@ -1,0 +1,11 @@
+
+Physiological sleep is characterized by different cyclic phenomena, such as REM, nonREM phases and the Cyclic Alternating Pattern (CAP), that are associated to characteristic patterns in the heart rate variability (HRV) signal. Disruption of such rhythms due to sleep disorders, for example insomnia or apnea syndrome, alters the normal sleep patterns and the dynamics of the HRV recorded during the night.
+
+In this paper we analyze long-term and complexity dynamics of the HRV signal recorded during sleep in different groups of subjects. The aim is to investigate whether the calculated indices are able to capture the different characteristics and to discriminate among the groups of subjects, classified according sleep disorders or cardiovascular pathologies.
+
+Parameters, able to detect the fractal-like behavior of a signal and to measure the regularity and complexity of a time series, are calculated on the HRV signal acquired during the night. Different groups of subjects were analyzed: healthy subjects with high sleep efficiency, healthy subjects with low sleep efficiency, subjects affected by insomnia, heart failure patients, subjects affected by obstructive sleep apnea.
+
+The evaluated parameters show significant differences in the groups of subjects considered in this work. In particular heart failure patients have significant lower entropy and complexity values, whereas apnea patients show an increased irregularity when compared with normal subjects with high sleep efficiency.
+
+This work proposes indices that can be used as global descriptors of the dynamics of the whole night and can discriminate among different groups of subjects.
+

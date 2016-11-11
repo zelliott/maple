@@ -1,0 +1,3 @@
+
+The objective of this study is to show how computational modeling can be used to increase our understanding of liver enhancement in dynamic computer tomography. It relies on two models: (1). a vascular model, based on physiological rules, is used to generate the 3D hepatic vascular network; (2). the physical process of CT acquisition allows to synthesize timed-stamped series of images, aimed at tracking the propagation of a contrast material through the vessel network and the parenchyma. The coupled models are used to simulate the enhancement of a hyper-vascular tumor at different acquisition times, showing a maximum conspicuity during the arterial phase.
+

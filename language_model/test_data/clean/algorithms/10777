@@ -1,0 +1,3 @@
+
+The task of segmenting histiocyte is a crucial step in the analysis of histiocytic images which is an important application of computer vision to histopathology. The algorithm presented in this article was composed of two steps: (1) the morph-based preprocessing; (2) the ameliorated watershed method. In the first step, the difference between histiocytes was magnified in order to increase the visibility from the view of the computer vision, and then the ameliorated terrace-flooding-simulated watershed method was used to achieve the segmentation of histiocytic images in the second step. To test the performance of the algorithm, different samples of visual quality were tested and the result figures proved successful.
+

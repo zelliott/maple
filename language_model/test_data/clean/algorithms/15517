@@ -1,0 +1,3 @@
+
+The calculation of maximum likelihood pedigrees for related organisms using genotypic data is considered. The problem is formulated so that the domain of optimization is a permutation space. This is a feature shared by the travelling salesman problem, for which simulated annealing is known to be effective. Using this technique it is found that pedigrees can be reconstructed with minimal error using genotypic data of a quality currently realizable. In complex pedigrees accurate reconstruction can be done with no a priori age or sex information. For smaller numbers of individuals a method of efficiently enumerating all admissible pedigrees of nonzero likelihood is given.
+
