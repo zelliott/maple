@@ -4,3 +4,6 @@ language_model_file = 'ngram_model.lm'
 temp_test_file = 'temp_test.txt'
 output_test_file = 'output.txt'
 model_order = '1'
+
+test_data_raw_path = './test_data/raw'
+test_data_clean_path = './test_data/clean'
