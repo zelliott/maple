@@ -16,4 +16,5 @@ def make_model(train_file):
 	print ' '.join(args)
 	call(args)
 
-make_model('brown.txt')
+# make_model('brown.txt')
+make_model('gutenberg.txt')

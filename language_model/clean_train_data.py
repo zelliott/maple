@@ -25,7 +25,7 @@ def clean_gutenberg():
 	gutenberg_files = gutenberg.fileids()
 	training_corpus = []
 	for i in range(0, len(gutenberg_files)):
-		to_add = gutenberg.words(gutenberg_files[i])
+		to_add = u' '.join(gutenberg.words(gutenberg_files[i])).split(u' ')
 		training_corpus = training_corpus + to_add
 	if len(training_corpus) > corpus_size:
 		training_corpus[:corpus_size]
@@ -36,6 +36,7 @@ def clean_gutenberg():
 	to_write.close()
 
 # clean_brown()
-clean_gutenberg()
+# clean_gutenberg()
+
 
 
