@@ -44,4 +44,9 @@ def test_model(test_dir, output_file, language_model):
 	output_file.close()
 	call(['rm', temp_test_file])
 
-test_model('neoplasms', 'output.txt', 'brown.lm')
+for test_dir in os.listdir(test_data_clean_path):
+	for lm in os.listdir(lm_path):
+		lm_name = lm.split('.')[0]
+		output_file = 'test_output/' + lm_name + '_' + test_dir + '.txt'
+		test_model(test_dir, output_file, lm)
+
