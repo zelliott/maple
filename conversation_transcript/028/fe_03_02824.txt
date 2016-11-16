@@ -1,0 +1,443 @@
+# fe_03_02824.sph
+# Transcribed by BBN/WordWave
+
+0.68 2.08 A: (( hello )) 
+
+1.55 3.00 B: hi 
+
+3.16 5.77 A: (( hi who am i talking to i'm )) 
+
+5.71 7.55 B: my name is jennifer 
+
+7.61 8.84 A: jamie 
+
+8.69 10.92 B: okay have you done one of these before 
+
+10.83 11.80 A: yes 
+
+11.36 12.85 B: okay so have i 
+
+12.86 13.74 B: so 
+
+13.74 14.60 A: this 
+
+15.02 15.97 A: two 
+
+16.16 17.85 A: have you done more than two 
+
+17.75 19.63 B: i've just done one 
+
+18.06 18.64 A: (( [noise] )) 
+
+19.62 20.57 A: oh 
+
+19.74 21.04 B: so far 
+
+20.85 23.78 A: well what did you what did you talk to the 
+
+23.89 25.17 B: i'm sorry 
+
+25.02 25.95 A: (( where are you )) 
+
+27.01 28.18 B: illinois 
+
+28.34 30.70 A: from illinois i'm from minnesota 
+
+30.70 32.33 B: oh well we're 
+
+31.49 32.39 A: (( where are you )) 
+
+32.35 35.25 B: we'll be moving shortly but 
+
+34.87 36.48 A: (( moving to )) 
+
+36.45 39.23 B: uh we don't know yet my husband lost his job 
+
+39.39 40.99 A: (( oh no [noise] )) 
+
+40.73 42.69 B: so oh well 
+
+43.02 44.25 A: what did he do 
+
+43.97 45.66 B: he's an engineer 
+
+45.74 47.10 A: (( oh my )) 
+
+47.12 48.19 B: mhm 
+
+47.54 48.42 A: well 
+
+49.14 50.08 A: pretty much 
+
+50.21 50.88 A: (( and )) 
+
+51.64 54.46 A: with that he'll always be able to find somewhere 
+
+54.37 56.12 B: yeah 
+
+55.75 56.63 A: (( now )) 
+
+57.29 58.06 B: (( but )) 
+
+58.08 60.79 A: do you watch professional sports on television 
+
+60.75 62.46 B: no [laughter] 
+
+62.11 63.43 A: me either 
+
+62.80 63.57 B: [laughter] 
+
+63.54 64.49 A: (( um )) 
+
+64.65 75.11 A: i do watch some football in the winter you know in the fall um just because i have a husband and three sons who are away from home now but um 
+
+75.54 82.00 A: they always let watch sports and now i'm kinda watching hockey because minnesota is in 
+
+82.11 85.10 A: the play offs and if they don't win tonight they're done 
+
+85.07 85.95 B: (( oh )) 
+
+85.97 96.49 B: see we're big hockey people we used to have um a minor league hockey team where my husband went to school at and we called it the white trash hockey league 
+
+88.06 89.23 A: (( yeah [lipsmack] )) 
+
+96.12 97.27 A: yeah 
+
+96.58 105.00 B: because that's all that went basically i mean the fans would throw beer at the opposite you know at the opposing team's players and 
+
+104.97 107.39 A: (( was it a hockey uh college )) 
+
+107.92 109.19 B: i'm sorry 
+
+108.97 110.70 A: was it college hockey 
+
+110.42 119.22 B: no it's actually um i uh oh i wanna call it i i think it's i._h._o. it's just right below n._h._l. hockey 
+
+116.24 117.10 A: oh 
+
+120.15 121.19 B: so 
+
+120.93 123.03 A: i'm surprised they allow that 
+
+122.66 126.96 B: oh they people would fight like crazy and 
+
+123.05 124.15 A: (( behaviour )) 
+
+126.08 132.59 A: yeah that's what they do with hockey and that's like it's cool if you're gonna participate you have to fight you 
+
+129.15 129.94 B: (( [laughter] )) 
+
+132.43 133.89 B: yeah 
+
+133.53 140.26 A: know [noise] and i watch a little bit of basketball but our team the timber wolves 
+
+140.73 142.70 A: (( were defeated i think and knocked out )) 
+
+143.45 145.11 B: [noise] we i 
+
+145.41 153.46 B: we don't i don't get into football my husband does 'cause he won state two years when he was in high school [sigh] 
+
+153.90 165.20 B: so he's big into hockey and like a couple of the guys from his town one played for the bills and then another one played for the indiana colts 
+
+165.70 166.76 B: so 
+
+166.58 168.68 A: who's your husband's favorite football team 
+
+169.05 170.23 B: i'm sorry 
+
+170.14 172.07 A: who's his favorite football team 
+
+171.79 173.25 B: oh saint louis 
+
+173.27 174.38 A: oh 
+
+174.08 178.99 B: 'cause that's it's the closer he grew up like maybe an hour from saint louis 
+
+178.86 180.80 A: oh so it's kinda home town 
+
+180.49 182.11 B: yeah [laughter] 
+
+181.63 182.94 A: i see 
+
+183.50 185.32 A: and what about um 
+
+183.64 184.20 B: (( so )) 
+
+185.42 187.38 A: that would that was football 
+
+186.91 188.72 B: yeah 
+
+188.00 190.25 A: what about hockey who does he root for 
+
+189.93 191.13 B: saint louis 
+
+191.06 192.84 A: oh of course 
+
+192.65 193.83 B: yeah 
+
+194.44 200.69 B: yeah i i grew up going chicago chicago chicago and i married a saint louis guy so 
+
+200.17 202.11 A: do you live near chicago 
+
+201.76 207.64 B: no well [mn] i used to live literally in the middle of chicago in saint louis 
+
+207.56 208.82 A: wow 
+
+208.13 213.48 B: so half our town went one way and half of it went the other and we went chicago [laughter] 
+
+213.62 214.73 A: (( yeah )) 
+
+214.93 215.95 B: so 
+
+216.08 222.33 B: but no last time i actually sat down and watched anything and i don't even know if it counts as a sport is like 
+
+222.36 224.34 B: the four wheeler races 
+
+224.85 225.81 A: oh 
+
+225.95 228.66 A: that's interesting i haven't ever seen those here 
+
+228.46 234.43 B: oh well they oh i'm trying i don't even know what channel i think e._s._p._n. two does it 
+
+234.32 237.44 A: yeah i like if i had to sit down 
+
+237.51 242.38 A: i kinda like gymnastics or the the cheerleader 
+
+242.43 243.51 A: finals 
+
+243.52 245.08 B: (( yeah [noise] )) 
+
+245.09 247.81 A: um i like figure skating 
+
+248.67 249.79 A: you know one 
+
+249.98 254.21 A: not not well like especially if it's with partners and it's competition 
+
+253.94 255.23 B: yeah 
+
+254.80 264.13 A: [cough] i do enjoy that [lipsmack] um when the olympics are on um tend to watch um probably more of the same thing gymnastics and skating 
+
+265.07 271.01 A: [sigh] but that's about my extent of sports on t._v. so how many hours will you watch 
+
+271.04 273.29 A: a week depends upon 
+
+273.68 275.50 A: what's on that we like 
+
+275.58 283.90 B: [sigh] [noise] let me see i don't think we watch hard- i i w- yeah we don't really watch sports on a weekly basis 
+
+283.93 289.50 B: but we're starting to get into um the world tough man competitions 
+
+289.38 290.42 A: yeah 
+
+289.74 296.75 B: because my brother in law will probably i'd give him another two three years and he'll probably be in 'em 
+
+296.95 310.86 B: 'cause he broke he's uh he's a huge kid and uh he just went to national weightlifting competition and he broke like the national record for dead lift and bench pressing and 
+
+310.27 313.87 A: oh my has he been doing that a long time 
+
+311.19 312.58 B: the kid's huge 
+
+313.93 321.43 B: um i believe he's a sophomore in college and he started his senior year of high school so about three years 
+
+319.78 324.72 A: oh that's he's really good then he's probably natural at it considering you know 
+
+324.41 326.03 B: yeah 
+
+326.06 330.70 B: but the heck of it is the kids going to school to be an orthodontist [laughter] 
+
+329.61 330.33 A: [laughter] 
+
+330.87 333.18 A: he's going to be an orthodontist 
+
+332.34 333.73 B: yeah 
+
+333.31 342.78 A: yeah well i'm a dental assistant so i know that those guys kinda are a little bit they do kinda strange things it's got nothing to do with teeth 
+
+340.27 341.52 B: [sigh] [sigh] well 
+
+342.36 343.20 B: (( [laughter] )) 
+
+343.54 351.58 B: well like someone said if they're gonna have a dentist they'd rather have a big strong guy who could pull the tooth out in one quick yank but [laughter] 
+
+350.40 352.17 A: yeah well that's true 
+
+352.28 355.56 A: you don't want a tooth pulled that way though out trust me 
+
+355.21 356.91 B: yeah 
+
+356.24 357.18 A: [mn] 
+
+357.24 358.10 B: but 
+
+358.55 359.65 B: no the 
+
+360.34 364.73 B: we don't we don't watch t._v. honestly that much 
+
+363.88 370.51 A: no well i don't i don't either i work a lot of evenings so i don't hardly ever watch t._v. in at night 
+
+370.97 380.76 B: well i have i have a four month old baby and you know i just i think it over stimulates her to leave the t._v. on all day so 
+
+380.09 383.21 A: well that might be true there might be something to say for that 
+
+383.25 386.26 A: never heard it put that way before but that makes sense 
+
+385.99 394.43 B: well it just seems like she's constantly i mean she loves watching t._v. and in the evenings you know we do watch t._v. but during the day 
+
+394.56 398.18 B: it just seems likes she won't nap if i leave the t._v. on 
+
+398.56 399.43 A: hm 
+
+398.83 399.81 B: so 
+
+399.96 402.65 A: so like you said she's probably over stimulated 
+
+402.36 403.55 B: yeah 
+
+403.75 404.38 B: (( [sigh] )) 
+
+404.65 405.60 B: but 
+
+407.10 408.47 B: i don't know 
+
+408.83 411.16 A: what was your other survey on 
+
+411.62 413.53 B: what family 
+
+413.96 414.93 A: oh 
+
+414.58 419.85 B: and then i've tried calling a couple of other times and i got one on like food 
+
+420.00 426.22 B: and then one on illness but after ten minutes of finding no one to do this with i hung up on 'em 
+
+426.71 430.20 A: you mean they couldn't find anybody for you to participate with 
+
+429.68 432.08 B: yeah 'cause i don't 
+
+431.00 432.04 A: what time of 
+
+432.14 433.92 B: i just called in 
+
+434.09 437.81 B: and it they couldn't find anybody to participate 
+
+434.12 435.19 A: yeah 
+
+437.77 441.24 A: oh i called in this one and you came right on right away 
+
+441.32 444.60 B: yeah this one i didn't have to wait at all so 
+
+444.81 448.44 A: did you you know did did they call you 
+
+448.15 449.33 B: yeah 
+
+448.69 450.10 A: (( yeah [mn] )) 
+
+450.19 453.42 B: they called me once and i wasn't home so 
+
+453.38 454.92 A: (( did they call back )) 
+
+454.85 457.21 B: no they've only called here once 
+
+457.33 462.32 A: oh i the very first day i think i registered or the next day they called 
+
+462.36 465.51 B: i think it was the day after i registered that they called here 
+
+464.96 471.82 A: yeah and then um they called the next day when i was at work and then they called the next day 
+
+472.62 476.77 A: and i was at work again so they did call back a third time 
+
+474.29 475.15 B: [laughter] 
+
+476.70 477.88 B: yeah 
+
+477.41 479.10 A: (( every day in a row )) 
+
+479.11 482.73 A: and i talked to a young man about allergies in seattle 
+
+482.54 483.43 B: (( [noise] huh )) 
+
+482.92 487.41 A: which was good the same and a lot of things about seattle i didn't have any idea 
+
+487.12 488.03 B: [laughter] 
+
+487.76 489.81 A: uh they had deserts there 
+
+489.92 490.98 A: um 
+
+491.82 494.88 A: [lipsmack] and um i generated this call 
+
+495.21 499.81 A: today that's the first time i've ever done that and you were like you were like right there yeah 
+
+497.28 498.40 B: yeah 
+
+500.17 501.02 B: (( mm )) 
+
+501.04 502.85 A: that's weird 
+
+502.27 509.83 B: yeah i don't know i'm just like i was wary about this because i was like i didn't know if we were actually gonna get paid for it 
+
+509.63 511.61 A: yeah i don't know i'm wondering 
+
+510.25 518.30 B: 'cause i do a lotta mystery shopping and some people were like well i did it and never i've never gotten paid i got paid already for my first phone call so 
+
+518.45 519.66 A: from this 
+
+519.35 520.58 B: yeah 
+
+520.29 521.37 A: really 
+
+520.77 523.42 B: i got a ten dollar check today in the mail [mn] 
+
+523.97 525.57 A: from like 
+
+525.93 527.34 A: like last week 
+
+527.53 533.86 B: i think it was either i think it was like the week before so it's been less than two weeks 
+
+531.54 532.47 A: oh 
+
+533.75 542.82 A: wow that's really quick you know people have asked me do you get paid and i go i don't know i haven't you know i haven't seen anything but [sigh] you're supposed to get paid ten dollars 
+
+535.18 536.34 B: yeah 
+
+542.50 545.29 B: yeah i [mn] i got mine today so 
+
+545.21 546.61 A: well that's cool 
+
+546.34 547.36 B: yeah 
+
+547.16 555.47 A: do you know it says on this paper that i printed out something about you can have um you may participate in up to three calls 
+
+554.84 555.90 B: yeah 
+
+556.02 557.71 A: is it only three 
+
+558.59 564.16 B: i think it's only well somethings i've sai- i've seen says three and then some say ten 
+
+564.41 565.28 A: oh 
+
+565.16 569.45 B: but i'd would be more prone to say three is probably correct 
+
+569.07 573.58 A: right um where did you find about it on the internet [noise] 
+
+572.88 575.37 B: yeah on a mystery shopping com 
+
+573.79 574.68 A: do you know 
+
+575.42 576.40 B: (( site )) 
+
+576.41 578.58 A: on a mystery shopping site 
+
+578.01 579.07 B: yeah 
+
+578.90 580.93 A: what's a mystery shopping thing 
+
+581.18 585.99 B: mystery shopping is where oh like yesterday talk about easy money 
+
+586.24 592.21 B: i went to mcdonald's and they pay me to evaluate the mcdonald's staff 
+
+592.48 594.14 A: (( [noise] really )) 
+
+593.58 599.95 B: yeah and the one i did yesterday was in a town forty miles from where i live so i got 'em to give me 
+
+598.07 599.19 A: yeah 
+

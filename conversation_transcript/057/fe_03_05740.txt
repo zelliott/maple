@@ -1,0 +1,341 @@
+# fe_03_05740.sph
+# Transcribed by BBN/WordWave
+
+0.90 2.06 B: (( hello )) 
+
+1.64 3.28 A: hello how are you 
+
+3.34 4.90 B: fine how are you [mn] 
+
+4.41 6.80 A: excellent i'm wally 
+
+6.86 8.30 B: (( uh my name's debra )) 
+
+8.23 9.53 A: hi debra 
+
+9.28 10.24 B: hi 
+
+10.00 12.79 A: do you know anything about computers in school 
+
+12.97 20.85 B: uh actually not too much no i've been out of school so long i barely remember where i went so [laughter] hmm 
+
+18.70 20.15 A: (( [sigh] hmm )) 
+
+21.08 22.77 B: [lipsmack] how about you 
+
+21.77 22.47 A: (( d- )) 
+
+22.65 24.38 A: um well 
+
+24.45 27.00 A: [lipsmack] i'm actually an instructional designer 
+
+27.13 28.42 B: oh okay 
+
+27.38 31.67 A: um and work with uh e-learning and such 
+
+31.80 35.38 A: so uh and i do some development of 
+
+35.72 37.45 A: for adult education 
+
+37.53 43.76 A: um using the web but i wasn't sure if they were more talking about elementary school 
+
+43.39 49.70 B: [mn] that's what i assumed when i heard yeah i assumed that when i heard the topic that they meant elementary school 
+
+43.95 45.35 A: and kids 
+
+49.45 51.98 A: that's what i thought too do you have kids 
+
+52.11 54.65 B: uh no i don't [mn] not yet 
+
+53.78 55.88 A: mm not yet you want some 
+
+55.33 57.86 B: [laughter] [mn] yeah sure in the future 
+
+59.52 63.23 A: well you sound very young so it sounds like you got a long way to go [lipsmack] 
+
+61.48 62.86 B: [laughter] 
+
+63.11 66.45 B: [laughter] not really do you have children okay [noise] 
+
+66.67 68.74 A: i have two one and four 
+
+68.83 73.26 A: so i've been um introducing my four year old to 
+
+73.27 74.99 A: um the computer 
+
+75.09 77.99 A: and i don't know i think that uh 
+
+78.71 90.02 A: i think at this point we we can't go backwards it's too late to decide whether or not we i- if computers help or not because i think children are going to be 
+
+90.93 94.04 A: you know surrounded by computers 
+
+93.94 95.08 B: (( [mn] mhm )) 
+
+94.52 99.71 A: and if they don't have the computers in school and if they're not learning using computers 
+
+99.76 101.04 A: then 
+
+101.35 106.85 A: i think children will find it their school life not relevant 
+
+106.81 111.22 B: right and then that would yeah i know what you mean 
+
+108.01 109.19 A: (( you know what i mean )) 
+
+112.15 121.50 B: and what about those kids i'm just thinking here d- i mean believe it or not there are still some people that don't have computers for their children to use at home 
+
+121.49 125.67 A: [lipsmack] yeah so there's a challenge there 
+
+121.88 123.37 B: (( you know in other )) 
+
+125.21 126.39 B: (( hm )) 
+
+125.75 129.75 A: indeed 'cause what happens if the homework is computer based 
+
+130.54 131.70 B: that's true 
+
+131.68 133.30 A: how does that happen 
+
+134.34 136.34 B: (( i never thought of that interesting )) 
+
+134.44 135.90 A: um 
+
+137.43 138.55 A: so 
+
+138.86 142.88 A: i don't know i mean i guess they could just do it where 
+
+142.98 144.37 A: um 
+
+146.71 151.00 A: you get your homework done at school or they give you time at school for labs 
+
+151.07 153.14 B: mhm 
+
+152.10 154.47 A: [lipsmack] and then your 
+
+154.57 158.48 A: your homework is just you know paper based or something 
+
+159.06 161.07 B: (( right )) 
+
+160.05 161.51 A: but that's tough 
+
+161.63 164.17 B: yeah that that's that's a lot 
+
+164.26 168.97 B: (( um and i i don't see these the schools here i'm in new york city )) 
+
+169.22 180.11 B: um i don't see the public schools for instance here making extra time for students to stay and do lab work or do their homework in school and use the computers 
+
+180.84 181.75 B: um 
+
+181.78 184.01 B: (( seeing that everything's being cut i )) 
+
+184.41 189.81 B: know thing about well over a year ago there was an issue where um 
+
+190.25 194.57 B: [lipsmack] al bloomberg was saying that uh we need to go back to 
+
+194.93 203.56 B: pencils and paper and you know and arithmetic and reading and math and just concentrate on that and get rid of the computers in schools 
+
+203.63 205.63 B: (( uh 'cause he felt that )) 
+
+205.84 217.31 B: by the time these kids graduate whatever it is they're whatever computers they were using and software they were using in school would be obsolete by the time they graduated and that was the point 
+
+215.72 216.68 A: (( mm )) 
+
+217.81 219.19 B: (( so i mean tha- )) 
+
+219.28 225.30 B: that was interesting 'cause there are a lot of uh kids in the public school who 
+
+225.57 228.65 B: do go through the school system and [sigh] 
+
+229.02 233.05 B: just aren't reading at the level that they should be reading once they graduate but i 
+
+233.51 234.73 A: yeah 
+
+233.76 236.46 B: think that was sort of his point 
+
+237.28 238.98 B: what do you think about that 
+
+239.00 243.27 A: [lipsmack] well i think there's a lot of um there's a lot to that 
+
+244.38 254.49 A: i think [noise] that we're still young in how our educational material is communicated and used on the web 
+
+254.58 255.59 B: mhm 
+
+255.00 258.43 A: so i think it's not as good as it's going to be 
+
+258.97 259.80 B: (( okay )) 
+
+259.07 270.38 A: so there probably is a lot of you know holes and and barriers to proper education but i believe that there's a lot of there's been a lot of um 
+
+271.46 281.28 A: you know process made in that um i i think with everything there needs to be balance i think s- a kid still has to have a reading assignment and has to read a book 
+
+281.14 282.48 B: (( mhm right )) 
+
+281.87 285.28 A: um and they should also 
+
+286.08 288.35 A: but the whole thing about having to 
+
+288.74 293.14 A: y- i think you can learn math on a computer just as well as you can in a book 
+
+293.50 294.88 B: mhm 
+
+294.34 305.60 A: with a workbook where you write the stuff down i don't see why [mn] i mean you know 'cause of course that's weird 'cause like you get some sort of excel spreadsheet that's doing all of your calculations for you 
+
+307.16 307.74 A: (( [mn] )) 
+
+307.92 310.06 A: um [sigh] 
+
+310.24 312.95 A: you know do you need to know how to 
+
+313.51 320.38 A: ever know how to do a square root in your head when you could always have a computer do it for you or your watch 
+
+317.96 318.52 B: (( [mn] )) 
+
+320.56 323.24 A: you know every watch is going to be a computer soon 
+
+322.19 325.34 B: [noise] [noise] [noise] [noise] or your cell phone [laughter] 
+
+324.21 329.60 A: or your cell phone so if you're at the grocery store and you have to calculate whether or not this is a good deal or not 
+
+325.96 327.01 B: (( [noise] yeah )) 
+
+329.96 332.42 A: you could just do it there [mn] 
+
+332.59 342.58 A: um yeah i don't know but then what happens when you're you're out camping and you don't have all your electrical devices and you want to do some math figure out how to save your life 
+
+342.57 344.22 B: [laughter] 
+
+343.68 348.47 A: crossing a river that's going thirty miles an hour and [laughter] 
+
+348.90 351.43 B: okay i'd drown [laughter] 
+
+350.24 353.73 A: [laughter] whether you had your fancy watch or not 
+
+352.26 352.88 B: (( with )) 
+
+353.48 356.08 B: or without it [laughter] i'm done 
+
+355.79 359.08 A: yeah [mn] well i think there has to be a balance 
+
+359.10 366.87 A: um [lipsmack] but i think you know i think like wh- what i originally said there's no the the question that they gave us 
+
+367.17 372.82 A: you know i- i- is it valuable or is it a good thing or n- i think at that point it's too late 
+
+373.36 374.24 B: mhm 
+
+373.46 380.62 A: it's i think the schools have to embrace it and go with it because 
+
+378.93 380.03 B: (( sure )) 
+
+381.61 390.06 A: that's what's you know the the the kids will lead the charge they'll go to their friends' houses that have the playstation two 
+
+390.10 391.23 B: mhm 
+
+390.26 394.11 A: and they will learn how to use the computer whether it's in school or not 
+
+394.05 397.50 B: this is true and the more they're exposed to the better 
+
+395.01 396.01 A: and 
+
+398.43 408.06 A: yeah no kidding and and so here's your here's your homework assignment um learn about spain [cough] and so you so the old way was to go to the library and get 
+
+399.91 402.09 B: couldn't hurt too [laughter] 
+
+402.25 403.20 B: mhm 
+
+408.15 410.48 A: what two or three books on spain 
+
+410.26 411.38 B: mhm 
+
+410.84 415.61 A: [lipsmack] and read them and take forever or now you can search on the web 
+
+416.29 418.31 A: and get so much more 
+
+418.67 428.09 A: and you you get moving pictures and videos and people talking to you and [sigh] that has to se- to me it has to better 
+
+422.85 424.25 B: (( right )) 
+
+428.34 432.17 A: 'cause uh you know kids are sponges as you mention and they they'll just [sigh] 
+
+432.18 438.37 A: the more they see the more they'll learn so just i think it's a better way to communicate more stuff 
+
+438.61 440.59 B: mhm i agree 
+
+440.26 441.61 A: i think it's good [mn] 
+
+441.76 456.57 B: i mean i'm amazed i mean my niece is seven and i'm amazed at you know what she can already do on a computer and how quickly she she picks things up i mean you can show her something once and and she's ready to go [laughter] 
+
+448.76 450.03 A: mhm 
+
+455.71 457.04 A: yeah 
+
+456.46 460.43 B: you know and she's just so fascinated by it all which is great 
+
+459.14 469.55 A: so what are you going to what are you going to say when your taxes go up because they have to put a uh new computers in the school which they just did two years ago but now they're outdated 
+
+469.49 473.38 B: [mn] well you know if it's for education i mean 
+
+473.56 478.59 B: i'm sure i don't even know half of the things that my tax money goes to 
+
+478.73 487.77 B: first of all i mean but for education i mean how do you how do you say no to that i mean it it's worth the extra money i mean 
+
+479.66 480.58 A: (( right [lipsmack] )) 
+
+488.55 494.90 A: unless you're the p- type of person that says get them back to paper and pencil and we don't have to have these extra charges every two years 
+
+496.31 500.67 B: (( [mn] so that was the idea [laughter] )) 
+
+498.81 504.50 A: you're wasting our money by dumping it into some software that's going to be obsolete in two years 
+
+501.15 502.92 B: mhm 
+
+504.58 505.37 B: (( yeah [mn] )) 
+
+506.29 507.75 A: it's a tough one 
+
+507.91 508.93 B: (( it is tough )) 
+
+508.58 510.98 A: 'cause they're always trying to get more money out of you [sigh] 
+
+511.33 512.81 B: (( mhm [mn] )) 
+
+512.79 516.90 A: and you're getting yourself into a losing battle of trying to keep up with technology 
+
+518.75 520.18 B: do you really think so 
+
+521.03 523.00 B: trying to keep up with it 
+
+522.54 527.59 A: [mn] well just like you said what happens when the computers are outdated 
+
+528.41 531.51 A: don't they have to update 'em get new computers in the school 
+
+531.37 532.59 B: that's true 
+
+533.05 537.13 B: mm but then again i g- you can look at it as you have something to build on 
+
+537.80 545.70 B: you know uh what's worse having u- once used an you know an a system that's now obsolete or having not used anything at all 
+
+547.89 554.06 A: it all depends if you're you know in that canoe and and you need to do the math on your fingers to save your life 
+
+552.47 558.85 B: [laughter] we we already went through this if i'm in the canoe [laughter] it's already 
+
+554.68 555.69 A: [laughter] 
+
+556.27 558.21 A: oh [laughter] 
+
+559.54 564.17 B: [laughter] i'm in i'm already hopeless [laughter] 
+
+563.18 568.34 A: yeah well yeah i don't know it it seems like um [sigh] 
+
+564.78 565.63 B: (( [mn] that's )) 
+
+569.23 571.08 A: it just seems like 
+
+571.61 577.45 A: we can't go backwards and i i mean i like the idea that children can also communicate with other children 
+
+577.46 581.96 A: around the world using computers and i think that's an educational 
+
+582.20 584.89 A: uh thing that you can never do with books 
+
+585.21 586.73 B: (( true definitely )) 
+
+586.03 599.89 A: you might get some quotes from from some oth- some you know some some other person around the planet but to actually see some kid in somalia talking on the computer about their life or or having a chatroom with somebody from fr- 
+

@@ -1,0 +1,301 @@
+# fe_03_05475.sph
+# Transcribed by BBN/WordWave
+
+0.00 1.09 A: hello 
+
+0.69 2.07 B: (( hello [noise] )) 
+
+1.88 3.50 A: hello i'm john 
+
+2.65 4.07 B: this is george 
+
+4.03 5.77 A: george nice to meet you 
+
+5.48 7.73 B: [noise] and uh your name is 
+
+7.44 8.27 A: john 
+
+8.13 10.49 B: john where are you john 
+
+10.36 12.55 A: uh i'm located in texas 
+
+12.68 15.34 B: ah you don't have a texas accent 
+
+14.73 17.40 A: [laughter] where abouts are you located at [noise] 
+
+16.73 18.67 B: i'm in california 
+
+18.93 23.76 A: excellent so it's still six o'clock the- or seven o'clock there 
+
+23.20 25.27 B: close to seven o'clock yeah [noise] 
+
+25.00 26.79 A: all right well 
+
+25.56 27.71 B: well how do you feel about smoking john 
+
+27.81 30.59 A: well i personally don't smoke um 
+
+29.69 31.01 B: have you ever 
+
+30.76 32.46 A: no i've never smoked 
+
+32.21 33.09 B: (( 'kay )) 
+
+32.87 33.88 A: um 
+
+33.98 38.79 A: i mean i go out fairly often um once a week 
+
+38.61 39.47 B: (( mm )) 
+
+39.50 42.55 A: and you know if i'm out at a pub or something 
+
+42.77 46.56 A: it never it never really bothers me um of course 
+
+45.60 48.92 B: now can you smoke in bars and public places in texas 
+
+49.08 55.65 A: um in austin they just recently passed it so that you can't smoke in any public building 
+
+55.04 55.92 B: 'kay 
+
+56.26 57.84 B: [noise] are you in austin [mn] 
+
+57.38 61.72 A: yes that's where i'm located at and and yourself uh 
+
+60.72 63.24 B: i'm near disneyland 
+
+62.37 63.71 A: ah okay 
+
+63.97 66.72 B: i told you the name of the city it wouldn't mean anything 
+
+66.16 70.82 A: uh oh i be- i been out to anaheim and that area so i have a pretty good idea of where 
+
+68.42 73.20 B: oh okay well i'm in [noise] fullerton which is the city directly north of anaheim 
+
+73.08 73.90 A: okay 
+
+73.92 79.50 A: all right and uh do how was the how was smoking there are you allowed to 
+
+78.43 82.13 B: you cannot smoke in any public building 
+
+82.03 94.10 B: you cannot smoke in restaurants you cannot smoke in bars unless it's a designated space which is sealed off or or separated so the smoke cannot drift from one area to the other [noise] 
+
+94.65 101.78 A: see that's how i think that's how it used to be here but now they just i think they just basically banned it in any public building 
+
+101.17 103.26 B: well how do you feel about it [noise] 
+
+103.87 108.39 A: it doesn't it doesn't really affect me i'm 
+
+108.46 112.20 A: i mean as far as when whenever i went out um 
+
+112.16 120.87 B: well have you noticed a difference in your willingness to stay in bars or clubs that are smoke free as opposed to 
+
+121.21 122.81 B: not smoke free 
+
+122.69 133.87 A: well it's it's been less of an issue whenever i go out that i don't have to worry about oh am i going to be in a smoking place am i gonna the the one thing that i that i personally enjoy about it is 
+
+127.15 127.93 B: oh 
+
+134.00 143.32 A: i'm if i go out i'm not gonna have to worry about you know if i just put put on a shirt that night is the shirt gonna smell like smoke when i wake up in the morning 
+
+142.89 143.84 B: ah 
+
+144.08 144.88 A: that's 
+
+145.51 148.39 A: um if you can tell i'm a college student so kin- 
+
+147.67 149.45 B: i suspected yes 
+
+148.98 153.55 A: kind of uh kind of lazy not real interested in in washing uh 
+
+153.70 155.85 A: just clothes every time i go out 
+
+155.31 158.27 B: i hear that [noise] i hear that 
+
+157.64 159.27 A: and how has it affected you 
+
+159.46 168.99 B: well i don't like to go to places [noise] where there's uh uh smoking um i like the fact that i can 
+
+169.07 172.63 B: not have to have clothes that are smoke 
+
+173.12 177.64 B: filled and uh i've i've been to 
+
+177.73 192.35 B: a couple of the places where they have a smoking room or a smoking night and i found that i didn't like it nearly as much the food didn't taste as good and everybody was too busy blinking smoke out of their eyes or 
+
+192.31 196.66 B: or waving it out of their face and i just didn't [noise] feel it was uh 
+
+196.71 200.53 B: and i [noise] think that people who i don't smoke i used to smoke 
+
+200.66 204.15 B: oh probably as long as you've been alive okay 
+
+204.54 206.42 B: if you're a college student 
+
+205.62 206.71 A: understood 
+
+206.63 209.11 B: and um um 
+
+209.74 215.86 B: i just find people are not as pretentious or self conscious maybe is a better word 
+
+214.77 215.49 A: right 
+
+216.01 225.41 B: if they're not smoking i'm not saying that they're not pretentious or self conscious but it just [noise] a lot of people when they have a cigarette in their hand um 
+
+225.43 230.37 B: they're so preoccupied with being cool that um 
+
+231.23 234.46 B: it's hard to walk and chew gum at the same time 
+
+234.18 245.88 A: so i guess along the other um topic of the conversation the the smoking uh like anti-smoking campaigns and whatnot i mean what what really brought about you not smoking any more 
+
+245.39 249.54 B: oh i just uh i decided one day that i just didn't wanna do it any more 
+
+250.15 255.24 B: so i stopped i'm i'm one of those strange people who stopped once not fifty seven times 
+
+255.06 258.99 A: right understood i think it's ninety percent addictive 
+
+259.20 262.47 B: oh i don't know i smoked for about four or five years 
+
+262.66 271.20 B: and then i tried a a pipe and didn't much care for that it too much to do i was al- [noise] i don't think i need to keep my hands busy that way 
+
+271.13 272.15 A: right 
+
+271.51 285.35 B: and um [lipsmack] i smoked cigars for a few years and um still have one maybe once or twice a year but um i even find [noise] that i prefer to have those outside where [noise] i don't have to smell my own smoke i 
+
+285.59 287.55 A: right right that 
+
+286.46 293.36 B: like the taste i just don't like being around the smoke and i think that most [noise] anti smoking campaigns 
+
+293.37 297.99 B: miss the point the point is smoking is bad for you it kills you 
+
+298.42 308.08 B: uh if it doesn't kill you it certainly hurts your health if you're an athlete it cuts down on your breathing ability and it's [noise] hard to do any kind of sport without good breathing 
+
+308.23 309.28 A: understood 
+
+309.24 311.34 B: so um 
+
+312.07 315.79 A: well i mean do you think that they're targeted at the right age bracket 
+
+312.30 313.39 B: (( [noise] so )) 
+
+315.18 324.64 B: i think so you know [noise] the younger the longer somebody [noise] postpones smoking the less likely i believe it is that they're gonna pick it up so start young 
+
+324.65 329.59 A: right i i mean do you think that they're do you think that it's effective or do you think 
+
+329.02 335.00 B: i don't know it's been so long since i was a teenager i don't know that it would affect me or that it would influence me 
+
+335.55 344.32 A: um i personally never i'm kind of a nerd so i personally never had any like peer pressure to to do much of anything um 
+
+344.24 346.96 B: well if you're going out to clubs how much of a nerd can you be 
+
+346.55 349.48 A: [laughter] oh i i brew my own beer 
+
+349.55 352.63 B: well it's funny i just wrote a novel on beer 
+
+352.12 353.65 A: really what novel 
+
+353.42 359.73 B: it's called first beer and it's about uh it takes place at the repeal of prohibition 
+
+359.99 361.09 A: (( ah okay )) 
+
+360.88 375.11 B: and it's about um three gals who are between twenty and thirty years old and uh how they came to have their first beer legal or not legal and how they came to have their first beer together because they don't know each other at the beginning of the book [lipsmack] 
+
+375.48 378.05 B: and then some of the adventures they have 
+
+377.94 380.39 A: oh sounds sounds pretty interesting 
+
+380.67 383.11 B: yeah um 
+
+384.09 385.85 B: [noise] and 
+
+385.88 387.01 B: in 
+
+387.11 395.18 B: the beer [noise] activities [noise] uh brewing your [noise] beer is i think it s a [noise] great idea i like [noise] ale more than i like beer 'cause i like more flavor 
+
+394.75 397.12 A: right right in fact the only 
+
+397.38 401.76 A: um the only thing that american beer making has contributed 
+
+401.20 401.78 B: (( [noise] )) 
+
+401.89 403.08 A: is uh 
+
+402.07 403.46 B: [noise] refrigeration 
+
+403.63 404.83 A: (( is um )) 
+
+405.02 409.59 A: the anchor steam like a steam beer which actually comes from san francisco 
+
+407.39 408.45 B: yes 
+
+409.54 410.16 B: (( [noise] [noise] )) 
+
+410.58 412.42 A: so i thought that was pretty interesting 
+
+412.15 414.19 B: (( yeah [noise] th- that is )) 
+
+414.32 419.68 A: yeah i think i think austin is just getting accustomed to the smoking ban 
+
+419.79 424.17 A: i still see a i still see a lot of people disgruntled it passed by a very narrow margin 
+
+424.83 428.25 A: i think um one one extra vote in the city council 
+
+428.09 430.78 B: really that's very close 
+
+429.21 430.24 A: yeah 
+
+431.28 442.84 A: we i mean there there are a lot of people here that smoke but i wouldn't say i'm originally from dallas i wouldn't say any uh ab- abnormally large number 
+
+444.35 456.88 B: mm okay well well then uh reasons that uh smoking and drinking seem to be combined quite a bit and uh when uh prohibition was repealed 
+
+456.97 469.31 B: [lipsmack] uh it was a big shot in the arm for the tobacco industry because the beer the saloons and the bars and the such that were cafes that were uh opening up 
+
+469.30 475.75 B: uh were looking for every way they could do make a nickel and um tobacco was one of those ways 
+
+475.84 489.30 A: i think that uh a a lot of ways that they that they actually market is they'll send people around with a case of cigarettes to go into a bar and then hand out hand out cigarettes to some to people sitting at the bar 
+
+484.58 485.82 B: mhm 
+
+488.99 490.65 B: sort of like drug dealers do 
+
+490.78 492.96 A: exactly [laughter] well 
+
+491.92 495.41 B: only above board rather than under the table 
+
+494.12 499.04 A: oh i mean it's however you wanna look at it it's still a drug it does something 
+
+497.72 499.36 B: oh yeah no question [noise] 
+
+499.28 499.86 A: (( [mn] )) 
+
+500.25 503.18 A: um it's it's also regulated so hey 
+
+503.46 514.61 B: well see i believe all those things should be legal uh regulated if the government needs money i would like to see uh what happens if they 
+
+514.58 528.47 B: uh well you know they've been licensing or or taxing cigarettes for a heck of a long time um before uh prohibition and i would say just before world war one 
+
+520.14 521.15 A: right 
+
+528.49 536.91 B: beer was the largest or alcoholic beverages were were the largest single source of of federal tax revenue in the country 
+
+537.49 544.20 B: and i believe that for many years tobacco sales were right up there 
+
+544.50 549.69 B: putting a lot of money into the government and i wonder 
+
+549.71 552.12 B: what the strange position is 
+
+552.13 557.40 B: of the government subsidizing tobacco and then promoting against it 
+
+557.34 567.78 A: right i mean that's one of the things i've i've often wondered about myself but they do a lot of things very crossed i mean i certainly i certainly would be for the for 
+
+558.40 560.11 B: um 
+
+563.79 566.19 B: yes crossed purposes yeah 
+
+568.01 570.10 A: um you know the regulation 
+
+568.88 576.50 B: so i i wonder if the if the government really got has been holding back on 
+
+576.96 579.16 B: um 
+
+579.26 586.99 B: i don't wanna say removing the freedom of choice 'cause that's not what i would want somebody really wants to smoke they should be allowed to 
+
+586.88 599.89 B: i don't know any way that you could um [lipsmack] make it clear that tobacco is for occasional use not for two or three packs a day or you know a pack a week or a pack a month is maybe 
+

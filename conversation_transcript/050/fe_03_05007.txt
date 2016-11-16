@@ -1,0 +1,379 @@
+# fe_03_05007.sph
+# Transcribed by BBN/WordWave
+
+0.00 1.16 B: hello 
+
+0.00 1.01 A: guy 
+
+1.22 2.01 A: (( hi )) 
+
+1.80 2.97 B: (( hello )) 
+
+2.71 4.05 A: (( hi this is guy )) 
+
+3.93 5.91 B: my name is jamaica 
+
+5.23 6.41 A: hi jamaica 
+
+5.99 7.21 B: how are you doing 
+
+6.76 9.01 A: i'm doing okay i'm doing okay uh 
+
+8.22 9.49 B: good 
+
+9.32 11.62 A: so topic's uh nine eleven 
+
+11.16 12.34 B: mhm 
+
+11.71 14.12 A: boy does that hit me hit close to home 
+
+13.65 14.80 B: really 
+
+14.14 19.61 A: um i uh worked at i._b._m. global services in columbus ohio i and the um basically uh 
+
+17.45 18.71 B: mhm 
+
+19.53 29.82 A: i was in the uh i._b._m. global services uh uh m._v._s._a. a._s. four hundred mainframe as soon as nine eleven happened we got la- the whole department was liquidated because our largest client which is bank one 
+
+29.48 30.44 B: mhm 
+
+29.73 35.98 A: uh bank w- bank one uh uh the bank one customer service centre the pretty much the technical aspect of 
+
+35.96 41.18 A: of uh bank one they decided not to do it out sourcing because of they were afraid of uh 
+
+41.05 51.08 A: uh global and and economic changes so they pulled out and they there was a clause in the contract that stated uh uh uh significant ch- something to do with like uh 
+
+44.03 45.20 B: wow 
+
+51.09 52.09 A: uh 
+
+53.37 65.26 A: some some issue beyond their control so they as a as a fiscal concern they decided to liquidate the um the contract and make sure that in a- in doing so liquidated the whole department that d- dealt with uh 
+
+65.28 67.84 A: uh bank one which is about three thousand people 
+
+67.09 68.53 B: (( [noise] mhm )) 
+
+68.12 71.47 A: so laid off within i'd say about a month of time 
+
+71.00 73.20 B: wow what have you done since then 
+
+72.97 80.83 A: uh contract work um i was in uh ohio and now i'm in toronto um uh toronto canada um basically i 
+
+74.42 75.41 B: mhm 
+
+78.90 79.76 B: mhm 
+
+80.91 86.96 A: did contract work for everything from uh quest communications in in ohio to um 
+
+88.43 94.16 A: even uh government contracts or just worked for it at the uh franklin county data center in ohio 
+
+94.24 106.70 A: and uh just pretty much everything from fixing computers to uh technical support anything i could pretty much uh put my hands on i mean there was a i._t. wasn't really doing too well anyway in the first place because of the uh 
+
+101.95 103.44 B: (( [noise] mhm [noise] )) 
+
+105.19 106.27 B: right 
+
+106.63 116.22 A: the dot bomb refugees and now everybody's taking up like programing and for a lot of the coding and testing now they're pretty much out sourcing to um 
+
+113.46 114.40 B: mhm 
+
+116.89 128.19 A: countries like uh uh like uh india and and pakistan and poland and stuff like that and so basically where people are educated but they're not they're underpaid so they they lose the uh they 
+
+121.83 123.13 B: mhm 
+
+125.50 126.59 B: right 
+
+128.21 137.12 A: the companies gain a a profit margin a significant profit margin and and uh a lot of people who are in the states and canada have lost their job and they have to find something else 
+
+136.61 138.05 B: (( [noise] right )) 
+
+137.78 141.36 A: um that's so that's why it's significantly uh close to home 
+
+140.80 142.07 B: right 
+
+142.23 143.64 A: uh your thoughts [mn] 
+
+143.36 145.55 B: um i [sigh] not 
+
+145.60 157.69 B: i haven't been affected i don't think too much um i'm a college student and when it happened um i lived on campus so it was a pretty big thing about security and um we had a lot of um threats 
+
+157.62 160.81 B: to the campus 'cause i live on a pretty big campus and 
+
+160.11 161.98 A: oh where are y- what what campus 
+
+161.51 163.12 B: indiana university 
+
+162.77 164.85 A: uh ohio university [noise] 
+
+164.25 167.08 B: uh nice [laughter] um 
+
+167.25 176.98 B: so and and i mean really the the course material of all my classes just sort of changed all of a sudden [laughter] to to what was going on in the world so 
+
+173.71 175.07 A: [laughter] 
+
+176.71 178.42 A: yeah 
+
+177.30 178.31 B: um 
+
+178.93 179.97 B: but 
+
+178.94 181.28 A: (( i could see that i could definitely see that [noise] )) 
+
+180.89 190.09 B: yeah but definitely i think the economy is just it's really sad that it's you know been affected so much and with the war going on and things like that 
+
+190.01 195.45 A: yeah it really gave a wake up call i i think uh uh as americans we we pretty much 
+
+195.37 201.05 A: it shattered our idea of invincibility like we nobody ever touched us on our own homeland 
+
+197.72 198.66 B: right 
+
+200.39 201.60 B: right 
+
+200.94 213.49 A: you know and now this is like whoa you know i mean there had been attempts yeah t._v. t- t._v.s and mo- t._v. shows and movies were all about people attempting to do something but now all of a sudden somebody actually did something 
+
+203.18 204.18 B: mhm 
+
+205.22 206.27 B: (( right mhm )) 
+
+212.82 214.08 B: right 
+
+213.40 221.94 A: and uh that just scared the living crap out of everybody they're like oh wait we're not the most power- i mean we are the most powerful but we're not as powerful as we thought we were 
+
+215.73 216.71 B: yeah 
+
+221.59 222.66 B: (( right mhm )) 
+
+222.05 232.78 A: and uh it's kind of scary i mean it's it's uh my my wife is uh from azerbaijan a muslim country uh but they're demo- democratic country and actually they're wooing the united states via oil 
+
+226.82 227.73 B: mhm 
+
+232.79 235.67 A: so it's kind of like you know they have a good relationship however 
+
+235.51 245.49 A: you know the- the- they're they're kind of saying ooh ooh we're not entirely muslim and [laughter] we we have christians you know [laughter] keep keep trading with us keep trading with us you know 
+
+236.11 236.92 B: right 
+
+240.04 240.93 B: uh-huh 
+
+241.93 243.58 B: [laughter] 
+
+244.68 245.75 B: right 
+
+245.33 256.77 A: all of a sudden there was this sour mentality of anybody who was of muslim or arabic decent they were you know and i'm puerto rican uh actually i'm i i i but i'm dark skinned and uh since you know basically standing you know 
+
+251.49 252.44 B: uh-huh 
+
+253.74 254.67 B: mhm 
+
+256.56 270.35 A: standing next to my wife most people you know mistake me for having arabic decent and i don't know if you you knew but um an an indian guy um see a sheikh isn't really an arabic muslim he just wears a turban 
+
+261.16 262.41 B: (( ah )) 
+
+268.68 269.65 B: mhm 
+
+270.09 270.97 B: mhm 
+
+270.57 282.35 A: and he's not really an arabic a a a a muslim i'm sorry or or a follower of islam and he got the living he got beaten to death in in ohio actually in columbus the city i was in 
+
+272.99 274.36 B: mhm 
+
+278.65 279.82 B: wow 
+
+282.55 283.88 A: so that was a big 
+
+284.04 289.65 A: that kind of scared the crap out of me it's just like my wife and and i are in here and and we have all these 
+
+289.79 301.42 A: and i was i was i also lived in athens while i was uh going to university so it was like you know it's pretty much appalachian country there and and uh they're not exactly forthcoming with with open ideas everything's very 
+
+293.45 294.46 B: mhm 
+
+300.39 301.63 B: (( mhm right )) 
+
+301.44 314.56 A: very set in their ways and you know those damn arabs and stuff like that you know i could drink a beer and i'd just blow 'em up let's just nuke 'em all you know and you have to deal with that and uh y- to voicing your opinions is just uh 
+
+304.88 305.96 B: right 
+
+308.30 309.64 B: [laughter] 
+
+310.62 311.81 B: right 
+
+314.61 321.12 A: like like what do you uh do you believe in allah do you know d- d- and then they tried to save me you know they're like uh 
+
+320.03 321.19 B: mhm 
+
+321.10 332.60 A: you know uh if you if you knew jesus christ like i do you wouldn't have to worry about and i'm like wait a second five seconds ago you were talking about killing somebody and now all of a sudden you're using you're throwing religion into the in the mix number one 
+
+328.41 329.67 B: right 
+
+331.78 333.35 B: yeah 
+
+332.72 335.61 A: i was raised catholic [laughter] number two 
+
+334.26 335.46 B: right 
+
+335.66 344.47 A: i'm not um um i'm not even uh arabic i'm i'm i'm puerto rican and i was born in manhattan so i'm a i'm a u._s. citizen thank you ver- and number three 
+
+339.26 340.32 B: right 
+
+342.14 343.54 B: yeah 
+
+344.43 354.86 A: there was this little thing about you know freedom of of religion i think that our forefathers had a little issue with you know and it's just like you know and and it's n- it turned then all of a sudden it turned into 
+
+349.53 350.63 B: [laughter] 
+
+354.77 360.83 A: you i- i- it's us versus them and what w- w- what people aren't realizing is that um 
+
+356.88 358.07 B: mhm 
+
+361.48 363.10 A: it was all i don't know 
+
+363.63 374.65 A: it just it's so much politics and and religion and the biggest thing about it is it's just like why if if it's come on if you're using religion why i mean more people have died over religion 
+
+374.27 375.25 B: right 
+
+374.56 388.52 A: than in anything else in the world and i'm like why is it if if if every religion is supposed to be preaching this idea of love and and humanity and and caring for one another and of forgiveness why is everybody dying over it 
+
+385.73 387.00 B: mhm 
+
+387.71 388.87 B: yeah 
+
+388.95 399.87 B: it's very true and and our campus is very diversified so we saw a lot of a lot of racism here even though we're a pretty liberal campus um it was it was very sad um 
+
+394.28 395.23 A: (( [sigh] argh )) 
+
+396.27 397.44 A: (( i )) 
+
+401.01 402.77 B: (( very very sad mhm )) 
+
+402.37 405.90 A: don't know and you know it it this is so funny too just um 
+
+406.13 407.04 A: uh 
+
+407.83 420.29 A: with these these different th- these these uh denominations and and these little uh basically groups are consolidated together so that they can like you know strengthen themselves it's it's so funny how 
+
+420.06 427.11 A: the religious right of of christianity is ba- biased towards you know u._s. u._s. uh 
+
+422.81 423.79 B: mhm 
+
+426.99 440.85 A: uh the one u._s. occupation of iraq i am totally against that i'm not sure about how you are um totally against it especially since the first thing that they secured in freeing the country was the oil wells um uh my wife's an environmentalist i'm uh very uh 
+
+437.08 437.96 B: (( mhm mhm )) 
+
+440.88 447.02 A: uh we don't we don't own a car any more um vegetarian uh gives gives you a perceptive of [laughter] where we're going 
+
+445.68 447.80 B: okay [laughter] 
+
+447.18 449.07 A: um i uh 
+
+449.11 462.41 A: totally against violence and and i don't know i mean maybe i'm reading a different bible but what i've always said was he said always turn the other cheek and always you know the forgiving man the man with heart that's the one that god's gonna favor not this person with uh 
+
+456.80 457.93 B: (( mhm mm )) 
+
+460.60 461.77 B: right 
+
+462.37 467.69 A: who's saying let's blow 'em up or uh you know let's let's gain some income from this [laughter] 
+
+464.03 465.20 B: right 
+
+467.10 468.18 B: mhm 
+
+467.99 472.91 A: did you notice that uh for the first billion dollar contract was given to an american company yeah 
+
+472.48 473.70 B: really 
+
+473.98 474.91 B: hm 
+
+474.66 485.61 A: that's just a growing g. seven country is actually canada not the u._s. and the u._s. dollar is actually going down while the canadian dollar is going up and the uh um 
+
+478.63 479.38 B: hm 
+
+482.70 484.05 B: mhm 
+
+485.89 491.46 A: that's why i was i went to canada because there was more there was more chance for me getting a an i._t. position 
+
+489.31 490.23 B: right 
+
+491.47 492.44 A: um 
+
+492.50 496.70 A: however as soon as i came over here almost an anti americanism everywhere 
+
+496.47 497.62 B: really 
+
+497.03 500.90 A: yeah you see there's there's two different factions it's more fifty fifty 
+
+500.53 501.52 B: mhm 
+
+501.39 504.05 A: there's a lot of canadians who love the states 
+
+504.24 505.18 B: mhm 
+
+504.47 511.60 A: and i would say actually the more the majority of them that love the states but as soon as the war came out like everybody was pro american 
+
+509.11 509.96 B: mhm 
+
+511.62 512.84 A: until the war 
+
+512.56 513.66 B: really 
+
+513.26 519.86 A: and then as soon as the war hit everybody i c- i mean haven't you noticed that the trade has significantly decreased 
+
+519.19 520.69 B: mhm mhm 
+
+520.94 525.46 A: that's that's b- that's a big thing uh it's it's the common denominator is 
+
+525.62 530.49 A: where do we stand in this this war against terrorism and how is it gonna affect everybody i mean 
+
+528.13 529.01 B: mhm 
+
+530.84 533.77 A: what they don't realize is is that um 
+
+534.12 537.45 A: by not uniting number one canada's getting poor 
+
+537.29 538.57 B: yeah 
+
+537.85 541.54 A: but the public relations of these states is getting worse 
+
+541.17 542.08 B: right 
+
+541.62 547.22 A: i'm i'm petrified to go in any other country [laughter] you know i'm like well i'm am- american and i'm like 
+
+544.54 545.65 B: right 
+
+547.82 549.07 B: right 
+
+548.28 551.16 A: like number one i never go to france it's just [laughter] 
+
+550.46 552.82 B: [laughter] 
+
+551.99 554.71 A: if anything just say you're canadian and you'll be fine 
+
+554.27 555.58 B: yeah 
+
+554.86 558.26 A: it's and actually it is a g- it is a valid point but um 
+
+558.60 560.07 A: i don't know i just um 
+
+560.79 572.85 A: i don't know i just uh i i see so many i see i i see so many young people who are who have the right track but they're not voicing their opinions i mean the majority of people on your campus most likely are more open minded than any of your parents were 
+
+567.03 568.24 B: mhm 
+
+571.62 574.17 B: mhm yes oh definitely 
+
+573.75 578.36 A: however they're they're not making any voices they're not yelling out they're not you know 
+
+577.96 578.95 B: right 
+
+578.38 584.85 A: voicing their opinions because they feel like it's an unempowered uh generation and uh i don't know i mean 
+
+582.30 583.19 B: right 
+
+585.89 591.94 A: if you if you did what you did with the um if if we if everybody gets together like they did with the clinton uh oh 
+
+592.11 594.60 A: that was that's a whole story unto itself but um 
+
+593.85 595.63 B: [laughter] 
+
+594.74 599.95 A: if people start registering the vote and actually voicing their opinions you will see that people will start to 
+
+598.17 599.19 B: mhm 
+

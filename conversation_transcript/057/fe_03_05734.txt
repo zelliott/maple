@@ -1,0 +1,245 @@
+# fe_03_05734.sph
+# Transcribed by BBN/WordWave
+
+0.00 1.23 B: hello 
+
+0.78 2.24 A: yes hi 
+
+1.83 5.52 B: [noise] hi my name's ken i'm in uh jersey city new jersey 
+
+5.21 8.68 A: hi ken i'm david and i'm in manhattan not 
+
+8.10 8.97 B: oh 
+
+9.07 10.56 B: practically neighbors 
+
+10.08 15.48 A: exactly not so far away as opposed to most of the other people i've spoken with [sigh] 
+
+10.92 11.80 B: [laughter] 
+
+12.83 13.72 B: uh 
+
+16.31 19.22 A: is this your third call second call first call 
+
+18.70 20.24 B: it's my third call 
+
+20.12 23.50 A: as is mine i wonder if they've done that to us on purpose 
+
+23.22 27.77 B: i don't know they're that clever but who knows it's all computerized [laughter] 
+
+26.92 37.55 A: i i almost think they are because uh i got the impression that my first call was with a person on their first call the second call was with a person on their second call 
+
+36.94 37.75 B: mm 
+
+37.81 40.90 A: and they had the same topics as i did as well 
+
+41.25 42.69 B: (( oh that's interesting [sigh] [mn] [mn] )) 
+
+42.09 45.82 A: yeah i didn't do a call yesterday so i'm wondering i don't 
+
+46.67 52.89 A: it's odd in any event so the topic of the day is computers and education and whether they improve or uh 
+
+53.41 54.88 A: or not 
+
+53.96 62.93 B: yeah and that seems like a a really old fashioned question [laughter] i mean these days where everything is computerized i mean how could it be anything but helpful 
+
+62.55 67.44 A: i think it's helpful as well though i do think it might be possible for 
+
+67.52 68.72 A: um 
+
+68.77 72.17 A: well like to get in c- it makes it a lot easier to plagiarize 
+
+72.64 74.14 A: and but then i 
+
+73.22 74.72 B: oh you mean the internet 
+
+74.48 83.92 A: yeah yeah exactly i think if anything it's a lot easier to [sigh] accumulate information but then i would also think that it'd be easier to [sigh] um 
+
+83.99 88.25 A: perhaps catch people plagiarizing as well 'cause you could do 
+
+87.15 94.08 B: yeah my experience in grad school which was fairly recently was anybody who plagiarized t- tended to get caught 
+
+93.95 103.70 B: no matter where they got the information from um i was able to do some amazing research um using the internet and also using lexis nexis 
+
+95.88 96.98 A: mhm 
+
+103.78 104.75 A: right 
+
+103.88 110.76 B: which they had at the school which gave me access to just all kinds of information i wouldn't have have had otherwise 
+
+110.41 116.19 A: lexis nexis is primarily for legal stuff or is or am i wrong and that's when i 
+
+114.42 125.74 B: um i think it started out that way but it's basically just a huge database of newspapers and special and magazines and er uh trade publications from all over the world 
+
+125.77 128.80 A: but you need to be a subscriber in order to access it 
+
+128.15 136.80 B: yeah yeah my school was a subscriber so i was able to use it and the last company i worked for also had it and um 
+
+130.73 131.78 A: right 
+
+135.23 136.23 A: uh-huh 
+
+136.70 148.56 B: it was a a big consulting firm and any time we started a job and i had to research this industry i could just do a lexis nexis search and you know bring up about twenty articles printed recently be right up to date 
+
+146.38 148.14 A: right 
+
+148.50 156.58 A: with the internet i guess it's too easy to get a lot of hits that are not um specific to your topic it's it's 
+
+156.59 161.42 B: [sigh] yeah that's the problem with lexis nexis if you're too vague you could get like twenty five thousand hits so 
+
+156.71 157.57 A: it's just 
+
+161.16 162.41 A: right [sigh] h- 
+
+161.62 175.62 B: you have to you have to kn- know how to you know use the uh boolean logic to pose the question [sigh] i'm wondering when ask this the question that they gave us if they're thinking of [mn] uh using computers like in high school and grade school 
+
+174.98 186.24 A: oh i'm sure they are i'm sure that they're thinking of all different levels when i was i mean i don't know how old you are i'm i was born in sixty five so i'm thirty eight now when i was in grade school there was [sigh] 
+
+187.08 189.74 A: really they had um 
+
+189.75 195.22 A: like in a primary school there was a computer that was called system eighty 
+
+195.30 200.34 A: and basically it was it was not a real computer but there were um 
+
+201.21 203.72 A: (( [lipsmack] there were programs )) 
+
+204.13 206.78 A: (( that you could [mn] )) 
+
+206.81 214.85 A: they were they were learning programs basically so you could listen and see and then press a button to respond to questions 
+
+214.60 215.42 B: (( mm )) 
+
+214.95 228.31 A: but it wasn't very interactive and it was more i think for for children that had um perhaps some problems uh with the materials and it was just a different avenue for them to use 
+
+227.81 234.77 B: [sigh] yeah i i think some of that stuff can get pretty boring i like don't like computer games i find them really monotonous 
+
+234.36 235.33 A: uh-huh 
+
+234.63 247.41 B: and uh when i was in high school i wrote a computer program for i was an educational thing about for elementary school kids about learning world capitals so it would give a country and it would give a multiple choice question [sigh] 
+
+247.38 252.89 B: and you got two guesses and then you know if you got it right you got to move on to the next one that sort of thing but um 
+
+252.19 261.01 A: [sigh] i would think for repetitive things where it's memorization the computer would be really a useful tool 'cause basically they put it up with a map i would i'm sure 
+
+261.17 265.60 A: and and you could just choose and it would reinforce it that way 
+
+265.30 277.08 B: yeah um but i think it would be important to teach uh you know high school kids especially how to use um you know some of the microsoft programs 'cause when you get out in the business world 
+
+276.88 289.55 B: they're everywhere and you know it's and even in college to know how to uh to use an excel spreadsheet know how to use uh the word program it's just it's it's necessary it's as important as learning anything else these days 
+
+277.87 278.96 A: right 
+
+284.84 286.25 A: mhm 
+
+289.28 293.48 A: well i think i think the kids are learning it faster and faster i mean 
+
+293.77 308.49 A: [sigh] one of the er children of um the principal of one of the companies i was at i mean his kids who were like ten twelve thirteen years old they knew much more about the computer than the father did it's always that way the younger generation's always going to 
+
+308.58 316.93 A: assimilate the information faster and and is going to learn it quicker and um i i just 
+
+310.80 312.03 B: (( mhm [noise] )) 
+
+316.85 324.54 A: i think those of us that didn't grow up with the computer er we're lagging a little bit unless it becomes your profession 
+
+324.68 336.26 A: uh uh over the children that are growing up with it and have it available to them now i mean every home oh not every home but many homes i think already have at least one uh computer sitting in somewhere in the house 
+
+335.44 342.52 B: [mn] yeah yeah i think they're becoming as predominant as toasters you know as [laughter] basic household appliances 
+
+340.65 353.78 A: yeah and dell's making them cheaper and cheaper i mean there are other manufacturers as well but i mean you get [mn] a very decent system i think a desktop for five hundred seven hundred dollars something like that i mean 
+
+353.77 359.72 B: yeah i i saw a statistic recently that i think sixty percent of the households in in the united states 
+
+359.94 361.75 B: have computers 
+
+361.80 368.05 B: at home and i don't know but there's a lot much larger number that has people who have access to a computer 
+
+368.20 369.24 A: mhm 
+
+368.29 372.22 B: so if they don't w- you know have one in their home they they access it at work 
+
+371.97 377.30 A: right yeah i know a lot of people that i mean i only bothered with a computer at home 
+
+377.42 388.92 A: in the last year because i'd left a job i quit and you know while i'm working at home and doing my own thing as opposed to working for someone else it becomes a necessity i mean you're cut off without a computer 
+
+384.64 385.65 B: mhm 
+
+388.36 390.59 B: oh yeah yeah especially with the 
+
+389.20 391.13 A: so much is done through email 
+
+390.73 392.26 B: (( with the internet [noise] [noise] [noise] [noise] )) 
+
+391.63 396.02 A: yes and so much is done through email and um i mean 
+
+396.51 402.36 A: [mn] five six seven years ago i had friends who it was an extended group of people that played ball 
+
+402.22 411.75 A: and primarily the the mode by which everybody was informed as to what was going on was through email distribution lists and if you didn't have a computer 
+
+411.70 413.18 B: you were left out 
+
+411.71 421.76 A: you had to hope that you had to hope that somebody who was on it was keeping you informed and making those telephone calls to you 'cause everybody else had it you know [mn] uh when it went out on computer 
+
+421.41 426.77 B: yeah i um had experience i lost uh a job due to september eleventh 
+
+426.78 429.99 B: and got involved in this uh training program 
+
+426.82 427.44 A: (( mm )) 
+
+430.00 444.25 B: and al- and although i have a graduate school degree and wasn't doing the computer training [sigh] a big emphasis of the training program that was set up was to take people who were working some of the more menial jobs and give them computer training so they could go out and get a higher paying job 
+
+443.90 444.86 A: right 
+
+444.59 456.79 B: so you know back to the to the question it just seems to make sense that you you would want to teach everybody in elementary and high schools uh as much about the computer as possible 
+
+456.46 457.74 A: right 
+
+457.12 458.05 B: but 
+
+458.05 471.09 B: i i i i guess i don't know back to the same question i don't know if they're refering to learning via computers instead of the uh teacher or teaching how to use the computer it's not it's not clear to me 'cause i'm not in favor of learning 
+
+468.38 469.62 A: right 
+
+470.96 474.31 B: through a computer rather than a teacher like a you know 
+
+474.01 482.89 A: i think it's good to supplement but i think you can't do everything in uh isolated from human contact i mean it just doesn't work 
+
+482.19 486.51 B: yeah yeah and there's no way to monitor somebody's understanding something or not i mean there's 
+
+485.91 491.28 A: no you can you can test them do you ever hear that that urban legend about um 
+
+491.99 495.23 A: i i guess i think it was entitled tomatoes 
+
+495.70 500.10 A: ever hear a st- a story urban legend about tomatoes 
+
+499.18 501.50 B: um i don't know i'm not sure [laughter] 
+
+500.16 506.88 A: it's computer related so if you want i i'll share it with you we'll kill a couple of minutes because i think we've got more time to kill 
+
+504.32 505.59 B: (( okay )) 
+
+507.07 508.28 A: the uh 
+
+509.31 513.35 A: a guy goes into microsoft looking for a job and they said 
+
+513.70 521.97 A: take this aptitude test and we'll let you know what kind of positions here you're qualified for so he takes the test and they call him back in they uh 
+
+522.14 524.20 A: they tell him that um 
+
+524.32 533.82 A: they've analyzed his uh his exam and he's qualified to be a janitor and pay's five dollars an hour and um 
+
+534.16 546.93 A: they ask him for his email address 'cause all the scheduling and monitoring of work is done through computers and he said i don't have one and they said well you know this is microsoft this is what we do if you don't have a computer we really can't help you 
+
+547.08 560.06 A: so the guy goes home all dejected and doesn't know what to do and on his way home he passes like a a wholesaler for tomatoes and buys a crate of tomatoes and he goes on the sidewalk he buys the crate for ten bucks he sells 
+
+560.23 564.23 A: tomatoes individually and comes back with twenty dollars 
+
+564.24 571.05 A: goes back to the wholesaler and keeps on buying crates and he says you know this isn't so bad i'm making much more money than i would at microsoft 
+
+571.64 578.29 A: slowly he builds his business so then he buys a hand truck and he's buying ten cases at a time and he's 
+
+578.55 589.71 A: l- lots of turnover and he slowly builds his business and he's gotta get he rents a van and he starts buying a van load of tomatoes and it just multiplying it and he 
+
+590.05 596.97 A: all of a sudden he's got a fleet of vans and he's employing guys on different corners and they're all selling produce and he's making a fortune 
+
+597.39 599.95 A: and it just snowballs 
+

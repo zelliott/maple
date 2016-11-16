@@ -1,0 +1,351 @@
+# fe_03_05556.sph
+# Transcribed by BBN/WordWave
+
+1.59 4.55 B: hello my name is jared norfell 
+
+3.84 6.61 A: hello jerry is it 
+
+7.01 7.98 A: (( hello )) 
+
+8.03 8.95 B: hello 
+
+9.07 11.00 A: i'm sorry your first name is 
+
+10.80 13.71 B: jared j. a. r. e. d. 
+
+13.50 14.50 A: jared 
+
+14.53 15.46 B: yes 
+
+15.02 16.76 A: and my name's doug 
+
+16.88 17.99 B: hello doug 
+
+18.04 21.12 A: hello jared health and fitness huh 
+
+21.09 26.95 B: yeah apparently this is the first call i've actually taken so i'm not sure precisely how this works but 
+
+26.28 34.16 A: [noise] [noise] oh well this is this is my third one so i'm an old hand we just keep jabbering away and we get interrupted at uh 
+
+34.37 40.90 A: about ten minutes in and they say hey you've got thirty seconds to say goodbye [noise] [laughter] 
+
+39.95 41.61 B: okay that's fair enough 
+
+41.34 47.86 A: so here we are easy [noise] easy enough health and fitness [noise] so is this one one of your uh 
+
+45.76 46.73 B: yes 
+
+48.60 52.34 A: aspirations or uh you're involved or 
+
+50.75 62.25 B: uh it it's a it's a regular maintenance thing for me um i work a desk job at a insurance corporation so i have to do something to keep the desk spread away 
+
+54.64 55.78 A: uh-huh 
+
+62.38 63.93 A: (( mm mm )) 
+
+64.47 69.35 A: i've got the i i do um computer support work which 
+
+69.54 71.12 A: turns out 
+
+71.88 77.87 A: i guess the plus in it for for better or worse to to not be such a desk job 
+
+78.06 82.04 B: oh really so is it ac- more active support do 
+
+78.22 79.06 A: (( still )) 
+
+79.23 79.88 A: wha- 
+
+80.89 90.67 A: yeah to basically visiting um help you know i can't print or how do i do this or setting up i'm setting up computers all the time or going you know 
+
+86.17 86.95 B: (( [noise] )) 
+
+90.71 93.36 A: upstairs downstairs taking uh 
+
+93.39 97.59 A: broken equipment so uh i kind of look at that as my work out 
+
+97.01 104.52 B: [noise] that's a stroke of luck i'm i do i do system administration so i'm tied to my terminal 
+
+101.96 102.94 A: ah 
+
+103.78 108.90 A: exactly well i had a i had a major long ago in computer science and then uh 
+
+109.30 118.96 A: after after staring at screens for a while i figured hm [laughter] this is uh this is not as healthy as i'd like to be 
+
+119.32 120.56 B: fair enough 
+
+119.60 123.99 A: i guess how how funny so so what do you uh so what do you do 
+
+124.22 126.07 A: health and fitness wise 
+
+124.32 125.45 B: i'm bet- 
+
+126.12 137.32 B: health and fitness wise i uh basically go to the gym three days out of the week lift for about an hour run for twenty minutes and then try and get as much walking in on weekends as i can 
+
+137.22 138.64 A: mm mm 
+
+138.03 143.99 B: um health wise i just try and take vitamins and eat reasonably regularly [laughter] 
+
+138.88 140.61 A: (( you're not )) 
+
+144.10 145.14 A: (( uh )) 
+
+145.66 150.22 A: as well what what sort of system administration network or 
+
+150.01 152.15 B: um actually i'm 
+
+151.22 152.75 A: database or 
+
+152.27 156.26 B: i administer to a large number of solaris web servers 
+
+156.14 157.28 A: (( uh-huh )) 
+
+158.45 159.93 A: which are uh 
+
+160.84 162.38 A: keeping you busy 
+
+162.25 165.07 B: yes quite on night shift no less 
+
+164.95 169.61 A: i was i was going to say i mean whether there there's a like a limit to uh 
+
+166.81 167.68 B: yeah 
+
+170.28 174.91 A: this stuff i mean like the guys that are uh i mean a p- a p- a publishing uh firm 
+
+175.48 179.19 A: and uh of course there's you know professional deadlines that are rolling 
+
+179.65 185.32 A: around and uh so often enough they were you know the- these folks are burning the midnight oil 
+
+185.45 191.23 A: but they're but they're not supposed to [laughter] whereas i guess that's your uh your mandate 
+
+191.27 197.85 B: quite and it it makes exercise even more difficult on the up side i get to go to the gym during dead hours 
+
+191.85 192.93 A: which is uh 
+
+197.72 201.52 A: oh yeah yeah yeah yeah exact- well 
+
+202.39 205.83 A: i was going to say if you find a gym that's open but then where do you 
+
+207.25 213.04 A: when do you sleep i guess that's the other component here that in health fitness and sleep i think is part of the [laughter] 
+
+212.58 218.15 B: uh it's tricky it's killing me by inches but for the next nine months or so i'm going to maintain 
+
+218.23 224.57 B: sleeping from about uh mid late morning to uh mid late evening 
+
+224.14 225.07 A: (( mm mm )) 
+
+226.08 230.37 A: so how does how does this work with um your um your exercise schedule 
+
+229.96 238.72 B: well i exercise when i get out of work the company has a gymnasium and even and it's basically the next building over from my office 
+
+234.08 235.74 A: oh 
+
+238.91 243.13 A: oh that's cool so then you so it's after work 
+
+243.07 244.04 B: yes 
+
+243.47 250.77 A: that you do this so i mean do you do you find that it it it does that then put enough fatigue into your system so that you're ready to sleep 
+
+251.04 253.50 A: or does it work or does it work the other way 
+
+251.19 252.20 B: um 
+
+253.72 261.18 B: uh it doesn't seem to have an effect much one way or the other i get tired around dawn while i'm in the middle of the production cycle and then 
+
+261.19 264.01 B: i don't get tired again until about mid morning 
+
+263.72 264.71 A: (( [noise] uh-huh )) 
+
+265.49 279.24 B: i i learned in college that i regardless of exercise if i if i'm up all night i will get tired around ten a._m. one way or the other i usually find it easiest when i'm on a day schedule to wake up somewhere around eleven as a result 
+
+279.20 281.61 A: uh-huh so you've so you've 
+
+281.65 287.58 A: so this isn't uh you- your work schedule isn't anything that's like forced into your lifestyle it's just 
+
+287.99 289.58 A: fitting in to the 
+
+290.13 294.47 A: what uh what uh larks and owls is that the 
+
+293.72 295.61 B: it's something like that yes 
+
+295.78 298.48 A: that's 'cause i was reading reading something about um 
+
+298.51 299.90 A: like the the 
+
+300.15 303.55 A: the uh daily fluctuation in temperature 
+
+303.70 304.65 B: yes 
+
+303.93 313.41 A: um and and that somehow correlates with the sleep cycles and and some people get colder at different hours and and that's apparent when in other words the temperature starts dropping 
+
+307.30 308.34 B: mhm 
+
+313.49 316.39 A: the body temperature and that's sort of a cue for sleep 
+
+313.77 314.66 B: yes 
+
+315.93 320.40 B: [noise] i have a what's known as a post step circadian rhythm 
+
+320.42 327.93 B: when basically stepped and stepped forward into the morning i i do not wake until eleven naturally 
+
+320.58 321.97 A: [sigh] mm 
+
+327.14 328.20 A: wow 
+
+329.71 331.14 A: so 
+
+331.32 337.13 A: you said for nine months the next nine months and then uh this is a contract affair or 
+
+337.11 341.34 B: um no it's just um need based coverage 
+
+341.56 342.81 A: (( mm mm )) 
+
+343.98 350.54 B: but uh they've compensated me for the shift and i can't really object 
+
+350.05 355.23 A: yeah plus you've plus you've got the gym [laughter] the gym next door 
+
+353.50 354.88 B: exactly 
+
+355.44 365.17 B: yeah a company gym is endlessly valuable to this sort of thing if i had to drive to drive to the gym before going home i don't think i would be able to do it 
+
+355.65 356.63 A: [laughter] to a 
+
+364.57 369.37 A: mm well how do you um your uh your cycles since you're 
+
+365.41 366.17 B: (( my )) 
+
+369.56 374.45 A: you're the you're the one on the schedule here how do you how do you determine that um 
+
+375.34 380.55 A: if if as as far as i mean the exercise cycle i mean when and and and the things that you do 
+
+375.57 377.14 B: how do i determine 
+
+381.13 389.91 B: um well i use more or less the same exercise cycle i i've used any time i've actually been been motivated in my life towards exercise 
+
+389.72 390.89 A: (( hm )) 
+
+389.99 394.57 B: i simply know that three days a week is about right for um 
+
+395.60 408.02 B: for for heavy lifting um 'cause i need at least a day in between and having a two day rest is actually useful because then after that it's easy to easier to change weights upward as i gradually improve 
+
+397.62 398.69 A: (( mm )) 
+
+407.40 409.00 A: uh-huh uh-huh [noise] 
+
+408.87 416.07 B: uh just because muscle healing time uh the cardio is tossed on as an afterthought because i don't get much of it 
+
+415.26 416.06 A: mm 
+
+416.73 417.74 A: so 
+
+417.75 422.03 A: i'm trying to remember whether there's a difference with with what little i know here 
+
+422.50 425.98 A: since all i do is [laughter] is lift monitors and uh 
+
+425.89 427.09 B: (( right [noise] )) 
+
+426.34 428.43 A: and things um 
+
+428.57 433.87 A: the endurance versus strength is that the 
+
+433.42 440.44 B: um not i- in terms of in terms of um the lifting you mean the 
+
+434.05 435.00 A: the 
+
+435.10 436.34 A: (( the )) 
+
+439.01 443.44 A: right right i mean you could either go for for building more and more 
+
+443.39 445.23 B: you you can go for [noise] 
+
+443.75 450.81 A: i mean i guess you do the same weights or it sounds like you're actually where you're going to you're trying to progress and get uh heavier and heavier 
+
+451.20 457.04 B: uh there are a couple of ways you can go about it i actually uh was a fitness trainer for a couple of years 
+
+451.53 452.56 A: weights 
+
+456.46 458.42 A: uh-huh all right 
+
+457.13 458.31 B: so 
+
+458.60 460.59 B: um you can you can o- 
+
+459.22 460.75 A: i've tapped into your 
+
+460.88 461.65 B: right 
+
+460.89 463.93 A: i've tapped into your area of expertise another one 
+
+463.01 463.96 B: yes 
+
+464.32 466.52 B: indeed you can uh 
+
+465.15 466.38 A: educate me 
+
+466.53 468.25 B: how did i what 
+
+467.63 470.00 A: educate me [laughter] 
+
+469.06 473.25 B: okay uh you basically have a couple of options when you're lifting weights 
+
+472.77 474.78 A: mhm 
+
+473.61 477.35 B: your three basic options are you can improve bulk 
+
+477.46 479.98 B: you can improve tone 
+
+477.50 478.31 A: (( mm )) 
+
+480.30 487.12 B: uh just muscle tone or you can improve um basically the muscular endurance 
+
+481.67 482.78 A: uh-huh 
+
+487.38 488.44 A: uh-huh 
+
+487.42 495.53 B: um and then there are subsets within each of these uh regarding how which approach you take to each of these uh goals 
+
+495.70 502.08 A: and that and how um mutually exclusive are they i mean can you be working on all at once or 
+
+502.18 509.95 B: um all will will s- will follow to a limited extent but if you really want to focus on something it is typically to the exclusion of the other two 
+
+509.77 510.74 A: uh-huh 
+
+509.97 520.73 B: then you you'll inadvertently build some bulk up to whatever level is needed for the weights you're at if you're working on endurance but after that you simply increase the number of reps rather than improving weight 
+
+520.45 521.51 A: okay 
+
+520.73 530.12 B: um if you're working on strength then you continue to increase the weight while keeping the the repetitions low if you're working on just muscle tone 
+
+529.99 543.01 B: you start out at a weight that is in fact lighter than any than than anywhere near your current maximum and simply do very very large numbers of repetitions and that's the sort of schedule you can actually keep five to six days a week 
+
+535.83 537.58 A: hm 
+
+542.42 546.17 A: and then and what's that one for again that's for muscle tone hm 
+
+545.48 547.41 B: muscle tone yes [noise] 
+
+550.45 552.72 A: my um [sigh] 
+
+552.83 558.78 A: i guess some some of my my background is actually um in in body work and massage as a 
+
+559.07 561.52 A: as a sort of a side interest 
+
+561.25 562.66 B: oh lovely 
+
+562.01 566.90 A: in which it there that the emphasis is really on flexibility 
+
+567.04 575.10 A: so the some of the literature that i'm reading you know or or have read is is very cautionary you know as far as weights 
+
+575.49 577.63 A: and i'm i'm just wondering how uh 
+
+578.14 582.20 A: not not having any [laughter] empirical experience whether 
+
+582.34 587.43 A: it from from your experience whether whether that holds true or whether that's just a crock 
+
+586.82 597.32 B: [noise] um flexibility is a very valid concern if you do not stretch uh when exercising you lose flexibility fairly quickly on almost any weight regimen 
+
+597.11 597.95 A: mm 
+
+597.58 599.66 B: um i 
+
+598.24 599.89 A: so that th- that's part of your routin- 
+

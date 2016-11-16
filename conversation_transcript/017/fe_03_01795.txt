@@ -1,0 +1,443 @@
+# fe_03_01795.sph
+# Transcribed by BBN/WordWave
+
+0.25 1.43 B: (( hello )) 
+
+0.99 2.33 A: hello 
+
+1.97 3.08 B: (( hi )) 
+
+2.71 4.01 A: how weird 
+
+3.64 5.77 B: yeah this is weird [laughter] 
+
+5.37 7.10 A: is this your first call 
+
+6.39 7.75 B: yes it is 
+
+7.12 11.16 A: (( mine too [laughter] )) 
+
+7.79 11.78 B: [laughter] well my name's jennifer 
+
+11.38 12.98 A: my name is mick 
+
+12.60 14.53 B: mick hi how you doing 
+
+14.17 16.04 A: i'm great how are you today 
+
+15.38 18.11 B: i'm good what part of the country are you in 
+
+17.74 19.18 A: i'm in texas 
+
+19.06 20.61 B: hey me too 
+
+20.05 21.24 A: really where 
+
+20.77 22.21 B: san angelo 
+
+21.95 27.46 A: shut up i used to live in san angelo [laughter] i'm in austin now 
+
+23.71 25.90 B: really [laughter] 
+
+26.97 28.18 B: (( oh okay )) 
+
+27.68 29.86 A: yeah but i went to college at a._s._u. 
+
+29.62 31.10 B: (( ahah )) 
+
+30.61 32.02 A: yeah 
+
+31.50 34.89 B: yeah i get up to austin once a month or so 
+
+34.60 35.97 A: really 
+
+35.47 36.34 B: (( yep )) 
+
+36.06 38.31 A: yeah it's a great place we like it here 
+
+37.92 39.32 B: it's pretty cool 
+
+39.71 43.10 A: so we're supposed to talk about computers in education 
+
+42.78 43.69 B: right 
+
+44.36 46.76 A: you go first [laughter] 
+
+46.16 48.09 B: well do you have any kids 
+
+48.01 49.25 A: no i don't 
+
+48.64 49.80 B: okay 
+
+49.87 54.57 B: 'cause i know that i i have four children i've only got two that are in school right now 
+
+54.07 54.97 A: yes 
+
+54.68 62.32 B: but i know that they go to like a computer lab slash class what at least once a week 
+
+62.02 63.03 A: yes 
+
+63.86 65.04 B: and 
+
+65.96 71.71 B: i don't know i think computers everybody uses computer we got one two three three of them here in the house 
+
+70.79 73.77 A: yes well you know do they 
+
+74.03 84.77 A: in school i've always wondered this do they teach the kids how to use computers or do they just have computers available for the kids to use in their regular learning 
+
+85.19 93.83 B: um both as far as i can see right now they have what's called a._r. testing where they have to actually read a book and then they take the test on the computer 
+
+93.45 94.38 A: (( yes )) 
+
+94.12 102.26 B: but then they also get to my son has made little ah little books with it where he's actually had to type in the script and 
+
+102.59 105.90 B: put the graphics and everything in it and then print it out 
+
+105.47 106.65 A: oh okay 
+
+106.26 108.19 B: so he's actually creating 
+
+108.97 113.22 B: i don't know what program they use but he's actually creating that 
+
+111.05 111.97 A: (( right well that's )) 
+
+113.73 117.21 B: as far as at home he gets on the internet and stuff 
+
+117.01 118.67 A: nifty do they ever 
+
+119.00 131.74 A: like ask you to have like a particular type of software on your computer at home so that so that they could do homework on their computer at home from the same program as they use at school and that sort of thing 
+
+131.69 139.85 B: not specifically um they have said he could type you know like for a science project and stuff he's used word 
+
+138.87 139.78 A: (( uh huh )) 
+
+140.04 142.54 B: for his science project but it wasn't 
+
+142.74 145.89 B: you know they didn't ask specifically for word 
+
+145.52 147.14 A: yeah 
+
+147.40 150.15 A: did they have computers when you went to school 
+
+151.47 154.19 B: let me think [laughter] 
+
+152.71 155.39 A: [laughter] 
+
+154.38 161.40 B: yeah i think some of our office ah courses had computers but it was more word processing 
+
+161.11 162.87 A: yeah 
+
+162.07 163.53 B: as opposed to 
+
+163.99 171.47 A: my first experience with computers was actually when i moved to san angelo and started at angelo state university 
+
+164.19 165.08 B: (( [noise] )) 
+
+170.93 172.45 B: mhm 
+
+171.59 177.47 A: and one of the first things i wanted to do was take a computer class 'cause i had never touched one 
+
+177.15 179.09 B: mhm 
+
+177.99 179.74 A: and i'm in a wheelchair 
+
+179.92 182.25 A: and these days 
+
+182.96 189.18 A: i have to use voice recognition with my computer 'cause i can't use the keyboard or the mouse 
+
+186.24 187.13 B: okay 
+
+188.62 189.58 B: mhm 
+
+189.34 194.31 A: and i thank goodness that i learned enough then 
+
+194.33 202.10 A: at a._s._u. about computers that that you know i was ready whenever it came time that i needed to use the voice recognition 
+
+201.82 205.68 B: right so you actually feel comfortable enough now to use that huh 
+
+205.30 218.33 A: right exactly and and now um i'm retired from from real work but the work that i do at home i do on the computer using my voice recognition 
+
+218.35 222.84 A: and i do it because of the you know what i was able to learn when i was in college 
+
+222.32 223.35 B: right 
+
+223.23 224.37 A: back then 
+
+225.40 226.40 B: huh 
+
+226.22 227.21 A: so 
+
+226.95 228.41 B: that that's true 
+
+228.46 237.76 A: i think it's so you can see from my perspective then that that computers are incredibly important and in education [laughter] 
+
+236.28 238.11 B: yeah 
+
+237.94 242.32 A: and i do think that i i'm the type of person that believes 
+
+242.74 246.06 A: that more technology is almost always better 
+
+245.73 247.81 B: oh yeah 
+
+247.82 258.37 B: yeah i took um i think my first computer course in my freshman year and i don't remember doing that well on it [laughter] i think i got either a d. or a c. in the actual course 
+
+254.47 255.61 A: right 
+
+257.81 259.63 A: yeah where did you go 
+
+260.00 263.01 B: i went to radford university in virginia 
+
+262.72 264.33 A: i've heard of that 
+
+264.44 267.78 B: probably it's near tech virginia tech 
+
+266.22 267.17 A: (( uh huh )) 
+
+267.88 270.61 B: yeah it's only a half hour from there 
+
+271.38 276.45 A: yes in the the work that that i do now we have ah 
+
+271.70 272.35 B: (( but )) 
+
+276.62 282.32 A: we have people who represent our company all over the country and i think i've seen a resume 
+
+279.61 280.64 B: right 
+
+282.66 284.91 A: where someone went to school there 
+
+284.57 286.31 B: (( uh huh okay )) 
+
+287.39 289.87 B: yeah they're definitely important now 
+
+289.59 290.61 A: yeah 
+
+290.01 293.38 B: and it's good that the kids are actually using them in schools 
+
+293.72 296.68 B: i know pretty much to go to college nowadays you have to have 
+
+296.86 302.60 B: either a desk top or a laptop it seems to be seems to be almost a requirement 
+
+298.58 299.90 A: do you really 
+
+303.06 310.28 A: i mean i wouldn't want if i had a kid i certainly wouldn't want to send them there without one but but i didn't know that it was necessarily a requirement 
+
+306.50 307.61 B: right 
+
+309.78 313.38 B: i don't think they take ah handwritten papers anymore [laughter] 
+
+313.02 314.42 A: are you kidding me 
+
+313.75 315.97 B: no i do not think so 
+
+315.57 316.93 A: oh wow 
+
+316.55 321.36 B: no i think everything has to be typewritten and i don't see a whole lot of typewriters in the ah 
+
+321.47 323.11 B: library or anything 
+
+322.32 330.17 A: no [laughter] no our last typewriter wound up in the trash can not too many months ago 
+
+329.69 331.24 B: (( exactly uh )) 
+
+330.83 332.69 A: there's no point in it now 
+
+332.28 333.19 B: huh 
+
+334.29 338.89 A: even most forms you had to fill out you can get on line now 
+
+340.63 345.42 B: right see we're in the military and half the stuff is downloadable forms 
+
+345.11 346.26 A: yeah 
+
+345.73 347.10 B: that you can fill in 
+
+346.93 351.79 A: yeah so is is goodfellow air force base still there 
+
+351.29 356.86 B: yes it is it's still here it's where my hubby's at right now 
+
+352.27 353.65 A: well i'll be 
+
+357.70 359.21 A: i had to ah 
+
+359.86 361.00 A: um 
+
+361.51 365.33 A: actually i believe one of my computer classes was on the base 
+
+364.91 365.87 B: okay 
+
+365.72 368.50 A: 'cause at that time when we were going to school there 
+
+368.96 372.26 A: you know they had some of the a._s._u. classes on base 
+
+371.87 373.78 B: mhm 
+
+372.27 379.54 A: and we had to go out there to actually take some classes i believe that i one it seemed like they had a computer lab out there 
+
+379.70 382.08 A: and that's where we took a class 
+
+381.46 382.34 B: right 
+
+382.60 389.90 B: see that's another thing they give you basic training when you're in the military as far as computers but you've pretty much got to 
+
+390.11 394.06 B: either catch on really quick or you better know what you're doing before you get there 
+
+394.57 400.37 A: right several parents have told me that their best source of training for computers is their kids 
+
+400.03 408.54 B: yeah [laughter] yeah i've got an older type parent figure [laughter] that is calling me all the time from abeline 
+
+400.56 402.25 A: [laughter] 
+
+408.08 409.90 A: [laughter] 
+
+408.81 410.69 B: to get help with the computer 
+
+410.43 414.48 A: [laughter] are you from abeline 
+
+414.62 418.21 B: i lived there for eighteen months at ah dias 
+
+417.62 418.87 A: oh i see 
+
+418.34 419.39 B: yeah 
+
+419.03 419.92 A: (( yes )) 
+
+420.44 422.84 B: so we kinda go everywhere i know that um 
+
+423.27 428.79 B: we're going to italy this summer and if it weren't for email i'd have a real hard time keeping up with my family 
+
+428.18 429.34 A: i'll bet 
+
+430.26 433.38 A: yeah i'll i have a a friend that ah 
+
+434.09 435.58 A: (( that ah )) 
+
+435.81 442.80 A: he had a professional job and he just stopped all together and decided to become a truck driver 
+
+442.97 443.99 B: wow 
+
+443.42 450.18 A: and that's the way he communicates with his family now is through computers through email 
+
+448.69 449.71 B: right 
+
+450.71 454.82 B: yeah it seems like the cellphones are getting more computerized as well 
+
+454.43 455.73 A: absolutely 
+
+456.39 458.40 A: but i think it's all good 
+
+456.47 457.60 B: i have 
+
+458.35 468.94 B: yeah it's good to be able to just reach across and get in touch and like you said finding jobs and stuff on the internet i do some mystery shopping and merchandising and that's how i get my assignments 
+
+468.51 473.32 A: did you find this listing on that thing that went out to everybody a couple of days ago 
+
+473.76 476.58 B: i found it on leidlers lounge 
+
+476.22 486.30 A: oh okay i would just you know i'm on all the mailing lists for mystery shopping 'cause my wife and i also do that occasionally not that much but just for fun 
+
+480.24 481.42 B: right 
+
+482.81 483.87 B: yeah 
+
+486.42 489.20 B: yeah i notice sheryl durban sent one out 
+
+488.77 491.23 A: yeah that's the one i responded to 
+
+490.81 491.72 B: okay 
+
+491.31 493.28 A: (( and that's how i got on this )) 
+
+492.77 494.56 B: yep 
+
+494.10 496.00 A: and my first thought was 
+
+496.06 498.07 A: i wonder if this is legitimate 
+
+498.26 504.04 B: oh of course [laughter] it sounds weird [laughter] 
+
+498.97 499.96 A: and so 
+
+500.87 507.76 A: i i checked it out [laughter] i was part of the university of pennsylvania so it's okay 
+
+507.36 514.10 B: right i didn't even answer the phone yesterday i figured it was telemarketing or something from the university of p._a. 
+
+514.31 520.12 A: the thing it rang once yesterday but it was gonna it was about foreign affair 
+
+520.11 521.29 B: mm okay 
+
+520.54 524.66 A: foreign policy and i just wasn't up to it yesterday 
+
+522.17 522.87 B: (( mhm )) 
+
+524.13 527.27 B: right i thought it said formulations or something 
+
+527.02 528.76 A: oh okay 
+
+527.96 529.49 B: and i was like what 
+
+529.59 530.94 A: [laughter] 
+
+529.93 532.41 B: how am i gonna talk ten minutes on formulations 
+
+532.07 534.08 A: right yeah [laughter] 
+
+534.13 536.26 A: but this is certainly interesting 
+
+536.02 537.88 B: yeah i think so 
+
+537.60 543.26 A: i read the web site about it and apparently they're using they're saving these files 
+
+542.71 543.57 B: right 
+
+543.29 546.74 A: and they are using this information to develop 
+
+547.03 550.53 A: ah you know improvements in voice recognition 
+
+550.58 554.28 A: and text to speech technology 
+
+553.79 555.85 B: oh great 
+
+554.57 557.96 A: yeah so i was really interested when i heard about that 
+
+557.43 561.03 B: yeah you always want to help forward that kind of stuff then 
+
+560.30 561.72 A: yeah exactly 
+
+561.16 562.62 B: that's your field 
+
+562.75 564.79 A: absolutely 
+
+565.28 567.69 A: i wonder when that eight minutes is coming 
+
+567.30 568.66 B: (( i don't know )) 
+
+567.91 570.11 A: [laughter] 
+
+569.50 574.02 B: [laughter] there's only so much we can say yeah we agree you know 
+
+571.09 571.75 A: [laughter] 
+
+572.94 575.11 A: (( exactly )) 
+
+574.33 575.93 B: it's a good step 
+
+576.19 578.59 B: and we're surrounded by it daily so 
+
+578.63 580.19 B: you can't get away from it 
+
+580.08 581.29 A: that's right 
+
+580.75 581.55 B: (( you know )) 
+
+582.24 589.70 B: i'm even looking at getting a laptop so we can when we travel this summer you know i can keep doing shops along the way and 
+
+588.25 589.14 A: yes 
+
+589.59 591.10 A: now that would be fun 
+
+591.09 596.43 B: so that's the next thing i'm learning is wireless technology when you're travelling you know where can i plug it in 
+
+596.43 597.46 A: yeah 
+
+598.26 599.89 B: so i've gotta find out how to do that 
+

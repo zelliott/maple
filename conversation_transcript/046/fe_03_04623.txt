@@ -1,0 +1,453 @@
+# fe_03_04623.sph
+# Transcribed by BBN/WordWave
+
+0.20 1.45 A: hello 
+
+1.16 2.26 B: hello 
+
+2.21 3.03 A: hi 
+
+2.93 4.80 B: hi ah my name's robert 
+
+4.57 6.48 A: i'm erin nice to meet ya 
+
+6.07 7.14 B: good to meet you 
+
+6.82 8.56 A: is this your first time 
+
+8.08 10.72 B: [noise] ah no no i've done this 
+
+9.83 11.63 A: (( h- how many times have you done this )) 
+
+11.43 13.29 B: are three times actually 
+
+12.53 14.84 A: three times have you gotten paid yet 
+
+14.29 15.49 B: no [mn] oh 
+
+14.87 20.14 A: okay this is my second [laughter] i've gotten paid a lot [laughter] no just kidding 
+
+20.11 21.42 B: [laughter] 
+
+20.82 22.49 A: so the topic was 
+
+22.26 23.46 B: computer games 
+
+22.54 25.28 A: (( do you play computer games do you play computer games [noise] [noise] )) 
+
+24.65 28.42 B: ah i used to i haven't really in a long time though 
+
+28.22 37.25 A: okay i was going to say this is a short conversation 'cause i v- i very rarely have ever played computer games if i have i've played them on the internet like um 
+
+37.39 43.82 A: i've played bingo [laughter] like really ah really traditional games so yeah [noise] 
+
+41.91 43.32 B: (( oh yeah )) 
+
+43.83 49.82 A: it's i mean i guess it's kind of fun with a l- with a live version with people who are all at work at lunchtime 
+
+49.91 51.00 B: [laughter] 
+
+50.60 51.50 A: so 
+
+51.65 53.92 B: yeah well i know um 
+
+54.61 60.12 B: actually one of one of my favorite games i don't know ah do you have a do you have a windows computer or 
+
+59.55 60.65 A: mhm 
+
+60.56 66.89 B: um 'cause i think i think they've started including this with like windows two thousand and x._p. maybe 
+
+66.19 67.42 A: (( [noise] okay )) 
+
+67.04 74.57 B: um [mn] anyway like i- it comes with the usual like minesweeper and i forget what the other game is but it it also comes with ah hearts 
+
+70.77 71.71 A: mhm 
+
+71.81 72.82 A: (( which i like )) 
+
+74.64 75.76 A: oh okay 
+
+75.49 77.99 B: i don't know if if you've noticed that ah 
+
+77.25 78.58 A: no i haven't 
+
+78.42 79.62 B: (( [mn] well yeah if )) 
+
+78.82 81.67 A: i just got a i just actually got a new computer the other day 
+
+81.41 82.48 B: oh really 
+
+81.76 84.33 A: so i have to check out its new games [noise] 
+
+83.87 89.64 B: oh okay yeah it's it's it ah i guess does it have ah windows x._p. or [noise] okay 
+
+87.57 88.68 A: mhm 
+
+89.08 90.92 A: i i think so yeah 
+
+90.59 99.37 B: oh that's probably got it anyway i just i i remember i used to play like actual hearts you know with cards a lot when i was younger and um 
+
+92.59 93.38 A: right 
+
+97.36 98.37 A: mhm 
+
+99.95 106.12 B: [mn] the w- the cool thing about ah the hearts game that comes with windows is you can play it online with other people 
+
+105.51 115.68 A: mhm i- you know i never thought that would be interesting but the the few times that i've played any computer game online with other people has been really has been really fun 
+
+115.64 120.27 B: [lipsmack] yeah i mean it's it's certainly more fun than than just like playing against the computer 
+
+119.68 120.93 A: mhm 
+
+120.38 121.55 B: um 
+
+121.59 128.04 B: you know i mean i for one thing i guess like when you're playing against the computer it seems like they always 
+
+128.67 131.48 B: take like the same amount of time to respond to you 
+
+131.25 132.81 A: mhm that's true 
+
+131.99 133.08 B: um 
+
+133.27 142.49 B: [mn] i mean it's different with with ah you know more interactive games i guess like you know like doom or quake or you know anything like that 
+
+140.52 141.57 A: mhm 
+
+142.97 144.06 B: um 
+
+143.99 146.34 A: what was the first computer game you ever played 
+
+147.55 149.00 B: (( hmm [lipsmack] )) 
+
+151.32 152.37 B: (( i don't know )) 
+
+152.23 153.89 A: [mn] mine was pong 
+
+153.97 167.18 B: really yeah i had a i had a game kinda like pong i- it was actually a it was the same thing except it was like the- the- they had laid out the screen like a tennis court ah i think it was it was basically pong 
+
+154.14 157.04 A: [laughter] do you remember pong 
+
+163.89 165.10 A: (( [noise] okay )) 
+
+167.07 169.93 A: [mn] yeah we had a commodore sixty four 
+
+167.73 169.42 B: (( but )) 
+
+169.88 171.22 B: really 
+
+170.01 172.16 A: and i would play pong all the time 
+
+172.06 173.25 B: [laughter] 
+
+173.28 178.59 A: in fact when i remember getting my cell phone the only game it had on my cell phone was pong and i was very happy 
+
+178.77 180.85 A: but it was kind of easy to win so 
+
+178.84 180.15 B: [laughter] 
+
+181.15 182.75 B: that's cool 
+
+182.15 183.31 A: mhm 
+
+182.79 186.23 B: i actually programmed a pong game for a pong game for um 
+
+186.37 190.27 B: a graphing calculator in high school [laughter] 
+
+187.85 188.87 A: (( oh wow )) 
+
+189.26 190.78 A: [laughter] 
+
+191.05 192.33 A: so where are you living 
+
+192.29 194.81 B: ah i'm in atlanta georgia [noise] 
+
+194.13 194.98 A: (( okay i )) 
+
+195.24 197.82 A: have family down there i'm in milwaukee wisconsin 
+
+198.10 198.96 B: in where 
+
+198.72 200.38 A: milwaukee wisconsin 
+
+200.10 201.49 B: (( really [noise] )) 
+
+200.67 202.01 A: mhm 
+
+201.67 206.24 B: that's cool so ah i don't know do you ah do you drink beer at all or 
+
+202.30 203.51 A: very very nice 
+
+206.21 208.86 A: ah well yeah a little bit [laughter] 
+
+208.59 212.10 B: i was just curious 'cause i i know there's probably a lot of breweries up there 
+
+211.48 218.67 A: there there are several breweries up here there's one right down the street miller brewery is right down the street and ah schlitz is 
+
+216.45 219.39 B: wow you have two breweries down the street from you 
+
+219.16 220.23 A: what's that 
+
+219.65 221.84 B: you have two breweries down the street from you 
+
+221.66 222.79 A: yeah schlitz 
+
+222.60 223.79 B: [laughter] 
+
+223.06 227.00 A: and ah [mn] and ah old milwaukee is made here 
+
+227.06 229.03 A: (( and h- [noise] pats )) 
+
+229.31 234.18 A: and ah m- millers literally just five blocks away six blocks away 
+
+233.95 236.28 B: [laughter] 
+
+234.96 238.08 A: (( what's the one leine- is leinekins made up the street brian [noise] )) 
+
+238.25 241.01 A: leinenkugel's [noise] that's that's up town 
+
+241.38 244.28 A: [noise] so yeah we have quite a few around here 
+
+243.98 245.01 B: wow 
+
+244.68 248.27 A: yeah and peaches [laughter] 
+
+249.53 257.39 B: hm [mn] i wonder like do they have any different beers there at the brewery than they would like in the store or really 
+
+254.74 255.97 A: i don't think so 
+
+256.40 262.19 A: yeah the tours are kinda nice though i mean it depends on where you go um if i've done 
+
+262.30 273.01 A: the miller brewery takes you on a tour and they a- and you can go in and see their ah factory machines and so forth and then afterwards you get two fear free beers and then there's mhm 
+
+270.76 272.01 B: okay only two 
+
+272.38 274.70 B: [noise] oh that sucks i was 
+
+273.27 276.01 A: and then ah [laughter] but 
+
+275.00 283.88 B: i was curious 'cause we i i actually live not too far away from a i mean it's just a it's it's like a local brewery though it's not like anheuser busch or anything but um 
+
+281.11 282.14 A: mhm 
+
+282.63 283.51 A: right 
+
+284.18 290.85 B: [mn] ah every thursday they invite you know whoever wants to come for for free beer for like two hours 
+
+289.64 290.65 A: wow 
+
+291.16 292.09 B: yeah 
+
+291.28 292.30 A: wow 
+
+292.46 295.01 B: and that's just a i mean like [noise] 
+
+292.66 295.48 A: that's a that's gonna be expensive for a local 
+
+295.78 300.99 B: yeah well i mean usually usually only like fifty or sixty people show up um 
+
+299.68 302.76 A: yeah that's a lot they could drink a lot of beer in two hours 
+
+302.57 304.53 B: we do [laughter] 
+
+303.54 306.36 A: [laughter] do you go every thursday 
+
+306.05 313.02 B: [mn] i used to um yeah but like i mean 'cause the- they've only been doing that for a few years ah 
+
+307.20 308.07 A: really 
+
+312.03 312.93 A: okay 
+
+313.04 316.05 B: i i think i went the first time like maybe two years ago 
+
+315.80 316.71 A: huh 
+
+316.34 326.07 B: and um i used to go every thursday and then like more and more people started to find out about it and it it started to be less fun to go to so it's not just y- 
+
+323.28 324.14 A: (( [noise] okay )) 
+
+325.02 335.66 A: there's a place ah there's a smaller brewery around here that has a has a friday night one [mn] you know kind of happy hour's five to seven and that's as much as you can drink so 
+
+335.82 339.05 A: it's kind of it's kind of weird though it's kinda like sitting in a basement 
+
+339.11 340.12 A: it's not 
+
+339.11 344.16 B: yeah yeah well i mean this this one is out like in a it's it's kind of in like a warehouse district 
+
+343.60 345.01 A: yeah 
+
+344.31 345.69 B: so 
+
+345.78 347.22 B: yeah i mean it's [noise] 
+
+347.40 351.95 B: kinda kinda gotta go outta your way but you know it's free beer i guess so 
+
+350.36 351.14 A: yeah 
+
+352.26 355.66 A: atlanta's ah are you familiar with eagles landing 
+
+352.37 353.55 B: [noise] but anyway 
+
+355.68 356.86 B: no 
+
+356.32 362.14 A: okay that's atl- eh somewhere ah that's where there's where my family is so i was just wondering 
+
+363.24 364.32 A: [lipsmack] just wondering 
+
+363.51 364.27 B: (( oh )) 
+
+364.30 365.20 B: okay 
+
+365.01 365.88 A: okay 
+
+365.65 368.61 B: no i don't i don't really i don't really know the 
+
+367.97 369.84 A: you don't really have an accent 
+
+368.82 371.05 B: (( states very well )) 
+
+370.51 373.09 A: you don't have a you don't have a large accent 
+
+373.21 377.00 B: yeah well i mean i guess that's probably 'cause i grew up in the city um 
+
+376.18 376.95 A: okay 
+
+377.35 384.58 B: i mean you know you get you get too far outside of atlanta or i mean even even certain parts of atlanta you know you'll definitely detect a southern drawl but 
+
+383.85 385.00 A: mhm 
+
+386.03 387.36 A: (( no it's not there )) 
+
+387.45 389.95 A: [mn] i i like southern accents though 
+
+387.64 388.45 B: (( [noise] )) 
+
+389.79 390.99 B: (( really [laughter] )) 
+
+390.35 398.09 A: ah yeah i do yeah i i just went down to new orleans and ah my friend said oh i hate it and i thought oh i think it's v- it sounds very polite [laughter] 
+
+398.35 400.13 A: they always sound very polite 
+
+400.33 401.22 A: so 
+
+400.99 403.32 B: yeah i guess it depends on who you're talking to 
+
+402.91 403.91 A: mhm 
+
+403.53 404.55 B: [laughter] 
+
+404.42 405.27 A: so 
+
+405.64 408.14 A: so computer games anything else 
+
+407.92 409.76 B: (( [mn] um [mn] )) 
+
+410.90 416.36 B: gosh i don't know i haven't had i haven't had enough time and the money to play computer games in a long time 
+
+415.72 424.37 A: you know there is not much time at work to play that's m- i only have a i only have a work computer so ah there isn't much time to actually play games but [mn] 
+
+423.02 424.49 B: yeah 
+
+424.53 428.02 A: so i i don't get a lot of experience with that but 
+
+427.57 434.05 B: well it's just ah i mean like to play to to really really play games on a computer you gotta have a really really good computer 
+
+434.15 435.29 B: um 
+
+436.15 441.53 B: and it's just it's it's really hard to stay on [noise] top of everything you know because like it's like every six months you gotta 
+
+439.15 439.79 A: (( mm )) 
+
+441.56 443.74 B: 'cause i i know 'cause i used to 
+
+443.89 456.74 B: i used to have a a gaming habit a few years back but you know i mean it's you have to [noise] you have to buy new stuff for your computer you know like every six months to a year you know you have to keep upgrading it to be able to play the latest games 
+
+446.00 446.90 A: really 
+
+453.09 454.54 A: that sounds expensive 
+
+455.72 457.22 A: that sounds expensive 
+
+457.20 460.69 B: yeah [laughter] it does get really expensive um 
+
+459.95 467.58 A: my ah my friend's husband [noise] spends all hi- he spends a lot of time he's addicted to one of these games and ah 
+
+467.45 479.15 A: sh- [mn] once they got married he actually would absorb all his time so she now he has one night that he can play and she leaves him alone so every friday night he plays this one game 
+
+475.71 476.81 B: [laughter] 
+
+479.12 480.81 B: do you know what game it is 
+
+480.78 488.95 A: no ah and she does know anything about it i said is it kinda like she said it reminds of her dungeons and dragons because there's so many characters and so forth 
+
+488.77 490.14 B: oh really 
+
+489.17 491.41 A: if i heard the name i would kn- i would 
+
+490.77 491.93 B: everquest 
+
+491.64 492.57 A: no 
+
+492.42 493.55 B: (( oh okay )) 
+
+493.64 496.65 B: that yeah that's that's notorious for addicting people 
+
+495.98 497.02 A: really 
+
+496.81 498.00 B: yeah it's 
+
+497.06 510.16 A: i've trie- you know i've i never sit down i never play video games or anything else because um you know [mn] like a nintendo system my husband has one an- and ah [noise] i never watch them they just seem to be they just kinda seem to suck up your time and 
+
+509.99 512.73 A: (( and you i don't know it doesn't feel like you accomplish much )) 
+
+513.06 517.74 B: yeah well i mean it's it's it's pretty much the opposite of productivity 
+
+517.13 518.69 A: yeah [laughter] 
+
+518.17 519.61 B: [laughter] but [noise] 
+
+519.69 526.44 A: and i i guess this would be an unfair statement but i usually it's the guys play them more than girls do and i don't know why but 
+
+527.60 529.65 A: but do you think that's true [mn] [noise] 
+
+529.16 534.13 B: yeah oh definitely i mean i i mean i've i've met girls that really like video games but 
+
+533.42 534.65 A: (( yeah )) 
+
+534.25 535.25 B: you know they 
+
+535.88 541.00 B: typically it's not the same kinda games that that guys would like so 
+
+540.51 542.09 A: [noise] the girls are more like 
+
+542.95 544.15 A: what kinda games 
+
+544.38 554.46 B: well i mean it it it depends you know girls or at least the ones that i know you know that they're they like more ah you know like puzzle or adventure games you know whereas like the guys would be wan- 
+
+551.82 552.83 A: mhm 
+
+552.99 555.19 A: tetris the greatest game ever [laughter] 
+
+555.08 557.04 B: yeah [laughter] 
+
+557.37 562.96 B: yeah i i have a friend that's nuts about pacman stuff he has like all kinds of [noise] original 
+
+562.37 563.68 A: oh that's cool 
+
+563.31 572.44 B: and i mean [mn] h- h- he doesn't he doesn't actually have an arcade machine he's been trying to get one of the y- do you remember the the tabletop pacman machines that they usually had at like pizza restaurants 
+
+569.38 570.40 A: mhm 
+
+571.80 573.33 A: yep 
+
+572.62 575.74 B: yeah he's been trying to get one of those and like refurbish it 
+
+575.71 577.04 A: that's cool 
+
+577.25 578.42 B: um 
+
+580.19 587.81 B: [mn] nah but i mean well i i actually i used to like to play ah adventure type games too you know where you have 
+
+588.04 596.36 B: where you're you're part of a you know like a bigger story and you have to go around you know and like you know gain more experience and learn magic spells and that type of thing 
+
+595.73 599.89 A: yeah you know i feel like when you start those games and the few times i'm w 
+

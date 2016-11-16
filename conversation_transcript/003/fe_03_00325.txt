@@ -1,0 +1,393 @@
+# fe_03_00325.sph
+# Transcribed by BBN/WordWave
+
+0.23 1.41 A: hello 
+
+0.99 2.10 B: (( hello )) 
+
+1.82 3.91 A: hi my name is grameo 
+
+4.05 5.47 A: hi how are you 
+
+5.16 7.15 B: i'm fine my name is penny 
+
+6.74 7.96 A: hi penny 
+
+7.65 8.46 B: hi 
+
+8.29 11.18 A: ah this is actually my first such call 
+
+11.13 16.11 B: (( yeah this is the first time i've tried a few times before but the system hasn't worked very well )) 
+
+11.19 12.33 A: ah [laughter] 
+
+16.12 24.91 B: um in terms of getting through so um ah i haven't done this either before so we're supposed to talk about whether we would commit perjury for a friend 
+
+24.73 28.76 A: yes so i suppose that ah we ah 
+
+29.12 36.51 A: that our friend probably committed some sort of crime and and we know about it and ah are 
+
+36.64 39.77 A: supposed to say that something 
+
+39.88 41.71 A: to hide the fact 
+
+41.14 41.86 B: (( oh )) 
+
+42.21 44.29 B: well gee you know i i 
+
+46.68 58.20 B: i don't think i would do that although i'm not sure i mean ah it's a little easy to say in a you know in the abstraction at a distance but i i i kind of don't think i would 
+
+58.26 60.98 B: ah lie for a friend or 
+
+61.22 61.83 B: (( um )) 
+
+63.19 71.65 B: basically i don't know if it's all for just for good reasons i i think i'm pretty chicken and i i i think i would probably get caught i don't think i'm a very good liar so 
+
+72.22 81.03 A: yeah that that would be my worry as well that that if i did get caught lying then ah then then my friend would go down with ah 
+
+74.53 75.14 B: (( mm )) 
+
+82.81 89.15 A: in in the system much more so than if i hadn't lied i would just try and stay out of the situation in the first place 
+
+84.06 85.06 B: (( well )) 
+
+86.35 88.18 B: well that's right yeah 
+
+88.88 95.00 B: yeah i think that's true i agree i would probably not only not help my friend then but i would probably 
+
+95.11 97.21 B: fundamentally hurt them because 
+
+98.22 99.63 B: (( i don't know the )) 
+
+99.70 110.68 B: in- the inference when somebody lies for you is that there's a reason to lie for you and and that would make them look i mean you know depending on what the situation was it would make them look somewhat guilty so 
+
+110.52 115.87 A: yeah i wonder if i i i i wonder that my friend would even ask me to do such a thing 
+
+116.15 117.30 A: um 
+
+116.92 119.12 B: well maybe they wouldn't ask you too 
+
+119.46 123.97 B: what if they didn't ask you to what if you just were in the situation where 
+
+119.67 122.07 A: oh that's an interesting point 
+
+124.61 131.47 A: where where i just knew that something happened and i thought that if i said something i would incriminate 
+
+127.55 129.03 B: you said might make 
+
+131.20 135.96 B: right or make them look bad i mean it could be that you don't know if they've done it but 
+
+131.65 132.75 A: the person 
+
+136.06 140.03 B: you know you know there if someone asks you you know 
+
+140.38 141.03 B: (( ah )) 
+
+141.09 145.00 B: something and you know that you know that they might have a reason to 
+
+145.14 157.19 A: well i mean it's not just someone asking you perjury means in a court of law after all right and under oath as a matter of fact so you have to have gotten to the point where where you are called to the stand 
+
+149.52 152.61 B: well yeah right right but you can have right 
+
+156.63 158.31 B: well yeah 
+
+157.30 160.87 A: to testify in order for it to be perjury 
+
+160.91 161.63 B: oh 
+
+161.65 169.06 B: yeah that's true that's true but i would assume at some point you would have been interviewed or something i i don't know i don't think i i i i 
+
+166.06 167.10 A: right 
+
+168.35 173.02 A: perhaps i would have been smart enough at an interview to pretend i didn't know anything at all 
+
+172.44 181.99 B: [laughter] well that gets around the but if you thought you wouldn't get caught would you do it 
+
+173.67 176.13 A: (( [laughter] )) 
+
+181.89 183.04 A: um 
+
+183.58 185.79 A: well i don't know 
+
+186.09 193.37 A: i might i it really depends on on what it was that i was lying about and and ah 
+
+194.34 197.34 A: and why and and [mn] 
+
+198.11 202.64 A: what the whole purpose was and what the lie was and so on 
+
+202.89 206.51 A: i mean we we each stretch the truth in various ways 
+
+206.42 207.47 B: mhm 
+
+206.55 211.54 A: for different things and i i if if ah 
+
+212.84 216.50 A: [sigh] i don't know i can't think of a concrete situation where i would 
+
+216.60 217.60 B: mhm 
+
+217.48 222.44 A: but i'm not sure that i would necessarily rule out the possibility yeah 
+
+222.93 225.52 B: yeah i i kind of agree i i don't 
+
+226.88 231.04 B: i don't i don't i don't easily foresee the situation where i would 
+
+231.30 240.46 B: you know either be asked to or know something or you know you know i've never been in that position where i've you know been asked to 
+
+240.51 243.98 B: testify about anything or do anything like that so i 
+
+243.96 248.87 A: i've i've never set foot in a a court i've never set foot in a court 
+
+246.14 247.16 B: excuse me 
+
+249.12 250.49 B: (( never set foot in a court )) 
+
+249.47 251.40 A: a courtroom yeah 
+
+250.85 253.71 B: (( [mn] i've never been involved in any )) 
+
+255.12 258.75 B: i don't think i've been involved in any litigation myself um 
+
+258.81 259.97 B: but i have 
+
+260.12 262.12 B: been in courtrooms but 
+
+262.84 263.84 B: um 
+
+264.07 266.61 B: but more to observe than to ah 
+
+266.62 267.56 A: mhm 
+
+266.70 272.60 B: (( ah than to be ah you know to be asked to do something i don't know it's interesting i you know um )) 
+
+274.05 277.38 B: i don't know how long we how long are we supposed to discuss this for are 
+
+277.41 280.12 B: we supposed to be have a lot to say 
+
+277.43 278.28 A: [mn] 
+
+280.75 293.85 A: i mean there are a fair number of different places to take it i i there's it's all so fascinating now that i think about it ah given that i've never been in a courtroom i wonder if i were suddenly put in one and ah 
+
+283.65 284.32 B: (( mm mm )) 
+
+287.29 287.90 B: mm 
+
+289.97 290.55 B: (( mm )) 
+
+294.39 299.84 A: and put under oath whether i would really be very good at lying ah 
+
+300.52 312.28 A: even however much the attorney had prepared me i suppose the attorney would prepare me ahead of time ah it would be i still question whether in front of a judge i might not slip up 
+
+312.15 316.79 B: mhm or you mean not not lie [laughter] when you intended to 
+
+315.27 316.30 A: yeah 
+
+316.80 319.05 A: (( yeah the truth )) 
+
+318.46 323.82 B: (( [laughter] oh excuse me i really meant to say [laughter] )) 
+
+319.28 321.04 A: [laughter] 
+
+322.68 325.45 A: (( no truly [laughter] your honor )) 
+
+326.01 329.28 A: in reality i meant to say exactly the opposite 
+
+328.40 329.81 B: (( the opposite )) 
+
+329.92 334.03 B: yeah i i guess that i really i do not like lying in general 
+
+333.94 345.59 B: and ah but and i really do sort of mostly believe in telling the truth or avoid telling it if i can't avoid it but i don't like lying and i'm really terrible at it and 
+
+342.85 343.60 A: yeah 
+
+345.87 353.70 B: my face almost always telegraphs if i'm not telling the truth or if i'm comfortable about something so i i just think i 
+
+353.75 356.59 B: i wouldn't i would be the worst person if 
+
+356.85 358.49 B: (( to lie for them )) 
+
+358.82 359.65 A: huh 
+
+358.86 367.71 B: um i mean you know i mean you could imagine there are some situations in which you believe that the system is actually corrupt and you might want to lie for someone 
+
+361.06 361.87 A: yeah 
+
+367.70 369.20 A: yes 
+
+367.73 369.97 B: and there are some situations in which 
+
+369.38 371.03 A: indeed 
+
+370.41 372.28 B: the system is corrupt 
+
+372.05 376.54 A: yeah now there's a situation where i might definitely lie 
+
+373.27 374.11 B: (( you know )) 
+
+376.75 382.10 A: so if ah if it was sort of a matter of civil disobedience 
+
+381.56 383.28 B: yeah for example 
+
+383.01 387.72 A: um where where i was actively involved in the movement 
+
+387.15 388.10 B: mhm 
+
+388.00 396.68 A: where ah some other member of the movement did something that i knew about of course and perhaps would have been part of 
+
+392.78 393.64 B: mhm 
+
+396.58 397.93 B: mhm mhm 
+
+396.83 404.55 A: and i was simply trying to fight the system so so in under those circumstances perhaps 
+
+404.90 406.15 B: all right then 
+
+405.11 408.21 A: but then i think i would be fairly calm about it 
+
+408.11 416.29 B: you you think you would be calm about it i i still think i'm a terrible liar i i just don't [laughter] a good liar 
+
+410.09 410.94 A: yeah 
+
+412.99 417.61 A: (( well all right i'd practice before with a with a polygraph )) 
+
+417.82 425.29 B: right i i think um i i don't know i just don't think i'm that good at telling a story i'd really have to practice it so that i you 
+
+425.43 429.89 B: know i didn't but i could say where there are reasons why i you know 
+
+429.94 433.74 B: would think it was ethical to lie but um 
+
+432.67 433.38 A: (( mhm )) 
+
+433.91 437.96 B: i mean i don't think that's a typical situation but i i do see that ah 
+
+437.62 446.52 A: yeah it's its ah [laughter] there are always situations that that you know that's why i didn't really want to decide outright 
+
+438.34 439.41 B: (( if you you )) 
+
+439.61 440.40 B: (( know )) 
+
+447.15 451.63 A: that make you do one thing or another um i 
+
+452.68 460.01 A: it gets me to thinking how it would be that i'd go about preparing if i if i had decided beforehand that i was going to lie 
+
+458.70 459.60 B: mhm 
+
+460.56 461.40 A: um 
+
+462.10 465.18 A: then then i would want to prepare 
+
+465.26 469.39 A: and do a good job the way i would prepare and do a good job of anything else 
+
+466.43 467.85 B: mhm mhm 
+
+470.01 473.06 A: um and 
+
+473.07 476.65 A: so i i would i could think i would have to learn 
+
+476.67 479.34 A: and put some deal of effort into 
+
+476.87 477.94 B: right i think it 
+
+479.53 481.37 A: lying convincingly 
+
+482.45 491.32 A: that's that's an interesting thing to think about and do i want to put that effort into lying convincingly even before coming up with the situation mhm mhm 
+
+490.68 491.58 B: mhm 
+
+494.17 501.48 B: you know yeah i wouldn't i like i said i wouldn't be too happy about about it just because i don't believe i'm a great liar but 
+
+501.73 502.62 B: um 
+
+502.87 505.66 B: you know i i could see where i might 
+
+506.23 508.08 B: want to ah 
+
+509.00 511.14 B: you know and and i and i 
+
+511.16 520.09 B: i suppose in a way it can be almost a way of civil disobedience i mean you're taking the um risk yourself if you get caught that you will suffer consequence for it so 
+
+520.76 521.48 B: (( um )) 
+
+522.04 524.52 B: and i i i could i could see 
+
+525.16 527.83 B: ah see doing that um 
+
+528.37 530.83 B: (( you know if i if i really thought that )) 
+
+531.47 536.89 A: yeah best way probably be to set up the situation in the first place where no one had to lie 
+
+536.52 538.63 B: [mn] well yeah 
+
+538.87 544.88 B: yeah yeah yeah but you know if you're doing something that that is you know 
+
+544.83 549.33 A: well part of the point of civil disobedience right is that you're 
+
+546.06 546.70 B: mm 
+
+549.68 554.66 A: doing things that you're willing to take responsibility for so 
+
+553.47 554.73 B: (( mhm mm [noise] )) 
+
+554.94 557.01 A: i mean when 
+
+557.02 559.20 A: people organize sit ins 
+
+559.62 566.22 A: it wasn't so much that they organized sit ins and then ran away and tried to say oh we didn't do it 
+
+565.82 566.93 B: mhm 
+
+566.71 574.63 A: they were very clear about yeah we did that and we're going to keep doing it until things change you know [mn] 
+
+575.18 587.14 B: yeah but i i was thinking also about like other situations i'm not really so much you know now i mean what if you lived in apartheid ah south africa during the time of apartheid 
+
+587.22 590.81 B: then it wouldn't be so much civil disobedience 
+
+591.14 596.77 B: as your own firm belief that the system itself was so corrupt that 
+
+596.80 606.23 B: you know what they might be trying to arrest someone for you know was so fundamentally wrong that you wanted to help keep them from getting arrested at all i 
+
+605.68 606.89 A: mhm 
+
+606.28 611.58 B: mean it's a much more farfetched example i suppose but it it seems real to me that 
+
+610.92 611.58 A: (( mhm )) 
+
+612.49 613.42 A: where 
+
+613.87 616.74 A: where you just know that the authorities are out to get you 
+
+613.95 614.86 B: (( yeah )) 
+
+616.60 620.93 B: well right right and and from time to time you do hear stories 
+
+621.04 623.43 B: i mean ah i mean i i 
+
+623.70 635.74 B: you know i don't talk to police in general but i think it is a hard job in some ways i think it's hard sometimes not to get overly zealous and not believe that you for example have already correct person when you haven't and 
+
+635.72 638.78 B: then you know different things can happen 
+
+639.03 643.88 B: that can be terrible for someone i mean i just recently i don't know if you 
+
+644.12 657.30 B: keep track of the news but they recently ah discovered that these kids that they arrested half a dozen years ago or more in new york city for the very famous rape in central park actually didn't do it and 
+
+653.49 666.09 A: yeah i i did see that well they discovered that they didn't necessarily do that particular rape or at least they weren't the only ones but there was some older ah guy 
+
+665.07 675.28 B: well they i don't think they think they might have done some other bad things in the park it wasn't clear they did any rapes but and the guys indicated that that they hadn't participated in it 
+
+668.29 669.66 A: yeah 
+
+673.89 677.37 A: yeah that looked really suspicious because they did confess 
+
+678.06 686.78 B: well but that's the point people do confess to things that they haven't committed because sometimes they're in a situation where they're afraid or they're 
+
+686.85 687.89 A: mhm 
+
+686.88 691.39 B: ah you know so i'm just saying i i can see situations where 
+
+691.48 700.34 B: if i believed my friend and people do do you know sometimes ah out of fear of being told that if you confess 
+
+700.73 705.27 B: you won't get the death penalty we have proof we can whatever 
+
+705.48 710.03 B: you know i i think that you know it does it does happen all the time actually it doesn't happen 
+
+710.04 719.96 B: all the time all the time but it does happen so i'm just saying that if it was a situation like that which is the unusual situation i could definitely see that you know i would want to 
+

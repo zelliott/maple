@@ -1,0 +1,383 @@
+# fe_03_05137.sph
+# Transcribed by BBN/WordWave
+
+0.64 1.83 A: hello 
+
+1.26 3.13 B: hi this is esoura 
+
+4.00 4.80 A: who 
+
+4.12 4.77 B: (( hi )) 
+
+4.99 5.89 B: (( esoura )) 
+
+6.26 7.34 B: how ya doing 
+
+6.67 9.86 A: oh i'm doing okay doing okay 
+
+8.49 9.43 B: [laughter] 
+
+9.93 11.22 A: where you calling from 
+
+11.08 12.50 B: um california 
+
+12.42 14.66 A: california oh i'm up in washington 
+
+13.16 13.89 B: (( yep )) 
+
+14.57 15.67 B: oh okay 
+
+15.66 16.50 A: okay 
+
+16.79 19.61 B: so what do you think do they help or harm [sigh] 
+
+19.42 27.56 A: [laughter] i dunno we ah ah i'm just old enough that ah we had like apple twos when i was in school 
+
+27.25 28.21 B: uh-huh 
+
+27.70 28.61 A: so 
+
+28.62 31.30 A: did you have computers in ah when you were in school 
+
+31.00 33.67 B: actually not until i got to college 
+
+33.74 35.37 A: not until you got to college 
+
+34.78 37.69 B: yeah that's when the computer really started 
+
+38.08 45.59 B: growing [laughter] i guess they're using i dunno i i i think that it can harm and it does help 
+
+39.54 40.96 A: [laughter] 
+
+45.72 47.63 A: it can harm and does help 
+
+47.05 48.29 B: i think so 
+
+48.74 51.03 A: that's a that's a rather ah 
+
+50.88 52.21 B: it's vague huh 
+
+51.07 54.53 A: (( all encompassing ah opinion yes )) 
+
+53.91 57.26 B: well because it er in on one side 
+
+57.69 61.94 B: you know it can harm because people i think depend too much on them 
+
+62.10 66.69 B: versus being able to to have the knowledge in in your brain 
+
+66.88 67.96 A: right 
+
+67.34 76.09 B: and to be able to to bring it out versus restoring everything and not having to really worry in case the computer breaks down then you become you know 
+
+76.19 77.57 B: useless i guess 
+
+77.58 78.92 B: or immobile 
+
+78.75 81.07 A: [laughter] immobile yes quite 
+
+80.70 82.11 B: huh you know 
+
+81.34 93.18 A: well i i'm an engineer by training and ah i heard stories about when the calculator came out people were appalled that engineers couldn't calculate logarithms on using ah 
+
+93.17 96.55 A: um mathematical tables in the back of the book any more 
+
+96.08 97.44 B: [laughter] 
+
+96.79 101.30 A: they were using calculators to ah calculate their logarithms for them 
+
+101.49 112.24 A: and how they wouldn't be as good a engineer because they didn't know how to tabulate these complex functions and interpolate and use a slide rule and this other stuff um 
+
+110.26 111.21 B: uh-huh 
+
+112.23 119.90 A: but it turned out not to be the case um because you know calculators make better engineers because they can 
+
+114.14 115.03 B: (( really )) 
+
+119.95 121.79 A: focus on ah 
+
+122.29 123.56 A: more 
+
+124.25 127.20 A: ah relevant pieces of their 
+
+128.18 130.35 A: ah [lipsmack] ah of the trade i suppose 
+
+130.61 133.24 B: okay i'm computer illiterate i can't 
+
+133.36 134.54 A: oh okay 
+
+133.64 136.43 B: [laughter] work it [laughter] you know [mn] 
+
+135.66 142.98 A: well definitely you know so i i think in the technical ah in technical areas it can be a t- a good tool for people to use 
+
+142.85 143.67 B: yeah 
+
+143.17 146.46 A: but maybe in the liberal what what did you study in college 
+
+145.88 150.30 B: english [laughter] it was the feature you 
+
+147.04 147.73 A: (( english )) 
+
+148.48 157.13 A: oh right so so how do you feel about these computers telling you ah that you're ah you have dangling participle or a 
+
+155.76 164.53 B: see it and and that's a lot of things because it it says you know a word is misspelled or the phrase is wrong but it's not it's just a different wo- you know 
+
+164.92 167.77 B: it's not patience instead of patient yeah 
+
+167.77 168.83 A: yeah 
+
+168.25 173.03 B: kinda thing and and so in that that aspect i think gives students a false 
+
+173.18 177.04 B: um impression of of the word or it doesn't really help them 
+
+177.37 181.28 B: to to get the correct spelling or or the grammar 
+
+178.72 179.44 A: (( see do )) 
+
+180.31 189.56 A: you think it makes for a lazier ah a lazier student just type it in and then correct what the computer tells them is ah incorrect usage or incorrect spelling 
+
+188.94 193.92 B: i dunno if it's a lazier student i think they don't there they don't learn 
+
+194.00 198.90 B: they don't get the they don't grasp the concepts so when it comes to when they're in class sitting down 
+
+198.91 201.46 B: and actually they have to write it themselves 
+
+201.52 205.09 B: the they don't do as well as those who actually take the time 
+
+201.62 202.76 A: mhm 
+
+205.73 211.52 B: to write it you know but it's so much convenience you know convenience for the computer just to type it up too i 
+
+205.79 206.67 A: right 
+
+212.13 213.27 A: that's true 
+
+213.51 215.43 A: and you get to see what you have 
+
+213.66 214.32 B: (( feel )) 
+
+214.94 217.53 B: yeah so it's it's a mixed feeling [laughter] 
+
+217.39 224.45 A: [laughter] i ah i i i think that maybe like the internet and everything ah has 
+
+221.53 222.38 B: mhm 
+
+225.03 236.94 A: um well what can i say dulled people's appreciation for actually doing research on a topic they're gonna write about because they might just go to the internet and 
+
+237.21 238.31 B: that's true 
+
+237.27 246.77 A: find whatever people are saying and then put it together rather than actually having to go to the library and try and find relevant topics and look through the books and 
+
+246.59 251.81 B: yeah it's so much convenience but at the same time you you do lose a lot of sense and also 
+
+251.98 254.92 B: um people put anything they want on the computer 
+
+255.48 259.04 B: so you might not get the accurate information or the correct information 
+
+259.31 260.73 A: that's a good point 
+
+260.40 261.56 B: yeah 
+
+260.96 265.24 A: 'cause any any any any bozo with a computer can it's just 
+
+264.24 266.55 B: anybody could put a website [laughter] 
+
+266.34 276.00 A: [laughter] like saying you know you know there is a slot you know you put your fruit inside a pyramid and it won't go ba- go won't go rotten and i don't know what else 
+
+266.83 268.34 B: [laughter] 
+
+275.58 286.43 B: you know you you could be learning the you learn how to make bombs i mean there's really anything on the internet but you have to assess which which information would actually help you and which will not 
+
+286.36 287.60 A: mhm 
+
+287.03 292.91 B: and not enough people are really willing to put the time into find discovering what is correct and what's not 
+
+293.30 295.11 B: or to put it to good use 
+
+295.67 299.12 A: but is that the ah is that the computer in education fault 
+
+299.20 300.46 B: (( i ah )) 
+
+301.28 302.31 B: good question 
+
+301.31 302.21 A: (( because ah )) 
+
+302.30 314.48 A: on the on the other side of the on the other side of the coin because you have so many people talking at the same time it might be that the students would learn to be more critical with things that they that they learn 
+
+307.17 308.21 B: mhm 
+
+314.79 316.64 A: rather than ah 
+
+316.75 328.28 A: just finding one source and ah one authoritative source and ah and quoting that and using that as a basis for their writing they could you know go out and find ten or twenty people saying 
+
+321.59 322.53 B: mhm 
+
+328.65 332.23 A: di- er slightly different things and and come up with their own opinion 
+
+332.76 335.17 B: yeah you could you could argue that too 
+
+335.67 336.54 A: mhm 
+
+335.81 337.36 B: um [laughter] 
+
+337.58 342.38 B: it's an interesting topic i'm not sure if it helps or hurts i dunno 
+
+342.87 344.05 A: mhm 
+
+343.56 346.14 B: depending on on the person i i think 
+
+346.47 347.68 A: (( right [noise] )) 
+
+348.49 350.96 B: but um i know it helps the 
+
+351.08 360.05 B: in terms of living round the computer or you know you play the video games on the computer in order to help get the motor skills and you know when you're driving and all that other stuff 
+
+360.99 364.89 B: but i'm not i dunno i have mixed feelings [laughter] 
+
+364.74 371.98 A: [laughter] yeah ah we like i said we had computers in ah grade school 
+
+371.69 373.09 B: mhm 
+
+372.37 380.49 A: and it was you know it was a very special thing there was a special computer lab you could go to and it definitely lear- allowed us to 
+
+380.81 384.17 A: explore things that we couldn't have done without computers 
+
+384.08 385.15 B: mhm 
+
+384.45 391.50 A: um i think in that that aspect it was good we learned to you know just very basic programming a little bit of 
+
+392.06 395.52 A: i remember those this program ah called logo 
+
+395.55 402.16 A: where you could do geometry by telling a little turtle where to go um yeah and you know 
+
+398.90 399.99 B: oh okay 
+
+400.47 402.47 B: i don't think we had computers 
+
+402.56 404.26 A: it was kinda interesting 
+
+404.54 408.63 A: um and you could see i i guess it was a little bit of a help 
+
+408.79 410.23 A: (( but ah )) 
+
+410.53 415.80 A: definitely without the guarding against the making the students lazy 
+
+416.02 419.08 A: um it'd be a real a real big ah 
+
+416.03 416.93 B: [laughter] 
+
+419.36 421.02 A: (( ah downside )) 
+
+419.48 422.55 B: well i think it would make it become it makes them more introverted 
+
+423.86 425.03 B: and they don't 
+
+424.06 426.41 A: because they aren't dealing with real people 
+
+425.84 426.91 B: yeah 
+
+427.90 436.61 B: because they they they feel you know you could stay home and you could do everything there versus getting out there and actually talking to a librarian or asking questions 
+
+437.02 439.08 A: oh that that is a real good point 
+
+438.50 440.27 B: and i'm finding more you know 
+
+440.49 446.45 B: just be- being able to you know socialize with people that i think that's taken away a little bit 
+
+447.79 455.73 A: yeah there is something that people do on computers it's kinda like socialization but i never really got into it this whole chat thing 
+
+455.38 458.18 B: yeah i can't [laughter] i can't do it 
+
+458.42 460.96 A: i take it you're computer illiterate [laughter] but you 
+
+460.23 464.73 B: i mean i know i i i don't i can't use the computer [laughter] 
+
+465.07 466.29 A: (( can chat )) 
+
+465.13 465.98 B: [laughter] 
+
+466.07 469.64 B: i could chat but it bores me it it i don't have that 
+
+468.51 470.50 A: it it's not really social 
+
+470.84 472.67 B: i i think it's it's a new 
+
+472.68 474.94 B: a new kinda socialization 
+
+474.90 475.96 A: mhm 
+
+475.60 477.41 B: but i it bores me 
+
+477.66 482.91 B: and i need to interact with people i ne- i need i need them i'm a social butterfly [laughter] 
+
+483.23 485.40 A: [noise] okay that's fair you know 
+
+485.91 491.29 A: ah [laughter] yeah though do you have a yeah mm 
+
+491.00 492.28 B: [laughter] see but 
+
+491.44 498.79 A: face to face face to face is definitely good and that's why we have you know like for higher education universities rather than all 
+
+498.89 503.13 A: you know phone in mail in your test correspondence schools kinda thing 
+
+502.64 506.61 B: yeah but you still have a lot more and more you know they're doing the 
+
+506.65 508.36 B: our class is online 
+
+509.16 511.66 A: yeah i really don't like that 
+
+510.98 512.23 B: (( yeah yeah )) 
+
+512.24 513.30 B: so i 
+
+512.50 524.34 A: there's there's something about having a critical mass of people there that you can actually talk to and see their faces in the in the school and you you know might go out for drinks later on and talk about class or 
+
+519.96 520.87 B: mhm 
+
+523.40 526.11 B: (( what are you talking about later before the class [laughter] )) 
+
+524.85 525.92 A: (( what's )) 
+
+526.24 527.47 A: that [laughter] 
+
+526.69 529.70 B: [laughter] you go before the class starts [laughter] 
+
+529.04 531.97 A: oh yeah you go out for a drink before the class starts 
+
+530.70 534.65 B: [laughter] to be with them [laughter] 
+
+534.70 538.06 A: [laughter] oh yeah i forgot you studied english that's right okay 
+
+534.80 535.97 B: but it is 
+
+537.10 540.51 B: [laughter] and the liberal artsy people 
+
+540.70 550.63 B: but it it it's i think more education is more than just being able to read something or or you know multiply something it's the interaction with people you know the experience itself 
+
+550.72 553.02 A: right in and computers 
+
+553.04 558.09 A: too much reliance on computers would definitely ah harm that type of interaction 
+
+557.41 564.30 B: i think i mean don't take me wrong they have done great things and and it's you know made society progress so much 
+
+564.35 566.49 A: right i agree with you 
+
+564.85 565.80 B: (( you know but )) 
+
+566.14 567.18 B: yeah 
+
+567.66 576.87 B: at the same time i think we are losing that quality of being you know being sociable everybody's such at a such fast pace now that you know they'd rather stay home 
+
+577.46 580.35 A: yeah that's it's it's really unfortunate 
+
+580.41 581.36 B: yeah 
+
+582.59 585.97 B: this is a but i think it's it's hurt students 
+
+586.17 589.00 B: but i mean it it's like a dual thing 
+
+591.45 593.19 B: as far as i'm concerned [laughter] 
+
+593.56 595.48 A: it's like a say that again please 
+
+595.03 599.95 B: it's like a dual it's a dual it has a it serves a dual purpose i dunno 
+

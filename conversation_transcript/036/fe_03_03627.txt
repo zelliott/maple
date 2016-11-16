@@ -1,0 +1,435 @@
+# fe_03_03627.sph
+# Transcribed by BBN/WordWave
+
+0.40 1.53 A: hello 
+
+0.43 2.71 B: hi how are you 
+
+2.48 3.62 A: good how are you 
+
+3.54 5.53 B: fine thank you my name's adam 
+
+5.31 8.01 A: uh my name's adam too that's gonna be confusing 
+
+7.83 9.30 B: isn't that strange 
+
+8.98 10.71 A: [laughter] 
+
+9.85 11.01 B: (( [laughter] oh )) 
+
+11.57 13.14 A: so where are you from adam 
+
+12.98 15.98 B: i'm out in the bay area near san francisco 
+
+15.64 18.65 A: well me too [laughter] this is 
+
+16.87 18.21 B: (( are you really )) 
+
+18.28 20.22 B: (( [laughter] yeah )) 
+
+18.97 21.85 A: should i look around my office and see if you're there [laughter] 
+
+21.23 23.59 B: i'm probably sitting right next to you yeah 
+
+22.97 24.23 A: (( yeah [laughter] )) 
+
+24.02 26.82 B: yeah i'm on the one on i'm in traffic right now 
+
+26.42 28.00 A: oh you're on the cell phone 
+
+27.91 29.32 B: yeah yeah 
+
+28.51 30.11 A: yeah i'm in my office 
+
+29.90 30.92 B: oh okay 
+
+31.35 32.92 A: [mn] so not a hundred percent 
+
+31.91 34.77 B: well i never done this before this is my first call 
+
+34.38 41.01 A: this is only my second but i do do i do speech recognition for a living so i'm fairly familiar with this sort of stuff 
+
+36.06 37.08 B: (( is it do )) 
+
+40.45 44.27 B: you yeah i'm i'm a kind of a linguistics major 
+
+41.06 41.94 A: yep 
+
+43.95 46.39 A: uh-huh is that how you heard about this 
+
+44.84 45.78 B: (( so )) 
+
+46.22 47.54 B: yeah i mean 
+
+47.56 52.36 B: yeah i've only taken one class so two classes so far but i i find it interesting 
+
+50.32 51.45 A: mhm 
+
+52.77 55.94 A: so i guess we're supposed to talk about the minimum wage increase 
+
+54.78 56.65 B: the minimum wage okay 
+
+56.71 61.40 A: [laughter] so is five fi- five dollars and fifteen cents an hour sufficient 
+
+61.01 62.89 B: (( not where we live right )) 
+
+62.33 66.24 A: yeah that's what i was gonna say the last time i worked for that amount i was uh 
+
+66.33 72.13 A: uh in eighth grade i think [laughter] i do computer work so salaries are good 
+
+68.39 70.21 B: (( [laughter] [laughter] )) 
+
+70.33 71.50 B: yeah 
+
+71.75 77.27 B: yeah well i mean f- you know out here we have in san francisco at least there's a living wage 
+
+76.72 78.38 A: right 
+
+77.42 88.74 B: which i think is probably a much better system because you know federal minimum wage has to apply to people out here or versus people here in mobile alabama you know and i think that it 
+
+87.38 88.28 A: yeah i c- 
+
+88.62 93.05 A: i can't imagine five dollars and fifteen cents is enough to live anywhere in the country do you 
+
+93.34 98.46 B: you know i don't know i mean it's probably not it's probably just not or you'd probably have to have two jobs 
+
+94.40 96.16 A: yeah 
+
+96.36 97.33 A: (( yeah )) 
+
+98.47 101.11 B: (( you know and a second wage earner in the hour but )) 
+
+100.50 101.83 A: right 
+
+101.34 103.53 B: but it's definitely not gonna fly out here 
+
+103.11 107.13 A: yeah that's for sure do you know what the the living wage is in san francisco 
+
+104.33 106.00 B: yeah 
+
+107.19 111.17 B: you know i don't know what it is because it changes fairly often i think it's indexed 
+
+109.90 110.72 A: yeah 
+
+111.25 117.05 B: so i'm not sure it's probably closer to seven or eight dollars an hour i'd imagine yeah 
+
+114.51 117.10 A: yeah i'd imagine yeah 
+
+117.43 124.44 B: no five fifteen i think is probably too wild but you know depends on how the uh how the other countries or how the other parts of the country 
+
+124.48 130.23 B: are structured because you know there's some places where you can actually buy a house for seventy five thousand dollars 
+
+125.48 126.74 A: right 
+
+129.62 132.60 A: that's right i have friends in in mountain view who 
+
+130.40 131.36 B: (( so in )) 
+
+132.64 141.18 A: they have tons of disposable income because they don't have enough to buy a house but they still have very good salaries it's very strange so 
+
+138.09 143.47 B: exactly yeah yeah so they have a very very well equipped apartment 
+
+143.08 145.57 A: exactly and they buy buy lots of 
+
+143.85 145.71 B: and it's chock full of stuff 
+
+145.65 150.39 A: lots of books and lots of gadgets they drive a nice car but uh they can't buy a house 
+
+147.50 151.86 B: yeah can't afford a house yeah 
+
+151.28 156.14 A: and you know and their their wages are twenty times minimum wage [laughter] 
+
+155.42 166.36 B: yeah [laughter] yeah no it is that's quite difficult because when you're trying to legislate across the board but california has a minimum wage that's something like six dollars and fifty cents i think 
+
+158.27 159.70 A: well ten times 
+
+165.98 166.96 A: oh do they 
+
+166.80 168.65 B: which probably makes more sense 
+
+167.10 172.23 A: is that isn't that just for is that true or is that just for state employees 
+
+172.68 184.52 B: oh you know i'm not sure actually now that you say it i mean i i know wh- what i work and make see i i intern in a a state agency and there's always that big you know poster up in the coffee room that says 
+
+174.59 175.44 A: yeah 
+
+180.23 181.24 A: mhm 
+
+184.32 192.93 B: the federal minimum wage is such and such and the california minimum wage is six fifty but i didn't know if it if it only applied to state employers i'm not sure 
+
+189.20 190.17 A: oh really 
+
+192.72 194.49 A: right right 
+
+193.52 202.10 B: yeah i don't even know if it applies to you know migrant farm labor and stuff like that 'cause they don't seem to be getting six dollars and fifty cents an hour 
+
+195.20 195.97 A: (( and )) 
+
+198.79 200.11 A: (( well [laughter] )) 
+
+201.71 209.97 A: oh i'm sure they don't even get five dollars and fifteen cents and hour you know 'cause it's unreported so there's no enforcement they're not who are they gonna complain to [laughter] 
+
+203.98 206.61 B: yeah yeah so true 
+
+207.87 208.96 B: yeah 
+
+209.89 212.86 B: (( [laughter] well yeah i mean if you're not yeah that's true )) 
+
+213.69 215.18 A: but uh 
+
+214.69 215.78 B: well 
+
+216.02 217.24 B: (( shall we keep going )) 
+
+217.12 220.00 A: i guess we we're supposed to [laughter] 
+
+217.70 218.99 B: (( [laughter] you want me )) 
+
+219.12 221.71 B: to keep going right all right well what else is there 
+
+220.68 224.10 A: the problem is we agreed too much on minimum wage [laughter] [laughter] 
+
+223.28 232.31 B: yeah well that's a shame really [laughter] actually you know the interesting thing is i'm taking a couple of econ classes and one of my professors was a big conservative and he was 
+
+232.27 244.42 B: you know explaining and i guess the economics does make sense you know in theory but the minimum wage really hurts uh people like you you know skilled laborers in the higher income bracket because what you 
+
+243.12 245.03 A: mhm mm why is that 
+
+244.34 255.23 B: because what you do is is um you force the you force the bottom salary up and so companies are forced to expend more on labor that in the open market they could get for cheaper 
+
+255.11 260.20 B: and so they have less money to spend on other things like you know highly skilled labor or 
+
+258.12 259.64 A: uh i i don't think 
+
+259.78 265.31 A: i don't think that's valid i mean i- because the places i work there's no one who makes minimum wage 
+
+265.48 267.53 B: yeah probably not 
+
+265.85 274.52 A: you know exc- i- they they contract out things like janitorial and and so on but but you know i do i'm a computer professional no one 
+
+268.57 270.27 B: the contract out 
+
+272.55 273.45 B: (( but the )) 
+
+275.48 284.52 A: no one in the computer business makes minimum wage so i mean i think wh- what the minimum wage means is that mcdonald's hamburgers are more expensive not that i get paid less 
+
+278.16 279.61 B: no no 
+
+282.79 292.73 B: yeah well you know when when your company's outsourcing though they're outsourcing with companies that are giving bids that are actually higher because of the minimum wage 
+
+292.66 298.87 A: i guess that's true but it's still it's a tiny percentage it's a tiny percentage of of the companies i work for 
+
+293.91 300.09 B: yeah i mean i don't really think yeah it's a tiny percentage and the social benefits are probably outweigh 
+
+300.52 302.85 B: they probably outweigh the cost anyway 
+
+302.70 305.13 A: yeah it seems to me i mean th- you don't 
+
+304.10 313.24 B: yeah but interesting it's the same you know it's the same question of uh when companies when when the government requires a company to pay for health insurance 
+
+312.83 315.15 A: right right same question 
+
+313.55 318.94 B: it's the same idea it's kinda like um a tax on young people who don't use the health insurance 
+
+317.24 318.12 A: right 
+
+319.02 321.22 B: versus the older people who do 
+
+321.08 324.17 A: that's right and so the younger people are paying for the older 
+
+321.96 323.80 B: i think it's the same issue 
+
+324.21 330.83 B: yeah it's probably the same issue of burden but you know i mean the social benefits aren't outweighed 
+
+330.51 341.79 A: yeah and as i said i think it it it's an uneven application you know so if if you work in the fast food industry then you maybe care about it a lot more than if you work in the computer industry 
+
+335.14 336.00 B: uh-huh 
+
+341.32 343.80 B: yeah it probably doesn't have much significance for you 
+
+343.90 347.76 B: aside from yeah outside from an idealistic 
+
+343.90 346.26 A: for me it it certainly doesn't 
+
+347.40 350.10 A: right it doesn't have direct 
+
+348.13 355.63 B: kind of you know issue yeah well maybe that's why it's such a you know it's uh minimum wage increases is so unpopular 
+
+355.91 360.43 B: is that a majority of you know the the active political constituency 
+
+356.20 357.21 A: right 
+
+359.02 360.00 A: (( well espec- )) 
+
+360.31 368.02 A: it's also who votes right the people who vote are you know rich white older men [laughter] 
+
+361.99 363.37 B: yeah exactly 
+
+366.35 369.47 B: yeah and so the minimum wage they could care less about it 
+
+369.25 375.58 A: well yeah they just wanna they want it as low as possible so that if they're business owners they don't have to pay more 
+
+375.62 380.59 B: yeah now you're doing you're doing computer work with speech recognition 
+
+376.34 377.52 A: so uh 
+
+380.25 381.87 A: yep 
+
+380.95 382.30 B: (( software and )) 
+
+382.27 388.87 A: yep i'm doing s- um sof- mostly software engineer i'm doing a little bit of hardware as well but most of the people i work with are software 
+
+383.58 385.15 B: all that 
+
+386.63 388.06 B: yeah 
+
+388.18 393.11 B: that's cool yeah minimum wage i guess doesn't influence that industry much 
+
+389.65 390.64 A: yeah so 
+
+392.81 399.83 A: not very much as i say because you know other than the the lowest end of the support people 
+
+393.81 395.93 B: (( no [laughter] i guess not )) 
+
+399.19 400.83 B: yeah 
+
+399.70 410.20 A: no one no one is making that little a- a- as i say that wasn't hasn't been since eighth grade that i made five dollars an hour you know by the time i was in high school i was making ten dollars an hour [laughter] 
+
+402.17 403.61 B: (( yeah that's true )) 
+
+406.90 408.03 B: probably not 
+
+409.48 413.54 B: yeah and if you speak english you'll probably never get that minimum wage level 
+
+413.43 416.82 A: right well i think probably in service industries you still do 
+
+414.19 414.99 B: (( you know )) 
+
+417.04 418.01 B: you really do 
+
+418.12 419.48 B: you think at mcdonald's 
+
+419.72 422.42 A: i imagine i mean why would they pay more 
+
+422.94 428.22 B: i'm not sure i i don't know if they can get anybody to work for five dollars fifteen cents or whatever the 
+
+426.68 436.92 A: i guess you know that's what we're saying in this area you can't live on that so all you would get is kids who are living at home and people who have other income yeah i guess that's true it might not be a 
+
+430.19 431.60 B: yeah 
+
+434.02 435.47 B: yeah 
+
+436.36 445.05 B: yeah i'm only nineteen you know so i'm right outta high school and i can't remember one of my friends that worked at a mcdonald's or something like that 
+
+437.21 438.76 A: might not make enough 
+
+444.45 445.30 A: yeah 
+
+445.35 453.17 B: yeah i mean that you know maybe more rural areas i guess there're not many other jobs available but we usually had cooler jobs in high school 
+
+453.02 453.96 A: yeah 
+
+453.37 454.22 B: (( you know )) 
+
+454.47 457.75 B: i mean like the lamest job was host i think at a restaurant 
+
+454.88 455.82 A: (( sorta like )) 
+
+457.32 459.75 A: right right waiter and that sorta stuff 
+
+458.07 460.59 B: but around here there are so many other things to do 
+
+460.66 461.91 A: yeah that's true 
+
+461.50 463.26 B: yeah 
+
+463.01 464.03 A: but uh 
+
+463.58 467.00 B: well i guess the time keeps going on right [laughter] 
+
+465.35 472.09 A: [laughter] yeah i guess uh probably the the amount of talking really depends on the topic it depends on 
+
+472.17 474.16 A: how much the people disagree 
+
+472.38 475.92 B: yeah we- i mean you've done another one right what was the other topic 
+
+476.07 477.46 A: what's that 
+
+476.91 479.66 B: what was the other topic when for your first call 
+
+478.22 479.71 A: uh family 
+
+479.90 487.09 A: it was a family and i was speaking with a woman from new york who uh didn't let me get a word in edgewise [laughter] 
+
+479.98 481.08 B: family 
+
+486.14 490.12 B: (( [laughter] well that's got a that sounds easy isn't it )) 
+
+487.26 488.91 A: it was pretty funny 
+
+489.52 491.38 A: what's that 
+
+490.38 491.89 B: that's kinda easy isn't it 
+
+492.20 495.95 A: yeah i didn't have to support my end of the conversation at all 
+
+495.45 501.59 B: yeah well what do you think about fair trade when they try and uh you know only trade with 
+
+496.28 497.15 A: so 
+
+501.64 506.68 B: industries in other countries where they actually re- respect their own minimum wage laws 
+
+507.11 509.25 B: like with coffee and all that 
+
+508.70 518.08 A: i think i- it's a pretty good idea you know uh um e- especially more as a marketing device so that you let the consumers decide to pay more 
+
+511.15 512.96 B: yeah 
+
+518.13 531.95 A: for that i think mandating it is not a good idea but you know i i live in berkley so obviously i'm very aware of stuff like that and you know i've i i prefer to go to the coffee shops that that buy fair trade coffee but you know 
+
+518.26 520.41 B: yeah rather than 
+
+521.73 522.57 B: yeah 
+
+523.87 526.48 B: oh so yeah yeah 
+
+530.83 537.34 B: yeah but you think it's you think it's more important to let it be a free market activity rather than like legislating it 
+
+537.26 544.15 A: i think so just uh that sort of legislation i think is so open to abuse i mean who who gets to decide 
+
+538.34 539.80 B: yeah 
+
+543.27 546.19 B: yeah how can you determine sure 
+
+546.38 548.38 A: the gamesmanship involved in that 
+
+546.55 554.25 B: yeah now in brooklyn how does it work do they do they actually show you i mean is there like a there's like a little sticker or something right yeah 
+
+551.98 559.49 A: that's right right so so the coffee shops that do that have a sticker out that say that they only only buy fair trade 
+
+558.89 562.72 B: yeah what was you know it'd be great to expand that to other industries 
+
+563.21 568.71 A: that's right i think i think the reason it started with coffee is because it's so bad in the coffee industry 
+
+568.10 570.82 B: yeah well i was reading about you know 
+
+568.72 570.75 A: um yeah so exploitive 
+
+571.02 573.49 A: you know jeans and shoes [laughter] 
+
+573.40 585.59 B: yeah the sweatshops and all that i was reading actually that you know the the ch- h- chocolate harvesting the ivory coast it you know the workforce there is pretty much like slave labor 
+
+574.55 575.59 A: yep 
+
+579.56 580.42 A: yeah 
+
+585.80 593.61 A: yeah i've heard that there's actually now a a free trade chocolate as well that some of the companies are now advertising free trade chocolate for the same reason 
+
+589.52 590.99 B: oh is there really 
+
+592.68 599.89 B: that would be great 'cause i read this article on ceylon and on valentine's day and i thought well that's fitting isn't it you know half the choc- 
+
+593.84 594.80 A: yeah 
+
+598.37 599.89 A: [laughter] that's really funny 
+

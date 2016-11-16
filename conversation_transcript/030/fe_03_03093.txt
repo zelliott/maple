@@ -1,0 +1,633 @@
+# fe_03_03093.sph
+# Transcribed by BBN/WordWave
+
+0.00 1.07 B: (( hello )) 
+
+0.40 1.71 A: hello 
+
+1.20 2.06 B: (( hi )) 
+
+1.81 3.17 A: hi how are you 
+
+2.76 3.94 B: (( fine )) 
+
+3.59 5.41 A: i'm fine thank you 
+
+4.83 6.34 B: (( and )) 
+
+6.10 8.44 A: we're supposed to talk about our pets 
+
+7.45 10.87 B: (( you oh yeah yes )) 
+
+8.81 10.05 A: do you have one 
+
+10.50 12.08 A: (( what do you what do you have )) 
+
+11.11 12.52 B: [laughter] i have a cat 
+
+12.12 13.59 A: oh i have a cat too 
+
+13.15 14.87 B: yeah i'm a cat lover 
+
+14.37 15.34 A: me too 
+
+15.30 17.42 B: [laughter] she's a calico 
+
+17.51 20.37 B: but she's got like some behavioral problems 
+
+17.51 18.40 A: oh 
+
+20.26 21.89 A: oh well i have 
+
+21.18 23.02 B: mm she bites 
+
+23.01 25.97 A: oh well mine only bites if you touch her stomach 
+
+25.65 26.89 B: really [laughter] 
+
+26.35 28.68 A: you are never allowed to touch her stomach 
+
+28.08 32.13 B: yeah mine is the same way but sometimes like if you're just sitting there you don't see her 
+
+32.16 32.98 A: yeah 
+
+32.16 36.18 B: and you're like wiggling your toes or whatever she comes out of nowhere and she like bites you 
+
+35.57 38.87 A: yeah well if i annoy my cat 
+
+38.54 40.59 B: mhm 
+
+39.22 45.26 A: wants me to she'll wait behind a door or something and bite me in the back of the ankles 
+
+40.86 41.65 B: [laughter] 
+
+44.99 46.89 B: oh [laughter] 
+
+45.48 50.94 A: [laughter] ah she's fifteen years old so i'm used to her by now 
+
+50.44 51.74 B: how old is she 
+
+51.24 52.42 A: fifteen 
+
+51.97 53.42 B: oh my god 
+
+52.79 55.35 A: yeah and she's still going strong 
+
+55.16 56.28 B: wow 
+
+55.98 58.24 A: as i say she's gonna outlive me 
+
+57.96 59.08 B: [laughter] 
+
+59.71 61.67 B: yeah 
+
+59.80 63.30 A: but as for how much time do we spend with the cat 
+
+63.03 65.69 B: oh i spend a lot of time with my cat 
+
+65.07 68.01 A: i do too she has to be 
+
+66.73 68.50 B: very spoiled [laughter] 
+
+68.10 70.45 A: she's involved in everything i do 
+
+70.06 71.40 B: yeah 
+
+70.82 74.98 A: yeah no matter what i'm doing she's gonna stick her nose in and see what's going on 
+
+74.46 84.02 B: yeah like when i go to work i leave my t._v. on so she can watch it [laughter] it does feel like i feel bad leaving her by herself i guess i work nights so 
+
+77.62 78.95 A: [laughter] 
+
+79.16 79.93 A: (( oh it )) 
+
+82.03 83.00 A: yeah 
+
+83.23 84.13 A: oh 
+
+84.32 86.88 A: well i'm retired so i'm home all day 
+
+86.47 87.96 B: oh okay 
+
+87.27 93.09 A: and she just follows me and whatever i'm doing she's gotta do too 
+
+93.00 94.56 B: mhm 
+
+93.57 95.33 A: if i'm at the computer 
+
+95.39 99.00 A: and she wants me to feed her or something and i don't pay any attention 
+
+98.46 99.70 B: mhm 
+
+99.03 101.78 A: she comes up and slaps the keyboard 
+
+101.00 102.12 B: [laughter] 
+
+102.29 104.12 A: [laughter] [laughter] 
+
+103.29 105.28 B: you only have one cat 
+
+104.72 107.71 A: yeah i had two but the other one passed away 
+
+105.46 106.55 B: yeah 
+
+107.28 114.45 B: oh okay i was thinking about getting another one but my cat's never been around other animals and she's never been outside so i don't know if 
+
+111.50 112.84 A: yeah well then 
+
+114.17 115.77 A: yeah and ah 
+
+114.73 116.54 B: it will work or not 
+
+115.97 117.93 A: is she very attached to you 
+
+118.05 124.19 B: yeah she gets jealous when i'm on the phone she'll jump on me and like try to rub the phone out from my face 
+
+121.14 122.30 A: (( yeah well i )) 
+
+123.65 128.74 A: yeah [laughter] so ano- another animal might not be a good idea 
+
+124.45 126.07 B: (( you know [laughter] )) 
+
+128.11 134.58 B: yeah i just figured maybe she was lonely because i can't always play with her because she bites and she scratches 
+
+134.11 137.26 A: yeah no i don't think cats get lonely 
+
+136.90 137.88 B: no 
+
+137.31 140.98 A: i think they always find a way to amuse themselves 
+
+139.90 140.72 B: (( [laughter] )) 
+
+141.63 145.28 A: i mean i know mine if i don't pay any attention to her 
+
+144.95 146.13 B: mhm 
+
+145.33 149.19 A: she's off hunting imaginary things she sees 
+
+148.67 149.80 B: (( mm )) 
+
+149.48 150.38 A: so 
+
+150.42 152.41 A: i don't think they get lonely 
+
+151.90 152.96 B: [laughter] 
+
+152.45 154.54 A: and i know they sleep a lot 
+
+153.97 161.27 B: yeah mine does too does yours do anything weird like you know odd that you know or seen other cats do 
+
+155.57 156.37 A: yeah 
+
+161.00 162.14 A: oh 
+
+162.31 164.83 A: ah well she likes to eat string beans 
+
+164.87 166.76 B: oh yeah that's strange 
+
+166.06 167.43 A: [laughter] 
+
+166.79 170.57 B: my cat likes cheesecake she'll lick the cheesecake 
+
+168.63 169.37 A: oh 
+
+169.70 171.89 A: yeah well that i can see mm 
+
+171.24 184.93 B: and she loves the bathtub she'll get in the bathtub and drink the like i leave a bowl of water in the bathtub because she'd always drinks that bowl of water but she doesn't drink the bowl of water by her cat food and then i have to put ice cubes in it um 
+
+173.79 174.67 A: yeah 
+
+181.36 182.21 A: (( mhm mm )) 
+
+185.27 187.46 B: (( i don't know she's weird [laughter] )) 
+
+187.05 190.53 A: well they all have their idiosyncrasies 
+
+190.13 192.15 B: yeah 
+
+190.62 193.44 A: but if i have string beans for dinner 
+
+193.56 196.90 A: she will not leave me alone till she gets her share 
+
+193.79 194.55 B: (( mm )) 
+
+196.65 197.76 B: [laughter] 
+
+197.32 200.24 A: and i've never heard of a cat that likes string beans before 
+
+199.54 201.03 B: yeah right 
+
+200.47 201.32 A: [laughter] 
+
+201.41 203.19 A: and she won't eat tuna fish 
+
+202.90 203.94 B: no 
+
+203.48 204.44 A: no 
+
+204.18 205.76 B: oh that's weird 
+
+205.26 209.00 A: yeah and she's got strange things 
+
+208.64 209.53 B: mm 
+
+209.15 211.76 A: and she steals my cigarette lighters 
+
+211.65 212.91 B: mhm 
+
+212.30 214.45 A: i have no idea where they are 
+
+214.09 215.04 B: [laughter] 
+
+214.69 219.12 A: somewhere in this house there's a a whole bunch of cigarette lighters 
+
+218.72 221.25 B: really oh my gosh 
+
+219.38 220.38 A: yeah 
+
+220.81 224.36 A: yeah she's what she does to annoy me [laughter] 
+
+223.64 226.26 B: (( mhm mm )) 
+
+224.62 225.27 A: (( now )) 
+
+225.32 230.63 A: ah she has a personality oh and if i don't do what she wants she gets even 
+
+228.37 230.03 B: yeah 
+
+230.66 234.71 B: yeah 'cause like my cat if i don't change her cat litter box you know 
+
+234.27 235.20 A: yeah 
+
+234.85 240.73 B: she'll pull all the toilet paper off the roll i'll come back and the whole roll is in her box 
+
+236.71 238.18 A: [laughter] 
+
+240.16 241.95 A: yeah they let you know 
+
+241.68 243.36 B: (( i'm like oh my gosh )) 
+
+242.90 244.14 A: yeah cats have 
+
+243.38 244.68 B: [laughter] 
+
+244.20 246.18 A: cats have personalities 
+
+245.57 247.21 B: yeah they do 
+
+246.74 247.86 A: yeah 
+
+247.53 250.91 B: people don't realise that those are like people that don't like cats 
+
+250.09 252.88 A: ah i know i can never understand why 
+
+251.83 255.35 B: and then like why they are probably more safer than a dog 
+
+254.70 259.57 A: yeah i mean dogs are a- as far as i'm concerned are stupid and messy 
+
+255.60 256.52 B: (( mm )) 
+
+259.37 262.12 B: (( i know aye i don't like dogs at all )) 
+
+261.79 262.90 A: me neither 
+
+262.25 270.58 B: but i have a lot of neighbors who are like ooh ooh get that cat away from me like when they come over for coffee or whatever i'm like she's not gonna do nothing they just want to smell you that's it 
+
+265.17 266.20 A: yeah 
+
+266.91 267.76 A: yeah 
+
+268.52 269.33 A: (( yeah )) 
+
+269.93 274.17 A: yeah they wanna see who you are and if you've got anything to eat [laughter] 
+
+271.43 272.77 B: (( i know and it's )) 
+
+273.04 279.57 B: right and they stomp their foot like get away get aw- i'm like don't do that that's my cat don't do it that's like my daughter don't do it 
+
+277.10 278.16 A: yeah 
+
+278.94 280.21 A: yeah 
+
+279.60 280.75 B: [laughter] 
+
+280.41 283.66 A: well as i said i've lived with mine for fifteen years 
+
+283.05 284.69 B: yeah 
+
+283.86 287.37 A: and now that i'm retired and i'm home alone all day i mean 
+
+287.52 290.47 A: i talk to her just like i would talk to another person 
+
+290.25 294.27 B: really yeah i do too i find myself doing that too 
+
+291.47 292.72 A: yeah [laughter] 
+
+293.64 296.35 A: yeah and i swear she understands me 
+
+294.42 297.13 B: that's weird [laughter] 
+
+297.40 300.25 A: [laughter] ah but no she's very important to me 
+
+299.83 301.26 B: what's your cat's name 
+
+301.08 302.89 A: sheena queen of the jungle 
+
+302.53 310.22 B: mine's brandy 'cause she's got like these brown earth tone colors one side of her face is brown and the other is black 
+
+303.87 304.59 A: oh 
+
+309.62 311.14 A: oh how pretty 
+
+310.39 313.49 B: yeah and her paws the same way brown and black 
+
+313.17 314.70 A: oh wonder- 
+
+313.91 315.46 B: and i was like wow 
+
+314.97 316.97 A: mine is black and grey 
+
+316.52 317.81 B: yeah 
+
+317.17 323.61 A: and um both sides of her stomach she has black fur but with like a grey bull's eye 
+
+323.31 324.68 B: oh okay 
+
+324.11 327.59 A: and when i want to annoy her i poke her in the middle of the bull's eye [laughter] 
+
+326.15 327.61 B: [laughter] 
+
+328.50 329.99 A: (( ah but ah )) 
+
+329.91 331.71 B: (( yeah )) 
+
+330.24 333.09 A: my daughter says we are like two kids here [laughter] 
+
+332.40 333.82 B: is your cat fixed 
+
+333.84 334.83 A: pardon me 
+
+334.30 335.78 B: is your cat fixed 
+
+335.97 338.02 A: um fairly big 
+
+338.16 343.64 A: right now she's got a very saggy belly but that's um her age i guess 
+
+338.28 338.95 B: m- 
+
+340.65 342.21 B: mhm 
+
+343.28 350.48 B: yeah mine is getting huge i had her um spaded and they said that they gain a lot of weight after that happens 
+
+346.46 347.47 A: mhm 
+
+348.46 349.35 A: yeah 
+
+349.88 354.37 A: yeah and ah i had her done she did gain a lot of weight 
+
+353.87 356.05 B: yeah 
+
+354.57 361.00 A: but as i said she's getting old and so her belly sags a little but then so does mine 
+
+359.03 359.88 B: mm 
+
+360.89 362.18 B: (( [laughter] )) 
+
+361.18 362.64 A: [laughter] 
+
+363.25 364.95 A: we're growing old together 
+
+363.31 364.08 B: mm 
+
+364.56 367.30 B: yeah well that's good i love my cat though 
+
+365.32 366.03 A: (( mm )) 
+
+366.73 368.17 A: oh i do too 
+
+368.24 373.75 A: and as i said fifteen years is a long time to it's probably longer than i've spent with anyone [laughter] 
+
+370.30 372.83 B: mm yeah i didn't know they lived that long 
+
+373.05 375.19 B: mhm 
+
+374.07 375.17 A: (( but ah )) 
+
+375.21 377.43 A: no she's very very important to me 
+
+377.41 378.65 B: yeah 
+
+377.98 381.80 A: and as long as i behave myself she will let me live in her house 
+
+381.37 385.81 B: [laughter] that's true this is their house [laughter] 
+
+383.02 384.23 A: (( [laughter] )) 
+
+384.69 385.79 A: oh yes 
+
+385.98 386.82 A: (( oh yeah )) 
+
+385.99 388.70 B: i was gonna say mine needs to get a job [laughter] 
+
+388.45 391.79 A: oh mine dislikes children intensely 
+
+391.46 392.60 B: (( really )) 
+
+391.97 392.96 A: yeah 
+
+393.29 398.40 A: if if my grandchildren come over she'll di- she'll disappear and she won't come out until they're gone 
+
+393.54 394.10 B: (( [cough] )) 
+
+395.10 397.13 B: mhm 
+
+398.27 408.65 B: yeah my cat does that too around people period you know every once in a while she'll come up to someone and smell them or whatever but most of the time she will go in the room and get under the covers 
+
+400.98 403.48 A: yeah no well she likes some people 
+
+408.16 410.31 A: (( yeah but )) 
+
+409.55 411.61 B: i don't know why they do that 
+
+410.75 413.63 A: ah i don't know but she likes some people 
+
+413.16 414.36 B: (( mhm )) 
+
+413.68 417.98 A: but not all people and she no there wasn't a child that she likes 
+
+417.83 419.03 B: wow 
+
+418.00 419.39 A: she disappears 
+
+419.87 423.86 A: i go i thi- i think as she gets older she doesn't like 
+
+423.90 426.46 A: ah noise and i 
+
+425.80 430.96 B: yeah mine doesn't either it gets real scary yeah 
+
+428.21 429.48 A: yeah 
+
+429.54 433.92 A: i think that's why when the kids are here they make you know they run and they yell and 
+
+433.62 434.87 B: right 
+
+434.10 437.25 A: and i think she just wants to be away from that 
+
+437.04 445.69 B: some of my friends say that my cat's crazy or something because all cats don't act like that i w- i wonder if it's because she is a calico 'cause they have like siamese traits 
+
+441.45 442.41 A: (( no )) 
+
+445.08 446.36 A: yeah 
+
+445.70 449.37 B: they're very finicky and their personality is kind of strange 
+
+448.74 455.01 A: yeah well mine's an american short hair and she's very strange and finicky too 
+
+453.58 455.41 B: mine's a calico 
+
+455.17 459.44 A: yeah oh tha- i love calicoes they're gorgeous animals 
+
+457.04 458.34 B: mhm 
+
+459.05 460.53 B: yeah 
+
+460.74 462.33 A: and as i said to 
+
+462.48 465.50 A: people that don't like cats don't know what they're missing 
+
+465.25 467.72 B: yeah no right 
+
+466.47 469.60 A: i me- i have had people say like cats are sneaky 
+
+469.81 476.00 B: yeah and they take your breath i've heard all those superstitions i'm like okay that's not true you're watching too much t._v. 
+
+471.24 473.06 A: oh that silly thing 
+
+473.52 474.42 A: (( [laughter] )) 
+
+477.00 477.71 B: (( [laughter] )) 
+
+477.78 479.30 A: (( ah where do you live )) 
+
+479.07 480.39 B: in tampa 
+
+480.05 481.85 A: oh lucky you 
+
+480.76 484.41 B: tampa florida it's too hot down here 
+
+482.17 483.54 A: i'm in new york 
+
+484.14 486.44 A: oh i'm in new york and it's cold up here 
+
+486.06 488.06 B: it's cold up there now 
+
+487.30 488.02 A: oh 
+
+488.05 491.60 A: it's supposed to be spring and i was just waiting 
+
+490.76 492.03 B: right 
+
+491.74 495.15 A: and it's been in the fifties and the low forties 
+
+493.64 496.50 B: oh it's like ninety two down here 
+
+495.91 497.32 A: (( oh my )) 
+
+496.87 499.78 B: but the humidity is like seventy eight percent 
+
+499.20 500.50 A: (( oh my )) 
+
+500.05 501.51 B: yeah it's 
+
+500.83 505.21 A: but i'd rather had that we had some winter this year 
+
+502.62 504.01 B: (( mm [laughter] )) 
+
+504.88 506.40 B: (( yeah i heard )) 
+
+505.69 507.57 A: oh my lord 
+
+507.08 509.81 B: i heard the weather's all wacky anyway 
+
+507.83 508.52 A: it 
+
+509.16 514.96 A: yeah i mean one day in april we had seventy degrees and the next day it snowed 
+
+512.75 513.90 B: mhm 
+
+515.05 519.52 B: well see that's weird [laughter] that's very strange 
+
+516.13 517.65 A: (( yeah [laughter] )) 
+
+518.90 521.69 A: i didn't you don't know how to dress 
+
+521.38 527.84 B: yeah are you from new york like you were born and raised there hm i've never been there 
+
+521.99 522.80 A: (( mm )) 
+
+525.03 526.27 A: yeah 
+
+527.13 528.30 A: (( oh no i was )) 
+
+528.07 530.22 B: i want to go there one day for shopping 
+
+530.14 531.23 A: (( oh )) 
+
+530.63 531.29 B: (( [laughter] )) 
+
+531.29 533.83 A: if you like to shop this is the place 
+
+532.95 537.10 B: yes i want to get the good bargains [laughter] 
+
+534.21 535.14 A: yeah 
+
+535.53 538.46 A: oh well i live on long island 
+
+537.89 539.26 B: oh okay 
+
+538.69 541.02 A: and we have a lot of the um 
+
+541.29 545.74 A: ah the ah outlet stores from all the big department stores 
+
+542.79 544.91 B: mhm 
+
+544.99 548.58 B: oh okay so that's like discounted prices and stuff 
+
+547.58 551.25 A: (( yeah of of all like ah all the big )) 
+
+551.34 559.80 A: manufacturers and everything have their outlets here on long island so you can buy the same things that you get in yeah 
+
+552.13 553.35 B: mhm 
+
+554.34 555.82 B: oh okay 
+
+558.84 573.68 B: they have some of those here in tampa but their prices are the same as if you go to the mall like the gap outlet and stuff like that nike and that's not marked at very much different maybe five dollar difference on the prices i was like gosh i might as well just go to the mall 
+
+565.06 566.32 A: (( oh no )) 
+
+569.50 571.07 A: oh not here 
+
+573.18 577.34 A: no and a couple of times a year when they have their clearances 
+
+576.65 578.12 B: mhm 
+
+577.50 588.12 A: oh boy can you m- [laughter] yeah i have two daughters so we all go and well i don't buy that much but they do i i basically hold things 
+
+579.12 580.34 B: i bet 
+
+587.57 589.17 B: mhm 
+
+588.36 590.40 A: (( you know while they try on )) 
+
+589.86 591.03 B: [laughter] 
+
+590.79 593.59 A: but ah no we have great shopping here 
+
+593.43 599.28 B: yeah they have a store here for um pet lovers where they have like designer clothes for 'em 
+
+596.30 597.02 A: (( mm )) 
+
+599.42 599.89 A: (( oh we- )) 
+
+599.51 599.95 B: (( [laughter] )) 
+

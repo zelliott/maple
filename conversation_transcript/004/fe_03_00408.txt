@@ -1,0 +1,295 @@
+# fe_03_00408.sph
+# Transcribed by BBN/WordWave
+
+0.36 1.59 A: hi 
+
+0.59 1.73 B: hi 
+
+1.87 3.03 A: how are you 
+
+2.83 3.98 B: good how are you 
+
+4.20 7.86 A: i'm fine um well my name is buddha 
+
+8.47 9.71 B: i'm sorry 
+
+9.65 11.42 A: my name is buddha 
+
+11.26 12.20 B: buddha 
+
+12.13 13.09 A: yes 
+
+12.81 14.63 B: my name's michael how are you 
+
+14.59 16.70 A: hi michael i'm good thank you 
+
+16.77 24.52 A: ah well it's basically my first conversation on the phone like ah regarding this one is this the same for you 
+
+20.89 22.11 B: likewise 
+
+24.27 25.30 B: yes 
+
+25.31 32.63 A: oh okay [laughter] [cough] well i guess we are supposed to talk about education but are you from philly or somewhere else 
+
+30.44 31.16 B: yeah 
+
+32.42 34.39 B: no i'm in south florida 
+
+34.48 40.48 A: south florida oh this is pretty good oh i i'm in pennsylvania central pennsylvania 
+
+35.61 36.46 B: mhm 
+
+39.74 41.42 B: and how's the weather today 
+
+41.71 44.83 A: oh god it's freezing outside it's unbelievable 
+
+43.30 44.15 B: [laughter] 
+
+44.73 47.77 B: yeah sorry to hear that i won't tell you what it was like here today 
+
+47.91 50.21 A: [laughter] 
+
+49.66 52.04 B: so how 'bout computers in education [noise] 
+
+52.85 55.55 A: computers in education um 
+
+55.78 66.52 A: well in fact i'm teaching ah in a university um i'm at i'm teaching an undergrad class and i'm using computer widely [noise] in my teaching 
+
+66.73 76.23 A: um but like it's not like distance education that everything is on the computer i'm using it as a supplement to the main teaching 
+
+72.13 73.08 B: mhm 
+
+76.51 78.24 A: so um 
+
+78.20 86.41 B: and and in in what are you using it ah is it for assignments or communications with the students or ah doing research or 
+
+86.71 98.27 A: it's not doing research it's basically communicating with the students um so now i'm posting everything on the net we have a website ah related to the to the course that i'm teaching 
+
+91.06 92.29 B: mhm 
+
+98.28 102.08 A: and we have all the activities assignments 
+
+102.17 104.97 A: guidelines for the projects or 
+
+105.44 108.28 A: um even the schedule the syllabus 
+
+108.83 114.95 A: and of course the email list they're all on the net um and students are supposed to 
+
+111.89 112.80 B: mhm 
+
+115.28 123.73 A: um check their mails and um look into this website like at least two times a week and get all the information 
+
+123.88 137.05 A: and basically i'm using um computers and technology like ah in terms of the computers like kind of a tool ah in order to communicate with the students more um efficiently like more effectively 
+
+137.21 138.30 A: um 
+
+139.09 142.87 B: but b- but not so much like in the classroom right 
+
+142.99 146.50 A: in the classroom no not really um 
+
+145.58 146.86 B: mhm 
+
+146.40 152.48 A: i mean w- we have like several computers labs and students are doing some kind of simulations 
+
+152.37 165.90 A: by using some of the softwares but um basically they're kind of like they're supplementing they're not like really supplementing the class but are kind of helping us to understand the concepts better 
+
+165.52 179.11 B: right right so but it sounds like primarily it's a communication tool just make it easier so that all the information that teachers have always had which is like you said the syllabus and the assignments and whatnot are available at any time 
+
+179.09 184.88 A: yes exactly and even the grading um they post their assignments on the net and i just grade 
+
+185.31 194.45 A: um while i'm sitting in my office and just um grade them on the net and they will get the they will learn the true internet too 
+
+190.83 191.81 B: mhm 
+
+194.43 204.79 A: so it's basically for ah communicating yes i mean we are not like creating artificial realities on the net and living there to be honest [laughter] 
+
+199.98 200.84 B: right 
+
+204.77 207.90 B: and i'm sorry you said that was undergrad college 
+
+208.16 209.92 A: [cough] it's um 
+
+209.93 216.27 A: undergr- no it's in a university level it's an undergrad class but i'm a graduate student 
+
+212.88 213.82 B: (( right )) 
+
+214.65 215.58 B: okay 
+
+216.09 216.95 B: right 
+
+217.33 222.98 A: so basically i mean i i i like computers as a tool of communication 
+
+223.08 232.67 A: um but i am skeptical in the sense that it's always good for us to ah create some realities through the computers 
+
+232.80 235.63 A: like i have some doubts about that 
+
+232.87 233.76 B: right 
+
+234.99 247.12 B: it's interesting i ah i read something the other day that said ah somebody had done a study of um you know bringing computers into the primarily i guess elementary up through high school level 
+
+246.91 252.29 B: ah bringing them into the classroom and making available and didn't seem to have made a difference 
+
+247.11 248.08 A: okay 
+
+252.22 265.41 B: ah and the conclusion they drew was that was because um m- they the teachers you know the th- who really haven't grown up with it and the kids are more used to the technology and using the tool 
+
+261.62 262.57 A: yes 
+
+265.28 274.09 B: and the teachers haven't really been able to find a way to make it part of the day you know part of the education um it's 
+
+273.49 274.82 A: (( hm )) 
+
+274.19 282.77 B: it's an auxiliary right now you know it's ah like like you guys do it's a you know you do a lab or something it's not part of the education per se 
+
+282.87 283.47 B: (( [lipsmack] )) 
+
+283.90 293.29 B: and ah i have a daughter who's just in high school and you know i remember in even when she was in elementary school and middle school they always had computer labs 
+
+286.76 287.97 A: mhm 
+
+293.35 294.27 A: yes 
+
+293.37 307.13 B: um but you know they either they got an hour or a period a day or every couple of days or um you know they had exercises to do on the computers you know it wasn't ah it's not integrated into the the fabric of the curriculum 
+
+307.43 310.37 A: mhm mhm mhm 
+
+311.24 313.33 A: i see so um 
+
+313.90 318.29 A: do you think she's enjoying um learning something on the computer 
+
+318.40 330.99 B: she's ah she's quite adept with it yeah ah she does a lot of you know homework research ah she knows much like you guys have there's her some of her teachers post their stuff on the web 
+
+330.85 343.91 B: you know there's sites that the high schools can use and they she gets homework help on the web and she can find her assignments and she co- certainly communicates with her classmates and email and instant messaging and 
+
+331.09 331.93 A: mhm 
+
+343.32 344.84 A: mhm mhm 
+
+344.04 349.30 B: you know paper research and all kind of things yeah she's quite good at it 
+
+347.43 348.48 A: mhm 
+
+349.51 351.08 A: so um 
+
+351.49 354.40 A: well this is pretty neat though but 
+
+354.80 359.27 A: maybe i can ask you a question like do you think computers um 
+
+359.68 363.34 A: are in general tools that we should always 
+
+363.63 368.17 A: um considering using in any kind of human activity 
+
+369.62 371.95 B: well i won't say any kind 
+
+369.98 370.77 A: like 
+
+372.52 382.77 A: in terms of like for instance teaching yeah let's just talk about teaching maybe it's better um like i i to be honest i can't a find a difference in terms of um 
+
+372.68 373.95 B: you know there's 
+
+383.06 388.48 A: um paper and pen like pencil and paper and the computer and keyboard 
+
+388.50 390.27 B: mhm 
+
+389.51 400.34 A: like i i think it's the same tool i mean if it's they are dissimilar tools but just one of them is technologically advanced when compared to other but um 
+
+400.94 409.91 A: i mean it's just a tool i guess like the computers they're not like going to open up a new perspective and a better understanding of world or something 
+
+409.93 411.23 A: because like 
+
+411.50 413.83 A: [mn] paper and pen pencil and paper 
+
+413.90 416.99 A: we know ah at least we use them in order to 
+
+417.22 424.23 A: save our ideas thoughts by writing down the text and um maybe like um 
+
+425.08 438.61 A: while reading some other's papers we we ah we somehow communicate with them through the paper and i think computers are the same ah in some manner but on the other hand um 
+
+440.48 444.90 A: so basically like i'm not expecting too much things from the computers 
+
+445.33 455.14 B: well like you said they're strictly a tool and um i'm in computers i find it interesting in that for the last ah you know twenty years or so 
+
+451.81 452.72 A: mhm 
+
+455.77 457.31 B: a lot of the 
+
+457.32 463.67 B: a lot of people's time and exposure with the computer has been a fascination with the tool 
+
+463.83 470.14 B: you know it's like people who buy cars not because they like to drive or to get from point a to b. 
+
+469.00 471.01 A: (( [noise] [noise] [laughter] okay )) 
+
+469.94 482.41 B: but because they like to tinker with them you now they like to paint 'em and wax 'em and you know what i mean so same thing with computers we're still at a stage i think in um software development where 
+
+475.31 476.68 A: (( mhm mhm )) 
+
+482.34 496.47 B: for a lot of people it's the the tool is more interesting than what you can do with it and i [noise] i think once the computer itself sort of fades into the background and we we're able to 
+
+496.72 500.36 B: [lipsmack] take the communications and the computing power 
+
+500.56 510.66 B: you know literally for granted and and at every turn and have it you know at our fingertips without having to think about okay what program am i running and how do i do this 
+
+510.57 511.82 A: (( [noise] mhm )) 
+
+510.92 521.21 B: you know where they really become ubiquitous and everybody's got all the bandwidth you need and and ah you know anywhere you're at you can communicate or or get access to computing power 
+
+521.13 525.93 B: then i think a lot of things will open up you know because if 
+
+524.32 528.04 A: mhm yeah yeah i do agree yeah 
+
+526.02 526.86 B: (( you )) 
+
+527.02 535.06 B: know look at look at pen and paper now they to carry on with what you were saying i'm sure that when you know when only rich people had paper 
+
+535.24 537.37 B: because it was expensive to make 
+
+535.42 538.17 A: yeah (( )) 
+
+538.14 540.61 B: you know it was a fascinating thing 
+
+540.50 542.04 A: mhm mhm 
+
+541.46 545.78 B: um but look at it now i mean you know how many sheets of paper do you throw away a day 
+
+546.12 549.98 A: [laughter] i don't know i don't count [laughter] 
+
+546.97 547.90 B: you know 
+
+549.09 559.42 B: and so [noise] you know when when computers get [noise] to that point um [noise] when you don't think about oh i'm using the computer or [noise] i have to go use the computer [noise] to do this 
+
+559.33 560.42 A: mhm 
+
+559.55 566.61 B: ah then i think things will they'll integrate [noise] and we'll be able to make a lot [noise] better use of 'em 
+
+566.29 570.01 A: mhm mhm that's probably um 
+
+567.90 570.04 B: [noise] shh 
+
+570.20 571.30 B: [noise] 
+
+570.61 575.48 A: so what about what about this idea do you think ah computers are 
+
+575.74 579.82 A: um kind of promoting um 
+
+575.97 576.91 B: [noise] 
+
+580.31 585.17 A: the kind of the inequality within society 
+
+585.25 588.98 B: [noise] [noise] well you mean like the 
+
+585.96 587.46 A: like for instance 
+
+587.73 588.83 A: some people 
+
+588.95 590.23 A: have a 
+
+589.10 591.75 B: computer haves and the computer have nots 
+
+591.62 596.88 A: yes yes the people who who have access to computer and the ones who doesn't who don't 
+
+592.84 593.78 B: um 
+
+596.88 599.04 B: certainly it been true 
+
+599.24 599.89 B: you know 
+

@@ -1,0 +1,485 @@
+# fe_03_03755.sph
+# Transcribed by BBN/WordWave
+
+0.17 1.40 A: hello 
+
+0.89 2.06 B: hello 
+
+1.94 3.02 A: (( how are you )) 
+
+2.72 4.31 B: i'm fine how are you 
+
+3.99 6.48 A: good [noise] what's your name 
+
+5.83 7.94 B: kiwana and yours 
+
+7.30 8.34 A: (( kiwana )) 
+
+8.08 8.99 B: yes 
+
+8.80 10.73 A: okay mine is gentry 
+
+10.44 12.94 B: okay nice to talk to you [laughter] 
+
+12.30 14.48 A: nice to talk to you where do you live 
+
+14.33 15.93 B: i live in georgia 
+
+15.76 16.87 A: georgia 
+
+16.64 17.78 B: yeah 
+
+17.14 19.32 A: oh we're a long ways i'm in oregon 
+
+18.89 20.19 B: (( oh okay )) 
+
+19.91 22.26 A: [laughter] you ever been out to oregon 
+
+21.84 22.98 B: no 
+
+22.92 24.34 A: well you should 
+
+24.30 24.90 B: (( [laughter] )) 
+
+25.21 26.42 B: okay 
+
+26.11 27.45 A: [laughter] 
+
+27.02 28.72 B: does it get cold there 
+
+29.49 33.76 A: uh not too bad we didn't even have any snow this year 
+
+31.06 31.90 B: oh 
+
+34.29 38.57 A: and we don't if we usually have one little snow and that's about all 
+
+34.40 35.26 B: okay 
+
+37.93 39.04 B: okay 
+
+38.74 41.65 A: but uh we didn't even have that this year 
+
+41.08 41.90 B: oh 
+
+41.93 44.84 A: it's been been really nice [laughter] 
+
+43.99 45.00 B: okay 
+
+45.50 48.26 A: (( lot of lot of rain lately but )) 
+
+48.28 49.60 A: that's common 
+
+49.30 50.24 B: (( uh-huh )) 
+
+50.06 50.62 A: (( [cough] )) 
+
+51.32 54.97 A: you been having some bad storms down there too haven't ya 
+
+54.91 57.16 B: well i haven't seen any like 
+
+57.46 63.46 B: in the last week or so the weather's been pretty nice been very humid here but 
+
+58.93 60.26 A: yeah 
+
+63.53 65.03 B: (( [sigh] sunny )) 
+
+64.79 67.55 A: yeah hum- humid i don't like 
+
+67.08 68.29 B: oh [laughter] 
+
+67.84 69.09 A: [laughter] 
+
+68.90 71.93 B: (( i'm used to it i'm i've always been )) 
+
+69.93 71.22 A: you're used to it 
+
+72.02 72.98 A: uh-huh 
+
+72.26 73.45 B: in this area 
+
+73.24 79.71 A: i guess you can get used to it [sigh] um okay i guess we're supposed to talk about uh 
+
+78.83 81.18 B: yeah the minimum wage [laughter] 
+
+80.48 82.35 A: minimum wage 
+
+83.21 84.51 A: um 
+
+84.95 88.28 A: and and and do we think it's enough 
+
+88.14 89.83 B: of course not 
+
+89.47 95.70 A: (( [laughter] course not is right [cough] but )) 
+
+96.49 97.76 A: i know um 
+
+97.88 102.50 A: i've i've noticed with the minimum minimum wage that um 
+
+102.67 110.19 A: i think the other employees if if the minimum wage people get like fifty cents more an hour 
+
+109.66 110.75 B: mhm 
+
+110.40 114.22 A: then everybody else should get fifty cents too 
+
+113.72 115.53 B: (( yeah yeah yeah )) 
+
+114.88 119.88 A: you know because where i was working um they were 
+
+120.63 127.34 A: actually [mn] catching up with my wage you know and i wasn't getting advanced 
+
+124.69 125.58 B: (( uh-huh )) 
+
+126.87 127.95 B: okay 
+
+127.59 128.48 A: (( you know )) 
+
+128.57 129.14 A: (( [cough] )) 
+
+129.62 131.59 A: have you worked for minimum wage 
+
+131.93 141.12 B: yeah um i live in uh well you've probably heard about us on the news because of the war and everything i live in fort stewart 
+
+141.23 142.20 A: (( oh okay )) 
+
+141.24 152.87 B: so a lot of our people are over there and if it weren't for the military [laughter] we really wouldn't have anybody here our whole economy is based on the military or whatever so anybody's that's not in the military 
+
+150.24 151.12 A: uh-huh 
+
+152.88 157.43 B: is getting paid you know they start at minimum wage here and i'm like 
+
+157.47 162.11 B: thirty minutes southeast of savannah georgia i don't know if you ever heard of that 
+
+161.51 162.38 A: (( oh yes )) 
+
+162.40 175.21 B: but um you know even though the minimum wage is what five fifteen they generally will most jobs predominantly will start at seven dollars an hour in savannah so [sigh] 
+
+173.35 174.51 A: right 
+
+175.64 177.83 A: well that's pretty much the way it is here too 
+
+177.44 178.61 B: yeah 
+
+178.37 180.14 A: (( um [lipsmack] )) 
+
+180.38 182.67 B: well i think we're getting cheated [laughter] 
+
+180.52 181.19 A: i 
+
+182.15 186.77 A: [laughter] oh because you only get the five fifteen 
+
+186.38 189.34 B: yeah well most of 'em yeah yeah 
+
+187.51 189.27 A: yeah 
+
+189.53 198.17 A: well i do too 'cause i don't think that's um i i don't think that's even a minimum age as far as i'm concerned you either uh you can't live on it 
+
+189.59 190.28 B: yeah 
+
+194.25 196.16 B: (( no i don't either )) 
+
+197.61 199.55 B: okay by the time you 
+
+200.78 209.96 B: pay expenses to keep your automobile running to get back and forth to work and pay childcare expenses if you have a child that's your money right there 
+
+207.93 209.10 A: right 
+
+209.80 211.27 A: that's right 
+
+211.51 215.84 A: let alone food or clothes or entertainment or 
+
+213.33 214.84 B: mhm 
+
+215.10 216.07 B: okay 
+
+215.97 217.63 A: savings or 
+
+217.95 219.44 A: any of that yeah 
+
+218.68 222.70 B: no we're not expected to have entertainment that's a luxury 
+
+222.86 231.12 A: [laughter] is that right you make your own entertainment [laughter] yeah right but that usually leads to more kids 
+
+226.03 227.49 B: (( uh-huh [laughter] )) 
+
+230.85 232.24 B: yeah okay 
+
+231.36 233.67 A: [laughter] 
+
+233.30 234.41 B: (( [laughter] it's true )) 
+
+234.44 237.92 A: [laughter] how true [sigh] oh my 
+
+238.37 240.83 A: well i've never been to georgia either so 
+
+241.48 242.62 A: um 
+
+242.70 244.00 B: most people 
+
+243.25 245.36 A: i think i'd like to sometime 
+
+244.73 246.36 B: yeah okay 
+
+247.17 248.26 B: um 
+
+248.17 251.41 A: but i don't think i wanna work there if that's all they pay 
+
+250.15 251.33 B: [laughter] 
+
+251.70 257.77 B: well um no they have they have very good jobs in savannah because you know [sigh] it's a tourist city 
+
+257.94 265.00 B: and um so they have a lot of different things going on out there you can work at the port you can 
+
+258.03 258.99 A: okay 
+
+265.20 267.39 B: they got a lot of um 
+
+268.00 270.65 B: lot of city jobs the city pays very well 
+
+270.50 271.50 A: okay 
+
+271.06 282.38 B: and they got benefits and stuff and but here we don't really hire for anything but grocery stores and fast food and they're getting ready to shut down since all of our 
+
+279.27 280.49 A: right 
+
+282.50 285.01 B: working people have been deployed [laughter] 
+
+284.35 286.17 A: yeah 
+
+287.05 287.90 A: (( oh )) 
+
+288.80 290.98 A: i guess you'll have to join the service huh 
+
+290.90 291.71 B: (( huh )) 
+
+291.57 293.79 A: i say i guess you'll have to join the army 
+
+293.21 294.86 B: oh no no no no 
+
+294.52 296.16 A: [laughter] 
+
+295.30 300.33 B: [laughter] uh-uh you'll never get uncle sam to send me off over there to fight other people's wars 
+
+298.98 299.55 A: (( [cough] )) 
+
+299.73 305.11 A: [laughter] well i thought that was a pretty fun gig this last one though 
+
+304.22 315.36 B: uh-uh i mean you know i i pick with all my military friends and things because i'm like when they're not at war they don't really do anything but sit at a desk and chat over the computer all day 
+
+314.98 316.37 A: yeah 
+
+315.39 319.30 B: [laughter] but now i'm like oh see you couldn't pay me to do your job [laughter] 
+
+319.08 320.78 A: [laughter] 
+
+320.00 324.68 B: so i guess it kinda balances out the threat of war for 
+
+324.95 327.99 B: just having a easy job most of the time i don't know 
+
+328.34 329.24 B: (( no )) 
+
+328.66 330.93 A: uh-huh are are you working 
+
+330.46 332.73 B: yes i work as a substitute here 
+
+332.61 335.00 A: substitute what in school 
+
+333.83 335.84 B: teacher yes mhm 
+
+335.24 336.74 A: teacher oh great 
+
+337.28 344.86 B: and they do pay the teachers a little bit more than minimum wage but i don't think that's sufficient with all the stuff them kids put us through 
+
+344.55 350.37 A: yeah oh i know i know especially the uh the substitute teachers 
+
+350.47 353.48 B: yeah well they they pay us pretty good we get about 
+
+352.77 354.66 A: no i mean the kids 
+
+354.00 355.01 B: okay 
+
+355.26 359.28 B: well they're a little bit better here because you know our um 
+
+359.82 362.35 B: the uh principals and stuff and we 
+
+362.43 364.92 B: have security guards [laughter] 
+
+365.17 366.59 B: the police 
+
+365.97 367.63 A: isn't that wonderful 
+
+366.94 368.91 B: all over the place so 
+
+368.66 369.68 A: and 
+
+368.97 371.77 B: yeah our principals don't really take a whole lot 
+
+369.89 373.13 A: and metal detectors at the door 
+
+373.87 381.89 B: yeah we act- well we don't have those right now i don't think we did have that my last year of high school which was in ninety two 
+
+382.99 390.27 B: but they have gotten away gotten rid of those since i was there guess i just had a bad class 
+
+386.13 388.57 A: yeah oh good uh-huh 
+
+391.63 394.58 A: (( [sigh] oh [cough] )) 
+
+395.46 396.72 A: (( um [lipsmack] )) 
+
+397.61 403.42 A: i never taught school that's one of the things i never did done a lot of things right now i work in a 
+
+400.51 401.55 B: okay 
+
+403.63 406.42 A: a retirement community 
+
+405.81 406.73 B: uh-huh 
+
+406.48 416.59 A: uh work at the front desk and answer questions and the telephones and do a little paperwork and a little work on the computers and 
+
+414.02 414.89 B: okay 
+
+416.05 419.69 B: they've had a lot of ads for retirement communities here and i'm 
+
+419.55 421.13 A: yeah they don't 
+
+420.35 423.04 B: thinking about applying for one of those jobs 
+
+422.48 426.22 A: they don't pay too good but it's it's it's nice work 
+
+425.48 426.42 B: uh-huh 
+
+427.09 428.25 A: (( it's um )) 
+
+428.58 431.62 A: [lipsmack] i've been there ten years i think now 
+
+431.22 432.42 B: (( oh okay )) 
+
+432.35 437.57 A: and and i still don't make ten dollars an hour 
+
+437.22 439.17 B: oh no [laughter] 
+
+438.46 440.52 A: [laughter] i make 
+
+439.84 442.08 B: you gotta love your job [laughter] 
+
+441.20 443.36 A: [laughter] i know 
+
+443.63 447.19 A: [cough] well i al- i'm also retired and i can 
+
+447.50 449.65 A: i draw social security too 
+
+449.08 450.18 B: okay 
+
+449.95 450.90 A: which 
+
+451.23 458.60 A: um i work just enough hours to be which is thirty three hours a week to class- classify as 
+
+456.33 457.22 B: uh-huh 
+
+458.75 460.67 A: being full time 
+
+460.06 460.99 B: uh-huh 
+
+460.92 463.91 A: and so that way i get all the medical benefits 
+
+463.35 464.29 B: yeah 
+
+464.14 468.12 A: and vacations and which i'm leaving on 
+
+468.53 471.98 A: next monday for a two weeks vacation and 
+
+471.21 472.52 B: okay where you going 
+
+472.16 474.90 A: we're gonna drive up into washington 
+
+474.77 475.96 B: okay 
+
+475.22 485.07 A: and idaho and montana and stay at some resorts and along the lakes and the rivers and it's gonna be wonderful 
+
+482.95 485.22 B: (( that sounds like fun [laughter] )) 
+
+485.24 489.80 A: [laughter] probably be a little snow up there in the mountains but 
+
+489.06 490.16 B: uh-huh 
+
+490.26 492.24 A: but it should be beautiful yeah [lipsmack] 
+
+493.24 494.64 A: (( um )) 
+
+496.63 498.01 A: (( [sigh] but um )) 
+
+498.62 500.30 A: where do you go on vacation 
+
+501.09 504.03 B: generally i stay right here in the area [laughter] 
+
+504.04 505.05 A: uh-huh 
+
+505.43 506.50 B: but um 
+
+506.55 509.16 B: mostly florida 'cause i have a 
+
+509.19 511.36 B: a five year old so i usually 
+
+511.37 520.75 B: you know take him to all the florida attractions disney world and silver springs and busch gardens and all those kinds of places 
+
+520.09 521.95 A: oh yeah 
+
+525.32 528.15 B: yeah not too far and i love the warm weather 
+
+526.01 527.30 A: (( well that sounds )) 
+
+527.89 528.92 A: yeah 
+
+530.82 533.81 A: [cough] yeah that sounds like fun how far is that away 
+
+533.92 538.95 B: um i think orlando is like five hours away from here 
+
+538.78 539.73 A: okay 
+
+539.98 545.80 B: and then we have six flags in atlanta that's four hours away from here so 
+
+545.54 546.41 A: uh-huh 
+
+548.43 550.05 A: six lakes you say 
+
+549.66 551.20 B: six flags 
+
+550.67 555.36 A: oh six flags i'm sorry okay yeah we don't have any of those out here 
+
+551.55 552.40 B: yeah 
+
+555.13 556.68 B: oh gosh 
+
+556.08 559.31 A: [noise] no [laughter] 
+
+557.92 561.07 B: those are really really fun i'm not really one for 
+
+561.22 564.76 B: you know a lot of the um [lipsmack] rides or anything 
+
+564.77 571.43 B: i like to go through and look at the the nature scenes [laughter] and like the animals and 
+
+568.82 569.76 A: uh-huh 
+
+571.57 573.07 B: [sigh] the little 
+
+573.08 576.62 B: tourist things where you can get on your little on the little bus and they'll take you 
+
+576.67 577.91 B: on a tour 
+
+578.26 584.48 B: [sigh] and show you where everything came from and how long it's been there and that's cool [laughter] 
+
+581.30 582.08 A: uh-huh 
+
+584.90 587.41 A: well i hope you can 
+
+587.49 592.23 A: come out to oregon sometime it is absolutely gorgeous out here 
+
+590.04 591.12 B: (( that sounds )) 
+
+591.43 594.21 B: (( like a plan it'd have to be in the summertime )) 
+
+593.68 595.15 A: (( yes )) 
+
+595.62 596.58 A: (( you bet )) 
+
+597.05 599.89 A: just give me a call and i'll let you know where where to stay 
+

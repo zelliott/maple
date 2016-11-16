@@ -1,0 +1,459 @@
+# fe_03_01953.sph
+# Transcribed by BBN/WordWave
+
+0.35 1.66 A: hello 
+
+1.13 2.47 B: hello 
+
+2.26 4.58 A: hi my name's mindy 
+
+4.15 7.02 B: mindy my name is gentry 
+
+6.34 7.94 A: hi gentry 
+
+7.48 8.63 B: how are you 
+
+8.37 9.95 A: good how are you doing 
+
+9.60 11.26 B: oh good 
+
+10.75 14.94 A: good what was the topic family but i didn't hear the specific one 
+
+14.65 17.41 B: ah family and what it means 
+
+17.55 19.41 B: what family means to you 
+
+19.31 22.08 A: oh okay well that's a good topic 
+
+21.61 25.18 B: i guess [laughter] 
+
+22.85 26.57 A: [laughter] family means a lot to me 
+
+26.44 27.78 B: oh yeah us too 
+
+27.66 28.98 A: [laughter] 
+
+29.85 30.99 B: (( [laughter] where do you live )) 
+
+31.53 32.71 A: what was that 
+
+32.27 33.56 B: where do you live 
+
+33.16 35.53 A: i live in vancouver washington 
+
+34.99 38.52 B: oh okay the last person i talked to was from vancouver also 
+
+38.08 39.26 A: oh really 
+
+38.89 40.04 B: yeah 
+
+39.43 40.65 A: where are you from 
+
+40.39 41.81 B: canby oregon 
+
+41.62 42.81 A: oh okay 
+
+42.88 45.02 A: i work in towolaton oregon 
+
+44.76 45.74 B: (( oh you do )) 
+
+45.38 48.01 A: (( yeah [laughter] so i have a long commute )) 
+
+47.17 49.23 B: well i work in wilsonville so 
+
+49.00 50.46 A: oh [laughter] 
+
+50.21 52.38 B: at a retirement community 
+
+52.85 56.23 B: [mn] anyway do you want to go first what 
+
+53.54 54.79 A: well 
+
+55.62 57.63 A: yeah you bet um 
+
+58.10 62.30 A: my family means tons to me especially 
+
+62.32 67.47 A: my mom and grandma they're the people in my life that i'm the closest to 
+
+67.78 74.03 A: i grew up um as an only child and my parents were divorced when i was younger so 
+
+74.55 81.67 A: ah it was just me and my mom and so you know we were like sisters and did everything together and 
+
+82.03 84.66 A: so just have a really special bond 
+
+85.01 87.39 A: and my grandma helped out a lot so 
+
+88.46 90.54 A: i'm really close to her as well 
+
+90.30 91.62 B: about your dad 
+
+91.72 98.53 A: um i i wasn't close to my dad growing up um but i am since i got married you know i'm older now and 
+
+98.59 106.38 A: um we we get along really well now um but we didn't growing up mainly because of my stepmom so 
+
+103.69 104.37 B: (( [cough] [cough] )) 
+
+105.86 106.66 B: yeah 
+
+106.56 114.69 A: [laughter] but um we get along really well now and i actually have a little sister um my dad and my stepmom have a daughter so 
+
+107.91 108.81 B: [laughter] 
+
+109.63 110.51 B: mhm 
+
+114.11 114.99 B: oh 
+
+115.24 116.49 A: so that's fun 
+
+116.83 118.30 B: kind of a half sister 
+
+117.58 119.54 A: (( [laughter] yeah )) 
+
+118.78 120.10 B: yeah 
+
+120.70 121.72 B: brothers 
+
+121.93 123.66 A: no brothers 
+
+123.02 125.02 B: you're an only child that's right okay 
+
+124.10 129.95 A: yeah yeah i grew up as a i mean i have my little sister but i grew up you know just me and my mom 
+
+128.68 130.98 B: how long you been married 
+
+130.17 132.19 A: i've been married four years 
+
+132.78 136.29 B: mhm i've been married almost fifty 
+
+135.71 137.78 A: oh wow [laughter] 
+
+136.91 138.69 B: next year mm 
+
+138.19 141.54 A: that's a lot longer than me [laughter] 
+
+139.13 143.44 B: [mn] yeah a couple of three generations between us here 
+
+142.78 144.49 A: yeah [laughter] 
+
+143.70 144.86 B: [laughter] 
+
+145.16 149.26 B: [mn] okay well far as i my family is concerned um 
+
+149.57 155.77 B: my father and mother um had a farm never um never divorced 
+
+155.34 156.49 A: mhm 
+
+155.81 156.82 B: (( my )) 
+
+158.03 159.38 B: (( dad ah )) 
+
+159.95 169.47 B: well he had some horses that he he used to do farming with and also ah hunting and things like that and he had a 
+
+170.47 171.43 B: um 
+
+172.99 178.22 B: a buggy that he would take to town and take to to ah fairs and to 
+
+178.76 181.92 B: ah parades and things like that you know 
+
+180.63 181.57 A: uh-huh 
+
+182.11 183.23 B: (( and ah )) 
+
+183.73 186.11 B: and 
+
+186.41 194.09 B: one day ah one of the horses ah that he was riding reared his head back and hit him hit him in the face you know 
+
+193.90 195.17 A: (( oh )) 
+
+194.33 197.30 B: the horse's head it just reared back and 
+
+196.70 197.86 A: (( no )) 
+
+197.68 208.72 B: [mn] and then ah then he got a blood clot and shortly after that he passed away but yeah but my mom lived until she was ninety seven so 
+
+203.08 205.38 A: (( oh oh how sad )) 
+
+208.23 209.48 A: wow 
+
+209.93 212.28 B: although the last few years she 
+
+212.38 214.64 B: had pretty much lost her 
+
+214.74 217.69 B: current memory you know and 
+
+215.75 217.07 A: yeah 
+
+217.43 222.46 A: my great great grandma lived she died when i was eight she was a hundred and five 
+
+221.81 223.76 B: oh my gosh yeah 
+
+222.72 230.44 A: and my great grandma my great grandpa's still alive but my great grandma she died two years ago and she was she was ninety three 
+
+227.67 228.23 B: (( [mn] )) 
+
+229.81 232.97 B: oh well you probably have some good genes too 
+
+232.33 234.80 A: yeah i hope so [laughter] 
+
+233.48 234.91 B: (( [laughter] )) 
+
+235.19 236.73 B: (( [mn] but ah )) 
+
+237.16 238.39 B: um 
+
+239.25 244.12 B: anyway i come from a family of four or yeah four brothers 
+
+243.77 244.79 A: (( oh wow )) 
+
+244.53 246.29 B: and no sisters 
+
+245.51 247.13 A: no girls huh 
+
+246.58 248.42 B: no girls um 
+
+247.32 248.16 A: (( [laughter] )) 
+
+249.03 252.02 B: (( [mn] um )) 
+
+252.44 254.37 B: i married a westland girl 
+
+254.90 256.27 B: and um 
+
+256.66 258.90 B: we have four daughters 
+
+258.35 262.75 A: uh-huh four oh so you came from all boys and then all girls [laughter] 
+
+259.14 260.59 B: no sons 
+
+261.99 266.24 B: right but now i have eight grandsons 
+
+262.77 263.82 A: [laughter] 
+
+265.92 269.34 A: oh wow no granddaughters 
+
+266.94 268.17 B: [laughter] 
+
+268.61 270.78 B: two granddaughters yeah 
+
+269.50 271.32 A: oh okay [laughter] 
+
+271.22 276.22 B: but my my ah closest brother he had ah four daughters also 
+
+275.81 277.50 A: oh my goodness 
+
+276.79 282.82 B: and he has six grandsons and no granddaughters it's just swapping back and forth 
+
+279.64 281.37 A: oh no [laughter] 
+
+281.82 286.64 A: yeah you guys have a trend you're consistent at least [laughter] 
+
+284.52 288.35 B: i know [laughter] but ah let's 
+
+288.72 295.94 B: see all of my daughters live fairly close the furtherest one lives about a hundred miles away 
+
+296.25 297.40 B: um 
+
+297.69 301.92 B: so we don't get to see her as often but the rest of them live fairly close 
+
+299.43 302.97 A: yeah that's nice that you're all pretty close 
+
+302.29 307.32 B: and as far as family goes ah my wife and i live with our 
+
+307.23 317.99 B: oldest daughter and her husband and and our youngest daughter and her two kids 'cause she just recently separated from her husband and getting a divorce 
+
+309.52 310.41 A: (( oh wow )) 
+
+316.81 317.76 A: (( oh )) 
+
+318.09 320.28 B: ah they're living here too so 
+
+320.06 325.54 A: oh wow so [laughter] well that would that would be fun 
+
+320.79 322.74 B: so we have a big family here 
+
+322.78 324.27 B: [laughter] 
+
+325.09 329.40 B: [mn] all the way from let's see the youngest one is eight i guess 
+
+328.97 330.02 A: (( mhm )) 
+
+329.95 331.98 B: and 
+
+332.49 336.15 B: eight and nine and they're up to 
+
+336.67 338.41 B: i'm seventy so 
+
+337.88 339.14 A: wow 
+
+338.53 340.59 B: we got quite a span there 
+
+340.00 345.63 A: well good for you my grandparents are um they're about your age and 
+
+345.99 347.00 A: so 
+
+347.59 360.22 A: i you know i'm really close to my grandma and grandpa they actually just came out to visit a couple of weeks ago so that was nice my family's all over the place so [laughter] you don't get to see everybody 
+
+350.77 351.74 B: (( yeah )) 
+
+357.37 358.15 B: are they 
+
+358.32 366.19 B: well that's kinda good too because you can travel around that way and go visit them [laughter] [mn] we can't do that 
+
+360.92 363.43 A: yeah yeah it is good 
+
+363.91 366.77 A: it would be easier my husband yeah 
+
+367.04 371.64 A: my husband's still in school so it'll be easier when we have more money when he's done with school [laughter] 
+
+371.18 372.20 B: what do you do 
+
+372.21 378.09 A: um i'm an estimator i run an estimating department for a traffic signals supply company 
+
+377.55 378.67 B: (( oh really )) 
+
+378.69 381.31 A: kind of a random job [laughter] 
+
+380.42 382.93 B: uh-huh no that's a little different 
+
+382.29 383.71 A: yeah 
+
+383.27 383.83 B: (( [mn] )) 
+
+384.29 385.73 A: it's interesting 
+
+385.37 387.15 B: yeah i bet 
+
+386.27 387.27 A: [laughter] 
+
+387.51 389.20 B: i take are of 
+
+389.48 396.78 B: about two hundred and forty seniors i'm a senior myself but um working in a 
+
+391.76 393.13 A: oh wow 
+
+394.17 395.27 A: yeah 
+
+396.95 399.19 B: retirement community and so 
+
+399.12 404.49 B: there's a lot of a lot of family there too that you know that come in and you see 
+
+404.38 416.89 B: see how families react to their senior parents some come and visit them often and some of them seldom and some of them only come because they think they have to you know 
+
+413.55 414.53 A: yeah 
+
+416.27 417.62 A: oh 
+
+417.34 424.02 B: and so yeah so some of those people are really really lonesome 
+
+422.75 424.47 A: yeah 
+
+424.56 427.45 A: that's how my great grandpa he 
+
+427.33 440.75 A: ever since my grandma died he's just so lonesome and sad you know they'd been married like seventy five years and and just you know they were just best friends and sweethearts and it was just so hard for him when she 
+
+430.01 431.31 B: (( [mn] yeah )) 
+
+433.37 434.47 B: (( yeah [laughter] )) 
+
+441.20 448.70 A: he's he always says that you know whenever i see him he's always like oh i just don't have much to live for anymore and 
+
+448.15 455.76 B: (( yeah and what do you say to him you know it's pretty hard like oh yeah you got a lot well what you know [laughter] )) 
+
+449.86 451.52 A: i know 
+
+454.60 464.86 A: i know and he he won't leave he lives in this small town about he lives about three hours from my grandparents and he won't move up to the city he 
+
+464.76 469.94 A: wants to stay in the house that he built you know his house and he still does all the 
+
+469.95 477.15 A: the yard work and cleaning and cooking and it just breaks my heart he's all down there by himself 
+
+476.09 478.27 B: where where's that 
+
+477.81 481.67 A: he lives in this small town in utah called lowah 
+
+481.97 484.53 A: and my grandparents live in salt lake 
+
+484.63 485.91 B: oh 
+
+485.37 490.16 A: so yeah my mom lives in minneapolis minnesota 
+
+490.78 492.57 B: [laughter] goodness 
+
+492.43 495.65 A: so yeah everyone's just kinda all over [laughter] 
+
+493.50 494.06 B: (( [mn] )) 
+
+495.03 496.45 B: yeah 
+
+496.31 502.94 A: and my husband he's actually from here but his parents live in san diego california so 
+
+503.43 506.61 A: we've just got them all over the place [laughter] 
+
+506.10 509.58 B: how did you happen to hear about this program the fisher project 
+
+509.15 515.90 A: um from a friend on mine that i don't i don't know where she heard heard about it but 
+
+511.25 512.00 B: oh 
+
+513.35 513.91 B: (( [mn] )) 
+
+515.93 519.20 A: i thought sure i like to talk [laughter] 
+
+517.98 521.81 B: does she yeah [laughter] does she do mystery shopping by any chance 
+
+521.81 524.71 A: (( i think she does yeah )) 
+
+523.35 525.67 B: that's how she found out about it then 
+
+524.97 526.23 A: yeah 
+
+527.17 531.15 B: yeah yeah we do too we also do merchandising in stores 
+
+530.43 532.31 A: oh really uh-huh 
+
+531.53 534.73 B: you know we go into a store and we 
+
+535.40 536.24 B: (( ah )) 
+
+536.42 540.65 B: well my wife and i go together actually and we do 
+
+541.17 548.82 B: ah jewelery and sunglasses and we just stock the shelves and the towers and the racks and things you know 
+
+548.11 549.13 A: uh-huh 
+
+549.60 555.91 B: [mn] for the stores and we do like six different fred meyer stores and two k-mart stores 
+
+555.62 556.57 A: huh 
+
+556.21 562.16 B: we're just on a part time basis maybe ten twelve hours a week or so but 
+
+558.25 559.54 A: yeah 
+
+561.52 564.70 A: that must and so they you heard about it through them 
+
+564.64 568.01 B: ah yeah because the company that ah 
+
+568.82 572.34 B: um not the company we work for but the company that ah 
+
+572.75 575.93 B: that found us the merchandising job also 
+
+576.16 579.07 B: has us do some mystery shopping jobs you know 
+
+578.87 579.80 A: huh 
+
+580.21 586.90 B: mystery shopping is kinda interesting but all kinds of businesses have mystery shoppers you know 
+
+586.09 587.34 A: yeah 
+
+587.31 589.24 B: i mean it's not just 
+
+589.44 596.22 B: restaurants and things like that we do apartment shops you know where we go in and pretend like we were renting an apartment 
+
+590.43 591.84 A: yeah 
+
+595.84 596.89 A: uh-huh 
+
+596.40 599.24 B: and then evaluate the 
+
+598.92 599.89 A: the place and 
+

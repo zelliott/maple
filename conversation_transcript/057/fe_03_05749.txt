@@ -1,0 +1,275 @@
+# fe_03_05749.sph
+# Transcribed by BBN/WordWave
+
+0.37 2.45 B: [noise] hi i'm dave 
+
+1.72 4.12 A: hi i'm mark from philadelphia 
+
+3.66 4.98 B: how's it going 
+
+4.41 5.84 A: all right how are you 
+
+5.32 6.70 B: pretty good 
+
+6.10 7.55 A: (( yeah )) 
+
+7.03 9.16 B: yeah are you a student 
+
+9.07 12.64 A: no a former student but no longer and you 
+
+11.72 12.81 B: no longer 
+
+13.14 16.87 B: all right i'm a student in uh chapel hill down in north carolina 
+
+16.28 17.27 A: right 
+
+17.16 20.56 B: um [noise] it's not a bad topic 
+
+19.79 21.77 A: undergraduate graduate or 
+
+21.28 24.16 B: uh yeah undergrad senior year 
+
+24.04 24.91 A: (( uh )) 
+
+25.61 26.56 B: (( [noise] )) 
+
+25.67 26.47 A: (( oh )) 
+
+26.50 31.74 A: um when i was in college which was about ten years ago computers were just starting to uh 
+
+32.33 42.31 A: make it's way i think my junior year which was ninety three i had my first email address but there were only so many people that actually had it 
+
+33.44 34.64 B: right 
+
+36.37 37.73 B: mhm 
+
+40.44 41.35 B: right 
+
+42.41 46.15 A: so and really a computer was just word processing and nothing else 
+
+45.59 47.45 B: right it's really 
+
+46.42 48.64 A: so i would be interested to hear 
+
+48.99 57.13 B: yeah um [noise] well my freshman year was the first year that all freshmen had to have a computer 
+
+56.73 58.02 A: (( right [noise] )) 
+
+57.08 61.47 B: and if you didn't get one somewhere else you had to get it through the school which 
+
+61.42 64.65 B: most students did especially because uh 
+
+64.59 78.94 B: there were lots of educational loans and stuff like that they were given for 'em specifically so a lot of people got 'em for free or got 'em reduced or whatever and most people got we uh we basically had to all have laptops [noise] um 
+
+66.77 68.60 A: (( mhm [noise] [noise] mhm )) 
+
+79.22 91.64 B: and how much we use them really varies um the math faci- and the math and science departments now at most major universities use them a lot because chemistry labs and stuff like that can now be 
+
+91.62 94.79 B: more automated like instead of having to 
+
+94.81 105.22 B: take guestimations of amounts of liquid and stuff like that there are programs that can be run into the laptop and record the amounts more specifically um 
+
+98.64 99.62 A: right 
+
+105.32 110.13 B: there're also far more computer labs on campus than there used to be um 
+
+110.67 121.70 B: there's one in almost every large dorm on campus there are eight or nine within different libraries and buildings nearly every department has one 
+
+121.75 127.20 B: or two for t._a.s professors and students in that department 
+
+126.94 127.81 A: (( yeah [mn] )) 
+
+127.43 135.47 B: um we use them every day uh the first thing you do at orientation is get your your password which lets you into 
+
+135.55 140.75 B: online classroom websites which most classes have a website of some type 
+
+140.72 151.34 B: um email which is basically a mandatory communication device now anything that the university needs to let us know they let us know through email um 
+
+151.42 157.85 B: all of our grading is now online all of our class registration is now online 
+
+158.51 159.55 B: um 
+
+159.67 162.79 B: there's very little that's not billing 
+
+163.13 171.54 B: there there is some like campus mail from occasion um most things like class registration can be done over the phone 
+
+171.38 172.27 A: right 
+
+171.66 177.28 B: but essentially everything is handled through the web um our network 
+
+176.33 182.87 A: i actually did go down to u._n._c. a few years ago a friend of mine was getting his graduate degree there i did see the big labs they had and stuff 
+
+180.37 181.28 B: mhm 
+
+182.62 192.95 B: yeah there are there are some downsizing of that now that they really peaked last year or the year before that because now that every student has one 
+
+183.29 184.16 A: (( so uh )) 
+
+189.52 190.44 A: uh-huh 
+
+192.87 203.10 B: with a uh a t. three network computer line in their room the the use of computers on campus is r- is cutting down 
+
+196.07 197.04 A: right 
+
+202.93 210.88 B: i think they are planning to keep the majority of small labs that don't have attendants that are used by professors and employees 
+
+210.80 221.23 B: but the majority of the student run labs are being cut down specifically because printing is now a huge issue on campuses because yeah there are so many 
+
+214.55 215.42 A: (( yep [mn] )) 
+
+218.28 219.85 A: oh yeah the paper 
+
+221.53 225.28 B: [noise] there are so many online documents [mn] that are um 
+
+223.63 224.54 A: uh-huh 
+
+225.40 229.57 B: like nearly any novel or uh 
+
+230.01 244.42 B: text books almost anything can be found online and so there's a huge issue with students printing out hundreds and hundreds of pages of documents on a regular basis i know that our some of our computer labs print ten thousand pages an hour 
+
+243.92 245.29 A: [noise] wow wow 
+
+244.68 247.55 B: and do so on a regular basis 
+
+247.58 248.57 B: so 
+
+248.25 249.77 A: kills a lot of trees 
+
+249.37 252.44 B: yeah that's a that's a lot of lot of trees 
+
+252.13 258.80 A: actually when i went to law school my law school was one of the first to require each person to have a laptop but even then 
+
+255.93 257.23 B: mhm 
+
+259.01 270.14 A: they were still mainly using it just for word processing the web was kind of new there weren't very many legal websites out there so there wasn't much to do a couple of professors made their own websites but again [sigh] 
+
+263.11 264.43 B: (( right [noise] [noise] )) 
+
+270.20 272.39 A: there was nothing there special about them 
+
+271.76 273.51 B: right we 
+
+272.53 280.08 A: now my brother in law has got to go to college he'll be a freshman next year and we're dealing we're going to buy him a computer so he can talk about what he wants 
+
+275.88 277.15 B: mhm 
+
+280.33 283.24 A: and things he needs there's so much more than we ever needed 
+
+282.48 289.33 B: [noise] yeah we definitely uh i don't know i don't really like the laptops my little brother went to state 
+
+286.82 287.61 A: right 
+
+289.37 298.53 B: and they didn't have an issue with desktops i think they even encouraged them so his computer is ten times what mine is and didn't even cost as much 
+
+296.56 297.28 A: (( mm )) 
+
+298.29 304.10 A: [noise] i like the laptop 'cause i like to take notes in class a what at the library or at the park so 
+
+298.57 299.63 B: (( but um )) 
+
+301.47 302.46 B: yeah 
+
+303.77 304.86 B: yeah 
+
+304.24 306.72 A: it allowed for a lot more flexibility [mn] 
+
+306.09 316.90 B: that's true i like to i like to write my notes because i like to uh make a lot of like gestures and like drawings and circle things and stuff depending on what kind of class i'm taking 
+
+313.59 314.44 A: uh-huh 
+
+316.83 317.93 B: so 
+
+317.69 332.44 B: a lot of that stuff i could do but the way i've had a lot of lecture classes in history and political science that are very high paced and i'd never be able to take the notes the way i want to i'm also just too nervous t- to carry mine around because i'm just 
+
+331.23 333.06 A: right 
+
+332.55 338.47 B: it rains so often on campus and stuff like that that you never know if you're going to do some damage to it so 
+
+338.41 348.04 A: i don't think i also guess that email would allow you to talk to professors a lot easier than back in my day when you have to find them at their phone or at uh at their office 
+
+338.57 339.48 B: (( i don't know )) 
+
+345.67 358.24 B: [noise] right yeah office hours are a little bit less of a deal they they all have them but [noise] they're not there at their actual assigned times i think a lot more often than they used to probably because 
+
+350.86 352.13 A: (( right [noise] )) 
+
+358.33 366.36 B: a couple of students just after class tell him they have an ordeal and they'll talk to it [noise] or email 'em about it and so they won't go their office hours assuming that no one needs anything 
+
+366.30 375.39 B: so it it is helpful it still we mostly use 'em like i mostly use mine for word processing i try to keep games and stuff like that off of it 'cause that's a distraction 
+
+375.04 376.21 A: (( mhm mhm )) 
+
+375.46 388.50 B: from work and mostly w- but but there are online like certain classes like introductory classes that are taught the same way every semester like info foreign languages often have quizzes or homework that you do online 
+
+388.70 401.16 B: and i do have like a a little website that i built one day just out of because we have space a- at school to do it and i can put documents on there so that wherever i am if i need to look at something for class 
+
+395.96 396.77 A: right 
+
+401.03 411.82 B: or if i've made like a study guide and i want my friends to be able to get it it's a lot easier than emailing it out to everybody or just making hard copies and hoping i'll run into somebody so 
+
+411.50 416.67 A: i think in retrospect what i'm most jealous about that if you want to research something you could sit at home and do it 
+
+416.38 417.96 B: oh yeah definitely 
+
+416.74 419.56 A: you know we had to run to the library and uh 
+
+419.59 423.68 A: you know make sure the library was open and all that junk 
+
+421.79 431.83 B: [noise] right yeah we we basically now just use the the libraries are just a big quiet space that that's pretty much all they function as no one 
+
+427.87 428.84 A: (( yeah uh-huh )) 
+
+431.94 435.77 B: i've checked out books but only two or three times 
+
+435.57 450.30 B: and most of my friends have never actually checked out a book ever because even if there isn't an online copy of something [noise] most professors know that the two or three texts that they're not going to make you buy but it might be helpful 
+
+450.19 462.65 B: they'll scan on the pages that are going to be helpful and put it on e-reserve so you do have to go to the library but it's just a bound you know set of pages [noise] that you can check out so 
+
+462.66 474.03 B: even then you don't actually have to go find the book hunt it down and check it out and keep it it'll usually be limited to the pages that you need and they can make notes on them or whatever if they need to so 
+
+474.03 487.97 B: yeah it definitely has changed the way research gets done you can definitely do a lot of your pre research without ever leaving the room and only going to make a couple of copies of the pages that you really need later on in the process 
+
+481.28 482.16 A: (( [noise] yeah )) 
+
+488.17 490.31 A: that's pretty amazing to me [laughter] 
+
+490.28 504.61 B: yeah there definitely freshman year simple papers for english classes and stuff you could definitely do without ever leaving the room and have multiple sources in different languages and everything if if need be so 
+
+498.10 498.99 A: right 
+
+504.80 519.09 B: there definitely is some huge things as far as that goes and information sharing with other universities as far as like duke and n._c. state and u._n._c. all share library resources and you know we don't 
+
+507.64 508.44 A: (( [noise] )) 
+
+517.76 524.21 A: [mn] you actually will say duke's name without you'll say duke's name without cursing or anything like that okay 
+
+519.99 521.69 B: (( hm )) 
+
+522.59 524.95 B: yeah you can uh 
+
+525.06 535.78 B: [noise] yeah if we need a book and only duke has it i can request it online when i find out they're the only one that has it and they'll send it to our library for me to get in the next day or two 
+
+528.12 528.90 A: (( [mn] mm )) 
+
+535.71 540.83 B: so stuff like that being able to kind of double and triple your resources very simply 
+
+540.49 541.62 A: (( [noise] mhm )) 
+
+540.74 552.45 B: just by connecting your library search engines and stuff like that that that's made a big difference i think as far as how much [noise] research have you done and how much collaboration there is between the two universities 
+
+552.07 553.73 A: (( [noise] mhm )) 
+
+552.55 559.33 B: there are projects that have cropped up especially between caroline and dukes and we really are only twelve or thirteen miles away 
+
+559.47 566.58 B: that now there are a lot of programs where students ride back and forth on buses taking classes at each taking online classes at the other 
+
+566.56 578.27 B: or using an t- an advisor at another school to help them with a project if no one is quite as specialized in that area at our school but someone is somewhere else 
+
+577.79 578.70 A: (( [noise] [noise] mm )) 
+
+578.99 590.29 B: so there's a lot you don't have to transfer just to take classes at another school you know you can you can do it on the web or you can do it one day a week and it's a lot easier to make that happen now 
+
+586.62 587.62 A: (( [noise] right )) 
+
+590.24 599.78 B: with classes having websites online and so a a student taking a class at duke could access most of the class materials from their own room 
+

@@ -1,0 +1,511 @@
+# fe_03_03210.sph
+# Transcribed by BBN/WordWave
+
+0.69 1.88 A: hello 
+
+1.82 4.59 B: [noise] hello yes my name is zairy 
+
+4.94 6.63 A: hello i'm i'm marty [noise] 
+
+6.50 8.01 B: (( [noise] [noise] oh hi marty [noise] )) 
+
+9.75 11.70 B: do you have any pets 
+
+11.02 13.31 A: [laughter] no i don't do you 
+
+13.04 16.04 B: yes i do have six six dogs 
+
+15.67 19.48 A: really [laughter] well what kind of dogs are they 
+
+16.63 18.53 B: (( yes [laughter] )) 
+
+19.14 23.91 B: okay i have six mini dachshunds you know those long ones 
+
+23.29 25.46 A: oh yeah yeah a weiner dog 
+
+24.87 27.73 B: yes [laughter] 
+
+25.79 29.09 A: [laughter] oh i like those 
+
+28.34 30.32 B: (( [noise] oh you like those )) 
+
+29.68 31.83 A: yeah i've got a friend who has one 
+
+31.14 33.58 B: (( [noise] oh yes and where do you )) 
+
+33.59 34.79 A: what's that 
+
+34.17 35.96 B: (( live [noise] where do you live )) 
+
+35.35 37.60 A: oh i live in uh southern minnesota 
+
+37.40 40.44 B: oh minnesota i live in brooklyn new york 
+
+39.85 43.47 A: oh really well we live a long way from each other then 
+
+40.77 41.77 B: (( yes [noise] )) 
+
+42.95 51.80 B: yes i know [laughter] yes so you don't like i mean but you like pets you like like beside dogs what other pets do you like 
+
+44.43 45.59 A: [laughter] 
+
+51.45 57.04 A: oh yeah i mean i i i like dogs i like cats um i'm not a i don't like birds 
+
+56.66 58.38 B: (( [noise] [noise] you don't like birds )) 
+
+57.73 62.02 A: no don't like birds ah i'd i think they stink 
+
+58.92 60.36 B: why [noise] 
+
+62.20 63.66 B: you think so 
+
+63.24 67.67 A: yeah i don't like them and they always uh you know i got bit by a bird one time 
+
+67.10 68.46 B: (( really )) 
+
+67.88 69.34 A: yeah 
+
+68.60 70.60 B: [noise] oh my god 
+
+69.72 74.85 A: [laughter] i always think it's kind of strange when people have birds as pets 
+
+74.54 81.38 B: (( oh well i i do like you know all kind of pets you know all animals all kind of animal i do like them [noise] [noise] )) 
+
+78.39 79.34 A: uh-huh 
+
+81.16 84.51 A: i see well why do why do you have dachshunds 
+
+84.50 92.99 B: (( well i have dachshunds because i don't know i they they seemed you know very very cute very i don't know they they adorable you know so )) 
+
+92.07 93.00 A: uh-huh 
+
+93.01 100.55 B: (( yes uh i don't know why [laughter] [noise] well you know when my sister gave me you know that first mini dachshund [noise] )) 
+
+100.60 109.01 B: so then i my my my my other sister bought me another mini dachshund so i used to you know to breed them 
+
+108.78 110.21 A: oh i see 
+
+109.24 114.39 B: [noise] so now i have six of them [noise] and i have three cats also 
+
+111.52 113.31 A: [laughter] 
+
+114.30 115.97 A: and you have three what 
+
+114.95 116.48 B: (( [noise] cats )) 
+
+117.18 118.59 A: three what 
+
+117.92 121.35 B: (( [noise] cats cats cats yes cats yeah three )) 
+
+118.90 122.24 A: oh cats cats cats yeah yeah yeah yeah okay 
+
+121.89 123.84 B: (( yeah you and you don't like cats )) 
+
+123.98 125.88 A: oh i like cats sure 
+
+125.24 126.93 B: [noise] yeah 
+
+126.32 128.12 A: i got no problem with cats 
+
+127.76 129.52 B: no [laughter] 
+
+128.53 130.12 A: i just don't have any 
+
+130.92 132.91 B: [noise] oh i see and 
+
+132.31 135.16 A: yeah no pets for me but uh 
+
+135.37 136.51 A: anyway 
+
+135.97 137.97 B: tell me something minnesota [noise] 
+
+138.05 140.62 B: it's it's more cold than new york right 
+
+140.27 142.93 A: it's been cold here too yeah 
+
+142.35 145.68 B: (( yeah because over here now it's like a springtime )) 
+
+146.73 149.74 B: so i- it's it's nice down here in new york 
+
+149.37 151.85 A: [mn] well here it's not so nice it's 
+
+152.02 160.80 A: it should be getting nice but uh it has been it's actually been cold i mean yesterday it was about fifty degrees and rainy 
+
+153.62 154.98 B: yeah 
+
+160.91 164.82 B: [noise] oh over here was raining also all day long 
+
+164.48 165.67 A: yeah 
+
+165.09 166.54 B: yeah [noise] 
+
+165.89 168.45 A: but and you know they had tornados 
+
+168.47 170.80 A: (( uh in iowa and missouri a )) 
+
+170.43 171.89 B: oh i see 
+
+171.29 174.73 A: couple of days ago there's some some actually some pretty bad tornados 
+
+174.16 176.79 B: oh i see and you never been in new york before 
+
+176.54 178.56 A: yeah i've been to new york a couple of times 
+
+177.89 179.84 B: (( oh yes and you like it )) 
+
+179.33 182.38 A: oh yeah sure i i never went to brooklyn though 
+
+182.20 185.16 B: (( you never well it's very close to manhattan you know )) 
+
+184.59 185.78 A: sure sure yeah 
+
+186.48 189.91 A: yeah [laughter] yeah well i i always enjoy i always enjoy going to new york 
+
+189.54 190.96 B: (( oh yeah )) 
+
+190.36 192.66 A: yeah how about you have you ever been to minnesota 
+
+192.09 195.55 B: (( no but i do have a friend who lives there [noise] )) 
+
+195.05 196.84 A: uh-huh where in minnesota 
+
+196.55 205.75 B: well i don't know exactly where in minnesota but you know she is i know that she's lived there and one time she invited me to go over there but because of my pets 
+
+206.08 220.98 B: [noise] i couldn't travel because you know even though i drive you know by rights and no i don't know if my friend can accept me you know with all my pets i just don't know it's going be a like a a hard time for them [noise] so that's why i didn't travel you know with all my pets 
+
+217.56 218.67 A: mhm 
+
+220.72 225.92 A: sure sure well it's a long i've driven from minnesota to to new york before 
+
+225.47 227.99 B: oh yes and how many hours is that 
+
+227.50 228.66 A: man it's 
+
+228.88 229.44 A: (( [mn] )) 
+
+229.83 232.65 A: it's got to be close to sixteen or eighteen hours 
+
+232.07 236.94 B: oh my god because i i drive sometimes to florida to miami 
+
+236.65 237.69 A: uh-huh 
+
+237.00 239.67 B: [noise] but it's like twenty four hours [noise] 
+
+239.05 240.11 A: oh boy 
+
+240.07 242.70 B: yes twenty four hours straight 
+
+241.99 247.70 A: mhm well you probably go through a lot more cities on the way to miami than you yeah and you're going to 
+
+242.74 243.62 B: yes 
+
+246.82 249.94 B: oh yes of course yes i've been through 
+
+250.07 259.21 B: (( um so many different places because i i have to pass you know like delaware new jersey [noise] uh um virginia )) 
+
+259.16 272.86 B: (( maryland um um what else what else what else what else north carolina south carolina georgia and then florida [laughter] oh [noise] )) 
+
+267.26 268.37 A: (( and you never been )) 
+
+268.63 269.90 A: ((  )) 
+
+272.52 275.22 A: miami i've never been to been to miami but i've been to orlando 
+
+275.05 276.55 B: oh 
+
+275.34 277.55 A: and tampa i've been to tampa too 
+
+277.32 280.29 B: (( and tell me something do you speak spanish )) 
+
+280.00 284.53 A: uh no no no i i took uh i took a couple of years in high school but 
+
+284.58 286.06 A: but i don't know much 
+
+285.56 289.22 B: [noise] [noise] oh i see because i'm from south america ecuador 
+
+288.92 290.52 A: oh yeah you're from ecuador 
+
+289.93 291.58 B: yes i'm from ecuador 
+
+291.14 293.40 A: i'll be how long you been in the united states 
+
+292.98 297.46 B: (( well i was here since i was nine years old [noise] yes [noise] )) 
+
+295.83 297.03 A: mhm 
+
+297.99 299.48 A: so how old are you now 
+
+299.22 306.27 B: oh [laughter] i'm thirty three now but i don't look that old see 
+
+300.05 301.39 A: [laughter] 
+
+303.26 304.48 A: uh-huh 
+
+305.49 307.12 A: oh of of course not 
+
+306.72 308.31 B: (( and how old are you )) 
+
+307.76 309.16 A: i'm only twenty eight 
+
+308.96 310.40 B: (( [noise] oh twenty eight )) 
+
+310.02 311.47 A: yeah yeah 
+
+310.86 316.44 B: oh well that's good you kind you you sound very young younger than that age 
+
+315.87 317.15 A: well ye- 
+
+316.55 321.13 B: yes you sound like i don't know like twenty two twenty one something like that 
+
+320.32 322.76 A: [laughter] well i'm very energetic 
+
+322.28 324.35 B: yeah maybe because of that 
+
+323.92 326.37 A: [laughter] 
+
+325.17 328.41 B: [noise] mm yes and your name again what is your name again 
+
+327.79 328.95 A: i'm marty 
+
+328.51 329.74 B: oh marty 
+
+329.44 331.64 A: yeah marty how about you 
+
+330.39 333.24 B: oh my name is zairy zairy 
+
+332.95 334.00 A: uh-huh 
+
+333.39 339.79 B: sidey well my real name is zaira but every everybody calls me zairy [noise] [noise] yes 
+
+336.95 338.50 A: (( mm )) 
+
+339.23 342.06 A: (( s. is it s. a. i. or )) 
+
+341.37 343.69 B: no that's z like zebra 
+
+343.47 344.79 A: oh i see 
+
+344.01 347.28 B: (( [noise] a. i. r. y )) 
+
+346.93 348.01 A: uh-huh 
+
+347.49 348.65 B: (( zairy )) 
+
+348.17 349.43 A: zairy okay 
+
+348.80 349.72 B: yes 
+
+349.57 352.18 A: (( i see mm )) 
+
+350.59 353.49 B: (( yes and you live alone do you live with who you live with )) 
+
+353.21 355.83 A: oh i got a wife no kids but one wife 
+
+355.14 357.23 B: [noise] oh 
+
+356.68 358.72 A: been married for seven years 
+
+358.14 359.71 B: (( oh for seven years [noise] )) 
+
+359.31 360.45 A: yep 
+
+360.11 365.00 B: well that's good and how you find out about this program or this thing [noise] 
+
+363.90 370.86 A: well i i was in college i minored in linguistics and my and my and my brother majored in linguistics 
+
+367.79 369.20 B: oh 
+
+370.73 372.19 B: (( [noise] oh )) 
+
+370.96 374.11 A: and so we had heard about it in at school i 
+
+374.07 382.08 B: oh well i have auditioned um in the newspaper i was reading you know the um the village voice from manhattan 
+
+381.51 382.97 A: yeah yeah mhm 
+
+382.31 388.50 B: yes so then i i saw that and then i to the i i sent an email 
+
+388.17 389.36 A: mhm 
+
+388.80 391.76 B: (( so then same day they called me very soon )) 
+
+391.68 395.57 A: uh-huh how lo- how many phone calls have you done for the program 
+
+393.91 399.23 B: (( [noise] okay now this is like the since yesterday this is the )) 
+
+399.24 400.57 B: fourth time 
+
+400.17 402.77 A: uh-huh this is number two for me 
+
+400.81 401.64 B: (( yes )) 
+
+402.10 406.85 B: oh that's number two for you this number four for me [laughter] 
+
+404.37 405.37 A: mhm 
+
+406.52 409.27 A: yeah the last time i talked to guy from texas 
+
+408.95 410.65 B: (( oh from texas )) 
+
+410.34 411.54 A: yeah 
+
+411.00 417.05 B: oh the other time the other day yesterday i talked to someone from twice from philadelphia 
+
+417.68 421.72 B: (( [noise] and another one from where he was from boston massachusetts )) 
+
+421.68 422.62 A: mhm 
+
+422.45 423.19 B: (( yes )) 
+
+423.49 426.90 B: so but i hope that you can you can buy a dachshund 
+
+423.60 424.18 A: (( yeah )) 
+
+426.93 431.29 A: [laughter] well my my friend who has one it's a puppy 
+
+427.46 428.93 B: [laughter] 
+
+430.90 432.30 B: (( oh it's a puppy )) 
+
+431.93 435.92 A: oh and it's a it's very very small i mean oh 
+
+432.51 433.46 B: (( oh )) 
+
+434.97 438.76 B: (( my god yeah they're so long and they have long ears )) 
+
+438.37 443.98 A: yeah yeah it is a great little dog very ex- very excitable little dog too you know 
+
+440.36 442.02 B: (( yeah i know )) 
+
+443.10 449.29 B: yeah i know i have two two they're black and the other ones the other four are red 
+
+448.85 450.36 A: oh yeah yeah my 
+
+449.49 452.95 B: yes two male and two fe- um four females yeah 
+
+452.32 453.35 A: uh-huh 
+
+453.57 455.92 A: so do you have a big house then or something or wh- 
+
+455.04 460.12 B: (( no i live in an apartment building yes i apartment )) 
+
+457.35 458.54 A: (( oh yeah )) 
+
+459.71 463.67 A: [laughter] well you've got a lot of lot of dogs in one little apartment 
+
+460.51 461.50 B: yes 
+
+462.76 469.53 B: yes i know i know but well the the landlord he doesn't say anything so it's okay for me 
+
+469.15 473.08 A: uh-huh now do you have to walk them all at the same time then 
+
+469.68 470.87 B: (( to have them )) 
+
+472.82 478.96 B: sometimes yes but most of the time my boyfriend take them away you know to walk them 
+
+478.51 479.70 A: oh i see 
+
+479.50 480.41 B: (( yes )) 
+
+480.47 486.05 A: yeah i always like to see the people in the city who have eight or nine dogs on one big leash you know 
+
+485.58 489.61 B: (( yeah i know and sometimes i take them to the park )) 
+
+489.47 490.36 A: uh-huh 
+
+490.00 493.48 B: (( [noise] to central park and to prospect park )) 
+
+493.48 494.82 A: prospect park 
+
+494.15 495.95 B: (( [noise] prospect park in brooklyn yes )) 
+
+495.56 496.43 A: uh-huh 
+
+496.45 498.84 A: i've heard of that i've never of course i've never been there but 
+
+498.18 501.57 B: (( yeah that's a big park well not that big like )) 
+
+501.97 504.99 B: (( the [noise] like the central park but it's it's it's pretty big [noise] )) 
+
+504.76 506.12 A: mhm 
+
+505.83 506.74 B: (( yes )) 
+
+507.25 508.57 A: mm [sigh] 
+
+508.39 513.20 B: (( uh what do you for living what kind of of work you do or you just going to college )) 
+
+510.28 510.96 A: (( uh )) 
+
+512.49 514.57 A: i'm no i've finished college i'm a lawyer 
+
+514.38 517.97 B: (( oh you're a lawyer oh that's good )) 
+
+515.59 516.68 A: (( yep [noise] )) 
+
+517.33 518.49 A: yeah how about you 
+
+518.33 522.52 B: well i'm a travel agent yes i work with my sister 
+
+519.74 520.84 A: (( oh yeah )) 
+
+522.54 523.93 A: you work with your sister 
+
+523.36 525.85 B: (( with my sister she have a travel agency )) 
+
+525.42 526.80 A: mhm 
+
+526.17 527.28 B: mhm 
+
+526.94 531.59 A: how's the how is the travel i suppose no- nobody's going to asia right now 
+
+531.41 541.45 B: no now now the li- almost nobody like to travel now at this time you know because of the [noise] what happened on the world trade center and the war and things like that [noise] 
+
+540.48 542.25 A: yeah 
+
+542.45 545.95 A: yeah well that's too bad i i don't i don't think that it's 
+
+546.22 549.23 A: i don't know i think the people shouldn't be afraid to fly 
+
+546.55 547.84 B: (( [noise] yes )) 
+
+548.65 551.74 B: i know and when was the last time when you was here in new york 
+
+551.85 553.97 A: i was there in uh 
+
+554.14 560.67 A: let's see [sigh] it would have been august of two thousand and well august of two thousand 
+
+560.06 561.31 B: [noise] oh yeah 
+
+560.69 563.99 A: so i i w- i haven't been back since the world trade center 
+
+563.50 564.96 B: oh no [noise] 
+
+564.46 566.12 A: no haven't been back 
+
+565.68 579.91 B: oh well that day of the world trade center i was exactly on a plane i was ready to go to miami but then i have to i i nobody can go nowhere because you know that happened so i have to walk from the airport to my house [noise] 
+
+576.30 577.23 A: uh-huh 
+
+579.66 580.91 A: oh really 
+
+580.38 584.94 B: yes because all the city was stopped you know there was no traffic no nothing 
+
+584.50 586.81 A: [laughter] how far was that 
+
+586.26 588.64 B: (( it was like thirteen miles )) 
+
+588.31 589.58 A: man 
+
+588.91 593.07 B: (( yeah [laughter] )) 
+
+589.99 591.01 A: [laughter] 
+
+591.96 593.52 A: that's a long way 
+
+593.29 595.38 B: i know yes 
+
+594.63 597.68 A: oh that would have been that wouldn't that would not have been fun 
+
+597.05 599.89 B: (( yeah and of course now now everybody was afraid )) 
+

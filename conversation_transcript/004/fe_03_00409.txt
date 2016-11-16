@@ -1,0 +1,542 @@
+# fe_03_00409.sph
+# Transcribed at the LDC
+
+1.08 1.48 A: hello 
+
+1.12 1.55 B: hello 
+
+2.61 4.07 A: hi i'm melissa 
+
+4.05 5.02 B: hi this is ken 
+
+6.87 7.75 B: did you get the topic 
+
+8.26 10.50 A: yeah computers and education 
+
+10.31 12.00 B: sure go ahead is this your first call 
+
+12.53 13.00 A: yes 
+
+13.12 13.95 B: yeah me too 
+
+14.39 15.74 B: and my wife's doing it as well 
+
+14.62 15.01 A: okay 
+
+15.88 17.23 A: oh really 
+
+17.42 18.71 A: um where do you live 
+
+18.87 19.75 B: ah colorado 
+
+20.27 21.26 A: oh wow 
+
+21.48 22.92 A: okay i'm in philadelphia 
+
+23.18 25.36 B: oh okay so we're a pretty good ways apart huh 
+
+25.42 26.93 A: yeah 
+
+26.75 29.63 B: yeah and i think she had the same topic today as a matter of fact 
+
+30.52 31.22 A: oh 
+
+31.94 32.37 B: so 
+
+32.27 35.34 A: cool okay so computers and education 
+
+35.45 36.01 B: exactly 
+
+35.45 36.69 A: um 
+
+37.18 39.94 A: i'm actually a computer science student 
+
+40.12 40.90 B: really 
+
+41.02 42.35 B: i have a b._s. in computer science 
+
+41.11 41.61 A: yeah 
+
+42.85 43.51 A: oh 
+
+44.77 46.33 B: that's weird yeah 
+
+46.24 47.91 A: so 
+
+47.31 50.08 B: i'm sure we should we probably share the same views 
+
+50.69 52.62 A: probably that it's good 
+
+52.33 53.07 B: yeah true 
+
+54.22 54.77 A: hm 
+
+55.18 55.74 B: well 
+
+55.98 56.90 B: that's um 
+
+57.79 58.88 B: see because when i was in 
+
+60.10 62.28 B: elementary school middle school even high school 
+
+62.70 63.44 B: you know we didn't 
+
+64.05 66.96 B: you know we didn't have it that was because i graduated in high school in eighty eight 
+
+67.48 68.07 A: right 
+
+67.99 70.10 B: so computers back then were apple two e.'s 
+
+70.52 71.89 B: you know i grew up on a (( )) 
+
+72.02 73.12 B: foreign so now 
+
+74.28 75.04 B: ah 
+
+75.59 81.55 B: of course it's important i mean it's everywhere you go it's in the work place and of course i'm a little bias i work for i._b._m. in colorado so 
+
+82.70 83.04 B: so i 
+
+83.23 83.95 B: (( )) 
+
+84.24 85.49 B: computers have a ah 
+
+85.67 86.61 B: place in education 
+
+87.08 87.99 B: absolutely 
+
+89.23 90.01 B: so 
+
+90.55 92.00 B: i mean if you don't if you don't know it 
+
+92.67 93.41 B: you know what i'm saying 
+
+93.66 96.06 B: it's part of your everyday like so yeah i 
+
+93.82 94.41 A: yeah 
+
+96.55 97.23 A: yeah 
+
+97.05 97.85 B: of course i agree 
+
+98.29 101.67 A: i think since computers are involved in so many things 
+
+101.79 102.22 B: mhm 
+
+102.13 102.94 A: ah 
+
+103.65 107.60 A: even if you are not directly doing something with computers 
+
+108.32 110.27 A: you wouldn't normally think of it that 
+
+110.42 112.07 A: you would probably come across it 
+
+112.21 113.07 A: so 
+
+112.24 113.07 B: right right 
+
+113.45 115.06 A: like the younger you learn it the 
+
+115.27 115.81 A: more like 
+
+116.88 119.75 A: you know well you can adjust and stuff 
+
+118.94 122.29 B: that's yeah because for me i can i remember back 
+
+122.93 125.89 B: i can i'm not old old i'm in my low thirties but 
+
+126.05 126.47 A: uh-huh 
+
+126.59 127.71 B: i can remember 
+
+128.33 129.11 B: no having 
+
+129.79 130.95 B: computers you know what i'm saying 
+
+131.21 131.75 A: yeah 
+
+131.62 135.28 B: now we have let me see i'm just looking at my computer room one 
+
+135.70 136.52 B: two three 
+
+136.63 137.04 B: four 
+
+137.34 137.96 B: five 
+
+138.16 139.44 B: just in my computer room 
+
+139.59 140.59 A: wow 
+
+140.09 144.55 B: and kim has one and i've a work laptop so we've got seven or eight in the house 
+
+145.27 147.39 B: so i mean with out email i would be lost 
+
+148.00 148.64 A: right 
+
+148.07 149.70 B: so of course my mom and dad 
+
+150.49 158.27 B: now my dad tries to be a geek but he's not but my mom my mom's not she's got a computer so she's learning i think the older you are 
+
+155.06 155.95 A: yeah 
+
+158.46 159.33 B: you know the less 
+
+159.60 161.47 B: i don't know well i don't know that's that's kind of 
+
+162.49 164.17 B: being stereotypical but 
+
+163.88 164.52 A: right 
+
+164.47 165.82 B: at least for my folks it is 
+
+166.48 169.14 A: yeah for my mom it's the same like 
+
+166.87 167.26 B: so 
+
+170.37 172.42 A: like she tries to learn but 
+
+172.59 175.31 A: she doesn't pick up that quickly and like 
+
+174.52 175.22 B: exactly yeah 
+
+175.48 176.11 B: yeah that's 
+
+175.52 178.27 A: maybe some other people can but just 
+
+178.45 179.83 A: i don't know she can't 
+
+179.09 182.62 B: well that's that's the way my mom is she's a little she's a little scared of it and i have ah 
+
+180.81 181.43 A: yeah 
+
+183.12 187.11 B: i have a niece who is probably creeping up on three and so you know 
+
+187.36 188.84 B: so she's being brought up 
+
+189.74 191.18 B: on computers do you know what i'm saying 
+
+191.42 192.04 A: right 
+
+191.43 193.21 B: so she she's around it everyday 
+
+194.30 198.14 B: so by the time she gets you know a couple more years two or three more years whatever she's in 
+
+198.50 200.35 B: first grade you know she's eh 
+
+200.68 201.81 B: you know she'll know the basics 
+
+202.31 205.53 B: i'm assuming you know she know what it is and how to navigate and 
+
+202.42 203.12 A: right 
+
+205.80 207.80 B: at least try to find out where the games are 
+
+208.21 208.55 B: so 
+
+208.29 208.80 A: right 
+
+209.38 211.57 B: yeah so i agree it has it's place in 
+
+211.96 213.86 B: in in education obviously 
+
+213.98 214.29 B: so 
+
+214.65 215.19 A: yeah 
+
+215.62 216.20 B: ah 
+
+216.33 217.62 B: computer science major i guess 
+
+218.22 222.47 A: yeah computer science um the university of pennsylvania 
+
+218.66 219.32 B: what school 
+
+222.26 223.37 B: oh and at penn 
+
+224.25 224.65 A: hm 
+
+224.80 227.08 B: like penn is it ivy league school 
+
+227.28 228.12 A: yeah 
+
+227.99 230.05 B: yeah okay okay yeah i know i the 
+
+230.41 231.88 B: no you guys are the quakers are you 
+
+232.04 232.71 A: yeah 
+
+232.80 233.36 B: oh okay 
+
+232.89 233.43 A: we are 
+
+233.53 234.46 B: oh got you okay 
+
+236.01 237.14 B: yeah (( )) c._s. 
+
+236.22 236.91 A: so 
+
+237.49 240.03 B: major myself now how how did you guys get involved 
+
+240.65 241.14 B: in that 
+
+241.68 244.36 A: um well actually my 
+
+241.75 242.03 B: um 
+
+243.64 246.80 B: oh wait a minute this is is your school sponsoring this 
+
+247.83 249.91 A: well i think it's 
+
+250.19 254.19 A: um several several different schools but i signed up 
+
+252.90 253.42 B: uh-huh 
+
+254.30 255.75 A: from a webpage that 
+
+256.26 258.52 A: was associated with my school 
+
+258.65 260.47 B: right yeah so did we 
+
+259.24 261.06 A: which the program 
+
+260.80 261.23 B: yeah 
+
+261.54 265.50 A: um because my brother goes to um the university of or 
+
+266.21 266.81 A: um 
+
+267.25 274.27 A: west chester institute of technology and he sent me a link because apparently their school is doing it too 
+
+269.44 269.72 B: hm 
+
+274.41 274.88 B: right 
+
+275.22 277.49 A: so how did you sign up for it like 
+
+277.07 280.11 B: we i found this i we live um 
+
+280.42 281.58 B: in boulder colorado 
+
+282.23 282.61 A: mhm 
+
+282.84 283.82 B: and ah 
+
+284.00 287.70 B: there's a a magazine it's like a free weekly newspaper called the boulder weekly 
+
+288.28 288.84 A: oh 
+
+288.30 292.31 B: and it caters to the university the students of the university of colorado university 
+
+292.70 293.73 B: and the catch was 
+
+294.79 297.75 B: pay get ten dollars to do this study 
+
+297.91 298.71 B: see what it was about 
+
+299.17 300.19 A: right yeah 
+
+299.79 301.73 B: and i was telling my wife about it and we're like 
+
+302.13 303.89 B: yeah sure why not let's do it anyway 
+
+304.04 304.31 B: so 
+
+304.39 304.72 A: yeah 
+
+304.99 306.24 B: we decided to do it so 
+
+306.46 308.71 B: we we've been getting several calls 
+
+309.16 309.84 A: really 
+
+309.25 310.79 B: yeah so it's 
+
+310.35 313.64 A: i think my page said you could only get up to three 
+
+313.93 316.26 B: yeah that's what ours says but our phones been ringing off the hook 
+
+316.42 318.06 A: wow that's so cool 
+
+317.74 319.20 B: because we haven't been home 
+
+319.54 320.80 B: and then last night i got 
+
+319.80 320.29 A: uh-huh 
+
+321.92 323.49 B: a little impatient and hung up 
+
+323.98 324.95 A: oh 
+
+324.07 324.59 B: oh 
+
+324.73 326.34 B: but ah but today 
+
+326.67 329.62 B: when i answered the phone you and i were connected immediately 
+
+329.97 331.12 A: oh okay yeah 
+
+330.35 332.46 B: and when when she got her call 
+
+332.80 337.19 B: she was also connecting immediately and i guess we're all talking about the same topic so 
+
+337.65 338.13 A: right 
+
+338.49 339.13 B: but anyway 
+
+340.08 341.74 A: yeah mm hm 
+
+341.96 344.32 B: so what do we do do we hang out until they say we can stop 
+
+344.46 348.17 A: i think so i think they said ten minuets so we've been 
+
+347.07 351.82 B: so what're what are they do you know what they are doing with this are they recording this and do they listen to it later 
+
+352.16 352.72 A: well i think 
+
+353.22 355.77 A: i'm not sure what the actual study is 
+
+355.88 358.82 A: i didn't read it too thoroughly 
+
+358.06 361.36 B: yeah i did a little bit i wasn't sure if it was 
+
+362.27 366.20 B: i don't know if it's focused on like linguistics or if it's focused on 
+
+366.61 369.70 B: like information exchange or 
+
+369.32 370.35 A: right 
+
+369.99 373.18 B: enter you know interaction or communication i'm not rally sure what it's 
+
+373.71 375.24 B: what it's actually focusing on 
+
+375.68 376.05 B: if 
+
+375.71 379.28 A: right i i think it might be something like 
+
+379.50 384.55 A: um just studying the way people interact and talk maybe to like reproduce it somehow 
+
+384.37 386.28 B: mm okay i see what you're saying 
+
+385.52 386.87 A: like maybe 
+
+386.98 387.63 A: with in 
+
+388.12 390.01 A: i don't know an expert system or like 
+
+390.33 390.99 A: something 
+
+391.15 395.65 A: i'm not sure but they must be recording it 
+
+392.49 393.81 B: well that makes sense because see 
+
+394.90 398.96 B: yeah they i think they said they were because because my thing would be okay this is a topic 
+
+399.44 400.27 B: i mean but how 
+
+401.07 402.88 B: i mean how long can you go on about that 
+
+403.29 405.02 B: you either agree or disagree and i 
+
+403.33 403.89 A: right 
+
+405.10 405.77 A: yeah 
+
+405.48 408.31 B: think the majority of people are going to agree because it's pretty obvious 
+
+409.05 412.94 A: right i can't think of anything that is bad about it 
+
+409.24 410.00 B: it's really 
+
+412.76 413.13 B: yeah 
+
+413.38 417.39 B: because i think yesterday when i got before i got impatient and hung up the topic was 
+
+418.62 419.58 B: uh 
+
+420.24 422.45 B: what nation or nations 
+
+422.56 423.33 B: do you think 
+
+423.49 424.31 B: pose a threat 
+
+424.51 426.14 B: to the u._s. or something to that 
+
+426.00 426.63 A: oh 
+
+427.32 430.03 B: i mean that maybe could have sparked a little discussion 
+
+430.58 431.18 A: right 
+
+431.05 432.27 B: this seems pretty straight 
+
+431.77 441.68 A: but only if only if you're like knowledgeable about that like if you really don't pay attention to anything then you wouldn't have much to say 
+
+436.16 436.63 B: yeah 
+
+439.56 441.00 B: yeah that's true that's true 
+
+441.54 443.85 B: but i i think what would have been interesting 
+
+444.05 446.16 B: for this topic i think it's weird that 
+
+447.05 447.67 B: two 
+
+448.17 449.03 B: computer science 
+
+449.50 450.87 B: people got hooked up but 
+
+451.27 453.70 B: you know say you or me talking to 
+
+451.35 452.32 A: right 
+
+454.24 454.78 B: someone who's 
+
+455.45 455.98 B: sixty 
+
+456.44 460.01 B: you know or seventy again that's being slightly stereotypical but 
+
+457.24 457.85 A: right 
+
+460.18 460.69 A: right 
+
+460.85 465.12 B: you know you never know like my mom if she took part in this and she had this discussion you know 
+
+465.58 466.14 A: uh-huh 
+
+465.74 467.95 B: it would be interesting to see what she had to say about it 
+
+467.78 469.54 A: yeah that's true 
+
+470.13 470.47 B: so 
+
+470.21 470.55 A: true 
+
+472.10 473.38 B: so how's the weather in philadelphia 
+
+473.64 474.31 A: um 
+
+474.42 476.39 A: it was really cold today 
+
+476.26 476.77 B: oh really 
+
+476.56 479.40 A: yeah i can't wait for it to get warmer 
+
+479.47 481.48 B: well it's cold in colorado we suppose 
+
+481.17 482.82 A: oh i bet 
+
+481.72 482.85 B: gets some snow but 
+
+483.05 485.49 B: we we've been missing out on the snow so 
+
+487.52 490.41 B: so we've had a pretty mild a mild and dry 
+
+487.73 489.19 A: that's good at least 
+
+491.78 493.25 B: mild and dry winter 
+
+493.62 494.38 A: oh 
+
+494.33 494.98 B: yeah 
+
+494.49 496.39 A: but you usual get a lot of snow 

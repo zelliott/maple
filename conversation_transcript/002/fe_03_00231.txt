@@ -1,0 +1,694 @@
+# fe_03_00231.sph
+# Transcribed at the LDC
+
+1.03 2.56 A: hi this is david 
+
+2.57 3.74 B: hi this is erin 
+
+3.91 5.06 A: hi erin how are you 
+
+5.10 6.28 B: good how are you 
+
+6.20 6.66 A: good 
+
+6.76 8.55 B: good are you on the east coast 
+
+8.66 9.27 A: yes i am 
+
+9.46 11.17 B: aha i'm in california 
+
+11.27 13.11 A: ah wow 
+
+13.30 16.14 A: i've been i've been hearing from people all over the country 
+
+15.85 16.36 B: really 
+
+16.35 20.57 A: i've had uh one from philadelphia one from oklahoma and now california 
+
+20.40 21.13 B: wow 
+
+21.04 22.32 A: what part of california are you in 
+
+22.35 24.46 B: i'm just outside of l._a. 
+
+24.21 25.36 A: well that's nice 
+
+25.40 26.90 B: yeah the weather is very nice 
+
+25.52 26.15 A: (( )) 
+
+27.44 31.18 A: yeah i was i was in l._a. last april for a conference 
+
+31.22 33.60 B: oh cool academic or 
+
+31.96 32.37 A: yeah 
+
+33.34 33.78 A: yes 
+
+34.57 36.32 B: so are you a student 
+
+36.12 38.56 A: no i'm a i'm i'm the research staff 
+
+37.69 38.21 B: professor 
+
+38.68 39.31 A: no 
+
+38.72 39.37 B: ah 
+
+39.40 44.68 A: no i'm just i actually sort a took the job as a programmer and 
+
+45.21 46.89 A: through (( my own )) 
+
+47.41 52.50 A: stupidity or intelligence became a researcher 
+
+52.12 53.55 B: oh that sounds 
+
+54.46 57.26 B: you must at least like it otherwise you wouldn't still do it 
+
+56.58 57.04 A: yes 
+
+57.41 58.30 A: yes very much 
+
+57.46 58.56 B: so that's good 
+
+58.61 60.10 A: but i have more responsibility like 
+
+60.22 63.86 A: you know being in charge of students writing papers and things like that 
+
+63.78 64.89 B: uh-huh 
+
+65.14 67.31 B: so are you affiliated with the university 
+
+67.09 71.25 A: i i i i'm uh the research staff at the university of massachusetts 
+
+71.38 72.93 B: oh cool 
+
+72.26 73.96 A: mhm in the computer science department 
+
+74.12 74.96 B: excellent 
+
+74.98 75.64 A: what do you do 
+
+76.14 78.37 B: i'm i'm just finishing a masters 
+
+78.76 83.06 B: degree in french literature and actually i'm expecting a baby on friday 
+
+80.29 81.12 A: uh-huh 
+
+82.71 84.15 A: oh congratulations 
+
+84.38 84.82 B: thank you 
+
+86.11 87.37 A: that must be exciting 
+
+86.17 86.78 B: and uh 
+
+87.59 88.99 B: it is it's it's our first 
+
+89.19 89.73 A: uh-huh 
+
+89.92 91.46 B: uh my husband is 
+
+91.77 95.13 B: turning in all his finals and everything on friday so 
+
+96.18 98.09 B: uh we're glad that nothing has happened until 
+
+98.64 99.50 B: at least so far 
+
+99.56 100.29 A: yeah 
+
+100.58 105.17 A: yeah that that that's tuff going through a pregnancy when you're in school and everything 
+
+105.55 105.99 B: yeah 
+
+106.29 108.07 A: is it going to interrupt your uh 
+
+108.23 108.99 A: your schooling 
+
+108.88 110.05 B: no i'm i've 
+
+111.05 115.40 B: got a rough draft of my thesis written and i have a defense date in march and uh 
+
+117.37 117.81 A: cool 
+
+120.26 121.53 A: yeah that's great 
+
+122.71 124.51 B: so i guess we're supposed to be talking about 
+
+125.49 126.35 B: life partners 
+
+126.33 126.94 A: right 
+
+127.71 128.34 B: and uh 
+
+128.55 131.79 B: the most important thing to look for or something like that 
+
+131.73 132.57 A: right 
+
+133.29 134.57 A: do you want to start or do you want me to start 
+
+134.58 135.47 B: um 
+
+135.97 136.77 B: why don't you start 
+
+136.86 137.42 A: okay 
+
+138.10 141.32 A: well i i think one the most important things to look for 
+
+141.82 142.54 A: is 
+
+142.76 146.71 A: some one who is willing to except you as you are 
+
+146.85 147.44 A: and not 
+
+147.85 150.55 A: someone who is looking to change you 
+
+151.23 151.96 A: um 
+
+152.18 153.13 A: i think i see 
+
+153.61 157.94 A: people who i know who have gotten in trouble who marriages have gotten in trouble 
+
+158.08 160.80 A: because they married some one and with the 
+
+160.93 162.82 A: expectation that they can change them 
+
+163.77 165.77 A: and my experience is that 
+
+166.02 172.18 A: you know people like the way they are there's not a lot you can do to change them unless they decide top change themselves 
+
+172.02 173.86 B: yeah that's defiantly true 
+
+172.77 173.21 A: so 
+
+173.73 176.01 A: so when looking for someone who 
+
+176.98 179.68 A: a i don't feel i'm going to have to change 
+
+180.37 181.42 A: and b doesn't 
+
+181.76 183.24 A: feel they don't have to change me 
+
+183.42 183.76 B: yeah 
+
+183.51 185.80 A: is prob- is a very important thing in 
+
+185.93 187.16 A: in looking for a life partner 
+
+187.63 188.53 B: i'd agree with that 
+
+189.44 190.66 B: um i think 
+
+192.55 193.36 B: uh 
+
+193.64 194.26 B: well one of the 
+
+195.07 197.49 B: important things for me was finding someone that 
+
+199.03 201.49 B: wanted the same kinds of things out of life 
+
+201.65 202.62 A: mhm 
+
+201.81 202.19 B: um 
+
+203.50 204.68 B: like with similar 
+
+204.77 205.70 B: goals and i- 
+
+205.88 206.60 B: goals 
+
+208.37 210.70 B: like how we wanted to live 
+
+211.67 212.19 B: (( our )) 
+
+213.60 215.53 B: we wanted to spend money 
+
+215.83 217.26 B: and of course you never find someone who 
+
+217.92 220.37 B: exactly like you and that would be boring if you did 
+
+220.48 220.81 B: but 
+
+220.48 220.92 A: right 
+
+221.98 223.21 B: but it's nice to 
+
+224.11 226.39 B: it's nice to have goals in common because that way 
+
+227.81 228.31 B: uh 
+
+228.74 229.40 B: you know when 
+
+229.62 231.46 B: problems come up and there's always problems 
+
+231.69 233.21 B: the you then you can say well 
+
+233.99 238.22 B: uh this is still what we're trying to get the place we're trying to get to or what we're working for and 
+
+239.26 240.93 B: and uh let's look at the 
+
+241.23 243.59 B: possible solutions that may help us get there 
+
+243.62 244.11 A: mhm 
+
+245.70 247.29 B: i think it's also really important to marry 
+
+247.45 249.77 B: who well not i guess life partner doesn't nes- 
+
+249.88 251.22 B: necessarily imply marriage but 
+
+251.00 251.58 A: right 
+
+251.55 253.19 B: you um find some one that 
+
+255.05 256.29 B: uh that you can be 
+
+256.99 259.63 B: and this is like what you said but you can be totally yourself with 
+
+259.76 260.32 A: right 
+
+260.31 264.43 B: so you can be you funny self or your mad self or your serious self 
+
+263.77 264.12 A: mhm 
+
+265.70 267.84 B: or your creative or crazy or 
+
+269.14 270.32 B: grouchy 
+
+271.49 272.09 B: that will 
+
+272.25 273.98 B: that like you said will 
+
+274.45 275.96 B: love you as you are and uh 
+
+278.45 281.72 A: right you know it worked for us but we had 
+
+282.17 283.32 A: a lot of 
+
+283.71 284.31 A: um 
+
+284.97 286.03 A: things in common 
+
+286.55 288.73 A: that we found as we got to know each other 
+
+288.86 289.23 B: mhm 
+
+289.11 290.21 A: like we had watched 
+
+290.50 292.17 A: this same t._v. shows growing up 
+
+292.13 293.24 B: uh-huh 
+
+292.58 294.78 A: and we had listen to the same music 
+
+295.09 298.60 A: and we had other things in common uh 
+
+299.09 300.37 A: it's interesting because 
+
+300.63 303.14 A: you know i've never really necessary thought that was 
+
+303.35 309.46 A: something that was necessary because you see plenty of successful couples who are opposites 
+
+309.55 310.14 B: that's true 
+
+310.23 310.80 A: you know 
+
+311.05 313.22 A: but but we we were very much 
+
+313.59 314.28 A: the same 
+
+314.88 317.87 A: we we had a lot a lot of interest in common 
+
+318.30 322.33 A: and i i think that was nice to be able to you know 
+
+322.50 331.51 A: basically make a reference to something and your partner gets it immediately with out having to explain it 
+
+327.40 328.08 B: right 
+
+328.65 329.19 B: yeah 
+
+330.18 330.88 B: yeah 
+
+332.00 333.71 B: yeah that's one of the nice things about 
+
+334.49 336.38 B: well for us too cause we're both 
+
+336.78 337.83 B: children of the eighties 
+
+338.04 338.55 A: mhm 
+
+338.37 339.35 B: you know so 
+
+340.32 341.18 B: we have all that 
+
+343.49 345.81 A: wow children of the eighties that's funny 
+
+346.05 348.67 A: because no i i just thinking because 
+
+346.23 347.34 B: well i mean we were 
+
+348.77 354.21 A: you know because i was an adult of the eighties 
+
+351.07 351.69 B: okay 
+
+352.33 353.34 B: yeah well we're 
+
+354.50 355.70 B: we're not we're just 
+
+356.01 356.75 B: we're almost thirty 
+
+357.15 357.67 A: mhm 
+
+359.56 360.12 A: uh 
+
+360.58 362.79 A: so anything else that strikes you 
+
+364.70 365.80 B: i think 
+
+367.05 369.60 B: well something that was important to us was that we wanted 
+
+371.00 372.09 B: well i wanted and 
+
+372.21 373.50 B: then he also wanted 
+
+373.92 375.40 B: to find someone who was 
+
+376.28 376.76 B: um 
+
+377.12 378.94 B: willing to make a commitment is say 
+
+379.74 380.40 B: um 
+
+383.93 386.08 B: i will be totally faithful to you and 
+
+386.68 388.83 B: not only will i be totally faithful to you 
+
+389.32 390.00 B: while 
+
+390.95 392.19 B: while we're married 
+
+392.28 392.65 A: mhm 
+
+392.37 393.53 B: but i will 
+
+395.00 395.55 B: um 
+
+396.52 399.94 B: rather than consider divorces and option or breaking up and option 
+
+400.48 401.72 B: we once your married 
+
+401.90 402.26 A: right 
+
+402.46 402.93 B: then 
+
+403.81 406.17 B: i want to work thought the problems rather than say 
+
+407.74 409.15 B: you know this just isn't working 
+
+409.28 410.28 B: have a nice life 
+
+410.17 410.65 A: mhm 
+
+411.19 413.65 B: and that that was important to me i don't know that 
+
+415.05 416.48 B: that's important to everyone 
+
+417.04 420.83 A: yeah you know that's it's it's something where i look at it as 
+
+421.27 422.31 A: that's almost a given 
+
+422.51 423.66 A: or it should be a given 
+
+424.40 424.74 B: yeah 
+
+424.87 428.71 A: that that you you go you know you go into a life relationship 
+
+428.91 430.40 A: um you want to call it marriage or not 
+
+431.04 431.42 A: but 
+
+431.54 433.85 A: you should go in committed 
+
+434.21 434.96 A: for life 
+
+435.09 435.56 B: right 
+
+435.68 436.39 A: and that's it 
+
+436.52 436.97 B: right 
+
+437.05 438.79 A: you know um 
+
+439.15 439.83 A: that 
+
+441.69 442.37 A: make 
+
+442.48 449.97 A: find that's right again i come back to you know this is a person who you can live with 
+
+450.27 451.26 A: with out changing them 
+
+450.37 450.70 B: yeah 
+
+451.43 451.69 B: right 
+
+452.13 455.52 A: and i don't think enough people ask that question before hand 
+
+456.17 456.82 B: yeah 
+
+456.39 460.51 A: something they like about the person something that attracts them to the person 
+
+461.30 461.97 A: and 
+
+462.14 462.82 A: they 
+
+462.94 463.31 A: they 
+
+463.41 467.27 A: don't look beyond that they think well this annoys me but you know 
+
+464.72 465.22 B: yeah 
+
+467.42 470.26 A: once we're married he'll change or she'll change 
+
+468.95 469.77 B: it'll be different 
+
+470.04 470.43 B: yeah 
+
+471.38 471.74 B: yeah 
+
+472.35 476.69 A: so that that's where i think you know i i i agree with your statements 
+
+477.16 480.00 A: but i also think something like that should be a given 
+
+480.50 480.86 B: yea 
+
+480.96 482.47 A: that you know you your 
+
+482.67 484.88 A: you you go into this with the 
+
+485.26 487.43 A: idea that your going into this for life 
+
+488.21 488.93 A: and that 
+
+489.05 493.58 A: problems you goin- you may have problems your probably going to have problems but 
+
+493.77 495.41 A: there's things that should be worked out 
+
+495.54 495.96 B: right 
+
+496.28 497.46 A: right not just given up on 
+
+496.82 497.23 B: yeah 
+
+497.83 499.17 B: i think um 
+
+500.35 501.91 B: you know if you take the time 
+
+502.94 504.04 B: if you take time as 
+
+504.47 508.54 B: the relationship if your getting to know each other to really get to know each other then you can 
+
+509.46 510.36 B: make that kind of 
+
+511.49 512.28 B: assessment 
+
+513.83 514.25 B: uh 
+
+514.68 516.00 B: fairly accurately because 
+
+516.04 516.43 A: mhm 
+
+516.92 517.47 B: you know if you 
+
+517.57 518.74 B: spent time together and 
+
+519.88 522.33 B: oh something else i think is really important is um 
+
+524.91 527.15 B: like when you choose a life partner your (( )) 
+
+527.34 529.13 B: well most of the time your also choosing 
+
+530.22 531.61 B: um to become part of that person 
+
+531.78 534.10 B: family and have that person become part of you own family 
+
+534.17 534.66 A: mhm 
+
+535.11 536.61 B: and so it's nice if you can 
+
+538.23 539.55 B: um get to know 
+
+540.71 541.67 B: family a little and 
+
+541.83 543.19 B: i i think a lot of times it puts 
+
+543.87 547.66 B: puts people in context to see them integrating with their parents or their siblings 
+
+547.70 548.25 A: mhm 
+
+548.71 549.21 B: their pet 
+
+549.32 550.03 B: their 
+
+550.21 552.32 B: what ever their family consists 
+
+552.44 552.77 B: of 
+
+553.00 555.29 A: uh did you get a chance to do that before you got married 
+
+555.46 555.94 B: yeah 
+
+556.50 556.90 B: yeah 
+
+557.98 558.45 B: i did 
+
+559.37 559.87 B: um 
+
+561.40 562.84 B: my husbands 
+
+564.73 565.26 B: i mean not 
+
+565.44 566.68 B: tons and tones of times 
+
+567.08 568.07 B: um i did get some 
+
+568.79 569.61 B: uh visits 
+
+570.44 572.60 B: and about week with his family and then 
+
+574.04 576.33 B: he actually new my brothers very well 
+
+576.52 576.91 A: mhm 
+
+576.83 577.63 B: well fairly well 
+
+583.11 590.16 A: yea we we neither of us we all we all always within you know a couple of hours of either of them 
+
+590.79 592.65 A: so it was so easy to get to know 
+
+592.86 593.88 A: each others families 
+
+594.10 594.93 B: that's really good 
+
+595.00 595.36 A: yeah 
+
+598.79 599.86 A: well i think that's bout it 
+
+601.50 604.29 A: i guess you don't have to stay on the phone the full ten minutes 
+
+604.90 605.38 B: um 
+
+605.51 606.23 B: i don't know 
+
+607.07 607.78 B: the 
+
+608.53 609.88 B: yesterday we 
+
+610.08 611.90 B: actually talked until there was a little 
+
+612.35 615.19 B: beep that came in and said okay now if you want to give feed back 
+
+615.30 616.05 B: give us feed back 
+
+616.15 616.63 A: uh-huh 
+
+617.28 618.45 B: but i don't know how it works 
+
+620.29 620.88 A: oh 
+
+621.22 622.53 B: how did you get um 
+
+623.28 626.01 B: do you know someone at u. penn who's involved in the study or 
+
+626.04 629.30 A: you penn i guess sent an email to one of the professors 
+
+629.88 632.57 A: and that professor sent it out to the laboratory and that professor sent it out to the laboratory 
+
+633.48 635.04 A: so um i thought oh 
+
+635.17 637.56 A: this this is it sounds a little cool 
+
+637.43 637.75 B: yeah 
+
+637.79 638.39 A: so uh 
+
+638.56 639.71 A: i'm give it a try 
+
+640.13 644.36 B: yeah that's how we found my husbands doing a p._h._d. in linguistics at u._s._c. 
+
+644.70 645.15 A: um hum 
+
+644.98 645.33 B: and 
+
+645.88 646.50 B: he also 
+
+648.59 650.20 B: we're familiar with upenn's uh 
+
+651.08 651.45 A: mhm 
+
+653.05 655.15 A: yeah we do information retrieval 
+
+655.62 656.19 B: oh do you 
+
+655.74 657.31 A: um in our lab yes 
+
+657.72 662.73 A: um and i we've done some work in the past in speech recognition and so forth 
+
+663.15 667.48 B: oh i should put you on the line with him cause he'd probably ask you all kinds of questions 
+
+663.43 664.08 A: so 
+
+668.42 669.77 B: you know what he's a researcher at 
+
+675.77 676.41 B: (( )) school 
+
+676.62 683.28 A: yeah i actually i actually use to have a much cooler job where i was a base research e._s._p._n. 
+
+683.56 684.67 B: really 
+
+684.46 684.82 A: yea 
+
+685.31 687.12 B: wow how did you how did you 
+
+687.46 688.20 B: um 
+
+688.52 689.35 B: how did you do that 
+
+689.95 690.87 A: uh 
+
+691.06 693.93 A: it's it's well it's it's a long story but 
+
+694.23 698.40 A: i think i can condense it i was working for a speech recognition company 
+
+698.50 698.92 B: uh-huh 
+
+699.32 701.75 A: and the guy who got me the job there 
+
+702.37 704.16 A: his best friend from college 
+
+704.38 707.23 A: um started a company called stats incorporated 
+
+707.26 707.63 B: uh-huh 
+
+707.98 714.68 A: and we would have this guy would come out to visit my friend once a year and i would be invited along for dinner 
+
+715.59 716.88 A: and so i got to know him 

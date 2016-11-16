@@ -1,0 +1,411 @@
+# fe_03_05253.sph
+# Transcribed by BBN/WordWave
+
+0.00 0.82 B: i'm robert 
+
+3.12 4.45 A: (( [noise] hello )) 
+
+4.82 7.09 B: hello i'm robert how are you 
+
+6.40 7.88 A: all right and you 
+
+8.43 10.39 B: good and your name 
+
+9.97 12.23 A: uh my name is will 
+
+12.49 16.56 B: will so what do you think uh what is the worst of the list they gave us 
+
+17.48 20.17 A: (( mm i think it's all right )) 
+
+21.78 26.46 B: i think perhaps gossiping would be the worst what do you think 
+
+25.83 29.22 A: mm nah it's all right gossiping's okay 
+
+29.90 34.08 A: there's nothing else to do you know but talk to about talk about whatever happens so 
+
+30.39 31.36 B: [mn] 
+
+34.86 41.46 B: mhm what's the other uh topics there was overeating there was um i forget what the rest were 
+
+42.83 47.72 A: um i think it was like i'm not too sure [noise] i don't remember 
+
+48.19 53.44 B: there was gossiping there was overeating there was um oh hell 
+
+53.89 56.05 B: i can't even remember myself 
+
+57.62 60.35 B: um [lipsmack] it's ridiculous 
+
+60.44 62.16 B: and you don't remember either 
+
+62.24 63.23 A: nah 
+
+64.32 66.04 B: [mn] where you from 
+
+65.59 67.18 A: i'm from the bronx 
+
+67.56 70.08 B: ah really i used to live in new york 
+
+70.02 72.07 A: oh really where ya living now 
+
+72.36 73.92 B: uh paris france 
+
+74.95 75.85 A: (( huh )) 
+
+76.35 77.88 B: paris france 
+
+78.06 80.81 A: oh really wow 
+
+80.01 81.09 B: i used to 
+
+81.29 83.90 B: i used to live in the uh lower east side 
+
+84.02 85.55 A: oh wow 
+
+87.20 89.26 B: i never got over to the bronx though 
+
+89.66 91.18 A: (( oh )) 
+
+91.21 96.41 B: walked across on the brooklyn bridge but that was about it what do 
+
+94.36 96.28 A: really wow 
+
+99.64 102.27 B: you do in the bronx [lipsmack] 
+
+102.08 105.65 A: well i hang out go to movies to clubbing and all that 
+
+108.07 110.48 B: you grew up there 
+
+109.44 110.74 A: excuse me 
+
+111.05 113.37 B: you grew up there 
+
+112.63 115.21 A: (( oh yeah i live here in the bronx )) 
+
+115.71 117.00 B: [mn] 
+
+117.17 120.87 B: uh you've got a bit of a brooklyn accent i think 
+
+121.10 123.56 A: have i got a brooklyn accent 
+
+123.51 125.31 B: yeah 
+
+123.87 125.22 A: i'm not too sure 
+
+127.46 132.59 B: [mn] i'm not an expert on new york ac- accents i was there for two years 
+
+132.88 134.47 A: oh really 
+
+135.36 137.02 A: well 
+
+136.20 140.00 B: nice place but i didn't like the summers they were too hot and humid 
+
+140.16 140.91 A: mm 
+
+141.05 142.59 A: that's that is true 
+
+144.89 147.63 B: everyone left in august and with good reason 
+
+147.89 152.03 A: yeah yep that's true 
+
+152.54 157.42 B: [mn] how's the spring been there this year oh [mn] 
+
+155.60 159.99 A: it's been okay a lotta rain 
+
+161.03 161.89 A: you know 
+
+164.06 165.74 A: last winter we had a 
+
+164.60 165.48 B: (( so how )) 
+
+166.07 167.08 A: huh 
+
+166.63 168.55 B: what's that 
+
+168.05 170.99 A: last winter we had a snowstorm 
+
+171.02 173.36 B: (( oh really [mn] when )) 
+
+172.11 173.54 A: (( yeah )) 
+
+174.80 180.94 B: i was there there was one huge snowstorm and fifth avenue was closed you could've gone skiing 
+
+181.27 183.04 A: (( yeah that's )) 
+
+183.08 183.91 A: true 
+
+184.53 186.13 B: [mn] kind of fun 
+
+188.31 189.80 A: [noise] so what you do 
+
+190.90 192.92 B: i'm a student 
+
+192.28 195.07 A: oh really what you study for 
+
+193.75 194.64 B: yep 
+
+195.65 197.80 B: uh political philosophy 
+
+197.87 199.63 A: (( oh cool )) 
+
+202.01 203.95 B: no it's lots of fun 
+
+203.85 207.42 A: (( yeah )) 
+
+205.90 210.74 B: [mn] where's your fam- family originally from 
+
+210.10 215.02 A: well we're originally from puerto rico but we live here in the united states 
+
+215.46 217.27 B: ah that's cool 
+
+217.02 219.24 A: (( yeah )) 
+
+218.79 222.55 B: [mn] how long have you ever been to puerto rico yourself 
+
+222.64 224.81 A: actually no i haven't seen puerto rico 
+
+225.31 226.70 A: (( i'm planning )) 
+
+225.38 226.56 B: ah 
+
+227.06 228.94 A: (( i'm planning to go )) 
+
+229.66 230.79 B: i'd like to 
+
+231.58 233.22 A: (( well )) 
+
+235.78 237.38 B: so what do you do oh 
+
+236.97 239.56 A: i go to school 
+
+239.15 240.54 B: okay what in 
+
+240.85 241.85 A: (( huh )) 
+
+242.15 243.44 B: what are you studying 
+
+243.47 244.81 A: computers 
+
+245.16 248.30 B: oh cool uh programming 
+
+247.59 249.77 A: yeah 
+
+250.23 252.08 B: uh what language 
+
+252.33 255.77 A: um both english and spanish 
+
+256.18 258.51 B: (( oh no what uh computer language )) 
+
+258.45 262.52 A: (( um not too sure yet i've just started )) 
+
+262.85 265.36 B: okay what what's the institution 
+
+265.83 266.94 A: um 
+
+266.98 268.47 A: not so sure 
+
+268.61 269.76 B: what school 
+
+270.15 271.42 A: (( le bride )) 
+
+271.87 273.65 B: le bride no i don't know it 
+
+273.58 275.32 A: (( oh )) 
+
+276.67 277.78 B: (( [mn] have )) 
+
+279.65 282.56 B: you ever been out to uh i think it's jones' beach 
+
+282.74 284.95 A: no i've never been to jones' beach 
+
+286.04 294.72 B: that's the one place i only got to it once uh and it wasn't even in the summer but uh that looks like a really nice place to go in the summer in new york 
+
+291.12 292.27 A: (( oh really )) 
+
+294.64 296.91 A: no i've never been to jones' beach 
+
+297.10 300.25 A: i went to coney island before 
+
+299.68 301.74 B: oh that's that's nice too 
+
+301.89 302.97 A: yeah 
+
+302.35 303.56 B: no i'm uh 
+
+303.59 305.27 B: when i was in uh 
+
+306.00 319.80 B: i actually was from canada so i uh was only i was living there but uh i would go back to canada for the summer and that sort of thing so i didn't get to see as much of it as i would've liked 
+
+319.37 322.17 A: (( yeah )) 
+
+322.68 326.73 B: but now i'm uh between paris and uh boston 
+
+327.24 329.95 A: (( right [noise] )) 
+
+332.09 335.74 B: you have any family uh brothers and sisters i mean 
+
+335.17 340.86 A: (( oh yeah i have sisters brothers sisters a lotta them a whole bunch )) 
+
+339.78 341.64 B: older younger both 
+
+341.53 343.85 A: well younger older 
+
+345.37 348.45 A: i have a child too as well 
+
+347.84 349.96 B: (( oh cool how old [lipsmack] oh )) 
+
+349.04 351.76 A: yeah she's two years old 
+
+351.73 354.30 B: awesome what's she what's her name 
+
+353.96 355.04 A: mariah 
+
+355.59 356.58 B: ah 
+
+356.55 357.43 A: she's not 
+
+356.69 360.59 B: my cousin what's that 
+
+358.98 360.93 A: she's right next to me right now 
+
+361.27 363.62 B: ah say hello to her for me 
+
+363.15 365.93 A: oh she's sleeping now [laughter] 
+
+365.05 367.59 B: [laughter] okay well don't wake her up then 
+
+367.10 368.48 A: (( no no )) 
+
+367.91 368.77 B: my 
+
+368.85 373.44 B: my cousin in uh boston is going to have a child in the next couple of months in fact 
+
+373.20 376.68 A: oh really wow that's cool that's real 
+
+375.80 379.64 B: yeah and my sister also just about the same time 
+
+378.82 379.85 A: oh 
+
+380.29 381.65 A: what a blessing 
+
+382.09 385.45 B: [lipsmack] uh yes it's gonna make for a very noisy christmas 
+
+385.50 386.51 A: (( [laughter] )) 
+
+387.31 388.91 A: it's worth it though 
+
+389.24 390.83 B: i hope so 
+
+391.04 393.44 A: yeah it's worth it trust me 
+
+392.31 397.25 B: they're they're both really looking forward to it and they 
+
+395.93 398.92 A: yeah sounds good 
+
+398.65 400.37 B: deserve the best [mn] 
+
+400.19 401.99 A: yeah 
+
+404.98 407.10 B: do you get over to manhattan much 
+
+406.96 414.56 A: [noise] yeah i travel to manhattan to forty second times square uptown manhattan downtown manhattan 
+
+411.67 413.85 B: (( mm is )) 
+
+415.12 417.10 A: you know i travel all all over 
+
+415.94 417.45 B: there any nice place to 
+
+418.47 423.82 B: sorry uh is there any nice place to walk along the waterfront in brooklyn or not really 
+
+423.35 433.38 A: i'm not too sure 'cause i i never i've traveled to brooklyn but i don't hang out in brooklyn never hung out in brooklyn always hang out in manhattan you know 
+
+427.94 428.86 B: mhm 
+
+431.13 432.56 B: okay 
+
+435.11 442.65 B: no because where i used to live you could walk down to the uh waterfront in the little east side and you had a really nice uh view of uh brooklyn 
+
+442.58 444.37 A: (( oh really )) 
+
+444.15 448.57 B: but what you saw was the uh shipyards and so forth so uh 
+
+444.52 445.29 A: oh 
+
+448.67 452.69 B: uh i never really went over on the other side and explored 
+
+453.30 459.21 A: (( mm well i )) 
+
+459.85 465.09 A: mean i've traveled to brooklyn you know but i never hang out in brooklyn so 
+
+463.23 465.04 B: mhm 
+
+465.36 467.75 A: don't know really know much about brooklyn 
+
+467.99 469.95 B: where do you live exactly 
+
+469.80 472.29 A: i live in the bronx new york bronx 
+
+471.53 474.22 B: oh the bronx okay bronx okay 
+
+474.86 476.05 B: no i 
+
+476.27 490.49 B: i only got up there once and that was um there's a monas- not a monastery um well it's sort of like a monastery on the uh [lipsmack] right opposite the new jersey palisade i forget what it's called way way up there 
+
+487.53 488.77 A: (( [noise] )) 
+
+490.38 492.11 A: (( oh don't know )) 
+
+491.87 496.50 B: you know what i'm talk- it's right on the hudson river it's uh 
+
+496.64 507.26 B: they uh restored it it was uh the spanish uh old spanish monasteries they brought over to the states and rebuilt them stone by stone and they're it's really a gorgeous place and 
+
+506.29 508.18 A: (( oh really )) 
+
+507.85 512.60 B: i don't know what it's called anymore uh the cloisters that's it it's called the cloisters 
+
+512.56 515.72 A: (( oh really i don't know )) 
+
+514.90 526.97 B: if ya ever if ya ever get ya ever get a chance uh uh it's on a sunday or some uh weekend and the weather's nice it's a gorgeous place to take a walk or take a picnic with the family 
+
+526.72 529.73 A: no i don't i never seen it sorry 
+
+538.64 539.74 B: so um 
+
+539.84 543.94 B: are you looking forward to the uh computer course mm [lipsmack] 
+
+542.48 548.27 A: yeah i'm i started the course right now just started school so it's like a nineteen month course so 
+
+549.32 550.19 A: (( you know )) 
+
+550.64 552.14 A: (( i've got a long way to go )) 
+
+555.59 559.13 B: uh why computers is it just uh something you like or you 
+
+558.99 564.67 A: yeah i like i love computers i like playing with i like dealing with computers you know 
+
+559.15 560.75 B: found out by accident or 
+
+564.98 566.53 A: (( so i'm like )) 
+
+565.36 568.73 B: linux or uh windows or both 
+
+568.43 577.26 A: well actually it doesn't really matter to me i like to do programming you know build programs in computers so that's my thing 
+
+574.35 575.59 B: mhm 
+
+577.35 586.10 A: like friends that come over they call me to go over to their house and put an a. w. o. l. c. d. on them and get a. w. o. l. for them and i do it for them you know 
+
+585.80 587.13 B: oh perfect 
+
+586.95 590.20 A: (( you know and stuff and if they've got problems with the )) 
+
+588.38 592.02 B: well that's uh very very helpful 
+
+590.63 593.28 A: (( yeah )) 
+
+593.32 594.99 B: no they can be uh 
+
+595.25 598.75 B: very difficult and a lotta people don't know how to use them correctly 
+
+598.86 599.62 A: right 
+

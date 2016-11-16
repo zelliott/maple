@@ -1,0 +1,449 @@
+# fe_03_02249.sph
+# Transcribed by BBN/WordWave
+
+0.00 2.41 B: ((  )) 
+
+1.70 3.31 A: (( hi my name's )) 
+
+2.93 5.08 B: ((  )) 
+
+4.49 5.74 A: (( brian hi how you )) 
+
+5.36 7.08 B: ((  )) 
+
+6.50 8.73 A: (( doing i'm doing good yeah me too oh yeah yeah )) 
+
+8.19 9.88 B: ((  )) 
+
+8.87 10.19 A: (( i'm actually getting a bit of a )) 
+
+10.59 11.75 A: (( cold myself )) 
+
+12.08 15.91 A: (( right now oh yeah oh yeah it's it's been raining a lot here so that when it rains )) 
+
+16.01 17.10 A: (( it )) 
+
+16.03 20.89 B: ((  )) 
+
+17.15 17.92 A: (( tends )) 
+
+21.84 24.65 A: (( to make me a bit ill [noise] oh yeah )) 
+
+24.39 25.06 B: (( sinus )) 
+
+25.10 25.76 B: (( yeah it was )) 
+
+25.60 27.45 A: (( right [noise] um yeah so )) 
+
+27.04 28.50 B: ((  )) 
+
+28.16 30.03 A: (( what do you do when you get sick )) 
+
+29.17 35.98 B: ((  )) 
+
+35.64 38.26 A: (( like like claratyne or )) 
+
+38.04 39.56 B: ((  )) 
+
+38.60 41.54 A: (( something okay yeah that that's )) 
+
+40.97 42.84 B: ((  )) 
+
+41.59 43.01 A: (( not bad yeah )) 
+
+43.77 48.18 B: ((  )) 
+
+47.60 49.17 A: um well 
+
+50.28 50.97 A: (( i yeah )) 
+
+51.02 52.06 A: (( i got )) 
+
+53.46 55.12 A: (( claratyne 'cause it's you don't )) 
+
+54.99 57.49 B: ((  )) 
+
+57.19 59.48 A: (( need a prescription anymore you can buy it at )) 
+
+60.67 63.27 A: (( like c._v._s. or something or a drugstore )) 
+
+62.09 65.03 B: ((  )) 
+
+64.66 67.04 A: (( it does it's really )) 
+
+67.51 71.85 A: (( expensive though it's like ten bucks for five pills it's kind of a lot )) 
+
+71.12 72.06 B: (( be miserable [laughter] i you )) 
+
+72.75 73.66 A: (( ah twelve )) 
+
+73.49 81.22 B: ((  )) 
+
+80.93 82.71 A: (( hours i think but yeah it works )) 
+
+82.60 84.65 B: (( even though it's not even though it's supposed )) 
+
+85.23 88.83 B: (( to be for cold and flu and i )) 
+
+88.07 88.88 A: (( it works )) 
+
+89.69 91.71 B: (( had allergies well i think )) 
+
+92.17 96.48 B: (( i didn't used to believe that changing seasons could make you sick but i )) 
+
+96.50 98.62 A: (( well and it )) 
+
+98.47 99.32 B: (( moved )) 
+
+99.51 100.40 B: (( here )) 
+
+99.85 101.50 A: (( doesn't really make you )) 
+
+101.58 104.43 A: (( weird and tired yeah right it's )) 
+
+104.46 105.48 A: (( worth it )) 
+
+104.53 106.53 B: (( from the caribbean and )) 
+
+108.12 109.08 A: (( right right )) 
+
+109.62 110.84 A: (( it's )) 
+
+111.48 113.05 A: (( the same thing )) 
+
+113.24 114.69 A: (( seven days )) 
+
+114.92 116.62 A: (( in a week yeah )) 
+
+116.78 119.35 A: (( okay right there's )) 
+
+119.39 120.01 A: (( this )) 
+
+119.71 120.70 B: (( when i )) 
+
+120.84 122.39 B: (( got here in january )) 
+
+124.12 126.03 B: (( it was so bitter cold and we all )) 
+
+127.82 131.33 A: (( stuff that i got it's um [noise] zycam )) 
+
+131.19 132.34 B: (( got )) 
+
+131.75 133.76 A: (( something like that it's )) 
+
+133.27 134.79 B: (( sick we all got real sick we're in )) 
+
+134.54 139.05 A: (( supposed to if you're getting sick you you like inject it into your )) 
+
+138.70 142.94 B: ((  )) 
+
+143.95 151.29 B: (( and now that the season's changing again [laughter] it's happening again so maybe there's something )) 
+
+150.76 151.48 A: (( nose )) 
+
+151.58 154.43 B: (( to it i don't remember it happening )) 
+
+155.26 159.06 B: (( when i was a kid and i was here in the northeast when i was )) 
+
+159.30 162.23 B: (( a kid but then i lived )) 
+
+162.37 165.15 B: (( in texas and california )) 
+
+164.46 165.91 A: (( like a liquid gel )) 
+
+165.62 166.88 B: (( too and i )) 
+
+166.15 169.67 A: (( or something [sigh] )) 
+
+169.26 170.60 B: (( noticed that )) 
+
+169.98 173.43 A: (( and if you do it it's like echinacea or something it's supposed to )) 
+
+174.23 175.18 A: (( make if you )) 
+
+174.78 175.86 B: (( when i lived out )) 
+
+175.36 177.16 A: (( get a cold )) 
+
+176.94 181.01 B: (( there i i did not get sick but definitely here we do )) 
+
+183.10 183.78 B: (( we )) 
+
+185.90 189.34 A: (( it goes away quicker or if you feel like you're )) 
+
+192.12 203.00 A: (( getting a cold then [sigh] um it supposedly prevents you from getting a cold but oh okay right yeah )) 
+
+199.03 199.98 B: (( tend )) 
+
+202.62 208.21 B: ((  )) 
+
+208.27 209.95 B: (( [laughter] well illness i've been i've been )) 
+
+210.89 212.61 B: (( drinking a lot of tea tea with lemon )) 
+
+214.43 215.47 A: i think 
+
+215.71 222.34 A: (( that just happened actually a couple months ago but ah yeah yeah sometimes the allergy medicine like )) 
+
+219.18 220.21 B: (( because i can't )) 
+
+223.92 224.82 B: (( stand )) 
+
+224.27 225.92 A: (( tylenol and stuff like )) 
+
+226.02 226.97 B: (( tea with )) 
+
+226.45 229.33 A: (( that doesn't really help as much )) 
+
+228.86 229.93 B: (( honey )) 
+
+229.37 232.23 A: (( as like the cold medicine does the non-drowsy cold medicine yeah )) 
+
+232.36 235.83 A: (( yeah where do you live okay right you know i never really experienced a dramatic )) 
+
+235.58 236.94 B: (( in it )) 
+
+237.14 242.72 A: (( change in seasons because i grew up in california but i live in new york )) 
+
+241.90 254.11 B: ((  )) 
+
+254.39 257.75 B: (( a remedy for being able to breathe when you when you )) 
+
+258.10 263.47 B: (( when you lay down that would be good too [laughter] i had to sleep in a chair one night )) 
+
+263.42 270.96 A: (( now and there's very dramatic changes in the seasons and it's really affected me um like when it starts to )) 
+
+271.28 273.42 A: (( get cold at the winter i )) 
+
+273.56 275.92 A: (( always get sick and even when it turned )) 
+
+276.33 277.19 A: (( to )) 
+
+277.29 280.05 A: (( spring i got sick just like every time there's a change )) 
+
+280.75 281.54 A: (( in )) 
+
+281.71 282.98 A: (( the weather )) 
+
+287.15 290.31 A: (( yeah [noise] yeah i don't know i )) 
+
+290.25 296.64 B: (( yeah i was just so stuffy and i couldn't do anything about it i was afraid i )) 
+
+296.75 298.13 B: (( was gonna )) 
+
+298.65 299.84 B: (( have to go to )) 
+
+301.70 303.04 A: (( d- i don't know )) 
+
+306.29 309.69 B: (( the doctor and be irrigated have )) 
+
+309.40 314.95 A: (( what this is for and why they need you to talk ten minutes about a topic but ah what are you gonna do )) 
+
+312.20 313.09 B: (( you )) 
+
+314.69 317.37 B: (( ever had to do that oh my gosh )) 
+
+317.74 319.94 B: (( it's terrible the first time i went and they )) 
+
+319.07 320.72 A: (( ah drink tea too that )) 
+
+320.77 323.52 A: (( helps helps yeah yeah green tea's good for you )) 
+
+323.31 324.09 B: (( irrigated )) 
+
+323.81 328.15 A: (( it's got like uh anti-oxidants or something like that yeah no it's )) 
+
+328.14 330.14 B: (( my sinuses what they do )) 
+
+331.00 333.16 B: (( is put a hose in one side of your )) 
+
+333.10 334.62 A: (( just a different )) 
+
+334.15 337.87 B: (( nose and they run water through your head and it pushes everything up )) 
+
+340.27 342.89 A: (( type of tea [lipsmack] it's good for you )) 
+
+343.26 344.51 B: (( the other )) 
+
+345.64 347.04 B: (( side of your nose )) 
+
+355.85 356.62 B: (( and )) 
+
+359.54 360.79 A: (( um they have like )) 
+
+361.10 363.05 A: (( green tea with )) 
+
+363.30 364.29 A: (( echinacea )) 
+
+364.72 365.54 A: (( too which )) 
+
+365.41 366.46 B: (( your )) 
+
+366.88 368.29 A: (( is good yeah )) 
+
+368.38 369.90 B: (( mouth it's really )) 
+
+369.35 371.57 A: (( yeah it does [sigh] um let's see )) 
+
+371.07 372.45 B: (( painful )) 
+
+371.87 374.14 A: (( yeah oh seriously wow )) 
+
+374.90 379.24 A: (( ah i never have ugh ugh no oh i bet wow no i've never had to go through that )) 
+
+378.65 380.16 B: (( and )) 
+
+379.66 380.44 A: (( yeah i can )) 
+
+380.65 384.50 A: (( imagine [sigh] i haven't even )) 
+
+384.83 386.82 A: (( been to the i don't have )) 
+
+387.39 388.97 A: (( insurance so i i don't go )) 
+
+388.84 389.98 B: (( really gross )) 
+
+389.64 394.90 A: (( to the doctor when i get sick right [sigh] so i just try to cure myself if )) 
+
+390.63 392.85 B: (( [laughter] well i )) 
+
+394.52 396.98 B: (( was really afraid that )) 
+
+394.92 396.47 A: (( i'm sick usually )) 
+
+396.74 398.36 A: (( it's nothing too bad as )) 
+
+398.42 401.93 B: (( i was gonna have to go do that )) 
+
+402.30 405.48 A: (( long it's not like sars or something [sigh] )) 
+
+405.70 407.35 A: (( i don't know though a )) 
+
+406.99 408.86 B: (( and it's not fun i i don't )) 
+
+410.32 412.46 B: (( have any here i have insurance in )) 
+
+412.72 414.56 B: (( south america my husband's still )) 
+
+414.05 417.81 A: (( lot of people in new york have it thirty people or )) 
+
+418.04 418.84 A: (( something )) 
+
+419.04 421.07 A: (( like that have it in new york )) 
+
+420.55 422.44 B: (( there with )) 
+
+423.10 426.80 B: (( his job but i don't have any here either yeah same here [laughter] i )) 
+
+426.94 429.24 B: (( guess if it was that )) 
+
+428.81 430.23 A: (( yeah right yeah )) 
+
+429.76 432.14 B: (( we'd know it really but i think )) 
+
+435.27 437.14 A: (( i don't really )) 
+
+437.59 439.60 B: (( what i've had has only been )) 
+
+440.37 442.67 B: (( allergies this time because i haven't had )) 
+
+441.76 442.55 A: (( get )) 
+
+443.31 445.26 A: (( that that )) 
+
+445.72 446.53 B: (( the )) 
+
+445.99 447.40 A: (( bad i )) 
+
+450.52 456.05 A: (( get the more like a sore throat and like uh congestion yeah i )) 
+
+453.24 454.69 B: (( coughing or the um )) 
+
+456.77 463.53 B: (( the other miserableness that can come with a cold just ah sinus problems and the sneezing so )) 
+
+462.15 463.38 A: (( find that )) 
+
+463.58 465.00 A: (( if i sleep )) 
+
+465.56 467.11 B: (( well i )) 
+
+466.44 468.55 A: (( with the window open at night )) 
+
+468.84 473.04 B: (( have a little bit of a scratchy throat worse in the mornings than at night well i would guess that it would because if )) 
+
+473.49 476.57 B: (( it's allergies you've got you're letting all that stuff in )) 
+
+479.27 484.14 A: (( sometimes that really makes me like my sinuses and my throat are sore [sigh] right )) 
+
+483.74 484.68 B: (( all night )) 
+
+485.15 488.66 B: that actually makes a lot of sense i never thought about that before 
+
+488.65 490.61 A: have you tried an ionizer 
+
+490.44 492.16 B: no what's that 
+
+491.64 498.78 A: [laughter] it's a little machine it it's similar to an air purifier but they but it's a specifically an ionizer 
+
+498.98 510.65 A: it does something to the i i can't remember positive or negative ions whatever it is that it adds to the air but i've 'em and i did notice that when we used 'em it made a big difference 
+
+503.53 504.55 B: right 
+
+510.34 512.28 B: really 
+
+512.57 514.72 B: yeah i'll have to look into that 
+
+515.18 526.03 A: i bought one from q._v._c. because i wasn't sure if um if it was really going to be a good thing and they let you use any product for thirty days and return it if you don't like it and i thought well you can't lose with that 
+
+522.73 523.77 B: oh really 
+
+525.32 526.70 B: right 
+
+526.06 532.09 A: so i bought one from there for there really for my daughter because she has problems at night 
+
+531.71 533.04 B: right 
+
+532.44 537.17 A: and it really really helped her a lot i i noticed it the first night immediately 
+
+537.26 539.94 A: she slept so much better 
+
+539.66 540.86 B: huh 
+
+542.28 547.06 A: but that's a thought too and that's not something they talk about a lot when they talk about 
+
+543.14 544.61 B: (( [sigh] yeah )) 
+
+547.77 554.98 A: i guess 'cause it's they can sell medicines over and over but you only need to buy an ionizer once [laughter] they don't make as much money that way 
+
+552.03 552.95 B: true 
+
+554.74 556.59 B: right 
+
+557.30 560.25 B: yeah i'll have to look into that and get one [sigh] 
+
+560.91 565.44 B: 'cause that that's what's the worst is waking up in the morning and just being all congested 
+
+564.99 570.96 A: and i just read something else and i haven't tried it but they say if you take some horseradish and some vinegar 
+
+570.50 571.78 B: yeah 
+
+571.53 572.67 A: [laughter] 
+
+571.85 574.66 B: i got myself a nice bottle of horseradish 
+
+574.95 578.28 A: that that'll the vinegar i forget the vinegar kills 
+
+578.92 580.79 A: ah bacteria 
+
+580.56 581.47 B: okay 
+
+580.84 584.76 A: and the horseradish opens up your sinuses [laughter] so [laughter] 
+
+582.60 584.11 B: yeah it does 
+
+585.32 588.85 B: it does that like hot chinese mustard too is good [sigh] 
+
+589.40 593.48 B: it's basically the same thing it's got like wasabi in it which is horseradish [sigh] 
+
+597.18 599.90 A: i thought that was pretty unique i couldn't imagine that a lot of 
+
