@@ -734,6 +734,11 @@
       "from": "setprototypeof@1.0.1",
       "resolved": "https://registry.npmjs.org/setprototypeof/-/setprototypeof-1.0.1.tgz"
     },
+    "snowball": {
+      "version": "0.3.1",
+      "from": "snowball@*",
+      "resolved": "https://registry.npmjs.org/snowball/-/snowball-0.3.1.tgz"
+    },
     "sntp": {
       "version": "1.0.9",
       "from": "sntp@>=1.0.0 <2.0.0",
