@@ -10,7 +10,7 @@ var repeatedIds = JSON.parse(fs.readFileSync('repeated_ids.json', 'utf8'));
 var files = [
   {
     passkey: '8e5a6bfc88f891ea799bc6694436edb9',
-    count: 62,
+    count: 100,
     name: 'Omar'
   },
   {
@@ -20,7 +20,7 @@ var files = [
   },
   {
     passkey: 'ffe359d641982de20dbc86eae7ccb522',
-    count: 72,
+    count: 100,
     name: 'Spencer'
   },
   {
@@ -54,10 +54,10 @@ var totalCorrect = 0;
 var totalQuestions = 0;
 var accuracyByTopic = {};
 var lengthsByTopic = {}
-
+var numOfTopics = {}
+var test = 0;
 _.each(files, function(file) {
   var passkey = file.passkey;
-  var count = file.count;
   var name = file.name;
 
   var questionsFilename = passkey + '.questions.json';
@@ -74,7 +74,10 @@ _.each(files, function(file) {
   var numRepeatedCorrect = 0;
   var numRepeatedQuestions = 0;
 
-  for (var i = 0; i < 62; i++) {
+  var numCorrectPerTopic = {};
+  var numQuestionsPerTopic = {};
+
+  for (var i = 0; i < 100; i++) {
     var question = questions[i];
     var correct = question.correct;
     var answers = question.answers;
@@ -123,6 +126,12 @@ _.each(files, function(file) {
         if (isRepeated) {
           numRepeatedCorrect++;
         }
+
+        if (!numCorrectPerTopic[topic]) {
+          numCorrectPerTopic[topic] = 0;
+        }
+
+        numCorrectPerTopic[topic]++;
       }
 
       numQuestions++;
@@ -135,7 +144,19 @@ _.each(files, function(file) {
       if (isRepeated) {
         numRepeatedQuestions++;
       }
+
+      if (!numQuestionsPerTopic[topic]) {
+        numQuestionsPerTopic[topic] = 0;
+      }
+
+      numQuestionsPerTopic[topic]++;
     }
+
+    if (!numOfTopics[topic]) {
+      numOfTopics[topic] = 0
+    }
+
+    numOfTopics[topic]++;
   }
 
   totalCorrect += numCorrect;
@@ -145,6 +166,14 @@ _.each(files, function(file) {
   console.log('Accuracy: ' + numCorrect / numQuestions);
   console.log('Shared Accuracy: ' + numSharedCorrect / numSharedQuestions);
   // console.log('Repeated Accuracy: ' + numRepeatedCorrect, numRepeatedQuestions);
+
+  // _.each(numCorrectPerTopic, function(num, topic) {
+  //   console.log(topic + ' : ' + num);
+  // });
+
+  // _.each(numQuestionsPerTopic, function(num, topic) {
+  //   console.log(topic + ' : ' + num);
+  // });
 });
 
 var topicKeys = Object.keys(accuracyByTopic);
@@ -152,9 +181,11 @@ for (var k = 0; k < topicKeys.length; k++) {
   var topicKey = topicKeys[k];
   var numAccuracyByTopic = accuracyByTopic[topicKey];
   var numLengthsByTopic = lengthsByTopic[topicKey];
+  var topicCount = numOfTopics[topicKey];
+  var avgLength = numLengthsByTopic.words / topicCount;
 
   console.log('Topic: ' + topicKey, numAccuracyByTopic.numCorrect / numAccuracyByTopic.numQuestions);
-  console.log('Topic: ' + topicKey, 'Words: ' + numLengthsByTopic.words, 'Chars: ' + numLengthsByTopic.chars);
+  console.log('Topic: ' + topicKey, 'Words: ' + numLengthsByTopic.words, 'Chars: ' + numLengthsByTopic.chars, 'Number: ' + topicCount, 'Avg. words: ' + avgLength);
 }
 
 console.log('Overall accuracy: ' + totalCorrect / totalQuestions);
