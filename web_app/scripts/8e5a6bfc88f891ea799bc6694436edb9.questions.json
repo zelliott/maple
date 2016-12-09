@@ -1125,11 +1125,11 @@
       "nature"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "induced",
+      "crucial",
+      "role",
+      "finding",
+      "role"
     ],
     "difficulty": -1
   },
@@ -1143,11 +1143,11 @@
       "typical"
     ],
     "answers": [
+      "spectrum",
+      "tumor",
       null,
-      null,
-      null,
-      null,
-      null
+      "enhancement",
+      "caused"
     ],
     "difficulty": -1
   },
@@ -1161,11 +1161,11 @@
       "confirmed"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "correct",
+      "malign",
+      "its",
+      "children",
+      "treated"
     ],
     "difficulty": -1
   },
@@ -1179,11 +1179,11 @@
       "results"
     ],
     "answers": [
+      "effects",
       null,
-      null,
-      null,
-      null,
-      null
+      "aggregated",
+      "temperature",
+      "findings"
     ],
     "difficulty": -1
   },
@@ -1198,10 +1198,10 @@
     ],
     "answers": [
       null,
-      null,
-      null,
-      null,
-      null
+      "diseases",
+      "parts",
+      "diagnosis",
+      "findings"
     ],
     "difficulty": -1
   },
@@ -1216,10 +1216,10 @@
     ],
     "answers": [
       null,
+      "similar",
       null,
       null,
-      null,
-      null
+      "correlation"
     ],
     "difficulty": -1
   },
@@ -1233,11 +1233,11 @@
       "subtypes"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "holoprosencephaly",
+      "found",
+      "image",
+      "found",
+      "correctly"
     ],
     "difficulty": -1
   },
@@ -1251,11 +1251,11 @@
       "found"
     ],
     "answers": [
+      "severe",
+      "constrained",
       null,
-      null,
-      null,
-      null,
-      null
+      "severe",
+      "found"
     ],
     "difficulty": -1
   },
@@ -1287,11 +1287,11 @@
       "regular"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "response",
+      "conus",
+      "accounts",
+      "causing",
+      "magnetic "
     ],
     "difficulty": -1
   },
@@ -1305,11 +1305,11 @@
       "via"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "mapping",
+      "two",
+      "elements",
+      "resonance",
+      "into"
     ],
     "difficulty": -1
   },
@@ -1323,7 +1323,7 @@
       "levels"
     ],
     "answers": [
-      null,
+      "study",
       null,
       null,
       null,
@@ -1341,11 +1341,11 @@
       "management"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "platelets",
+      "process",
+      "could",
+      "potentially",
+      "treatment"
     ],
     "difficulty": -1
   },
@@ -1359,11 +1359,11 @@
       "expression"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "data",
+      "possible",
+      "region",
+      "changing",
+      "type"
     ],
     "difficulty": -1
   },
@@ -1377,11 +1377,11 @@
       "ease"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "hearing",
+      "analyze",
+      "patient",
+      "descriptive",
+      "treatment"
     ],
     "difficulty": -1
   },
@@ -1395,11 +1395,11 @@
       "clinical"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "cerebral",
+      "due",
+      "analyze",
+      "disorders",
+      "medical"
     ],
     "difficulty": -1
   },
@@ -1413,11 +1413,11 @@
       "challenge"
     ],
     "answers": [
+      "evidence",
+      "empirical",
+      "effects",
       null,
-      null,
-      null,
-      null,
-      null
+      "complicate"
     ],
     "difficulty": -1
   },
@@ -1432,10 +1432,10 @@
     ],
     "answers": [
       null,
-      null,
-      null,
-      null,
-      null
+      "cell",
+      "function",
+      "cell",
+      "level"
     ],
     "difficulty": -1
   },
@@ -1449,11 +1449,11 @@
       "gene"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "range",
+      "disease",
+      "characteristics",
+      "analyzing",
+      "changing"
     ],
     "difficulty": -1
   },
@@ -1467,11 +1467,11 @@
       "cells"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "cell",
+      "investigated",
+      "presence",
+      "cells",
+      "cells"
     ],
     "difficulty": -1
   },
@@ -1485,11 +1485,11 @@
       "acid"
     ],
     "answers": [
+      "acid",
       null,
-      null,
-      null,
-      null,
-      null
+      "molecular",
+      "cell",
+      "cell"
     ],
     "difficulty": -1
   },
@@ -1505,9 +1505,9 @@
     "answers": [
       null,
       null,
-      null,
-      null,
-      null
+      "shows",
+      "could",
+      "strong"
     ],
     "difficulty": -1
   },
@@ -1521,11 +1521,11 @@
       "units"
     ],
     "answers": [
+      "causes",
       null,
       null,
-      null,
-      null,
-      null
+      "labeled",
+      "effects"
     ],
     "difficulty": -1
   },
@@ -1539,11 +1539,11 @@
       "would"
     ],
     "answers": [
+      "sequence",
+      "results",
+      "equal",
       null,
-      null,
-      null,
-      null,
-      null
+      "most"
     ],
     "difficulty": -1
   },
@@ -1557,11 +1557,11 @@
       "gradient"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "classes",
+      "epitope",
+      "epitope",
+      "epitope",
+      "epitope"
     ],
     "difficulty": -1
   },
@@ -1575,11 +1575,11 @@
       "insertion"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "presented",
+      "caused",
+      "steps",
+      "genes",
+      "gene"
     ],
     "difficulty": -1
   },
@@ -1595,9 +1595,9 @@
     "answers": [
       null,
       null,
-      null,
-      null,
-      null
+      "showed",
+      "for",
+      "analyze"
     ],
     "difficulty": -1
   },
@@ -1611,11 +1611,11 @@
       "production"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "targeted",
+      "maize",
+      "sequence",
+      "sequences",
+      "ways"
     ],
     "difficulty": -1
   },
@@ -1630,10 +1630,10 @@
     ],
     "answers": [
       null,
-      null,
-      null,
-      null,
-      null
+      "process",
+      "regulator",
+      "analysis",
+      "relevant"
     ],
     "difficulty": -1
   },
@@ -1647,11 +1647,11 @@
       "innovation"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "both",
+      "means",
+      "approach",
+      "cellular",
+      "kind"
     ],
     "difficulty": -1
   },
@@ -1665,11 +1665,11 @@
       "one"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "species",
+      "findings",
+      "independent",
+      "led",
+      "one"
     ],
     "difficulty": -1
   },
@@ -1683,11 +1683,11 @@
       "Western"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "samples",
+      "vitro",
+      "amount",
+      "one",
+      "alpha"
     ],
     "difficulty": -1
   },
@@ -1701,11 +1701,11 @@
       "refine"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "happens",
+      "better",
+      "understanding",
+      "genes",
+      "achieve"
     ],
     "difficulty": -1
   },
@@ -1719,8 +1719,8 @@
       "expression"
     ],
     "answers": [
-      null,
-      null,
+      "cell",
+      "u",
       null,
       null,
       null
@@ -1737,11 +1737,11 @@
       "results"
     ],
     "answers": [
+      "generation",
+      "nuclei",
       null,
-      null,
-      null,
-      null,
-      null
+      "various",
+      "findings"
     ],
     "difficulty": -1
   },
@@ -1755,11 +1755,11 @@
       "interactions"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "receptors",
+      "main",
+      "learning",
+      "understand",
+      "features"
     ],
     "difficulty": -1
   },
@@ -1773,11 +1773,11 @@
       "little"
     ],
     "answers": [
+      "mice",
+      "not",
       null,
-      null,
-      null,
-      null,
-      null
+      "cell",
+      "compelling"
     ],
     "difficulty": -1
   },
@@ -1792,10 +1792,10 @@
     ],
     "answers": [
       null,
+      "role",
       null,
-      null,
-      null,
-      null
+      "analyze",
+      "effects"
     ],
     "difficulty": -1
   }

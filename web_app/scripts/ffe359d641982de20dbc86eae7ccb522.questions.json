@@ -1363,7 +1363,7 @@
       null,
       null,
       null,
-      null
+      "showing"
     ],
     "difficulty": -1
   },
@@ -1377,7 +1377,7 @@
       "ACs"
     ],
     "answers": [
-      null,
+      "Minor",
       null,
       null,
       null,
@@ -1395,10 +1395,10 @@
       "diagnosis"
     ],
     "answers": [
+      "case",
       null,
-      null,
-      null,
-      null,
+      "leads",
+      "patient",
       null
     ],
     "difficulty": -1
@@ -1413,10 +1413,10 @@
       "Although"
     ],
     "answers": [
+      "brain",
       null,
-      null,
-      null,
-      null,
+      "suggest",
+      "organically",
       null
     ],
     "difficulty": -1
@@ -1449,10 +1449,10 @@
       "surface"
     ],
     "answers": [
+      "levels",
+      "measuring",
       null,
-      null,
-      null,
-      null,
+      "procedures",
       null
     ],
     "difficulty": -1
@@ -1467,7 +1467,7 @@
       "resistance"
     ],
     "answers": [
-      null,
+      "endocrine",
       null,
       null,
       null,
@@ -1485,11 +1485,11 @@
       "four"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "polymerase",
+      "regilatory",
+      "attempt",
+      "most",
+      "the"
     ],
     "difficulty": -1
   },
@@ -1504,10 +1504,10 @@
     ],
     "answers": [
       null,
+      "nutrient",
       null,
-      null,
-      null,
-      null
+      "levels",
+      "important"
     ],
     "difficulty": -1
   },
@@ -1521,10 +1521,10 @@
       "activity"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
+      "growth",
+      "mechanisms",
+      "help",
+      "monitored",
       null
     ],
     "difficulty": -1
@@ -1539,8 +1539,8 @@
       "hemolytic"
     ],
     "answers": [
-      null,
-      null,
+      "caputured",
+      "tested",
       null,
       null,
       null
@@ -1559,8 +1559,8 @@
     "answers": [
       null,
       null,
-      null,
-      null,
+      "blot",
+      "residues",
       null
     ],
     "difficulty": -1
@@ -1575,9 +1575,9 @@
       "acquisition"
     ],
     "answers": [
+      "used",
       null,
-      null,
-      null,
+      "the",
       null,
       null
     ],
@@ -1593,8 +1593,8 @@
       "resulted"
     ],
     "answers": [
-      null,
-      null,
+      "gene",
+      "used",
       null,
       null,
       null
@@ -1611,11 +1611,11 @@
       "circulation"
     ],
     "answers": [
-      null,
-      null,
-      null,
-      null,
-      null
+      "occurence",
+      "urban",
+      "populations",
+      "D",
+      "presence "
     ],
     "difficulty": -1
   },
@@ -1629,7 +1629,7 @@
       "peptide"
     ],
     "answers": [
-      null,
+      "South",
       null,
       null,
       null,
@@ -1647,8 +1647,8 @@
       "similar"
     ],
     "answers": [
-      null,
-      null,
+      "proteins",
+      "analysis",
       null,
       null,
       null
@@ -1666,8 +1666,8 @@
     ],
     "answers": [
       null,
-      null,
-      null,
+      "muscle",
+      "signalling",
       null,
       null
     ],
@@ -1685,9 +1685,9 @@
     "answers": [
       null,
       null,
-      null,
-      null,
-      null
+      "replication",
+      "cord",
+      "some"
     ],
     "difficulty": -1
   },
@@ -1701,11 +1701,11 @@
       "tools"
     ],
     "answers": [
+      "use",
+      "serious",
       null,
       null,
-      null,
-      null,
-      null
+      "tools"
     ],
     "difficulty": -1
   },
@@ -1719,8 +1719,8 @@
       "means"
     ],
     "answers": [
-      null,
-      null,
+      "conductance",
+      "residue",
       null,
       null,
       null
@@ -1737,9 +1737,9 @@
       "using"
     ],
     "answers": [
+      "creates",
       null,
-      null,
-      null,
+      "cell",
       null,
       null
     ],
@@ -1755,11 +1755,11 @@
       "novel"
     ],
     "answers": [
+      "are",
+      "amongst",
       null,
-      null,
-      null,
-      null,
-      null
+      "probability",
+      "many"
     ],
     "difficulty": -1
   },
@@ -1792,10 +1792,10 @@
     ],
     "answers": [
       null,
-      null,
-      null,
-      null,
-      null
+      "soft",
+      "determine",
+      "showed",
+      "benefit"
     ],
     "difficulty": -1
   }

@@ -32,7 +32,7 @@ var files = [
   }
 ];
 
-var id = 4;
+var id = 1;
 var passkey = files[id].passkey;
 var paramsA = {
   TableName: 'Tests',
