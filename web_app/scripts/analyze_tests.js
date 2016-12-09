@@ -4,6 +4,9 @@ var Snowball = require('snowball');
 
 var stemmer = new Snowball('English');
 
+var sharedIds = JSON.parse(fs.readFileSync('shared_ids.json', 'utf8'));
+var repeatedIds = JSON.parse(fs.readFileSync('repeated_ids.json', 'utf8'));
+
 var files = [
   {
     passkey: '8e5a6bfc88f891ea799bc6694436edb9',
@@ -33,6 +36,9 @@ var compareStem = function (a, b) {
     return false;
   }
 
+  a = a.toLowerCase();
+  b = b.toLowerCase();
+
   stemmer.setCurrent(a);
   stemmer.stem();
   a = stemmer.getCurrent();
@@ -46,7 +52,8 @@ var compareStem = function (a, b) {
 
 var totalCorrect = 0;
 var totalQuestions = 0;
-var byTopic = {};
+var accuracyByTopic = {};
+var lengthsByTopic = {}
 
 _.each(files, function(file) {
   var passkey = file.passkey;
@@ -61,20 +68,41 @@ _.each(files, function(file) {
   var numCorrect = 0;
   var numQuestions = 0;
 
-  for (var i = 0; i < count; i++) {
+  var numSharedCorrect = 0;
+  var numSharedQuestions = 0;
+
+  var numRepeatedCorrect = 0;
+  var numRepeatedQuestions = 0;
+
+  for (var i = 0; i < 62; i++) {
     var question = questions[i];
     var correct = question.correct;
     var answers = question.answers;
+    var numWords = question.abstract.split(' ').length;
+    var numChars = question.abstract.split('').length;
 
     var removedWordsKey = correct.join('.');
     var topic = topics[removedWordsKey];
 
-    if (!byTopic[topic]) {
-      byTopic[topic] = {
+    var isShared = sharedIds[removedWordsKey] !== undefined;
+    var isRepeated = repeatedIds[passkey].indexOf(removedWordsKey) != -1;
+
+    if (!accuracyByTopic[topic]) {
+      accuracyByTopic[topic] = {
         numCorrect: 0,
         numQuestions: 0
       };
     }
+
+    if (!lengthsByTopic[topic]) {
+      lengthsByTopic[topic] = {
+        words: 0,
+        chars: 0
+      }
+    }
+
+    lengthsByTopic[topic].words += numWords;
+    lengthsByTopic[topic].chars += numChars;
 
     for (var j = 0; j < 5; j++) {
       var cor = correct[j];
@@ -86,11 +114,27 @@ _.each(files, function(file) {
 
       if (compareStem(cor, ans)) {
         numCorrect++;
-        byTopic[topic].numCorrect++;
+        accuracyByTopic[topic].numCorrect++;
+
+        if (isShared) {
+          numSharedCorrect++;
+        }
+
+        if (isRepeated) {
+          numRepeatedCorrect++;
+        }
       }
 
       numQuestions++;
-      byTopic[topic].numQuestions++;
+      accuracyByTopic[topic].numQuestions++;
+
+      if (isShared) {
+        numSharedQuestions++;
+      }
+
+      if (isRepeated) {
+        numRepeatedQuestions++;
+      }
     }
   }
 
@@ -99,14 +143,18 @@ _.each(files, function(file) {
 
   console.log('Name: ' + name);
   console.log('Accuracy: ' + numCorrect / numQuestions);
+  console.log('Shared Accuracy: ' + numSharedCorrect / numSharedQuestions);
+  // console.log('Repeated Accuracy: ' + numRepeatedCorrect, numRepeatedQuestions);
 });
 
-var topicKeys = Object.keys(byTopic);
+var topicKeys = Object.keys(accuracyByTopic);
 for (var k = 0; k < topicKeys.length; k++) {
   var topicKey = topicKeys[k];
-  var numByTopic = byTopic[topicKey];
+  var numAccuracyByTopic = accuracyByTopic[topicKey];
+  var numLengthsByTopic = lengthsByTopic[topicKey];
 
-  console.log('Topic: ' + topicKey, numByTopic.numCorrect / numByTopic.numQuestions);
+  console.log('Topic: ' + topicKey, numAccuracyByTopic.numCorrect / numAccuracyByTopic.numQuestions);
+  console.log('Topic: ' + topicKey, 'Words: ' + numLengthsByTopic.words, 'Chars: ' + numLengthsByTopic.chars);
 }
 
 console.log('Overall accuracy: ' + totalCorrect / totalQuestions);

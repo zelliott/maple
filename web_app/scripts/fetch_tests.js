@@ -8,7 +8,7 @@ var files = [
   {},
   {
     passkey: '8e5a6bfc88f891ea799bc6694436edb9',
-    count: 62,
+    count: 100,
     name: 'Omar',
     id: 1
   },
@@ -20,7 +20,7 @@ var files = [
   },
   {
     passkey: 'ffe359d641982de20dbc86eae7ccb522',
-    count: 72,
+    count: 100,
     name: 'Spencer',
     id: 3
   },
