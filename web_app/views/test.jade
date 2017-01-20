@@ -2,10 +2,15 @@ extends ./layout.jade
 
 block navbar-content
   div(class="form-inline float-xs-right")
-    div(class="input-group")
+    div(class="input-group", data-toggle="tooltip", data-placement="bottom", title="Be sure to remember this passkey so that if you cannot complete the test in one sitting, you can return to where you left off.")
       span(class="input-group-addon", id="passkey}") Passkey
       input(type="text", class="form-control", aria-describedby="passkey", value="#{passkey}")
-  span(class="navbar-text float-xs-right mr-2", id="test-progress")
+  span(class="navbar-text float-xs-right mr-2", id="test-progress", data-toggle="tooltip", data-placement="bottom", title="This test has two parts: part 1 has 7 cloze questions, and part 2 has 7 readability questions.")
+    span(class="mode mr-2" data-value="#{mode}")
+      if (mode === 'CLOZE')
+        | Part 1: Cloze
+      else
+        | Part 2: Readability
     span(class="current" data-value="#{current}") #{questions.length - current} remaining
     span(class="total" data-value="#{questions.length}")
 
@@ -16,19 +21,28 @@ block content
       div(class="row abstract abstract-#{i} #{currentClass}")
         div(class="col-sm-12 mb-2")
           h5 Question ##{i + 1}
-        div(class="col-sm-6 mb-2") !{q.abstract}
-        div(class="col-sm-3")
+        div(class="col-sm-6 mb-2 abstract-text") !{q.clozeAbstract}
+        div(class="col-sm-3 part-1-panel")
           each answer, j in q.answers
             div(class="input-group mb-2")
               span(class="input-group-addon", id="addon-#{j}") #{j + 1}
               input(type="text", class="form-control answer answer-#{j + 1}", aria-describedby="addon-#{j}" value="#{(answer !== null) ? answer : ''}")
+        div(class="col-sm-3 part-2-panel")
+          div(class="form-group mb-2")
+            label(for="readability-input") Difficulty
+            input(class="form-control difficulty", type="number", id="readability-input", max="10", min="1", step="1", value="#{(q.difficulty > 0) ? q.difficulty : ''}")
+            p(class="form-text text-muted")
+              div(class="text-muted") 1 = text is very <strong>easy</strong> to read
+              div(class="text-muted") 10 = text is very <strong>difficult</strong> to read
         div(class="col-sm-3")
-          button(type="button", class="btn btn-primary previous-abstract mr-2") Previous
-          button(type="button", class="btn btn-primary next-abstract") Next
-          button(type="button", class="btn btn-primary finish-abstract") Finish
-          div(class="alert alert-info saving-status mt-2", role="alert") Saved
-  div(class="col-sm-12 test-completed text-xs-center")
-    | Thanks for completing the cloze test.  You may now close this window.
+          button(type="button", class="btn btn-primary previous mr-2 mb-2") Previous
+          button(type="button", class="btn btn-primary next mb-2") Next
+          button(type="button", class="btn btn-primary finish-1 mb-2") Finish Part 1
+          button(type="button", class="btn btn-primary finish-2 mb-2") Finish Part 2
+          div(class="alert alert-info saving-status", role="alert") Saved
+  div(class="col-sm-12 test-message text-xs-center")
+    p
+    button(type="button", class="btn btn-primary start-2") Start Part 2
 
 
 block scripts

@@ -11,16 +11,16 @@ var formatQuestions = function(rawQuestions) {
     return '<button type="button" class="btn btn-secondary btn-sm blank">' + i + '</button>';
   };
 
-
   return _.map(rawQuestions, function(question) {
-    var splitAbstract = question.originalString.split(/\s+/g);
+    var fullAbstract = question.originalString;
+    var splitAbstract = fullAbstract.split(/\s+/g);
     var removed = question.removedWords;
 
     _.forEach(question.indices, function(index, i) {
       splitAbstract.splice(index, 1, generateButton(i + 1));
     });
 
-    var abstract = splitAbstract.join(' ');
+    var clozeAbstract = splitAbstract.join(' ');
     var answers = [];
 
     for (var i = 0; i < removed.length; i++) {
@@ -30,8 +30,10 @@ var formatQuestions = function(rawQuestions) {
     return {
       correct: removed,
       answers: answers,
-      abstract: abstract,
-      difficulty: -1
+      clozeAbstract: clozeAbstract,
+      fullAbstract: fullAbstract,
+      difficulty: -1,
+      timeElapsed: 0
     };
   });
 };
@@ -40,12 +42,14 @@ var getNextId = function (cb) {
     var filename = 'data/currentTest.json';
     var id = JSON.parse(fs.readFileSync(filename, 'utf8')).id;
 
-    fs.writeFile(filename, JSON.stringify({ id: id + 1 }), function (err) {
-      if (err) {
-        cb(err, null);
-        return;
-      }
-    });
+    // TODO:
+    // Do not forget to uncomment.
+    // fs.writeFile(filename, JSON.stringify({ id: id + 1 }), function (err) {
+    //   if (err) {
+    //     cb(err, null);
+    //     return;
+    //   }
+    // });
 
     return id;
 }
@@ -77,7 +81,8 @@ module.exports = {
           passkey: passkey,
           questions: questions,
           current: 0,
-          completed: false
+          completed: false,
+          mode: 'CLOZE'
         }
       };
 
@@ -125,7 +130,77 @@ module.exports = {
     });
   },
 
-  save: function(data, cb) {
+  saveCloze: function(data, cb) {
+    var TestService = this;
+    this.get(data.passkey, function (err, body) {
+
+      if (err) {
+        cb(err, null);
+        return;
+      }
+
+      var questions = body.questions;
+      var current = data.current;
+      var next = Number(data.next);
+      var completed = questions.length < next + 1;
+      var mode = completed ? 'READABILITY' : 'CLOZE';
+
+      questions[current].answers = data.answers;
+      questions[current].timeElapsed += data.timeElapsed;
+
+      var params = {
+        TableName: 'Tests',
+        Key: {
+          passkey: data.passkey
+        },
+        UpdateExpression: 'set #propA = :valueA, #propB = :valueB, #probC = :valueC, #probD = :valueD',
+        ExpressionAttributeNames: {
+          '#propA': 'questions',
+          '#propB': 'current',
+          '#probC': 'completed',
+          '#probD': 'mode'
+        },
+        ExpressionAttributeValues: {
+          ':valueA': questions,
+          ':valueB': next,
+          ':valueC': completed,
+          ':valueD': mode
+        },
+        ReturnValues: 'ALL_NEW'
+      };
+
+      dc.update(params, function (err, data) {
+
+        if (err) {
+          cb(err, null);
+          return;
+        }
+
+        var test = data.Attributes;
+
+        if (test.completed) {
+          TestService.complete(test, function (err, body) {
+            if (err) {
+              cb(err, null);
+              return;
+            }
+
+            // TODO:
+            // Pass back current thing
+            cb(null, body);
+          });
+
+          return;
+        }
+
+        // TODO:
+        // Pass back current thing
+        cb(null, test);
+      })
+    })
+  },
+
+  saveReadability: function(data, cb) {
     var TestService = this;
     this.get(data.passkey, function (err, body) {
 
@@ -139,7 +214,8 @@ module.exports = {
       var next = Number(data.next);
       var completed = questions.length < next + 1;
 
-      questions[current].answers = data.answers;
+      questions[current].difficulty = data.difficulty;
+      console.log(questions[current].difficulty, data.difficulty);
 
       var params = {
         TableName: 'Tests',

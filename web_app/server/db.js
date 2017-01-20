@@ -4,7 +4,8 @@ var _ = require('lodash');
 
 aws.config.update({
   region: 'us-west-1',
-  endpoint: 'dynamodb.us-west-1.amazonaws.com' // http://localhost:8000
+  endpoint: 'dynamodb.us-west-1.amazonaws.com'
+  // endpoint: 'http://localhost:8000'
 });
 
 var db = new aws.DynamoDB();
@@ -113,6 +114,6 @@ var paramsCompletedTests = {
 // createTable(paramsRawTests);
 // createTable(paramsCompletedTests);
 
-// populateRawTests('data/rawTests.json');
+populateRawTests('data/rawTests7.json');
 
 module.exports = db;

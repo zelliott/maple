@@ -1,6 +1,6 @@
 var TestService = require('./../services/test');
 
-module.exports = function(app) {
+module.exports = function (app) {
 
   app.get('/test', function (req, res) {
     TestService.get(req.session.passkey, function (err, body) {
@@ -12,7 +12,8 @@ module.exports = function(app) {
       res.render('test', {
         passkey: body.passkey,
         questions: body.questions,
-        current: Number(body.current)
+        current: Number(body.current),
+        mode: body.mode
       });
     });
   });
@@ -36,16 +37,17 @@ module.exports = function(app) {
     res.redirect('/test');
   });
 
-  app.post('/test/save', function (req, res) {
+  app.post('/test/save/cloze', function (req, res) {
 
     var answers = req.body['answers[]'].map(function (ans) {
         return (ans.length === 0) ? null : ans;
     });
 
-    TestService.save({
+    TestService.saveCloze({
       passkey: req.session.passkey,
       current: req.body.current,
       next: req.body.next,
+      timeElapsed: req.body.timeElapsed,
       answers: answers
     }, function (err, body) {
       if (err) {
@@ -53,7 +55,23 @@ module.exports = function(app) {
       }
 
       res.send(body);
-    })
+    });
+  });
+
+  app.post('/test/save/readability', function (req, res) {
+
+    TestService.saveReadability({
+      passkey: req.session.passkey,
+      current: req.body.current,
+      next: req.body.next,
+      difficulty: req.body.difficulty,
+    }, function (err, body) {
+      if (err) {
+        res.redirect('/error');
+      }
+
+      res.send(body);
+    });
   });
 
 };
