@@ -11,7 +11,7 @@ var errorRoute = require('./routes/error');
 
 var db = require('./server/db');
 
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 8081;
 
 // Define routes
 var app = express();

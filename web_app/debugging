@@ -1,0 +1,2 @@
+access denied when reading/writing to dynamodb
+ - added AmazonDynamoDBFullAccess to IAM role.  temp solution.

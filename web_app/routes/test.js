@@ -18,6 +18,11 @@ module.exports = function (app) {
     });
   });
 
+  app.get('/test/:passkey', function (req, res) {
+    req.session.passkey = req.params.passkey;
+    res.redirect('/test');
+  });
+
   app.post('/test/start', function (req, res) {
     TestService.start(req.body.passkey, function (err, body) {
 

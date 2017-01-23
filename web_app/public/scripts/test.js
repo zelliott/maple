@@ -43,17 +43,17 @@ function focusAnswer (el) {
 function disableBtns (isDisabled) {
   if (isDisabled) {
     $('.previous, .next').attr('disabled', 'disabled');
-    $('.saving-status').text('Saving...')
+    $('.saving-status').text('Saving answers...')
   } else {
     $('.previous, .next').removeAttr('disabled');
-    $('.saving-status').text('Saved');
+    $('.saving-status').text('Answers saved');
   }
 }
 
 function saveAnswer (delta) {
 
-  // var baseURL = 'http://node-express-env.8nhudetmtc.us-west-1.elasticbeanstalk.com/';
-  var baseURL = 'http://localhost:3000/';
+  // var baseURL = 'http://custom-env-1.v8hharbp4m.us-west-1.elasticbeanstalk.com/';
+  var baseURL = 'http://localhost:8081/';
   var saveURL;
   var data;
 
@@ -172,8 +172,8 @@ var Test = function () {
   });
 
   $('.start-2').on('click', function () {
-    var baseURL = 'http://node-express-env.8nhudetmtc.us-west-1.elasticbeanstalk.com/';
-    // var baseURL = 'http://localhost:3000/';
+    // var baseURL = 'http://custom-env-1.v8hharbp4m.us-west-1.elasticbeanstalk.com/';
+    var baseURL = 'http://localhost:8081/';
     $.get(baseURL + 'api/test').done(function (data, status) {
 
       var numQuestions = data.questions.length;

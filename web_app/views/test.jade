@@ -5,7 +5,7 @@ block navbar-content
     div(class="input-group", data-toggle="tooltip", data-placement="bottom", title="Be sure to remember this passkey so that if you cannot complete the test in one sitting, you can return to where you left off.")
       span(class="input-group-addon", id="passkey}") Passkey
       input(type="text", class="form-control", aria-describedby="passkey", value="#{passkey}")
-  span(class="navbar-text float-xs-right mr-2", id="test-progress", data-toggle="tooltip", data-placement="bottom", title="This test has two parts: part 1 has 7 cloze questions, and part 2 has 7 readability questions.")
+  span(class="navbar-text float-xs-right mr-2", id="test-progress", data-toggle="tooltip", data-placement="bottom", title="This test has two parts. Part 1 has 7 cloze questions. Part 2 has 7 readability questions.")
     span(class="mode mr-2" data-value="#{mode}")
       if (mode === 'CLOZE')
         | Part 1: Cloze
@@ -35,11 +35,11 @@ block content
               div(class="text-muted") 1 = text is very <strong>easy</strong> to read
               div(class="text-muted") 10 = text is very <strong>difficult</strong> to read
         div(class="col-sm-3")
-          button(type="button", class="btn btn-primary previous mr-2 mb-2") Previous
-          button(type="button", class="btn btn-primary next mb-2") Next
+          button(type="button", class="btn btn-primary previous mr-2 mb-2") Previous question
+          button(type="button", class="btn btn-primary next mb-2") Next question
           button(type="button", class="btn btn-primary finish-1 mb-2") Finish Part 1
           button(type="button", class="btn btn-primary finish-2 mb-2") Finish Part 2
-          div(class="alert alert-info saving-status", role="alert") Saved
+          div(class="alert alert-info saving-status", role="alert") Answers saved
   div(class="col-sm-12 test-message text-xs-center")
     p
     button(type="button", class="btn btn-primary start-2") Start Part 2

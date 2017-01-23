@@ -42,14 +42,12 @@ var getNextId = function (cb) {
     var filename = 'data/currentTest.json';
     var id = JSON.parse(fs.readFileSync(filename, 'utf8')).id;
 
-    // TODO:
-    // Do not forget to uncomment.
-    // fs.writeFile(filename, JSON.stringify({ id: id + 1 }), function (err) {
-    //   if (err) {
-    //     cb(err, null);
-    //     return;
-    //   }
-    // });
+    fs.writeFile(filename, JSON.stringify({ id: id + 1 }), function (err) {
+      if (err) {
+        cb(err, null);
+        return;
+      }
+    });
 
     return id;
 }
@@ -142,8 +140,13 @@ module.exports = {
       var questions = body.questions;
       var current = data.current;
       var next = Number(data.next);
-      var completed = questions.length < next + 1;
-      var mode = completed ? 'READABILITY' : 'CLOZE';
+      var completedCloze = questions.length < next + 1;
+      var mode = completedCloze ? 'READABILITY' : 'CLOZE';
+
+      // If the cloze test has been completed, reset next for readability
+      if (completedCloze) {
+        next = 0;
+      }
 
       questions[current].answers = data.answers;
       questions[current].timeElapsed += data.timeElapsed;
@@ -163,7 +166,7 @@ module.exports = {
         ExpressionAttributeValues: {
           ':valueA': questions,
           ':valueB': next,
-          ':valueC': completed,
+          ':valueC': false,
           ':valueD': mode
         },
         ReturnValues: 'ALL_NEW'
@@ -178,20 +181,21 @@ module.exports = {
 
         var test = data.Attributes;
 
-        if (test.completed) {
-          TestService.complete(test, function (err, body) {
-            if (err) {
-              cb(err, null);
-              return;
-            }
+        // saveCloze will never trigger a completed test
+        // if (test.completed) {
+        //   TestService.complete(test, function (err, body) {
+        //     if (err) {
+        //       cb(err, null);
+        //       return;
+        //     }
 
-            // TODO:
-            // Pass back current thing
-            cb(null, body);
-          });
+        //     // TODO:
+        //     // Pass back current thing
+        //     cb(null, body);
+        //   });
 
-          return;
-        }
+        //   return;
+        // }
 
         // TODO:
         // Pass back current thing
@@ -212,10 +216,9 @@ module.exports = {
       var questions = body.questions;
       var current = data.current;
       var next = Number(data.next);
-      var completed = questions.length < next + 1;
+      var completedReadability = questions.length < next + 1;
 
       questions[current].difficulty = data.difficulty;
-      console.log(questions[current].difficulty, data.difficulty);
 
       var params = {
         TableName: 'Tests',
@@ -231,7 +234,7 @@ module.exports = {
         ExpressionAttributeValues: {
           ':valueA': questions,
           ':valueB': next,
-          ':valueC': completed
+          ':valueC': completedReadability
         },
         ReturnValues: 'ALL_NEW'
       };
