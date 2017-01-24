@@ -12,6 +12,12 @@ var formatQuestions = function(rawQuestions) {
   };
 
   return _.map(rawQuestions, function(question) {
+
+    // TODO:
+    // This is a nasty check because of weirdly formatted raw questions where
+    // the group and test_ids are also in the test map...
+    if (question.originalString === undefined) return;
+
     var fullAbstract = question.originalString;
     var splitAbstract = fullAbstract.split(/\s+/g);
     var removed = question.removedWords;
@@ -27,39 +33,44 @@ var formatQuestions = function(rawQuestions) {
       answers.push(null);
     }
 
+    var topic = question.topic;
+    var questionId = question.question_id;
+
     return {
       correct: removed,
       answers: answers,
       clozeAbstract: clozeAbstract,
       fullAbstract: fullAbstract,
       difficulty: -1,
-      timeElapsed: 0
+      timeElapsed: 0,
+      topic: topic,
+      questionId: questionId
     };
   });
 };
 
 var getNextId = function (cb) {
     var filename = 'data/currentTest.json';
-    var id = JSON.parse(fs.readFileSync(filename, 'utf8')).id;
+    var testId = JSON.parse(fs.readFileSync(filename, 'utf8')).testId;
 
-    fs.writeFile(filename, JSON.stringify({ id: id + 1 }), function (err) {
+    fs.writeFile(filename, JSON.stringify({ testId: testId + 1 }), function (err) {
       if (err) {
         cb(err, null);
         return;
       }
     });
 
-    return id;
+    return testId;
 }
 
 module.exports = {
   start: function (passkey, cb) {
 
-    var id = getNextId(cb);
+    var testId = getNextId(cb);
     var paramsGet = {
       TableName: 'RawTests',
       Key: {
-        id: id
+        testId: testId
       }
     };
 
@@ -80,7 +91,9 @@ module.exports = {
           questions: questions,
           current: 0,
           completed: false,
-          mode: 'CLOZE'
+          mode: 'CLOZE',
+          testId: data.Item.testId,
+          groupId: data.Item.groupId
         }
       };
 

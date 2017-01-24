@@ -52,8 +52,8 @@ function disableBtns (isDisabled) {
 
 function saveAnswer (delta) {
 
-  // var baseURL = 'http://custom-env-1.v8hharbp4m.us-west-1.elasticbeanstalk.com/';
-  var baseURL = 'http://localhost:8081/';
+  var baseURL = 'http://custom-env-1.v8hharbp4m.us-west-1.elasticbeanstalk.com/';
+  // var baseURL = 'http://localhost:8081/';
   var saveURL;
   var data;
 
@@ -74,6 +74,8 @@ function saveAnswer (delta) {
       answers: answers,
       timeElapsed: Date.now() - this.timer
     };
+
+    this.timer = Date.now();
   } else {
 
     var difficulty = Number($('.difficulty:visible').val());
@@ -172,8 +174,8 @@ var Test = function () {
   });
 
   $('.start-2').on('click', function () {
-    // var baseURL = 'http://custom-env-1.v8hharbp4m.us-west-1.elasticbeanstalk.com/';
-    var baseURL = 'http://localhost:8081/';
+    var baseURL = 'http://custom-env-1.v8hharbp4m.us-west-1.elasticbeanstalk.com/';
+    // var baseURL = 'http://localhost:8081/';
     $.get(baseURL + 'api/test').done(function (data, status) {
 
       var numQuestions = data.questions.length;

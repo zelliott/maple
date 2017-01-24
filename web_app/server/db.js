@@ -4,8 +4,8 @@ var _ = require('lodash');
 
 aws.config.update({
   region: 'us-west-1',
-  // endpoint: 'dynamodb.us-west-1.amazonaws.com'
-  endpoint: 'http://localhost:8000'
+  endpoint: 'dynamodb.us-west-1.amazonaws.com'
+  // endpoint: 'http://localhost:8000'
 });
 
 var db = new aws.DynamoDB();
@@ -44,14 +44,17 @@ var populateRawTests = function (filename) {
     return {
       PutRequest: {
         Item: {
-          id: id++,
+          testId: test.test_id,
+          groupId: test.group,
           test: test
         }
       }
     };
   });
 
-  var slicedRequests = requests.slice(0, 20);
+  // TODO:
+  // Need to figure out a less hacky way to upload requests.
+  var slicedRequests = requests.slice(40, 60);
 
   var params = {
     RequestItems: {
@@ -81,10 +84,10 @@ var paramsTests = {
 var paramsRawTests = {
   TableName: 'RawTests',
   KeySchema: [
-    { AttributeName: 'id', KeyType: 'HASH' }
+    { AttributeName: 'testId', KeyType: 'HASH' }
   ],
   AttributeDefinitions: [
-    { AttributeName: 'id', AttributeType: 'N' }
+    { AttributeName: 'testId', AttributeType: 'N' }
   ],
   ProvisionedThroughput: {
     ReadCapacityUnits: 10,
@@ -114,6 +117,8 @@ var paramsCompletedTests = {
 // createTable(paramsRawTests);
 // createTable(paramsCompletedTests);
 
-populateRawTests('data/rawTests7.json');
+// populateRawTests('data/batches/batch1.json');
+// populateRawTests('data/batches/batch2.json');
+// populateRawTests('data/batches/batch3.json');
 
 module.exports = db;
