@@ -1,0 +1,509 @@
+# fe_03_02251.sph
+# Transcribed by BBN/WordWave
+
+0.00 1.10 B: hello 
+
+1.27 3.01 A: hello how are you 
+
+2.61 3.84 B: (( how are you doing )) 
+
+3.93 7.85 A: i'm doing fine have you participated in this before 
+
+7.45 9.77 B: ah yes i have this is the second call 
+
+9.62 15.88 A: is it okay yeah i'm new to the program but ah it sounds pretty interesting 
+
+15.41 20.01 B: yeah so we're supposed to talk about the weather and illness huh 
+
+20.14 24.69 A: yeah it's ah that's what the recording said you bet um 
+
+24.81 27.56 A: i actually find it's not so much the weather 
+
+27.81 32.70 A: ah that correlates to some to illness with me um 
+
+32.73 37.61 A: it's more of me just taking care of myself and staying away from crowds of people 
+
+37.96 39.78 B: exactly 
+
+39.83 43.53 B: the weather has nothing to do with my w- with my wellbeing 
+
+39.96 40.89 A: (( i ah yeah )) 
+
+44.65 48.00 B: no i i like i like walking in the rain snow 
+
+48.20 49.78 B: (( i i love all the ah )) 
+
+51.11 52.22 B: (( the )) 
+
+53.23 55.54 B: ah gifts that god gives us you know 
+
+55.47 57.29 A: you bet where you where do you live 
+
+57.05 58.78 B: uh soldofi pennsylvania 
+
+58.65 60.22 A: oh okay i'm in harrisburg 
+
+59.97 61.42 B: oh okay not too far 
+
+61.48 64.67 A: no so we get ah pretty much the same climates 
+
+64.08 66.61 B: pretty much so i love the change of seasons 
+
+66.60 68.77 A: ye- i do too um 
+
+68.86 73.46 A: ah the last couple years i've been spending more and more time in the winter in florida believe it or not 
+
+73.17 74.14 B: really 
+
+73.98 77.49 A: and ah i'm just d- finding that ah 
+
+78.75 79.43 A: (( [lipsmack] ah )) 
+
+78.81 79.57 B: (( uh )) 
+
+79.62 80.99 B: what's you're name 
+
+80.53 82.28 A: my name's john hoffman 
+
+81.51 83.41 B: john i'm robert how you doing 
+
+83.44 85.39 A: very good robert glad to meet you 
+
+84.26 84.96 B: (( yeah )) 
+
+85.11 93.85 B: ah nice nice to talk to you sir but ah i'll tell you one thing i was out in california one time for a new year's eve concert to see the grateful dead in california 
+
+94.11 95.21 A: oh wow 
+
+94.70 95.97 B: (( san francisco )) 
+
+96.34 103.31 B: and it being on the west coast during christmastime really bummed me out 
+
+103.15 104.04 A: did it 
+
+103.74 107.53 B: oh yeah 'cause i like to i like to be in the 
+
+107.72 109.49 B: in the cold when it's winter 
+
+109.58 112.59 B: you know supposed supposedly the winter months 
+
+109.83 110.81 A: i see 
+
+112.69 113.78 A: mhm 
+
+113.19 115.59 B: october november december january 
+
+115.73 118.66 B: it was so warm out there i was really depressed 
+
+119.35 120.57 A: yep so it's 
+
+119.94 124.80 B: i don't know how those people i guess if you live around the the heat all year round 
+
+126.32 127.28 B: you know 
+
+127.19 128.08 A: right 
+
+128.84 129.97 A: yeah like we're 
+
+129.29 132.54 B: that's why i'm glad i'm i live on the east coast the change of seasons 
+
+132.59 133.52 A: sure 
+
+134.37 139.57 A: yeah i know ah i don't like florida or california in the summer at all it's just way too hot 
+
+139.11 140.34 B: right 
+
+140.71 142.02 A: but um 
+
+142.71 147.22 A: either way i mean our conversation here is pretty simple because i think we both agree 
+
+147.29 150.45 A: the weather really doesn't have su- much of effect on either of us 
+
+150.17 151.92 B: not well do you travel 
+
+152.12 154.62 A: [lipsmack] um it's sporadic 
+
+154.73 160.09 A: ah sometimes i i ah this past year i didn't get to travel much but in previous years 
+
+156.70 157.39 B: (( at all )) 
+
+160.30 163.85 A: i have been fortunate enough to travel a little bit you bet 
+
+163.32 165.57 B: right right 
+
+165.99 169.49 B: (( i i i like i like i like weather wea- you know 'cause it )) 
+
+169.82 173.63 B: being a writer it i- inspires a a lot of emotions 
+
+173.74 174.49 B: (( so you )) 
+
+174.68 175.55 B: (( can ah )) 
+
+176.85 179.40 B: extrapolate from from what 
+
+180.08 181.00 B: you know 
+
+181.11 182.92 B: the feelings are outside 
+
+183.21 184.63 A: yeah i can believe that 
+
+184.21 185.22 B: sure 
+
+185.82 186.71 B: sure 
+
+186.72 187.98 A: absolutely 
+
+187.88 193.00 B: but i know i know i know a lot of people who get who get aches and pains because of the rain 
+
+194.46 195.49 A: yeah 
+
+194.47 198.00 B: and stuff like that ah i hope to never get that that way 
+
+199.16 200.76 A: yeah i have ah 
+
+199.61 203.92 B: i don't know if it's because arthritis or what dude any arthritis run in your family 
+
+204.73 205.81 A: um 
+
+205.93 209.40 A: not so much in my family i have a steel plate in my leg 
+
+208.92 210.46 B: okay oh really 
+
+209.75 218.09 A: so yeah so sometimes when i- when it's if i'm out in the cold a lot that's when it it tends to bother me 
+
+218.35 220.73 A: but it's really not it's not ah you know 
+
+218.55 219.40 B: right 
+
+220.82 222.77 A: it's not an illness it's just 
+
+223.24 224.90 B: [laughter] right sure 
+
+224.72 225.38 A: (( [laughter] )) 
+
+225.68 226.41 A: (( you )) 
+
+226.31 230.06 B: you'd be walking along in the supermarket and get the coldness by the freezer [sigh] 
+
+226.55 227.18 A: (( know )) 
+
+230.14 231.14 A: you bet 
+
+231.21 232.55 B: no kidding man 
+
+233.24 234.12 A: yep 
+
+234.02 235.39 B: how'd that happen to you 
+
+236.04 241.54 A: um i just shattered my leg ah it was just kind of goofy um 
+
+240.66 242.14 B: left leg right leg 
+
+241.95 243.54 A: left leg 
+
+243.32 244.51 B: kneecap 
+
+243.73 244.40 A: (( w- )) 
+
+244.54 246.09 A: nope um 
+
+246.00 246.96 B: femur 
+
+246.38 249.17 A: below it was right above the ankle 
+
+248.62 250.16 B: oh kid no kidding 
+
+250.05 251.00 A: yep 
+
+251.53 252.70 A: (( and ah )) 
+
+251.58 253.05 B: so your calf huh 
+
+253.40 254.90 A: [lipsmack] you bet 
+
+254.36 255.54 B: oh man 
+
+256.11 258.75 A: yeah and it it was actually i um 
+
+258.22 259.67 B: are you an active person 
+
+259.77 262.61 A: pretty active yeah i try to ah 
+
+262.64 265.65 A: either get cardiovascular or or a weight workout 
+
+265.84 267.69 A: four times a week 
+
+267.11 269.36 B: did it limit your m- your mobility dude 
+
+269.97 271.62 A: ah not really 
+
+271.80 278.49 A: um the doctors did a good job putting everything back together and ah once it healed it was just a matter of just get you know getting the leg strength back 
+
+278.14 279.42 B: right 
+
+278.89 280.13 A: so ah 
+
+280.35 280.91 A: (( [cough] )) 
+
+280.40 285.81 B: [noise] right that's the most important thing [noise] how's the weather out there today 
+
+282.07 282.93 A: (( yeah ah )) 
+
+284.34 285.16 A: yep 
+
+286.06 289.45 A: beautiful just just beautiful oh yeah 
+
+286.93 287.87 B: really 
+
+289.02 294.64 B: ah we we just got we just got ah nailed with a little little rainstorm 
+
+294.01 295.53 A: they said it was coming up 
+
+295.66 298.45 A: [sigh] but we didn't ah we didn't get any rain today 
+
+298.07 298.88 B: right 
+
+298.72 300.96 A: we got hit y- last night 
+
+301.84 303.18 A: but not today 
+
+302.46 304.50 B: [noise] kinda nice though 
+
+305.57 307.24 A: yep 
+
+306.37 308.47 B: well being well being ah someone 
+
+308.58 312.99 B: who likes to enjoy outdoor concerts and everything weather is like comes and goes 
+
+313.26 316.85 B: makes things makes things either you know more pleasurable 
+
+317.86 320.61 A: sure and a lot of people don't look at it that way [laughter] 
+
+319.96 321.88 B: yeah i know i know 
+
+321.82 322.83 A: i do 
+
+322.75 323.57 B: sure 
+
+322.93 329.02 A: um yeah i can be out fishing in the rain and just enjoying a lot of kind of stuff but most people will 
+
+327.99 328.85 B: (( are )) 
+
+330.32 331.27 A: am i what 
+
+330.99 334.40 B: no no i was just listening to you like fishing and snow you like fishing 
+
+334.65 335.80 A: oh yeah 
+
+335.42 336.58 B: right 
+
+336.10 338.52 A: yeah i live less than a mile from the river here 
+
+339.06 344.40 A: and so i fish there and um i don't know if you've ever heard of graystown 
+
+344.29 345.76 B: no i've never heard of it 
+
+345.89 349.68 A: it's the of the turnpike the other way about halfway to pittsburg 
+
+349.69 356.13 A: ah but it's ah it's a lake resort and in in the summer i try and spend as many weekends up there as i can 
+
+351.94 352.76 B: okay 
+
+355.58 357.60 B: that's nice hang with your buddies you know 
+
+357.81 360.65 A: yeah buddies fam- friends family 
+
+360.07 363.15 B: sure or even solo you know enjoying the sunshine 
+
+360.96 361.85 A: (( ah )) 
+
+363.46 364.69 A: absolutely 
+
+364.80 368.58 A: um 'cause that lake is thirty two miles long 
+
+368.66 373.57 B: you like walking you like walking in the weather like when you know torrential rainstorms and stuff like that 
+
+372.97 374.70 A: yeah that kind of stuff i do yeah 
+
+374.74 376.08 B: yeah 
+
+375.47 376.45 A: yep 
+
+376.82 379.55 A: [lipsmack] and i love heavy snows i 
+
+378.96 380.20 B: mhm 
+
+379.96 382.74 A: just don't like shoveling afterward [laughter] 
+
+381.24 382.34 B: [laughter] 
+
+382.44 386.65 B: right that's what i'm saying live on the east coast you appreciate the change of seasons 
+
+386.45 387.79 A: (( yeah absolutely )) 
+
+388.48 394.55 B: i couldn't be i couldn't be somewhere where it's one you know climate all the time 
+
+394.70 399.10 A: yeah ye- the only place i've ever enjoyed that was that way was costa rica 
+
+399.01 400.85 B: right 
+
+399.92 406.02 A: um [sigh] but that's more of a tropical area but it's it's always between sixty two and seventy two degrees 
+
+405.53 406.87 B: right 
+
+406.56 407.51 A: ah 
+
+407.54 413.75 A: but in the change of seasons of course you get there is is the rain 'cause they don't get any snow 
+
+411.07 412.10 B: sure 
+
+413.36 418.85 B: mhm i can imagine what the people in london feel like you know grey area all the time 
+
+418.57 419.89 A: yeah 
+
+419.33 420.40 B: dreary 
+
+420.22 421.10 A: [laughter] 
+
+421.00 422.28 B: (( you know it )) 
+
+421.68 422.71 A: yep 
+
+422.38 426.15 B: was it was pretty funny a couple weeks ago we had a a nice 
+
+422.73 423.45 A: and 
+
+426.82 431.38 B: damping of fog out here in in philadelphia and i felt like i was out in san francisco 
+
+431.65 432.64 A: cold 
+
+432.50 439.02 B: oh yeah it was so cold dude put my headphones on put some grateful dead on the headphones and just took a nice walk park through the 
+
+437.05 437.79 A: (( yeah )) 
+
+439.08 440.78 B: took a nice walk through the park 
+
+441.82 442.74 B: you know 
+
+443.75 444.67 A: yep 
+
+443.80 445.56 B: (( san francisco's a beautiful city )) 
+
+446.46 447.51 B: for weather 
+
+446.86 447.57 A: ye- 
+
+447.68 451.29 A: ye- oh okay i was going to say i've never been to san francisco 
+
+450.88 454.49 B: yeah my goddaughter lives out there 
+
+452.21 452.92 A: (( but ah )) 
+
+454.53 455.54 B: (( and ah )) 
+
+455.76 457.43 B: my memories of her because 
+
+458.54 465.42 B: bec- the change of seasons you know i mean the the fog and the coldness off off the ah off the coast 
+
+466.33 467.80 A: huh neat 
+
+467.59 470.01 B: sure you've never been to frisco you've ever been to the west coast 
+
+470.40 475.08 A: um yeah i've been out to bishop california [sigh] which is just a little hick town 
+
+474.86 476.27 B: right 
+
+475.65 476.91 A: but um 
+
+478.23 482.94 A: [lipsmack] um i haven't been the only other place i was is vegas out that way 
+
+482.65 485.40 B: the weather the weather never brings you down huh 
+
+486.10 488.37 A: no not really um 
+
+486.88 487.78 B: right 
+
+488.73 491.50 A: ah where in where was i too i was in ah [noise] 
+
+493.95 494.75 A: (( mm )) 
+
+496.67 497.40 A: (( hah )) 
+
+497.86 502.64 A: i was in a little town out there but i can't remember what it was it's right where the big navy base is 
+
+504.63 507.25 A: huh and i can't think of the name 
+
+508.25 509.33 B: (( barrett )) 
+
+512.01 513.92 B: what town or city 
+
+514.33 517.63 A: yeah it was it was a city it's a major 
+
+516.52 517.78 B: no i'm 
+
+517.76 518.63 A: what 
+
+518.11 521.06 B: what part of what you talk about what part of country 
+
+521.77 522.91 A: um 
+
+523.40 526.34 A: it was in southern california 'cause we took the train to mexico 
+
+525.19 526.71 B: oh round san diego 
+
+526.80 531.61 A: that's it or yeah san diego yeah that's it that's it that's it 
+
+526.86 527.44 B: (( right )) 
+
+532.04 533.27 A: thank you [sigh] 
+
+532.78 537.35 B: right never been down never been down south that far on the west coast 
+
+538.11 539.33 A: gotcha 
+
+539.02 540.43 B: right 
+
+540.81 542.47 A: yeah um 
+
+541.79 546.51 B: i i yeah i can't imagine i mean weather's weather i i i just think of it as 
+
+546.66 550.76 B: whatever god's gonna give you you know you have to be able to 
+
+551.77 553.34 B: (( handle it endure it )) 
+
+553.40 555.53 A: sure and enjoy it 
+
+554.96 561.79 B: sh- of course of that's why i like walking in the rain and the snowstorms thunderst- i love thunderstorms you know 
+
+562.60 563.33 A: yep 
+
+563.04 565.04 B: it doesn't change my mood at all 
+
+565.31 568.45 B: doesn't make me ah down at all how 'bout yourself 
+
+569.07 575.15 A: no that i like i like that kind of stuff that's why when we go to lake graystown we always we pitch a tent 
+
+574.86 575.98 B: right 
+
+575.38 578.40 A: so ah we have a blast when it rains 
+
+577.94 579.14 B: right 
+
+578.64 580.45 A: [cough] thunderstorms 
+
+580.06 582.43 B: i think that's what this nate- i think that's what they ah 
+
+582.62 587.22 B: this call is about nature ah about whether it makes you ill or something like that 
+
+587.19 588.03 A: (( ahah )) 
+
+587.93 590.20 B: is that was the the purpose of this call was 
+
+590.21 593.88 A: um i don't to be honest with you i don't know if that was the purpose 
+
+594.21 596.45 A: i don't even know if i understand this program 
+
+596.51 597.55 B: (( oh okay )) 
+
+597.99 599.96 B: oh the program i think is just to ah 
+

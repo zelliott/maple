@@ -1,0 +1,505 @@
+# fe_03_03783.sph
+# Transcribed by BBN/WordWave
+
+0.29 1.47 A: hello 
+
+0.91 2.32 B: hi there 
+
+2.22 3.28 A: hi 
+
+3.12 4.64 B: my name's debbie 
+
+4.64 5.89 A: my name is rick 
+
+5.72 6.63 B: rick 
+
+6.40 7.39 A: (( mhm )) 
+
+6.71 7.91 B: where are you from 
+
+7.99 9.40 A: philadelphia p._a. 
+
+9.76 12.16 B: okay i'm from georgia 
+
+10.63 11.51 A: (( and you )) 
+
+12.32 13.33 A: (( georgia )) 
+
+13.01 14.51 B: yeah 
+
+13.95 15.27 A: what part of georgia 
+
+15.17 16.65 B: uh peri 
+
+16.82 17.98 A: oh peri 
+
+17.47 19.40 B: the hot part of georgia 
+
+19.12 20.86 A: oh did we talk the other day 
+
+20.33 21.90 B: (( [laughter] i )) 
+
+21.65 24.16 A: about um uh 
+
+23.60 25.30 B: (( think so that are made or something )) 
+
+25.20 26.73 A: yeah relationships 
+
+26.49 27.61 B: yeah 
+
+27.17 30.00 A: the other day yeah [laughter] 
+
+28.83 29.77 B: now 
+
+29.91 31.14 B: it's humor 
+
+31.39 36.43 A: yeah they said what what what part of humor you think is bad taste you know 
+
+37.22 41.34 A: uh yeah what part of humor do you think is bad taste 
+
+40.91 42.38 B: (( bad taste )) 
+
+41.87 45.61 A: yeah you know how far do we go before it turns to bad taste 
+
+45.15 46.47 B: (( let's see then )) 
+
+46.53 49.67 A: they say some comedy like say you go to a comedy show and 
+
+49.72 59.86 A: they're telling jokes and stuff and all of a sudden something is bad taste and it goes a little bit too far or even like maybe a oh what's that guy that come on t._v. at night 
+
+60.64 62.71 A: uh the tonight show 
+
+62.81 65.38 B: oh yeah jay leno or 
+
+65.00 70.96 A: yeah jay leno or one of them how far you know what is bad taste and what is good good jokes and good comedy 
+
+71.49 72.65 A: what's you backing 
+
+72.36 78.76 B: i mean i like going to comedy cafes and stuff like that but i don't like gross humor i don't like 
+
+78.81 81.21 B: (( stupid humor [laughter] )) 
+
+80.13 81.73 A: (( yeah stupid humor )) 
+
+81.35 82.51 B: i like 
+
+82.73 87.44 B: things that people do that for real that are funny and stuff you know 
+
+87.30 88.82 A: yeah about life 
+
+88.52 91.21 B: yeah like uh bill cosby 
+
+89.17 90.11 A: (( yeah )) 
+
+90.97 95.22 A: (( oh yeah yeah yeah now his h- h- his comedy is )) 
+
+94.60 96.27 B: they can get me going 
+
+96.23 100.18 A: yeah yeah and it's talking about life and it's not it's not raunchy 
+
+99.82 103.82 B: and he can make you know just out of every day normal things just 
+
+104.35 107.02 A: yeah and turn turn turn it into a joke 
+
+104.76 105.43 B: (( you )) 
+
+105.88 109.88 B: say you know you think i've done that fifteen hundred times [laughter] you know 
+
+109.38 112.57 A: yeah [laughter] yeah 
+
+113.11 113.76 B: (( i )) 
+
+113.14 117.09 A: (( who else who else is good um uh a good a )) 
+
+117.14 118.63 A: good comedian 
+
+119.07 120.11 B: um 
+
+119.41 120.80 A: (( uh )) 
+
+121.33 127.05 A: what's his name i used to i can't think it's an old comedian he used to do show he had a show one time 
+
+127.27 129.15 A: oh what's this guy's name 
+
+129.33 130.17 A: (( uh )) 
+
+129.60 131.90 B: the other night they had a show on 
+
+131.99 134.07 B: um the famous game show 
+
+134.23 135.13 A: uh-huh 
+
+134.69 139.06 B: times and on family feud he asked the question 
+
+139.33 140.25 B: what 
+
+140.54 142.96 B: um month in your pregnancy 
+
+142.99 146.14 B: do you start showing and she said september [laughter] 
+
+146.11 148.09 A: [laughter] who said that 
+
+147.95 152.16 B: some contestant now that was funny to me [laughter] 
+
+150.88 153.22 A: (( oh my goodness [laughter] )) 
+
+152.43 154.74 B: i was rolling on the floor 
+
+153.68 155.41 A: (( in september huh )) 
+
+155.69 159.07 A: what month september [laughter] 
+
+157.92 159.14 B: (( [laughter] )) 
+
+160.04 163.35 A: (( i'm trying to figure oh george carlin you ever heard of him )) 
+
+162.59 166.44 B: yeah he could be funny but he got gross sometimes 
+
+165.92 167.84 A: (( yeah yeah he'll take you there )) 
+
+168.19 169.04 B: but 
+
+168.42 177.00 A: he he goes over the line but you know but he's a nobody likes likes things things about nice they like he goes over the line 
+
+175.05 175.85 B: but 
+
+176.92 183.81 B: i like just every day funny stuff like bill cosby i like raymond everybody loves raymond 
+
+183.20 185.85 A: (( oh yeah i like jerry seinfeld )) 
+
+186.49 187.20 A: (( now )) 
+
+187.03 187.85 B: who 
+
+187.39 188.19 A: [laughter] 
+
+188.45 190.92 A: jerry seinfeld half the time he's on 
+
+189.84 190.61 B: (( i )) 
+
+190.77 192.64 B: (( never did watch that much )) 
+
+192.07 195.05 A: oh you ought to watch it because it's just a bunch of uh 
+
+195.40 199.46 A: nonsense really 'cause [laughter] you really don't know what's going on 
+
+199.62 201.39 A: even if you watch it from the beginning 
+
+201.00 206.09 B: but i yeah some of the comedies my husband and kids watch i don't really 
+
+206.52 208.85 B: you know like it's stupid like um 
+
+209.75 210.94 B: oh 
+
+213.16 217.52 B: something about stealing your car or something or other and 
+
+218.56 219.47 B: some of the 
+
+219.98 222.24 B: movies they think are so funny 
+
+222.07 224.84 A: oh do you like the seventies the seventies show 
+
+225.01 225.99 B: (( the what )) 
+
+225.87 227.20 A: the seventies show 
+
+228.02 229.90 A: it's a show about uh 
+
+230.54 232.63 A: back in the seventies just 
+
+232.22 234.32 B: oh i have never watched it 
+
+233.64 235.85 A: okay how about uh uh 
+
+236.09 241.62 A: oh man what's that kid it's a kid he's always getting in trouble and he has two brothers 
+
+242.69 245.68 A: and it's like that day it come on there's like three 
+
+246.30 248.26 A: three other comedies that come on with it 
+
+249.40 255.63 A: i watch that kid and all of them are about family comedies and they it's real it's real weird oh what's that kid's 
+
+255.82 258.25 B: if it's weird i probably don't like it 
+
+256.03 256.70 A: (( name )) 
+
+257.52 261.86 A: yeah it's real weird you know he always he always getting in trouble this one kid 
+
+262.08 268.63 A: (( and his father his father and his mum and all that go on there [laughter] the family just crazy [laughter] )) 
+
+262.29 263.14 B: (( like )) 
+
+267.95 269.82 B: (( i don't roseanne )) 
+
+270.20 274.42 B: if i had a mama like that i wouldn't take her out nowhere you know 
+
+272.52 273.33 A: (( oh yeah )) 
+
+273.80 276.16 A: yeah roseanne was kinda wild too 
+
+276.07 278.80 B: (( you know i don't i didn't like her )) 
+
+278.61 281.70 A: did you like going back in the days to be uh 
+
+282.84 285.93 A: what was that three are three's company or something like that 
+
+288.40 291.01 A: with the with the two girls and the one guy 
+
+292.28 293.95 B: oh three's company 
+
+293.37 295.14 A: yeah did you like that 
+
+294.10 295.13 B: (( nah )) 
+
+295.43 296.95 A: (( yeah that was kinda like )) 
+
+297.07 303.08 B: the only movie i've seen where there was a funny part and i laughed out loud was in 
+
+297.16 298.24 A: (( weird too )) 
+
+303.81 309.44 B: jack flash or something when whoopi goldberg got her dress caught in a paper shredder 
+
+309.28 311.12 A: (( oh yeah yeah )) 
+
+310.41 312.67 B: i was laughing out loud 
+
+312.39 313.60 A: (( yeah oh yeah )) 
+
+313.36 318.53 B: that was the funniest thing i'd ever seen in my life i thought i mean it was like 
+
+317.72 319.67 A: was that jumping jack flash 
+
+319.21 320.22 B: (( yeah )) 
+
+319.87 322.88 A: (( yeah [laughter] yeah right )) 
+
+321.42 326.90 B: she got that the way she was pulling that dress was pulling it looked real as all get out 
+
+327.13 328.52 A: (( in that phone booth )) 
+
+329.33 330.82 A: she was in a phone booth 
+
+330.37 332.84 B: i don't remember that part i just remember her 
+
+334.09 335.38 B: (( you know um )) 
+
+335.55 337.99 B: (( having that dress caught in the paper shredder )) 
+
+337.89 339.49 A: (( mhm )) 
+
+339.77 341.12 B: that was funny 
+
+340.81 341.97 A: (( mhm yeah )) 
+
+342.12 343.19 A: (( i don't )) 
+
+342.54 345.33 B: i don't really go see that many comedies 
+
+344.73 345.82 A: well no 
+
+346.58 348.21 B: (( no i um )) 
+
+349.08 351.92 B: but like i i go to the comedy um 
+
+352.09 353.79 B: caf bars you know 
+
+353.59 356.14 A: (( yeah well i i never been to one of those )) 
+
+356.09 358.51 B: some of those stand ups are good but 
+
+358.63 360.39 A: (( yeah stand up comics are )) 
+
+359.47 362.43 B: my husband will watch comedy t._v. but i 
+
+361.89 362.65 A: (( i )) 
+
+363.01 367.43 A: (( oh okay yeah i never been i never went i never been to one of those shows those comedy shows )) 
+
+367.22 368.80 B: oh oh i go 
+
+369.53 370.37 B: when they're 
+
+369.74 373.90 A: (( and i don't because they might happen to pick you out you know that one )) 
+
+373.38 375.09 B: yeah don't sit on the front 
+
+374.76 376.82 A: yeah [laughter] 
+
+376.14 378.67 B: don't sit on the front uh-uh oh 
+
+377.82 382.26 A: (( oh man like the nutty professor none of that you ever seen nutty professor )) 
+
+382.31 383.31 B: yes 
+
+383.07 390.43 A: and then um you know he picked him out when he bend over [laughter] and then he just he just ragged him he ragged him after that 
+
+390.12 393.77 B: and i like that first movie there's two parts in it that um 
+
+393.82 396.04 B: eddie murphy played all the parts 
+
+397.26 400.71 A: oh oh yeah yeah that that was it the nutty professor 
+
+400.71 401.80 B: okay yeah 
+
+401.53 403.18 A: (( he played the mum and )) 
+
+401.88 405.61 B: the first one where the little boy farts at the table wrongly 
+
+405.14 407.95 A: (( everybody goes oh yeah oh )) 
+
+407.36 410.16 B: the first was funny now the second one wasn't but 
+
+410.29 412.66 A: yeah but when they uh 
+
+413.15 416.80 A: when when the mama clap her hands and say 
+
+417.85 419.02 A: (( what does she say )) 
+
+418.02 419.73 B: i can't hardly hear you 
+
+419.26 423.82 A: yeah it was something she's just she was saying the mum when he tried when he portrayed the mum 
+
+424.05 426.34 B: (( yeah he's been all those parts )) 
+
+424.06 424.82 A: he 
+
+425.61 427.82 A: (( did all of them the the )) 
+
+426.79 428.41 B: (( he was good [mn] )) 
+
+428.02 429.58 A: pop the grandmum 
+
+431.16 432.80 B: that was good 
+
+431.87 439.80 A: (( [laughter] hercules hercules that was when he busted when he bust his butt she's going hercules hercules )) 
+
+434.11 435.12 B: [laughter] 
+
+439.19 440.35 B: yeah 
+
+439.96 444.58 A: yeah that was funny they were all sitting around the table farting [laughter] 
+
+444.90 446.13 A: (( oh man )) 
+
+445.58 448.11 B: i only eddie murphy would think of that stuff 
+
+447.75 451.34 A: yeah and then when it first came on with all those little gerbils 
+
+452.17 454.54 A: remember the gerbils all over the place 
+
+455.40 456.14 B: i 
+
+455.56 460.24 A: something something that happened and the gerbils and then the big giant gerbil 
+
+457.22 458.26 B: yeah 
+
+460.30 464.54 A: and then oh yeah then he when he was big he said he's gonna blow 
+
+464.02 465.37 B: [laughter] oh yeah 
+
+464.92 468.04 A: [laughter] yeah don't light the match 
+
+468.26 470.32 A: the match [laughter] 
+
+470.34 472.28 B: (( yeah i like that one )) 
+
+471.25 474.00 A: (( oh everybody's blown away [mn] )) 
+
+474.93 477.43 A: (( yeah that was a killer )) 
+
+479.29 482.82 B: but i really hadn't seen that ever seen that many good comedies 
+
+483.12 485.58 B: they usually get stupid with it you know 
+
+485.41 487.33 A: (( mhm mhm )) 
+
+487.68 490.27 A: (( oh how about um um let me see )) 
+
+491.16 492.26 A: (( what's this one )) 
+
+492.51 495.81 A: called it was like a uh gangster comedy over in england 
+
+496.92 499.71 A: i can't think of the name of that either but that was kinda funny 
+
+499.78 503.81 A: me and these names i can't remember the names [laughter] when you get older 
+
+502.74 504.61 B: i can't either but this 
+
+504.79 506.69 B: my subject yesterday was 
+
+507.23 512.27 B: um minimum wage you know that was a lot easier this comedy ain't so good 'cause i'm not really 
+
+513.17 514.09 B: (( you know )) 
+
+513.80 515.64 A: oh minimum wage was just 
+
+515.01 516.42 B: yeah i 
+
+516.48 520.71 B: love to hear something say something funny i love to laugh 
+
+520.30 521.44 A: (( mhm )) 
+
+520.81 521.79 B: but 
+
+521.86 525.15 A: (( yeah 'cause that um in life you need you need that laughter you )) 
+
+525.41 528.09 A: know so much there's so much hard 
+
+525.55 526.56 B: (( yeah i )) 
+
+527.55 529.42 B: i like the real life 
+
+529.61 531.90 B: stupid stuff it's funny to me 
+
+530.77 531.95 A: (( yeah )) 
+
+532.19 534.30 A: how about the simpsons do you like the simpsons 
+
+534.54 536.49 B: no i hate bart simpson 
+
+536.21 538.66 A: [laughter] how about uh 
+
+537.94 540.17 B: south park i like that [laughter] 
+
+540.11 542.54 A: okay how about the other one um um 
+
+542.73 544.32 A: the people from texas 
+
+545.26 550.40 A: the guy is the pop with the glasses and his his wife with the glasses 
+
+550.75 553.82 A: and they had a niece staying them and they had a little boy 
+
+555.66 556.80 B: (( i don't know )) 
+
+557.01 559.85 A: oh what's the name of it come on right after the simpsons 
+
+561.79 563.12 A: on twenty nine [noise] 
+
+565.93 572.37 A: his name's arnie or something like that i can't remember that but it's it's it's him and his buddy they stand around and drink beer all the time and 
+
+572.01 573.98 B: (( oh yeah um )) 
+
+574.19 576.06 A: get in trouble [laughter] 
+
+575.43 577.39 B: (( yeah no just )) 
+
+578.29 585.84 B: i'd rather no that ain't funny to me there's people really doing that and it's not you know funny when they do that in real life [laughter] 
+
+585.25 589.66 A: yeah yeah it's like real life yeah yeah it's like real life 
+
+588.96 590.27 B: (( oh okay )) 
+
+590.60 592.18 A: that's yeah 
+
+591.40 592.13 B: (( that's )) 
+
+592.34 595.18 B: they make it like acceptable behavior you 
+
+595.08 598.89 A: uh-huh yeah rude behavior tool time is funny then sometimes it's not 
+
+595.24 595.98 B: (( know )) 
+
+599.09 599.89 A: (( yeah )) 
+
+599.31 599.89 B: (( but i )) 
+

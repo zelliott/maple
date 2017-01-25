@@ -1,0 +1,443 @@
+# fe_03_01644.sph
+# Transcribed by BBN/WordWave
+
+0.81 2.73 B: hi this is ben goodman 
+
+2.68 4.97 A: hi this is matt roberts 
+
+4.92 6.52 B: matt roberts how are you 
+
+6.62 7.81 A: good how are you doing 
+
+7.59 9.29 B: good where are you calling from 
+
+9.02 10.05 A: philadelphia 
+
+10.21 12.01 B: (( philadelphia excellent )) 
+
+11.55 12.51 A: what about you 
+
+12.67 14.02 B: boston 
+
+13.91 14.88 A: boston 
+
+14.72 16.21 B: yeah 
+
+15.78 18.28 A: (( how about that )) 
+
+17.60 18.47 B: say again 
+
+18.71 20.01 A: how about that 
+
+19.57 22.98 B: oh how did you get roped into this fisher thing 
+
+22.73 25.30 A: oh it's a great deal you talk on the phone and get paid 
+
+25.61 27.36 B: but ah who connected you 
+
+27.68 31.61 A: um i go to school at penn so i saw a flyer for it and signed up 
+
+31.74 33.40 B: (( so you are currently a student )) 
+
+33.34 34.40 A: yes 
+
+34.44 35.75 B: undergrad or grad 
+
+35.63 36.60 A: undergrad 
+
+36.89 38.14 B: excellent what year 
+
+38.32 40.37 A: senior i'm graduating in a few weeks 
+
+40.33 41.00 B: (( oh )) 
+
+41.32 43.13 B: any ah jobs out there 
+
+43.08 44.86 A: oh god no [laughter] 
+
+45.50 49.06 B: kind of kind of a scary time to be graduating 
+
+45.59 46.74 A: none at all 
+
+48.74 52.16 A: yeah it is it's really difficult it's frustrating um 
+
+53.70 55.74 A: (( but i'll see what you know )) 
+
+56.06 58.36 B: what are you what are you looking to do 
+
+58.63 60.78 A: well i major in computer science 
+
+60.62 61.38 B: okay 
+
+61.43 66.72 A: i thought i would be able to find work with that unfortunately i timed that a little poorly 
+
+66.83 67.87 A: (( so [lipsmack] )) 
+
+68.10 71.88 A: i hope to you know work in ah software development ah 
+
+73.58 75.30 A: (( sort of i._t. and it will be okay )) 
+
+75.33 77.05 B: (( where do you want to work )) 
+
+77.64 78.50 A: well 
+
+79.13 84.39 A: i'd like to work in maybe boston new york or philadelphia or possibly chicago 
+
+84.47 90.00 A: i'm pretty open um but probably my top my top choice would be new york or philly 
+
+85.52 86.30 B: okay 
+
+90.17 90.80 B: (( mhm )) 
+
+91.01 92.36 B: what kind of stuff do you do 
+
+93.08 102.19 A: let's see i i concentrated in graphics and digital media so sort of my dream job would be working for a video game company or some sort of 
+
+102.28 103.15 A: ah 
+
+103.66 109.61 A: [lipsmack] graphics intensive simulation or visualization type software [lipsmack] um 
+
+108.53 110.03 B: (( mhm um )) 
+
+110.15 112.05 A: (( so what about you what are you gonna do )) 
+
+113.29 114.31 B: (( i'm )) 
+
+114.48 117.83 B: a little bit older thirty one but i've 
+
+117.13 118.62 A: that's not old 
+
+117.99 121.42 B: been in the tech industry for 
+
+122.13 123.40 B: nine years 
+
+123.09 124.03 A: oh wow 
+
+123.83 125.50 B: and um 
+
+126.04 134.23 B: i used to work for the new york new media association i've done web development stuff but more from a business side than from a technical side 
+
+129.63 130.66 A: oh really 
+
+134.13 138.36 A: that's cool i ah i do a lot of freelance web design and 
+
+138.77 141.61 A: i'd love to work for a design firm or some sort of 
+
+142.66 144.07 A: new media group 
+
+144.08 145.72 A: (( ah multi media of )) 
+
+145.90 149.60 A: course that's the absolute hardest field to try and find a position in now 
+
+149.41 156.01 B: yeah it's pretty brutal if you if you're serious about new york you should check out n. y. n. m. a. dot org 
+
+151.11 151.99 A: yeah 
+
+155.94 158.07 A: (( n. y. n. m. a. )) 
+
+158.16 159.15 B: (( dot org )) 
+
+158.30 159.58 A: (( that's the ah )) 
+
+159.54 161.72 B: new york new media association 
+
+162.15 164.46 A: n. y. m. n. 
+
+164.59 167.35 B: new york new media association 
+
+169.96 172.88 A: okay we'll check that out there's job postings mhm 
+
+172.09 175.37 B: good job postings and um 
+
+176.18 177.63 B: lots of events 
+
+178.64 180.29 B: tech specific 
+
+180.75 181.61 B: um 
+
+182.22 187.73 B: you know and it's not it's not too bad to trek up there from philly 
+
+187.59 193.82 A: yeah i'll have to i got well my girlfriend lives there so i i go up almost every other weekend so 
+
+194.16 196.56 A: if there's and event i'd love to check it out 
+
+196.05 198.01 B: i'm just looking to see 
+
+198.26 201.42 B: (( find a job what do they have these days )) 
+
+202.79 207.37 A: i look at like the a. i. g. a. they sometimes have ah multi 
+
+207.71 210.97 A: i've done freelance like print designs and stuff like that too so 
+
+211.60 213.08 B: freelance what design 
+
+213.13 225.06 A: freelance print and like magazine ad design things like that so it wouldn't even have to be [noise] software based i got into i got into the computing end of it from a from a 
+
+225.15 228.17 A: sort of design standpoint and found this program that let me 
+
+229.30 233.21 A: do continue doing design and actually get a fine arts minor 
+
+233.23 236.51 A: in conjunction with a computer science degree it's pretty cool um 
+
+233.50 234.14 B: (( mhm )) 
+
+235.64 236.51 B: (( excellent )) 
+
+236.92 244.01 A: yeah it's called a it's a new well it's about four years old now i was i was one of the first groups of students to enroll in the program 
+
+244.10 245.34 A: (( ah )) 
+
+244.88 250.62 B: back when it was [laughter] back when it looked like there was no end to ah 
+
+246.12 248.17 A: yeah back when it back when ah 
+
+249.74 251.01 A: exactly 
+
+250.92 252.66 B: demand for this stuff 
+
+252.19 253.64 A: exactly 
+
+253.89 256.25 A: i wonder if it's working against me now because 
+
+256.60 260.54 A: it's the ah program is called digital media design 
+
+260.90 262.37 A: and i think that sort of 
+
+262.61 268.41 A: hides well it's not indicative of the fact that you really are a computer science major 
+
+267.84 269.93 B: you are a hard core programmer 
+
+269.21 270.92 A: right i mean i've done 
+
+270.94 274.99 A: the bulk of my credits in computer science i i work for a freelance software developer right now 
+
+275.56 276.59 A: so 
+
+276.61 281.72 A: with a title of your your degree like that i don't know if it makes it through those automatic 
+
+282.59 286.62 A: sifters from a tech company you know you format it and put it on a website 
+
+286.36 293.10 B: you're gonna have to go network in this environment people are getting two hundred resumes per job 
+
+288.63 289.63 A: yeah 
+
+289.97 291.16 A: (( oh yeah )) 
+
+292.64 294.33 A: (( mhm )) 
+
+293.77 296.23 B: and the only way you're gonna find something 
+
+296.88 302.45 B: is if you meet the person and you know and then they check out a portfolio of your work 
+
+301.82 303.70 A: (( mhm mhm )) 
+
+302.83 304.85 B: it's not gonna be i 
+
+304.96 309.56 B: mean your chances are only thirty per cent that it's gonna come to an online posting 
+
+309.50 311.57 A: (( yeah yeah )) 
+
+310.31 314.67 B: you've got to get out there you got to go to the event you got to schmooze 
+
+314.67 316.08 A: yeah 
+
+315.71 316.95 B: and 
+
+316.38 319.49 A: i'm still learning the ropes with that 
+
+318.83 322.59 B: so check out n. y. m. a. in boston it's um 
+
+322.96 324.85 B: have you heard of m. i. m. 
+
+324.98 326.00 A: no 
+
+326.15 328.86 B: (( c. m. i. m. c. dot org )) 
+
+329.79 330.89 A: that's a ah 
+
+331.97 333.01 A: new media 
+
+333.17 335.77 B: yeah it's a new media organisation 
+
+334.36 335.49 A: press group dot 
+
+336.61 337.45 A: (( org )) 
+
+338.70 339.33 A: (( okay )) 
+
+340.68 341.59 A: um 
+
+341.99 349.91 A: yeah i've been looking well i look at i look at monster and those kind of workloads and i look at there's some crew services work at school 
+
+349.93 352.66 A: there's job postings and that's still a little 
+
+353.13 354.78 A: (( still a little vague )) 
+
+354.67 357.95 B: mhm especially people don't go to penn for 
+
+357.88 358.98 A: yeah 
+
+358.42 360.67 B: it's not what they do if you are from finance 
+
+360.61 362.16 A: right exactly 
+
+361.95 363.14 B: have you checked out 
+
+362.40 364.20 A: and 
+
+364.26 365.69 A: (( i'm sorry what did you )) 
+
+365.00 367.18 B: there's one more association you should check out it's 
+
+368.49 370.13 A: say r i s e 
+
+368.77 371.90 B: (( r. y. z. e. r. y. z. e. )) 
+
+371.76 372.99 A: r. y. 
+
+373.26 374.15 A: (( z. e. )) 
+
+375.36 376.10 A: dot 
+
+376.03 377.19 B: dot com 
+
+376.25 377.03 A: (( com )) 
+
+377.81 382.19 B: and it's a it's a nationwide network of tech professionals 
+
+384.76 388.12 A: mhm [mn] so what did you do that you you know about all these 
+
+388.20 390.03 A: these groups you worked in you said that you worked 
+
+389.49 391.94 B: i worked at the new york new media association 
+
+391.89 392.71 A: (( right )) 
+
+392.22 394.17 B: i was at the 
+
+395.09 400.92 B: centre of the the whirlpool watching everything go down the tank [laughter] 
+
+400.23 401.49 A: [laughter] 
+
+402.52 412.32 A: that was the one what three years ago that was really i mean did you guys start getting inklings of the of the way things were going long before it was you know front front page news 
+
+412.75 416.91 A: or was it something that really shocked you even at some place like 
+
+416.28 424.50 B: i started there in in may of two thousand so it was really in hindsight it was after the bubble had burst 
+
+419.03 420.20 A: mhm 
+
+423.91 424.76 A: (( right mhm )) 
+
+424.92 426.50 B: and so [mn] 
+
+426.82 431.81 B: and i was there until march of two thousand and two when you know it just looked bleak 
+
+432.38 435.74 B: so my entire experience there was sort of watching things 
+
+435.57 436.42 A: wow 
+
+436.33 438.10 B: (( slowly you know )) 
+
+439.02 440.44 B: slowly decline 
+
+440.92 442.78 A: mhm and ah 
+
+443.02 444.80 A: what did you do before you went there 
+
+445.77 452.76 B: [lipsmack] um before there i was doing web development stuff for um a company called the renegade marketing 
+
+452.99 456.39 B: produced seekrems coolers dot com 
+
+455.82 456.69 A: oh cool 
+
+456.52 457.92 B: amongst other 
+
+458.18 460.16 B: very exciting web sites 
+
+460.88 461.84 B: (( and )) 
+
+463.22 469.24 B: ah um you know i was at t._e._f._a. media so i was doing the agency thing which was just fine but um 
+
+469.93 471.85 B: i talked to one client who 
+
+472.94 476.17 B: had endless discussions about shades of pink 
+
+476.00 477.07 A: (( [laughter] [laughter] i )) 
+
+476.50 478.48 B: (( [laughter] she decided i needed some )) 
+
+477.53 481.11 A: guess that's important though when you're talking about wine coolers it's a real a 
+
+480.51 482.06 B: it's very important 
+
+481.38 484.19 A: real science your ah pastels 
+
+484.11 488.85 B: berry this versus berry that and god forbid you get the wrong berry because 
+
+486.11 486.74 A: (( mhm )) 
+
+489.20 500.12 B: this client was so fussy that you know when she was sixteen she got a nose job and she wasn't happy with it and so she made she went back to the doctor to get them to redo her nose job [laughter] 
+
+499.40 502.10 A: (( mhm it's like ah )) 
+
+501.82 504.16 B: you can imagine she was fun to work for 
+
+503.89 505.65 A: right 
+
+505.34 507.15 B: so um 
+
+507.56 513.48 B: i got out of that but you know it it can be fun and interesting depending on the projects you get to work on 
+
+514.17 514.75 A: (( mhm )) 
+
+514.77 515.70 B: (( ah )) 
+
+515.06 518.09 A: yeah i i wouldn't you know i would love to work for 
+
+518.75 524.82 A: i've been looking looking at some of these smaller design groups um a few in philadelphia of course there's a bunch in new york 
+
+525.24 531.91 A: it's just very very difficult i mean they want you to intern for no salary for a year before they you know would probably even consider 
+
+532.81 540.83 A: a salaried position um and pretty much a lot there there is one firm i interned at really briefly in philadelphia called one six zero ninety 
+
+541.43 544.46 A: and when i was there they had ten full time employees 
+
+544.68 546.46 A: (( and twenty interns )) 
+
+546.38 548.78 B: oh man that's that's just abusive 
+
+548.41 556.09 A: it's criminal yeah and they weren't even i mean and then they would hire somebody and didn't even hire one of their interns they hired a full time interactive guy 
+
+549.47 550.58 B: it's criminal 
+
+558.06 562.99 A: i thought that was really low and i was doing interactive work there it was actually on my fourth day 
+
+563.28 566.53 A: ah interning there i was going in like one or two days a week and i 
+
+566.72 573.18 A: saw this new guy it was like oh yeah he was their new hire for interactive and there were like two other interactive guys there who were 
+
+573.27 574.31 B: interning 
+
+573.90 576.79 A: really talented decent interactive guys and they didn't hire 
+
+577.40 582.85 A: them they took a a a guy and he wasn't even that much older he was like twenty five compared to twenty three 
+
+583.00 583.94 A: twenty two 
+
+584.54 585.42 A: so 
+
+585.53 586.09 B: (( [mn] )) 
+
+586.49 589.19 A: yes i got out of there with that warning sign 
+
+588.95 592.35 B: yeah yeah don't don't let yourself get abused 
+
+591.57 592.34 A: [laughter] 
+
+593.45 596.69 A: but i guess that's the only way they are able to produce work 
+
+597.05 597.87 A: ah 
+
+598.43 599.89 A: for to keep their salaries 
+

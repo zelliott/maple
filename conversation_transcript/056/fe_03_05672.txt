@@ -1,0 +1,419 @@
+# fe_03_05672.sph
+# Transcribed by BBN/WordWave
+
+0.23 1.30 A: (( hello )) 
+
+1.26 2.58 B: hi 
+
+3.30 4.54 A: (( what's the topic again )) 
+
+5.09 6.32 B: excuse me 
+
+6.10 7.40 A: what's the topic 
+
+7.57 16.88 B: yeah i uh peace in the uh the topic is issues in the middle east current events in the middle east and do you think there'll ever be peace 
+
+17.74 19.01 B: and my name is john 
+
+18.11 18.91 A: oh 
+
+19.16 21.19 A: (( this is chris how old are you )) 
+
+20.46 21.14 B: (( hi )) 
+
+21.43 22.75 B: i'm twenty two 
+
+22.92 25.06 A: okay where are you calling from 
+
+24.14 24.86 B: oh 
+
+25.28 27.55 B: new york city and 
+
+26.52 27.87 A: (( new york okay )) 
+
+27.72 28.81 B: yourself 
+
+28.57 29.13 A: (( [mn] )) 
+
+29.43 31.70 A: (( l._a. twenty three )) 
+
+31.15 32.93 B: l._a. twenty three cool 
+
+33.11 35.71 B: um what do you do out there 
+
+35.36 39.11 A: (( [noise] i work in advertising )) 
+
+39.19 40.50 B: advertising 
+
+40.17 41.52 A: yeah 
+
+41.03 41.92 B: cool 
+
+42.89 49.54 B: um so what do you what do you think you think i don't know it's pretty it's a pretty it's a pretty br- broad topic 
+
+45.99 48.22 A: (( i don't think there'll ever be peace )) 
+
+50.04 52.65 B: uh being that there's a lot of the middle east 
+
+55.09 56.97 B: (( yeah )) 
+
+55.62 58.96 A: so the topic is is that there's never going to be peace 
+
+58.88 61.18 B: in the middle i guess as a whole 
+
+61.25 67.54 B: middle east as a whole or i don't know if it's israel and palestine or you know issues with iraq 
+
+66.66 70.34 A: (( i don't think there'll i don't think there'll be peace because they're too you know )) 
+
+71.12 72.46 B: because what 
+
+72.16 73.83 A: they're too ignorant 
+
+73.70 74.98 B: yeah it's 
+
+75.23 78.72 B: it's it seems like ah the root of a lot of things is so 
+
+78.75 80.23 B: conflict is almost in- 
+
+80.32 81.54 B: [mn] conflict is 
+
+81.78 90.30 B: kind of [mn] when it's religiously based it's such a desperate situation 'cause everyone is fighting for what they believe is right 
+
+91.93 93.26 A: (( last week )) 
+
+93.64 94.52 B: uh-huh 
+
+96.75 98.05 B: and um 
+
+98.11 101.40 B: have you ever traveled to the middle east or anything 
+
+100.69 101.64 A: (( no )) 
+
+103.77 112.65 B: what do you what do you what do you think about ah the situation of iraq do you think i don't know do you think we're justified in going over there and 
+
+112.30 115.03 A: (( seriously i don't really know what's going on over there )) 
+
+114.65 115.52 B: really 
+
+115.55 117.08 A: i don't pay attention 
+
+117.10 125.28 B: yeah does does the the issues do issues like that bother you at all or do you have any concern for them 
+
+126.04 130.92 A: i don't like it my dad had to go over there last like the persian gulf war 
+
+132.97 134.23 A: no what's going 
+
+135.08 141.73 B: mhm have you ah do you pay attention to all that like the israeli ah palestinian conflict 
+
+142.09 144.82 A: (( on over there i don't even know what's going on )) 
+
+144.94 148.60 B: uh they're they're still i mean it's it's been for 
+
+148.84 151.38 B: you know for a very long time ever since 
+
+151.50 153.67 B: um palestine was 
+
+153.69 160.04 B: created as a a segment of israel it's always been conflict over whose land is whose land um 
+
+160.15 162.87 B: you know and at the root of it is a lot of religious 
+
+163.94 164.95 B: ah 
+
+165.08 166.97 B: contradictions because you have 
+
+167.64 173.66 B: fighting factions of different different religions fighting for what they consider very holy land and so 
+
+173.94 185.10 B: it's just getting it's constantly getting worse and worse it seems like every once in a while it seems like they're going to reach some kind of peace agreement but then immediately afterward some suicide bomber steps on a bus 
+
+185.01 199.32 B: and everything ah goes back to the drawing board and it's just [mn] there's just a lot i mean it's just i i used to try to keep up on it a lot but it's the same cycle of things over and over again and it it almost seems enough just to look at the headlines now 
+
+199.33 202.82 B: and you pretty much can catch the general flow of things 
+
+204.95 206.06 A: (( [noise] )) 
+
+206.45 209.22 A: (( um have you ever had family go over there )) 
+
+209.40 211.33 B: what's that 
+
+209.68 212.89 A: (( to fight did you ever have family go over there and fight )) 
+
+213.38 214.58 B: over here 
+
+214.93 218.11 A: over to the middle east 
+
+217.40 218.96 B: yeah i don't know 
+
+219.24 220.71 A: (( do you have family )) 
+
+219.34 222.52 B: i've never oh have i ever been there 
+
+221.66 224.77 A: do you have family that went over there to fight 
+
+224.21 226.45 B: no i don't 
+
+225.85 226.66 A: (( oh )) 
+
+226.74 227.97 B: (( oh your )) 
+
+228.24 230.72 A: do you yeah my my father went there for the persian gulf 
+
+230.75 235.22 B: father okay i didn't hear that [mn] wow what ah what did he think about that 
+
+235.74 237.85 A: (( it was pretty messed up )) 
+
+237.55 238.35 B: really 
+
+238.00 238.93 A: um 
+
+240.02 247.05 A: it's weird that this was the topic on the phone because my friend's boyfriend went over there last week he was he was over there and he died 
+
+246.99 248.09 B: oh my god 
+
+249.16 250.01 B: (( oh )) 
+
+251.17 253.73 B: i'm sorry yeah i don't know how did that affect you 
+
+255.10 257.65 A: (( i didn't really know the guy not much )) 
+
+256.89 257.61 B: (( yes )) 
+
+259.28 260.00 B: (( oh )) 
+
+261.16 263.92 A: (( she's going she's going crazy right now )) 
+
+264.08 264.95 A: (( in the )) 
+
+267.16 270.28 B: so is your father still or is he what 
+
+270.47 272.05 B: does your father do is he 
+
+272.19 277.51 B: is that his career in the army or or the air force okay 
+
+274.86 276.01 A: air force 
+
+278.22 282.23 B: what what was his mission or like was he does he fly planes or 
+
+282.37 284.75 A: um he was guarding them 
+
+285.30 287.91 A: um b._s. and stuff happened 
+
+289.16 292.03 A: folks that got killed and and he 
+
+289.51 290.73 B: yeah 
+
+292.61 295.19 A: (( ended up having to shoot them and stuff like that )) 
+
+297.80 299.60 A: (( they never discovered where )) 
+
+299.65 301.35 A: he was buried so 
+
+301.41 302.19 A: (( it's )) 
+
+303.30 304.16 B: (( uh-huh )) 
+
+303.46 304.55 A: (( really crazy )) 
+
+308.68 309.91 B: [mn] what um 
+
+310.44 312.90 B: have you ever considered would you 
+
+313.11 318.09 B: be willing to join the army or you know air force to 
+
+318.25 321.31 A: no 'cause i'm pretty i'm pretty down on america 
+
+318.57 323.38 B: (( i don't know get involved in the middle east yeah )) 
+
+322.10 325.63 A: (( i would never join the air force or anything i i don't like america )) 
+
+326.20 328.29 B: why not 
+
+327.69 329.53 A: (( 'cause they shut me in the prisons )) 
+
+329.85 331.94 B: 'cause what 
+
+331.21 333.65 A: they shut me in the prison for two years 
+
+333.58 335.49 B: for what 
+
+335.29 340.07 A: for a key that had a spike on it they charged me with possessing a deadly weapon 
+
+340.34 341.38 B: oh okay 
+
+341.82 345.69 A: and it messed up my whole life and it messed up my mind and that's why i'm crazy 
+
+345.43 347.11 B: unbelievable wow 
+
+347.25 349.54 A: seriously yeah that just sucks they 
+
+349.67 352.49 A: took they took two years away from my life 
+
+352.78 354.30 A: over a key chain 
+
+356.93 361.11 B: wow and where where did you go where were you imprisoned at 
+
+360.90 363.43 A: valley in california 
+
+363.71 365.73 B: where's that 
+
+365.27 370.00 A: valley state prison the second prison the second worst prison in in the united states 
+
+369.86 370.61 B: [laughter] 
+
+371.09 371.91 B: man 
+
+371.46 375.78 A: they had messed up my paperwork and they put me on level four with lifers for three months 
+
+374.70 376.36 B: yeah 
+
+376.44 378.07 B: i guess that must have been 
+
+379.16 379.97 A: hm 
+
+379.91 382.32 B: [mn] must have been a pretty rough experience 
+
+382.48 387.19 A: yeah people trying to rape you getting stabbed four times i think it's pretty rough 
+
+387.24 389.11 B: (( yeah )) 
+
+389.54 392.38 B: are you um better are you handling it now 
+
+392.55 395.67 A: i've only been out for five months i'm i'm still 
+
+396.25 398.50 B: just trying to adjust 
+
+397.97 400.36 A: (( yeah blacks )) 
+
+400.92 402.12 B: yeah 
+
+402.08 403.63 A: i don't like blacks 
+
+403.75 405.54 A: they're ignorant 
+
+405.84 408.09 A: and they're sm- smelly and i 
+
+410.08 414.96 A: don't know i don't like them i don't like whites either i'm white myself what are you 
+
+414.61 415.97 B: (( mhm [laughter] )) 
+
+416.00 419.54 B: i am i i think i can rate- relate a little bit 
+
+419.14 420.32 A: what are you 
+
+420.93 422.36 B: what do you mean what am i 
+
+422.06 423.60 A: what nationality 
+
+423.50 425.36 B: ah caucasian 
+
+425.39 431.85 A: (( caucasian same here and i don't even like our own race because our own race well i i i i wouldn't really say that but in prison you )) 
+
+432.59 433.95 A: (( know they're )) 
+
+435.08 436.45 A: (( and two faced )) 
+
+436.51 437.43 B: uh-huh 
+
+438.61 440.95 A: they only go after what what they want 
+
+441.65 443.03 B: what's that 
+
+442.91 444.93 A: they only go after what they want 
+
+445.03 446.84 B: yeah 
+
+446.81 461.25 B: what do you do you think that would that ever like issues like this issues like middle east middle east ah middle eastern things like that i thought would mean i would imagine that would be one of your least concerns 
+
+461.74 464.59 B: and so it seems that ah now 
+
+464.61 465.59 B: maybe 
+
+464.94 467.15 A: (( oh well i hate america i mean )) 
+
+467.20 470.55 A: plus why am i going to why am i going to risk my life 
+
+470.81 471.69 B: right 
+
+470.81 475.37 A: and go over there because they already they already took away two years out of my life you know 
+
+472.06 473.60 B: absolutely mhm 
+
+476.99 485.17 A: why help them and plus when you go over there it messes up your mind anyways my dad told me it messes up your mind and he was in the military 
+
+485.23 486.98 B: yeah 
+
+486.00 487.29 A: it corrupts you 
+
+488.83 490.67 A: makes you see different things 
+
+491.39 492.25 B: wow 
+
+492.38 495.67 A: you got to worry about living every day you got to kind of live 
+
+495.88 497.04 B: (( [laughter] )) 
+
+495.94 500.19 A: (( how you how you have to go to bed not knowing if nothing's going to hit you in the middle of night )) 
+
+499.85 501.58 B: right 
+
+501.40 505.29 A: also being in prison to have to go to bed not knowing if someone's going to come in and attack you 
+
+505.57 506.44 A: (( stab )) 
+
+506.82 507.79 B: [laughter] 
+
+507.92 511.67 B: yeah so i guess that wow 
+
+511.90 516.01 A: you it's just like a war in the middle east every day it's a war 
+
+517.15 518.83 B: yeah 
+
+519.33 522.09 B: wow did oh man so did you 
+
+522.40 524.13 B: (( i don't know it's it's ah )) 
+
+524.80 531.83 B: i imagine that i don't know how to compare that to like the middle east is that i mean you had your own war going on it seems like you know 
+
+531.72 536.73 A: yeah a lot of race issues too it's like there's things that are called riots 
+
+537.10 548.02 A: where the blacks and northern mexicans and the whites and the southern mexicans get together they still have a all out battle if you don't battle then your own people beat the crap out of you when you get back to your cells 
+
+547.68 549.20 B: (( mhm unbelievable )) 
+
+549.25 551.14 A: yeah 
+
+551.23 555.46 A: like little like little guys you have to fight no matter what you have to go 
+
+554.66 557.70 B: no matter no matter what 
+
+556.25 561.02 A: out no matter what you have to go out there with the shank or else they're going to stab you 
+
+561.47 562.20 B: (( do you )) 
+
+561.69 564.36 A: if you're not out there and 
+
+564.81 566.35 A: sometimes you 
+
+569.96 571.78 B: yeah 
+
+573.44 574.81 A: (( just want to kick off )) 
+
+575.02 576.62 A: and some stupid stuff 
+
+579.58 583.24 B: so now now you're but it was two that was two years 
+
+584.19 585.49 A: (( two years )) 
+
+585.29 586.81 B: (( two years of your life )) 
+
+586.65 588.27 A: (( yeah )) 
+
+587.55 588.29 B: (( wow )) 
+
+590.04 591.94 B: (( just talking to a man sorry about that )) 
+
+592.84 594.98 A: (( so i'm not really happy with america )) 
+
+595.17 597.74 B: yeah i can i can understand that 
+
+598.76 599.90 B: (( where do you have any plan )) 
+

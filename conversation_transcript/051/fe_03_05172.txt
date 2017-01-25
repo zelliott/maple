@@ -1,0 +1,495 @@
+# fe_03_05172.sph
+# Transcribed by BBN/WordWave
+
+0.43 1.47 A: hello 
+
+0.46 1.60 B: hello 
+
+1.51 2.26 A: hey 
+
+2.12 3.04 B: hi 
+
+2.89 4.07 A: my name's nick 
+
+4.07 5.01 B: nick 
+
+4.67 5.84 A: mhm 
+
+5.19 7.02 B: my name's matthew price 
+
+7.03 7.98 B: how are you 
+
+7.65 8.72 A: i'm okay 
+
+8.73 11.32 B: all right uh where are you at 
+
+10.78 12.59 A: i'm out here in virginia yeah 
+
+12.12 22.81 B: in virginia i'm in shreveport louisiana yeah that's all right uh so what was the topic uh outdoor or indoor sp- activities 
+
+15.15 16.30 A: (( oh that's cool yeah )) 
+
+20.13 21.11 A: (( outdoor )) 
+
+22.16 23.41 A: yeah 
+
+23.08 26.18 B: yeah do you like outdoor activities 
+
+25.54 27.61 A: yeah i'm more of an outdoor person 
+
+27.02 30.11 B: are you really that's what i like to do too 
+
+27.77 28.93 A: yeah 
+
+30.70 33.76 B: [cough] i'm into uh i guess uh golfing 
+
+33.82 34.69 A: okay 
+
+34.33 41.36 B: and uh stuff like that [laughter] i was given a set of golf clubs and that's pretty much it [laughter] 
+
+41.64 44.34 B: i decided i better use 'em 
+
+44.18 46.46 A: i bought a set of golf clubs once 
+
+46.55 47.43 B: did you 
+
+47.06 49.68 A: yeah um can you hold on a second 
+
+49.07 50.46 B: yeah 
+
+49.78 50.89 A: your lights are on 
+
+51.80 52.51 A: okay 
+
+52.92 57.02 A: sorry somebody just pulled up and they left their lights on i figured i better tell them [laughter] 
+
+56.40 57.50 B: (( oh okay )) 
+
+57.47 58.25 A: um 
+
+57.64 60.01 B: um do you hunt 
+
+60.00 60.91 A: no 
+
+60.65 61.51 B: no 
+
+61.53 66.51 B: me neither i i that uh that comes to mind with the outdoor activities 
+
+66.34 71.61 A: nah um out here in virginia i'm right on a creek and all 
+
+71.02 72.46 B: oh okay 
+
+71.76 76.83 A: so i like boating a lot i have my own kayak and my own little sixteen foot motor boat 
+
+76.44 77.91 B: cool 
+
+77.27 78.41 A: yeah 
+
+78.39 79.96 B: (( that's all right )) 
+
+79.29 81.98 A: yeah i've had both of those before i got my car [laughter] 
+
+82.75 85.76 B: (( [laughter] hm )) 
+
+83.23 84.64 A: (( yeah hm )) 
+
+86.06 91.18 B: yeah i mean my uh my family are going to uh to the mountains 
+
+91.49 93.07 B: this week 
+
+92.43 93.62 A: which mountains 
+
+93.29 96.05 B: uh to the watchatalk mountains 
+
+95.48 96.27 A: (( okay )) 
+
+96.29 98.17 B: we're gonna camp up there 
+
+98.34 101.67 B: i enjoy doing that this'll be our first trip there 
+
+99.78 100.60 A: yeah 
+
+101.46 102.87 A: your first trip 
+
+102.27 105.70 B: yeah yeah 
+
+104.60 105.95 A: hope it's a pleasant one 
+
+106.07 106.99 B: (( huh )) 
+
+106.67 108.30 A: i hope it's a pleasant one 
+
+107.87 112.46 B: oh i'm sure yeah we'll make it nice [laughter] 
+
+112.53 115.14 A: well i forgot to ask but uh how old are you 
+
+115.07 117.38 B: me uh i'm twenty seven 
+
+115.56 116.47 A: yeah 
+
+117.14 117.94 A: okay 
+
+117.67 118.54 B: (( how old are you )) 
+
+118.35 119.37 A: i'm eighteen 
+
+119.08 120.75 B: eighteen wow 
+
+120.68 124.70 A: i could sense that there was a bit of a difference but i wasn't sure how big you know [laughter] 
+
+124.07 125.62 B: (( yeah yeah )) 
+
+125.98 128.97 B: that's all right [laughter] 
+
+129.00 129.93 A: um 
+
+129.27 133.53 B: [mn] hm do you uh do you do this often 
+
+133.75 136.03 A: actually this is only my second time yeah 
+
+135.44 137.86 B: is it yeah this'll be my first 
+
+139.14 146.66 B: [laughter] hm do you like uh well i guess you like the summertime activities it said uh summer or winter best 
+
+145.71 150.32 A: hm yeah it has to be summer you can't really do too much on the water during the winter [laughter] 
+
+147.63 149.51 B: (( yeah )) 
+
+149.87 154.18 B: yeah same here i don't know i don't even like the cold very much [laughter] 
+
+154.69 156.19 B: much less get out in it 
+
+156.33 160.77 A: i don't know some i like the feel of the cold here in my lungs that's about it you know 
+
+160.17 162.51 B: yeah [laughter] 
+
+161.85 163.64 A: just kinda wakes you up you know 
+
+163.31 167.91 B: yeah i enjoy getting out on the lake i like i like i like all the uh 
+
+168.30 172.30 B: uh the more calm activities i like i like fishing 
+
+171.70 175.57 A: yeah fishing i don't know if that could actually be called a sport though you know 
+
+174.86 180.21 B: oh yeah shoot yeah the bass masters classic huh 
+
+177.18 179.52 A: no fishing is more 
+
+180.10 186.44 A: fishing is more of a sleep to me you know just sit back and if i catch something that's just a bonus you know [laughter] 
+
+182.38 183.99 B: [laughter] 
+
+185.78 190.34 B: yeah yeah i uh i like to get out and bass fish you know 
+
+190.46 196.78 B: especially uh especially if you're moving in a boat you just kinda fish along but that that's pretty cool and it is relaxing you know 
+
+192.79 193.48 A: (( mm )) 
+
+196.73 197.90 A: yeah 
+
+197.44 201.25 B: and i enjoy that that's why that's why golf i said well 
+
+201.29 206.89 B: 'cause before i was given those golf clubs i uh i never really thought about it and it's so boring on tv [laughter] 
+
+204.63 205.42 A: mhm 
+
+207.09 211.06 B: so but uh once you get out there it's it's pretty fun to play 
+
+211.13 213.82 B: i mean you know i enjoy it it's kind of a challenge you know 
+
+215.21 216.26 B: but uh 
+
+216.92 225.29 A: yeah i bought my set at a uh yard sale or whatever so it's not exactly a complete set or anything but it's all right 
+
+223.33 226.33 B: yeah do you use 'em i mean have you ever 
+
+226.39 229.85 A: um i've used them like once or twice but that's about it yeah 
+
+229.19 230.34 B: oh okay 
+
+231.57 234.09 B: you bought 'em but didn't really have a 
+
+234.23 235.66 B: have an urge to go 
+
+236.16 241.14 A: well i bought 'em 'cause i have a friend who's in into all of it 
+
+240.57 241.39 B: uh-huh 
+
+241.22 249.06 A: and for the price i could have sold the bag 'cause there was a bag and set and i could've sold the bag for as much as i paid for it so 
+
+244.90 245.74 B: uh-huh 
+
+248.39 249.66 B: oh okay 
+
+249.63 253.10 A: i figured if worst came to worst i'd just sell it and break even 
+
+252.94 254.88 B: oh yeah yeah 
+
+254.06 254.93 A: (( so )) 
+
+257.89 258.70 B: (( [laughter] hm )) 
+
+257.91 260.64 A: [noise] um let's see other outdoor activities 
+
+261.40 265.38 A: i guess my next outdoor activity would have to be uh driving 
+
+265.10 268.22 B: driving you [laughter] well you're eighteen 
+
+266.11 267.30 A: yeah 
+
+268.05 269.83 A: yeah well you know [laughter] 
+
+268.53 272.23 B: [laughter] driving on the weekends you know 
+
+272.34 274.03 B: yeah 
+
+272.45 273.05 A: (( yeah )) 
+
+274.17 276.11 A: driving has to be up there you know 
+
+274.24 275.62 B: (( that's cool )) 
+
+276.21 280.88 B: i enjoy uh i enjoy fish i i just got into that this past year 
+
+281.24 283.33 B: like uh salt water fish 
+
+283.03 284.81 A: (( oh yeah )) 
+
+283.83 284.75 B: (( uh )) 
+
+284.80 286.86 B: that's that would be um 
+
+286.94 290.42 B: we we're gonna make plans to visit oceans you know 
+
+290.35 292.06 A: mhm 
+
+290.72 295.42 B: and uh i wanna go snorkeling and see the big reefs and stuff 
+
+294.56 296.00 A: oh man 
+
+296.42 299.51 A: um couple of years ago we went down to puerto rico 
+
+296.71 297.31 B: [cough] 
+
+299.43 301.40 B: oh really 
+
+299.93 302.83 A: yeah and we got to go snorkeling down there and 
+
+302.21 303.13 B: pretty neat 
+
+303.60 304.50 A: well 
+
+304.90 306.72 A: up here in virginia 
+
+305.21 307.94 B: mhm 
+
+306.98 314.12 A: near this creek that i live on if you go out into the bay and whatnot you can't see but maybe a few feet in front of your face 
+
+313.69 314.95 B: (( mhm gosh )) 
+
+314.30 321.07 A: and i went down to puerto rico and i looked down and i saw the bottom so i jumped in and i went swimming towards the bottom 
+
+321.64 324.32 A: and the bottom was about fifty feet down [laughter] 
+
+323.65 326.79 B: [laughter] pretty nice though huh 
+
+324.69 326.04 A: yeah 
+
+326.52 332.44 A: yeah it was nice but it freaked me out 'cause i got about halfway there and it's like wait a minute something's wrong [laughter] 
+
+331.50 335.18 B: [laughter] cool 
+
+334.49 336.13 A: yeah 
+
+335.93 344.02 B: that's pretty that's pretty see that's the stuff that uh that i'm gonna do pretty soon hopefully with my family yeah 
+
+343.08 345.60 A: yeah it's pretty neat though you should try it 
+
+345.96 347.28 B: do you play sports 
+
+347.57 350.19 A: um i'm not really too much on the uh 
+
+350.83 352.82 B: baseball or football 
+
+351.85 352.80 A: (( no )) 
+
+352.97 356.08 A: too much too many rules in those sports you know 
+
+353.07 355.19 B: (( anything like that )) 
+
+355.76 357.92 B: yeah [laughter] 
+
+357.39 360.65 A: always worried about breaking some rule can't just have fun you know 
+
+360.43 366.00 B: oh yeah when i was in school i was on the tennis team yeah i enjoyed that 
+
+363.59 364.45 A: (( so were you )) 
+
+365.37 367.56 A: had lots of friends on the tennis team but 
+
+366.84 368.33 B: it's it's pretty fun 
+
+368.57 370.20 A: i never really played 
+
+375.40 381.70 A: well let's see you say that you like fishing and you used to like well you still like golf 
+
+375.70 376.40 B: (( [noise] )) 
+
+381.50 383.76 B: yeah every now and again [laughter] 
+
+382.19 382.82 A: yeah 
+
+384.66 386.16 A: and you like tennis 
+
+386.90 389.59 A: um do you like riding bikes down there 
+
+390.01 402.60 B: yes uh i i we used to but we don't any more really [noise] i have a new i have a little girl who's just now getting to the age where she can ride bikes and stuff 
+
+396.82 397.70 A: is it 
+
+402.31 403.10 A: oh 
+
+402.86 406.69 B: so we'll probably actually be getting into that pretty good 
+
+405.78 406.83 A: that's cool 
+
+406.95 411.28 B: yeah there's a lot of trails around here and stuff to ride 
+
+410.10 411.83 A: is it pretty flat or 
+
+412.43 419.05 B: uh in louisiana uh not up here it's uh yeah i'm in i'm in uh north louisiana right now 
+
+413.37 414.46 A: yeah 
+
+415.17 416.75 A: no not where you are oh 
+
+418.73 419.67 A: okay 
+
+419.36 422.39 B: and uh all my family's down south they're real cajun 
+
+422.82 424.63 B: [laughter] 
+
+424.65 429.12 B: but uh yeah it's it's pretty hilly you know just uh 
+
+429.27 430.90 B: not not very level 
+
+430.78 431.48 A: (( okay mm )) 
+
+431.93 433.33 A: (( oh well [laughter] )) 
+
+433.85 435.84 A: it'll make it interesting though you know 
+
+435.26 437.61 B: yeah that's that's i like that you know 
+
+442.33 444.01 A: (( hm doobie doob do )) 
+
+446.23 449.97 B: so definitely i guess outdoor activities yeah 
+
+448.82 453.30 A: yeah we're not we haven't been talking too much about indoor activities yeah 
+
+453.67 455.48 B: not really a 
+
+455.50 460.09 B: not really into like i don't know what would be indoor activities i guess uh 
+
+460.48 468.04 B: maybe sitting around playing cards is what comes to mind [laughter] but i i don't en- i don't hm 
+
+463.73 464.92 A: (( oh )) 
+
+467.96 473.51 A: i guess you know me being eighteen the weights and video games pretty much fall in there [laughter] yeah 
+
+473.09 477.24 B: yeah oh yeah i'm uh i never i never 
+
+477.58 480.44 B: i never was into video games at all 
+
+479.77 480.56 A: no 
+
+480.55 483.58 B: no not really you know 
+
+485.47 486.38 A: (( hm i don't know )) 
+
+486.22 486.78 B: (( [cough] )) 
+
+491.90 493.98 B: i do like to play uh pool 
+
+493.93 494.80 A: pool 
+
+494.53 496.73 B: (( yeah i enjoy that yeah )) 
+
+495.58 496.88 A: yeah that's pretty cool 
+
+499.07 503.33 A: we just got a uh new pool or new bar near my house so 
+
+503.57 507.12 A: it's all that my friends are ever wanting to do now is go play pool [laughter] 
+
+506.86 509.89 B: [laughter] [laughter] so you go play pool a lot 
+
+509.03 511.81 A: um i really don't go play that often 
+
+511.52 512.71 B: (( hm )) 
+
+511.96 519.73 A: i find it quite annoying when you have to sit there and wait for ten minutes to play a five minute game and whatnot you know 
+
+519.52 521.09 B: do you really 
+
+520.44 524.59 A: yeah 'cause you have to uh pretty much play on to the 
+
+524.68 525.86 A: board you know 
+
+525.50 527.47 B: yeah 
+
+526.55 527.99 A: and so 
+
+528.11 529.96 B: [laughter] 
+
+530.62 532.35 B: but it's a good challenge [laughter] 
+
+532.17 542.65 A: well but i mean if you're going there and you wanna say you take your girlfriend in there and you wanna play your girlfriend you have to beat the person who's running the table and then you can play you know 
+
+541.33 542.44 B: right 
+
+542.54 543.91 B: right 
+
+544.33 548.34 B: hm uh we have uh pool halls here that that we like to go to 
+
+549.28 550.15 B: (( we uh )) 
+
+551.10 559.59 B: it's a there's you know there's a lot of pool tables there and you have a time limit so and you pay by the hour it's pretty nice 
+
+556.15 557.48 A: (( so mhm )) 
+
+558.73 567.21 A: yeah i did that once when i went down to florida they had it was like you paid for an hour and you got to play as many games as you could you know no 
+
+566.49 568.52 B: (( yeah right right )) 
+
+570.67 572.35 A: not that way up here [laughter] 
+
+572.10 574.12 B: (( [laughter] )) 
+
+572.81 574.07 A: i live in 
+
+574.79 576.94 A: um i live 
+
+576.96 579.38 A: do you know of uh norfolk 
+
+579.78 581.56 B: yeah 
+
+580.72 583.26 A: i live very near norfolk but i live 
+
+583.44 586.83 A: across a bridge tunnel which costs about twenty bucks 
+
+587.09 588.05 B: mm 
+
+587.73 590.01 A: and so we're pretty isolated over here 
+
+589.69 591.22 B: (( oh i see )) 
+
+590.55 591.88 A: yeah so 
+
+591.79 594.65 B: cool you like it 
+
+593.79 597.99 A: um i do yeah lot of my friends don't but i do [laughter] 
+
+594.98 596.13 B: yeah 
+
+597.32 598.91 B: [laughter] 
+

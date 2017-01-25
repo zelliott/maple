@@ -1,0 +1,321 @@
+# fe_03_05141.sph
+# Transcribed by BBN/WordWave
+
+0.19 1.51 A: hello 
+
+0.70 2.75 B: (( hello how ya doing )) 
+
+2.08 3.74 A: i'm doing real well 
+
+3.10 4.83 B: okay my name is bob 
+
+4.60 6.12 A: and i'm jamie 
+
+5.51 6.94 B: now where you from jamie 
+
+6.85 8.13 A: memphis 
+
+7.66 9.93 B: memphis hi i'm in washington d. c. 
+
+9.75 11.34 A: okay very good 
+
+10.85 18.60 B: okay now about our subject for tonight education or whether the computers hel- what she say harm or increase it is that she was saying 
+
+17.77 20.16 A: or help ed- in education 
+
+19.72 21.56 B: (( [lipsmack] and what's your opinion on that mm )) 
+
+21.34 31.70 A: well i i'm i like computers huh we ah we do ah two types of schooling with our children two children in public school 
+
+31.72 36.29 A: and one is home schooled and we use computers with all of 'em 
+
+36.34 39.83 A: and um i think you know it's kinda like ah 
+
+40.16 45.50 A: as with anything if you don't get your kids up to speed on it they're they're gonna have a hard time 
+
+45.63 50.40 B: well i agree and then i disagree i think computers are 
+
+50.21 64.24 B: are very good because they they get all your information in one central location you don't have to be like go s- to a whole lot of different reference books like when i was young i had to go to the library get a book on this and get a book on that with a computer you can sit right in front of 'em and get all the information you need 
+
+55.01 55.77 A: (( yep )) 
+
+64.00 64.93 A: right 
+
+64.30 68.79 B: but it also has its downsides because it also seems to make you lazy okay 
+
+66.52 67.45 A: sure 
+
+68.71 79.94 B: because when i had to out and get like book reports i had to go out and actually read the books and find out you know where to get it from and d- d- d- our teachers would give us the project you know you got out and find this information 
+
+79.75 89.58 B: and then you had to do the legwork to do it i i couldn't go sit in front of a desk and just start pushing buttons but over all and all i think they're they're they're a help to the education 
+
+79.89 80.76 A: right 
+
+81.91 82.70 A: right 
+
+84.90 85.76 A: right 
+
+89.40 91.46 A: yeah i do too i think 
+
+91.48 96.36 A: ah they're able to access a lot more and and ah i you know i think that 
+
+97.00 108.21 A: wh- when i was in school it was difficult because you know you had limited resources and now it's almost overload you know they they really had to pick and choose and i think 
+
+102.72 104.22 B: right 
+
+104.97 106.78 B: right 
+
+108.29 116.45 A: sometimes um you don't have it there i i agree with you i i think overall though that that the trend has been 
+
+114.73 116.76 B: the ends justifies the means 
+
+116.75 124.70 A: yeah well i mean my children are a little bit younger and so i'm able to put them in front of programming where they're playing games that are educational games 
+
+118.96 119.99 B: mm 
+
+124.00 124.93 B: (( mm )) 
+
+124.95 128.23 A: and like my youngest is six he really 
+
+128.19 141.17 A: i mean he he's not afraid of the computer he he um enjoys it and he's you know they don't a word i'm spoon feeding them education we we probably own thousands of worth of software 
+
+139.46 142.05 B: in other words you trick them into learning 
+
+141.63 147.58 A: yeah yeah really and you know they um you know there's music there's um 
+
+142.16 143.04 B: right 
+
+147.89 149.38 A: you know um 
+
+149.43 154.25 A: puzzles there's all different kinds of things that stimulate and challenge them 
+
+151.21 152.27 B: right 
+
+153.44 155.13 B: make 'em exercise their mind 
+
+155.26 157.00 A: right and ah 
+
+157.24 163.59 A: and i want you know but i agree you know we with my daughter who's older we will make her 
+
+163.89 172.05 A: you know if she doesn't know a word we'll say go get the dictionary so i think i think we do you do miss out a little bit on how to use reference guides and 
+
+166.42 167.14 B: (( yeah )) 
+
+169.34 170.60 B: because there is 
+
+171.42 185.49 B: oh right and there is a down side because like okay i i went to a vocational high school where i learned a trade and i i learned the trade of printing where you know i had to go out there and actually get on the printing machines and know how to set 'em up and operate 'em and stuff like that 
+
+185.33 190.65 B: and those are things that you can't get on the computers everybody now is getting on computers and getting into the 
+
+188.43 189.27 A: right 
+
+190.98 204.78 B: the technology field whereas you're gonna lose a lot of craftsmen like your woodworkers and your you know people who make cabinets and stuff a lot of that's gonna be a lost craftsmanship is going to be a lost art ah like in the city that i live in ah 
+
+192.73 193.65 A: right 
+
+195.89 196.94 A: sure 
+
+202.19 203.07 A: right 
+
+204.84 208.84 B: about four or five years ago they shut down all the vocational schools 
+
+208.10 209.39 A: did they really 
+
+208.96 218.66 B: and i say well it was really a shame because you have some kids who don't have plans on going to college and if they have a vocation some type of trade or skill they have something to fall back on 
+
+214.14 215.03 A: right 
+
+218.85 219.77 A: right 
+
+218.88 224.77 B: and without those vocational schools that they shut down they had no way to learn these skills these job skills you know 
+
+224.80 228.35 A: right but don't you think that they still need to know how to use computers 
+
+227.65 236.38 B: oh sure they have to because like the machines nowadays when when i was coming they were all manual but now the machines are computerized okay which is ah i had to learn 
+
+233.41 234.47 A: right 
+
+236.36 250.72 B: from well like i'm fifty four years old when i came when i first got out of school and started going to print we had manual machines but now all the machines are computerized so i had to learn as i went but you still had o._j._t. what they call on the job training you had to learn as you go 
+
+246.54 247.41 A: right 
+
+250.79 261.72 B: so you still get into the comput- you know get a computerized information but you have to learn it as you go which is the best way to do it because if you do it wrong you don't get paid [laughter] you know so that's an incentive in itself you know 
+
+255.77 256.56 A: right 
+
+258.91 260.33 A: right right right 
+
+261.70 262.67 A: right 
+
+262.10 271.23 B: but ah it it's has its upside and a downside in them i mean i have a a dell eighty two fifty sitting right here in front of me right now you know and i wouldn't trade it in for nothing in the world you know 
+
+270.59 277.19 A: [laughter] yeah i'm i'm in the process of building my own my my brother in law's an i._t. guy 
+
+271.26 272.25 B: because ah 
+
+276.95 278.32 B: (( mm )) 
+
+277.30 279.97 A: and so he's taking me and my nephew 
+
+280.04 289.52 A: two week- two hours a week and he's you know showing us where to get the different parts and and ah then he's gonna kinda sit over our shoulder and watch us put 'em together 
+
+289.08 295.11 B: right well you see that's good too you know me i just i'm still in the printing field so i just use mine for doing graphics right 
+
+294.84 295.81 A: (( yeah right )) 
+
+294.92 304.19 B: because you have to have the graphics before you can do the actual printing so i use mine for doing graphics and stuff like that and um of course i got plenty of information i can get all over the internet of course you know 
+
+304.22 304.99 A: right 
+
+304.29 305.52 B: (( but like i say )) 
+
+306.59 312.37 B: education i dunno education nowadays is totally different from when i guess when we were young because 
+
+312.28 326.65 B: as you say a lot of it now is set right dow- out in front of you you just sit in front of a a screen and just look for it you know you don't actually get out and do the leg work or the researches you would need to do you don't learn to use your own initiative you know to go out and find things 
+
+316.28 317.08 A: right 
+
+323.84 324.80 A: right 
+
+325.91 336.39 A: well one the one thing that i fear from it is is that um you know those those who are are programming the the um information 
+
+336.71 339.88 A: can can re- in a sense rewrite 
+
+340.67 347.34 A: history or whatever because those resources the you know the books and the um 
+
+345.07 348.13 B: (( right )) 
+
+347.52 348.78 A: the um 
+
+349.27 360.13 A: ah different other types of resources that are that you gotta go and look through yourself look 'em up and then look through 'em they're going to be lost unless somebody reproduces them and 
+
+358.87 370.17 B: well that's not necessarily so because there's always gonna be printed material i mean like as i say i've been in printing industry and even off um a computer you have a printer okay 
+
+365.18 366.15 A: oh sure 
+
+370.13 370.94 A: right 
+
+370.23 377.81 B: and you have to be able to what you have to be able to do is ah determine which is what is right and what is wrong because everything you find on there isn't right [laughter] you and 
+
+377.79 388.50 B: you have to able to oh i guess the word is determine what's right and what's wrong but that's using your basic skills of your mind i mean the computer is just a a human mind 
+
+377.80 378.69 A: sure 
+
+387.38 391.23 A: though the thing about it the thing about that is that it is difficult ah 
+
+391.84 397.16 A: to determine what's right and wrong regarding history because you know you got 
+
+397.39 401.90 A: who who's to say what's right and wrong well you'd have to live in that and and 
+
+400.12 403.02 B: that's right no one knows you just know what was written 
+
+402.87 407.13 A: yeah and but you we we do know that some of the older books 
+
+407.18 409.44 A: are probably a lot more accurate 
+
+407.24 407.92 B: (( mm )) 
+
+408.95 409.89 B: right 
+
+409.62 417.90 A: historically than the the newer books that they've you know kinda edited and updated and made politically correct and all of that 
+
+417.92 421.84 A: and and ah so i think that you know there's there's a um 
+
+422.40 434.93 A: ah just by holding a book in your hand and feeling the you know feeling the age of the book you can you know you i just feel a little more comfortable with that but i tell you this that i'm a i'm a pastor 
+
+435.13 437.86 A: and ah i've got a lot of bible software 
+
+437.97 452.12 A: and i know at any point in time god might put me on the mission field and so i'm i'm trying to get all my books on on on c- c._d. roms so that i can take them with me without carrying humongous boxes of books 
+
+447.94 449.95 B: (( [noise] yeah )) 
+
+451.44 456.22 B: there you go well you carry t- ten or fifteen c._d. roms and you got everything you need 
+
+454.97 455.86 A: yeah 
+
+455.97 458.01 A: yeah it's about you know i've got this 
+
+456.85 460.36 B: and it's and they just conserve a lot of space you know 
+
+460.36 461.46 A: right 
+
+460.80 465.29 B: but you just have to have be have be able to have access to it wherever you're going you know because 
+
+464.76 465.96 A: right 
+
+465.70 473.40 B: ah some well i guess all the up to date machines can but some machine i just was reading an article today where some places you can't even 
+
+473.30 482.82 B: access your computer a ah starbucks i think have a lot of places where you can all like go in and s- set up your computers you know but like for dell or like for broadband you can't use 'em you know 
+
+482.70 483.56 A: right 
+
+482.99 489.46 B: and there's a lot of places a lot of hotels don't have where you can um some rooms do and some rooms don't you know so 
+
+489.35 490.19 A: right 
+
+489.55 491.34 B: that causes a problem too 
+
+492.27 493.46 B: (( but ah )) 
+
+492.60 498.51 A: i'd i'd i think that'll all come though yeah i think it's just like 
+
+495.22 502.55 B: yeah it'll all come in time you know may as well we just try and figure out a way to make things easier and faster so you know 
+
+502.38 514.60 A: right well you know we've come so far in such a short period of time university of memphis years ago um was talking about how crazy it would be to to offer courses online 
+
+514.59 523.37 A: and i tell you if you didn't get on the train you missed it because everybody's got correspondence courses now and 
+
+521.87 526.34 B: [noise] right because i just signed up for a course to ah a voc rehab 
+
+526.35 534.83 B: for oh at home course for computers because it's a online course but i'm going to have ah knee replacement surgery so i'm gonna be laid up for a while 
+
+534.93 536.19 B: learn as much 
+
+536.33 548.48 B: about these computers as i can while i'm laid up for these six months you know so i've signed up for a course where everything's going to be total online and they supply i have my own computer but they're gonna supply me with a laptop that has the programs on it you know 
+
+548.72 551.33 B: and ah i'm gonna study that way you know 
+
+551.04 552.68 A: and and what is this for 
+
+552.68 563.48 B: ah for voc rehab vocational rehab and i got injured so ah in the service so i'm gonna have knee replacement surg- surgery so i'm gonna be out for six months so i'm taking some computer courses you know 
+
+555.66 556.50 A: okay 
+
+563.47 564.78 A: how about that 
+
+564.20 568.91 B: right online you know i mean i i know computer but you can all you can never know too much 
+
+568.99 572.37 B: so so a lot of things i know i'm self taught [laughter] okay 
+
+569.01 569.90 A: right 
+
+572.40 577.22 B: so now i get to get the sit down and get the whatever they're gonna teach me better you know 
+
+572.41 573.25 A: right 
+
+577.12 580.07 A: so that will be just ah software 
+
+580.01 585.42 B: software i'm not trying to learn how to put 'em together and all that you know i'm still a printer you know 
+
+583.54 584.41 A: yeah 
+
+585.37 586.45 A: yeah 
+
+585.46 587.39 B: i still go still printing presses 
+
+587.65 589.44 A: yeah well so do you ah 
+
+589.73 592.03 A: do your own ink on your printer 
+
+591.50 592.89 B: ye- yes 
+
+592.91 595.04 A: so you you replace it and 
+
+594.53 597.45 B: i refill my own cartridges and stuff like that 
+
+595.16 599.89 A: [noise] yeah rather than ah just going and buying new cartridges 
+
+597.74 599.26 B: (( than buy new cartridges )) 
+
+599.39 599.95 B: right 
+

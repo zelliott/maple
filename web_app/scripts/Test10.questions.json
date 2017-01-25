@@ -1,0 +1,1802 @@
+{
+  "Question1": {
+    "indices": [
+      49,
+      71,
+      104,
+      109,
+      110
+    ],
+    "originalString": "Chronic obstructive pulmonary disease (COPD) is an inflammatory process characterized by airway mucus hypersecretion. Previous studies have reported that lipopolysaccharides (LPS) stimulate mucin 5AC (MUC5AC) production via epidermal growth factor receptor (EGFR) in human airway cells. Moreover, this production was shown to depend on the expression and activity of matrix metalloproteinase 9 (MMP-9), which is increased in COPD patients' serum. In the present study we investigated the signaling pathway mediating LPS-stimulated secretion and activation of MMP-9, and the regulatory effects of this pathway on the production of MUC5AC in the human airway cells NCI-H292. Using specific inhibitors, we found that LPS-stimulated cells secreted and activated MMP-9 via EGFR. Our results also indicate that signaling events downstream of EGFR involved PI3K-dependent activation of Rac1, which mediated the NADPH-generated reactive oxygen species responsible for MMP-9 secretion and activation. Finally, we observed that EGFR/PI3K/Rac1/NADPH/ROS/MMP-9 regulate MUC5AC production in LPS-challenged NCI-H292 cells.",
+    "removedWords": [
+      "matrix",
+      "secretion",
+      "activated",
+      "results",
+      "also"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question10": {
+    "indices": [
+      7,
+      43,
+      64,
+      80,
+      87
+    ],
+    "originalString": "The soluble endoglin (sEng) is an antiangiogenic protein that may inhibit TGF-β1 signaling and endothelial nitric oxide synthase activation in endothelial cells. The levels of sEng increased in sera obtained from preeclampsia. The factors that increase the sEng in preeclampsia have not been known well. To investigate the factors that may increase sEng in preeclampsia, we examined the effect of preeclampsia sera on the production of sEng from human choriocarcinoma (JEG-3) cells.\n\nSerum samples were taken from women with normal pregnancy and from those with preeclampsia. JEG-3 cells were cultured with serum for 24 hrs, and the sEng levels in supernatants and expression of sEng and Hemo oxygenase-1 (HO-1) mRNA in cells were measured.\n\nThe addition of preeclampsia sera into JEG-3 cells led to increased release of sEng and expression of Eng mRNA. Preeclampsia sera inhibited the expression of HO-1 mRNA in JEG-3 cells.\n\nThe results suggest that preeclampsia sera may increase the protein production of sEng and mRNA expression of Eng from JEG-3 cells like trophoblast without hypoxia and that in addition to hypoxia, preeclampsia sera may play a role of high level of serum sEng in preeclampsia patients. Decreased HO-1 activity may relate to increased sEng release.",
+    "removedWords": [
+      "protein",
+      "known",
+      "production",
+      "pregnancy",
+      "cells"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question100": {
+    "indices": [
+      21,
+      49,
+      55,
+      64,
+      71
+    ],
+    "originalString": "In order to perform comparative studies of the cardiac myosin heavy chain (MyHC) genes, we determined the sequence of the Syrian hamster beta-MyHC gene and its 5' flanking region. This 33,960 basepair (bp) sequence contains 12,196 bp of the 5' flanking region as well as 21,731 bp of the complete beta-MyHC gene, with its 3' end overlapping with the alpha-MyHC gene. All the exon/intron boundaries were determined and relative to the human beta-MyHC gene, an extra 5' untranslated exon was identified. The isolation and sequencing of the Syrian hamster beta-MyHC gene may further the understanding about the regulation and the evolution of the cardiac MyHC genes.",
+    "removedWords": [
+      "hamster",
+      "complete",
+      "end",
+      "boundaries",
+      "human"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question11": {
+    "indices": [
+      10,
+      20,
+      76,
+      81,
+      86
+    ],
+    "originalString": "In cancer progression, carcinoma cells gain invasive behavior through a loss of epithelial characteristics and acquisition of mesenchymal properties, a process that can lead to epithelial-mesenchymal transition (EMT). TGF-β is a potent inducer of EMT, and increased TGF-β signaling in cancer cells is thought to drive cancer-associated EMT. Here, we examine the physiological requirement for mTOR complex 2 (mTORC2) in cells undergoing EMT. TGF-β rapidly induces mTORC2 kinase activity in cells undergoing EMT, and controls epithelial cell progression through EMT. By regulating EMT-associated cytoskeletal changes and gene expression, mTORC2 is required for cell migration and invasion. Furthermore, inactivation of mTORC2 prevents cancer cell dissemination in vivo. Our results suggest that the mTORC2 pathway is an essential downstream branch of TGF-β signaling, and represents a responsive target to inhibit EMT and prevent cancer cell invasion and metastasis.",
+    "removedWords": [
+      "loss",
+      "process",
+      "cell",
+      "regulating",
+      "gene"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question12": {
+    "indices": [
+      9,
+      27,
+      33,
+      45,
+      62
+    ],
+    "originalString": "SIRT1 regulates a variety of cellular functions, including cellular stress responses and energy metabolism. SIRT1 activity is negatively regulated by DBC1 (Deleted in Breast Cancer 1) through direct binding. However, how the DBC1-SIRT1 interaction is regulated remains unclear. We found that the DBC1-SIRT1 interaction increases following DNA damage and oxidative stress. The stress-induced DBC1-SIRT1 interaction requires the ATM-dependent phosphorylation of DBC1 at Thr 454, which creates a second binding site for SIRT1. Finally, we showed that the stress-induced DBC1-SIRT1 interaction is important for cell fate determination following genotoxic stress. These results revealed a novel mechanism of SIRT1 regulation during genotoxic stress.",
+    "removedWords": [
+      "stress",
+      "direct",
+      "interaction",
+      "following",
+      "Thr"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question13": {
+    "indices": [
+      46,
+      168,
+      178,
+      182,
+      184
+    ],
+    "originalString": "The tumour suppressor gene adenomatous polyposis coli (APC) is mutated in most colorectal cancer cases, leading to the synthesis of truncated APC products and the stabilization of β-catenin. Truncated APC is almost always retained in tumour cells, suggesting that it serves an essential function. Here, RNA interference has been used to down-regulate truncated APC in several colorectal cancer cell lines expressing truncated APCs of different lengths, thereby performing an analysis covering most of the mutation cluster region (MCR). The consequences on proliferation in vitro, tumour formation in vivo and the level and transcriptional activity of β-catenin have been investigated. Down-regulation of truncated APC results in an inhibition of tumour cell population expansion in vitro in 6 cell lines out of 6 and inhibition of tumour outgrowth in vivo as analysed in one of these cell lines, HT29. This provides a general rule explaining the retention of truncated APC in colorectal tumours and defines it as a suitable target for therapeutic intervention. Actually, we also show that it is possible to design a shRNA that targets a specific truncated isoform of APC without altering the expression of wild-type APC. Down-regulation of truncated APC is accompanied by an up-regulation of the transcriptional activity of β-catenin in 5 out of 6 cell lines. Surprisingly, the increased signalling is associated in most cases (4 out of 5) with an up-regulation of β-catenin levels, indicating that truncated APC can still modulate wnt signalling through controlling the level of β-catenin. This control can happen even when truncated APC lacks the β-catenin inhibiting domain (CiD) involved in targeting β-catenin for proteasomal degradation. Thus, truncated APC is an essential component of colorectal cancer cells, required for cell proliferation, possibly by adjusting β-catenin signalling to the \"just right\" level.",
+    "removedWords": [
+      "interference",
+      "possible",
+      "isoform",
+      "altering",
+      "expression"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question14": {
+    "indices": [
+      31,
+      72,
+      93,
+      95,
+      191
+    ],
+    "originalString": "Clinical trials with antiangiogenic agents have not been able to validate plasma or serum levels of angiogenesis regulators as reliable markers of cancer presence or therapeutic response. We recently reported that platelets contain numerous proteins that regulate angiogenesis. We now show that accumulation of angiogenesis regulators in platelets of animals bearing malignant tumors exceeds significantly their concentration in plasma or serum, as well as their levels in platelets from non-tumor-bearing animals. This process is selective, as platelets do not take up a proportional amount of other plasma proteins (eg, albumin), even though these may be present at higher concentrations. We also find that VEGF-enriched Matrigel pellets implanted subcutaneously into mice or the minute quantities of VEGF secreted by microscopic subcutaneous tumors (0.5-1 mm(3)) result in an elevation of VEGF levels in platelets, without any changes in its plasma levels. The profile of other angiogenesis regulatory proteins (eg, platelet-derived growth factor, basic fibroblast growth factor) sequestered by platelets also reflects the presence of tumors in vivo before they can be macroscopically evident. The ability of platelets to selectively take up angiogenesis regulators in cancer-bearing hosts may have implications for the diagnosis and management of many angiogenesis-related diseases and provide a guide for antiangiogenic therapies.",
+    "removedWords": [
+      "platelets",
+      "process",
+      "may",
+      "present",
+      "management"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question15": {
+    "indices": [
+      30,
+      47,
+      48,
+      56,
+      57
+    ],
+    "originalString": "Activation of protein kinase G (PKG) by cyclic guanosine 3,5-monophosphate (cGMP) has become of considerable interest as a novel molecular approach for the induction of apoptosis in cancer cells. This study was conducted to investigate the role of PKG isoforms in the regulation of cell growth in human breast cancer cell lines MCF-7 and MDA-MB468. The expression levels of PKG isoforms were also examined using real-time reverse transcriptase polymerase chain reaction. No differences in the gene expression of PKG isoforms were observed between MCF-7 and MDA-MB-468 cells. To investigate the effects of PKG isoforms on the regulation of cell growth, the cGMP analogues 8-APT-cGMP (PKGIα activator), 8-Br-PET-cGMP (PKGIβ activator) and 8-pCPT-cGMP (PKGII activator) were employed. Apoptosis was assessed with the Annexin-V-propidium iodide (PI) staining, cell cycle analysis and caspase-3/9 activity assay. Treatment of MCF-7 and MDA-MB-468 cells with 8-Br-PET-cGMP resulted in a concentration-dependent cell growth inhibition and apoptosis, whereas neither PKGIα nor PKGII activators had any effect on the cell growth. The role of PKGIβ in the inhibition of cell growth was confirmed using PKGI and PKGII inhibitors. The present study is the first to demonstrate the involvement of PKGIβ in the inhibition of cell growth and induction of apoptosis in breast cancer cells.",
+    "removedWords": [
+      "study",
+      "human",
+      "breast",
+      "expression",
+      "levels"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question16": {
+    "indices": [
+      6,
+      12,
+      16,
+      23,
+      27
+    ],
+    "originalString": "We report a method for specifically labelling the surface of cells with two kinds of chemical probes (near-infrared (NIR) fluorescent probes and magnetic resonance (MR) imaging probes) via two genetically expressed tags, and demonstrate the application for in vitro and in vivo dual imaging.",
+    "removedWords": [
+      "labelling",
+      "two",
+      "probes",
+      "resonance",
+      "via"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question17": {
+    "indices": [
+      46,
+      68,
+      76,
+      130,
+      175
+    ],
+    "originalString": "The brain is widely assumed to be a paradigmatic example of a complex, self-organizing system. As such, it should exhibit the classic hallmarks of nonlinearity, multistability, and \"nondiffusivity\" (large coherent fluctuations). Surprisingly, at least at the very large scale of neocortical dynamics, there is little empirical evidence to support this, and hence most computational and methodological frameworks for healthy brain activity have proceeded very reasonably from a purely linear and diffusive perspective. By studying the temporal fluctuations of power in human resting-state electroencephalograms, we show that, although these simple properties may hold true at some temporal scales, there is strong evidence for bistability and nondiffusivity in key brain rhythms. Bistability is manifest as nonclassic bursting between high- and low-amplitude modes in the alpha rhythm. Nondiffusivity is expressed through the irregular appearance of high amplitude \"extremal\" events in beta rhythm power fluctuations. The statistical robustness of these observations was confirmed through comparison with Gaussian-rendered phase-randomized surrogate data. Although there is a good conceptual framework for understanding bistability in cortical dynamics, the implications of the extremal events challenge existing frameworks for understanding large-scale brain systems.",
+    "removedWords": [
+      "evidence",
+      "linear",
+      "fluctuations",
+      "appearance",
+      "challenge"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question18": {
+    "indices": [
+      26,
+      32,
+      48,
+      54,
+      59
+    ],
+    "originalString": "Cerebral aspergillosis is a rare condition usually encountered in severely immunodepressed patients. We review the case of an immunocompetent patient who developed a fulminant form of cerebral aspergillosis which led to death due to the rapid formation and rupture of multiple mycotic aneurysms in the cerebral arteries. We suggest the possible role of genetic factors in causing this unusual clinical history and we propose that cerebral aspergillosis should be taken into consideration early in the process of diagnosis in order to allow for timely treatment.",
+    "removedWords": [
+      "cerebral",
+      "due",
+      "suggest",
+      "factors",
+      "clinical"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question19": {
+    "indices": [
+      1,
+      32,
+      79,
+      111,
+      119
+    ],
+    "originalString": "Although hearing loss in newborns and infants is predominantly due to malformations and infections, there are other situations which may compromise hearing quality in later stages, including posterior-fossa arachnoid cysts (ACs). We report the case of an 8-year-old girl who presented with hearing loss linked to a pontocerebellar-angle AC which had been diagnosed and treated when she was 14 months old. The pathophysiology of this late AC complication is discussed. This case reminds us that a close follow-up with audiologic monitoring and/or brain stem auditory evoked response is necessary in children with posterior-fossa AC because modern neuroradiological imaging methods do not inform about cerebral and nerve functions, although they provide excellent morphological details of ACs and have improved the ease and accuracy of their early diagnosis. Therefore, surgery should be performed before complete hearing loss occurs; however, in hearing-impaired patients, it remains unclear which surgical treatment is most appropriate.",
+    "removedWords": [
+      "hearing",
+      "report",
+      "audiologic",
+      "morphological",
+      "ease"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question2": {
+    "indices": [
+      8,
+      93,
+      95,
+      98,
+      127
+    ],
+    "originalString": "A nonmotile, nonspore-forming, Gram-negative, aerobic, small rod-shaped bacterium, isolated from soil, was identified as Chryseobacterium gleum on the basis of 16S rRNA gene sequence analysis. It was observed to grow luxuriously at pH 9 and tolerate highly alkaline environment up to pH 12. Orange red color was a peculiar character of these cells which on purification obtained 60-80 mg/l and found to be sphingosine type of sulfonolipid \"sulfobacin A\" on the basis of infrared, nuclear magnetic resonance, and mass spectral data. Inhibition of sulfobacin A synthesis by incorporation of L: -cycloserine in culture growth medium suggested presence of serine palmitoyl transferase which is one of the important enzymes involved in its biosynthesis. Sulfobacin A from C. gleum LMG P-22264 exhibited cytotoxicity against four cell lines tested. Maximum activity against human mammary adenocarcinoma cells was indicative of its potential as an anticancer agent.",
+    "removedWords": [
+      "isolated",
+      "growth",
+      "suggested",
+      "serine",
+      "activity"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question20": {
+    "indices": [
+      10,
+      12,
+      15,
+      21,
+      38
+    ],
+    "originalString": "Two brothers presented in their mid-forties with movement disorders including atypical parkinsonism, choreiform movements, stereotypies, ataxia and dysarthria. Both brothers showed putaminal lucencies on imaging and, in the proband, a deficiency of the pyruvate dehydrogenase complex (PDHC) was found on skin fibroblast assay.",
+    "removedWords": [
+      "atypical",
+      "choreiform",
+      "ataxia",
+      "putaminal",
+      "found"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question21": {
+    "indices": [
+      43,
+      48,
+      69,
+      88,
+      97
+    ],
+    "originalString": "We report a case of the middle interhemispheric variant of holoprosencephaly (MIH) with noncleavage of the posterior portion of the frontal lobes and the parietal regions in a fetus at 22 weeks' gestation. To our knowledge, this is the first case of the rare MIH variant to be diagnosed in utero by use of ultrafast MR imaging and one of the few such reports to document gross and microscopic pathologic findings. Neuroimaging results correlated with those of gross and microscopic pathologic specimens obtained from the stillborn child. We conclude that ultrafast MR imaging can accurately distinguish holoprosencephaly subtypes in utero, which may affect counseling of parents.",
+    "removedWords": [
+      "rare",
+      "diagnosed",
+      "pathologic",
+      "conclude",
+      "subtypes"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question22": {
+    "indices": [
+      126,
+      141,
+      226,
+      235,
+      256
+    ],
+    "originalString": "Myxopapillary ependymoma of the conus medullaris and filum terminale is a relatively common spinal intradural neoplasm in adulthood. However, only a reported 8-12% of such tumors affect this site in children, and the ideal management remains controversial. Three children with myxopapillary ependymomas of the conus medullaris and filum terminale were treated by the author over a 2-year period with an at least 24-month follow-up. These children, ages 7, 8 and 13 years, included 1 male and 2 females. Their salient presentation was an acute exacerbation of chronic lower back pain. The duration of symptoms prior to diagnosis ranged from 16 to 18 months. A preoperative MRI, with and without contrast, was available for every case. All children underwent replacement laminoplasty with gross total tumor resection. Somatosensory evoked potentials were used in all surgeries. An early postoperative MRI of the entire neural axis was available for all cases. No permanent complications were noted. Self-catheterization for 6 weeks was required in 1 child with preoperative urinary incontinence. One child received radiation therapy following a recurrence. Clinical and surgical results were compared to the only 2 other reported series (11 patients) addressing this type of tumor in children. Based on this review, the authors propose that: (1) unexplained and intractable lumbar pain in childhood should be thoroughly investigated with an MRI scan: (2) the gross feature of myxopapillary ependymoma allowing for complete resectability appears to be the key prognostic factor; (3) radiotherapy appeared to have no proven value in completely resected tumors in children; (4) postoperative baseline MRI and regular sequential imaging studies are essential for long-term follow-up, and (5) replacement laminoplasties may be of value in preventing future spinal deformities, musculoskeletal pain and allowing for an 'easier' resection in the event of a recurrence.",
+    "removedWords": [
+      "evoked",
+      "axis",
+      "allowing",
+      "prognostic",
+      "regular"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question23": {
+    "indices": [
+      8,
+      22,
+      29,
+      35,
+      40
+    ],
+    "originalString": "The method of constrained reconstruction, previously applied to magnetic resonance imaging (MRI), is extended to magnetic resonance spectroscopy. This method assumes a model for the MR signal. The model parameters are estimated directly from the phase encoded data. This process obviates the need for the fast Fourier transform (FFT) (which often exhibits limited resolution and ringing artifact). The technique is tested on simulated data, phantom data, and data acquired from human liver in vivo. In each case, constrained reconstruction offers spatial resolution superior to that obtained with the FFT.",
+    "removedWords": [
+      "magnetic",
+      "model",
+      "parameters",
+      "phase",
+      "obviates"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question24": {
+    "indices": [
+      6,
+      14,
+      151,
+      154,
+      201
+    ],
+    "originalString": "In this study, we investigated the ability of magnetic resonance imaging (MRI) after interstitial administration of thermoresponsive magnetic nanoparticles to detect the sentinel lymph node (SLN).\n\nPostcontrast MRI scans were acquired following subcutaneous injection of thermoresponsive magnetic nanoparticles into the thoracic wall of rats. The signal-to-noise ratio of axillary lymph nodes was calculated to assess whether the SLN could be detected by MRI. In a second experiment, after injecting thermoresponsive magnetic nanoparticles, i.e., Therma-Max 36, Therma-Max 42, Therma-Max 55, and Ferridex, into the subserosa of the cecum of rats, the injection sites, the SLNs, and the distant lymph nodes were resected and examined histologically in order to determine which nanoparticles, if any, were specifically retained in the SLN.\n\nMRI showed that the signal-to-noise ratio of axillary SLNs was significantly lower 24 h after injection of Therma-Max 42 than on the precontrast images (P < 0.05). Histologic evaluation revealed that Therma-Max 36 aggregated at body temperature and did not migrate to the SLN. Therma-Max 42, on the other hand, aggregated, and the particles became large enough to be retained in the SLNs. Therma-Max 55 and Ferridex did not aggregate, and they both migrated to the SLNs and the distant lymph nodes.\n\nThe results of this study showed that thermoresponsive magnetic nanoparticles could be targeted to the SLN by adjusting the temperature at which they aggregate, and that they could be used as a contrast agent for SLN mapping by MRI.",
+    "removedWords": [
+      "ability",
+      "administration",
+      "aggregated",
+      "temperature",
+      "results"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question25": {
+    "indices": [
+      6,
+      9,
+      12,
+      28,
+      45
+    ],
+    "originalString": "Assessment of the correlation between the clinical diagnosis of intraocular tumor and anatomopathologic findings.\n\nRetrospective analysis of the results of the treatment in the groups of adults and children during the period of 1985-1994.\n\nIn all 35 cases of adults melanoma malignum was diagnosed and confirmed anatomopathologically. In 7 among 20 children the appearance of tumor was not confirmed by anatomopathologic findings.\n\nSpecial attention should be paid to the improvement of intraocular tumor diagnosis, particularly in children.",
+    "removedWords": [
+      "clinical",
+      "intraocular",
+      "anatomopathologic",
+      "children",
+      "confirmed"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question26": {
+    "indices": [
+      8,
+      21,
+      35,
+      47,
+      54
+    ],
+    "originalString": "MR findings in a 14-year-old boy with progressive myoclonic epilepsy, who was diagnosed as having dentatorubral-pallidoluysian atrophy by DNA analysis, were compared with those of his father, who had adult-onset dentatorubral-pallidoluysian atrophy. Besides showing severe brain atrophy, especially of the brain stem tegmentum and cerebellum, MR showed diffuse periventricular hyperintensity on T2-weighted images. As compared with the proband, the father had a mild case.",
+    "removedWords": [
+      "myoclonic",
+      "compared",
+      "brain",
+      "diffuse",
+      "compared"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question27": {
+    "indices": [
+      2,
+      9,
+      42,
+      54,
+      60
+    ],
+    "originalString": "Neurinomas or schwannomas of the jugular foramen are rare tumors whose differentiation from tumors of the jugular body may be difficult because they share common symptoms. Since schwannomas at this site are less aggressive than tumors of the jugular body and certain elements of their treatment differ, it is important to make a correct diagnosis promptly. A well-documented case of schwannoma of the jugular foramen is reported and its differential diagnosis is discussed in the light of the literature.",
+    "removedWords": [
+      "schwannomas",
+      "tumors",
+      "elements",
+      "diagnosis",
+      "schwannoma"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question28": {
+    "indices": [
+      7,
+      10,
+      22,
+      142,
+      303
+    ],
+    "originalString": "To document the magnetic resonance (MR) imaging appearances of benign nasopharyngeal mucosa and adenoids and to correlate quantitative thickness measurements with histologic findings from nasopharyngeal biopsy specimens.\n\nMR imaging studies and nasopharyngeal biopsy specimens were analyzed retrospectively in 100 adults (51 men, 49 women) with benign histologic findings; local institutional review board approval and informed consent had been obtained as part of a previous imaging study. At T1-weighted gadolinium-enhanced MR imaging, the nasopharyngeal roof and adenoid was classified as follows: 1, pencil thin, less than 3 mm; 2, smooth thickening, 3 mm or larger; 3, small tags or stripes; or 4, focal adenoid mass with a vertical striped appearance. The posterior and lateral walls were classified as follows: pattern 1, pencil thin, less than 3 mm; pattern 2, mild thickening, 3 mm or larger with moderate enhancement; or pattern 3, thickening with hypoenhancement along the posterior wall. The frequency of these patterns, as well as cysts, symmetry, and pharyngeal recess patency, were documented. Wall thickness was measured and correlated with age, sex, and histologic findings from biopsy specimens by using Spearman rank correlation and Mann-Whitney U tests.\n\nIn 100 patients, roof patterns 1-4 were identified in 16 (16%), seven (7%), 33 (33%), and 44 (44%); posterior and lateral wall patterns 1-3 were identified in 20 (20%), 55 (55%), and 25 (25%) patients. Symmetry was identified in 95 (95%) patients, cysts in 41 (41%) patients, and pharyngeal recess patency was identified in 24 (12%) of 200 sides. Roof including adenoid thickness was higher in men (P = .05) and correlated inversely with age (P <.01). In 62 (62%) of 100 patients, biopsy specimens contained lymphoid follicles. Roof including adenoid (P = .01) and posterior wall (P = .03) thickness at MR imaging was higher if follicles were identified in biopsy specimens.\n\nNasopharyngeal hyperplasia has typical MR imaging appearances, including stripes in adenoid bulges and symmetry, which may be useful to differentiate this condition from nasopharyngeal malignancy.",
+    "removedWords": [
+      "appearances",
+      "nasopharyngeal",
+      "findings",
+      "hypoenhancement",
+      "typical"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question29": {
+    "indices": [
+      122,
+      140,
+      141,
+      171,
+      191
+    ],
+    "originalString": "Regions involved in language processing have been observed in the inferior part of the left temporal lobe. Although collectively labelled 'the Basal Temporal Language Area' (BTLA), these territories are functionally heterogeneous and are involved in language perception (i.e. reading or semantic task) or language production (speech arrest after stimulation). The objective of this study was to clarify the role of BTLA in the language network in an epileptic patient who displayed jargonaphasia.\n\nIntracerebral evoked related potentials to verbal and non-verbal stimuli in auditory and visual modalities were recorded from BTLA. Time-frequency analysis was performed during ictal events.\n\nEvoked potentials and induced gamma-band activity provided direct evidence that BTLA is sensitive to language stimuli in both modalities, 350 ms after stimulation. In addition, spontaneous gamma-band discharges were recorded from this region during which we observed phonological jargon.\n\nThe findings emphasize the multimodal nature of this region in speech perception. In the context of transient dysfunction, the patient's lexical semantic processing network is disrupted, reducing spoken output to meaningless phoneme combinations.\n\nThis rare opportunity to study the BTLA \"in vivo\" demonstrates its pivotal role in lexico-semantic processing for speech production and its multimodal nature in speech perception.",
+    "removedWords": [
+      "spontaneous",
+      "multimodal",
+      "nature",
+      "opportunity",
+      "nature"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question3": {
+    "indices": [
+      6,
+      46,
+      47,
+      62,
+      89
+    ],
+    "originalString": "[6]-Gingerol, a natural component of ginger, exhibits anti-inflammatory and antitumorigenic activities. Despite its potential efficacy in cancer, the mechanism by which [6]-gingerol exerts its chemopreventive effects remains elusive. The leukotriene A(4) hydrolase (LTA(4)H) protein is regarded as a relevant target for cancer therapy. Our in silico prediction using a reverse-docking approach revealed that LTA(4)H might be a potential target of [6]-gingerol. We supported our prediction by showing that [6]-gingerol suppresses anchorage-independent cancer cell growth by inhibiting LTA(4)H activity in HCT116 colorectal cancer cells. We showed that [6]-gingerol effectively suppressed tumor growth in vivo in nude mice, an effect that was mediated by inhibition of LTA(4)H activity. Collectively, these findings indicate a crucial role of LTA(4)H in cancer and also support the anticancer efficacy of [6]-gingerol targeting of LTA(4)H for the prevention of colorectal cancer.",
+    "removedWords": [
+      "exhibits",
+      "prediction",
+      "using",
+      "supported",
+      "tumor"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question30": {
+    "indices": [
+      10,
+      40,
+      58,
+      70,
+      79
+    ],
+    "originalString": "The method of constrained reconstruction, previously applied to magnetic resonance imaging (MRI), is extended to magnetic resonance spectroscopy. This method assumes a model for the MR signal. The model parameters are estimated directly from the phase encoded data. This process obviates the need for the fast Fourier transform (FFT) (which often exhibits limited resolution and ringing artifact). The technique is tested on simulated data, phantom data, and data acquired from human liver in vivo. In each case, constrained reconstruction offers spatial resolution superior to that obtained with the FFT.",
+    "removedWords": [
+      "imaging",
+      "obviates",
+      "technique",
+      "human",
+      "offers"
+    ],
+    "topic": "magnetic_resonance_imaging"
+  },
+  "Question31": {
+    "indices": [
+      11,
+      26,
+      27,
+      41,
+      49
+    ],
+    "originalString": "A method of enhancing contrast in fluorescence imaging has been devised, based on real-time digital subtraction of a background video image from a signal-plus-background video image. Color filters are used to differentiate signal from background. The technique has been applied to detection of small tumors labeled with the tumor specific fluorescent drug hematoporphyrin derivative.",
+    "removedWords": [
+      "based",
+      "Color",
+      "filters",
+      "detection",
+      "specific"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question32": {
+    "indices": [
+      2,
+      59,
+      65,
+      143,
+      191
+    ],
+    "originalString": "Human tumor cells and cells from cancer-prone individuals, compared with those from normal individuals, show a significantly higher incidence of chromatid breaks and gaps seen in metaphase cells immediately after G2 X irradiation. Previous studies with DNA repair-deficient mutants and DNA repair inhibitors strongly indicate that the enhancement results from a G2 deficiency(ies) in DNA repair. We report here biochemical evidence for a DNA repair deficiency that correlates with the cytogenetic studies. In the alkaline elution technique, after a pulse label with radioactive thymidine in the presence of 3-acetylaminobenzamide (a G2-phase blocker) and X irradiation, DNA from tumor or cancer-prone cells elutes more rapidly during the postirradiation period than that from normal cells. These results indicate that the DNA of tumor and cancer-prone cells either repairs more slowly or acquires more breaks than that of normal cells; breaks can accumulate during incomplete or deficient repair processes. The kinetic difference between normal and tumor or cancer-prone cells in DNA strand-break repair reaches a maximum within 2 h, and this maximum corresponds to the kinetic difference in chromatid aberration incidence following X irradiation reported previously. These findings support the concept that cells showing enhanced G2 chromatid radiosensitivity are deficient in DNA repair. The findings could also lead to a biochemical assay for cancer susceptibility.",
+    "removedWords": [
+      "cells",
+      "biochemical",
+      "deficiency",
+      "deficient",
+      "enhanced"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question33": {
+    "indices": [
+      28,
+      41,
+      54,
+      66,
+      71
+    ],
+    "originalString": "The glycogen content of human megakaryocytes was studied using a quantitative method. Smears of bone marrow from 13 individuals were stained with the modified PAS reaction with and without prior treatment with alpha-amylase. The intensity of the reaction was determined by microspectrophotometry in 50 megakaryocytes from each individual. It was found that megakaryocytes are rich in glycogen which is not only confined to the intensely PAS-positive granules and inclusion bodies, but also makes up a good part of the diffuse cytoplasmic staining. In the diffusely stained megakaryocytes, glycogen makes up 32% of the intensity of the PAS reaction, while it reaches 47% in those with granules and up to 60% in those with inclusion bodies. The total extinction of the PAS-stained megakaryocytes is not only dependent on the morphological appearances of the cells, but is also positively correlated with their size.",
+    "removedWords": [
+      "without",
+      "microspectrophotometry",
+      "rich",
+      "granules",
+      "also"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question34": {
+    "indices": [
+      42,
+      106,
+      144,
+      148,
+      176
+    ],
+    "originalString": "Computer technology has acquired an important role in structuring a variety of biological systems. The availability of modern powerful computers has stimulated the development of good and accurate models of biological systems. Biological systems, such as the immune response against cancer, are complex and it is difficult to experimentally control all the interacting elements constituting the immune response of a host to cancer. Complex biosystems do not always behave or act as expected during experimental investigation. In these cases computer models can be helpful in understanding the behavior of such complex systems. The purpose of this review is to consider the use of mathematical models to study the immune response against cancer. The logic and design of some operable models relevant for tumor immunology will be discussed. Special attention is given to the conceptualization of a model based upon a new hypothesis of tumor rejection presented by De Weger et al. [10]. Technical details concerning the mathematical aspects, differential equations, details on hardware and software package etc. are not included in this survey. These details are contained to in the original papers.",
+    "removedWords": [
+      "complex",
+      "study",
+      "rejection",
+      "Weger",
+      "contained"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question35": {
+    "indices": [
+      36,
+      113,
+      175,
+      242,
+      296
+    ],
+    "originalString": "An intended consequence of the significant investment to characterize the mammalian genome, and its alterations in neoplastic diseases, has been the discovery and commercialization of new approaches to anticancer therapy. As a result, the list of available targets, formerly directed against the processes of DNA replication and mitosis, or in hormonal regulation of growth of tissue, has been dramatically extended. Many of the newer targets represent normal or aberrant signaling pathways, and are present within the cancer cell as second messengers, on its surface (as receptors), or in the external milieu (as ligands). These targets are, therefore, important to the cancer cell phenotype, and affect proliferation, differentiation, and death options for the cell. Another group of targets encompass the cancer cell's relationship to the tissue environment (both stroma and nonneoplastic cells). These targets involve interactions with blood supply (angiogenesis), immune function (evasion), and matrix (invasion and metastasis). Thus, most targets are directly or indirectly critical to some aspect of cancer cell physiology, although a few additional targets are being approached as localization signals for the delivery of otherwise less specific chemotherapeutic or radiotherapeutic agents. The development of new therapeutic approaches has expanded the scope of research required to characterize the mechanism of action for anticancer agents in preclinical models and in clinical trials. In preclinical research, mechanism of action studies have supported the selection of therapeutic agents, appropriate models of efficacy, and experimental design, as well as rational characterization and prediction of nontumor (host) effects. In clinical research, mechanism of action studies have supported the identification of surrogate markers of efficacy (critical for determining adequacy of dose and latency of response), and the selection of patient subpopulations and tumor subtypes most likely to exhibit clinical responses. Finally, information on mechanism of action may suggest strategies for combination therapies and predict potential mechanisms of disease resistance to therapy.",
+    "removedWords": [
+      "available",
+      "Another",
+      "delivery",
+      "nontumor",
+      "combination"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question36": {
+    "indices": [
+      37,
+      53,
+      73,
+      87,
+      180
+    ],
+    "originalString": "This chapter reviews the data on occurrence of cancers that are potentially caused by alcohol drinking (cancers of the upper gastrointestinal and respiratory tracts, and liver cancer) in relation to social class. In order to assess the role of alcohol drinking in the observed social class gradients of these cancers, we have particularly looked for consistency in the gradients of different alcohol-related cancers, and used lung cancer occurrence to judge the role of tobacco smoking, which is the major other determinant of these diseases. Additional data on levels of alcohol drinking and on the occurrence of other alcohol-related morbidity are brought into the discussion where available. A role of alcohol drinking in the observed negative social class gradients for alcohol-related cancers is very likely in men in France, Italy and New Zealand. Evidence that is less strong, but is suggestive of a role of alcohol drinking, is seen for men in Brazil, Switzerland, the United Kingdom and Denmark. Although a role of alcohol drinking is likely or possible in certain populations, other factors may contribute as well, most notably tobacco smoking and dietary habits. Additional data on the frequency of complications after surgical procedures in alcohol drinkers are reviewed briefly.",
+    "removedWords": [
+      "role",
+      "looked",
+      "tobacco",
+      "levels",
+      "smoking"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question37": {
+    "indices": [
+      28,
+      66,
+      95,
+      124,
+      127
+    ],
+    "originalString": "It is widely accepted that receptor protein-tyrosine kinases (RTKs) are activated upon dimerization by binding to their extracellular ligands. However, EGF receptor (EGFR) dimerization per se does not require ligand binding. Instead, its cytoplasmic kinase domains have to form characteristic head-to-tail asymmetric dimers to become active, where one 'activator' domain activates the other 'receiver' domain. The non-catalytic, cytoplasmic regions of RTKs, namely the juxtamembrane and carboxy terminal portions, also regulate kinase activity. For instance, the juxtamembrane region of the RTK MuSK inhibits the kinase domain probably together with a cellular factor(s). These findings suggest that RTKs could be activated by cytoplasmic proteins. Indeed, Dok-7 and cytohesin have recently been identified as such activators of MuSK and EGFR, respectively. Given that failure of Dok-7 signaling causes myasthenia, and inhibition of cytohesin signaling reduces the proliferation of EGFR-dependent cancer cells, cytoplasmic activators of RTKs may provide new therapeutic targets.",
+    "removedWords": [
+      "require",
+      "terminal",
+      "RTKs",
+      "causes",
+      "inhibition"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question38": {
+    "indices": [
+      3,
+      28,
+      46,
+      49,
+      62
+    ],
+    "originalString": "Dermatomyositis is an idiopathic acute inflammatory disorder, characterized by inflammation of skeletal muscle, progressive symmetrical proximal myopathy and classical cutaneous manifestations. It affects both children and adults, and women more frequently than men. Dermatomyositis is the commonest inflammatory myopathy in all age groups, with an estimated prevalence of 0.6-1.0 per 100 000 (Dalakas and Hohlfeld, 2003). Its association with malignancy mandates a thorough search for underlying neoplasia in all cases.",
+    "removedWords": [
+      "idiopathic",
+      "women",
+      "prevalence",
+      "per",
+      "thorough"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question39": {
+    "indices": [
+      2,
+      8,
+      9,
+      27,
+      38
+    ],
+    "originalString": "Living with chronic cancer poses unique challenges for parents caring for minor children. The demands of the illness such as pain, fatigue, and loss of mobility, as well as caregiver responsibilities, can conflict with the patient's and partner's idea of what it means to parent. This article examines the ways in which chronic cancer impacts the parental role using Attachment as a theoretical framework. Case examples and implications for clinical practice in both health care and mental health settings are provided.",
+    "removedWords": [
+      "chronic",
+      "parents",
+      "caring",
+      "well",
+      "idea"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question4": {
+    "indices": [
+      1,
+      34,
+      49,
+      87,
+      116
+    ],
+    "originalString": "The peritumoral inflammatory environment is critical for the progression of intrahepatic recurrence of hepatocellular carcinoma (HCC) after curative resections. Here, we investigated the relevance of peritumoral mast cells (MCs) to HCC outcomes. Peritumoral tryptase(+) MCs in addition to Foxp3(+) T-regulatory cells (Tregs) were evaluated using immunohistochemistry enumeration in tissue microarrays containing 207 randomly selected HCC patients. Clinicopathological factors and postoperative outcomes were compared between high and low subgroups of MCs or Tregs. Compared to low denstiy, higher peritumoral MCs were associated with poorer clinical outcomes, and independently related to elevated 5-year recurrence incidence (54.1%vs 39.2%, P = 0.026). High-dense MCs were especially related to increased probability of early recurrence (within 2 years) (P = 0.004). We also found that peritumoral Tregs were positively correlated with MCs in density (r = 0.353, P < 0.001) and reversely related to HCC outcomes. Notably, MCs in combination with Tregs displayed better prognostic performances than MCs alone (area under curve [AUC](survival) = 0.629 vs 0.589, AUC(recurrence) = 0.632 vs 0.591). Moreover, MCs were positively correlated to alanine aminotransferase, a serum inflammatory marker (P = 0.014). Therefore, peritumoral MCs are promising prognostic parameters for HCC mainly through inflammation response-related mechanisms, and we propose that MCs and Tregs may cooperate with each other and result in poorer prognosis.",
+    "removedWords": [
+      "peritumoral",
+      "MCs",
+      "microarrays",
+      "related",
+      "also"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question40": {
+    "indices": [
+      5,
+      52,
+      63,
+      72,
+      120
+    ],
+    "originalString": "Reprogramming of somatic cells to induced pluripotent stem cells (iPSCs) shares much similarity to the cancer initiation process, and the molecular mechanisms underlying both processes remain to be elucidated. Here, we report that a tumor- or embryonic stem cell-specific Ras gene ERas, which encodes a constitutively active form of GTPase, and its downstream Phosphoinositide-3 kinase/Akt signaling pathway are important facilitators for the somatic reprogramming process. We found that overexpression of ERas retrovirally enhanced mouse iPSC induction while ERas knockdown repressed it. Modulation of Akt signaling by genetic or chemical means greatly impacted the reprogramming efficiency. Forced expression of a constitutively active Akt1 gene could rescue the reduced efficiency resulting from ERas knockdown, and point-mutation analyses further revealed that ERas is tightly coupled with Akt signaling to enhance reprogramming. Mechanistically, the forkhead transcription factor FoxO1 can function as a barrier to the iPSC induction, and the inactivation of FoxO1 by Akt-dependent phosphorylation largely accounts for the enhancing effect of ERas-Akt signaling on reprogramming. Collectively, these results unravel the significance of the ERas-Akt-FoxO1 signaling axis in iPSC generation, suggesting a possibly shared molecular basis for both somatic reprogramming and cancer initiation.",
+    "removedWords": [
+      "induced",
+      "downstream",
+      "reprogramming",
+      "enhanced",
+      "tightly"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question41": {
+    "indices": [
+      7,
+      24,
+      32,
+      34,
+      47
+    ],
+    "originalString": "Monoclonal antibodies are now established as a key therapeutic modality for a range of diseases. Owing to the ability of these agents to selectively target tumour cells, cancer has been a major focus of development programmes for monoclonal antibodies so far. Here, we overview trends in the clinical development and regulatory approval of monoclonal antibodies for cancer since 1980, with the aim of informing future research and development for this class of therapeutics.",
+    "removedWords": [
+      "key",
+      "target",
+      "focus",
+      "development",
+      "clinical"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question42": {
+    "indices": [
+      35,
+      45,
+      80,
+      93,
+      105
+    ],
+    "originalString": "Astaxanthin is a carotenoid widely used in salmonid and crustacean aquaculture to provide the pink color characteristic of that species. This application has been well documented for over two decades and is currently the major market driver for the pigment. Additionally, astaxanthin also plays a key role as an intermediary in reproductive processes. Synthetic astaxanthin dominates the world market but recent interest in natural sources of the pigment has increased substantially. Common sources of natural astaxanthin are the green algae Haematococcus pluvialis, the red yeast, Phaffia rhodozyma, as well as crustacean byproducts. Astaxanthin possesses an unusual antioxidant activity which has caused a surge in the nutraceutical market for the encapsulated product. Also, health benefits such as cardiovascular disease prevention, immune system boosting, bioactivity against Helycobacter pylori, and cataract prevention, have been associated with astaxanthin consumption. Research on the health benefits of astaxanthin is very recent and has mostly been performed in vitro or at the pre-clinical level with humans. This paper reviews the current available evidence regarding astaxanthin chemistry and its potential beneficial effects in humans.",
+    "removedWords": [
+      "market",
+      "key",
+      "Haematococcus",
+      "possesses",
+      "nutraceutical"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question43": {
+    "indices": [
+      15,
+      65,
+      74,
+      91,
+      121
+    ],
+    "originalString": "Porous nanostructure with its unique properties is found to be able to hold promise in drug delivery. We fabricated the one-dimensional titanium dioxide whiskers (TiO2 Ws) and designed a strategy to explore their drug delivery application and anti-tumor function combined with daunorubicin (DNR). We observed good biocompatibility of TiO2 Ws and noted better photocatalytic activity. In human hepatocarcinoma cells (SMMC-7721 cells), TiO2 Ws can obviously increase the intracellular concentration of DNR and enhance its potential anti-tumor efficiency, indicating TiO2 Ws could produce an efficient drug delivery carrier effect importing DNR into target cells. Furthermore, its photocatalysis further led to the enhanced mortality of cancer cells under UV irradiation. These findings reveal that TiO2 Ws-based delivery of anticancer drugs represents a promising approach in cancer therapy.",
+    "removedWords": [
+      "drug",
+      "increase",
+      "potential",
+      "target",
+      "approach"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question44": {
+    "indices": [
+      14,
+      37,
+      128,
+      155,
+      178
+    ],
+    "originalString": "This chapter reviews the data on occurrence of cancers that are potentially caused by alcohol drinking (cancers of the upper gastrointestinal and respiratory tracts, and liver cancer) in relation to social class. In order to assess the role of alcohol drinking in the observed social class gradients of these cancers, we have particularly looked for consistency in the gradients of different alcohol-related cancers, and used lung cancer occurrence to judge the role of tobacco smoking, which is the major other determinant of these diseases. Additional data on levels of alcohol drinking and on the occurrence of other alcohol-related morbidity are brought into the discussion where available. A role of alcohol drinking in the observed negative social class gradients for alcohol-related cancers is very likely in men in France, Italy and New Zealand. Evidence that is less strong, but is suggestive of a role of alcohol drinking, is seen for men in Brazil, Switzerland, the United Kingdom and Denmark. Although a role of alcohol drinking is likely or possible in certain populations, other factors may contribute as well, most notably tobacco smoking and dietary habits. Additional data on the frequency of complications after surgical procedures in alcohol drinkers are reviewed briefly.",
+    "removedWords": [
+      "alcohol",
+      "role",
+      "Italy",
+      "Kingdom",
+      "notably"
+    ],
+    "topic": "neoplasms"
+  },
+  "Question45": {
+    "indices": [
+      9,
+      56,
+      87,
+      101,
+      110
+    ],
+    "originalString": "Periodically-rotated overlapping parallel lines with enhanced reconstruction (PROPELLER) and Turboprop MRI are characterized by greatly reduced sensitivity to motion, compared to their predecessors, fast spin-echo (FSE) and gradient and spin-echo (GRASE), respectively. This is due to the inherent self-navigation and motion correction of PROPELLER-based techniques. However, it is unknown how various acquisition parameters that determine k-space sampling affect the accuracy of motion correction in PROPELLER and Turboprop MRI. The goal of this work was to evaluate the accuracy of motion correction in both techniques, to identify an optimal rotation correction approach, and determine acquisition strategies for optimal motion correction. It was demonstrated that blades with multiple lines allow more accurate estimation of motion than blades with fewer lines. Also, it was shown that Turboprop MRI is less sensitive to motion than PROPELLER. Furthermore, it was demonstrated that the number of blades does not significantly affect motion correction. Finally, clinically appropriate acquisition strategies that optimize motion correction are discussed for PROPELLER and Turboprop MRI.",
+    "removedWords": [
+      "Turboprop",
+      "sampling",
+      "optimal",
+      "demonstrated",
+      "estimation"
+    ],
+    "topic": "algorithms"
+  },
+  "Question46": {
+    "indices": [
+      109,
+      138,
+      148,
+      192,
+      213
+    ],
+    "originalString": "Mathematical models are an important tool to explain and comprehend complex phenomena, and unparalleled computational advances enable us to easily explore them without any or little understanding of their global properties. In fact, the likelihood of the data under complex stochastic models is often analytically or numerically intractable in many areas of sciences. This makes it even more important to simultaneously investigate the adequacy of these models-in absolute terms, against the data, rather than relative to the performance of other models-but no such procedure has been formally discussed when the likelihood is intractable. We provide a statistical interpretation to current developments in likelihood-free Bayesian inference that explicitly accounts for discrepancies between the model and the data, termed Approximate Bayesian Computation under model uncertainty (ABCmicro). We augment the likelihood of the data with unknown error terms that correspond to freely chosen checking functions, and provide Monte Carlo strategies for sampling from the associated joint posterior distribution without the need of evaluating the likelihood. We discuss the benefit of incorporating model diagnostics within an ABC framework, and demonstrate how this method diagnoses model mismatch and guides model refinement by contrasting three qualitative models of protein network evolution to the protein interaction datasets of Helicobacter pylori and Treponema pallidum. Our results make a number of model deficiencies explicit, and suggest that the T. pallidum network topology is inconsistent with evolution dominated by link turnover or lateral gene transfer alone.",
+    "removedWords": [
+      "discrepancies",
+      "freely",
+      "sampling",
+      "protein",
+      "deficiencies"
+    ],
+    "topic": "algorithms"
+  },
+  "Question47": {
+    "indices": [
+      25,
+      30,
+      85,
+      119,
+      126
+    ],
+    "originalString": "Here, we describe the \"temporal lens\" concept that can be used for the focus and magnification of ultrashort electron packets in the time domain. The temporal lenses are created by appropriately synthesizing optical pulses that interact with electrons through the ponderomotive force. With such an arrangement, a temporal lens equation with a form identical to that of conventional light optics is derived. The analog of ray diagrams, but for electrons, are constructed to help the visualization of the process of compressing electron packets. It is shown that such temporal lenses not only compensate for electron pulse broadening due to velocity dispersion but also allow compression of the packets to durations much shorter than their initial widths. With these capabilities, ultrafast electron diffraction and microscopy can be extended to new domains,and, just as importantly, electron pulses can be delivered directly on an ultrafast techniques target specimen.",
+    "removedWords": [
+      "temporal",
+      "appropriately",
+      "shown",
+      "ultrafast",
+      "extended"
+    ],
+    "topic": "algorithms"
+  },
+  "Question48": {
+    "indices": [
+      38,
+      107,
+      118,
+      143,
+      149
+    ],
+    "originalString": "Genomic islands play an important role in medical, methylation and biological studies. To explore the region, we propose a CpG islands prediction analysis platform for genome sequence exploration (CpGPAP).\n\nCpGPAP is a web-based application that provides a user-friendly interface for predicting CpG islands in genome sequences or in user input sequences. The prediction algorithms supported in CpGPAP include complementary particle swarm optimization (CPSO), a complementary genetic algorithm (CGA) and other methods (CpGPlot, CpGProD and CpGIS) found in the literature. The CpGPAP platform is easy to use and has three main features (1) selection of the prediction algorithm; (2) graphic visualization of results; and (3) application of related tools and dataset downloads. These features allow the user to easily view CpG island results and download the relevant island data. CpGPAP is freely available at http://bio.kuas.edu.tw/CpGPAP/.\n\nThe platform's supported algorithms (CPSO and CGA) provide a higher sensitivity and a higher correlation coefficient when compared to CpGPlot, CpGProD, CpGIS, and CpGcluster over an entire chromosome.",
+    "removedWords": [
+      "interface",
+      "tools",
+      "view",
+      "higher",
+      "coefficient"
+    ],
+    "topic": "algorithms"
+  },
+  "Question49": {
+    "indices": [
+      1,
+      17,
+      106,
+      114,
+      177
+    ],
+    "originalString": "To define selection criteria for pelvic lymph node dissection (PLND) based on a contemporary Australian cohort of men with clinically localised prostate cancer undergoing radical prostatectomy (RP) with PLND, as stage migration of prostate cancer has led to re-evaluation of the role of PLND at the time of RP.\n\nIn all, 200 consecutive men treated by one surgeon between 2000 and 2005 with open RP and PLND. The clinical and pathological data were extracted by retrospective chart review. Associations between clinical predictors and LN positivity were assessed by logistic regression analysis.\n\nOverall, there were LN metastases were in 10 (5%) men. The LN positivity rate was significantly associated with biopsy Gleason score, preoperative prostate-specific antigen (PSA) concentration and percentage of positive cores (PPC), with respective odds ratios (OR) (95% confidence interval [CI]) of 3.70 (1.98-6.92), 1.11 (1.04-1.19) and 1.04 (1.01-1.06) Trend toward significant association with clinical stage (OR 1.75, 95% CI 0.97-3.13) On multivariate analysis, PSA concentration and biopsy Gleason score were significant predictors of LN disease. All 10 men with LN metastases came from a high-risk group of 96, identifiable by having at least one of the following: stage ≥ cT2b, biopsy Gleason score ≥ 4+3, PSA concentration of ≥ 10 ng/mL or PPC of ≥ 38%.\n\nThe risk of LN metastases depends upon well-defined clinical risk factors of stage, biopsy Gleason score, PSA concentration and PPC. The present data suggests a simple risk-stratification method, using these risk factors, of identifying men to have PLND at the time of RP.",
+    "removedWords": [
+      "define",
+      "men",
+      "significantly",
+      "antigen",
+      "group"
+    ],
+    "topic": "algorithms"
+  },
+  "Question5": {
+    "indices": [
+      11,
+      30,
+      87,
+      151,
+      177
+    ],
+    "originalString": "As part of our effort to understand the mechanism underlying alpha-tocopheryl succinate [vitamin E succinate (VES)]-mediated antitumor effects, we investigated the signaling pathway by which VES suppresses androgen receptor (AR) expression in prostate cancer cells. VES and, to a greater extent, its truncated derivative TS-1 mediated transcriptional repression of AR in prostate cancer cells but not in normal prostate epithelial cells; a finding that underscores the differential susceptibility of normal versus malignant cells to the antiproliferative effect of these agents. This AR repression was attributable to the ability of VES and TS-1 to facilitate the proteasomal degradation of the transcription factor Sp1. This mechanistic link was corroborated by the finding that proteasome inhibitors or ectopic expression of Sp1 protected cells against drug-induced AR ablation. Furthermore, evidence suggests that the destabilization of Sp1 by VES and TS-1 resulted from the inactivation of Jun N-terminal kinases (JNKs) as a consequence of increased phosphatase activity of protein phosphatase 2A (PP2A). Stable transfection of LNCaP cells with the dominant-negative JNK1 plasmid mimicked drug-induced Sp1 repression, whereas constitutive activation of JNK kinase activity or inhibition of PP2A activity by okadaic acid protected Sp1 from VES- and TS-1-induced degradation. From a mechanistic perspective, the ability of VES and TS-1 to activate PP2A activity underscores their broad spectrum of effects on multiple signaling mechanisms, including those mediated by Akt, mitogen-activated protein kinases, nuclear factor kappaB, Sp1 and AR. This pleiotropic effect in conjunction with low toxicity suggests the translational potential for developing TS-1 into potent PP2A-activating agents for cancer therapy.",
+    "removedWords": [
+      "succinate",
+      "expression",
+      "ability",
+      "activity",
+      "activity"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question50": {
+    "indices": [
+      14,
+      183,
+      206,
+      207,
+      227
+    ],
+    "originalString": "Anaphase-promoting complex/cyclosome (APC/C), an E3 ubiquitin ligase incorporated with Cdh1 and/or Cdc20 recognizes and interacts with specific substrates, and faithfully orchestrates the proper cell cycle events by targeting proteins for proteasomal degradation. Experimental identification of APC/C substrates is largely dependent on the discovery of APC/C recognition motifs, e.g., the D-box and KEN-box. Although a number of either stringent or loosely defined motifs proposed, these motif patterns are only of limited use due to their insufficient powers of prediction. We report the development of a novel GPS-ARM software package which is useful for the prediction of D-boxes and KEN-boxes in proteins. Using experimentally identified D-boxes and KEN-boxes as the training data sets, a previously developed GPS (Group-based Prediction System) algorithm was adopted. By extensive evaluation and comparison, the GPS-ARM performance was found to be much better than the one using simple motifs. With this powerful tool, we predicted 4,841 potential D-boxes in 3,832 proteins and 1,632 potential KEN-boxes in 1,403 proteins from H. sapiens, while further statistical analysis suggested that both the D-box and KEN-box proteins are involved in a broad spectrum of biological processes beyond the cell cycle. In addition, with the co-localization information, we predicted hundreds of mitosis-specific APC/C substrates with high confidence. As the first computational tool for the prediction of APC/C-mediated degradation, GPS-ARM is a useful tool for information to be used in further experimental investigations. The GPS-ARM is freely accessible for academic researchers at: http://arm.biocuckoo.org.",
+    "removedWords": [
+      "interacts",
+      "processes",
+      "first",
+      "computational",
+      "experimental"
+    ],
+    "topic": "algorithms"
+  },
+  "Question51": {
+    "indices": [
+      44,
+      62,
+      87,
+      183,
+      202
+    ],
+    "originalString": "The aim of this study was to assess the accuracy of measuring the optic disc area by indirect ophthalmoscopy.\n\nIn a prospective clinical trial, 57 eyes of 29 subjects (age 57.3+/-12.1 years) were examined. The refractive error was -0.67+/-2.69D (+3.75D to -8D).The vertical and horizontal disc diameters (DD) were measured using a Haag-Streit slit lamp and 60D-, 78D-, 90D-, and Super Field lenses (Volk Optical, Mentor, USA). Afterwards the disc area was calculated by an ellipse formula (horizontal DD x vertical DD x pi/4). The magnification factor given by the manufacturer was taken into account for each lens: 1.15x (60D lens), 0.93x (78D lens), 0.76x (90D lens), and 0.76x (Super Field lens), respectively. As reference for the disc size, the same eyes were examined by HRT II (Heidelberg Engineering, Heidelberg, Germany). Bland-Altman plots were used to assess the agreement between measurements obtained by indirect ophthalmoscopy and HRT.\n\nThe results of the disc estimate compared with the HRT measurements were as follows: 0.119+/-0.51 mm(2) (60D lens), 0.224+/-0.57 mm(2) (78D lens), 0.10+/-0.51 mm(2) (90D lens), and -0.07 s+/-0.47 mm(2) (Super Field lens). Differences were not statistically significant for the 60D (p=0.083), 90D (p=0.147), or Super Field lenses (p=0.257). However, the difference between the 78D lens and HRT was statistically significant (Student's t-test; P=0.004).\n\nMeasuring the disc size by indirect ophthalmoscopy is possible. The 90D lens showed the smallest and the 78D lens the largest deviation.",
+    "removedWords": [
+      "horizontal",
+      "lenses",
+      "given",
+      "statistically",
+      "lens"
+    ],
+    "topic": "algorithms"
+  },
+  "Question52": {
+    "indices": [
+      10,
+      12,
+      30,
+      84,
+      143
+    ],
+    "originalString": "High content cell-based screens are rapidly gaining popularity in the context of neuronal regeneration studies. To analyze neuronal morphology, automatic image analysis pipelines have been conceived, which accurately quantify the shape changes of neurons in cell cultures with non-dense neurite networks. However, most existing methods show poor performance for well-connected and differentiated neuronal networks, which may serve as valuable models for inter alia synaptogenesis. Here, we present a fully automated method for quantifying the morphology of neurons and the density of neurite networks, in dense neuronal cultures, which are grown for more than 10 days. MorphoNeuroNet, written as a script for ImageJ, Java based freeware, automatically determines various morphological parameters of the soma and the neurites (size, shape, starting points, and fractional occupation). The image analysis pipeline consists of a multi-tier approach in which the somas are segmented by adaptive region growing using nuclei as seeds, and the neurites are delineated by a combination of various intensity and edge detection algorithms. Quantitative comparison showed a superior performance of MorphoNeuroNet to existing analysis tools, especially for revealing subtle changes in thin neurites, which have weak fluorescence intensity compared to the rest of the network. The proposed method will help determining the effects of compounds on cultures with dense neurite networks, thereby boosting physiological relevance of cell-based assays in the context of neuronal diseases.",
+    "removedWords": [
+      "context",
+      "neuronal",
+      "shape",
+      "dense",
+      "nuclei"
+    ],
+    "topic": "algorithms"
+  },
+  "Question53": {
+    "indices": [
+      54,
+      125,
+      208,
+      216,
+      240
+    ],
+    "originalString": "The presence in the serum of specific autoantibodies, such as antinuclear antibodies (ANA), anti-double-stranded DNA (anti-dsDNA), and antiextractable nuclear antigens (anti-ENA), is one of the diagnostic criteria for autoimmune rheumatic disease, and the requests for these tests in the last few years have grown remarkably. A guideline for reducing clinically inappropriate requests in autoantibody testing (ANA, anti-dsDNA, anti-ENA) has been applied in the Parma Hospital since 2007. The results for the period January-December 2007 were compared to those of the previous period January-December 2006, and a significant reduction in the number of anti-dsDNA (23.9%) and anti-ENA (20.7%) was found. The aim of this study was to assess the applicability of a similar guideline in a wide area (Parma, Modena, Piacenza, Reggio-Emilia) with reference to the diagnosis of autoimmune rheumatic disease. This project, supported by a regional grant for innovative research projects, was started in January 2008 and consists of three different steps: (1) a study group of clinicians and laboratory physicians to evaluate the diagnostic criteria, the analytical procedures, and the number of tests performed in different hospitals; (2) developing common guidelines for autoantibody testing that takes into account the different clinical needs with the aim of improving efficiency and clinical effectiveness of diagnosis and monitoring; and (3) assessing compliance with the guidelines in the different hospitals that are evaluating the second-level test (anti-dsDNA, anti-ENA) decrease. We think that the validation of guidelines for the laboratory diagnosis of autoimmune rheumatic disease can represent a tool for improving patients' outcomes and economic efficiency.",
+    "removedWords": [
+      "testing",
+      "diagnosis",
+      "assessing",
+      "hospitals",
+      "disease"
+    ],
+    "topic": "algorithms"
+  },
+  "Question54": {
+    "indices": [
+      1,
+      13,
+      23,
+      71,
+      102
+    ],
+    "originalString": "Spiral patterns have been found in various nonequilibrium systems. The Ca(2+)-induced Ca(2+) release system in single cardiac cells is unique for highly discrete reaction elements, each giving rise to a Ca(2+) spark upon excitation. We imaged the spiral Ca(2+) waves in isolated cardiac cells and numerically studied the effect of system excitability on spiral patterns using a two-dimensional fire-diffuse-fire model. We found that under certain conditions, the system was able to display multiple stable patterns of spiral waves, each exhibiting different periods and distinct routines of spiral tips. Transition between these different patterns could be triggered by an internal fluctuation in the form of a single Ca(2+) spark.",
+    "removedWords": [
+      "patterns",
+      "system",
+      "reaction",
+      "display",
+      "form"
+    ],
+    "topic": "algorithms"
+  },
+  "Question55": {
+    "indices": [
+      19,
+      38,
+      41,
+      49,
+      60
+    ],
+    "originalString": "Mutator alleles, which elevate an individual's mutation rate from 10 to 10,000-fold, have been found at high frequencies in many natural and experimental populations. Mutators are continually produced from nonmutators, often due to mutations in mismatch-repair genes. These mutators gradually accumulate deleterious mutations, limiting their spread. However, they can occasionally hitchhike to high frequencies with beneficial mutations. We study the interplay between these effects. We first analyze the dynamics of the balance between the production of mutator alleles and their elimination due to deleterious mutations. We find that when deleterious mutation rates are high in mutators, there will often be many \"young,\" recently produced mutators in the population, and the fact that deleterious mutations only gradually eliminate individuals from a population is important. We then consider how this mutator-nonmutator balance can be disrupted by beneficial mutations and analyze the circumstances in which fixation of mutator alleles is likely. We find that dynamics is crucial: even in situations where selection on average acts against mutators, so they cannot stably invade, the mutators can still occasionally generate beneficial mutations and hence be important to the evolution of the population.",
+    "removedWords": [
+      "many",
+      "mutators",
+      "deleterious",
+      "occasionally",
+      "interplay"
+    ],
+    "topic": "algorithms"
+  },
+  "Question56": {
+    "indices": [
+      9,
+      16,
+      30,
+      51,
+      60
+    ],
+    "originalString": "Skin lesions are often comprised of various colours. The presence of multiple colours with an irregular distribution can signal malignancy. Among common colours under dermoscopy, blue-grey (blue-white veil) is a strong indicator of malignant melanoma. Since it is not always easy to visually identify and recognize this feature, a computerised automatic colour analysis method can provide the clinician with an objective second opinion. In this paper, we put forward an innovative method, through colour analysis and computer vision techniques, to automatically detect and segment blue-white veil areas in dermoscopy images. The proposed method is an attempt to mimic the human perception of lesion colours, and improves and outperforms the state-of-the-art as shown in our experiments.",
+    "removedWords": [
+      "presence",
+      "distribution",
+      "strong",
+      "colour",
+      "objective"
+    ],
+    "topic": "algorithms"
+  },
+  "Question57": {
+    "indices": [
+      6,
+      10,
+      53,
+      112,
+      206
+    ],
+    "originalString": "The inversion distance, that is the distance between two unichromosomal genomes with the same content allowing only inversions of DNA segments, can be computed thanks to a pioneering approach of Hannenhalli and Pevzner in 1995. In 2000, El-Mabrouk extended the inversion model to allow the comparison of unichromosomal genomes with unequal contents, thus insertions and deletions of DNA segments besides inversions. However, an exact algorithm was presented only for the case in which we have insertions alone and no deletion (or vice versa), while a heuristic was provided for the symmetric case, that allows both insertions and deletions and is called the inversion-indel distance. In 2005, Yancopoulos, Attie and Friedberg started a new branch of research by introducing the generic double cut and join (DCJ) operation, that can represent several genome rearrangements (including inversions). Among others, the DCJ model gave rise to two important results. First, it has been shown that the inversion distance can be computed in a simpler way with the help of the DCJ operation. Second, the DCJ operation originated the DCJ-indel distance, that allows the comparison of genomes with unequal contents, considering DCJ, insertions and deletions, and can be computed in linear time.\n\nIn the present work we put these two results together to solve an open problem, showing that, when the graph that represents the relation between the two compared genomes has no bad components, the inversion-indel distance is equal to the DCJ-indel distance. We also give a lower and an upper bound for the inversion-indel distance in the presence of bad components.",
+    "removedWords": [
+      "distance",
+      "genomes",
+      "insertions",
+      "new",
+      "together"
+    ],
+    "topic": "algorithms"
+  },
+  "Question58": {
+    "indices": [
+      27,
+      41,
+      117,
+      158,
+      180
+    ],
+    "originalString": "Mutator alleles, which elevate an individual's mutation rate from 10 to 10,000-fold, have been found at high frequencies in many natural and experimental populations. Mutators are continually produced from nonmutators, often due to mutations in mismatch-repair genes. These mutators gradually accumulate deleterious mutations, limiting their spread. However, they can occasionally hitchhike to high frequencies with beneficial mutations. We study the interplay between these effects. We first analyze the dynamics of the balance between the production of mutator alleles and their elimination due to deleterious mutations. We find that when deleterious mutation rates are high in mutators, there will often be many \"young,\" recently produced mutators in the population, and the fact that deleterious mutations only gradually eliminate individuals from a population is important. We then consider how this mutator-nonmutator balance can be disrupted by beneficial mutations and analyze the circumstances in which fixation of mutator alleles is likely. We find that dynamics is crucial: even in situations where selection on average acts against mutators, so they cannot stably invade, the mutators can still occasionally generate beneficial mutations and hence be important to the evolution of the population.",
+    "removedWords": [
+      "produced",
+      "deleterious",
+      "individuals",
+      "selection",
+      "important"
+    ],
+    "topic": "algorithms"
+  },
+  "Question59": {
+    "indices": [
+      34,
+      93,
+      97,
+      102,
+      120
+    ],
+    "originalString": "Socio-demographic characteristics, general lifestyle habits, reproductive and medical histories were compared of 328 women who had ever used oral contraceptives and 2306 never users from a case-control surveillance conducted in Northern Italy. Oral contraceptive use was positively and strongly related with the level of education and indicators of social class. The rate ratio of ever use (adjusted for age and diagnostic category) was 3.3 for women with 12 years of education or more compared with less than 7 years, and 3.0 for women of highest compared with lowest social class. The frequency of pill use was lower among never married women, and significantly elevated among smokers (rate ratio = 2.4 for heavy smokers). In contrast, no relation was evident between alcohol or coffee consumption and pill use. Likewise, ever users of oral contraceptives were not significantly different from women who had never used the pill with regard to major reproductive factors (parity and age at first pregnancy) or several medical variables of potential interest (e.g., diabetes, hypertension, hyperlipidemia), with the only possible exclusion of obesity which was less frequent among pill users. Thus, this study indicates that the major determinants of the persistently low frequency of oral contraceptive use in this Northern Italian population are social rather than reproductive or medical factors. These findings have important implications for epidemiological research on oral contraceptive and disease in this population, and underline the importance of selection and screening of oral contraceptive users on the basis of knowledge of medical factors and lifestyle habits.\n\nSocio-demographic characteristics, general lifestyle habits, and reproductive and medical histories were compared of 328 women who had ever used oral contraceptives (OCs) and 2306 never users from a case-control surveillance conducted in Northern Italy.  OC use was positively and strongly related with the level of education and indicators of social class.  The rate ratio of ever use (adjusted for age and diagnostic category) was 3.3 for women with 12 years of education or more compared with less than 7 years, and 3.0 for women of highest compared with lowest social class.  The frequency of pill use was lower among never married women, and significantly elevated among smokers.  In contrast, no relation was evident between alcohol or coffee consumption and pill use.  Likewise, ever users of OCs were not significantly different from women who had never used the pill with regard to major reproductive factors (parity and age at 1st pregnancy) or several medical variables of potential interest (e.g., diabetes, hypertension, hyperlipidemia), with the only possible exclusion of obesity which was less frequent among pill users.  Thus, this study indicates that the major determinants of the persistently low frequency of OC use in the Northern Italian population are social rather than reproductive or medical factors.  These findings have important implications for epidemiological research on OCs and disease in this population, and underline the importance of selection and screening of OC users on the basis of knowledge of medical factors and lifestyle habits.",
+    "removedWords": [
+      "use",
+      "pill",
+      "among",
+      "significantly",
+      "alcohol"
+    ],
+    "topic": "obesity"
+  },
+  "Question6": {
+    "indices": [
+      26,
+      43,
+      44,
+      148,
+      225
+    ],
+    "originalString": "Outcomes from the Women's Health Initiative have demonstrated adverse effects associated with hormone therapy and have prioritized the need to develop new alternative treatments for the management of menopause and osteoporosis. To this end, we have been investigating natural herbal medicines used by Costa Rican women to manage menopausal symptoms.\n\nSeventeen plant species were collected and extracted in Costa Rica. To establish possible mechanisms of action and to determine their potential future use for menopause or osteoporosis, we investigated the estrogenic activities of the herbal extracts in an estrogen-reporter gene estrogen receptor (ER) beta-Chemically Activated Luciferase Expression assay in U2-OS cells and in reporter and endogenous gene assays in MCF-7 cells.\n\nSix of the plant extracts bound to the ERs. Four of the six extracts stimulated reporter gene expression in the ER-beta-Chemically Activated Luciferase Expression assay. All six extracts modulated expression of endogenous genes in MCF-7 cells, with four extracts acting as estrogen agonists and two extracts, Pimenta dioica and Smilax domingensis, acting as partial agonist/antagonists by enhancing estradiol-stimulated pS2 mRNA expression but reducing estradiol-stimulated PR and PTGES mRNA expression. Both P. dioica and S. domingensis induced a 2ERE-luciferase reporter gene in transient transfected MCF-7 cells, which was inhibited by the ER antagonist ICI 182,780.\n\nThis work presents a plausible mechanism of action for many of the herbal medicines used by Costa Rican women to treat menopausal symptoms. However, it further suggests that studies of safety and efficacy are needed before these herbs should be used as alternative therapies to hormone therapy.",
+    "removedWords": [
+      "management",
+      "Costa",
+      "Rican",
+      "four",
+      "treat"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question60": {
+    "indices": [
+      5,
+      147,
+      247,
+      256,
+      341
+    ],
+    "originalString": "In order to assess iodothyronine receptor interactions in man, we have developed a receptor assay for T3 and T4 in solubilized nuclear extracts from circulating mononuclear cells. This assay utilizes the technique of salt solubilization to isolate nuclear receptors and employs standard saturation analysis for T3 and T4 to determine maximal binding capacity (MBC) and equilibrium dissociation constants (Kd). We have determined that 11 normal subjects had a MBC for T3 of 1.20 +/- 0.20 pmol/mg DNA (+/- SE) and a Kd of 3.4 +/- 0.2 X 10(-10) M; the T4 MBC was 8.44 +/- 1.22 pmol/mg DNA and the Kd was 2.7 +/- 0.3 X 10(-10) M. Hypothyroid patients had a mean T3 MBC of 7.32 +/- 2.28 pmol/mg DNA and a mean T4 MBC of 40.04 +/- 21.36 pmol/mg DNA (P less than 0.05 compared to normal). Obese subjects (n = 12) had a basal fed MBC that was 0.66 +/- 0.13 pmol/mg DNA for T3 (P less than 0.05 compared to normal) and was 3.58 +/- 0.56 pmol/mg DNA for T4 (P less than 0.01 compared to normal). During fasting, the average T3 MBC increased to 1.43 +/- 0.31 pmol/mg DNA and the average T4 MBC increased to 9.63 +/- 2.46 pmol/mg DNA, values that are both significantly higher than those in the fed period; the dissociation constants were unaltered in obese subjects (compared to normals) in fed and fasting states. Gel filtration with 0.5 M agarose was employed to ascertain if the physicochemical properties of the solubilized mononuclear human cell receptor were similar to those previously observed in rat and human liver and kidney receptors. The elution profile obtained was similar to that reported earlier. The major binding activity has an estimated Stokes radius of 35 A and a molecular weight ratio of approximately 50,000 daltons. These studies indicate that: 1) high affinity T3 and T4 receptors exist in human mononuclear cells and have properties similar to those for T3 and T4 described previously in rat liver; 2) T3 and T4 receptor number tends to increase in hypothyroid subjects and tend to be lower in obese patients than in normal weight control subjects; 3) fasting is associated with an increase in both T3 and T4 MBC; and 4) despite their apparent physicochemical similarity, T3 receptors in rat liver and human mononuclear cells may be regulated differently, at least during fasting since hepatic T3 receptors decrease in the fasted rat. Collectively, these observations support the concept that human white cell T3 nuclear receptor binding is capable of rapid fluctuations, suggesting a mechanism for homeostatic regulation of T3 action.",
+    "removedWords": [
+      "receptor",
+      "fed",
+      "properties",
+      "similar",
+      "hypothyroid"
+    ],
+    "topic": "obesity"
+  },
+  "Question61": {
+    "indices": [
+      6,
+      15,
+      22,
+      24,
+      43
+    ],
+    "originalString": "A 33-year-old man had a sudden onset of night blindness 3 1/2 years after intestinal bypass surgery for morbid obesity. Ocular examination disclosed a probable Bitot's spot and electrophysiologic testing showed markedly impaired dark adaptation and subnormal electroretinography. After therapy with orally administered vitamin A, the night blindness disappeared and the dark adaptation curve and electroretinogram returned to normal.",
+    "removedWords": [
+      "onset",
+      "bypass",
+      "disclosed",
+      "probable",
+      "vitamin"
+    ],
+    "topic": "obesity"
+  },
+  "Question62": {
+    "indices": [
+      2,
+      15,
+      36,
+      38,
+      92
+    ],
+    "originalString": "Two controlled trials were performed successively to evaluate the effect of high doses of oral pyridoxine on brain performance in man. In trial I, medical students volunteered to take 100 mg, 500 mg of pyridoxine a day or placebo for 10 days. A digit coding test was performed before, and at the end of the treatment period and a third 15 days later. The improvement of performance from the first to the third test (learning effect) was significantly better in the placebo group than in the B6 treated groups. This could be attributed to memorization of skills. Trial II was performed in obese patients starting a low calorie diet in whom vitamins are routinely prescribed. Performance in a work recognition test and in a visual retention test was lower for the group receiving 1 g of pyridoxine a day. Thus, high doses of oral pyridoxine are likely to impair memorization in man. Disturbances of neuro-transmitter metabolism such as increase of GABA production might explain the effect. As the benefit of high doses of pyridoxine has not been well-documented and as the study has suggested that undesired effects may indeed exist, the widespread use of such doses is questionable.",
+    "removedWords": [
+      "trials",
+      "pyridoxine",
+      "day",
+      "placebo",
+      "attributed"
+    ],
+    "topic": "obesity"
+  },
+  "Question63": {
+    "indices": [
+      18,
+      64,
+      108,
+      124,
+      195
+    ],
+    "originalString": "The present study assessed food cravings in a cohort of 229 women who differed in smoking history (i.e., never smoker, former smoker, and current smoker) and body weight (i.e., normal weight, overweight, and obese). Each subject completed the Food Craving Inventory (FCI), which measures cravings for sweets, high fats, carbohydrates/starches, and fast-food fats, and the Profile of Mood States (POMS), which measures psychological distress. Smoking and obesity were independently associated with specific food cravings and mood states. Current smokers craved high fats more frequently than former and never smokers. They also craved starches more frequently and felt more depressed and angry than never smokers, but not former smokers. Whereas cravings for starchy foods and some mood states may be characteristic of women who are likely to smoke, more frequent cravings for fat among smokers is related to smoking per se. Similarly, obese women craved high fats more frequently than nonobese women and depression symptoms were intensified with increasing body weights. We hypothesize that the overlapping neuroendocrine alterations associated with obesity and smoking and the remarkable similarities in food cravings and mood states between women who smoke and women who are obese suggest that common biological mechanisms modulate cravings for fat in these women.",
+    "removedWords": [
+      "never",
+      "Smoking",
+      "Whereas",
+      "likely",
+      "mechanisms"
+    ],
+    "topic": "obesity"
+  },
+  "Question64": {
+    "indices": [
+      36,
+      48,
+      77,
+      103,
+      104
+    ],
+    "originalString": "The aim of the study was to determine the short-term impact of a 7-month whole-school physical activity and healthy eating intervention (Action Schools! BC) over the 2007-2008 school year for children and youth in 3 remote First Nations villages in northwestern British Columbia.\n\nA pre-experimental pre/post design was conducted with 148 children and youth (77 males, 71 females; age 12.5±2.2 yrs).\n\nWe evaluated changes in obesity (body mass index [wt/ht(2)] and waist circumference z-scores: zBMI and zWC), aerobic fitness (20-m shuttle run), physical activity (PA; physical activity questionnaire and accelerometry), healthy eating (dietary recall) and cardiovascular risk (CV risk).\n\nzBMI remained unchanged while zWC increased from 0.46±1.07 to 0.57±1.04 (p&<.05). No change was detected in PA or CV risk but aerobic fitness increased by 22% (25.4±15.8 to 30.9±20.0 laps; p&<.01). There was an increase in the variety of vegetables consumed (1.10±1.18 to 1.45±1.24; p&<.05) but otherwise no dietary changes were detected.\n\nWhile no changes were seen in PA or overall CV risk, zWC increased, zBMI remained stable and aerobic fitness improved during a 7-month intervention.",
+    "removedWords": [
+      "First",
+      "conducted",
+      "aerobic",
+      "zWC",
+      "increased"
+    ],
+    "topic": "obesity"
+  },
+  "Question65": {
+    "indices": [
+      9,
+      17,
+      141,
+      143,
+      192
+    ],
+    "originalString": "Relatively little is known about the factors shaping public attitudes toward obesity as a policy concern. This study examines whether individuals' beliefs about the causes of obesity affect their support for policies aimed at stemming obesity rates. This article identifies a unique role of metaphor-based beliefs, as distinct from conventional political attitudes, in explaining support for obesity policies.\n\nThis article used the Yale Rudd Center Public Opinion on Obesity Survey, a nationally representative web sample surveyed from the Knowledge Networks panel in 2006/07 (N = 1,009). The study examines how respondents' demographic and health characteristics, political attitudes, and agreement with seven obesity metaphors affect support for sixteen policies to reduce obesity rates.\n\nIncluding obesity metaphors in regression models helps explain public support for policies to curb obesity beyond levels attributable solely to demographic, health, and political characteristics. The metaphors that people use to understand rising obesity rates are strong predictors of support for public policy, and their influence varies across different types of policy interventions.\n\nOver the last five years, the United States has begun to grapple with the implications of dramatically escalating rates of obesity. Individuals use metaphors to better understand increasing rates of obesity, and obesity metaphors are independent and powerful predictors of support for public policies to curb obesity. Metaphorical reasoning also offers a potential framework for using strategic issue framing to shift support for obesity policies.",
+    "removedWords": [
+      "attitudes",
+      "study",
+      "use",
+      "understand",
+      "increasing"
+    ],
+    "topic": "obesity"
+  },
+  "Question66": {
+    "indices": [
+      4,
+      14,
+      28,
+      68,
+      196
+    ],
+    "originalString": "Metabolic adjustments occur with weight loss that may contribute to a high rate of weight regain. We have previously observed in obesity-prone, obese rats that weight reduction is accompanied by a suppression in resting metabolic rate beyond what would be predicted for the change in metabolic mass. In the present study, we examine if this adjustment in metabolic efficiency is affected by the length of time in weight maintenance and if it contributes to the propensity to regain after weight loss. Twenty-four-hour, nonresting, and resting energy expenditure (REE) were obtained by indirect calorimetry and normalized to metabolic mass estimated by dual-energy X-ray absorptiometry. A 10% loss in body weight in weight-reduced rats was accompanied by a 15% suppression in adjusted REE. This enhancement in metabolic efficiency was not altered with either 8 or 16 wk of weight maintenance, but it did resolve when the forced control of intake was removed and the weight was regained. The rate of weight regain increased with the time in weight maintenance and was exceptionally high early during the relapse period. During this high rate of weight gain, the suppression in REE persists while consumption increases to a level that is higher than when they were obese. In summary, an enhanced metabolic efficiency and an elevated appetite both contribute (60% and 40%, respectively) to a large potential energy imbalance that, when the forcible control of energy intake is relieved, becomes actualized and results in an exceptionally high rate of weight regain.",
+    "removedWords": [
+      "weight",
+      "weight",
+      "accompanied",
+      "maintenance",
+      "higher"
+    ],
+    "topic": "obesity"
+  },
+  "Question67": {
+    "indices": [
+      40,
+      84,
+      167,
+      180,
+      198
+    ],
+    "originalString": "We evaluated the association of physical activity and diet with C-reactive protein (CRP) levels among subjects with abdominal obesity. During 2001-2002, we enrolled 625 men (18 to 87 years old) and 712 women (18 to 89 years old) with abdominal obesity (waist-to-hip ratio&> or =0.95 in men and&> or =0.8 in women) from the Attica area, Greece. The sampling was stratified by the age-gender distribution of the region (census 2001). Among several variables, we also measured plasma high-sensitivity CRP, physical activity status, dietary habits, blood lipids, and blood pressure levels. Adherence to the Mediterranean diet was evaluated through a diet score (0 to 55) that assessed the inherent characteristics of the diet. Compared with those with low CRP levels, subjects with high CRP levels (ie,&>3.0 mg/L) were physically inactive (P = .01), were less likely to adopt the Mediterranean diet (P = .008), had higher glucose levels, had a higher prevalence of hypertension, had a lower high-density lipoprotein cholesterol, and had increased smoking habits and higher anthropometric indices (all P &<.05). Moreover, adoption of the Mediterranean diet in combination with medium physical activity seems to reduce the likelihood of having high CRP levels by 72% (P = .018), irrespective of smoking and various clinical and biological characteristics. Among subjects with abdominal obesity, low-grade systemic inflammation appears to be associated with the adoption of an unfavorable lifestyle, including physical inactivity and unhealthy dietary habits, as well as increased blood pressure levels and low high-density lipoprotein cholesterol.",
+    "removedWords": [
+      "obesity",
+      "blood",
+      "indices",
+      "medium",
+      "irrespective"
+    ],
+    "topic": "obesity"
+  },
+  "Question68": {
+    "indices": [
+      1,
+      9,
+      20,
+      134,
+      147
+    ],
+    "originalString": "Gestational diabetes mellitus (GDM) influences fetal development and offspring's metabolic risk. We evaluated this association in 17-year-old offspring adjusting for birth weight (BW) and prepregnancy maternal BMI (mBMI).\n\nThe JPS birth cohort contains extensive data on 92,408 births from 1964 to 1976. Offspring's BMI and blood pressure (BP) were obtained from military records. For a subcohort born between 1974 and 1976, prepregnancy mBMI was available. Offspring were classified as born to mothers with GDM (n = 293) or born to mothers without recorded GDM (n = 59,499).\n\nGDM offspring had higher mean BMI and systolic and diastolic BP compared to no-recorded-GDM offspring. After adjusting for BW, GDM remained significantly associated with offspring BMI and diastolic BP (β = 1.169 and 1.520, resp.). In the subcohort, when prepregnancy mBMI was entered to the models, it markedly attenuated the associations with GDM.\n\nMaternal characteristics have long-term effects on cardiometabolic outcomes of their offspring aged 17 years.",
+    "removedWords": [
+      "diabetes",
+      "metabolic",
+      "birth",
+      "markedly",
+      "outcomes"
+    ],
+    "topic": "obesity"
+  },
+  "Question69": {
+    "indices": [
+      0,
+      10,
+      26,
+      40,
+      79
+    ],
+    "originalString": "Disturbances in cortisol metabolism have been associated with obesity and metabolic syndrome development. The aim of this study was to evaluate the effect of weight loss induced by an energy-restricted diet on postprandial cortisol secretion in obese men with and without metabolic syndrome features.\n\nTwelve obese men (BMI: 32.5-36.2 kg/m2), six without and six with at least three markers of metabolic syndrome, and six lean men (BMI: 22.2-24.9 kg/m2) participated. Plasma cortisol was measured at fasting and at 30 min intervals for 3h after standard breakfast intake. Obese volunteers repeated those measurements after weight loss induced by a 10-week hypocaloric balanced diet. Fasting (p = 0.002) and postprandial (p = 0.014) cortisol secretions in obese men were statistically lower than in lean subjects. The slimming program produced a -0.9 kg per week mean weight reduction with no differences between both groups (p = 0.297). After weight loss, postprandial cortisol secretion increased in volunteers with (p = 0.028) and without metabolic syndrome manifestations (p = 0.043), as compared to baseline, achieving values near to those of controls. Cortisol levels negatively correlated with body weight (r = -0.61; p &<0.001).\n\nTherefore, the effect of weight loss on cortisol metabolism appeared to be mediated by changes in body weight, which were apparently not affected by the occurrence of metabolic syndrome features.",
+    "removedWords": [
+      "Disturbances",
+      "metabolic",
+      "induced",
+      "without",
+      "min"
+    ],
+    "topic": "obesity"
+  },
+  "Question7": {
+    "indices": [
+      10,
+      77,
+      143,
+      144,
+      241
+    ],
+    "originalString": "This study is aimed at investigating the in vivo antitumor activity of a novel cell-impermeable glucuronide prodrug, 9-aminocamptothecin glucuronide (9ACG), and elucidating the synergistically antitumor effects of antiangiogenesis therapy by targeting the tumor microenvironment.\n\nWe analyzed the antitumor effects of 9ACG alone or combined with antiangiogenic monoclonal antibody DC101 on human tumor xenografts by measuring tumor growth and mouse survival in BALB/c nu/nu nude and NOD/SCID mice. The drug delivery, immune response, and angiogenesis status in treated tumors were assessed by high performance liquid chromatography, immunohistochemistry, and immunofluorescence assays.\n\nWe developed a nontoxic and cell-impermeable glucuronide prodrug, 9ACG, which can only be activated by extracellular beta-glucuronidase to become severely toxic. 9ACG possesses potent antitumor activity against human tumor xenografts in BALB/c nu/nu nude mice but not for tumors implanted in NOD/SCID mice deficient in macrophages and neutrophils, suggesting that these cells play an important role in activating 9ACG in the tumor microenvironment. Most importantly, antiangiogenic monoclonal antibody DC101 potentiated single-dose 9ACG antitumor activity and prolonged survival of mice bearing resistant human colon tumor xenografts by providing strong beta-glucuronidase activity and prodrug delivery through enhancing inflammatory cell infiltration and normalizing tumor vessels in the tumor microenvironment. We also show that inflammatory cells (neutrophils) were highly infiltrated in advanced human colon cancer tissues compared with normal counterparts.\n\nOur study provides in vivo evidence that 9ACG has potential for prodrug monotherapy or in combination with antiangiognesis treatment for tumors with infiltration of macrophage or neutrophil inflammatory cells.",
+    "removedWords": [
+      "activity",
+      "tumors",
+      "important",
+      "role",
+      "neutrophil"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question70": {
+    "indices": [
+      1,
+      15,
+      48,
+      51,
+      150
+    ],
+    "originalString": "This study sought to examine the effects of a 3-month programme of dietary advice to restrict carbohydrate intake compared with reduced-portion, low-fat advice in obese subjects with poorly controlled Type 2 diabetes.\n\nOne hundred and two patients with Type 2 diabetes were recruited across three centres and randomly allocated to receive group education and individual dietary advice. Weight, glycaemic control, lipids and blood pressure were assessed at baseline and 3 months. Dietary quality was assessed at the end of study.\n\nWeight loss was greater in the low-carbohydrate (LC) group (-3.55 +/- 0.63, mean +/- sem) vs. -0.92 +/- 0.40 kg, P = 0.001) and cholesterol : high-density lipoprotein (HDL) ratio improved (-0.48 +/- 0.11 vs. -0.10 +/- 0.10, P = 0.01). However, relative saturated fat intake was greater (13.9 +/- 0.71 vs. 11.0 +/- 0.47% of dietary intake, P &<0.001), although absolute intakes were moderate.\n\nCarbohydrate restriction was an effective method of achieving short-term weight loss compared with standard advice, but this was at the expense of an increase in relative saturated fat intake.",
+    "removedWords": [
+      "study",
+      "restrict",
+      "allocated",
+      "group",
+      "method"
+    ],
+    "topic": "obesity"
+  },
+  "Question71": {
+    "indices": [
+      69,
+      102,
+      190,
+      209,
+      210
+    ],
+    "originalString": "Half the rats fed a high-energy diet develop diet-induced obesity (DIO); the remainder are diet-resistant (DR). Since alpha-adrenoceptors modulate both food intake and body weight, this study was conducted to identify potential differences in brain alpha-receptor binding which might predispose some animals to become DIO (DIO-prone) and others DR (DR-prone) when fed a high energy diet. DIO-prone rats can be prospectively identified by high and DR-prone rats by a low plasma norepinephrine (NE) response to i.v. glucose. Here 28 chow-fed rats were tested for glucose-induced NE release and the 6 highest and 6 lowest plasma NE responders were identified as being most likely to be DIO- and DR-prone, respectively. Binding to brain alpha-adrenoceptors was studied in these 12 rats by receptor autoradiography using 1 nM [3H]prazosin (PRZ; alpha 1-) and 1 nM [3H]paraminoclonidine (PAC; alpha 2-). There were no differences in [3H]PRZ binding in any of 18 brain areas examined. However, DIO-prone [3H]PAC binding was only 14-39% of DR-prone levels in 9 areas including 4 amygdalar nuclei, the lateral area, dorso- and ventromedial nuclei of the hypothalamus, median eminence and medial dorsal thalamic n. Although it is unclear whether this widespread decrease in [3H]PAC binding implicates brain alpha 2-adrenoceptors in the pathophysiology of DIO, it does correlate with a phenotypic marker (increase glucose-induced NE release) which predicts the subsequent development of DIO on a high-energy diet.",
+    "removedWords": [
+      "low",
+      "likely",
+      "widespread",
+      "phenotypic",
+      "marker"
+    ],
+    "topic": "obesity"
+  },
+  "Question72": {
+    "indices": [
+      8,
+      113,
+      148,
+      173,
+      204
+    ],
+    "originalString": "Obese patients are at high risk of developing cardiovascular disease. Several studies suggest obesity as an independent risk factor. Adipose tissue is now accepted as an endocrine organ that produces and secretes a variety of cytokines, hormones and other metabolic players involved in the pathogenesis of atherosclerosis. Among this versatile group of mediators and effectors of inflammation and atherothrombosis, we have studied the expression of matrix metalloproteinase-9 (MMP-9), tissue inhibitor of metalloproteinase-1 (TIMP-1), plasminogen activator inhibitor-1 (PAI-1), interleukin-18 (IL-18) and interleukin-6 (IL-6). All these markers, in their circulatory form, have been associated with cardiovascular disease. However, there is no much data available on their expression in adipose tissue in human subjects with and without cardiovascular disease.\n\nWe successfully isolated RNA from subcutaneous fat biopsies of 61 patients with or without cardiovascular disease. We then measured the RNA expression of MMP-9, TIMP-1, PAI-1, IL-18 and IL-6 with Real-Time PCR, using relative quantification.\n\nAlbeit not statistically significant, all inflammatory mediators - except IL-18 - were highly expressed in patients with cardiovascular disease (n = 16) compared with those without (n = 45). Pooling the gene expression data, trying to capture the overall inflammatory activity in adipose tissue in a score system, we observed a highly significant association with CVD.\n\nTrying to capture the overall inflammatory activity, in addition to the mass of adipose tissue, could provide useful hints towards a pathogenetic link between obesity and presence of cardiovascular disease.",
+    "removedWords": [
+      "cardiovascular",
+      "without",
+      "using",
+      "compared",
+      "association"
+    ],
+    "topic": "obesity"
+  },
+  "Question73": {
+    "indices": [
+      43,
+      47,
+      69,
+      111,
+      131
+    ],
+    "originalString": "The present study assessed food cravings in a cohort of 229 women who differed in smoking history (i.e., never smoker, former smoker, and current smoker) and body weight (i.e., normal weight, overweight, and obese). Each subject completed the Food Craving Inventory (FCI), which measures cravings for sweets, high fats, carbohydrates/starches, and fast-food fats, and the Profile of Mood States (POMS), which measures psychological distress. Smoking and obesity were independently associated with specific food cravings and mood states. Current smokers craved high fats more frequently than former and never smokers. They also craved starches more frequently and felt more depressed and angry than never smokers, but not former smokers. Whereas cravings for starchy foods and some mood states may be characteristic of women who are likely to smoke, more frequent cravings for fat among smokers is related to smoking per se. Similarly, obese women craved high fats more frequently than nonobese women and depression symptoms were intensified with increasing body weights. We hypothesize that the overlapping neuroendocrine alterations associated with obesity and smoking and the remarkable similarities in food cravings and mood states between women who smoke and women who are obese suggest that common biological mechanisms modulate cravings for fat in these women.",
+    "removedWords": [
+      "measures",
+      "high",
+      "associated",
+      "starchy",
+      "fat"
+    ],
+    "topic": "obesity"
+  },
+  "Question74": {
+    "indices": [
+      9,
+      22,
+      39,
+      53,
+      145
+    ],
+    "originalString": "Notch signaling expression in regenerating muscle following injurious downhill running (DHR) was characterized in male C57BL/J6 mice (3 mo). Hindlimb muscles were harvested from control mice or at 24, 48, 72, 96 or 120 h post-DHR. Muscle injury was observed at 96 h (3.3-fold) and 120 h (3.7-fold) post-DHR (P < 0.01) and elevated MCadherin expression at 72 h (2.7-fold), 96 h (2.4-fold) post-DHR (P < 0.05) and 120 h (3.3-fold) post-DHR (P < 0.01). Desmin increased at 72 h (2.2-fold), 96 h (3-fold) and 120 h (1.8-fold) post-DHR (P < 0.05). Delta1 +/MCadherin + cells increased approximately 2-fold at 72, 96 (P < 0.01) and 120 h post-DHR (P < 0.05). Isolated muscle-associated cells increased Delta1 (2.6-fold) (P < 0.05) and Notch1 (fourfold) (P < 0.01) expression at 120 h post-DHR. The results of this novel study indicate that DHR up-regulates Notch components within myoblasts and regenerating muscle.",
+    "removedWords": [
+      "running",
+      "harvested",
+      "observed",
+      "elevated",
+      "myoblasts"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question75": {
+    "indices": [
+      8,
+      42,
+      52,
+      132,
+      184
+    ],
+    "originalString": "This manuscript describes how the permeability of pulmonary artery microvascular endothelial cell (RPMEC) monolayer is elevated by hypoxia and the role played by HSP27 phosphorylation. p38 MAP kinase activation leading to HSP27 phosphorylation was previously shown by our laboratory to alter the actin cytoskeleton and tethering properties of RPMEC. This effect was independent of hypoxia-induced contractility which was ROCK-dependent rather than HSP27-dependent. Results described here show that increased HSP27 phosphorylation not only does not underlie hypoxia-induced permeability, but may actually augment the endothelial barrier. Hypoxia causes gap formation between RPMEC and increases MLC2 phosphorylation. The phosphorylation of MYPT1, which inhibits MLC2 phosphatase, is also increased in hypoxia. In addition, FAK phosphorylation, which alters focal adhesion signaling, is increased in hypoxia. Overexpressing phosphomimicking HSP27 (pmHSP27), which induces significant actin stress fiber formation, surprisingly renders RPMEC resistant to hypoxia- or TGFbeta-induced permeability. siRNA against pmHSP27 reverses the increased actin stress fiber formation in pmHSP27-overexpressing cells, and disrupting actin stress fibers in pmHSP27-overexpressing RPMEC renders them more susceptible to hypoxia. Finally, hypoxia-induced gap formation, as well as phosphorylation of MLC2, MYPT1 and FAK are almost abolished by overexpressing pmHSP27 in RPMEC. These effects of pmHSP27 overexpression might represent decreased cytoskeletal plasticity and increased tethering which counteracts permeability-inducing contractility. Thus hypoxia activates two pathways one leading to contractility and increased permeability, the other leading to actin stress fibers, stronger adhesion, and reduced permeability. Altering HSP27 phosphorylation, which tips the balance towards decreased permeability, might be targeted in managing endothelial barrier dysfunction.",
+    "removedWords": [
+      "artery",
+      "actin",
+      "independent",
+      "renders",
+      "overexpressing"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question76": {
+    "indices": [
+      38,
+      70,
+      142,
+      157,
+      175
+    ],
+    "originalString": "Interferon (IFN)-gamma-induced protein 10 (IP-10/CXCL10), a CXC chemokine, has been documented in several inflammatory and autoimmune disorders including atopic dermatitis and bronchial asthma. Although CXCL10 could be induced by IFN-gamma depending on cell type, the mechanisms regulating CXCL10 production following treatment with combination of IFN-gamma and TNF-alpha have not been adequately elucidated in human monocytes. In this study, we showed that TNF-alpha had more potential than IFN-gamma to induce CXCL10 production in THP-1 monocytes. Furthermore, IFN-gamma synergistically enhanced the production of CXCL10 in parallel with the activation of NF-kappaB in TNF-alpha-stimulated THP-1 cells. Blockage of STAT1 or NF-kappaB suppressed CXCL10 production. JAKs inhibitors suppressed IFN-gamma plus TNF-alpha-induced production of CXCL10 in parallel with activation of STAT1 and NF-kappaB, while ERK inhibitor suppressed production of CXCL10 as well as activation of NF-kappaB, but not that of STAT1. IFN-gamma-induced phosphorylation of JAK1 and JAK2, whereas TNF-alpha induced phosphorylation of ERK1/2. Interestingly, IFN-gamma alone had no effect on phosphorylation and degradation of IkappaB-alpha, whereas it significantly promoted TNF-alpha-induced phosphorylation and degradation of IkappaB-alpha. These results suggest that TNF-alpha induces CXCL10 production by activating NF-kappaB through ERK and that IFN-gamma induces CXCL10 production by increasing the activation of STAT1 through JAKs pathways. Of note, TNF-alpha-induced NF-kappaB may be the primary pathway contributing to CXCL10 production in THP-1 cells. IFN-gamma potentiates TNF-alpha-induced CXCL10 production in THP-1 cells by increasing the activation of STAT1 and NF-kappaB through JAK1 and JAK2.",
+    "removedWords": [
+      "production",
+      "production",
+      "whereas",
+      "degradation",
+      "induces"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question77": {
+    "indices": [
+      7,
+      35,
+      39,
+      45,
+      50
+    ],
+    "originalString": "The paper contains current data on the different ways of the liver regeneration. There is still not enough data about control of the regeneration processes in the liver. However nuclear phosphatidylinositols and sphingomyelins have been shown to play a potent role of messengers signaling. The lipid messengers may be potent factors affecting process of liver regeneration after partial hepatectomy.",
+    "removedWords": [
+      "different",
+      "shown",
+      "potent",
+      "lipid",
+      "factors"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question78": {
+    "indices": [
+      49,
+      76,
+      96,
+      135,
+      152
+    ],
+    "originalString": "The membrane-anchored DjIA protein represents the third member of the DnaJ 'J-domain' family of Escherichia coli that includes DnaJ and CbpA. DjIA possesses a J-domain at its extreme C-terminus but shares no additional homology with DnaJ. Our genetic analysis suggests that DjIA acts in concert with the RcsB/C two-component signal transduction system to augment induction of the cps (capsular polysaccharide) operon and synthesis of colanic acid mucoid capsule. The DjIA J-domain is essential for the observed stimulation of this pathway as deletion, or introduction of the mutation H233Q, within the highly conserved HPD tripeptide abolished all inducing activity. Deletion of the transmembrane anchor sequence also abolished all inducing activity. djIA is not an essential gene under all conditions tested, nor is it essential for mucoid capsule biosynthesis; however, strong overexpression leads to rapid loss of cell viability suggesting that the gene is normally tightly regulated. Northern analysis revealed that djIA message was extremely unstable but could be induced or stabilized in response to cold shock. The activation of the cps operon by DjIA is dependent upon both DnaK(Hsp70) and GrpE, and therefore we propose a role for DjIA, together with this chaperone machine, as a novel regulator of a two-component histidine kinase signal transduction pathway.",
+    "removedWords": [
+      "signal",
+      "stimulation",
+      "inducing",
+      "cell",
+      "extremely"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question79": {
+    "indices": [
+      20,
+      28,
+      58,
+      69,
+      128
+    ],
+    "originalString": "Rat cholecystokinin-B (CCK-B) receptors were transfected into Chinese hamster ovary (CHO)-K1 (CHO-CCK-B) and Swiss 3T3 (Swiss 3T3-CCK-B) cells, and the effects of receptor activation on cell proliferation and intracellular signaling were investigated. CCK octapeptide (CCK-8) treatment had no effect on cell growth in quiescent CHO-CCK-B cells but inhibited DNA synthesis, proliferation, and colony formation when the cells were grown in fetal bovine serum (FBS). In contrast, CCK-8 stimulated DNA synthesis in quiescent Swiss 3T3-CCK-B cells and had no effect when the cells were grown in FBS. These differences in growth responses were not due to differences in the level of receptor expression, as similar numbers of receptors were present in both cell types. To determine whether the different growth effects were due to differences in receptor coupling to common second messenger pathways, we investigated the effects of CCK-8 on several known intracellular signals. In both cell types, CCK-8 stimulated increases in intracellular Ca2+ concentration and polyphosphoinositide hydrolysis with similar potencies and efficacies. CCK-8 also stimulated arachidonate release from both cell types, although the potency was higher in the CHO cells. Adenosine 3',5'-cyclic monophosphate generation was observed at high agonist concentrations in both cell types and was much greater in cells with higher receptor density. In summary, receptor activation had opposite effects on growth parameters in CHO and Swiss 3T3 cells, but only minor differences were observed in the characteristics of CCK-B receptor coupling to specific second messengers in the two cell types. Thus cellular context is a principal determinant of the biological effects of CCK-B receptor activation, and differences in biological responses may occur independently of major differences in receptor coupling.",
+    "removedWords": [
+      "effects",
+      "intracellular",
+      "grown",
+      "synthesis",
+      "common"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question8": {
+    "indices": [
+      10,
+      49,
+      60,
+      75,
+      134
+    ],
+    "originalString": "In the previous study, we found that Annexin A2 was significantly up-regulated in lung cancer and could induce related-antigen in lung cancer patients' serum. To further study the function of Annexin A2, the short hairpin RNA plasmid targeting Annexin A2 was constructed in vitro and transfected into human lung adencarcinoma A549 cells. Knocking down Annexin A2 expression by shRNA, the mRNA level of Annexin A2 was investigated by semi-quantitative RT-PCR. The expression of Annexin A2 protein was examined by Western Blotting and Immuocytochemistry. MTT assay and Transwell chamber model were used to evaluate proliferation and invasion of A549 cells in vitro. The concentration of matrix metalloproteinase-2 (MMP-2) and cathepsin B (CB) in the supernatant was evaluated by ELISA. At 48 h after transfection, the expression of Annexin A2 mRNA and protein was down-regulated significantly, respectively (p < 0.05).The proliferation and invasion capability of A549 cells also decreased significantly (p < 0.05). The concentration of MMP-2 and CB was down-regulated obviously, respectively (p < 0.05). This study implies that Annexin A2 might play an important role in the progression and invasion of human lung cancer cells, and could promote progression of lung cancer by regulating the expression of MMP-2 and CB.",
+    "removedWords": [
+      "significantly",
+      "adencarcinoma",
+      "mRNA",
+      "protein",
+      "respectively"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question80": {
+    "indices": [
+      27,
+      33,
+      40,
+      79,
+      180
+    ],
+    "originalString": "Insulin provoked rapid increases in enzyme activity of immunoprecipitable protein kinase C-zeta (PKC-zeta) in rat adipocytes. Concomitantly, insulin provoked increases in 32P labeling of PKC-zeta both in intact adipocytes and during in vitro assay of immunoprecipitated PKC-zeta; the latter probably reflected autophosphorylation, as it was inhibited by the PKC-zeta pseudosubstrate. Insulin-induced activation of immunoprecipitable PKC-zeta was inhibited by LY294002 and wortmannin; this suggested dependence upon phosphatidylinositol (PI) 3-kinase. Accordingly, activation of PI 3-kinase by a pYXXM-containing peptide in vitro resulted in a wortmannin-inhibitable increase in immunoprecipitable PKC-zeta enzyme activity. Also, PI-3,4-(PO4)2, PI-3,4,5-(PO4)3, and PI-4,5-(PO4)2 directly stimulated enzyme activity and autophosphoralytion in control PKC-zeta immunoprecipitates to levels observed in insulin-treated PKC-zeta immunoprecipitates. In studies of glucose transport, inhibition of immunoprecipitated PKC-zeta enzyme activity in vitro by both the PKC-zeta pseudosubstrate and RO 31-8220 correlated well with inhibition of insulin-stimulated glucose transport in intact adipocytes. Also, in adipocytes transiently expressing hemagglutinin antigen-tagged GLUT4, co-transfection of wild-type or constitutive PKC-zeta stimulated hemagglutinin antigen-GLUT4 translocation, whereas dominant-negative PKC-zeta partially inhibited it. Our findings suggest that insulin activates PKC-zeta through PI 3-kinase, and PKC-zeta may act as a downstream effector of PI 3-kinase and contribute to the activation of GLUT4 translocation.",
+    "removedWords": [
+      "intact",
+      "assay",
+      "reflected",
+      "resulted",
+      "act"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question81": {
+    "indices": [
+      23,
+      51,
+      113,
+      124,
+      176
+    ],
+    "originalString": "Nephronophthisis (NPHP), the most frequent genetic cause of end-stage kidney disease in children and young adults, is characterized by a variable number of renal cysts associated with cortical tubular atrophy and interstitial fibrosis. The p38 mitogen-activated protein kinase (MAPK) pathway is an important intracellular signaling pathway involved in the production of profibrotic mediators. The relationship between p38 MAPK and renal fibrosis in NPHP2 is unknown.\n\nWe administered a selective p38 MAPK inhibitor, FR167653, in a NPHP2 mouse model (inv/inv, invΔC mice) from 3 to 6 weeks old, and the kidneys were examined at 6 weeks of age. Phosphorylation of p38 MAPK (p-p38 MAPK) protein levels, the degree of renal fibrosis, messenger RNA (mRNA) levels for extracellular matrix genes and mRNA levels for transforming growth factor in the kidneys were studied. Effect of an extracellular signal-regulated protein kinase (ERK) kinase (MEK) inhibitor on renal fibrosis was also evaluated.\n\nExpression of extracellular matrix genes and p-p38 MAPK were increased in the NPHP2 mouse model kidney. FR167653 successfully decreased p-p38 MAPK levels, the degree of fibrosis and extracellular matrix gene expressions. However, the FR167653 did not prevent cyst expansion, abnormal cell proliferation and acceleration of apoptosis and did not influence ERK activation. In contrast, MEK inhibition reduced both cyst expansion and fibrosis without affecting p38 MAPK activation.\n\nThese results suggest that inhibition of p38 MAPK reduced renal fibrosis but not cyst expansion, cell proliferation and apoptosis in NPHP2 model mice. Our results suggest that p38 MAPK and ERK signaling pathways independently affect renal fibrosis in inv mutant mice.",
+    "removedWords": [
+      "renal",
+      "profibrotic",
+      "levels",
+      "factor",
+      "gene"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question82": {
+    "indices": [
+      16,
+      25,
+      111,
+      132,
+      157
+    ],
+    "originalString": "The small heat shock protein, αA-crystallin null (αA-/-) mice are known to be more prone to retinal degeneration than the wild type mice in Experimental Autoimmune Uveoretinitis (EAU). In this report we demonstrate that intravenous administration of αA preserves retinal architecture and prevents photoreceptor damage in EAU. Interestingly, only αA and not αB-crystallin (αB), a closely related small heat shock protein works, pointing to molecular specificity in the observed retinal protection. The possible involvement of αA in retinal protection through immune modulation is corroborated by adaptive transfer experiments, (employing αA-/- and wild type mice with EAU as donors and Rag2-/- as the recipient mice), which indicate that αA protects against the autoimmune challenge by modulating the systemic B and T cell immunity. We show that αA administration causes marked reduction in Th1 cytokines (TNF-α, IL-12 and IFN-γ), both in the retina and in the spleen; notably, IL-17 was only reduced in the retina suggesting local intervention. Importantly, expression of Toll-like receptors and their associated adaptors is also inhibited suggesting that αA protection, against photoreceptor loss in EAU, is associated with systemic suppression of both the adaptive and innate immune responses.",
+    "removedWords": [
+      "retinal",
+      "Autoimmune",
+      "autoimmune",
+      "cytokines",
+      "expression"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question83": {
+    "indices": [
+      57,
+      145,
+      153,
+      242,
+      259
+    ],
+    "originalString": "The Eph receptor tyrosine kinases are emerging as molecules that guide the migration of cells and growth cones during embryonic development. Based on their concentration in embryonic regions containing growing neuronal processes, the Eph receptors were suspected early on to have a role in regulating aspects of axon growth. The most distinctive role of the Eph receptors appears to be their ability to mediate cell-cell repulsion through the binding of a ligand on an adjacent cell surface. The repulsive interactions are presumably mediated by transient receptor activation at the boundaries of complementary regions of high ligand or receptor expression. In contrast, overlapping expression patterns may regulate cell adhesion and cytoskeletal organization with possible consequences on the overall growth and fasciculation of neuronal processes. A notable feature of Eph receptor signaling is that, upon receptor binding, responses may also be elicited in the ligand-expressing cells. A better understanding of Eph receptor function requires the elucidation of their signaling properties. Recent evidence suggests a functional interaction between the Eph receptor EphB2 and neural cell adhesion molecules of the L1 family, which have well-recognized roles in the formation of neuronal projections. Only a few cytoplasmic signaling molecules that bind to the activated Eph receptors have been identified. Several of these molecules are known to transduce signals regulating cytoskeletal organization and neurite outgrowth. It is currently unclear why there is a need for fourteen distinct Eph receptor genes, many of which appear to encode several variant forms with distinct functional properties, but it is tempting to speculate that such diversity is necessary to refine the spatial organization of embryonic structures.",
+    "removedWords": [
+      "appears",
+      "better",
+      "elucidation",
+      "forms",
+      "refine"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question84": {
+    "indices": [
+      1,
+      23,
+      62,
+      77,
+      243
+    ],
+    "originalString": "Seventy-eight uncloned tumour cell lines, each established from a primary sarcoma induced with methyl-cholanthrene in immunocompetent nu/+ BALB/c and C.B.-17 mice or in immunodeficient nu/nu BALB/c and severe combined immunodeficient (SCID) mice, were examined for sensitivity to interferon-gamma (IFN-gamma) as measured by tumour cell augmentation of major histocompatibility complex (MHC) class I expression. The tumour cells were cultured with IFN-gamma and their expression of Kd, Dd and Ld was measured by fluorescence-activated cell sorter analysis. All but three of the 78 tumour lines up-regulated Kd, Dd and Ld to a variable degree in response to IFN-gamma, indicating that IFN-gamma resistance is not a common property of these sarcomas. The tumour cell lines varied greatly in their MHC class I expression before as well as after IFN-gamma stimulation. There was a tendency towards a higher MHC expression after IFN-gamma stimulation in tumour lines from immunocompetent mice compared to immunodeficient mice, but no common maximum MHC class I expression level was found for the 78 tumour cell lines. Three of the tumour lines, all from immunodeficient mice, completely failed to respond to IFN-gamma by up-regulating MHC class I expression. The same three also displayed absence of IFN-gamma-induced Stat1 beta tyrosine phosphorylation and low Stat1 alpha tyrosine phosphorylation, indicating a defect in the signal transduction pathway affecting phosphorylation of Stat1. These findings strongly suggest a link between defects in Stat1 phosphorylation and the failure to up-regulate MHC class I. In all tumour lines tested, the Stat1 Western blotting revealed a 78 kDa protein (p78) not previously described.",
+    "removedWords": [
+      "uncloned",
+      "immunodeficient",
+      "expression",
+      "three",
+      "Western"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question85": {
+    "indices": [
+      12,
+      178,
+      186,
+      188,
+      193
+    ],
+    "originalString": "The RHO1 gene in Saccharomyces cerevisiae encodes a homolog of the mammalian RhoA small GTP-binding protein, which is implicated in various actin cytoskeleton-dependent cell functions. In yeast, Rho1p is involved in bud formation. A yeast strain in which RHO1 is replaced with RhoA shows a recessive temperature-sensitive growth phenotype. A dominant suppressor mutant was isolated from this strain. Molecular cloning of the suppressor gene revealed that the mutation occurred at the pseuodosubstrate site of PKC1, a yeast homolog of mammalian protein kinase C. Two-hybrid analysis demonstrated that GTP-Rho1p, but not GDP-Rho1p, interacted with the region of Pkc1p containing the pseudosubstrate site and the C1 domain. MKK1 and MPK1 encode MAP kinase kinase and MAP kinase homologs, respectively, and function downstream of PKC1. A dominant active MKK1-6 mutation or overexpression of MPK1 suppressed the temperature sensitivity of the RhoA mutant. The dominant activating mutation of PKC1 suppressed the temperature sensitivity of the RhoA mutant. The dominant activating mutation of PKC1 suppressed the temperature sensitivity of two effector mutants of RHO1, rho1(F44Y) and rho1(E451), but not that of rho1(V43T). These results indicate that there are at least two signaling pathways regulated by Rho1p and that one of the downstream targets is Pkc1p, leading to the activation of the MAP kinase cascade.",
+    "removedWords": [
+      "RhoA",
+      "results",
+      "signaling",
+      "regulated",
+      "one"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question86": {
+    "indices": [
+      11,
+      36,
+      49,
+      88,
+      91
+    ],
+    "originalString": "Rhomboids are ubiquitous intramembrane serine proteases the sequences of which are found in nearly all sequenced genomes, including those of plants. They were molecularly characterized in a number of organisms, and were found to play a role in a variety of biological functions including signaling, development, apoptosis, mitochondrial integrity, parasite invasion and more. Although rhomboid sequences are found in plants, very little is known about their function. Here, we present the current knowledge in the rhomboids field in general, and in plant rhomboids in particular. In addition, we discuss possible physiological roles of different plant rhomboids.",
+    "removedWords": [
+      "found",
+      "role",
+      "parasite",
+      "discuss",
+      "roles"
+    ],
+    "topic": "signal_transduction"
+  },
+  "Question87": {
+    "indices": [
+      9,
+      17,
+      84,
+      112,
+      204
+    ],
+    "originalString": "The complete nucleotide sequence and exon/intron structure of the rat embryonic skeletal muscle myosin heavy chain (MHC) gene has been determined. This gene comprises 24 X 10(3) bases of DNA and is split into 41 exons. The exons encode a 6035 nucleotide (nt) long mRNA consisting of 90 nt of 5' untranslated, 5820 nt of protein coding and 125 nt of 3' untranslated sequence. The rat embryonic MHC polypeptide is encoded by exons 3 to 41 and contains 1939 amino acid residues with a calculated Mr of 223,900. Its amino acid sequence displays the structural features typical for all sarcomeric MHCs, i.e. an amino-terminal \"globular\" head region and a carboxy-terminal alpha-helical rod portion that shows the characteristics of a coiled coil with a superimposed 28-residue repeat pattern interrupted at only four positions by \"skip\" residues. The complex structure of the rat embryonic MHC gene and the conservation of intron locations in this and other MHC genes are indicative of a highly split ancestral sarcomeric MHC gene. Introns in the rat embryonic gene interrupt the coding sequence at the boundaries separating the proteolytic subfragments of the head, but not at the head/rod junction or between the 28-residue repeats present within the rod. Therefore, there is little evidence for exon shuffling and intron-dependent evolution by gene duplication as a mechanism for the generation of the ancestral MHC gene. Rather, intron insertion into a previously non-split ancestral MHC rod gene consisting of multiple tandemly arranged 28-residue-encoding repeats, or convergent evolution of an originally non-repetitive ancestral MHC rod gene must account for the observed structure of the rod-encoding portion of present-day MHC genes.",
+    "removedWords": [
+      "rat",
+      "gene",
+      "calculated",
+      "portion",
+      "little"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question88": {
+    "indices": [
+      2,
+      40,
+      72,
+      86,
+      90
+    ],
+    "originalString": "G protein-coupled receptors (GPCRs) are part of multi-protein networks called 'receptosomes'. These GPCR interacting proteins (GIPs) in the receptosomes control the targeting, trafficking and signaling of GPCRs. PDZ domain proteins constitute the largest protein family among the GIPs, and the predominant function of the PDZ domain proteins is to assemble signaling pathway components into close proximity by recognition of the last four C-terminal amino acids of GPCRs. We present here a machine learning based approach for the identification of GPCR-binding PDZ domain proteins. In order to characterize the network of interactions between amino acid residues that contribute to the stability of the PDZ domain-ligand complex and to encode the complex into a feature vector, amino acid contact matrices and physicochemical distance matrix were constructed and adopted. This novel machine learning based method displayed high performance for the identification of PDZ domain-ligand interactions and allowed the identification of novel GPCR-PDZ domain protein interactions.",
+    "removedWords": [
+      "receptors",
+      "predominant",
+      "learning",
+      "characterize",
+      "interactions"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question89": {
+    "indices": [
+      21,
+      86,
+      116,
+      185,
+      205
+    ],
+    "originalString": "Rae1 performs multiple functions in animal systems, acting in interphase as an mRNA export factor and during mitosis as a mitotic checkpoint and spindle assembly regulator. In this study we characterized multiple functions of Rae1 in plants. Virus-induced gene silencing of Nicotiana benthamiana Rae1, NbRae1, which encodes a protein with four WD40 repeats, resulted in growth arrest and abnormal leaf development. NbRae1 was mainly associated with the nuclear envelope during interphase, and NbRae1 deficiency caused accumulation of poly(A) RNA in the nuclei of leaf cells, suggesting defective mRNA export. In the shoot apex, depletion of NbRae1 led to reduced mitotic activities, accompanied by reduced cyclin-dependent kinase (CDK) activity and decreased expression of cyclin B1, CDKB1-1, and histones H3 and H4. The secondary growth of stem vasculature was also inhibited, indicating reduced cambial activities. Differentiated leaf cells of NbRae1-silenced plants exhibited elevated ploidy levels. Immunolabeling in BY-2 cells showed that NbRae1 protein localized to mitotic microtubules and the cell plate-forming zone during mitosis, and recombinant NbRae1 directly bound to microtubules in vitro. Inhibition of NbRae1 expression in BY-2 cells using a beta-estradiol-inducible RNAi system resulted in severe defects in spindle organization and chromosome alignment and segregation, which correlated with delays in cell cycle progression. Together, these results suggest that NbRae1 plays a dual role in mRNA export in interphase and in spindle assembly in mitosis.",
+    "removedWords": [
+      "checkpoint",
+      "defective",
+      "histones",
+      "severe",
+      "results"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question9": {
+    "indices": [
+      3,
+      12,
+      42,
+      145,
+      179
+    ],
+    "originalString": "Activation of protein kinase G (PKG) by cyclic guanosine 3,5-monophosphate (cGMP) has become of considerable interest as a novel molecular approach for the induction of apoptosis in cancer cells. This study was conducted to investigate the role of PKG isoforms in the regulation of cell growth in human breast cancer cell lines MCF-7 and MDA-MB468. The expression levels of PKG isoforms were also examined using real-time reverse transcriptase polymerase chain reaction. No differences in the gene expression of PKG isoforms were observed between MCF-7 and MDA-MB-468 cells. To investigate the effects of PKG isoforms on the regulation of cell growth, the cGMP analogues 8-APT-cGMP (PKGIα activator), 8-Br-PET-cGMP (PKGIβ activator) and 8-pCPT-cGMP (PKGII activator) were employed. Apoptosis was assessed with the Annexin-V-propidium iodide (PI) staining, cell cycle analysis and caspase-3/9 activity assay. Treatment of MCF-7 and MDA-MB-468 cells with 8-Br-PET-cGMP resulted in a concentration-dependent cell growth inhibition and apoptosis, whereas neither PKGIα nor PKGII activators had any effect on the cell growth. The role of PKGIβ in the inhibition of cell growth was confirmed using PKGI and PKGII inhibitors. The present study is the first to demonstrate the involvement of PKGIβ in the inhibition of cell growth and induction of apoptosis in breast cancer cells.",
+    "removedWords": [
+      "kinase",
+      "become",
+      "regulation",
+      "inhibition",
+      "present"
+    ],
+    "topic": "cell_line_tumor"
+  },
+  "Question90": {
+    "indices": [
+      17,
+      21,
+      78,
+      108,
+      189
+    ],
+    "originalString": "Epsin N-terminal homology (ENTH) domains occur in proteins of either the epsin or epsin-related (epsinR) form. They principally function in clathrin-mediated trafficking and membrane deformation. Both epsin and epsinR possess clathrin-binding motifs, but only epsin incorporates a ubiquitin-interaction motif (UIM). To better understand the origins of ENTH-domain proteins and their functions, we performed detailed comparative genomics and phylogenetics on the epsin family. The epsin ENTH-UIM configuration is an architecture restricted to yeast and animals. Further, we undertook functional analysis in Trypanosoma brucei (T. brucei), a divergent organism possessing a single ENTH-domain protein (TbEpsinR). TbEpsinR has a cellular location similar to both epsin and epsinR at plasma membrane clathrin budding sites and endosomal compartments, and associates with clathrin, as demonstrated by coimmunoprecipitation. Knockdown of TbEpsinR leads to a significant decrease in the intracellular pools of multiple surface antigens, without affecting bulk membrane internalization. Therefore, despite lacking the UIM, TbEpsinR maintains a similar role to metazoan epsin in endocytosis and participates as a clathrin-associated adaptor. We suggest that recruitment of a UIM to the ENTH-domain proteins was not essential for participation in endocytosis of ubiquitylated molecules, and is presumably a specific innovation restricted to higher eukaryotes.",
+    "removedWords": [
+      "principally",
+      "trafficking",
+      "analysis",
+      "budding",
+      "innovation"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question91": {
+    "indices": [
+      41,
+      51,
+      60,
+      93,
+      145
+    ],
+    "originalString": "We have demonstrated that targeted mutagenesis can be accomplished in maize plants by excision, activation, and subsequent elimination of an endonuclease in the progeny of genetic crosses. The yeast FLP/FRT site-specific recombination system was used to excise and transiently activate the previously integrated yeast I-SceI homing endonuclease in maize zygotes and/or developing embryos. An artificial I-SceI recognition sequence integrated into genomic DNA was analyzed for mutations to indicate the I-SceI endonuclease activity. Targeted mutagenesis of the I-SceI site occurred in about 1% of analyzed F1 plants. Short deletions centered on the I-SceI-produced double-strand break were the predominant genetic lesions observed in the F1 plants. The I-SceI expression cassette was not detected in the mutant F1 plants and their progeny. However, the original mutations were faithfully transmitted to the next generation indicating that the mutations occurred early during the F1 plant development. The procedure offers simultaneous production of double-strand breaks and delivery of DNA template combined with a large number of progeny plants for future gene targeting experiments.",
+    "removedWords": [
+      "previously",
+      "developing",
+      "genomic",
+      "break",
+      "production"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question92": {
+    "indices": [
+      18,
+      19,
+      84,
+      92,
+      152
+    ],
+    "originalString": "The torI gene has been identified by using a genetic multicopy approach as a negative regulator of the torCAD operon that encodes the trimethylamine N-oxide reductase respiratory system in Escherichia coli. The negative effect was due to a previously unidentified small ORF (66 aa) of phage origin that we called torI for Tor inhibition. Overexpression of torI led to an 8-fold decrease of the torCAD operon transcription. This operon is positively regulated, in the presence of trimethylamine N-oxide, by a four-step phosphorelay involving the TorS sensor and the TorR response regulator. Epistatic experiments showed that TorI acts downstream of TorS and needs the presence of TorR. In vitro experiments showed that it is neither a TorR phosphatase nor a histidine kinase inhibitor and that it binds to the effector domain of TorR. Unexpectedly, TorI did not impede TorR DNA binding, and we propose that it may prevent RNA polymerase recruitment to the torC promoter. This study thus reveals a previously uncharacterized class of response regulator inhibitors.",
+    "removedWords": [
+      "torCAD",
+      "operon",
+      "TorS",
+      "experiments",
+      "torC"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question93": {
+    "indices": [
+      17,
+      30,
+      39,
+      85,
+      96
+    ],
+    "originalString": "Molecular dynamics simulations are used to investigate dynamics and intramolecular interactions of the HIV-1 transactivator (Tat) in aqueous solution. The calculations are based on the AMBER force field with particle mesh Ewald treatment for long-range electrostatics. The Tat structure exhibits a large flexibility, consistent with its absence of secondary structure elements. From an analysis of the correlation matrix and of electrostatic interactions we suggest that segments expressed by the two exons (amino acids 1-72 and 73-86, respectively) exhibit rather separated dynamic and energetic properties. We also identify intramolecular interactions of importance for structure stabilization. In particular, significant electrostatic interactions are recognized between the N-terminus and the basic domain of the protein, consistent with site-directed mutagenesis performed in this work.",
+    "removedWords": [
+      "aqueous",
+      "mesh",
+      "exhibits",
+      "also",
+      "significant"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question94": {
+    "indices": [
+      2,
+      3,
+      13,
+      18,
+      25
+    ],
+    "originalString": "The amino acid sequence of rat ribosomal protein L34 was deduced from the nucleotide sequence in a recombinant cDNA and confirmed from the NH2-terminal amino acid sequence of the protein. Ribosomal protein L34 contains 117 amino acids (the NH2-terminal methionine is removed after translation of the mRNA) and has an Mr of 13,498. Hybridization of the cDNA to digests of nuclear DNA suggests that there are 7-9 copies of the L34 gene. The mRNA for the protein is about 630 nucleotides in length.",
+    "removedWords": [
+      "acid",
+      "sequence",
+      "nucleotide",
+      "cDNA",
+      "acid"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question95": {
+    "indices": [
+      22,
+      42,
+      109,
+      214,
+      239
+    ],
+    "originalString": "Analyses of apolipoprotein II mRNA with chemical and enzymatic probes showed that double- and single-stranded regions were distributed uniformly along the mRNA except for a large (72 nucleotides) single-stranded region containing the translation stop codon. Secondary structure models constrained by the experimental data were made by varying the distance (along the mRNA) over which base pairing was allowed. Four prominent secondary structures were seen with restrictions of 165, 330, or 659 nucleotides suggesting that such structures from via local interactions over distances of 50-120 nucleotides. Predicted long range interactions involve only 2-3 base pairs while local interactions involve helices of 4-10 base pairs. Predicted helices of greater than or equal to 4 base pairs occur primarily within exons, raising the possibility that prominent secondary structures in mRNAs may be largely due to intraexonic base pairing. Tests of single- and double-stranded domains by oligonucleotide-directed RNase H cleavage and primer extension were in accord with the structure model and with nuclease and chemical modification data. The model predicting base pairing between the coding and the 3' noncoding regions was tested by RNase H cleavage followed by oligo(dT)-cellulose chromatography to separate 5' and 3' mRNA fragments. Most (82%) of the 5' fragment remained associated with the 3' noncoding region in a structure with a tm = 50 degrees C in 0.2 M Na+ suggesting that this stem could be stable in vivo. This stem may be stable in the isolated mRNA, but would likely occur transiently in polyribosomal apolipoprotein II mRNA due to ribosome transit through the 5' side of the stem. Alternate structures may occur in this region during ribosome transit and play a role in translation termination or in determining the susceptibility of the mRNA to degradation.",
+    "removedWords": [
+      "except",
+      "data",
+      "equal",
+      "degrees",
+      "would"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question96": {
+    "indices": [
+      51,
+      64,
+      65,
+      87,
+      142
+    ],
+    "originalString": "The sequences involved in enhancement of transcription of the Xenopus U2 small nuclear RNA gene by the distal sequence element (DSE) of its promoter were analyzed in detail by microinjection of mutant genes into Xenopus oocytes. The DSE was shown to be roughly 60 base pairs long. Within this region, four motifs were found to contribute to DSE function: an ATGCAAAT octamer sequence, an SpI binding site, and two additional motifs which, since they are related in sequence, may bind the same transcription factor. These motifs were named D2 (for DSE; U2). Both the octamer sequence and the SpI site bound nuclear factors in vitro, but no factor binding to the D2 motifs was detected. All four elements were independently capable of enhancing transcription of the U2 gene to some extent. Furthermore, when assayed under both competitive and noncompetitive conditions, the individual units of the DSE displayed functional redundancy.",
+    "removedWords": [
+      "motifs",
+      "SpI",
+      "binding",
+      "named",
+      "units"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question97": {
+    "indices": [
+      20,
+      30,
+      55,
+      99,
+      181
+    ],
+    "originalString": "The biosynthesis of the 2'-(5\"-phosphoribosyl)-3'-dephospho-coenzyme A (CoA) prosthetic group of citrate lyase (EC 4.1.3.6), a key enzyme of citrate fermentation, proceeds via the initial formation of the precursor 2'-(5\"-triphosphoribosyl)-3'-dephospho-CoA and subsequent transfer to apo-citrate lyase with removal of pyrophosphate. In Escherichia coli, the two steps are catalyzed by CitG and CitX, respectively, and the corresponding genes are part of the citrate lyase gene cluster, citCDEFXG. In the homologous citCDEFG operon of Klebsiella pneumoniae, citX is missing. A search for K. pneumoniae citX led to the identification of a second genome region involved in citrate fermentation which comprised the citWX genes and the divergent citYZ genes. The citX gene was confirmed to encode holo-citrate lyase synthase, whereas citW was shown to encode a citrate carrier, the third one identified in this species. The citYZ genes were found to encode a two-component system consisting of the sensor kinase CitY and the response regulator CitZ. Remarkably, both proteins showed >or=40% sequence identity to the citrate-sensing CitA-CitB two-component system, which is essential for the induction of the citrate fermentation genes in K. pneumoniae. A citZ insertion mutant was able to grow anaerobically with citrate, indicating that CitZ is not essential for expression of citrate fermentation genes. CitX synthesis was induced to a basal level under anaerobic conditions, independent of citrate, CitB, and CitZ, and to maximal levels during anaerobic growth with citrate as the sole carbon source. Similar to the other citrate fermentation enzymes, CitX synthesis was apparently subject to catabolite repression.",
+    "removedWords": [
+      "proceeds",
+      "subsequent",
+      "genes",
+      "genes",
+      "insertion"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question98": {
+    "indices": [
+      24,
+      60,
+      91,
+      104,
+      123
+    ],
+    "originalString": "Murine monoclonal antibodies raised against the carcinoma-associated MUC1 mucin have applications in the diagnosis and therapy of human cancer. Many of these antibodies define linear epitopes of three, four or five amino acids within an immunodominant region of the MUC1 protein core. Various synthetic peptides which incorporated this region were prepared and covalently linked to agarose beads for use as affinity matrices. An unrelated peptide was identified as a mimotope for one of the anti-MUC1 antibodies using phage display technologies and this was also evaluated as a potential ligand in an affinity matrix. Epitope affinity chromatographic purification of an anti-MUC1 antibody was performed using hybridoma tissue culture supernatants as sample. Following sample application and column washing, antibody was desorbed from the matrix by gradient elution with increasing concentrations of NaSCN. The procedure has proved efficient for the purification of anti-MUC1 antibodies and the concentration of NaSCN required for antibody desorption gives a measure of the relative binding affinity of the antibody for the peptide epitope matrix so that separation strategies may be optimised.",
+    "removedWords": [
+      "linear",
+      "affinity",
+      "affinity",
+      "hybridoma",
+      "gradient"
+    ],
+    "topic": "molecular_sequence_data"
+  },
+  "Question99": {
+    "indices": [
+      82,
+      96,
+      141,
+      174,
+      183
+    ],
+    "originalString": "A temperature-sensitive (ts) mutation in the ffs gene, encoding 4.5 S RNA, gives rise to cell division and DNA replication defects in Caulobacter crescentus. The ffs gene is transcribed throughout the cell-cycle and is transcribed at similar rates in mutant (ffs36) and wild-type strains, but in the mutant the 4.5 S RNA is unstable leading to lower 4.5 S RNA levels. The ffs36 phenotype results from a single base change in one of the non-conserved stems of the mature RNA, and is completely rescued by a compensating mutation in the opposite strand, providing confirmation of the predicted secondary structure of the 4.5 S RNA. The Caulobacter ffs gene was shown to be functionally comparable to the Escherichia coli ffs gene by complementation. Comparison of the ffs36 strain to a ts secA strain of Caulobacter, also having cell-cycle and DNA replication phenotypes, showed that both exhibit a permanent induction of a heat shock response at the restrictive temperature. To explain the phenotype of both the secA and ffs36 strains, we propose that a cell-cycle checkpoint prevents further progression through the cell-cycle in response to increased intracellular levels of heat shock and misfolded proteins.",
+    "removedWords": [
+      "completely",
+      "predicted",
+      "showed",
+      "prevents",
+      "increased"
+    ],
+    "topic": "molecular_sequence_data"
+  }
+}

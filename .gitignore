@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 *.pyc
 *.DS_Store
 ignore*
+=======
+# Large Files
+
+medline_scripts/scripts_output/*
+>>>>>>> f02d37d8f0bc494819877394430791d29784b347

@@ -1,0 +1,381 @@
+# fe_03_03973.sph
+# Transcribed by BBN/WordWave
+
+0.00 1.07 B: (( [noise] hello )) 
+
+0.13 1.19 A: hello 
+
+1.35 2.32 B: (( [noise] )) 
+
+1.96 3.49 A: hi i'm tina 
+
+3.51 5.11 B: hi emily [noise] [noise] 
+
+4.49 6.96 A: hi emily where are you calling from 
+
+6.94 9.26 B: i am in los angeles [noise] [noise] 
+
+8.73 11.39 A: oh really i'm in san frisco area 
+
+10.90 11.94 B: (( [noise] where [noise] )) 
+
+11.69 12.89 A: (( san francisco )) 
+
+12.84 17.25 B: [noise] san francisco [noise] yeah um right now [noise] i'm driving around in l._a. 
+
+14.01 14.88 A: yeah 
+
+16.98 18.16 A: oh 
+
+17.70 18.79 B: (( so )) 
+
+18.65 20.81 A: [laughter] so the topic 
+
+19.47 25.90 B: [laughter] uh comedy and the acceptable lines [noise] between acceptable humor 
+
+24.73 25.68 A: right 
+
+26.58 27.64 B: um 
+
+28.58 38.75 B: [noise] that's kind of an interesting topic i don't know i mean i don't think that [noise] it's been a long time since i've really found [noise] any comedy in bad taste 
+
+30.72 31.71 A: very 
+
+37.96 38.94 A: right 
+
+39.07 45.33 B: i maybe that's because the you know we're so saturated with things that are sort of 
+
+46.89 49.90 B: [noise] you know are [noise] riske or [mn] 
+
+48.24 48.94 A: (( um )) 
+
+49.23 53.84 A: oh yeah a lot of a lot of things are going on now but you know it's hard to draw the line where it's 
+
+53.91 55.50 A: (( it's unacceptable )) 
+
+55.22 56.23 B: (( [noise] right )) 
+
+55.75 57.51 A: um because 
+
+57.95 65.51 A: i i find uh see i have a great sense of humor i think and i'm always making everyone laugh and everything but it's hard because when you're like in a new situation or a new setting 
+
+65.67 69.87 A: you've got to really watch what you say because it could be misinterpreted 
+
+69.89 76.14 B: of course and culturally this is different and you know you need to draw cultural lines of course and uh 
+
+73.11 74.45 A: oh exactly 
+
+76.04 77.11 A: (( there's so many )) 
+
+76.45 82.53 B: i think here you know we're used to comedy sort of picking on our political leaders and picking on everything um 
+
+79.50 80.48 A: right 
+
+83.03 90.64 B: you know every night and millions of people watch late night shows and that's all they do and they say yeah and 
+
+84.59 85.49 A: right 
+
+88.03 92.16 A: exactly first fifteen minutes of any late late night show is comedy 
+
+91.28 95.95 B: r- right and you have to take it with a grain of salt i think and 
+
+95.08 100.53 A: oh exactly and all actually the hottest shows the top ten shows the majority of them are comedies 
+
+96.16 96.72 B: (( [mn] )) 
+
+100.42 101.40 B: right 
+
+101.16 110.73 A: you know so it's just it's really hard now because a lot of people like to think after you know the past couple of years really after september eleventh a lot of people have been very um 
+
+101.48 102.37 B: right 
+
+111.10 112.28 A: sensitive 
+
+112.44 113.38 B: right 
+
+112.61 121.45 A: when it comes to certain subjects and you've got to really tiptoe around you know the subject as it is now i mean as far as being unacceptable 
+
+122.47 127.74 A: it's hard for me to distinguish what between what's unacceptable and what isn't because the lines are so fine 
+
+125.58 126.21 B: (( mm )) 
+
+127.67 135.71 B: right and especially because of lot is acceptable to me you know and and to other people it's not the same i mean 
+
+130.55 132.70 A: oh yeah i i well 
+
+135.35 149.06 A: well i had a friend that told a joke that was just like a it it was basically like a fourth grader joke you know it's very plain simple funny cute off you know slapstick and when at work he told a c- a coworker about it and he was brought up on sexual harrassment charges 
+
+144.05 144.82 B: (( ah )) 
+
+149.05 153.63 A: and it had nothing to do with you know an invitation a proposition you know 
+
+149.44 150.13 B: mm 
+
+151.41 152.61 B: [noise] well 
+
+152.65 156.41 B: the coworker was brought up or the person who originally told the joke 
+
+155.88 158.50 A: the person that his son told him the joke 
+
+158.49 159.20 B: uh-huh 
+
+159.05 173.90 A: it was it was just a a a little joke that was you know cute little twisted sense of humor but it was nothing about sex nothing about uh body parts it was nothing about sexual orientation nothing like that it was just really cute with an innuendo behind it 
+
+166.52 167.08 B: (( [noise] )) 
+
+168.67 169.50 B: right 
+
+173.64 174.63 B: huh 
+
+173.78 179.02 A: and the coworker that he told it to was a new person who got very offended by it 
+
+178.75 180.32 B: oh wow 
+
+179.78 187.12 A: and he was brought up on sexual harrassment charges and was inevitably fired because of it i mean so the line 
+
+184.85 189.53 B: wow just because you told a joke repeated a joke 
+
+187.76 188.88 A: oh yeah 
+
+189.05 192.47 A: oh yeah but it was it was a er a joke that his fourth grade son told him 
+
+189.75 190.58 B: and 
+
+192.90 195.98 B: and there was nothing he what was the joke do you remember 
+
+192.96 193.91 A: and it was 
+
+195.52 204.36 A: yeah it was basically a a little boy um walks into a school setting little boy walks in late the teacher asks of him where have you been i've been on blueberry hill 
+
+204.49 205.35 B: uh-huh 
+
+204.50 209.65 A: another little boy walks in five minutes later and she says where have you been i've been on blueberry hill 
+
+209.49 210.33 B: uh-huh 
+
+209.94 214.76 A: another little boy walks in and she goes where have you been why are you late i've been on blueberry hill she goes my goodness 
+
+214.89 223.23 A: little girl walks in about twenty five minutes after that and she goes oh no don't tell me you were on top of blueberry hill she goes no ma'am i am blueberry hill 
+
+223.89 227.33 A: (( you know it's just like a it's it's a kids joke )) 
+
+224.08 230.24 B: (( wow that's not at all why would you bring someone up on sexual hara- hey i've heard that joke before that's a kids joke )) 
+
+228.05 238.15 A: i mean yeah it's it's like the kid didn't even know what it meant really but it's like the innuendo behind it and he was he was fired over it and i i couldn't believe it 
+
+232.24 233.31 B: right 
+
+234.39 235.23 B: right 
+
+237.96 240.05 B: what was he what was his position 
+
+239.99 241.50 A: i'm sorry [lipsmack] 
+
+241.04 243.28 B: what what did you say his position was again 
+
+243.17 245.88 A: well he was an account manager for a credit card company 
+
+246.64 249.43 B: [lipsmack] wow and he was fired over that joke 
+
+246.65 249.77 A: and he had been there he had been there for over five years 
+
+249.88 251.90 B: er what did the woman do 
+
+251.87 257.14 A: well she quit that's why how come he got fired is because initially when he went to her or when 
+
+252.27 253.07 B: er 
+
+257.32 266.92 A: we were all sitting around lunch you know having lunch and we were all joking around and you know just messing around welcoming her trying to make her feel comfortable because she was new so 
+
+260.20 261.12 B: uh-huh 
+
+266.82 267.85 B: uh-huh 
+
+266.96 276.87 A: we wanted to include her in our conversation and and we were talking and and he said oh i've got a great joke for you guys you know trying to lighten the mood and just cut the ice and just get to the point and just become friends 
+
+276.90 278.22 A: and um 
+
+278.38 287.67 A: he told the joke and she laughed well i guess after lunch that afternoon she went to the supervisor and i guess the supervisor asked how she was doing she said she was uncomfortable the supervisor enquired 
+
+286.38 289.46 B: with that just that joke was that the one she'd been 
+
+287.90 290.57 A: oh yeah because it was a sexual innuendo 
+
+291.41 293.86 A: and he was a male and she was a female 
+
+291.75 294.35 B: was it well what was her background 
+
+294.13 300.03 A: uh she er she was young basically just white young girl and he was probably about you 
+
+298.89 301.92 B: was she very religious was she where was she from 
+
+300.90 306.47 A: know i'm not sure i'm not really sure [noise] but she took it as a sexual innuendo towards her 
+
+306.37 308.46 B: that doesn't make any sense 
+
+307.75 316.26 A: yeah and i guess and she may have had some problems with maybe her father or something [laughter] i don't know but this guy was probably about fifteen er you know fifteen years older maybe i don't know 
+
+311.79 321.38 B: [laughter] [laughter] [laughter] that doesn't make any sense 'cause that wouldn't even come c- that joke wouldn't even come close to crossing any of my lines wow that doesn't make any sense 
+
+317.65 326.98 A: not at all i mean you should hear some of the jokes that i've said you know what and some of my best jokes are the dirtiest ones i know but you know what 
+
+322.24 323.42 B: right 
+
+325.72 328.86 B: (( right that doesn't make any sense my god )) 
+
+327.75 337.76 A: we all we all laughed about it and everything i mean the guy had been there for over five years and she because she quit she hung out for a couple of days after that and she quit because 
+
+337.86 352.46 A: it was too she quit and said it was too tense for her and she was having anxiety and blah blah blah and all this sort of sh- crap [laughter] and they called him in later in but initially he was written up and then he was like oh because she they were afraid that she was going to have a law suit against him 
+
+345.72 346.37 B: (( mm )) 
+
+352.61 358.52 B: hm because of this jo- and did they did they ever acknowledge that the joke was not 
+
+354.76 356.21 A: because she said it was too 
+
+358.60 360.82 B: you know i mean no they never 
+
+358.63 359.45 A: no 
+
+359.93 373.30 A: no because they said the innuendo could was there and there's such a small line between sexual harrassment you can't really tell jokes at work unless you know they're like knock knock jokes and they're i mean just any joke really i think is 
+
+372.48 386.61 B: right well it's so funny uh for me because i work in the entertainment industry and so my lines of sexual harassment were you know blurred about two years ago when i started this industry because if i went into other industry i would never accept 
+
+377.52 378.23 A: (( uh- huh )) 
+
+380.23 381.38 A: [laughter] 
+
+383.33 384.65 A: (( right [mn] )) 
+
+386.72 400.45 B: what i do i you know i'm on sets with like you know sometimes up to eighty guys and ten women and they just hit on you all day and and uh and that's what they do and and most 
+
+387.87 389.09 A: oh yeah 
+
+393.45 394.69 A: right 
+
+397.02 398.62 A: well i was engaged to a 
+
+399.27 405.50 A: i was engaged to a sailor at one point so i cuss like one you know so i'll just tell these jokes and it's just it's crazy 
+
+403.26 404.42 B: right 
+
+405.35 416.73 B: right so most of what i you know in terms of sexual harrassment it's like i don't even consider it sexual harrassment it's just the way that they relate to me and most of them are not threatening and occasionally once in a while they're a guy 
+
+410.74 411.87 A: oh yeah 
+
+416.52 426.64 B: who slips in who takes it a little too seriously and you know you have to back up but in terms of humor i mean uh certainly they tell jokes i mean i'm just used to it by now it's like 
+
+419.55 422.24 A: right well i think basically 
+
+425.40 427.62 A: yeah but it's like wi- with with 
+
+427.75 439.46 A: the sense of humor and the what you consider unacceptable and what you don't it's that's a fine line like er as is sexual harrassment because to me either one of those means you know something that's degrading 
+
+431.63 432.84 B: right 
+
+439.63 442.76 A: you know er it would be unacceptable for a degrading joke 
+
+439.69 440.54 B: right 
+
+442.74 443.59 B: right 
+
+442.99 454.63 A: or um it's like telling you know i have no problem with i think it's acceptable if you tell a fat joke in front of an overweight person [laughter] as long as they are comfortable with themselves you know it shouldn't be a problem 
+
+450.92 451.70 B: right 
+
+453.29 465.26 B: right right and i think any jokes that someone feels attacked with or then afterwards if somebody says something like well you don't like that joke is it too much for you or something like that that can make somebody uncomfortable but 
+
+457.03 458.07 A: oh yeah 
+
+462.48 463.52 A: yeah i think 
+
+464.34 467.19 A: eighty percent of any seinfield episode 
+
+467.21 469.33 A: can be considered unacceptable 
+
+469.01 470.57 B: (( of course )) 
+
+469.36 478.02 A: by a majority of people i mean we are constantly putting up with the stupid nazi thing you know and and i mean people totally take it the wrong way 
+
+471.54 472.76 B: right 
+
+475.02 479.01 B: right you know being mean to each other and it's yeah 
+
+478.41 484.84 A: i mean you've got to when it comes to humor i believe that you've got to take everything with a grain of salt and not take anything personal 
+
+484.64 485.84 B: right 
+
+485.13 491.68 A: because it's just er you if you took any part of it personal then you would definitely be 
+
+492.23 495.27 A: um offended more often than not 
+
+493.98 494.88 B: right 
+
+495.08 495.89 B: right 
+
+496.06 501.43 A: so uh as far as unacceptable and acceptable it's just a just a very very fine line and it also depends on the person 
+
+501.46 502.56 B: right 
+
+502.05 503.58 A: you know if you've got someone oh 
+
+502.56 512.89 B: i don't know i mean i think some of the funniest things are border line unacceptable but if they're smart that's the thing it's like you know i'm not very big on just 
+
+506.35 508.04 A: [laughter] exactly 
+
+512.72 522.25 B: you know dirty humor for the sake of being dirty humor but if some thing is intelligent and you know very sharp then that's what's funny it's like er 
+
+514.95 517.55 A: right er i mean it's funny healthy funny 
+
+520.81 523.51 A: well right i mean i used to do stand up comedy 
+
+523.89 527.58 A: at you know a little impromptu down here and i mean 
+
+526.17 526.99 B: uh-huh 
+
+527.86 536.56 A: [laughter] some of the stuff that i told you know it was it it varied i mean it was either really stupid but it was all life experience but i have a i have a wave of uh that's how i 
+
+533.78 534.65 B: right 
+
+536.83 539.84 A: tackle my every day life is through humor 
+
+539.66 540.54 B: right 
+
+540.15 549.00 A: because if i'm too serious you know if anyone's too serious it's just it'll kill you [laughter] you'll die very young you know so it's like a lot of the things that i've said i've repeated to 
+
+544.23 545.16 B: right 
+
+545.73 546.78 B: right 
+
+549.82 559.90 A: friends at work you know that i've made became friends with or whatever a- and it was acceptable at that point but had i not known them as long as i had it probably would not have been acceptable 
+
+559.74 560.71 B: right 
+
+560.77 562.78 A: you know and i don't know 
+
+563.34 564.73 B: (( mm it )) 
+
+564.56 567.81 A: but like i said it is a very fine line between 
+
+567.95 571.20 A: you know the humor what's acceptable or not 
+
+571.88 574.30 A: it's a tough subject [laughter] 
+
+574.16 575.72 B: is i 
+
+575.52 577.23 A: i mean it's not but it is 
+
+578.06 591.93 B: well because [noise] i can't there's you know it's just er it's very personal too of what's acceptable to someone and i think i just steer clear of the things that i don't like and you know and i wouldn't say don't do them ever but 
+
+583.45 584.57 A: oh yeah 
+
+588.64 590.03 A: exactly 
+
+591.36 594.59 A: well there's different types of comedy though too there's different types of humor 
+
+592.19 595.98 B: it just doesn't it doesn't make me laugh you know and 
+
+595.05 596.31 A: exactly 
+
+596.34 599.89 A: i mean just like you know different types of of you know um 
+

@@ -1,0 +1,6 @@
+https://console.aws.amazon.com/elasticbeanstalk/?region=us-west-1#/newApplication
+?applicationName=MapleClozeTest
+&solutionStackName=Node.js
+&sourceBundleUrl=https://s3.amazonaws.com/cloze-test-bucket/web_app.zip
+&environmentType=SingleInstance
+&instanceType=t1.micro

@@ -1,0 +1,407 @@
+# fe_03_03784.sph
+# Transcribed by BBN/WordWave
+
+0.18 1.45 A: hi 
+
+0.81 2.93 B: hi how are you 
+
+2.49 5.30 A: i'm fine my name is mike zimmer 
+
+5.43 7.65 B: hi mike my name is barbara 
+
+7.01 8.27 A: hi barbara 
+
+8.52 10.11 A: where are you at 
+
+9.63 12.55 B: i'm at uh jenkintown right now 
+
+12.44 13.84 A: where's that 
+
+13.44 15.74 B: um it's right outside of philadelphia 
+
+15.36 16.54 A: (( oh okay )) 
+
+15.95 17.12 B: how about you 
+
+17.04 20.89 A: i'm in mar- maryland a town called mount terry maryland 
+
+20.32 23.33 B: oh and how did you find out about this 
+
+23.50 33.92 A: um my wife uh gets a lot of different kinds of mystery shops and things like that on the internet and uh she uh 
+
+34.05 37.19 A: somewhere got an email about it or something 
+
+36.49 37.44 B: oh 
+
+37.87 42.65 B: yeah so we're supposed to talk about a 
+
+43.19 46.11 B: a sense of comedy okay 
+
+44.59 45.68 A: uh-huh 
+
+46.75 48.97 B: okay so what 
+
+47.30 51.81 A: what what what is uh in bad taste in comedy to you 
+
+52.86 56.60 B: bad taste is when it offends people 
+
+56.01 57.03 A: uh-huh 
+
+56.64 59.38 B: or when other people get hurt 
+
+58.94 60.10 A: uh-huh 
+
+60.09 63.53 B: i found tom green to be offensive 
+
+63.37 65.08 A: i don't know who that is 
+
+64.02 66.45 B: (( uh he )) 
+
+66.64 75.04 B: there is a program on m._t._v. i guess he's put out some movies and he just kind of makes fun of people and makes 
+
+75.44 76.55 B: um 
+
+77.10 79.30 B: he's mean to his 
+
+79.39 81.29 B: family and his friends 
+
+80.72 82.04 A: (( i see )) 
+
+81.36 82.77 B: so i didn't like it 
+
+82.25 84.53 A: that doesn't sound very funny to me 
+
+83.97 86.29 B: no it's not how about you 
+
+86.24 87.57 A: um i 
+
+88.24 90.20 A: don't really care for a 
+
+90.39 94.64 A: a lot of rough language i just don't find that humorous 
+
+95.33 99.21 A: uh i'm not sure that really offends me i just don't find it funny 
+
+99.60 100.87 A: um 
+
+101.30 103.58 A: i don't think you should make fun of 
+
+103.96 105.79 A: people's you know 
+
+106.23 112.32 A: physical bodies or i mean if they're born a certain way or something that that offends me 
+
+111.73 113.17 B: mhm 
+
+112.77 117.52 A: uh something that a person can't help i think that's offensive 
+
+118.14 119.10 B: okay 
+
+119.99 125.76 B: and what types of things has made you like what kind of comedy do you like 
+
+126.45 128.77 A: (( uh i like british comedy u. )) 
+
+129.15 129.99 B: (( oh )) 
+
+129.30 131.03 A: (( like um )) 
+
+133.55 139.07 A: monty python's flying circus i like that i like some of the modern british comedy 
+
+138.63 139.77 B: mhm 
+
+139.34 140.73 A: (( um )) 
+
+142.99 148.62 A: what else do i like i like uh bill cosby from his records that 
+
+150.14 155.07 A: he uh especially things he did like in the seventies and late sixties 
+
+155.76 158.68 A: i like steve martin i think he's funny 
+
+157.01 158.48 B: mhm 
+
+159.52 165.91 A: when i was a kid i used to do little steve martin routines from like the eighties 
+
+165.97 174.63 A: i would memorize his record albums and i would do these routines for my uh classmates and stuff in high school and junior high school 
+
+175.99 178.58 A: it's kind of silly now when i think about it but i 
+
+178.62 180.71 A: i really like steve martin 
+
+180.40 182.37 B: he's he's so funny 
+
+182.54 183.29 B: (( he's )) 
+
+184.82 187.71 A: what are some of things that you like in comedy 
+
+187.73 188.81 B: (( a )) 
+
+189.61 190.76 B: (( funny )) 
+
+193.37 194.95 A: oh yeah i like that too 
+
+195.65 197.17 B: (( guy )) 
+
+197.28 198.49 B: um 
+
+201.19 202.24 B: i like 
+
+202.73 203.65 B: (( i guess )) 
+
+204.21 205.25 A: uh-huh 
+
+206.12 207.25 B: (( i )) 
+
+211.54 212.33 B: (( like )) 
+
+215.01 218.99 B: (( political satire i like um i )) 
+
+219.41 220.31 A: okay 
+
+220.25 222.15 B: (( always i )) 
+
+224.07 225.83 B: (( liked i like improv )) 
+
+226.83 228.97 B: (( comedy i like um let's )) 
+
+229.05 232.13 A: yeah there there's several of them the the 
+
+232.16 235.17 A: earliest version of that was candid camera 
+
+235.33 237.65 B: (( see i like those kind )) 
+
+236.59 239.86 A: i don't think i don't think candid camera is on the air right now 
+
+239.37 241.32 B: (( of the those television )) 
+
+240.81 244.98 A: they did a comeback about three years they had the 
+
+245.02 248.78 A: son of the guy who actually originally produced the show 
+
+249.02 254.35 A: the son was the host and suzanne somers was like the the you 
+
+254.84 256.43 A: (( know sidekick )) 
+
+256.99 258.70 A: and that was a pretty funny show 
+
+259.49 261.56 A: uh you know i do like i 
+
+261.63 263.90 A: do you like saturday night live 
+
+264.18 266.07 B: (( shows that )) 
+
+265.51 267.29 A: yeah i'm the same way 
+
+266.09 268.21 B: (( have like hidden camera )) 
+
+268.51 272.01 A: i like it when they actually do something funny you know 
+
+272.15 273.12 A: (( sometimes [mn] )) 
+
+273.36 279.05 A: times i've been i've tried to watch it more recently it seems like all their jokes are just sex jokes 
+
+278.62 279.68 B: (( or )) 
+
+279.26 283.39 A: like okay uh i mean it's kind of immature i think 
+
+283.87 288.07 A: it doesn't really take uh intelligence or any kind of uh 
+
+288.78 293.99 A: thoughtfulness to tell some of the jokes they they seem to come up with nowadays 
+
+295.51 296.29 B: (( something )) 
+
+296.38 299.19 B: (( and people um do you )) 
+
+299.01 299.92 A: okay 
+
+299.61 300.54 B: (( know )) 
+
+301.07 303.22 A: oh yeah seinfeld is hilarious 
+
+303.31 304.59 B: (( what )) 
+
+304.61 305.72 B: (( television )) 
+
+306.59 307.74 B: (( show )) 
+
+308.16 309.89 B: (( i'm talking about the like )) 
+
+309.40 311.44 A: i've never seen either one of those 
+
+310.84 312.18 B: (( the totally )) 
+
+312.20 315.22 A: i sort of know what best in show is about 
+
+314.72 316.90 B: (( hidden camera or something )) 
+
+317.47 318.51 B: (( candid )) 
+
+319.82 321.69 B: (( camera yeah i )) 
+
+321.88 322.90 B: (( like stuff )) 
+
+323.77 325.43 A: no i'm not familiar with it 
+
+326.71 330.91 A: i like movies but i don't really go all that much i generally wait for the video 
+
+334.15 335.09 B: like 
+
+336.29 337.75 B: (( that no but they're )) 
+
+337.80 340.85 B: (( similar yeah i like old saturday night live not so )) 
+
+340.45 341.46 A: uh-huh 
+
+340.91 343.19 B: (( much new saturday night live mhm )) 
+
+343.38 344.30 A: uh-huh 
+
+343.71 345.28 B: (( [laughter] )) 
+
+345.70 349.92 A: i used to watch the simpsons regularly but i haven't really watched them in a while 
+
+351.36 352.95 B: (( uh-huh sure i like )) 
+
+355.02 355.77 B: (( um )) 
+
+355.04 358.79 A: do you ever watch uh everyone everybody loves raymond 
+
+358.48 359.46 B: (( reality )) 
+
+364.32 365.62 A: (( no )) 
+
+367.25 369.01 B: (( based comedy )) 
+
+371.60 372.57 B: (( a )) 
+
+373.15 374.87 B: (( lot too like )) 
+
+374.89 375.68 B: (( seinfeld )) 
+
+375.84 377.74 B: (( yeah where like the movie )) 
+
+378.76 379.96 B: like um 
+
+380.36 382.03 B: (( best in show or waiting )) 
+
+382.62 383.25 B: (( fur )) 
+
+383.66 385.85 B: (( guffman they're hilarious there's )) 
+
+386.26 387.13 B: (( a )) 
+
+388.60 389.91 B: (( new one something )) 
+
+389.60 391.50 A: (( that's one )) 
+
+400.34 401.47 B: (( about the )) 
+
+403.18 404.20 B: (( wind )) 
+
+405.76 406.58 B: (( blowing )) 
+
+408.29 409.46 B: and it's 
+
+410.38 411.52 B: (( um i )) 
+
+415.48 417.83 B: (( think it's coming )) 
+
+421.63 422.47 B: (( out )) 
+
+423.63 424.39 B: (( in )) 
+
+425.06 429.75 A: (( of my favorite current comedies )) 
+
+432.13 436.09 B: (( movie theaters but it's from the same director do )) 
+
+438.07 440.29 B: (( you know him oh )) 
+
+441.53 443.23 B: (( okay yeah i like )) 
+
+444.77 447.61 B: (( i think that uh the )) 
+
+447.71 451.53 B: (( reality based is really funny too though like seinfeld )) 
+
+451.90 452.90 B: (( cracks )) 
+
+453.21 455.41 B: (( me up and the simpsons )) 
+
+457.63 459.47 B: (( they're great )) 
+
+461.04 462.61 B: (( i don't )) 
+
+464.63 465.83 B: (( really )) 
+
+467.77 468.49 B: (( watch )) 
+
+470.21 471.59 B: (( it regularly )) 
+
+473.27 474.17 B: (( but )) 
+
+473.47 476.69 A: (( i think that's about the only )) 
+
+477.10 478.20 A: (( comedy )) 
+
+481.64 482.67 A: (( on t._v. )) 
+
+486.77 489.39 A: (( that )) 
+
+489.23 491.29 B: (( i don't know )) 
+
+491.46 492.57 B: (( not really )) 
+
+493.24 494.41 B: (( uh-huh )) 
+
+494.83 496.25 B: i have 
+
+497.74 498.83 B: (( you seen )) 
+
+500.28 502.88 B: (( that seventies show oh no i don't watch too much )) 
+
+505.00 506.31 A: (( i )) 
+
+519.23 520.96 B: (( t._v. but i )) 
+
+524.31 525.10 B: (( think )) 
+
+525.68 529.19 B: (( i think that's pretty funny )) 
+
+530.15 531.77 B: (( i like them um )) 
+
+533.14 533.85 B: (( the )) 
+
+534.43 535.47 B: (( way )) 
+
+535.85 539.72 B: (( they depict the mid the mid west a lot because )) 
+
+542.77 546.20 A: (( watch right )) 
+
+545.87 546.76 B: (( my )) 
+
+548.35 549.10 A: (( now )) 
+
+550.29 560.61 A: (( yeah )) 
+
+563.23 564.97 A: (( it doesn't )) 
+
+565.46 566.31 A: (( really )) 
+
+571.52 573.62 B: (( boyfriend is from minnesota )) 
+
+575.18 576.20 A: (( do )) 
+
+578.93 579.85 B: uh-huh 
+
+579.19 580.44 A: (( anything )) 
+
+581.52 582.89 A: (( for me is )) 
+
+585.04 589.03 A: (( that right )) 
+
+590.90 592.64 B: (( so i )) 
+
+593.57 594.73 B: (( think that )) 
+
+595.96 597.72 B: (( it humors )) 
+
+598.06 598.96 B: (( me )) 
+
+599.47 599.89 A: (( [mn] )) 
+

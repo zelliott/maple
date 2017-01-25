@@ -1,0 +1,443 @@
+# fe_03_04704.sph
+# Transcribed by BBN/WordWave
+
+0.00 0.41 A: (( [noise] )) 
+
+0.07 2.79 B: [noise] hello 
+
+0.91 1.79 A: hello 
+
+2.80 3.72 A: hi 
+
+3.72 8.04 B: hi [noise] [mn] ah this is john [noise] [noise] [noise] 
+
+4.70 5.96 A: (( [noise] [noise] ah who's this )) 
+
+7.30 9.96 A: hi john my name's christie where are you at 
+
+9.81 13.80 B: i'm in brentwood los angeles california [sigh] y- 
+
+12.54 14.25 A: [sigh] oh wow 
+
+14.74 17.17 A: is this the first call you've done for this or 
+
+16.56 17.87 B: yeah 
+
+17.48 18.53 A: yeah [noise] 
+
+18.17 19.23 B: how about you 
+
+18.82 30.94 A: it i i did one other one but it wasn't [noise] i mean [sigh] i don't know it almost seems too [laughter] good to be true because it was so easy you just talk to somebody for ten minutes it didn't seem like 
+
+28.88 30.45 B: [noise] [laughter] it's so funny 
+
+30.92 34.01 A: that big of a deal [sigh] so what are your hobbies [sigh] 
+
+33.79 35.40 B: (( [mn] [lipsmack] um )) 
+
+36.25 42.29 B: [lipsmack] h- hobbies i like i mean [sigh] see i hate that question like what are your hobbies 
+
+41.73 43.16 A: (( uh-huh [noise] )) 
+
+42.38 50.85 B: because it's like yeah i have hobbies but i don't like regularly pursue them actively you know [sigh] like i love to water ski and um 
+
+47.75 48.76 A: yeah 
+
+51.92 53.35 B: (( [lipsmack] u- um )) 
+
+53.81 57.06 B: like exercise but i don't do it as much as i should i guess [sigh] 
+
+56.94 58.34 A: yeah just don't 
+
+57.67 62.12 B: well i mean if w- watching movies is a hobby then i'll say that yeah 
+
+59.41 62.89 A: (( [lipsmack] that could be a hobby what's your favorite movie )) 
+
+62.53 67.27 B: [sigh] [sigh] um right now my favorite movie is wet hot american summer 
+
+67.58 69.36 A: [sigh] [mn] hot american summer 
+
+69.03 72.07 B: wet hot american summer it's a comedy it's it's 
+
+71.33 73.78 A: never heard of it 
+
+72.38 80.20 B: independent it's not very like mainstream but it's s- so funny janeane janeane garofalo was in it and um 
+
+76.16 78.17 A: is it 
+
+78.40 79.81 A: oh i like her 
+
+79.82 81.64 A: i like her a lot [noise] 
+
+80.79 82.49 B: (( [sigh] [noise] yeah it's really funny )) 
+
+82.45 83.27 A: cool 
+
+83.37 85.58 B: [sigh] what about you what are some of your hobbies 
+
+85.23 86.69 A: (( [sigh] )) 
+
+86.87 88.74 A: (( um [lipsmack] i scrapbook )) 
+
+88.52 89.45 B: really 
+
+89.02 92.51 A: yeah yeah it's a lot of fun i'm um 
+
+89.64 90.74 B: (( that's cool oh okay )) 
+
+93.25 103.47 A: working on my daughter's album she's ah going to be a year old and so [sigh] [noise] i like to try to keep that up to date and stuff just [sigh] so she has 
+
+103.49 106.06 A: something to take with her some day so she can 
+
+107.07 112.74 A: [mn] you know look back and remember the things she doesn't really remember and so 
+
+111.12 112.73 B: right 
+
+113.18 116.37 B: [sigh] so wh- you have o- one child 
+
+115.37 119.76 A: [noise] [noise] [sigh] yeah just one right now um [mn] how 'bout you 
+
+119.86 124.29 B: (( cool i i'm twenty three i don't have any kids or anything [laughter] )) 
+
+122.54 128.45 A: no [laughter] [sigh] well you never know though some twenty three year olds have 'em [laughter] 
+
+124.31 125.51 B: where do you live 
+
+126.09 127.37 B: (( yeah that's true )) 
+
+127.96 129.42 B: that's right that's true 
+
+129.38 132.11 A: [sigh] are you married no 
+
+130.71 131.85 B: nope yeah 
+
+132.56 136.40 A: golly i guess i got married young we were twen- we were twenty two 
+
+136.30 137.75 B: (( oh that's not too young )) 
+
+137.10 139.48 A: well then i see people l- like 
+
+139.93 150.92 A: [sigh] you know in some of these reality shows and stuff and i'm like oh my gosh they're too young to get married and then i realize that they're [sigh] [noise] the same age that i was [laughter] but [sigh] i don't know 
+
+148.10 149.33 B: [laughter] 
+
+151.36 153.72 B: [sigh] that's funny where do you l- live 
+
+153.12 155.92 A: [noise] um oh i'm sorry i'm indiana 
+
+155.34 157.60 B: oh okay where abouts in indiana 
+
+157.04 159.60 A: near indianapolis 
+
+158.43 162.19 B: oh okay i'm from grand rapids originally i grew up in michigan yeah 
+
+160.50 163.24 A: oh really how did you end up out there 
+
+163.17 166.90 B: um i just drove out here a couple of months ago 
+
+166.85 170.79 A: just decided to get in the car and drive there 
+
+168.56 169.49 B: (( yeah [laughter] )) 
+
+170.39 171.60 B: (( yep )) 
+
+171.00 172.77 A: [laughter] 
+
+171.72 175.07 B: well i graduated from college in december 
+
+174.87 175.86 A: where did you go 
+
+175.73 177.45 B: baylor in texas [sigh] 
+
+177.24 178.09 A: okay 
+
+178.51 180.13 B: (( and ah )) 
+
+180.31 184.47 B: after i graduated i was working on a pilot developing a television pilot and so 
+
+183.85 185.12 A: oh really 
+
+184.82 190.65 B: [sigh] i thought well i'll go out here where my business partner is and start working on it some more so [sigh] 
+
+190.55 191.43 A: fun 
+
+191.95 193.15 A: so is that what you're 
+
+193.20 197.96 A: doing now do you work another job or you're working on that right now [sigh] 
+
+195.59 199.13 B: yeah i i'm waiting yeah i'm waiting t- tables 
+
+199.18 202.70 A: that's pretty standard isn't it for the industry [laughter] 
+
+200.20 202.53 B: [laughter] yeah [laughter] yeah 
+
+203.68 207.56 A: [sigh] nothing wrong with that [sigh] what restaurant do you wait tables at 
+
+204.86 205.74 B: no 
+
+207.09 209.07 B: it's called hamburger hamlet 
+
+208.53 210.14 A: yeah 
+
+209.10 210.49 B: it's l- like a c- 
+
+210.55 213.67 B: chain out here i i'd never heard of it before [sigh] but yeah 
+
+213.12 217.14 A: yeah i've never heard of it i've only been out there once so 
+
+217.60 222.11 A: [sigh] my best friend just moved out there so she lives in new newport beach 
+
+221.25 223.84 B: oh yeah it's really nice down 
+
+223.47 230.07 A: yeah that's what she said she said that what she's like [laughter] everybody here's rich except us we live in the [laughter] a- apartments but [sigh] 
+
+229.87 233.22 B: there yeah that [laughter] it's a nice area down there 
+
+230.13 230.95 A: um 
+
+232.71 237.15 A: yeah i don't i don't know one of these days i'm going to try to get out there to visit but 
+
+238.11 241.26 A: [lipsmack] just haven't gotten to yet [sigh] who has the money 
+
+241.18 242.45 B: right 
+
+241.83 242.74 A: (( um [mn] )) 
+
+243.05 245.21 A: what other h- so you like to water ski 
+
+244.98 247.18 B: [lipsmack] i like to water ski growing up in 
+
+247.30 251.50 B: michigan on like all the lakes in the summer and everything we water skied a lot 
+
+250.94 252.78 A: did your family have a boat or 
+
+252.49 253.62 B: yeah 
+
+253.14 253.92 A: (( yeah [sigh] )) 
+
+253.93 255.05 B: yep 
+
+255.08 257.13 A: that's my h- husband's big 
+
+257.32 260.82 A: dream some day to afford a boat 
+
+259.35 260.16 B: yeah 
+
+260.97 267.92 A: right now we just have to go his brother has one but he lives in north carolina but we love we love to water ski 
+
+260.98 261.70 B: (( oh )) 
+
+265.57 266.50 B: (( okay )) 
+
+267.76 269.88 B: (( yeah oh that's good )) 
+
+268.91 276.98 A: i never had a boat growing up but i always had friends whose families did and stuff so [sigh] where was your favorite where's your favorite place to ski 
+
+273.62 274.87 B: right 
+
+276.93 278.18 B: oh wow 
+
+278.23 279.61 B: (( [sigh] um )) 
+
+280.42 289.10 B: [lipsmack] you know i really liked our neighborhood was on a r- river that was dammed up so it was kind of like a lake [sigh] and i really liked that the most just 'cause it's always smooth always 
+
+283.51 284.76 A: (( uh-hum [sigh] )) 
+
+289.39 293.49 A: yeah [noise] did you ever travel have you ever been to um 
+
+293.92 299.23 A: [sigh] there's a lake it's on the border of kentucky and tennessee called um dale hollow 
+
+299.61 303.94 B: i've heard of it is that like the big the giant like finger lakes like there's 
+
+302.92 310.17 A: [noise] yeah it's huge and there's like parts of it like you might hear it called lake cumberland or [sigh] um 
+
+310.20 313.17 A: all the the because there's so many different parts of it 
+
+312.56 313.64 B: (( uh-hum )) 
+
+313.04 326.89 A: and it's the most amazing s- skiing ever the water is just it it's it's such a huge lake that it's just not super populated and [sigh] at least when i've been there it's been 
+
+324.72 325.65 B: (( uh-hum )) 
+
+326.95 331.16 A: quite a few years but it [sigh] the water's just like glass all the time 
+
+330.54 331.71 B: oh wow 
+
+331.21 333.15 A: and it's wonderful 
+
+333.07 335.00 B: and it it's called what's it called again [noise] 
+
+334.27 336.86 A: [sigh] it's called um dale hollow 
+
+336.55 338.09 B: dale hollow [noise] 
+
+337.45 338.45 A: (( uh-hum )) 
+
+338.71 342.48 B: [noise] [mn] yeah i think my parents [noise] mentioned that 'cause they're looking to m- 
+
+342.63 345.06 B: (( sell their house in michigan and move somewhere else )) 
+
+344.90 346.02 A: oh really 
+
+346.98 355.16 A: yeah we've rented a a big group of us when i was younger rented [sigh] a h- house boat and [sigh] stayed on 
+
+355.95 358.91 B: yeah so oh like for how long did you stay in the houseboat [noise] 
+
+355.97 357.72 A: dale hollow for a week 
+
+358.73 359.75 A: what 
+
+359.34 361.18 B: how long did you stay in the [noise] 
+
+360.81 362.65 A: we were there for a week 
+
+361.98 363.32 B: oh how cool 
+
+362.78 376.18 A: it was that is such a fun vacation with a big group of people we had [sigh] two ski boats with us [sigh] and a whole bunch of people and you know we took turns going out in the boats and stuff and [sigh] 
+
+376.02 382.94 A: just lounging around on the pretty much we just took the boats in into a little cove and tied 'em up and [sigh] then 
+
+383.19 384.04 A: um 
+
+384.96 387.54 A: [mn] skied all day every day 
+
+386.92 388.23 B: w- wow 
+
+387.99 389.37 A: yeah it was really 
+
+388.24 390.14 B: [sigh] that would be f- fun [laughter] 
+
+389.77 403.56 A: it was it's a really you know that's a great vacation like [sigh] to get just a bunch of people and if you split it up between a lot of people [sigh] it can actually be pretty affordable [sigh] you know 'cause you're looking at probably 
+
+397.64 398.59 B: (( uh-hum )) 
+
+401.17 401.99 B: yeah 
+
+404.06 409.91 A: [noise] cheap one you could probably rent a houseboat for like fifteen hundred dollars or something but if you divide that between ten people 
+
+409.77 410.93 B: yeah 
+
+409.98 414.37 A: [sigh] it's not that big of a deal and t- those things sleep a ton of people 
+
+414.20 415.24 B: (( right )) 
+
+414.66 416.68 A: (( yeah yeah they are )) 
+
+415.60 419.54 B: and they're huge right i mean i've seen pictures of them i've never like seen one [mn] 
+
+419.07 425.31 A: they have all different sizes but i mean the one we stayed on s- probably slept one two three four 
+
+425.68 427.08 A: [sigh] probably ten 
+
+426.82 427.78 B: wow 
+
+427.62 441.25 A: but you know d- depending the type of people that you have with you who don't mind roughing it [sigh] you can cram a whole lot more 'cause people can sleep up on the roof and stuff we slept outside a lot of nights up up top and [sigh] it's 
+
+436.99 437.82 B: sure 
+
+441.84 442.84 A: i i 
+
+442.87 449.31 A: my hus- my husband and i talk about it all the time that we're going to [sigh] do it some day but we just 
+
+446.40 447.55 B: do it again 
+
+450.43 453.16 A: [sigh] phew never had the money [laughter] 
+
+450.59 456.63 B: (( [laughter] well that's sounds fun yeah i'm going to have to like mention that to some of my friends 'cause that sounds like a lot of fun [noise] )) 
+
+453.17 455.39 A: (( [laughter] i i )) 
+
+455.86 459.27 A: yeah yeah that's a good that's a good group 
+
+458.81 462.72 B: so did you guys bring your boats whoever had the boats brought 'em down from 
+
+462.07 474.43 A: right right we we took the two boats with us i think though there are some places that [sigh] you can rent the s- ski boats as well as the houseboats but there were two people who had 
+
+463.11 464.14 B: (( indiana [noise] )) 
+
+474.84 482.20 A: [sigh] who had the ski boats so they just brought those with them but [sigh] um i'm sure you could rent 
+
+476.22 477.26 B: (( uh-huh right )) 
+
+482.50 492.34 A: [sigh] i think the most ah probably the most expensive part is the gas for the [laughter] boats [laughter] you really burn through a lot [laughter] [sigh] but [sigh] unfortunately 
+
+486.84 488.20 B: (( [noise] cool [noise] oh yeah )) 
+
+491.23 494.49 B: [noise] [mn] and were there a lot of other house boats on the lake or uh-hum 
+
+493.70 501.93 A: oh yeah yeah there were but [noise] i mean it seemed like few and far between we felt like we were [sigh] 
+
+501.95 511.94 A: coming out on our own it was and granted this is probably six plus years ago it's been a while [sigh] and so w- who knows if it's [sigh] 
+
+503.42 504.55 B: yeah 
+
+511.96 516.80 A: a more popular p- place to go now or but but [sigh] 
+
+514.25 515.84 B: right 
+
+517.72 518.31 B: (( [noise] oh )) 
+
+517.82 519.55 A: yeah 
+
+518.35 519.56 B: (( fine [mn] [noise] )) 
+
+519.87 521.92 A: i'm hoping that this thing 
+
+521.97 526.12 A: i i read a lot that a lot of people have been actually getting checks from 
+
+526.84 527.87 A: this 
+
+527.50 528.70 B: (( [sigh] oh right )) 
+
+527.99 529.88 A: this phone call thing so 
+
+529.32 532.81 B: [noise] [noise] well i would hope so because they said they would send us money right 
+
+532.22 537.79 A: right right yeah but you never know with some of the [laughter] things that you find on the internet 
+
+532.89 533.87 B: [laughter] 
+
+537.43 538.50 B: (( yeah [sigh] )) 
+
+537.81 540.33 A: [laughter] is that how you found it or [sigh] 
+
+539.72 541.56 B: yeah on craig's list 
+
+542.11 544.08 A: craig's list what's that 
+
+543.50 546.68 B: it's like a if you go to craigslist dot org [mn] 
+
+546.11 547.83 A: (( uh-hum )) 
+
+546.99 548.20 B: it's just this 
+
+548.36 552.34 B: free [noise] almost like ads thing where [sigh] 
+
+552.39 565.89 B: ah you can just post an ad whether it be like you know i have a couch for sale or um you know and there's a whole bunch of people post job listings and [sigh] um and this was on there and it it's for different cities like you can 
+
+566.20 569.95 B: click on a bunch of different cities [noise] there might be an indianapolis i'm not sure 
+
+569.22 569.84 A: (( mm )) 
+
+570.74 578.06 B: [sigh] but yes that's how i found out about this and i thought and like it looks res- reputable because it's through the university of pennsylvania 
+
+577.41 580.94 A: [noise] that's kind of what i thought too and i thought well you know 
+
+578.72 579.56 B: yeah 
+
+581.09 583.95 A: it's it's not like we had to pay anything 
+
+583.71 584.78 B: (( right [noise] )) 
+
+584.11 588.62 A: to do it so i figure the most i lose is t- ten minutes 
+
+589.00 592.95 A: of my time which is really not that [laughter] big of a deal but [sigh] 
+
+591.21 593.14 B: (( it's not yeah it's not a big deal [sigh] )) 
+
+592.97 594.59 A: yeah we um [lipsmack] 
+
+594.99 598.63 A: i found it on some [sigh] i do lot of mystery shopping 
+
+598.91 599.89 B: oh how fun 
+

@@ -1,0 +1,379 @@
+# fe_03_03541.sph
+# Transcribed by BBN/WordWave
+
+0.30 1.14 B: (( [noise] )) 
+
+0.50 1.76 A: hello 
+
+1.24 2.42 B: (( hello )) 
+
+2.11 3.69 A: hi i'm shawn 
+
+3.58 5.12 B: i'm linda how are you 
+
+4.78 6.59 A: hi linda i'm fine 
+
+6.54 7.67 B: (( where are you from )) 
+
+7.41 9.41 A: i'm from louisiana 
+
+8.78 10.79 B: [noise] and i'm from massachusetts [noise] 
+
+10.13 13.60 A: massachusetts okay [mn] is it cold up there 
+
+10.94 11.86 B: (( mhm )) 
+
+13.23 18.29 B: oh it's rainy and drizzly and not very nice out today how about there [noise] [noise] 
+
+16.44 20.41 A: [laughter] [mn] it's hot and humid where i am 
+
+19.90 21.58 B: (( oh [laughter] )) 
+
+20.46 24.36 A: [laughter] i think it's about ninety ninety something 
+
+23.96 25.66 B: oh 
+
+25.77 29.15 A: yeah so what do you think about today's topic 
+
+26.75 27.66 B: (( [mn] )) 
+
+29.08 34.73 B: today's topic um minimum wage and if i think five dollars and what was it five dollars and fifteen 
+
+34.20 35.42 A: (( [noise] [noise] yeah )) 
+
+34.76 41.72 B: cents is sufficient [noise] no [laughter] i don't think five dollars and fifteen cents is sufficient [mn] um 
+
+37.77 39.03 A: (( [noise] [mn] [mn] [noise] [noise] )) 
+
+42.10 47.48 B: [noise] the reason i feel that way is with the housing cost being what [noise] it is even to rent an apartment at 
+
+47.61 50.10 B: least i'm not sure what it's like 
+
+50.26 52.36 B: down there i mean it's like 
+
+52.42 54.97 B: about a thousand dollars a month up here 
+
+54.58 61.59 A: for for a one bedroom or two bedroom yeah that's what i thought well i mean i'm in one that's six hundred f- for a two bedroom 
+
+55.68 57.66 B: for a one bedroom [noise] [noise] 
+
+61.16 62.35 B: mhm 
+
+61.72 64.69 A: and you know that's pretty average but 
+
+65.39 69.99 A: [mn] yeah i know rents are [noise] [mn] [sigh] [noise] you know are exorbitant and um 
+
+71.14 75.27 A: [noise] you know five fifteen is very hard would b- be very hard to live on [noise] [noise] [noise] [noise] [noise] 
+
+76.28 78.95 B: [noise] i think if it was a family i mean 
+
+79.32 80.09 B: if 
+
+80.35 87.51 B: both if there were two if it's a two parent [noise] household both would have to work that wouldn't even cover daycare expenses 
+
+86.86 88.93 A: right exactly 
+
+89.09 90.52 A: [noise] exactly 
+
+90.23 99.31 B: [noise] unless you have relatives that you can depend on to [mn] to watch your child there's no [noise] way that you'd be able to survive on that i don't think 
+
+98.01 104.42 A: [noise] which usually doesn't happen i mean i don't know there's some people who have that happen and if they're fortunate enough 
+
+99.86 100.75 B: exa- 
+
+104.43 107.14 A: [mn] you know otherwise um [mn] 
+
+107.77 112.07 A: y- you know they've either gotta stay home one of the parents and just tough it out 
+
+111.58 113.31 B: (( [noise] exactly )) 
+
+112.53 117.86 A: and i think people make five fifteen an hour i mean you're gonna have to have three or four people living together 
+
+117.52 119.04 B: mhm 
+
+118.25 121.97 A: um like if they were all single they [mn] um 
+
+120.09 121.68 B: mhm 
+
+122.11 133.88 A: yeah [mn] housing and then most people don't want to rent to that many people together so it really puts people in a position of just getting kind of slum or ghetto type [mn] 
+
+126.81 128.03 B: exactly 
+
+134.12 136.60 A: um [noise] living arrangements 
+
+135.97 137.10 B: (( mhm [mn] )) 
+
+136.72 138.34 A: i know i made 
+
+138.38 147.49 A: seven dollars an hour and i was a single parent of one child and i mean it was [mn] i i volunteered for all the overtime i could um 
+
+147.83 151.72 A: you know working fifty and sixty hours a week and i mean 
+
+151.77 154.45 A: i struggled to put food on the table you know 
+
+155.07 161.28 A: [mn] it was horrible and then i finally went to college [noise] which um i'm just looking for a job now but 
+
+155.97 156.92 B: mhm 
+
+163.73 166.20 A: [sigh] [mn] had i not done that i mean 
+
+166.22 169.11 A: things look really grim you know 
+
+168.40 169.49 B: (( mhm [mn] )) 
+
+169.12 170.70 A: i made a hundred dollars [noise] 
+
+171.21 178.40 A: uh too much a month to get food stamps or any kind of welfare or assistance or childcare assistance you know yet 
+
+176.60 177.80 B: mhm 
+
+179.31 180.49 A: (( [mn] i mean )) 
+
+179.54 187.22 B: you end up making too much [laughter] and you're struggling and you just can't get ahead and 
+
+181.89 182.61 A: [laughter] 
+
+187.93 194.06 B: it's just treading water it's [mn] between and then not only do you have the he- the 
+
+194.26 198.77 B: living costs of just having a pl- a domicile to live in 
+
+198.84 202.14 B: then you have clothing [noise] if you have children you have heating 
+
+202.21 203.71 A: cooling [noise] [noise] 
+
+202.52 205.60 B: there's your basic school clothes um 
+
+206.29 207.85 B: anything it's 
+
+208.54 210.27 B: i just can't see how 
+
+211.63 219.66 A: [noise] ye- how you can live on five fifteen an hour [noise] like i said i mean i know you know [noise] let let's say you're a teenager [noise] or something just starting work you know 
+
+211.70 212.26 B: (( [mn] )) 
+
+212.93 213.61 B: ab- 
+
+213.94 214.82 B: (( no )) 
+
+219.04 219.63 B: (( mhm )) 
+
+219.89 220.98 B: mhm 
+
+220.22 227.88 A: that that would be okay [noise] i guess but no i mean as far as making a living off five fifteen an hour 
+
+227.51 228.66 B: mhm 
+
+228.44 236.43 A: it can't happen that's what i'm saying i mean i know [mn] you know you're just saying [mn] you have a one bedroom a thousand a month in your area and i've got a two bedroom 
+
+234.79 236.09 B: (( mhm [noise] )) 
+
+236.54 241.53 A: uh six hundred a month in my area you know there there is just no way 
+
+239.60 240.82 B: you're talking 
+
+241.10 244.41 B: you're talking about two grand up here for two bedrooms 
+
+244.23 245.36 A: jeez 
+
+244.73 247.36 B: and it's a small little tiny [laughter] 
+
+248.35 250.08 B: [mn] tiny thing 
+
+249.00 252.05 A: tiny thing yeah yeah and i mean so 
+
+252.14 257.21 A: [mn] so we've excellent rents as far as you know compared to y'all or california or you know 
+
+255.25 256.09 B: (( [noise] [noise] [mn] )) 
+
+256.88 258.05 B: mhm 
+
+258.25 259.24 A: um 
+
+260.92 265.56 A: but i don't think if somebody can make it down here on that much or that little i should say 
+
+265.30 266.89 B: (( [noise] exactly [noise] [noise] [noise] [noise] )) 
+
+268.12 272.20 A: i don't know you know and it's a hard thing too because the higher the um 
+
+272.75 278.07 A: the minimum wage goes of course then costs of goods and services go up accordingly 
+
+277.62 279.51 B: (( [noise] mhm )) 
+
+278.69 282.71 A: you know so i- it it to me it's kind of a catch twenty two 
+
+282.32 283.35 B: (( [noise] mhm )) 
+
+283.15 284.15 A: that 
+
+284.39 289.68 A: okay you can get paid better but everything costs more you know eventually it you know it's gonna 
+
+289.85 292.05 A: get pushed up because that 
+
+292.61 297.72 A: [mn] [sigh] that increase is you know the con- the company is gonna pass it on to the consumer 
+
+297.33 298.74 B: (( [noise] [noise] [noise] [noise] exactly )) 
+
+297.90 299.67 A: (( eventually so yeah [noise] [laughter] [noise] [noise] )) 
+
+300.61 305.40 B: [noise] and then there's no way that you can even afford basics like um [noise] health insurance 
+
+305.72 308.18 B: which in turn over [noise] tax 
+
+308.35 309.82 B: our health system 
+
+310.33 312.72 B: (( [noise] [laughter] and [noise] )) 
+
+313.25 326.44 B: just the cost of care alone [mn] to go to the doctors because [mn] you may not have insufficient heat or insufficient food or insufficient housing [laughter] because you make five fifteen an [laughter] hour [noise] [mn] um 
+
+325.16 326.06 A: right 
+
+326.77 328.39 B: (( [mn] i just [mn] )) 
+
+330.29 331.72 B: (( [noise] it just )) 
+
+332.67 343.98 B: [mn] for for somebody that was just coming er high school yeah you're living at home that that would be fine 'cause you don't have all the [noise] added expenses [mn] it's just fun money at that point 
+
+338.27 339.24 A: yeah 
+
+340.87 341.80 A: (( yeah )) 
+
+345.06 346.58 B: [noise] but 
+
+346.71 347.28 B: (( [noise] )) 
+
+348.51 351.58 B: i don't what do you think would be sufficient for a minimum wa- 
+
+350.44 355.66 A: i don't know i was just about to ask you the same thing you know [mn] [noise] 
+
+354.58 355.15 B: (( [noise] )) 
+
+356.82 358.05 B: [sigh] i know i have 
+
+357.27 361.06 A: a- at least [mn] six okay say six i would say six 
+
+359.69 362.11 B: mhm mhm 
+
+361.42 372.67 A: you know i don't know if i don't know if the government would ever do something like like we're talking about college [mn] you know high school students they can you know if they can say well they get paid [mn] you know get paid as little as five fifteen but 
+
+374.13 377.36 B: (( [noise] [noise] [noise] [noise] yeah then it would be age discrimination i think )) 
+
+374.37 375.63 A: (( [mn] you know [mn] )) 
+
+376.49 383.20 A: and and yeah then i was gonna say yeah then we then probably everybody would have a hoopla [laughter] about [mn] discrimination 
+
+379.70 380.91 B: (( [noise] [laughter] )) 
+
+383.26 384.42 B: (( [noise] [mn] i [noise] )) 
+
+383.49 393.83 A: but but [mn] that's the thing though i mean if you say the minimum wage is gonna be fifteen then you're gonna have field workers in texas and california making five fifteen no more [mn] you know and and you know 
+
+391.42 392.39 B: mhm 
+
+393.70 404.20 A: it's really single moms i mean the ones that are on welfare to work they're probably not going to make much more than [mn] you know minimum wage you know without some really good training and i mean shoot 
+
+402.88 404.07 B: (( [noise] [noise] mhm )) 
+
+404.29 410.37 A: [laughter] i've almost got a masters degree and you know um i've been looking for a job and looking looking looking you know it's 
+
+410.67 415.86 A: [mn] you know it doesn't matter what kind of education you have if if the economy is not good you know [mn] 
+
+413.08 414.56 B: (( [noise] the econom- )) 
+
+414.78 417.30 B: no it isn't not right now 
+
+416.47 417.61 A: (( it [sigh] )) 
+
+417.90 424.19 B: [noise] places just aren't seem to be hiring it's [mn] because of the economy it's [mn] 
+
+425.18 431.20 B: interest rates are down it's like oh yeah great time to buy a house yeah [laughter] 
+
+429.95 433.03 A: [laughter] i'd love to if i had a job [laughter] [noise] 
+
+432.17 442.30 B: [noise] exactly it's like oh yeah interest rates are down but [noise] the average housing around here is like two hundred and fifty thousand [mn] to buy [laughter] something that's tiny [noise] [noise] [noise] [noise] 
+
+439.70 440.51 A: (( [laughter] )) 
+
+441.92 443.21 A: (( [mn] yup )) 
+
+443.83 444.71 A: yeah 
+
+445.80 450.88 A: so i i don't know you know to say what a m- you know what a sufficient amount would be 
+
+450.72 451.71 B: (( [noise] i know )) 
+
+451.52 453.54 A: you know it's hard to say [mn] [noise] 
+
+454.12 460.04 B: [noise] every time you think that you've found a sufficient amount [mn] something else goes up [laughter] and then 
+
+459.60 463.78 A: yeah i mean that's what i'm saying you know it's like a catch twenty two 
+
+461.58 462.70 B: mhm 
+
+464.88 471.62 A: you know 'cause you know if ros- r- raise it from five fifteen to seven you know prices of goods and services are gonna go up 
+
+470.94 472.82 B: (( [noise] [noise] mhm )) 
+
+472.07 480.54 A: [mn] you know and and it'd probably go up a little extra than they should because the companies are gonna you know try to pocket the difference you know oh this is a good excuse to 
+
+480.25 482.24 B: (( [noise] [noise] mhm )) 
+
+481.53 483.83 A: really raise our prices now [laughter] 
+
+486.67 488.99 A: so i don't know it's a tough one 
+
+490.33 493.63 B: [noise] [mn] [mn] and i don't think i'm not sure if tax 
+
+495.13 504.08 B: tax cuts are the way to go either though [mn] it's like well you can give [noise] tax cuts and then but it depends on where [noise] you give them 
+
+505.43 506.21 B: (( [mn] it it's )) 
+
+505.51 506.34 A: yeah 
+
+506.37 507.84 B: (( like [mn] )) 
+
+510.18 511.02 B: it'd be 
+
+511.06 516.12 B: it'd be great there there is no i don't think there's any one [noise] right answer 
+
+517.09 518.00 B: (( but [noise] )) 
+
+517.87 524.01 A: yeah i i mean typically i know in the past tax cuts you know everybody's complained that they've gone to the corporations but 
+
+523.41 524.51 B: mhm 
+
+524.24 530.22 A: [mn] i mean it's like i was hearing president bush say the other day you know hey small business owners are the backbone of the community 
+
+530.46 536.96 A: the backbone of the country and [mn] you know let's start giving them tax breaks so they'll [noise] start you know more people will start having 
+
+537.81 541.89 A: creating businesses and you know hiring people but 
+
+542.75 549.85 A: then sooner or later that company is gonna grow and somebody's going be be screaming bloody murder that you know that companies are getting all the tax breaks 
+
+549.57 551.01 B: (( [noise] [noise] [noise] [noise] mhm )) 
+
+550.35 555.88 A: you know and and i mean it's a it's like i say it is a catch uh [mn] twenty two because 
+
+556.11 562.02 A: it's these are the ones that are working making low wages that end up paying i think most of the taxes 
+
+561.74 562.97 B: mhm 
+
+562.32 566.35 A: not the lowest wage earners you know but kinda like the mid bracket [noise] 
+
+565.26 566.86 B: (( [noise] mhm )) 
+
+568.80 569.85 A: and 
+
+570.27 574.83 A: you know [mn] it it just doesn't seem fair either [laughter] [mn] 
+
+573.61 574.93 B: exactly 
+
+575.62 577.17 B: i know with all the 
+
+577.70 586.39 B: [mn] i know that we have a big massive deficit and they're cutting back on basic services up here it's like ugh 
+
+586.80 588.08 B: like um 
+
+588.72 598.83 B: those that are chronically unemployed and [mn] they're cutting back on health care services and what have you [noise] it's like [mn] well if you give [mn] tax cuts it's only gonna get worse [laughter] [noise] 
+
+598.97 599.89 A: (( yeah i )) 
+

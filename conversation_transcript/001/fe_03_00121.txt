@@ -1,0 +1,415 @@
+# fe_03_00121.sph
+# Transcribed by BBN/WordWave
+
+0.70 1.99 A: (( [lipsmack] hello )) 
+
+1.54 2.93 B: (( [lipsmack] hi )) 
+
+2.64 3.71 A: (( hi how're you doing )) 
+
+3.85 4.77 B: (( good )) 
+
+5.05 6.49 B: my name is anna 
+
+6.08 7.55 A: um my name is mike 
+
+7.62 8.55 B: hi 
+
+8.14 9.49 A: where're you calling from 
+
+9.64 11.63 B: from ah washington 
+
+11.54 14.18 A: washington ah state or washington d._c. 
+
+13.80 14.87 B: d._c. 
+
+14.42 15.31 A: uh-huh 
+
+15.30 16.45 B: [lipsmack] how about you 
+
+16.13 21.34 A: ah i'm in um [lipsmack] malvern pennsylvania which is ah outside of philadelphia 
+
+21.08 22.04 B: uh-huh 
+
+21.48 22.89 A: near valley forge 
+
+22.91 23.93 B: okay 
+
+23.69 26.39 A: so how'd yo- how'd you hear about this ah program [lipsmack] 
+
+26.15 31.18 B: ah via email i got um an email from ah 
+
+31.77 33.57 B: i guess the people that are 
+
+33.99 37.65 B: doing the study they sent it out to our ah linguistics department 
+
+38.43 40.28 A: wh- what department is that 
+
+39.73 41.54 B: the linguistics department 
+
+40.86 45.99 A: oh okay so you- you're in in linguistics at ah at a school down there 
+
+43.96 44.83 B: yeah 
+
+45.87 48.23 B: (( uh-huh yeah here in d._c. )) 
+
+46.49 49.07 A: wh- what school's that 
+
+48.33 49.37 B: georgetown 
+
+50.10 52.80 A: wh- oh georgetown oh good 
+
+52.00 53.11 B: yeah 
+
+53.13 57.88 A: i work for unisys ah corporation um up here in new philadelphia 
+
+57.84 59.88 B: oh what kind of corporation is that 
+
+59.28 65.52 A: ah well it's a computer company but um [lipsmack] i'm in a group that does um speech recognition 
+
+65.39 66.28 B: mhm 
+
+65.63 67.27 A: and um [lipsmack] 
+
+67.30 77.65 A: we do that for ah ah products related that we sell to phone companies like voicemail systems and stuff like that so that's how we got hooked up with ah u._f._p. 
+
+74.27 75.22 B: wow 
+
+77.77 81.03 A: you know it's because we ah we we needed ah 
+
+81.23 83.29 A: like the ones we're recording right now 
+
+83.17 84.08 B: yeah 
+
+85.32 86.09 B: oh 
+
+86.35 87.52 A: (( [lipsmack] yeah it's [lipsmack] )) 
+
+86.46 90.97 B: well do you have any ah strong opinion on the ah on the topic 
+
+91.36 92.32 A: um 
+
+91.76 93.92 B: as ah they gave to us [laughter] 
+
+94.51 96.82 A: (( [lipsmack] well i i ah )) 
+
+98.61 100.49 A: i really don't think um 
+
+101.09 112.23 A: ah george bush can lose at this point i mean you know even if even if saddam hussein outsmarts him and ah finds a way to get keep world opinion from ah 
+
+112.25 113.19 A: you know 
+
+113.62 114.77 A: (( [lipsmack] ah )) 
+
+115.33 130.16 A: giving us permission to ah to to disarm him um you know like if they come up and they they say they have nothing the inspectors can't find anything i think they got him pretty well pinned down anyway i don't think he can make any really bad moves without everybody really looking at him and going ugh you know you know 
+
+129.96 130.93 A: what i mean 
+
+131.22 132.16 A: it's like 
+
+131.55 133.35 B: yeah i mean i think 
+
+132.55 141.25 A: you know if he if he reaches and and and attacks anybody then there'll be you know everybo- it's all re- really well 
+
+141.64 148.40 A: you know exposed that he's a bad guy and ah you know then we'll say all right let him have it [laughter] 
+
+148.29 151.10 B: yeah it's all pretty carefully orchestrated right 
+
+150.80 153.48 A: yeah but i don't know he s- he seems 
+
+153.52 164.97 A: you know that that they all surprise me i mean bush surprises me sometimes that ah you know he seems he's sort of like colombo you know he talks kind of he sounds kind of dumb but he's but he's really pretty shrewd 
+
+165.69 167.28 A: (( but there's ah )) 
+
+166.07 168.53 B: yeah i think he's manipulative [laughter] 
+
+168.01 169.82 A: yeah right 
+
+169.46 171.71 B: i think this is all you know 
+
+172.09 172.91 B: he's 
+
+173.00 184.01 B: he is shrewd in the way right that he i think he's hell bent on going to war and he's figured out a way that he can you're right no matter what happens he can go to war and nobody's going to 
+
+177.85 179.32 A: yeah 
+
+185.24 188.85 B: [sigh] be able to say you know that shouldn't have 
+
+188.89 192.75 B: he didn't base his you know he didn't rationalize his decision 
+
+192.92 203.29 A: yeah i think i don't think there's really a need to go to war at this point like i say i think they've got him boxed got saddam hussein boxed in h- h- he can't you know he can't 
+
+203.26 204.89 A: he could do something 
+
+204.69 208.32 A: covert but you know if it's ever traced back to him then 
+
+208.14 222.35 A: ever- everyone will just agree to let him have it but i i i'm concerned now that that bush is going to make a move just to save face you know it's like well they can't do that to us you know i know they have em in there we're going to go in and find em and that's what worries me i think that would be really 
+
+211.19 211.90 B: (( do you )) 
+
+221.21 221.93 B: (( no )) 
+
+222.46 223.27 A: (( really )) 
+
+222.51 226.03 B: so you don't think it's going to be resolved without without a war 
+
+225.84 227.16 A: (( [lipsmack] um )) 
+
+227.73 228.74 B: or you do 
+
+229.37 243.00 A: [mn] well let's see i don't think the inspectors are going to find much and i think bush is going to pissed [laughter] and then i don't know what's going to happen i hope he doesn't go to war but but ah he'll sure want to and ah 
+
+235.95 237.07 B: (( [laughter] mhm )) 
+
+243.03 247.72 A: so ah i- i'm very concerned and and and i'd be disappointed if we did i think 
+
+247.77 256.73 A: i think if if the inspectors don't find anything they should just bush should just lay back and say oh well i'll find find something else important to go you know 
+
+256.89 261.58 A: ah to go holler about like the economy or something like that 
+
+261.02 274.91 B: yeah no they were talking on on on the news this morning they were saying you know we've got a republican you know we've got a republican house republican senate you know and how is this going to affect domestic policy now and the interviewer was saying 
+
+275.14 279.60 B: what domestic policy [laughter] you know we're we're focusing so much on 
+
+279.87 287.92 B: what's happening in iraq we're focusing on you know hunting out terrorists i mean are we really going to focus any attention on 
+
+288.10 290.66 B: on domestic issues and i really think that 
+
+291.06 292.60 B: we should you know 
+
+291.91 293.01 A: (( yeah [mn] )) 
+
+293.37 297.12 A: ah i think we're getting ourselves a bad name in the world too 
+
+297.09 298.26 B: (( absolutely )) 
+
+297.34 300.36 A: th- there was there was something on um 
+
+300.66 303.15 A: [lipsmack] in the newspaper the philly newspaper 
+
+303.16 317.19 A: t- this morning tha- that ah it was just talking about how how bad we're looked upon by all the european countries and stuff as just being you know we make all the weapons and you know 
+
+313.61 314.22 B: (( yeah )) 
+
+317.35 318.53 A: we ah 
+
+318.62 324.73 A: you know we- we're in all the wars and we- we're just ah you know very aggressive 
+
+324.95 330.35 A: war oriented people based on based on external ah you know observation 
+
+330.38 331.36 B: yeah 
+
+330.75 331.53 A: so 
+
+331.80 332.66 A: (( ah )) 
+
+332.05 336.73 B: and it's weird i i find it weird that tony blair is so you know 
+
+336.85 341.07 B: gung ho about jumping on our our bandwagon too 
+
+340.69 342.83 A: yeah i i don't get that either 
+
+342.65 350.56 B: i wish that he were more i i wish that he were portraying himself as a little bit distant from george bush i don't understand it 
+
+351.03 359.66 A: yeah it makes i- it almost looks like well if you speak english then you're this type of person right so it pu- so it kind of um 
+
+351.20 352.01 B: (( but i )) 
+
+355.85 357.53 B: yeah i 
+
+359.87 363.78 A: [lipsmack] stereotypes all english speaking people [laughter] 
+
+362.83 374.27 B: yeah i mean canada is keeping itself a little bit out of it but i guess i was talking to some of my european classmates and they were saying that they think that blair is trying to distance himself from 
+
+367.17 368.15 A: (( that's true )) 
+
+374.80 376.15 B: some of the 
+
+376.66 386.69 B: some of the anti-immigrant sentiment that's been kind of going around in um in france and is kind of being articulated in some other countries ah like in 
+
+386.86 390.74 B: different elections that just were happening in austria and stuff there's some some 
+
+391.11 394.92 B: anti-immigrant sentiment that's that's kind of 
+
+394.94 396.28 B: becoming 
+
+397.42 402.35 B: you know public discourse in in some of these countries and that he thinks by 
+
+402.77 409.70 B: maybe by by showing himself to be affiliated with the u._s. he's trying to distance himself from that 
+
+409.29 410.56 A: (( mhm )) 
+
+411.19 419.12 B: which could be but i think it's a strange way to show [laughter] that you've got you know open mindedness by rushing off to 
+
+416.15 417.13 A: yeah 
+
+419.81 421.00 B: (( to um )) 
+
+421.52 423.39 B: be aggressors you know 
+
+422.99 424.70 A: right yeah 
+
+425.05 425.90 B: so 
+
+426.24 429.51 B: it's weird so have you done a lot of these ah calls 
+
+429.24 430.63 A: no it's my first one 
+
+430.61 431.65 B: yeah 
+
+431.35 432.55 A: [lipsmack] i guess ah 
+
+431.69 432.70 B: mine too 
+
+432.63 439.59 A: i i i guess ah they just started signed everybody up just this weekend huh was it like over the weekend or last week 
+
+439.42 440.47 B: yeah 
+
+439.77 441.38 A: did you collect your form 
+
+441.34 442.35 B: yeah yeah 
+
+442.86 453.94 B: yeah i was frustrated because on the ah form it was f- it said what state are you in and they didn't give d._c. in the drop down menu because it's not really a state you know but 
+
+450.11 452.30 A: really wow how about that 
+
+452.55 455.48 A: you're right right well it sh- it's supposed to be 
+
+455.60 460.26 A: it's supposed to count as ah i guess what'd you put then maryland 
+
+457.05 458.06 B: yeah 
+
+460.17 468.45 B: i put virginia [laughter] i actually am right across the water from virginia but i put washington d._c. virginia [laughter] as my address [laughter] kind 
+
+464.31 465.33 A: oh okay 
+
+468.20 469.59 A: yeah 
+
+469.36 470.36 B: (( of strange )) 
+
+470.90 472.64 A: so you're in a graduate program 
+
+472.54 473.37 B: (( yes )) 
+
+473.02 477.84 A: yeah so what what is it you say it's a linguistics degree 
+
+474.31 474.95 B: mhm 
+
+477.74 478.51 B: yes 
+
+478.11 480.84 A: yeah so you doing any research 
+
+481.40 488.74 B: yeah right now i'm doing ah the kind of research that i'm doing is more um about story telling narratives 
+
+487.26 488.13 A: oh neat 
+
+488.78 492.25 B: so ah the kind of data that i'm getting are just you know 
+
+492.59 493.54 B: um 
+
+493.93 498.40 B: narratives of personal experience and kind of analyzing those right now 
+
+498.17 498.94 A: (( mhm mhm )) 
+
+499.62 512.13 B: and um also a little bit of um some tactic variation type analysis looking at ah different communities one particular community in maryland the way that they ah 
+
+513.42 518.59 B: their you know regional variety of english uses some 
+
+518.73 519.92 B: interesting 
+
+520.73 522.63 A: [lipsmack] is that like a rural community 
+
+522.59 527.25 B: yup they're um an island community actually off the coast of maryland 
+
+523.03 523.80 A: yeah 
+
+527.24 528.21 A: oh really 
+
+528.22 529.42 B: yeah 
+
+528.45 529.15 A: (( oh )) 
+
+530.50 533.33 B: so when you do speech recognition you do 
+
+534.40 542.65 B: um are you working with a with a specific company you said that that has voice recognition software 
+
+541.53 554.95 A: [sigh] [lipsmack] yeah we um [lipsmack] we use s- s- some of the major companies and like nuance and speechworks you've heard of them yeah and then um we write the applications that um telephone companies use 
+
+548.37 549.31 B: mhm 
+
+554.79 565.29 A: for ah voice mail and and getting like content off the web and stuff like that through their telephones 'cause the phone companies are really they're they're hurting for um 
+
+565.46 569.01 A: for finding ways to um make ah their 
+
+569.38 573.02 A: mobile providers their mobile customers spend their money 
+
+573.09 574.04 B: (( mhm )) 
+
+573.10 575.61 A: [mn] so um they're trying to find 
+
+575.90 578.60 A: s- you know glitzy things to ah 
+
+578.72 582.20 A: that ah that users might want like um 
+
+582.34 595.90 A: you know automatic ah subscriptions to traffic reports on roads they travel and we're just trying to dream up tec- technical solutions to [sigh] that stuff so you know but then um 
+
+593.02 593.92 B: wow 
+
+596.52 598.59 A: [lipsmack] people are using ah 
+
+598.93 609.57 A: you know the- they want to they want the user interface to be speech recognition because a lot of people are are using their phones you know walking around with the microphones and all that stuff the headsets and that kind of thing 
+
+609.37 613.25 B: so the idea would be the cell phone caller could just say to 
+
+613.35 617.30 B: you know whatever software i want to know about traffic 
+
+615.32 616.23 A: yeah 
+
+616.69 630.61 A: yeah read my email you know traffic report and it says well you know what what city philadelphia you know what road you know i seventy six east bound or west bound east bound you know 
+
+630.94 638.73 A: um you know that kind of thing well there's a blockage on you know near exit twenty two or something like that it reads it to ya you know [mn] 
+
+637.90 638.94 B: (( so your )) 
+
+639.02 650.15 B: your company would also be trying to figure out like ways to to take like maybe a ah a traffic report and figuring out ways to pass it and 
+
+650.48 654.07 A: no- not that so much as trying to guess what the what the humans are going to say 
+
+653.65 654.99 B: (( right i see i see )) 
+
+654.16 658.01 A: you know and try to try to let them speak naturally and ask for things 
+
+657.99 671.67 A: like some of our applications get pretty complex and but ah capturing um letting people say a whole ah like the airline reservation you know i want to fly from philadelphia to chicago 
+
+671.72 673.44 A: uh tomorrow 
+
+673.76 674.85 A: december 
+
+675.12 676.15 A: (( ah )) 
+
+676.60 677.65 A: tenth 
+
+677.96 689.00 A: ah and then and then let you say as much of it as as you want and then having it come back and ask you for the rest say well what time do you want to leave you didn't say that [laughter] or if you said 
+
+678.11 679.37 B: yeah 
+
+688.05 691.66 B: (( i've got to tell you i don't like do you know the one on american airlines )) 
+
+691.72 695.85 A: yeah yeah there's a lot there's a whole number of them out there 
+
+695.80 698.92 B: american airlines one makes me angry [laughter] 
+
+698.27 700.64 A: (( yeah that )) 
+
+699.04 701.05 B: [laughter] i really hate that one 
+
+701.32 702.38 A: um 
+
+702.99 705.40 A: [lipsmack] a lot of em are really bad 
+
+705.06 706.31 B: yeah 
+
+705.75 715.13 A: ah but some of em are you know the- they- they're getting better people are learning more about you know the human factor so and you know how to how to um 
+
+715.30 719.89 A: how to bou- pe- how to how to give prompts that's a big part of it too how to give prompts so that peop 
+

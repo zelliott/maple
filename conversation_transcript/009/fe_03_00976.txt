@@ -1,0 +1,425 @@
+# fe_03_00976.sph
+# Transcribed by BBN/WordWave
+
+0.52 1.81 A: hello 
+
+1.48 2.55 B: hello 
+
+2.23 3.50 A: hi 
+
+3.08 4.12 B: hi 
+
+3.74 6.68 A: i'm carolyn i'm in atlanta georgia 
+
+6.54 9.76 B: and my name is daryl i'm in kalamazoo michigan 
+
+9.37 14.30 A: oh you are that is where my company's headquarters well used to be 
+
+10.36 11.39 B: yes 
+
+13.97 15.83 B: what is what company is that 
+
+15.17 16.39 A: pharmacy s. 
+
+16.13 19.02 B: oh okay yeah yeah 
+
+17.71 19.63 A: yeah upjohn 
+
+19.43 21.53 B: pretty big place around here 
+
+20.96 21.90 A: yeah 
+
+21.88 23.52 B: pretty big place around here 
+
+23.32 24.57 A: yeah 
+
+24.33 25.74 B: (( so )) 
+
+26.18 28.35 B: the what is the topic again 
+
+28.12 32.87 A: [laughter] the topic is bioterrorism 
+
+33.01 37.14 A: and what can we do to prevent it [laughter] 
+
+33.09 34.18 B: right 
+
+36.20 38.26 B: what can we do to 
+
+37.34 41.16 A: yeah so now that we have this lofty task [laughter] 
+
+40.87 42.52 B: just don't do it 
+
+42.00 45.05 A: right that's a good prevention measure 
+
+44.83 47.71 B: i'm i'm not exactly sure because 
+
+48.51 50.17 B: you know as far as 
+
+51.70 55.70 B: you know with all the things that like for example that happened on nine eleven 
+
+55.49 56.51 A: yeah 
+
+55.93 56.98 B: (( i'm )) 
+
+58.21 63.46 B: assuming that preventative measures were in place for you know something like that to take place 
+
+63.09 64.04 A: right 
+
+64.05 67.48 B: to guard against you know something like that to take place so 
+
+68.62 69.91 B: i don't know 
+
+72.03 75.64 B: i really don't know enough about it to 
+
+75.21 80.17 A: yeah there's just so many ways that it could be prevented 
+
+80.93 83.21 A: from so many different angles 
+
+82.88 84.01 B: right 
+
+84.27 85.17 B: (( yeah )) 
+
+84.38 86.05 A: and [laughter] 
+
+85.36 88.15 B: because there's so many different angles you can you know 
+
+88.32 89.62 B: approach 
+
+89.69 94.66 B: you know the situation i mean i would imagine the first first thing 
+
+89.84 90.97 A: yeah 
+
+95.07 100.30 B: i guess that i would that comes to mind is water supply 
+
+99.99 100.90 A: (( yeah mhm )) 
+
+100.66 101.97 B: (( and )) 
+
+102.66 104.71 B: i remember i 
+
+105.48 107.17 B: (( remember )) 
+
+107.75 109.82 B: seeing some things on the news 
+
+109.99 111.07 B: about 
+
+112.87 114.88 B: the food supply also 
+
+115.00 116.87 B: you know as far as 
+
+118.11 119.63 B: as far as 
+
+120.01 121.17 B: whole 
+
+123.04 131.06 B: how things are chemically treated you know in the you know the farms farm land and things like that 
+
+129.08 129.93 A: (( yeah mhm )) 
+
+131.08 132.28 B: (( and )) 
+
+133.06 136.06 B: you know i would imagine to you 
+
+137.26 138.08 B: (( know )) 
+
+138.65 141.62 B: i guess maybe to get 
+
+141.65 143.60 B: a centralized place 
+
+144.57 148.97 B: okay this company what is the name of this company i'll think of it in a minute cargill 
+
+149.46 151.73 B: cargill have you ever heard of that company 
+
+151.21 153.67 A: um it sounds familiar 
+
+153.54 164.66 B: i think cargill is a company that specializes in growing you know food and things like that and i think that's what they do they specialize in growing food they specialize in 
+
+158.61 159.52 A: uh-huh 
+
+164.70 169.77 B: trying to feed you know feed people and i 
+
+172.64 177.49 B: would imagine they would probably have something to do something to do 
+
+178.10 182.62 B: with treating you know the type of chemicals they needed to preserve food you know 
+
+183.22 185.79 B: you know whatever they do you know whatever 
+
+186.15 187.66 B: it does to help 
+
+187.46 200.30 A: there's so many situations when you can't control it because first of all you can't grow things on a very well the way that we've always approached agriculture in this country you know for the past 
+
+198.33 199.47 B: mhm 
+
+200.57 205.71 A: however long we've been here is to grow everything in an open field and 
+
+202.34 203.15 B: right 
+
+205.11 206.36 B: right 
+
+205.75 206.61 A: there's 
+
+206.63 208.51 A: very few 
+
+208.73 210.36 A: situations where 
+
+210.53 212.70 A: food could be mass produced 
+
+212.89 213.89 B: mhm 
+
+213.19 220.01 A: in enclosures or with some sort of protection from like airborne agents or 
+
+219.97 220.99 B: yeah 
+
+220.44 223.75 A: agents in the ground and i don't know 
+
+222.07 223.22 B: mhm 
+
+224.66 231.03 A: there's so many different angles there's really not one person who's ever going to have the answer and all we can do is 
+
+231.09 234.90 A: just prepare as best we can i don't know 
+
+233.51 234.43 B: yeah 
+
+234.83 239.25 B: all right you know as the general public i don't know 
+
+239.56 241.87 B: you know what it is 
+
+242.25 243.78 B: that we can do 
+
+243.58 244.68 A: yeah 
+
+244.36 249.46 B: you know there's no way to test there's no way to you know 
+
+249.03 253.18 A: yeah it's kind of like well once it happens then you find out 
+
+253.57 254.58 B: right 
+
+254.38 257.46 A: yeah but also like the water supply 
+
+257.13 258.42 B: mhm 
+
+258.43 261.97 A: here we get our water from rivers 
+
+262.16 274.83 A: from the chattahoochee river in particular and but in other parts of the country like i'm from california originally and we got all of our water from aquifers that were under the ground and 
+
+268.03 268.94 B: mhm 
+
+274.02 275.16 B: from where 
+
+274.82 278.31 A: from aquifers it's like underground lakes 
+
+278.50 279.44 A: (( that )) 
+
+280.08 286.22 A: like when the snow melts and it goes underground yeah it's just called an aquifer and 
+
+281.65 283.75 B: (( oh okay okay )) 
+
+286.49 289.08 A: so there's different ways that 
+
+289.29 295.72 A: we get water in this country and i'm not so sure that we could ever be one hundred per cent 
+
+295.86 297.84 A: sure about it not being 
+
+297.61 298.58 B: mhm 
+
+297.91 299.75 A: touched by any sort of 
+
+300.30 302.33 A: bio agent you know 
+
+301.68 303.32 B: mhm 
+
+304.47 306.74 B: yeah like i said i 
+
+306.93 309.13 B: wouldn't even i wouldn't even 
+
+310.10 311.98 B: know where to begin 
+
+311.42 312.42 A: yeah 
+
+314.75 316.59 B: i don't know how 
+
+319.43 322.94 B: what's the word i'm looking for i'm not i don't know how 
+
+325.75 327.57 B: at this point how 
+
+328.49 332.68 B: i don't know what the level of desire would be 
+
+332.39 333.37 A: yeah 
+
+333.17 335.45 B: from any terrorist group 
+
+335.50 336.53 B: (( ifah- )) 
+
+337.50 338.60 B: (( ifum- )) 
+
+338.69 340.82 B: to try something different now 
+
+341.26 352.52 A: yeah that's true you have to wonder like especially they have to get this stuff from somewhere first of all so maybe that's a way that it could be prevented by restricting the access 
+
+352.44 362.07 B: yeah and and and and i guess shortly after nine eleven with all the arrests they were making as far as the people in al qaeda and things like that you know 
+
+353.60 354.48 A: (( you know )) 
+
+362.79 364.81 B: at least they were reporting on 
+
+365.55 367.27 B: putting a stranglehold 
+
+368.08 372.18 B: on you know their you know passing of information and um 
+
+372.30 379.84 B: and ah you know things like that and and i think that i think that um 
+
+380.30 381.28 B: um 
+
+381.33 387.72 B: you know the belief was that um certain things wouldn't you know take place 
+
+387.73 392.88 B: or or couldn't take i shouldn't say they wouldn't take place 
+
+387.94 389.08 A: yeah 
+
+392.31 394.65 A: yeah no one would dare to do it 
+
+394.19 404.75 B: but you know something on that level again but i'm not exactly sure about that i think that you know obviously you know if you have like a 
+
+395.87 396.69 A: right 
+
+405.28 409.05 B: i don the best way i know how to put it is a kamikaze attitude 
+
+407.99 409.71 A: yeah exactly 
+
+411.38 418.33 B: you know you know you're going to in your own country you're going to be a hero you're going to 
+
+418.84 421.30 B: you know die a martyr and you know 
+
+420.59 421.75 A: mhm 
+
+422.14 423.63 B: and and 
+
+423.78 429.20 B: i guess that brings honor and everything on your family and you know whoever remains 
+
+429.53 437.14 B: all kinds of things i really don't understand but but you know just like in our culture 
+
+437.67 439.50 B: you know you um 
+
+439.55 444.24 B: um you know the younger generation i mean i don't know how young you are 
+
+445.37 447.68 A: i'm twenty four so 
+
+445.76 447.70 B: [laughter] okay 
+
+447.82 451.35 B: really well maybe even younger than that then 
+
+448.39 449.90 A: (( yeah )) 
+
+450.75 452.73 A: [laughter] 
+
+451.68 464.89 B: because i have a i have a son about your age yeah and [laughter] my wife's laughing at me [laughter] we both have kids about your age but the 
+
+454.88 456.08 A: oh really 
+
+459.76 462.19 A: oh [laughter] 
+
+463.01 464.65 A: oh okay 
+
+465.64 467.90 B: younger generation in thinking 
+
+468.43 471.65 B: that you know they are so heavily influenced 
+
+471.93 482.45 B: by you know what they see what's going on and things like that so they try to emulate and i was suspected in that in that respect that it's no different in 
+
+483.02 485.58 B: some of these middle east countries that harbour 
+
+486.69 487.96 B: the you know 
+
+488.68 491.81 B: large pockets of the terrorist groups 
+
+491.43 492.42 A: yeah 
+
+492.92 499.75 B: that they see that you know what happened on nine eleven and they grow up they want to be like that you know and so 
+
+497.84 498.72 A: right 
+
+500.77 502.34 B: i really 
+
+503.07 506.45 B: the guy what is the guy's name who 
+
+506.50 510.96 B: has been appointed with the new position of homeland security 
+
+510.66 511.98 A: tom ridge 
+
+511.36 512.63 B: tom i knew 
+
+512.74 514.09 B: tom what 
+
+513.50 514.58 A: ridge 
+
+514.27 518.73 B: oh tom yeah that's it tom ridge the guy from pennsylvania i 
+
+517.34 518.43 A: yeah 
+
+519.04 522.14 B: don't want his job [laughter] no 
+
+520.37 521.42 A: no 
+
+521.66 523.71 A: no and what 
+
+522.24 523.49 B: i don't want his job 
+
+524.09 526.66 A: president bush is going through right now 
+
+526.39 528.31 B: mhm no 
+
+527.54 529.50 A: why would you ever 
+
+529.22 530.69 B: mhm yeah 
+
+529.68 531.74 A: want to have a job like that you 
+
+531.07 541.70 B: yeah i think they have to do president by committee next or something like that because if i was running for president i think i'd [mn] i think i'd drop out out of the race because that's 
+
+532.33 532.98 A: (( know )) 
+
+534.44 535.63 A: yeah 
+
+535.79 536.86 A: yeah 
+
+539.35 540.49 A: yeah 
+
+541.08 542.59 A: it's crazy 
+
+542.62 552.84 A: there's so much responsibility 'cause you have to figure out everything no matter what it is like bioterrorism like we just were asked to [laughter] 
+
+547.82 549.11 B: yeah i mean 
+
+550.86 556.57 B: yeah exactly exactly i mean you have to wonder you know when he talks 
+
+557.80 561.05 B: with colin powell and 
+
+562.07 563.81 B: (( what's her name rice )) 
+
+563.48 565.00 A: condoleeza rice 
+
+564.18 566.59 B: condal yeah and then 
+
+567.53 570.44 B: what's the attorney general what's the 
+
+570.51 571.99 A: john ashcroft 
+
+571.34 574.07 B: yeah i can't think of none of these guys' names 
+
+573.58 576.54 A: [laughter] because you're on the spot right now 
+
+575.55 583.86 B: yeah yeah but anyway when they go into their you know like sessions or war room or whatever i can't even imagine what their conversation 
+
+583.18 584.37 A: yeah 
+
+584.04 587.09 B: you know and then they talk with the guy who's 
+
+587.39 588.35 B: (( what is it )) 
+
+588.41 596.26 B: tommy franks you know who's head of the you know right now who's head of you know everything that's the build up in the middle east 
+
+594.64 596.84 A: yeah the military mhm 
+
+597.32 599.89 B: i can't even imagine their conversations 
+
+599.17 599.89 A: yeah 
+

@@ -1,4 +1,35 @@
 extends ./layout.jade
 
+block navbar-content
+  div(class="form-inline float-xs-right")
+    div(class="input-group")
+      span(class="input-group-addon", id="passkey}") Passkey
+      input(type="text", class="form-control", aria-describedby="passkey", value="#{passkey}")
+  span(class="navbar-text float-xs-right mr-2", id="test-progress")
+    span(class="current" data-value="#{current}") #{questions.length - current} remaining
+    span(class="total" data-value="#{questions.length}")
+
 block content
-  | Test
+  div(class="col-sm-12 test-content")
+    each q, i in questions
+      - var currentClass = (i === current ? 'abstract-current' : '')
+      div(class="row abstract abstract-#{i} #{currentClass}")
+        div(class="col-sm-12 mb-2")
+          h5 Question ##{i + 1}
+        div(class="col-sm-6 mb-2") !{q.abstract}
+        div(class="col-sm-3")
+          each answer, j in q.answers
+            div(class="input-group mb-2")
+              span(class="input-group-addon", id="addon-#{j}") #{j + 1}
+              input(type="text", class="form-control answer answer-#{j + 1}", aria-describedby="addon-#{j}" value="#{(answer !== null) ? answer : ''}")
+        div(class="col-sm-3")
+          button(type="button", class="btn btn-primary previous-abstract mr-2") Previous
+          button(type="button", class="btn btn-primary next-abstract") Next
+          button(type="button", class="btn btn-primary finish-abstract") Finish
+          div(class="alert alert-info saving-status mt-2", role="alert") Saved
+  div(class="col-sm-12 test-completed text-xs-center")
+    | Thanks for completing the cloze test.  You may now close this window.
+
+
+block scripts
+  script(type="text/javascript", src="/scripts/test.js")

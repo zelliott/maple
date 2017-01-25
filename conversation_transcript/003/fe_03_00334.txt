@@ -1,0 +1,476 @@
+# fe_03_00334.sph
+# Transcribed at the LDC
+
+13.49 16.64 B: uh what kind of a business would we open if we were to open a business 
+
+16.49 16.97 A: right 
+
+16.89 20.86 B: yeah so what so what kind of business do you think you would open 
+
+21.54 23.82 A: uh i think i'll get in to (( )) 
+
+24.31 25.61 A: i'm uh 
+
+25.74 27.53 A: astronomer by profession 
+
+27.53 28.89 B: oh uh-huh 
+
+28.24 31.51 A: i think i would like to get in to a business which involves 
+
+31.63 32.70 A: essentially some 
+
+33.07 35.87 A: making use of computing and high high tech resources 
+
+36.17 36.97 B: oh cool 
+
+37.00 37.36 A: yeah 
+
+37.52 38.75 A: so i think i would like too 
+
+39.60 41.12 A: to get in to something (( )) 
+
+41.69 43.69 A: which will use a small part of (( )) 
+
+44.04 44.85 A: uh hardware 
+
+45.92 47.60 A: which can be a substitute for 
+
+48.24 49.62 A: currently a large machine 
+
+50.31 53.06 A: uh usually used for medical imaging and things like that 
+
+54.21 56.14 B: more yeah that sounds cool 
+
+56.28 59.49 B: i would probably do something a little less academic 
+
+59.21 59.77 A: okay 
+
+59.61 65.37 B: um so i really like like old films so i'd probably open like a like a used bookstore 
+
+62.40 62.77 A: okay 
+
+65.44 65.90 A: okay 
+
+65.64 71.62 B: that like sold like old films and like ol- like books about film like that kind of a thing 
+
+72.02 72.32 A: oh 
+
+72.13 72.49 B: but 
+
+72.60 73.45 B: you just (( )) 
+
+73.61 75.82 B: um so yeah probably something like that 
+
+76.48 77.38 A: yeah good 
+
+78.42 79.12 A: i was 
+
+79.23 80.25 A: okay actually i 
+
+81.33 84.09 A: i never really thought of opening a business and stuff like that 
+
+83.83 92.66 B: yeah i never really did either it seems like i wouldn't be good at it or i wouldn't i don't know it's also never been my life's dream to open a business 
+
+84.26 84.55 A: (( what if )) 
+
+84.67 84.94 A: yeah 
+
+90.80 91.52 A: (( yeah )) 
+
+92.12 94.53 A: yeah but what i think i would be better at is 
+
+94.90 100.69 A: is developing something which would probably make a good product and then turn it over to someone to sell it 
+
+99.98 103.82 B: oh so you would like develop it and like think about it like create it 
+
+103.97 104.31 A: yeah 
+
+104.39 104.96 B: right 
+
+104.42 107.63 A: because that i think is something i'm better at than selling things 
+
+108.13 108.42 A: so it would 
+
+108.92 110.98 A: better to do something what you are better at rather than 
+
+110.16 116.83 B: yeah that's definitely true i i never even like open a new business is just something that i never thought of doing at all 
+
+116.85 117.22 A: (( )) 
+
+117.28 128.95 B: so like the the idea of opening a bookstore is like very appealing to me and like i work at a used bookstore right now but um in in real life like in actuality that's not something that i would do 
+
+129.36 129.85 B: um 
+
+129.48 129.73 A: yeah 
+
+130.02 132.05 B: just because i happen to like them you know 
+
+132.03 133.13 A: true yeah and 
+
+132.78 133.21 B: yeah 
+
+133.66 136.99 A: in the past i worked for awhile with someone in trying to develop a product 
+
+137.32 137.76 B: uh-huh 
+
+137.62 138.25 A: and 
+
+138.36 142.72 A: i mean i did i think two things like okay taking the feedback from the clients 
+
+142.37 143.16 B: right 
+
+142.89 144.10 A: improving the product just 
+
+144.19 145.84 A: to meet the requirements and so on 
+
+146.03 150.46 B: wait so do you make stuff for like i'm sorry did you say it was astrophysics 
+
+150.63 151.72 A: yeah it's astrophysics 
+
+151.61 153.14 B: so you do stuff for space 
+
+153.52 154.32 A: uh yes 
+
+155.16 157.37 B: oh like like for what kind of 
+
+157.70 159.48 B: like what like what kind of thing 
+
+159.65 160.72 A: okay what we 
+
+161.07 164.56 A: uh typically try to do is we use telescopes on the 
+
+164.69 165.82 A: on the ground 
+
+165.65 166.12 B: uh-huh 
+
+165.97 167.80 A: and point them to some object in the sky 
+
+168.13 171.31 B: so you develop like technology for telescopes 
+
+168.50 168.76 A: (( )) 
+
+171.61 172.33 A: uh okay 
+
+172.49 172.85 A: what 
+
+174.20 179.07 A: okay what i've been developing is basically what you can do with the data you get from these telescopes 
+
+178.91 179.92 B: oh 
+
+179.65 180.96 A: once you have this data 
+
+181.14 183.55 A: you acquire this data because you have a particular 
+
+183.67 185.82 A: (( )) in mind you wanted some information about 
+
+186.25 187.68 A: of that in which you were looking 
+
+188.44 191.27 A: so how can you extract that information from this data 
+
+191.66 193.36 A: and that's what i typically work on 
+
+193.76 195.07 B: oh cool 
+
+197.39 198.32 A: small signal which is 
+
+198.66 200.35 A: (( )) deep in to the (( )) in the data 
+
+200.55 201.16 B: right 
+
+201.26 204.92 A: right and that's why it's something which can also be used for medical imaging with 
+
+205.26 207.04 A: you are now typically looking for 
+
+207.19 208.53 A: a very small signature 
+
+209.04 211.96 A: in something which uh which is mainly noise but has 
+
+212.07 212.70 A: some very 
+
+212.83 214.99 A: tiny amount of information for which you are looking 
+
+215.19 215.75 B: right 
+
+216.02 216.59 A: so that's what 
+
+216.86 218.37 A: i specialize in looking for 
+
+218.93 220.61 A: for small things in a (( hay stack )) (( )) 
+
+221.35 222.87 B: wow that sounds really hard 
+
+223.17 225.64 A: why it's it's a matter of what you like to do 
+
+225.49 228.60 B: right what did you want to do like where were you trained at where did you go to school 
+
+228.75 229.44 A: uh 
+
+229.54 231.21 A: okay i i come from india 
+
+231.40 231.82 B: uh-huh 
+
+231.86 232.59 A: i did my 
+
+232.81 235.13 A: thesis um um a (( )) thesis there 
+
+235.77 238.29 A: and then for the past two years i've been working uh 
+
+238.46 239.98 A: at a research lab in france 
+
+240.85 243.89 A: there also i was trying to develop some algorithms for looking for 
+
+244.43 246.54 A: for a very small signal very deep inside 
+
+247.39 248.35 B: wow 
+
+248.54 252.35 B: wow yeah i'm still a student i'm studying music and anthropology 
+
+250.86 251.14 A: oh 
+
+252.25 253.51 A: oh wow okay i 
+
+253.13 253.64 B: yeah 
+
+253.99 256.59 A: tend to envy people who can make music yeah 
+
+256.67 260.47 B: yeah it's really like i really like it 
+
+257.83 258.12 A: (( i've )) 
+
+260.65 263.90 B: and um it's a really good time and i'm learning like so much 
+
+264.09 270.85 B: but i'm the only problem is like i'm not really a piano player and you have to learn to play piano to be a music major so that's been a struggle but um 
+
+270.89 271.65 A: uh okay 
+
+271.19 273.38 B: other than that it's good times 
+
+273.32 274.74 A: yeah well what do you like to play 
+
+274.78 278.39 B: um i'm a wind player so i play saxophone clarinet um 
+
+277.77 281.85 A: oh wow okay yeah i like the the sound of the saxophone very much 
+
+278.63 279.11 B: and 
+
+279.25 279.52 B: (( )) 
+
+281.23 285.29 B: yeah a lot of people do it's really pretty 
+
+284.14 284.46 A: yeah 
+
+285.76 286.47 B: yeah 
+
+286.08 286.78 A: very nice i mean 
+
+287.36 290.94 A: and also it's (( sort of )) joy to to be able to make music i mean 
+
+291.06 292.65 B: yeah yeah 
+
+293.11 295.64 A: and that's something which i which i can not (( )) 
+
+295.75 302.01 B: yes but i can never do astrophysics so there you go it's all like even 
+
+299.01 299.88 A: oh that's okay 
+
+302.23 305.97 A: right i mean you can bring joy to (( )) well it's a little more difficult for me to do that 
+
+306.10 312.30 B: yeah that's true that's true hence the different things that we would want to do with our like businesses 
+
+307.83 308.72 A: that's a good one 
+
+312.18 312.79 A: great 
+
+312.64 314.53 B: perspectively if we were to have them 
+
+314.48 314.88 A: -n yeah 
+
+315.13 315.86 B: yeah 
+
+316.46 317.10 A: great 
+
+318.98 321.29 A: okay i suppose our time is not yet up 
+
+321.46 321.74 A: (( yes )) 
+
+321.58 323.24 B: i don't know how long are we supposed to talk for 
+
+323.56 323.89 A: what about 
+
+324.62 325.37 A: nine or ten minutes 
+
+325.55 327.52 B: oh okay how long have we talked for so far 
+
+327.55 329.56 A: i didn't look at my watch when we started 
+
+329.29 332.20 B: i didn't either probably like five or something um 
+
+330.97 331.29 A: yeah 
+
+333.16 334.12 B: so 
+
+333.63 337.39 A: okay i can tell you maybe the reason why i would like to get in to a business like this 
+
+337.24 337.92 B: okay tell me 
+
+337.95 338.70 A: yeah so 
+
+339.15 339.53 A: i think 
+
+340.28 342.58 A: the main reason for me is that 
+
+342.76 348.58 A: a lot of medical equipment which is being used at the moment is really very specific to a particular task 
+
+348.91 349.41 B: uh-huh 
+
+349.44 352.55 A: but it is possible to have more general (( purpose )) equipment 
+
+353.43 354.20 A: which can 
+
+354.52 357.17 A: where the same piece of equip- equipment can do many things 
+
+357.39 357.91 B: uh-huh 
+
+358.18 359.14 A: so it's i mean that 
+
+359.39 360.49 A: basically means in 
+
+360.94 362.82 A: a smaller investment on part of the 
+
+363.16 364.29 A: medical service provider 
+
+364.53 365.04 B: uh-huh 
+
+364.81 367.26 A: that using the same thing you can achieve many different things 
+
+368.30 368.99 B: wow 
+
+368.35 368.72 A: and 
+
+368.92 369.64 A: and for a 
+
+369.75 374.14 A: developing country like the one from where i come it means it it means a big thing to be 
+
+374.24 376.06 A: to be able to have a machine which can do 
+
+376.58 378.02 A: maybe any (( )) and 
+
+379.52 382.66 A: and (( )) or various other kind of medical tests all in one 
+
+382.88 383.33 B: right 
+
+383.57 384.41 A: right so that's 
+
+384.54 387.47 A: that was my motivation for thinking about something like this 
+
+387.65 388.17 B: right 
+
+388.10 393.15 A: i think it's it's pretty much possible given the technology which is around it's it's not difficult to do it anymore 
+
+393.49 394.02 B: right 
+
+393.93 395.64 A: only nobody seems to be interested in it 
+
+395.78 397.74 B: right exactly like 
+
+396.48 396.73 A: (( )) 
+
+397.31 400.90 A: mainly if i mean i think because it means less profit for the big companies 
+
+400.85 401.41 B: yeah 
+
+414.26 416.27 B: and um or like it's in 
+
+416.74 426.39 B: like a lot of organizations are trying to um like restore it and -cause it's like disappearing and like the film is like degrading and like rapidly decaying so um 
+
+423.93 424.22 A: yeah 
+
+426.60 427.79 B: like it would be cool to 
+
+428.43 429.80 B: i mean be a part of that an- 
+
+430.05 436.03 B: help to get people interested in it -cause it's so good and just most people are like totally don't know anything about it 
+
+436.85 438.45 A: right maybe you would also like to make 
+
+438.63 441.17 A: video copies of old old movies or that 
+
+441.71 444.28 A: they can be preserved for future and more people can access it 
+
+443.78 447.39 B: right and more people have access to them right exactly yeah yeah 
+
+445.57 445.82 A: yeah 
+
+447.50 448.31 A: it would be a neat thing to do 
+
+449.37 450.34 B: so 
+
+451.37 454.99 B: but i honestly don't think that i'm going to end up doing that so 
+
+455.55 460.76 A: well same here i mean i think i'll i'll probably stick to some lab other than to some business 
+
+460.74 461.09 B: right 
+
+461.85 463.64 B: right well you can truly like that so 
+
+464.64 465.40 B: that will 
+
+465.98 467.72 A: sorry i i didn't get what you said last 
+
+467.87 471.22 B: oh i did said you seem to really like it so that won't be a big loss 
+
+471.26 471.74 A: yeah yeah 
+
+471.75 472.36 B: that 
+
+471.88 472.14 A: right 
+
+472.24 474.43 A: yeah i'm certainly enjoying what i'm doing and i 
+
+474.09 474.60 B: yeah 
+
+474.92 476.40 A: instead to keep it that way yeah 
+
+477.88 478.52 A: um good 
+
+478.63 479.36 B: that's good 
+
+479.42 479.71 A: yeah 
+
+481.01 482.96 A: good so which part of the u._s. do you come from 
+
+483.12 488.72 B: um well right now i'm going to school in boston so i'm living in um cambridge but i'm actually from los angeles 
+
+489.46 490.15 B: so 
+
+490.39 491.52 B: and you're from india 
+
+491.53 494.22 A: i'm from india though i'm currently not so far from boston 
+
+494.74 496.36 A: i'm at uh m._i._t. 
+
+496.75 498.03 B: oh yeah i'm at harvard 
+
+498.24 499.03 A: yeah oh great 
+
+498.92 499.87 B: so i'm just down the road 
+
+499.96 500.74 A: yeah sure 
+
+500.36 501.58 B: yeah 
+
+501.85 502.42 B: um 
+
+503.06 506.04 B: what uh what was i (( gonna )) say i totally forgot um 
+
+506.77 508.95 B: oh so wait how long did you live in europe for 
+
+509.20 510.15 A: uh for two years 
+
+510.09 511.43 B: do you miss living in europe 
+
+512.06 513.04 A: uh a little bit 
+
+513.22 513.82 B: yeah 
+
+514.03 514.47 A: yeah 

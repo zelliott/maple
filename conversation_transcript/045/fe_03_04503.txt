@@ -1,0 +1,427 @@
+# fe_03_04503.sph
+# Transcribed by BBN/WordWave
+
+0.37 1.57 A: (( hello )) 
+
+0.61 1.63 B: (( hi )) 
+
+2.40 4.13 A: (( yeah hi i'm )) 
+
+3.65 4.41 B: (( hello )) 
+
+4.78 5.68 A: (( hello )) 
+
+6.12 7.57 A: (( can you hear me )) 
+
+7.58 8.54 B: yes 
+
+8.66 10.54 A: hi i'm ondo 
+
+10.42 11.86 B: my name is george 
+
+11.81 13.49 A: george nice to meet you 
+
+13.65 14.69 A: (( so ah )) 
+
+16.49 17.40 A: i guess 
+
+17.45 22.60 A: schools in the united states what do you think public schooling 
+
+22.39 27.06 B: well i don't really know because i haven't been into school in a long time [laughter] 
+
+27.11 31.91 B: i'm kind of old to be in school but ah 
+
+31.97 34.92 B: i guess the public school system is 
+
+32.06 33.01 A: well 
+
+35.35 39.93 B: is good should be good 
+
+36.96 38.18 A: (( is good )) 
+
+39.15 43.62 A: you you attend ah public school growing up 
+
+43.55 44.65 B: excuse me 
+
+44.46 49.14 A: did you did you attend ah like public high school public elementary school or 
+
+47.93 50.64 B: i attended a public high school 
+
+50.47 54.16 A: uh-huh you didn't you didn't go to ah any private schools at all 
+
+54.90 55.97 B: excuse me 
+
+55.84 58.17 A: you didn't attend a a private school 
+
+58.10 64.49 B: i attended ah parochial ah elementary school and public high school 
+
+64.32 65.27 A: uh-huh 
+
+65.88 68.40 A: and ah that that went well for you 
+
+68.57 73.98 B: yes i graduated with my g._e._d. in nineteen eighty oh 
+
+73.70 74.65 A: uh-huh 
+
+75.64 76.47 A: (( so )) 
+
+78.50 81.57 A: (( yes i i public schooling )) 
+
+81.99 84.54 A: i have to think about it for a little while 
+
+85.83 88.34 B: now you have to tell me what you think of it 
+
+88.67 91.00 A: yeah i think we're supposed to discuss it 
+
+92.07 93.31 A: um 
+
+95.29 101.26 A: ah it seems good um but then it also it has been recently suffering from a lot of 
+
+101.74 103.05 A: budget cuts 
+
+103.07 105.36 A: ah where are you from 
+
+105.84 107.03 B: where do i live 
+
+107.37 108.42 A: pardon me 
+
+108.65 110.70 B: well wh- where do you live 
+
+110.78 112.46 A: i'm in new york 
+
+112.02 114.06 B: oh you are in new york okay 
+
+114.05 117.45 A: yeah so i know they've been suffering they've been suffering here 
+
+118.20 128.70 A: um and just you know i've been hearing a lot of stories and that sort of thing you know of teachers getting laid off and you know meanwhile we seem to be spending a lot of money on the military 
+
+129.39 132.76 B: so you think they're spending a lot of money 
+
+129.71 130.55 A: so 
+
+131.79 133.88 A: on the military yeah like 
+
+133.62 137.41 B: oh that the government are spending a lot of money on the military 
+
+136.72 141.42 A: yeah which some of it could i think could be ah better spent on education 
+
+142.08 156.38 A: just because ah ah apparently like fifty percent of like u._s. taxpayers' money goes towards you know military spending and education's only like eight percent or something like that 
+
+142.18 144.01 B: (( oh )) 
+
+155.28 157.12 B: (( oh )) 
+
+156.48 159.54 A: so you know you reduce military spending by 
+
+159.64 161.95 A: ten percent and you're increasing 
+
+162.46 167.30 A: public ed- you could increase public edupending education funding by 
+
+167.52 171.30 A: like seventy five or like sixty percent 
+
+171.37 172.38 A: so 
+
+173.92 178.20 A: ah it seems like they're doing a fairly good job with the amount of money that they are using though it 
+
+179.01 182.58 A: seems like you know people are getting good educations and 
+
+184.04 185.80 A: yeah 
+
+185.58 188.48 B: did you graduate from public high school 
+
+188.42 189.92 A: ah yes i did 
+
+189.70 191.76 B: oh you did oh 
+
+191.53 194.66 A: yeah i'm not a not a private guy so 
+
+195.62 196.77 A: (( i i went )) 
+
+195.79 197.02 B: excuse me 
+
+197.44 200.88 A: i wasn't i didn't go to a private private school at all 
+
+200.10 202.43 B: oh you didn't go to a private school 
+
+202.00 205.42 A: yeah um well actually i grew up in massachusetts 
+
+205.62 207.86 B: (( oh )) 
+
+207.72 208.76 A: so 
+
+209.00 215.05 A: i w- i i was pretty privileged as far as like the school the high school in my town was 
+
+214.12 215.17 B: (( oh )) 
+
+215.75 220.01 A: definitely very good one of the much one of the best in the state so 
+
+217.95 218.77 B: oh 
+
+219.08 221.22 B: but you went how how old are you 
+
+221.28 222.76 A: i'm eighteen 
+
+222.60 223.73 B: how old 
+
+223.57 224.42 A: eighteen 
+
+224.38 226.08 B: like you're only eighteen 
+
+225.89 227.81 A: (( i just graduated last )) 
+
+226.42 227.55 B: oh god 
+
+227.90 230.81 B: so you're you're very much a child [laughter] 
+
+230.57 232.31 A: year i'm very much what 
+
+232.19 234.34 B: i said you're very young 
+
+234.21 236.06 A: very young yes i am 
+
+235.84 239.67 B: even though we're speaking about ah you know you're still very young [laughter] 
+
+239.54 241.63 A: well that's yeah 
+
+242.12 245.82 A: that's sort of my perspective just far as age is concerned so 
+
+245.54 247.53 B: (( oh )) 
+
+246.72 250.25 A: but um living in the city right now um 
+
+250.99 252.91 A: which is i you know that's sort of 
+
+252.92 254.59 A: it's given me 
+
+254.71 258.69 A: (( a point of view on life apart from the school setting so )) 
+
+255.09 256.64 B: (( oh )) 
+
+259.57 262.80 A: you know i'm not like in college now it's like yeah 
+
+262.33 264.01 B: you're not in college 
+
+263.89 266.32 A: i'm not so i can sort of view 
+
+267.13 272.83 A: you know the school from sort of a separate ah apart from being in school i guess 
+
+273.10 274.54 A: is my perspective 
+
+275.08 277.31 B: (( oh )) 
+
+276.32 277.41 A: um 
+
+278.89 283.08 B: but you think that the public school system is good 
+
+282.38 286.18 A: at least you know as far as the education that i received it was 
+
+286.89 290.60 A: (( i think i got a i think i got a very good education but )) 
+
+286.97 289.00 B: was good 
+
+289.95 292.98 B: oh that's good 
+
+292.06 294.36 A: you know i think i was definitely ah 
+
+295.28 299.45 A: (( you know i attended a very good school and you know i just came from ah )) 
+
+299.72 301.73 B: (( uh-huh oh )) 
+
+300.26 303.59 A: from my just my background my family and that sort of thing 
+
+303.32 305.43 B: (( oh )) 
+
+303.96 310.14 A: also you know a lot you know maybe it's easier and it allowed me to sort of take fuller advantage of 
+
+310.94 313.24 A: you know what was being offered so 
+
+314.42 315.52 A: (( and i sort of )) 
+
+315.58 318.24 A: (( well off in that respect i suppose )) 
+
+319.31 320.43 A: um 
+
+320.72 322.80 A: i don't know were you 
+
+324.00 328.18 A: were you sort of struggling at school or did you feel did you feel that you 
+
+328.60 330.48 B: if i was struggling in school 
+
+330.56 332.70 A: do you think do you feel that you 
+
+333.14 337.32 A: were ad- you had an advantage in school or do you think you're ah 
+
+336.47 337.55 B: (( yes )) 
+
+338.09 339.41 A: you had an advantage 
+
+338.34 341.65 B: i had an advantage when i w- when i was in school 
+
+341.66 342.75 A: how so 
+
+342.72 343.50 B: huh 
+
+343.48 344.54 A: how so 
+
+344.48 347.22 B: because ah i 
+
+347.53 350.88 B: was able to graduate from high school 
+
+350.81 351.57 A: (( ah )) 
+
+351.27 354.23 B: at that time well i didn't actually graduate 
+
+354.24 367.75 B: because i had my g._e._d. but i do the question really was ah was really ah do you think the public school system is good today right that's what it really is 
+
+367.90 369.61 A: (( um yeah i mhm )) 
+
+368.49 369.64 B: and it's 
+
+370.00 373.12 B: still into it well i think it's pretty good 
+
+373.65 375.03 B: because 
+
+375.23 376.73 B: (( um )) 
+
+379.33 385.35 B: i just think it's good i i mean i really can't go back that far because i haven't been into 
+
+385.58 390.09 B: into school in a long time and um 
+
+388.51 392.92 A: there's there's just your general feeling is that schooling is good but 
+
+392.00 395.85 B: general that i think it should be 
+
+396.33 397.61 B: (( good [laughter] )) 
+
+396.82 398.24 A: (( you s- you )) 
+
+398.51 400.61 A: don't have kids in school do you 
+
+400.53 401.45 B: huh 
+
+401.30 403.31 A: do you have ki- children in school 
+
+403.41 405.55 B: do i ah attend school now 
+
+405.27 408.70 A: no do you have do you have children that are in school 
+
+408.16 414.48 B: do i have children no that's what i was thinking about right now i was thinking about young people 
+
+409.36 410.54 A: yeah 
+
+414.62 416.18 B: that um 
+
+416.36 421.14 B: should be attending school and ah they should um 
+
+421.70 422.28 B: (( [lipsmack] )) 
+
+423.26 429.59 B: they should to me i think that they should think you know that the school system is good because ah 
+
+431.00 433.73 B: because i went to parochial school 
+
+434.32 436.64 B: and i know children 
+
+436.78 439.57 B: that go to parochial school and they would 
+
+440.16 444.58 A: right now you know people that are you know people that are currently attending school 
+
+440.23 442.01 B: you know they would watch 
+
+444.74 446.25 B: ah excuse me 
+
+446.24 447.50 A: you know people 
+
+446.35 449.52 B: oh i and i have a ah child i 
+
+449.62 454.92 B: want my child really to attend parochial school so 
+
+454.85 465.04 B: the public even though i think you know i consider it the public school system good but i would like to have a ah put a you know if i had a child 
+
+465.14 467.45 B: put them in parochial school 
+
+467.88 469.51 B: that's even better 
+
+469.87 471.58 A: why do you think that's better 
+
+471.43 472.30 B: huh 
+
+472.34 475.00 A: why do you you think that's better because for 
+
+474.86 480.76 B: why do i think it's better well not that it's better it's just that um 
+
+475.21 476.45 A: what reason 
+
+480.60 482.13 A: that's your belief mhm 
+
+481.34 483.46 B: i guess both um 
+
+483.50 486.29 B: type both school systems are good 
+
+486.92 489.30 B: (( and ah )) 
+
+491.15 503.25 B: you know i would rate it i can't i don't know if i would rate it the same but ah i me having gone to pub- parochial school and to public high school but public high school was 
+
+503.34 507.49 B: good you know i got a good education at ah 
+
+507.74 510.74 B: at norman thomas i got ah 
+
+512.04 518.48 B: i excuse me i got ah computer studies and stuff like that which was good because i 
+
+518.54 520.82 B: graduated with my g._e._d. so 
+
+521.12 524.73 B: basically the public school system is very good 
+
+525.36 530.17 A: you you you're saying it's good because you were able to graduate with a g._e._d. 
+
+530.09 531.01 B: huh 
+
+530.98 536.37 A: i'm not sure why you're s- why you're saying public schools are good because 
+
+536.71 539.90 A: you were able to graduate with a g._e._d. 
+
+540.40 541.55 A: is that why you're 
+
+541.59 544.42 B: well yeah probably [laughter] 
+
+544.81 547.19 A: (( [mn] wasn't that more a reflection on )) 
+
+546.02 556.51 B: i n- i never went to college i don't have a college degree but i think that the public school system is good now and you know mayor bloomberg has got a 
+
+548.43 549.15 A: (( uh-huh mhm )) 
+
+557.03 560.57 B: prob- i think mayor bloomberg is going to continue 
+
+560.64 564.33 B: to help the children get you know better education 
+
+565.12 567.01 B: (( and ah )) 
+
+567.57 570.50 A: you graduated from high school in nineteen eighty 
+
+570.26 571.15 B: huh 
+
+571.13 573.45 A: you graduated in nineteen eighty hm 
+
+573.13 575.29 B: i i graduated yes in 
+
+576.14 577.51 B: nineteen eighty 
+
+578.17 580.42 B: you know i am much older than you [laughter] 
+
+581.03 583.01 A: well twenty years 
+
+583.88 584.92 B: excuse me 
+
+584.99 586.34 A: (( twenty years )) 
+
+586.85 588.05 B: twenty years 
+
+587.91 589.29 A: yeah 
+
+588.88 592.01 B: no well actually twenty three [laughter] 
+
+591.67 594.79 A: right no about twenty is close enough 
+
+594.89 596.10 B: yeah 
+
+597.41 598.70 A: um 
+

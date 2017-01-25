@@ -1,0 +1,509 @@
+# fe_03_01890.sph
+# Transcribed by BBN/WordWave
+
+0.00 0.57 B: (( hello hi )) 
+
+0.78 1.84 A: (( hello )) 
+
+1.58 2.85 B: (( this is diana )) 
+
+4.22 6.39 B: keenan hi this is diana phillips 
+
+5.99 7.38 A: hi how are you 
+
+6.97 8.85 B: (( i'm fine thank you )) 
+
+8.25 10.35 A: (( and where are you )) 
+
+10.78 13.09 B: (( [mn] philadelphia pennsylvania )) 
+
+12.83 14.28 A: (( ca- )) 
+
+14.16 15.45 B: okay 
+
+17.07 18.21 B: (( oh okay )) 
+
+19.51 20.77 A: (( where )) 
+
+24.46 28.88 B: okay well my mom and my my dad live here and i have uh 
+
+28.93 31.91 B: (( uh two sons that live here in philadelphia also )) 
+
+33.88 37.56 B: yeah i have a my family's not have very very large 
+
+38.05 41.48 B: but it's we've got a couple quite a few people 
+
+56.96 57.65 B: (( in )) 
+
+57.79 58.72 B: (( our )) 
+
+59.49 60.50 B: (( family )) 
+
+64.80 65.59 A: (( where )) 
+
+68.68 69.47 A: (( are )) 
+
+69.60 70.33 A: (( you )) 
+
+70.82 71.82 A: (( in )) 
+
+78.69 79.66 B: oh 
+
+80.53 81.22 B: (( oh )) 
+
+81.02 82.26 A: (( what state )) 
+
+83.34 84.49 B: (( okay )) 
+
+85.49 90.91 B: (( my husband is from new york and he has one sister )) 
+
+88.68 89.69 A: (( oh )) 
+
+93.23 96.52 B: (( and two )) 
+
+96.42 97.75 A: okay 
+
+103.55 104.29 A: (( i'm )) 
+
+104.75 105.67 A: (( in )) 
+
+106.77 108.59 A: (( connecticut but )) 
+
+112.73 114.33 B: (( brothers that are still )) 
+
+115.77 116.74 A: (( i )) 
+
+116.29 117.82 B: (( alive okay )) 
+
+118.44 119.23 A: (( have )) 
+
+122.33 123.25 B: (( oh )) 
+
+123.47 124.43 B: (( okay )) 
+
+126.98 128.03 A: (( relatives )) 
+
+128.53 129.69 B: (( oh )) 
+
+132.05 132.86 A: (( in )) 
+
+133.95 136.95 A: (( philadelphia um i remember growing )) 
+
+138.77 139.46 A: (( up )) 
+
+139.26 140.19 B: (( yes )) 
+
+142.55 143.42 B: (( it )) 
+
+143.85 148.04 A: (( and going there um my )) 
+
+148.11 149.15 A: (( mother )) 
+
+150.92 152.64 A: (( um my )) 
+
+154.81 155.89 A: (( aunt )) 
+
+156.24 165.77 A: (( and uncle )) 
+
+161.67 162.97 B: (( is )) 
+
+165.81 166.69 B: (( um )) 
+
+166.62 167.42 A: (( live )) 
+
+168.24 169.94 B: (( my my husband's )) 
+
+168.31 169.09 A: (( there )) 
+
+170.75 171.80 A: oh 
+
+171.25 172.43 B: (( family )) 
+
+172.57 173.28 B: (( are )) 
+
+173.29 173.89 B: (( all )) 
+
+173.96 174.87 B: (( in )) 
+
+175.25 176.23 B: (( ah )) 
+
+181.76 183.37 B: (( new york )) 
+
+183.12 185.50 A: (( good uh-huh )) 
+
+185.57 188.62 B: (( now i have )) 
+
+186.48 187.46 A: yeah 
+
+188.90 189.63 B: (( a )) 
+
+189.89 192.17 B: (( sister that's in scranton )) 
+
+191.83 194.85 A: (( well actually i )) 
+
+194.90 196.03 B: (( pennsylvania )) 
+
+197.16 197.84 A: (( don't )) 
+
+198.28 202.49 B: (( and i have a nephew that's in )) 
+
+203.83 205.81 B: (( allentown pennsylvania )) 
+
+206.27 208.46 B: (( but they're mm oh 'cause that's )) 
+
+208.76 210.10 B: (( like almost )) 
+
+210.06 211.41 A: (( i me )) 
+
+211.02 212.67 B: (( near williamsport )) 
+
+212.27 213.78 A: (( myself i'm um )) 
+
+213.55 214.72 B: (( somewhere )) 
+
+215.05 217.66 B: (( around williamsport mhm )) 
+
+216.80 222.61 A: (( [lipsmack] )) 
+
+222.33 223.45 B: (( yeah )) 
+
+224.40 227.25 A: (( just my sister and i but my husband is from )) 
+
+230.33 231.68 A: (( eight oh uh-huh mhm mhm )) 
+
+231.71 234.08 A: (( yeah my ah well )) 
+
+234.27 235.67 A: (( my husband was )) 
+
+236.88 238.60 A: (( born in maine though )) 
+
+238.83 244.31 A: (( [mn] )) 
+
+241.28 242.26 B: (( my family's )) 
+
+244.82 245.53 B: (( ah )) 
+
+245.76 252.49 A: (( but then he came to c- i grew up in connecticut and he came here oh you know years ago )) 
+
+253.46 258.03 A: (( and um he's got family everywhere i )) 
+
+258.71 259.47 A: (( mean )) 
+
+259.65 260.46 B: all 
+
+260.51 261.22 A: (( he's )) 
+
+261.62 263.78 A: (( got a sister in virginia )) 
+
+264.01 271.66 A: (( and he's got two in massachusetts he's got brothers in canada so everybody's kind of scattered you know )) 
+
+271.74 272.73 B: (( well )) 
+
+273.10 274.21 B: (( w- )) 
+
+274.98 275.93 B: (( we came )) 
+
+276.26 277.15 B: from 
+
+277.74 278.94 A: (( well i mean )) 
+
+279.32 280.53 B: (( north )) 
+
+279.66 280.47 A: (( you )) 
+
+280.54 283.87 A: (( know it's amazing how they keep in touch with each other so )) 
+
+283.92 286.07 A: (( it's nice oh okay )) 
+
+285.99 287.74 B: (( carolina charlotte north )) 
+
+287.84 288.66 B: (( carolina )) 
+
+288.42 289.17 A: (( uh-huh uh-huh oh )) 
+
+288.83 290.19 B: (( but )) 
+
+292.47 293.32 A: (( okay i )) 
+
+294.38 295.18 B: (( we )) 
+
+298.27 299.21 B: (( all )) 
+
+299.65 300.68 B: (( most )) 
+
+302.99 304.11 B: (( of )) 
+
+304.48 305.41 B: (( the )) 
+
+306.66 308.10 B: (( family is )) 
+
+308.95 310.43 B: (( here )) 
+
+310.21 311.36 A: (( think i )) 
+
+311.89 312.65 A: (( had )) 
+
+313.19 315.19 A: (( a cousin that lived )) 
+
+316.65 317.75 B: (( now )) 
+
+317.09 319.14 A: (( there once but i don't )) 
+
+319.86 321.72 B: (( in philadelphia )) 
+
+321.50 323.40 A: (( think they're in that area now )) 
+
+323.93 326.24 A: (( 'cause actually my my parents )) 
+
+326.34 327.42 A: (( grew up )) 
+
+327.97 331.25 A: (( in um are from pennsylvania but they were )) 
+
+331.63 333.08 A: (( from way upstate by )) 
+
+333.62 335.92 A: (( um my mother was )) 
+
+336.15 339.31 A: (( born in frackville i i )) 
+
+340.52 343.92 A: (( yeah i guess fr- uh-huh uh-huh uh-huh oh uh-huh yeah yeah )) 
+
+344.40 345.99 A: (( how how's )) 
+
+347.12 348.41 A: (( your )) 
+
+348.84 354.55 A: (( weather been are you still into cold weather too yeah yeah yeah )) 
+
+353.37 359.16 B: (( mm [mn] )) 
+
+355.73 356.51 A: (( yeah )) 
+
+356.61 357.39 A: (( you )) 
+
+358.05 361.82 A: (( know actually probably you're about the same as we are right i mean you know )) 
+
+362.37 364.77 A: (( give or take i don't think )) 
+
+365.00 366.59 A: (( there's that much difference )) 
+
+366.69 371.06 A: (( um but i think it's supposed to start warming up )) 
+
+370.84 372.98 B: (( well it's pretty )) 
+
+371.78 378.38 A: (( a little bit now by the weekend yeah i know you know it seems we had really nice weather a couple of days it was like )) 
+
+378.46 381.85 A: (( seventy seventy five and then and then it dropped to fifty so )) 
+
+382.00 384.95 A: (( i mean it was like a really )) 
+
+385.55 386.80 A: (( in )) 
+
+386.84 392.05 A: (( between you know you know but what can you do oh uh-huh oh that's exciting oh good is that their first )) 
+
+387.28 388.25 B: (( nice )) 
+
+392.63 393.91 A: (( yeah oh nice )) 
+
+394.12 394.95 B: (( out )) 
+
+394.50 397.46 A: (( well maybe you'll get a granddaughter )) 
+
+398.94 399.92 B: (( today )) 
+
+399.40 400.41 A: (( now )) 
+
+400.57 419.57 B: (( [lipsmack] )) 
+
+419.54 423.36 B: (( yesterday it was a little chilly )) 
+
+420.78 421.63 A: (( huh )) 
+
+424.21 427.34 A: (( [laughter] not that she would be )) 
+
+425.67 426.85 B: (( but we )) 
+
+427.86 428.75 A: (( spoiled )) 
+
+428.33 432.32 B: (( get some good days and then )) 
+
+428.97 430.10 A: (( or anything like )) 
+
+431.77 432.75 A: (( that )) 
+
+433.53 437.22 B: (( we get some bad days no oh that'd be nice )) 
+
+433.64 434.34 A: (( [laughter] mhm oh )) 
+
+436.58 438.29 A: (( right right yeah )) 
+
+438.49 439.37 B: (( yes )) 
+
+438.67 439.75 A: (( yeah )) 
+
+440.96 442.07 B: yes 
+
+441.00 444.01 A: (( well you know that's true as as )) 
+
+442.88 449.70 B: (( mhm be- and then then circus is here and i get to get to take the grandchildren to the )) 
+
+446.20 447.21 A: (( long as )) 
+
+447.41 448.10 A: (( it's )) 
+
+450.33 451.12 B: (( circus )) 
+
+451.11 452.32 A: (( healthy )) 
+
+451.63 453.99 B: (( and um i just might uh my )) 
+
+453.47 455.81 A: (( and it's ye- yeah )) 
+
+454.98 456.37 B: (( youngest )) 
+
+456.24 457.29 A: (( and everything's )) 
+
+456.48 457.13 B: (( son )) 
+
+458.20 459.39 B: (( has just told he )) 
+
+459.70 466.57 B: (( that his [sigh] wife is expecting )) 
+
+461.61 462.56 A: (( fine )) 
+
+462.69 463.64 A: (( that's all )) 
+
+464.54 465.52 A: (( that )) 
+
+467.18 469.65 A: (( counts you know i know i know actually my sister )) 
+
+469.67 470.63 A: (( my sister )) 
+
+470.69 471.78 A: (( in law my )) 
+
+472.01 473.22 A: (( husband's sister his )) 
+
+472.62 474.58 B: (( yes yes )) 
+
+473.45 474.74 A: (( youngest sister is )) 
+
+474.84 476.72 A: (( in virginia )) 
+
+476.74 478.35 A: (( she's a doctor in )) 
+
+480.41 482.53 B: (( no actually )) 
+
+482.01 485.85 A: (( virginia and she um she has four )) 
+
+486.31 487.09 A: (( kids )) 
+
+486.92 489.32 B: (( we have one two three i think about )) 
+
+488.10 489.25 A: (( now )) 
+
+490.45 491.29 A: (( a )) 
+
+490.73 492.04 B: (( five grandsons it )) 
+
+492.60 493.68 A: (( ten year )) 
+
+494.34 495.10 B: (( would be )) 
+
+494.97 496.12 A: (( old a )) 
+
+496.18 497.00 A: (( three )) 
+
+497.21 499.32 A: (( year old and )) 
+
+499.55 500.39 A: (( she had )) 
+
+500.46 504.12 A: (( twins last july so and she had a boy and a girl so )) 
+
+504.30 506.18 A: (( so i think i think she's about done )) 
+
+505.86 507.53 B: (( very nice )) 
+
+506.81 507.85 A: you know 
+
+509.11 510.58 A: (( [laughter] family )) 
+
+510.68 516.59 A: (( wise you know yeah yeah but you know it's funny because well my mother was from nine there )) 
+
+516.73 520.12 A: (( were six boys and you know three boys and six girls )) 
+
+519.19 520.74 B: (( well you )) 
+
+520.29 521.86 A: (( but my )) 
+
+522.10 530.88 A: (( mother in my mother in law and father in law um my father in law's family was um sixteen you know and my husband's )) 
+
+522.51 523.75 B: (( see um )) 
+
+530.20 532.68 B: (( his wife now she has um )) 
+
+532.04 534.75 A: (( dad died like two )) 
+
+533.83 535.96 B: (( four sisters i )) 
+
+535.75 536.59 A: (( years )) 
+
+537.26 539.06 B: (( believe so they're they're )) 
+
+539.34 541.09 B: (( they're pretty much uh )) 
+
+540.45 541.55 A: (( ago i )) 
+
+541.74 543.75 A: (( mean there's some alive )) 
+
+544.40 547.98 A: (( but but a lot )) 
+
+548.00 551.43 B: (( have a lot of )) 
+
+552.48 556.21 B: (( girls and then )) 
+
+558.71 561.11 B: (( we have a lot of )) 
+
+561.64 562.43 A: (( have )) 
+
+562.41 564.89 B: (( boys ah so i i figure )) 
+
+565.19 566.12 B: whatever 
+
+566.98 567.81 A: (( passed )) 
+
+567.95 569.66 B: (( it is )) 
+
+569.44 571.35 A: (( on now you )) 
+
+570.70 571.89 B: (( as long )) 
+
+572.71 573.86 A: (( know )) 
+
+574.00 574.82 B: (( as )) 
+
+575.29 576.52 B: (( it's healthy mhm )) 
+
+576.24 577.46 A: (( but i )) 
+
+577.90 578.97 A: (( mean he was from )) 
+
+578.64 583.09 B: (( yeah [mn] )) 
+
+579.53 581.36 A: (( sixteen so it was )) 
+
+584.49 585.16 B: (( mhm )) 
+
+584.52 586.74 A: (( quite a big family you )) 
+
+586.34 587.94 B: (( oh my oh )) 
+
+588.08 590.69 B: (( that's good i would be i would definitely be done )) 
+
+591.55 592.68 A: (( know )) 
+
+592.54 593.71 B: (( mhm oh that's )) 
+
+594.02 594.79 B: (( a )) 
+
+596.58 597.63 B: (( lot uh )) 
+
+598.11 599.95 B: (( right yeah )) 
+

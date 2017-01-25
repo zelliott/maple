@@ -1,0 +1,447 @@
+# fe_03_02737.sph
+# Transcribed by BBN/WordWave
+
+0.42 1.80 A: (( hello )) 
+
+1.58 2.79 B: (( hello )) 
+
+2.82 3.86 A: hi 
+
+3.75 4.67 B: hi 
+
+4.74 6.27 A: my name's jenny 
+
+6.16 7.80 B: i'm nell jenny 
+
+8.11 9.28 A: excuse me 
+
+9.31 11.55 B: my name is nell jenny 
+
+11.23 13.33 A: hi where are you from 
+
+13.36 15.62 B: i'm from texas 
+
+15.12 18.16 A: oh really my boyfriend's from texas [laughter] 
+
+17.47 18.67 B: where are you from 
+
+18.80 21.95 A: i'm in uh new york city 
+
+21.37 23.05 B: oh oh okay 
+
+22.49 23.35 A: (( [laughter] )) 
+
+23.60 26.12 B: you're a far pace off then 
+
+26.14 27.31 A: what 
+
+26.71 28.82 B: [laughter] you're a long way off 
+
+28.99 31.07 A: yeah 
+
+29.73 30.41 B: (( then )) 
+
+31.21 34.12 A: so what's the topic bioterrorism 
+
+33.68 34.77 B: uh-huh 
+
+35.56 37.95 A: what do you think they can do to prevent it 
+
+38.27 40.54 B: what do you think can be done to prevent 
+
+40.56 44.52 A: yeah i don't know i don't think anything really [laughter] can be 
+
+45.91 47.43 A: (( because uh i don't )) 
+
+48.74 50.42 A: know [noise] i think uh 
+
+52.46 56.47 A: there's no way to know who's doing it and it's too many people [noise] 
+
+56.92 58.17 A: in the world 
+
+59.08 61.06 A: to keep an eye on everyone 
+
+61.73 62.88 B: (( it well )) 
+
+63.75 74.75 B: i don't think we can necessarily control the world but i think that we have a reasonably good handle on what's going on 
+
+75.09 77.90 B: in the united states and i think that 
+
+79.08 81.90 B: more than likely we have averted uh 
+
+83.18 84.08 B: some 
+
+84.50 86.36 B: bad situations 
+
+85.52 91.03 A: [noise] [noise] [noise] you think we've averted things that [noise] that they don't tell the american public about 
+
+90.39 94.02 B: well you know some of 'em they tell us about 
+
+93.12 94.18 A: mhm 
+
+94.20 98.40 B: i remember right before i went to hawaii in march 
+
+94.54 95.56 A: (( i think )) 
+
+98.82 101.70 B: they were expecting haw- uh honolulu 
+
+102.11 104.22 B: well that was called off so 
+
+105.03 107.31 A: (( [noise] they were expecting what in honolulu )) 
+
+106.94 110.23 B: they were expect uh a terrorist attack 
+
+108.82 110.63 A: a terrorist attack 
+
+110.26 111.40 B: mhm 
+
+110.97 113.69 A: (( oh really i never heard about that )) 
+
+112.02 112.76 B: (( right )) 
+
+113.49 118.00 B: yeah and so you know nothing ever came of it 
+
+116.92 118.82 A: (( [noise] mhm )) 
+
+118.15 119.51 B: (( but um )) 
+
+120.65 123.28 B: i think they're very careful 
+
+123.30 124.79 B: about uh 
+
+126.40 128.71 B: what they have to tell us 
+
+129.05 130.20 B: um 
+
+130.58 133.92 B: they couldn't tell us everything if we did it would just be 
+
+134.85 140.74 B: you know it's open to to the terrorists to know it no i wasn't worried 
+
+137.25 138.81 A: where you worried 
+
+140.24 141.06 A: (( no )) 
+
+141.33 143.84 B: in fact when i was over there 
+
+142.08 144.13 A: (( [noise] )) 
+
+143.96 150.06 B: i was there a week and during the time when i was there was when they struck 
+
+149.56 150.28 A: (( [noise] )) 
+
+150.75 161.46 B: kuwait the first time and you know they were saying that we could change our flights and so forth 'cause i couldn't 'cause i was in a uh [laughter] 
+
+152.07 152.92 A: [noise] 
+
+157.81 159.23 A: really 
+
+161.62 166.09 B: condominium and and i had to be out by certain certain time but 
+
+165.56 169.50 A: uh-huh that's i can't believe i never heard about that 
+
+169.83 173.18 B: well it might have been just local news over there see 
+
+169.93 171.68 A: it sounds kind of serious 
+
+173.37 174.40 A: (( mhm )) 
+
+174.13 176.71 B: i'm sure you hear a lot of things 
+
+176.96 181.90 A: a lot yeah living in the living in new york city it's kind of 
+
+177.28 179.28 B: that we don't hear here 
+
+180.15 182.39 B: right that we don't hear here 
+
+182.78 184.88 A: (( it's a lot scarier i think )) 
+
+185.88 186.76 B: you think 
+
+185.89 191.86 A: i don't know i i always feel like if anything's gonna happen it's gonna happen here and i i was here when 
+
+192.37 198.28 A: the terrorist attack happened on the world trade center so it's kind of yeah 
+
+195.91 197.01 B: oh you were 
+
+198.02 200.17 B: are you originally from new york 
+
+199.05 199.98 A: [noise] 
+
+200.60 204.37 A: no i'm from new jersey but very close to new york 
+
+203.94 205.11 B: right 
+
+204.49 207.65 A: and uh i moved here three [noise] three years ago 
+
+207.66 209.43 A: two years ago actually 
+
+209.79 211.31 B: were you um 
+
+213.20 217.27 B: surprised that it happened the way that it happened 
+
+216.20 222.65 A: oh i [laughter] i couldn't even begin to imagine anything like that could ever happen 
+
+224.11 228.53 A: and it then it did and not really it really affected me 
+
+226.16 227.06 B: were you 
+
+228.49 230.05 B: it did 
+
+229.34 230.46 A: (( mhm )) 
+
+230.62 231.97 B: were you uh 
+
+230.85 232.11 A: definitely 
+
+232.33 234.31 B: able uh do you work 
+
+234.76 236.02 A: yeah 
+
+235.61 238.74 B: were you able to feel comfortable going to work then 
+
+239.26 240.76 A: (( no [noise] for )) 
+
+241.41 245.22 A: doing pretty much anything for a long time for months 
+
+245.92 252.05 A: i was afraid to go on the subway i was afraid to leave my apartment a lot of times 
+
+251.99 253.00 B: oh really 
+
+252.84 255.93 A: mhm it was pretty pretty traumatizing 
+
+258.39 261.40 A: so my neighborhood was turned into uh 
+
+262.89 267.13 A: a emergency medical headquarters 
+
+266.39 267.80 B: oh really 
+
+267.24 268.52 A: mhm 
+
+268.59 271.36 B: well i'm sure that would make it real scary 
+
+273.71 275.56 A: yep it was it 
+
+276.18 277.33 A: was uh 
+
+277.73 278.71 A: (( i don't know )) 
+
+279.67 282.25 A: something i'll never forget that's for sure 
+
+282.38 283.82 B: i'll bet 
+
+285.35 286.27 A: so 
+
+287.45 291.71 A: where in texas are you in a major city or are you in a suburb of texas 
+
+289.99 295.17 B: no i i live in a rural area i leave about eighty miles east of dallas 
+
+295.28 296.27 A: okay 
+
+296.08 298.48 B: what part of texas is your boyfriend from 
+
+298.60 301.19 A: uh right outside of houston 
+
+302.58 303.78 B: and what town 
+
+303.99 304.76 A: uh 
+
+304.79 307.26 A: what spring texas 
+
+307.05 312.71 B: what spring texas yeah well i i have a son that lives in lafort which is you 
+
+307.95 309.00 A: spring 
+
+309.08 309.99 A: yeah 
+
+313.63 315.42 B: know kind of in the area 
+
+314.10 319.06 A: close to there yeah and his family just moved to uh magnolia [noise] 
+
+319.12 321.08 A: which is kind of out in the country 
+
+320.86 322.11 B: right 
+
+321.97 322.99 A: mhm 
+
+323.83 325.83 A: so i don't think that they 
+
+327.36 332.17 A: there is like they living out there they seem to be very 
+
+332.49 342.05 A: out of touch with what's what was going on here when that all happened they really i don't it seemed like they didn't really understand the severity of it 
+
+335.30 336.46 B: oh really 
+
+342.02 348.08 A: 'cause i think that you know they weren't expecting anything to happen to them where they live 
+
+347.64 348.76 B: right 
+
+348.69 349.53 A: (( you know )) 
+
+350.43 354.63 B: well um when i was in houston in january 
+
+355.37 358.30 B: they had one area up there 
+
+358.66 360.36 B: that was hit with a 
+
+361.40 365.69 B: a bug of some kind uh eight hundred students 
+
+364.58 365.51 A: [noise] 
+
+365.77 369.51 B: in one school right they had to actually 
+
+369.53 372.25 B: close the school down there were so many 
+
+371.39 375.18 A: [noise] oh really did they think it was some sort of bio 
+
+372.78 374.11 B: (( people sick )) 
+
+375.08 382.33 B: well i i said to my son i said you don't think that this is something that's connected with that and of course you never know 
+
+375.92 376.78 A: thing 
+
+382.42 383.69 A: mhm 
+
+383.06 386.97 B: but it didn't spread it stayed right there in that locale 
+
+386.89 387.61 A: (( mm )) 
+
+387.58 388.43 B: um 
+
+388.83 391.85 A: yeah that happened actually in some schools up here 
+
+392.75 397.01 A: and a lot of people were saying questioning whether that what it was 
+
+397.06 398.11 B: oh really 
+
+397.92 399.30 A: mhm 
+
+400.22 403.54 A: and i was wondering myself for a while 
+
+404.58 406.53 A: but i mean ever- 
+
+406.91 412.41 A: i'm really paranoid about [laughter] a lot of things like now so i always am like oh it's 
+
+412.94 414.89 A: a terrorist attack or 
+
+413.72 415.22 B: do you live alone 
+
+415.78 417.73 A: uh no i have a roommate 
+
+417.67 419.99 B: but 
+
+420.52 422.28 B: uh i'm widowed 
+
+422.45 423.69 A: mhm 
+
+422.94 425.71 B: and i find myself it's like on my 
+
+426.04 432.51 B: my cellphone i don't have my voice on it i have a man's voice on that phone it 
+
+432.32 433.41 A: uh-huh 
+
+434.03 436.75 B: happened to be the salesman that put me into the 
+
+437.07 437.90 B: the 
+
+437.93 439.63 B: that particular programme 
+
+439.89 440.48 A: (( mm )) 
+
+440.07 448.18 B: and on my answering machine i have a a male i mean a female voice but it is not mine and i have people that say 
+
+448.49 449.50 B: oh 
+
+450.45 453.72 B: i tried to call you and i couldn't get ya 
+
+453.38 454.79 A: (( uh-huh [laughter] )) 
+
+454.42 460.60 B: well i mean i take these precautions because to me living alone 
+
+461.34 463.73 B: uh even though i don't live in a 
+
+461.47 462.30 A: right 
+
+464.60 469.19 B: a metropolitan area i just don't feel like i can be too cautious 
+
+469.16 474.17 A: yeah i would definitely feel afraid [laughter] if i was living alone 
+
+475.58 476.57 A: (( um )) 
+
+475.71 479.84 B: well of course i have people close around but what i mean 
+
+480.38 483.01 B: uh i am widowed and and 
+
+481.88 483.01 A: mhm 
+
+483.68 486.76 B: i never think anything about it but uh 
+
+487.30 488.80 B: a lot of people do 
+
+489.01 490.75 A: (( about you living alone )) 
+
+491.24 492.80 B: no uh uh 
+
+492.03 494.51 A: or just about themselves living alone 
+
+493.21 497.96 B: just about living alone i i it it never has bothered me 
+
+495.66 496.79 A: (( yeah )) 
+
+497.95 498.90 A: really 
+
+498.57 507.82 B: course my husband was ill for so long and in and out of the hospital and i stayed by myself a lot so i grew accustomed to it 
+
+507.42 508.37 A: really 
+
+510.09 514.93 B: but i think that what's going on right now as far as 
+
+515.12 519.21 B: trying to control terrorism in the united states 
+
+519.35 522.47 B: i think is about as good as we can do 
+
+522.57 525.53 A: do you think that this war is is helping do 
+
+526.37 528.22 A: you think it's really about 
+
+528.91 535.78 A: controlling terrorists and controlling weapons and or do you think it's about something else 
+
+535.57 541.12 B: well i think this war in my opinion is a humanitarian cause 
+
+535.87 537.66 A: a hidden agenda or 
+
+540.99 541.89 A: you do 
+
+541.73 543.14 B: yes i 
+
+543.58 547.04 B: and i am for it i 
+
+547.39 549.49 B: the one thing that i did 
+
+549.52 551.75 B: have stated to other people 
+
+552.59 557.26 B: we get rid of those guys that are terrorists over there then 
+
+557.78 561.26 B: we don't stand near the chance of them 
+
+562.42 572.64 B: doing something over here to us i mean you know get rid of them a lot of those people and uh i just think it's a safety measure for us and 
+
+566.06 566.88 A: (( oh )) 
+
+572.20 575.47 A: (( i agree i agree with that )) 
+
+573.05 579.82 B: i've mentioned this to a number of people and they they seem to be totally agree that you know you 
+
+580.53 583.49 B: you know we've never had to fight anything on our own 
+
+583.93 584.76 A: (( no )) 
+
+584.74 587.66 B: land and and it makes a difference 
+
+587.65 588.75 A: (( mhm [noise] )) 
+
+588.21 595.47 B: and we have such dedicated men and women in the armed forces that i'm just appalled at uh 
+
+596.63 597.81 B: their uh 
+
+598.45 599.89 B: warning to do 
+

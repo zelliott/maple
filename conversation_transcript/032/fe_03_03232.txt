@@ -1,0 +1,345 @@
+# fe_03_03232.sph
+# Transcribed by BBN/WordWave
+
+0.10 1.64 A: [noise] hello 
+
+1.61 2.79 B: hi 
+
+2.92 3.95 A: hi 
+
+4.06 5.21 B: (( how are you )) 
+
+6.17 6.73 B: (( [noise] )) 
+
+6.76 8.72 A: i- i'm fine how are you 
+
+8.74 10.15 B: good what's your name 
+
+10.30 11.28 A: sarah 
+
+11.33 13.05 B: (( i'm laura nice to meet you )) 
+
+12.72 14.18 A: nice to meet you 
+
+13.47 14.05 B: (( [noise] )) 
+
+14.89 16.99 A: (( [noise] so do you have a pet [sigh] )) 
+
+16.72 21.26 B: um i do actually i have two cats but they live in different places 
+
+21.88 26.11 B: so one lives with my parents and one lives with me so [laughter] 
+
+22.08 22.90 A: oh 
+
+26.71 28.91 A: [mn] okay i have a cat too 
+
+26.81 27.41 B: (( [lipsmack] [mn] )) 
+
+29.03 30.28 B: oh really 
+
+30.42 36.75 A: [sigh] yeah she's a- about [noise] seven years old [noise] [sigh] and um 
+
+38.92 49.33 A: and ah she's she's definitely taking a back seat because she was our only pet and then we had two k- kittens so [sigh] she her life is much different now [laughter] 
+
+48.95 53.57 B: [noise] [mn] o- o- o- oh the one that lives with my parents is n- nineteen years old 
+
+53.67 55.42 A: mm oh wow 
+
+53.91 54.47 B: (( [lipsmack] )) 
+
+54.79 61.71 B: yeah we had another one that was eighteen [sigh] and she died like about three weeks ago i guess it was 
+
+61.42 62.87 A: (( [noise] oh no )) 
+
+61.95 69.57 B: um [lipsmack] yes it is kind of sad you know because she actually we had her ever since she was a kitten so she never lived with anybody else 
+
+69.22 70.55 A: (( uh-huh [noise] )) 
+
+69.60 75.20 B: [noise] and um [lipsmack] and then the other one i had is just about a year old [sigh] 
+
+75.23 76.29 A: (( oh she is )) 
+
+75.44 76.57 B: he's um 
+
+76.83 78.64 B: [lipsmack] yeah he's pretty 
+
+79.16 88.89 B: playful p- playful [laughter] [sigh] he's very different i'm used to like you know the other ones being o- old and just kind of [laughter] w- walking around and not doing much but he likes to play a lot some 
+
+88.44 89.54 A: (( [noise] right )) 
+
+89.49 95.80 B: [lipsmack] so you know i try and spend some time with him [lipsmack] and ah [mn] 
+
+97.00 103.00 A: does ah i remember i didn't i didn't grow up with cats i grew up with dogs so i didn't ah 
+
+103.05 108.03 A: i had a very different experience when i first got our cat i wasn't used to l- living with a cat or 
+
+108.31 112.34 A: taking care of one and [sigh] i remember i was s- s- so 
+
+109.90 110.83 B: (( uh-hum )) 
+
+112.47 119.05 A: freaked out the first night we brought her home and she just she wanted to c- curl up on my head [laughter] 
+
+119.10 121.65 B: (( yeah [laughter] [sigh] [lipsmack] )) 
+
+120.97 122.31 A: (( and i ah it )) 
+
+122.32 125.35 A: (( felt really [lipsmack] s- strange [sigh] )) 
+
+124.42 130.35 B: yeah my cat now likes to um he likes to sleep under the covers so [laughter] 
+
+130.52 140.50 B: [sigh] that's kind of ah different but um [sigh] yeah we actually that's the only um pets that i ever had were cats i never had any dogs or anything so 
+
+130.62 131.88 A: (( oh )) 
+
+133.53 134.57 A: and did you 
+
+140.40 147.31 A: uh-huh [noise] well i guess you could break down families break down into cat families or dog [laughter] families for the most part 
+
+141.49 142.63 B: right yeah they 
+
+147.06 153.81 B: yeah i think we do actually it's funny like most p- people are either you know like one or the other so 
+
+154.07 154.91 B: (( [sigh] [mn] )) 
+
+154.12 155.32 A: (( [sigh] right [noise] )) 
+
+154.93 165.60 B: so we always just had those well everyone in my at my h- house they pretty much worked all the time so like [mn] we never had a dog because there was really never anyone there to like take care of it so 
+
+165.58 166.75 A: right 
+
+166.86 167.90 B: (( i think that [sigh] )) 
+
+167.14 172.50 A: and also we where we grew up ah kind of out in the country so [sigh] 
+
+172.57 180.02 A: the dog kind of came and went you know we didn't have to worry about fences or [noise] leashes or anything like that [sigh] 
+
+175.08 176.08 B: (( oh )) 
+
+179.40 180.57 B: right 
+
+180.10 183.08 A: and plus my mother's a cat h- hater 
+
+183.35 184.53 B: oh really 
+
+183.51 186.36 A: (( [sigh] [cough] she hates cats and [noise] she's )) 
+
+186.99 198.21 A: really scared of them and [sigh] um so now when she comes to visit we have to [sigh] ma- make sure we we close the door and have ah the cat sleep with us and [laughter] [sigh] i 
+
+197.60 199.15 B: [laughter] 
+
+199.41 201.85 A: don't like it [noise] when they jump up on the bed 
+
+199.68 201.84 B: (( yeah well it's funny because [mn] )) 
+
+202.33 210.18 B: my mom and my sister are actually allergic to them [sigh] and i i was when i was y- younger like when we first got them but ah 
+
+209.47 210.70 A: (( uh-hum )) 
+
+210.50 223.71 B: [sigh] but we've had them anyway they stay outside like most times except the one that i have now like h- he stays inside because i'm not as a- allergic as i used to be [sigh] my dad never understood because my dad's not a- allergic but he never understood like 
+
+223.77 228.32 B: [sigh] why we wanted to [laughter] spend so much time with the cat when we were [laughter] allergic to them 
+
+228.19 229.19 A: [laughter] 
+
+229.12 230.55 B: but um oh 
+
+229.52 235.06 A: well yeah well our cat she's never really been outdoors we live in new york city so s- 
+
+234.47 235.57 B: (( okay )) 
+
+235.22 241.95 A: she sometimes goes out on to the fire escape to look at the birds and what not but she she's definitely an indoor cat 
+
+241.96 243.27 A: (( [sigh] and )) 
+
+241.96 242.91 B: (( uh-hum )) 
+
+243.44 247.98 A: i don't know my that's my mom feels that we deprive her of [laughter] 
+
+248.27 249.40 B: [laughter] 
+
+248.85 249.92 A: (( of )) 
+
+249.97 254.62 A: exp- you know different experiences because she's always inside but 
+
+254.41 255.48 B: right 
+
+255.52 256.60 B: (( o- o- o- oh )) 
+
+256.74 257.31 B: (( [sigh] )) 
+
+257.52 268.85 B: yeah yeah the one that i had now the young one he's always been inside he's just never gone outside so [sigh] i've been moving around a lot so i decided it would be better to 
+
+257.64 258.60 A: yeah 
+
+269.05 272.92 B: (( [sigh] keep him inside anyway 'cause he doesn't really get a chance )) 
+
+272.97 276.45 B: to like the outside surroundings and that before i [laughter] 
+
+276.55 278.47 B: (( m- move again so )) 
+
+278.35 280.34 A: right well do you h- have 
+
+280.57 282.88 A: have his claws removed or no 
+
+283.03 287.94 B: [laughter] [sigh] um no ah i don't right now which 
+
+288.38 294.24 B: [sigh] makes for an interesting time trying to get him not to ah you know to scratch the furniture and all [laughter] 
+
+293.36 294.16 A: (( right )) 
+
+294.49 295.52 A: right 
+
+294.84 302.29 B: 'cause he's still like really young and i wouldn't really see you know him being all [sigh] running around and everything like that but um 
+
+302.29 312.18 A: well we never got ours our cat declawed she just we just cut her cut them back [sigh] [sigh] and she's pretty good about staying still for 
+
+312.25 313.58 A: (( for us to cut her n- )) 
+
+312.39 313.72 B: (( [sigh] [sigh] uh-hum )) 
+
+314.15 315.53 A: (( now so )) 
+
+315.73 318.82 A: [mn] [sigh] i do i just some times have pangs of 
+
+319.25 321.20 A: g- guilt because she [lipsmack] 
+
+322.01 330.33 A: she definitely does not get as much attention with the kids with two little kids running around [sigh] and she also gets kind of sometimes she gets 
+
+326.81 327.81 B: yeah 
+
+330.41 332.95 A: (( [sigh] [laughter] experimented with [sigh] )) 
+
+333.22 334.61 B: (( [noise] [laughter] )) 
+
+334.44 339.10 A: the kids will pull on her tail or try to put hats on her or something 
+
+339.13 339.95 A: (( um )) 
+
+339.30 353.97 B: yeah i remember when my sister um was born she's like a lot younger than i am and ah [sigh] the same thing happened to our cat then [sigh] and she was a little bit older [sigh] um at that point and um [sigh] 'cause she's ah 
+
+353.88 363.64 B: much older than my s- sister and she used to [laughter] kind of like all right you know that's enough [laughter] she used to get dragged around in little d- doll carts and everything outside 
+
+363.76 367.34 B: (( [laughter] [sigh] they used to strap her into the [laughter] s- stroller [sigh] [lipsmack] )) 
+
+364.00 364.91 A: (( right [laughter] )) 
+
+367.63 379.14 A: yeah she yeah our cat's a pretty good sport about it though i mean she hides i guess when she's not in the mood but ah we try to defend her [laughter] as best as we can [laughter] 
+
+367.97 368.87 B: so 
+
+372.63 373.53 B: (( yeah )) 
+
+378.48 379.83 B: [laughter] 
+
+380.30 385.55 A: so but she she definitely still likes to to sleep with us and 
+
+386.58 394.59 A: in the bed and i [sigh] feel even more guilty because [sigh] i don't even like you know she likes to sleep on top of me 
+
+394.49 395.95 B: (( [sigh] uh-hum )) 
+
+395.41 405.14 A: and when you have two little kids who are always hanging on you all day long sometimes you the last thing you want to do is get in bed and have a cat s- you know stand on top of you and 
+
+403.98 405.02 B: right 
+
+405.10 414.11 B: [sigh] well they always seem to take up most of the bed anyway and i wake up and [sigh] whenever my cat sleeps with me and i'm on like the edge of the bed and then i feel bad because i don't want to like you know 
+
+414.18 419.36 B: wake her up so [sigh] and she's all like you know s- stretched out [laughter] on the whole thing [sigh] 
+
+419.66 421.49 A: yeah [noise] what color is she 
+
+421.40 422.81 B: (( [sigh] um )) 
+
+422.90 425.22 B: (( [lipsmack] white with um )) 
+
+425.40 428.25 B: actually both of 'em are white and one's white with 
+
+428.40 434.00 B: black um spot on its back and it's tail is actually kind of like striped so 
+
+434.00 438.31 A: hm and did you get here from the the pound or did 
+
+438.17 447.21 B: [sigh] [lipsmack] um the one i got from a friend of mine whose cat had kittens and the o- other one [sigh] um 
+
+438.35 439.52 A: or did 
+
+447.30 448.80 B: [lipsmack] the one i got 
+
+449.30 458.89 B: um when i was at my parent's house we actually got two of 'em together that were sisters [sigh] and they were from a from a farm [sigh] from someone that my mom knew so 
+
+456.85 457.81 A: uh-huh 
+
+459.82 460.76 A: yeah 
+
+460.13 468.88 B: [lipsmack] that's why they stayed out because like you know they were outside most of the time before we got them so [sigh] they were used to that but um 
+
+466.58 467.50 A: right 
+
+469.86 470.97 B: (( [lipsmack] so yeah )) 
+
+471.39 478.69 A: [sigh] well we we got ours from the pound and my husband's not from this country and he thought it was r- really funny because we had to ah 
+
+478.50 482.63 A: [sigh] when we lived in south america we just stopped at a local [sigh] 
+
+482.53 494.79 A: wine store and they had a litter and they said sure take one and we drove off with one but here we had to go through a whole screening process at the shelter and they called three references and [sigh] we had to do 
+
+494.08 495.46 B: oh really [cough] 
+
+494.60 505.81 A: all this before so [laughter] he thought that was really kind of bizarre but i mean it's it's probably it's a good idea it's just very different [laughter] 
+
+496.90 498.33 B: (( [laughter] [sigh] )) 
+
+504.85 514.34 B: yeah yeah that is good that they do that because i never i never went you know got one from there before so i didn't know that they do that but [sigh] it is that is good that they do that though 
+
+514.37 514.93 B: (( so )) 
+
+515.38 516.37 A: (( yeah [sigh] )) 
+
+515.45 516.25 B: huh 
+
+517.07 520.51 B: yeah well my cat now the older one she's kind of d- deaf 
+
+520.70 525.70 B: so she meows really [laughter] l- loud because she thinks no one can hear h- her [laughter] 
+
+525.42 526.90 A: oh no 
+
+526.27 532.85 B: so she'll go like wander you know like around the house or outside and then she'll realize she's by herself and she gets upset [laughter] 
+
+533.83 536.62 A: (( ah our cat has never been a meower [noise] )) 
+
+536.71 539.27 A: which i- i'm kind of happy about [sigh] 
+
+539.31 543.65 B: yeah my other one isn't the one that stays inside which is good 'cause 
+
+543.74 545.57 B: [sigh] we i had a cat i 
+
+545.65 548.33 B: lived with a friend of mine like two years ago 
+
+548.35 552.76 B: and she got a cat it was just in the summer time and she got a cat 
+
+552.67 565.30 B: i don't know where she got it from [sigh] and the thing like meowed like twenty four seven it just wouldn't be quiet [sigh] i think there was something wrong with it actually [laughter] because it really wouldn't stop meowing [sigh] you know when you fed it or anything so 
+
+566.48 567.49 B: (( [lipsmack] i )) 
+
+566.93 567.51 A: (( oh no )) 
+
+567.56 570.81 B: (( i definitely think there was something [laughter] wrong with it [sigh] [noise] )) 
+
+570.23 571.24 A: right 
+
+571.48 577.42 A: well sometimes they they they can be probably traumatized if they were in 
+
+577.93 580.21 A: [sigh] homes that they weren't treated very 
+
+580.31 584.77 A: (( w- well and then they go to [sigh] like a shelter an animal shelter )) 
+
+584.58 585.67 B: right 
+
+585.74 590.03 A: we got our our cat really young i think she was like eight weeks old so [lipsmack] 
+
+590.09 590.96 B: (( oh )) 
+
+591.95 594.23 A: (( she was nice when she was a kitten too )) 
+
+594.24 596.26 A: y- yeah really playful 
+
+596.27 599.95 B: yeah [sigh] my cat just got b- big real fast 
+

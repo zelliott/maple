@@ -1,0 +1,499 @@
+# fe_03_00328.sph
+# Transcribed by BBN/WordWave
+
+0.10 1.30 B: hello 
+
+0.96 2.07 A: (( [noise] hello )) 
+
+2.03 2.98 B: hi 
+
+2.69 3.49 A: (( hi )) 
+
+3.42 4.64 B: i'm danielle 
+
+4.17 6.21 A: danielle i'm jeff how are you doing 
+
+5.58 6.91 B: good how are you 
+
+6.39 8.03 A: (( good )) 
+
+8.60 10.60 B: i guess we just start talking about this 
+
+10.21 11.53 A: (( just talk about perjury )) 
+
+11.23 13.43 B: yeah [laughter] 
+
+12.07 22.17 A: yeah actually my buddy was supposed to do this he told me it was going to be like on ah like a current topic like ah war in iraq or something like that but it kind of threw me off perjury okay 
+
+21.34 22.60 B: [laughter] 
+
+23.73 26.76 A: so where where are you ah calling from 
+
+26.10 29.00 B: (( ah washington d._c. how about you )) 
+
+27.39 29.88 A: okay well we're in phoenix 
+
+29.56 31.72 B: oh really wow far away 
+
+30.48 33.23 A: yeah yeah it it's nice it's nice 
+
+34.76 39.07 B: so i guess the question is would you commit perjury for a 
+
+39.39 41.61 B: a relative or close friend 
+
+40.95 42.77 A: (( mhm )) 
+
+43.98 45.77 A: what is it do you want me to start it off 
+
+45.50 48.57 B: (( um oh well sure [laughter] it's so weird )) 
+
+47.96 52.43 A: [laughter] it is kind of weird um how long are we supposed to talk do you know 
+
+52.40 57.46 B: i think that they cut us off or i think it's supposed to be ten minutes and then they cut us off 
+
+56.90 58.20 A: ten minutes okay 
+
+58.28 59.10 A: okay 
+
+59.61 60.63 A: (( hm )) 
+
+60.77 63.98 A: well i think obviously it would probably depend on the situation if 
+
+63.93 76.24 A: you're talking about you know something petty ah it kind of just depends on what the penalty's going to be i guess versus what the rewards are going to be i mean if you break it down rationally maybe if you're going to lie to you know 
+
+70.42 72.74 B: (( mhm yeah )) 
+
+77.18 82.92 A: save you know save your dad's job or maybe even save your dad's life you'd probably perje 
+
+82.86 93.77 A: but maybe if it's something minor it probably wouldn't it probably wouldn't be worth it wouldn't be worth being dishonest it kind of i mean it kind of depends if you know kind of what your philosophy is 
+
+83.07 84.29 B: [laughter] 
+
+93.78 99.56 B: yeah i was thinking that it would it would depend on the circumstances like if you knew someone was innocent 
+
+96.87 98.28 A: mhm 
+
+99.26 101.03 A: mhm 
+
+99.79 108.38 B: but they didn't have a good alibi maybe there's a lot of circumstantial evidence but you know for a fact that they're innocent would you lie in that circumstance 
+
+103.67 105.50 A: (( mhm )) 
+
+105.97 107.71 A: yeah 
+
+107.81 109.63 A: mhm 
+
+108.47 110.49 B: i think i might [laughter] 
+
+109.66 121.07 A: yeah i think so too i think most people it would probably depend on the circumstance i i doubt there's too many people that would be you know just they have like a straight moral imperative to i'm never going to lie ever you know 
+
+113.89 115.28 B: (( yeah mhm )) 
+
+121.44 127.39 A: i think pr- with with everyone it'd have to depend on the situation quite a bit 
+
+127.60 129.62 A: i would think 
+
+128.65 142.51 B: yeah and i think that um it's people see it differently you're not lying for yourself you're not lying for your own benefit you're lying for someone else so i think it takes away the selfish aspect people feel more like they're doing something for someone else so it's not as bad [laughter] 
+
+135.49 137.20 A: yeah 
+
+137.79 139.67 A: mhm 
+
+141.65 147.85 A: mhm i agree too it would kind of be seen as helping someone else even if it might be a detriment to a third party 
+
+147.87 149.47 B: (( yeah )) 
+
+148.01 152.70 A: i mean i i only know you know it's so kind of a broad question i don't know how you know 
+
+152.74 157.51 B: yeah it really is i mean totally depends on you know how serious it is and what you know what 
+
+158.95 160.65 A: mhm 
+
+159.38 162.75 B: the circumstances are how you feel about that person and [laughter] 
+
+161.22 164.04 A: yeah yeah a lot of a lot of different factors 
+
+164.23 172.45 A: it yeah it'd be hard to say an absolute yes or no which i guess that's true in most things in life [laughter] there's a lot of grey areas 
+
+169.43 170.93 B: yeah that's true 
+
+173.18 174.16 A: (( hm )) 
+
+174.03 179.40 B: we seem to agree so [laughter] so i don't know how we're going to talk about it for for ten minutes 
+
+175.53 177.14 A: yeah 
+
+178.81 179.58 A: (( ah )) 
+
+180.24 182.77 A: is this from university of pennsylvania is this 
+
+183.29 186.96 A: is this who set this up okay did you go to penn 
+
+184.66 190.41 B: yeah no i didn't actually um i'm a grad student at george mason and 
+
+189.75 190.81 A: oh really 
+
+190.53 199.33 B: i got the um all the information from the linguistics department at george mason they sent round a an email to everybody and i just got it from that 
+
+196.07 196.99 A: okay 
+
+199.15 199.99 A: okay 
+
+200.48 204.10 B: i guess they're sending around the country because you heard about it in phoenix [laughter] 
+
+203.82 210.37 A: yeah yeah i my my buddy his mom [cough] speaks at a bunch of different schools and and she caught word of it somehow 
+
+208.16 209.18 B: (( oh )) 
+
+210.60 214.90 A: are you ah are you a linguistics grad student okay 
+
+213.32 217.29 B: yeah i'm getting my masters in linguistics so 
+
+215.25 216.66 A: [noise] wow 
+
+217.93 221.06 A: i- linguistics has always seemed really interesting to me 
+
+220.33 221.86 B: it really is 
+
+221.28 225.45 A: i i didn't even hear about it until i ah hold on a second what 
+
+226.74 237.64 A: i'm sorry um i didn't even hear about it until i started reaching cholmski of course linguistics is kind of not what he's really well known for but that's how i kind of came upon it and i'd read oh just 
+
+227.37 228.42 B: that's okay 
+
+231.31 233.25 B: mhm 
+
+234.22 236.20 B: (( yeah )) 
+
+237.61 242.45 A: a tiny bit of some of his linguistics stuff that was really interesting yeah 
+
+239.82 241.08 B: oh really 
+
+241.10 244.11 B: yeah he's hard to read i find him very difficult 
+
+243.54 248.45 A: yeah do you do you ah ever ready his political stuff or more his linguistics stuff 
+
+247.79 250.52 B: i have and i've only read his linguistics stuff 
+
+249.92 251.63 A: yeah 
+
+251.23 256.68 B: i heard all about his political things so he's pretty extreme [laughter] 
+
+253.32 266.61 A: yeah yeah he's pretty i i agree with with him on quite a bit ah not everything but you know i'd say a lot but i remember just reading a i had like a cholmski reader which kind of summed up all of his political and linguistic things i think i 
+
+265.95 267.95 B: oh really 
+
+266.63 269.10 A: think when he was a grad student he ah 
+
+269.37 283.31 A: he just did it when he was majoring in linguistics he did just a simple survey i think he asked five hundred people to you probably you might know about this just one question how are you today real generic and i think out of like five hundred answers there's only like two people that said the exact same thing 
+
+282.78 285.71 B: oh really no i didn't i didn't hear about that 
+
+283.39 293.09 A: yeah that's pretty amazing because you figure everyone no one's really going to say how they're really feeling most just say it's fine but even just staying fine only two people matched up so that's pretty amazing 
+
+288.64 289.55 B: (( right )) 
+
+292.55 294.06 B: oh that's interesting 
+
+293.54 295.53 A: yeah yeah 
+
+295.78 297.50 A: anyway the perjury 
+
+297.66 298.93 B: [laughter] 
+
+298.11 300.02 A: we're we're veering off i'm sorry 
+
+299.19 301.47 B: yeah that's okay i 
+
+302.08 304.72 B: i can't really think of too much more to say about it 
+
+304.09 305.73 A: (( yeah i don't know if i do either )) 
+
+305.34 308.37 B: (( i don't know if it has anything to do with bill clinton and his perjury )) 
+
+307.96 319.05 A: yeah that could it could be you have to like someone who can debate the meaning of the word is you've got to you've got to admire that what do you mean what what is is what i- you know that's pretty incredible 
+
+308.84 310.62 B: (( [laughter] )) 
+
+312.78 316.10 B: yeah [laughter] yeah that's amazing 
+
+316.47 317.95 B: (( [laughter] [laughter] )) 
+
+319.72 321.25 B: very funny 
+
+320.60 321.39 A: (( mm )) 
+
+322.24 326.17 A: ah i can't really think of anything else to say about it really 
+
+325.36 326.49 B: i know 
+
+327.92 328.87 A: (( hm )) 
+
+329.22 334.47 A: i guess you h- there's some obviously some philosophical stuff 
+
+334.82 339.44 A: [sigh] but i mean it'd be kind of nothing we've alr- haven't said already 
+
+339.09 343.01 B: you mean like a absolute morality in that situation that kind of 
+
+341.37 343.81 A: [noise] yeah kind of like um 
+
+344.36 346.98 A: well you're a grad student you've probably heard of kant haven't you 
+
+347.31 361.35 A: yeah yeah you know about that it was just that absolute moral imperative and it's the only way you can ever really have any type of moral backbone is if you have a a you know a kind of a self rule i guess self paradigm only across the line but you i mean 
+
+361.38 369.02 A: i who's going really do that like you know it's a if it's a loved one's job or life on the line no one's going to do that no one's going to do that [laughter] 
+
+368.05 371.32 B: thing mhm yeah i don't know too many people who have that 
+
+370.78 373.50 A: yeah i i don't i don't think i know any 
+
+373.08 375.59 B: maybe they would never murder somebody but 
+
+374.89 382.96 A: yeah yeah never ever yeah yeah i don't know anyone like that [mn] so 
+
+384.13 385.55 A: [sigh] hm 
+
+386.06 387.32 A: but then i guess you could 
+
+386.28 395.47 B: but i guess there are you know a whole core system is sort of based on you can't you can't just have absolutes you have to have um you know different punishments for different people and different 
+
+392.04 393.48 A: yeah 
+
+395.89 396.81 A: yeah 
+
+397.21 398.93 B: (( circumstances and they sort of acknowledge )) 
+
+399.30 405.14 A: mhm yeah the really only place you find absolutes kind of fundamental religion usually and [mn] 
+
+403.21 404.51 B: (( you can't have that )) 
+
+405.51 408.05 A: we've seen what that can do [laughter] 
+
+408.61 411.40 A: so yeah um 
+
+412.45 420.41 A: yeah and i guess you could think about i don't know just u- utilitarianism and i mean even even if you're doing something that's perceived as wrong 
+
+420.81 428.49 A: is it really wrong if it helps out a lot of people you know how do you how do you even gauge it really it's tough to do 
+
+423.27 424.60 B: (( absolute yeah )) 
+
+430.89 438.65 A: since we don't know each other have you every purged anything oh not purged i guess that means throwing up have you ever committed perjury 
+
+435.61 441.50 B: [laughter] yeah mhm [laughter] no i've never testified in court so 
+
+441.21 446.27 A: oh this is in court oh okay yeah you know i mean i i think i 
+
+442.34 443.25 B: yeah 
+
+445.51 447.61 B: i think that's what i think that's what they're 
+
+447.43 451.14 A: in court yeah i know i've ah signed my parents' name on a few report cards 
+
+450.40 453.49 B: asking oh well [laughter] [laughter] 
+
+451.52 452.79 A: throughout the years 
+
+453.38 456.38 A: who hasn't though right 
+
+454.56 455.94 B: yeah 
+
+456.77 458.40 B: (( [laughter] i )) 
+
+457.98 458.98 A: um 
+
+460.31 462.11 A: yeah i yeah i've never been in 
+
+462.13 463.76 A: never been in court either 
+
+463.95 469.25 B: guess i've never really had the opportunity to test my ah willpower there and [laughter] 
+
+467.29 471.88 A: yeah you never know you never know until you're up up against it 
+
+472.27 474.80 A: [sigh] i know i have a job um 
+
+474.83 475.97 A: where 
+
+476.55 482.01 A: ah we get it's such a boring job we get all this paperwork and sometimes if they don't have a 
+
+482.10 487.74 A: a correct way of dating it you have to send it back to them you're not allowed to change any of the records 
+
+487.35 488.70 B: oh really 
+
+487.73 495.78 A: and i know i'm still in training but i've seen [laughter] i've seen my boss [laughter] just kind of look around make a few slashes a few 
+
+495.55 505.99 A: a few eights into sixes and a few twos into sevens and and that i mean morally i don't really think that's a big deal but i just maybe company policy i don't know 
+
+496.29 498.89 B: (( [laughter] [laughter] )) 
+
+506.17 509.50 B: it's hard to stand up for a lot of company policy 
+
+508.96 511.54 A: oh yeah and half of it i mean 
+
+511.83 518.56 A: oh yeah yeah it's [laughter] no one you know what i mean you don't care about it i mean it just it's b._s. anyway 
+
+513.93 514.83 B: [laughter] 
+
+518.77 521.54 A: other policy so you really don't feel bad lying to them 
+
+520.98 526.50 B: yeah exactly [laughter] it's not really lying when you lie to your boss [laughter] 
+
+521.56 522.23 A: (( you )) 
+
+522.44 524.01 A: feel kind of good really 
+
+524.75 528.30 A: yeah if you're going to b._s. me i'm going to b._s. you right back 
+
+527.66 529.08 B: exactly 
+
+528.78 530.43 A: mhm 
+
+530.79 531.71 B: [laughter] 
+
+531.63 535.91 A: no well i don't know how much more there is to say really 
+
+535.75 537.59 B: i think it's been ten minutes 
+
+537.23 538.37 A: has it been 
+
+538.05 543.81 B: (( yeah i don't know if they're going to cut us off or what i think we're supposed to talk all the way until they do or )) 
+
+538.44 539.78 A: i don't even know oh 
+
+540.42 541.31 A: okay 
+
+542.97 547.42 A: yeah i wondered that are we supposed to talk until they cut us off like for instructions or 
+
+548.35 552.18 B: i mean it's been i think it's been a full ten minutes i was looking at my watch 
+
+551.75 560.80 A: okay well let's talk just like for a few more minutes and if they haven't cut us off we can just go and hang up i guess we could do that where'd you ah where'd you go to undergrad at 
+
+553.60 555.03 B: (( yeah yeah )) 
+
+559.70 562.33 B: actually the same place [laughter] strangely enough 
+
+560.84 561.74 A: okay 
+
+562.13 563.06 A: (( you what )) 
+
+562.91 565.81 B: strangely enough i went to the same school for undergrad 
+
+565.17 567.36 A: where you from d._c. area growing up 
+
+566.77 571.22 B: yeah and i just i actually was living here after i graduated and 
+
+571.23 578.41 B: just um they had a program i wanted so i just i kind of wanted to go to a different school but that didn't make sense when they had what i wanted 
+
+577.95 579.47 A: yeah 
+
+578.94 582.72 B: it's a state school so [sigh] affordable [laughter] 
+
+582.29 586.53 A: [laughter] mm what was your was your undergrad linguistics 
+
+586.66 590.48 B: ah no actually my undergrad was in ah english composition 
+
+590.01 590.98 A: okay 
+
+591.48 593.24 A: so you you're a good writer huh 
+
+591.49 592.64 B: (( how about you )) 
+
+592.92 595.37 B: well i mean i try [laughter] 
+
+596.95 599.01 A: yeah um 
+
+599.09 600.60 A: do you have to ah 
+
+601.26 602.08 A: you don't 
+
+602.39 605.49 A: you don't have to get anything published do you when you did this undergrad 
+
+605.28 606.79 B: (( oh no mm-mm no lucky lucky )) 
+
+605.69 608.13 A: english okay i didn't think so 
+
+608.48 609.22 A: (( oh )) 
+
+609.78 610.65 B: for me 
+
+610.24 612.89 A: do you have to get something published in grad school 
+
+612.76 618.57 B: [laughter] i think it depends on if you are getting an m. s. a. you might for that i don't know 
+
+616.15 617.07 A: okay 
+
+618.52 619.40 A: okay 
+
+619.75 622.77 A: yeah i'm going to i'm going to grad school 
+
+622.87 626.73 A: ah next fall for for political science so 
+
+624.31 625.59 B: oh good 
+
+626.02 627.35 B: oh great 
+
+626.87 628.90 A: so yeah 
+
+628.51 630.71 B: so these questions are right up your alley 
+
+630.23 638.68 A: yeah they are i i w- i was i was hoping for more like a kind of like a i don't know global affair you know local affair type thing but 
+
+637.94 639.17 B: yeah 
+
+639.06 640.06 A: that's fine 
+
+639.76 641.81 B: [laughter] 
+
+640.36 642.46 A: perjury's perjury's fine i guess 
+
+642.03 645.78 B: it's not a very you can't really say a whole lot about it the whole thing 
+
+645.12 646.79 A: yeah i i mean 
+
+647.12 653.28 A: i guess linguistically no one would have the same words but i mean i think everyone would have pretty much the same get the same point across 
+
+652.97 657.83 B: yeah i was wondering what the ah point of this ah what they're what they're trying to find out with the 
+
+657.42 658.50 A: yeah 
+
+657.87 669.04 B: like i have a feeling it has something to do with how you speak in certain situations and not necessarily what you're talking about like a topic but i don't know i mean i'd be interested to find out the results of the study mhm 
+
+663.37 664.53 A: yeah that's 
+
+668.02 671.15 A: yeah that's true it would be interesting 
+
+671.40 677.72 A: like linguistics isn't like su- i mean is it just like super technical like diagrams 
+
+677.34 682.46 B: yeah it's a lot of that syntax i really like phonology it's really interesting 
+
+681.90 683.48 A: (( and w- what's that )) 
+
+683.19 690.93 B: you study the um the sounds of different languages how how different sounds go together and form different languages it's really interesting 
+
+686.38 687.23 A: huh 
+
+688.12 689.17 A: really 
+
+690.60 692.10 A: (( hm )) 
+
+691.14 695.17 B: especially when you study english and you have no idea how complicated 
+
+695.22 696.29 B: (( is )) 
+
+695.68 701.78 A: yeah tha- that's what i've heard english i- is one of the hardest languages to learn it's very complicated 
+
+699.98 705.03 B: it's just like these things that you have this knowledge that you have that you don't realise you have it's amazing 
+
+704.71 709.34 A: yeah that's incredible have you studied the vietnamese language at all 
+
+709.32 710.73 B: (( no mm-mm )) 
+
+710.80 714.31 B: not not specifically we study different languages 
+
+710.81 711.58 A: my 
+
+714.38 718.43 B: like we do different phonology projects and how they how they work 
+
+716.48 718.15 A: yeah 
+
+718.45 719.36 A: huh 
+
