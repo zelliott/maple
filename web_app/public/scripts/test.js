@@ -1,3 +1,7 @@
+// Global URL
+var baseURL = 'http://custom-env-1.v8hharbp4m.us-west-1.elasticbeanstalk.com/';
+// var baseURL = 'http://localhost:8081/';
+
 // Activate all tooltips
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
@@ -52,8 +56,6 @@ function disableBtns (isDisabled) {
 
 function saveAnswer (delta) {
 
-  var baseURL = 'http://custom-env-1.v8hharbp4m.us-west-1.elasticbeanstalk.com/';
-  // var baseURL = 'http://localhost:8081/';
   var saveURL;
   var data;
 
@@ -111,6 +113,25 @@ function changeMode (mode) {
   $('.mode').text(text);
 
   this.mode = mode;
+}
+
+function displayAbstracts () {
+  var isCloze = this.mode === MODE.CLOZE;
+
+  return $.get(baseURL + 'api/test').done(function (data, status) {
+
+    var numQuestions = data.questions.length;
+    for (var i = 0; i < numQuestions; i++) {
+      var question = data.questions[i];
+      var text = isCloze ? question.clozeAbstract : question.fullAbstract;
+
+      var $el = $('.abstract-' + i + ' .abstract-text');
+      $el.html(text);
+    }
+
+  }).fail(function (data, status) {
+    console.log('Something bad happened and was not caught...');
+  });
 }
 
 function displayPanel () {
@@ -174,19 +195,9 @@ var Test = function () {
   });
 
   $('.start-2').on('click', function () {
-    var baseURL = 'http://custom-env-1.v8hharbp4m.us-west-1.elasticbeanstalk.com/';
-    // var baseURL = 'http://localhost:8081/';
-    $.get(baseURL + 'api/test').done(function (data, status) {
+    self.changeMode(MODE.READABILITY);
+    self.displayAbstracts(MODE.READABILITY).done(function (data, status) {
 
-      var numQuestions = data.questions.length;
-      for (var i = 0; i < numQuestions; i++) {
-        var question = data.questions[i];
-
-        var $el = $('.abstract-' + i + ' .abstract-text');
-        $el.text(question.fullAbstract);
-      }
-
-      self.changeMode(MODE.READABILITY);
       self.changeAbstract(-1 * self.total);
       self.displayButtons();
       self.displayPanel();
@@ -208,6 +219,7 @@ Test.prototype = {
   focusAnswer: focusAnswer,
   saveAnswer: saveAnswer,
   changeMode: changeMode,
+  displayAbstracts: displayAbstracts,
   displayPanel: displayPanel,
   displayMessage: displayMessage
 };
@@ -215,6 +227,7 @@ Test.prototype = {
 $(document).ready(function () {
   var test = new Test();
 
+  test.displayAbstracts();
   test.displayButtons();
   test.displayPanel();
   test.displayMessage(false);

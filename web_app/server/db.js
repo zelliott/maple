@@ -5,7 +5,7 @@ var _ = require('lodash');
 aws.config.update({
   region: 'us-west-1',
   endpoint: 'dynamodb.us-west-1.amazonaws.com'
-  // endpoint: 'http://localhost:8000'
+  // endpoint: 'http://:8000'
 });
 
 var db = new aws.DynamoDB();
@@ -54,7 +54,7 @@ var populateRawTests = function (filename) {
 
   // TODO:
   // Need to figure out a less hacky way to upload requests.
-  var slicedRequests = requests.slice(40, 60);
+  var slicedRequests = requests.slice(1, 20);
 
   var params = {
     RequestItems: {

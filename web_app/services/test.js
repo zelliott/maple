@@ -67,6 +67,7 @@ module.exports = {
   start: function (passkey, cb) {
 
     var testId = getNextId(cb);
+    console.log(testId);
     var paramsGet = {
       TableName: 'RawTests',
       Key: {
