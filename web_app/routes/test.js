@@ -23,6 +23,16 @@ module.exports = function (app) {
     res.redirect('/test');
   });
 
+  // TODO:
+  // Uncomment if you want to generate tests
+  // app.get('/test/generate/:n', function (req, res) {
+  //   var n = req.params.n;
+
+  //   TestService.generate(n, function (err) {
+  //     res.send('Generated ' + n + ' tests');
+  //   });
+  // });
+
   app.post('/test/start', function (req, res) {
     TestService.start(req.body.passkey, function (err, body) {
 

@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.1.4",
     "aws-sdk": "^2.6.15",
     "body-parser": "^1.15.2",
     "dynamodb-doc": "^1.0.0",

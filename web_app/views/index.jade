@@ -3,28 +3,44 @@ extends ./layout.jade
 block content
   div(class="col-sm-12")
     div(class="row")
-      div(class="col-sm-8 mb-1")
-        h5 Instructions
+      div(class="col-sm-8")
+        h4 Test instructions
+        p Each test has two parts, for a total of 14 questions:
         ul
-          li Each test has two parts, for a total of 14 questions:
+          li(class="mb-1") <strong>Part 1</strong>: 7 cloze questions. Each question consists of a block of text with five arbitrary words removed.  These are called cloze words.  To the best of your ability, try to guess what words were removed.  If you are not sure, either guess or leave the question blank.
+          li <strong>Part 2</strong>: 7 readability questions. Each question asks you to rate the difficulty of a block of text on a scale from 1 to 10.  Below are how you should interpret this scale:
             ul
-              li <em>Part 1</em>: 7 cloze questions. Each question consists of a block of text with five arbitrary words removed.  These are called <strong>cloze words</strong>.  To the best of your ability, try to guess what words were removed.
-              li <em>Part 2</em>: 7 readability questions. Each question asks you to rate the readability of a block of text.
-          li When you start a test, you will be given a <strong>passkey</strong>.  It is important to save this passkey so that you can continue where you left off if you are interrupted.
-    div(class="row")
-      div(class="col-sm-4")
-        h5 Start
-        p If you have not started, start here to begin the test.
-        form(action="/test/start", method="post")
-          input(type="hidden", name="passkey", id="passkey", class="form-control", value="#{passkey}")
-          div(class="form-group")
-            input(type="submit", value="Start test", class="btn btn-primary")
-      div(class="col-sm-4")
-        h5 Continue
-        p If you have already started or have a passkey, enter your passkey to continue where you left off.
-        form(action="/test/continue", method="post")
-          fieldset(class="form-group")
-            label(for="passkey") Passkey
-            input(type="text", name="passkey", id="passkey", class="form-control", placeholder="Passkey", required)
-          div(class="form-group")
-            input(type="submit", value="Continue", class="btn btn-primary")
+              li(class="mt-1") <strong>Difficulty of 1</strong>: Very easy to read.  You know every word in the passage and can identify the general points.
+              li(class="mt-1") <strong>Difficulty of 5</strong>: Moderately difficult to read.  Occasionally you come across unknown words, but you are still able to understand general themes and answer questions about the passage.
+              li(class="mt-1") <strong>Difficulty of 10</strong>: Very difficult to read.  There are many unknown words that make it very difficult to understand the passage and any key concepts.
+        h4(class="mt-2") Taking the test
+        p You should have been given <strong>two links</strong> that correspond to two unique tests.  To start a test, simply follow the link and the test will immediately begin.
+        p As you move from question to question, <strong>your answers will be saved</strong>.  If you are interrupted while taking a test, you can safely close the window, and the test will have saved your progress.  To return to your test, follow the original link to pick up where you left off.
+        p At the end of the test, all answers will have been recorded, so you can safely close the window.
+
+    //- div(class="row")
+    //-   div(class="col-sm-8 mb-1")
+    //-     h5 Instructions
+    //-     ul
+    //-       li Each test has two parts, for a total of 14 questions:
+    //-         ul
+    //-           li <em>Part 1</em>: 7 cloze questions. Each question consists of a block of text with five arbitrary words removed.  These are called <strong>cloze words</strong>.  To the best of your ability, try to guess what words were removed.
+    //-           li <em>Part 2</em>: 7 readability questions. Each question asks you to rate the readability of a block of text.
+    //-       li When you start a test, you will be given a <strong>passkey</strong>.  It is important to save this passkey so that you can continue where you left off if you are interrupted.
+    //- div(class="row")
+    //-   div(class="col-sm-4")
+    //-     h5 Start
+    //-     p If you have not started, start here to begin the test.
+    //-     form(action="/test/start", method="post")
+    //-       input(type="hidden", name="passkey", id="passkey", class="form-control", value="#{passkey}")
+    //-       div(class="form-group")
+    //-         input(type="submit", value="Start test", class="btn btn-primary")
+    //-   div(class="col-sm-4")
+    //-     h5 Continue
+    //-     p If you have already started or have a passkey, enter your passkey to continue where you left off.
+    //-     form(action="/test/continue", method="post")
+    //-       fieldset(class="form-group")
+    //-         label(for="passkey") Passkey
+    //-         input(type="text", name="passkey", id="passkey", class="form-control", placeholder="Passkey", required)
+    //-       div(class="form-group")
+    //-         input(type="submit", value="Continue", class="btn btn-primary")

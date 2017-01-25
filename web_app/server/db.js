@@ -5,7 +5,7 @@ var _ = require('lodash');
 aws.config.update({
   region: 'us-west-1',
   endpoint: 'dynamodb.us-west-1.amazonaws.com'
-  // endpoint: 'http://:8000'
+  // endpoint: 'http://localhost:8000'
 });
 
 var db = new aws.DynamoDB();

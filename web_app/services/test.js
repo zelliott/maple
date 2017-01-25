@@ -1,5 +1,7 @@
 var request = require('request');
 var _ = require('lodash');
+var async = require('async');
+var crypto = require('crypto');
 var fs = require('fs');
 var aws = require('aws-sdk')
 var db = require('./../server/db');
@@ -64,10 +66,28 @@ var getNextId = function (cb) {
 }
 
 module.exports = {
+
+  // TODO:
+  // Uncomment if you want to generate tests
+  // generate: function (n, cb) {
+  //   var TestService = this;
+  //   async.timesSeries(n, function (i, next) {
+  //     var passkey = crypto.randomBytes(16).toString('hex');
+  //     TestService.start(passkey, function (err, body) {
+  //       if (!err) {
+  //         console.log(body.passkey + ',', body.testId + ',', body.groupId);
+  //         next();
+  //       }
+  //     });
+  //   }, function (err) {
+  //     cb();
+  //   });
+  // },
+
   start: function (passkey, cb) {
 
     var testId = getNextId(cb);
-    console.log(testId);
+
     var paramsGet = {
       TableName: 'RawTests',
       Key: {
@@ -83,6 +103,8 @@ module.exports = {
       }
 
       var rawQuestions = data.Item.test;
+      var testId = data.Item.testId;
+      var groupId = data.Item.groupId;
       var questions = formatQuestions(rawQuestions);
 
       var paramsPut = {
@@ -93,8 +115,8 @@ module.exports = {
           current: 0,
           completed: false,
           mode: 'CLOZE',
-          testId: data.Item.testId,
-          groupId: data.Item.groupId
+          testId: testId,
+          groupId: groupId
         }
       };
 
@@ -109,7 +131,9 @@ module.exports = {
         }
 
         cb(null, {
-          passkey: passkey
+          passkey: passkey,
+          testId: testId,
+          groupId: groupId
         });
       });
     });
