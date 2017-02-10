@@ -1,7 +1,7 @@
 var _ = require('lodash');
 var fs = require('fs');
 var aws = require('aws-sdk')
-var db = require('./../server/db');
+var db = require('./../../server/db');
 var dc = new aws.DynamoDB.DocumentClient(db);
 
 var files = [
