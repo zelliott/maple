@@ -34,8 +34,8 @@ function generateScore(passage) {
     passage = passage.replace(/[:\.\r\n]+/g,' ');
     passage = passage.replace(/[^a-zA-Z ]+/g, '');
     var avgLen = averageWord(passage);
-    var score = Math.round((avgLen-3)*10);
-    return score * 3;
+    var score = Math.round((((avgLen - 4) * 80) / 3.5) + 20)
+    return score;
 }
 
 
@@ -45,8 +45,18 @@ chrome.runtime.onMessage.addListener(function (msg, sender, sendResponse) {
         $('.rprt').each( function(i) {
           var resultText = fetchText(this);
           var score = generateScore(resultText);
-          var imageURL = chrome.extension.getURL('icon_small.png');
-          $(this).children('.rprtnum.nohighlight').append("<img src="+imageURL+"><br><big><b>"+score+"</b></big>");
+          if (score < 54) {
+            var imageURL = chrome.extension.getURL('icon_green.png');
+            $(this).children('.rprtnum.nohighlight').append("<img src="+imageURL+"><br><big><b>"+score+"</b></big>");
+          }
+          else if (score < 70) {
+            var imageURL = chrome.extension.getURL('icon_yellow.png');
+            $(this).children('.rprtnum.nohighlight').append("<img src="+imageURL+"><br><big><b>"+score+"</b></big>");
+          }
+          else{
+            var imageURL = chrome.extension.getURL('icon_red.png');
+            $(this).children('.rprtnum.nohighlight').append("<img src="+imageURL+"><br><big><b>"+score+"</b></big>");
+          }
         });
         console.log("trying to send response");
         sendResponse("Done"); // having trouble with sending things back to background.js

@@ -23,6 +23,6 @@
     "activeTab",
     "declarativeContent"
   ],
-  "web_accessible_resources": ["icon_small.png"],
+  "web_accessible_resources": ["icon_red.png", "icon_green.png", "icon_yellow.png", "icon_black.png"],
   "manifest_version": 2
 }
