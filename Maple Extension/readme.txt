@@ -14,3 +14,7 @@ I scaled the data from average word length 4-7.5 onto a 20-100 score scale (didn
 6.4 is about 70
 
 Then I broke the color down as anything below 54 is green, above 70 is red and inbetween is ye
+
+Note:
+Don't pressue the button multiple time please lol. I didnt handle that particularly yet.
+It would just create more images+scores
