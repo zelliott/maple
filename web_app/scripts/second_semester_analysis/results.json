@@ -8279,6 +8279,170 @@
     "completed": true,
     "questions": [
       {
+        "difficulty": "2",
+        "timeElapsed": "0215058",
+        "questionId": "d75b0ca2-ad8e-43f2-8fb6-bed24f1c3e30",
+        "correct": [
+          "Genie",
+          "vertical",
+          "present",
+          "site",
+          "elements"
+        ],
+        "answers": [
+          "non-LTR",
+          "genetic",
+          "found",
+          "very",
+          "retrotransposons"
+        ],
+        "clozeAbstract": "Mobile <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">5</button> that use reverse transcriptase to make new copies of themselves are found in all major lineages of eukaryotes. The non-long terminal repeat (non-LTR) retrotransposons have been suggested to be the oldest of these eukaryotic elements. Phylogenetic analysis of non-LTR elements suggests that they have predominantly undergone vertical transmission, as opposed to the frequent horizontal transmissions found for other mobile elements. One prediction of this vertical model of inheritance is that the oldest lineages of eukaryotes should exclusively harbor the oldest lineages of non-LTR retrotransposons. Here we characterize the non-LTR retrotransposons <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">3</button> in one of the most primitive eukaryotes, the diplomonad Giardia lamblia. Two families of elements were detected in the WB isolate of G. lamblia currently being used for the genome sequencing project. These elements are clearly distinct from all other previously described non-LTR lineages. Phylogenetic analysis indicates that these Genie elements (for Giardia early non-LTR insertion element) are among the oldest known lineages of non-LTR elements consistent with strict <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">2</button> descent. Genie elements encode a single open reading frame with a carboxyl terminal endonuclease domain. Genie 1 is site specific, as seven to eight copies are present in a single tandem array of a 771-bp repeat near the telomere of one chromosome. The function of this repeat is not known. One additional, highly divergent, element within the <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">1</button> 1 lineage is not located in this tandem array but is near a second telomere. Four different telomere addition sites could be identified within or near the Genie elements on each of these chromosomes. The second lineage of non-LTR elements, Genie 2, is composed of about 10 degenerate copies. Genie 2 elements do not appear to be <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">4</button> specific in their insertion. An unusual aspect of Genie 2 is that all copies contain inverted repeats up to 172 bp in length.",
+        "topic": "molecular_sequence_data",
+        "fullAbstract": "Mobile elements that use reverse transcriptase to make new copies of themselves are found in all major lineages of eukaryotes. The non-long terminal repeat (non-LTR) retrotransposons have been suggested to be the oldest of these eukaryotic elements. Phylogenetic analysis of non-LTR elements suggests that they have predominantly undergone vertical transmission, as opposed to the frequent horizontal transmissions found for other mobile elements. One prediction of this vertical model of inheritance is that the oldest lineages of eukaryotes should exclusively harbor the oldest lineages of non-LTR retrotransposons. Here we characterize the non-LTR retrotransposons present in one of the most primitive eukaryotes, the diplomonad Giardia lamblia. Two families of elements were detected in the WB isolate of G. lamblia currently being used for the genome sequencing project. These elements are clearly distinct from all other previously described non-LTR lineages. Phylogenetic analysis indicates that these Genie elements (for Giardia early non-LTR insertion element) are among the oldest known lineages of non-LTR elements consistent with strict vertical descent. Genie elements encode a single open reading frame with a carboxyl terminal endonuclease domain. Genie 1 is site specific, as seven to eight copies are present in a single tandem array of a 771-bp repeat near the telomere of one chromosome. The function of this repeat is not known. One additional, highly divergent, element within the Genie 1 lineage is not located in this tandem array but is near a second telomere. Four different telomere addition sites could be identified within or near the Genie elements on each of these chromosomes. The second lineage of non-LTR elements, Genie 2, is composed of about 10 degenerate copies. Genie 2 elements do not appear to be site specific in their insertion. An unusual aspect of Genie 2 is that all copies contain inverted repeats up to 172 bp in length."
+      },
+      {
+        "difficulty": "3",
+        "timeElapsed": "033007",
+        "questionId": "39d85e40-5e33-4628-a913-4252bc68e399",
+        "correct": [
+          "predictors",
+          "Midwest",
+          "understand",
+          "Childhood",
+          "higher"
+        ],
+        "answers": [
+          "Hello",
+          "Adele",
+          "Park",
+          "Severe",
+          "Drought"
+        ],
+        "clozeAbstract": "<button type=\"button\" class=\"btn btn-secondary btn-sm blank\">4</button> maltreatment has been implicated as a risk factor for adult obesity. We describe the first prospective assessment of adult obesity in individuals with documented histories of childhood physical and sexual abuse and neglect and a matched comparison group in a 30-year follow-up. Using a prospective cohort design, children with court substantiated cases of physical and sexual abuse and neglect (ages 0-11 years) from a <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">2</button> county during 1967-1971 (n=410) were matched with children without histories of abuse or neglect on age, sex, race/ethnicity and approximate family social class (n=303) and followed up and assessed at mean age 41. Outcome measures include BMI and obesity assessed in 2003-2004 as part of a medical status examination and interview. Childhood physical abuse predicted significantly <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">5</button> BMI scores in adulthood (beta=0.14, P&<.05), even controlling for demographic characteristics, cigarette smoking, and alcohol consumption (beta=0.16, P&<.01). Childhood sexual abuse (beta=0.07, not significant) and neglect (beta=0.02, not significant) were not significant <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">1</button> of adult BMI scores. These results demonstrate the long-term impact of childhood physical abuse on weight into adulthood and suggest that physically abused children may be at risk for other adverse health outcomes associated with increased weight. Health professionals need to <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">3</button> this risk for physically abused children and researchers should identify and evaluate strategies for effective interventions.",
+        "topic": "obesity",
+        "fullAbstract": "Childhood maltreatment has been implicated as a risk factor for adult obesity. We describe the first prospective assessment of adult obesity in individuals with documented histories of childhood physical and sexual abuse and neglect and a matched comparison group in a 30-year follow-up. Using a prospective cohort design, children with court substantiated cases of physical and sexual abuse and neglect (ages 0-11 years) from a Midwest county during 1967-1971 (n=410) were matched with children without histories of abuse or neglect on age, sex, race/ethnicity and approximate family social class (n=303) and followed up and assessed at mean age 41. Outcome measures include BMI and obesity assessed in 2003-2004 as part of a medical status examination and interview. Childhood physical abuse predicted significantly higher BMI scores in adulthood (beta=0.14, P&<.05), even controlling for demographic characteristics, cigarette smoking, and alcohol consumption (beta=0.16, P&<.01). Childhood sexual abuse (beta=0.07, not significant) and neglect (beta=0.02, not significant) were not significant predictors of adult BMI scores. These results demonstrate the long-term impact of childhood physical abuse on weight into adulthood and suggest that physically abused children may be at risk for other adverse health outcomes associated with increased weight. Health professionals need to understand this risk for physically abused children and researchers should identify and evaluate strategies for effective interventions."
+      },
+      {
+        "difficulty": "4",
+        "timeElapsed": "016656",
+        "questionId": "03493f8c-62f0-48e7-b44a-d3652839936d",
+        "correct": [
+          "receptors",
+          "contexts",
+          "signaling",
+          "addresses",
+          "immune"
+        ],
+        "answers": [
+          "ice",
+          "water",
+          "fire",
+          "earth",
+          "volcano"
+        ],
+        "clozeAbstract": "NF-kappaB is a master transcription factor in the <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">5</button> system. It regulates various aspects of immune cell development, homeostasis, survival and function. It is in these <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">2</button> that the <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">3</button> pathways leading to NF-kappaB activation are best understood. This review <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">4</button> the cell signaling from antigen receptors as well as Toll-like <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">1</button> to NF-kappaB in both innate and adaptive immunity as revealed by the analysis of mice lacking specific signaling intermediates.",
+        "topic": "signal_transduction",
+        "fullAbstract": "NF-kappaB is a master transcription factor in the immune system. It regulates various aspects of immune cell development, homeostasis, survival and function. It is in these contexts that the signaling pathways leading to NF-kappaB activation are best understood. This review addresses the cell signaling from antigen receptors as well as Toll-like receptors to NF-kappaB in both innate and adaptive immunity as revealed by the analysis of mice lacking specific signaling intermediates."
+      },
+      {
+        "difficulty": "5",
+        "timeElapsed": "020069",
+        "questionId": "db94cd2d-008e-43bc-ae9f-f71e3bf00516",
+        "correct": [
+          "allows",
+          "clonogenic",
+          "model",
+          "quantitative",
+          "behave"
+        ],
+        "answers": [
+          "movies",
+          "music",
+          "cinema",
+          "songs",
+          "clothes"
+        ],
+        "clozeAbstract": "Tumours <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">5</button> as complex, self-organizing, opportunistic dynamic systems. In an attempt to better understand and describe the highly complicated tumour behaviour, a novel four-dimensional simulation model of in vivo tumour growth and response to radiotherapy has been developed. This paper presents the latest improvements to the model as well as a parametric validation of it. Improvements include an advanced algorithm leading to conformal tumour shrinkage, a quantitative consideration of the influence of oxygenation on radiosensitivity and a more realistic, imaging based description of the neovasculature distribution. The tumours selected for the validation of the <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">3</button> are a wild type and a mutated p53 gene glioblastomas multiforme. According to the model predictions, a whole tumour with larger cell cycle duration tends to repopulate more slowly. A lower oxygen enhancement ratio value leads to a more radiosensitive whole tumour. Higher <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">2</button> cell density (CCD) produces a higher number of proliferating tumour cells and, therefore, a more difficult tumour to treat. Simulation predictions agree at least semi-quantitatively with clinical experience, and particularly with the outcome of the Radiation Therapy Oncology Group (RTOG) Study 83-02. It is stressed that the model <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">1</button> a quantitative study of the interrelationship between the competing influences in a complex, dynamic tumour environment. Therefore, the model can already be useful as an educational tool with which to study, understand and demonstrate the role of various parameters in tumour growth and response to irradiation. A long term <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">4</button> clinical adaptation and validation of the model aiming at its integration into the treatment planning procedure is in progress.",
+        "topic": "algorithms",
+        "fullAbstract": "Tumours behave as complex, self-organizing, opportunistic dynamic systems. In an attempt to better understand and describe the highly complicated tumour behaviour, a novel four-dimensional simulation model of in vivo tumour growth and response to radiotherapy has been developed. This paper presents the latest improvements to the model as well as a parametric validation of it. Improvements include an advanced algorithm leading to conformal tumour shrinkage, a quantitative consideration of the influence of oxygenation on radiosensitivity and a more realistic, imaging based description of the neovasculature distribution. The tumours selected for the validation of the model are a wild type and a mutated p53 gene glioblastomas multiforme. According to the model predictions, a whole tumour with larger cell cycle duration tends to repopulate more slowly. A lower oxygen enhancement ratio value leads to a more radiosensitive whole tumour. Higher clonogenic cell density (CCD) produces a higher number of proliferating tumour cells and, therefore, a more difficult tumour to treat. Simulation predictions agree at least semi-quantitatively with clinical experience, and particularly with the outcome of the Radiation Therapy Oncology Group (RTOG) Study 83-02. It is stressed that the model allows a quantitative study of the interrelationship between the competing influences in a complex, dynamic tumour environment. Therefore, the model can already be useful as an educational tool with which to study, understand and demonstrate the role of various parameters in tumour growth and response to irradiation. A long term quantitative clinical adaptation and validation of the model aiming at its integration into the treatment planning procedure is in progress."
+      },
+      {
+        "difficulty": "6",
+        "timeElapsed": "020293",
+        "questionId": "284a4999-f45d-4b91-9101-2bef8a4dad31",
+        "correct": [
+          "fluorescent",
+          "finite",
+          "invasion",
+          "universal",
+          "matrix"
+        ],
+        "answers": [
+          "night",
+          "day",
+          "evening",
+          "afternoon",
+          "noon"
+        ],
+        "clozeAbstract": "Cell <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">3</button> through a dense three-dimensional (3D) matrix is believed to depend on the ability of cells to generate traction forces. To quantify the role of cell tractions during invasion in 3D, we present a technique to measure the elastic strain energy stored in the matrix due to traction-induced deformations. The matrix deformations around a cell were measured by tracking the 3D positions of <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">1</button> beads tightly embedded in the matrix. The bead positions served as nodes for a <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">2</button> element tessellation. From the strain in each element and the known matrix elasticity, we computed the local strain energy in the <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">5</button> surrounding the cell. We applied the technique to measure the strain energy of highly invasive MDA-MB-231 breast carcinoma and A-125 lung carcinoma cells in collagen gels. The results were compared to the strain energy generated by non-invasive MCF-7 breast and A-549 lung carcinoma cells. In all cases, cells locally contracted the matrix. Invasive breast and lung carcinoma cells showed a significantly higher contractility compared to non-invasive cells. Higher contractility, however, was not universally associated with higher invasiveness. For instance, non-invasive A-431 vulva carcinoma cells were the most contractile cells among all cell lines tested. As a <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">4</button> feature, however, we found that invasive cells assumed an elongated spindle-like morphology as opposed to a more spherical shape of non-invasive cells. Accordingly, the distribution of strain energy density around invasive cells followed patterns of increased complexity and anisotropy. These results suggest that not so much the magnitude of traction generation but their directionality is important for cancer cell invasion.",
+        "topic": "neoplasms",
+        "fullAbstract": "Cell invasion through a dense three-dimensional (3D) matrix is believed to depend on the ability of cells to generate traction forces. To quantify the role of cell tractions during invasion in 3D, we present a technique to measure the elastic strain energy stored in the matrix due to traction-induced deformations. The matrix deformations around a cell were measured by tracking the 3D positions of fluorescent beads tightly embedded in the matrix. The bead positions served as nodes for a finite element tessellation. From the strain in each element and the known matrix elasticity, we computed the local strain energy in the matrix surrounding the cell. We applied the technique to measure the strain energy of highly invasive MDA-MB-231 breast carcinoma and A-125 lung carcinoma cells in collagen gels. The results were compared to the strain energy generated by non-invasive MCF-7 breast and A-549 lung carcinoma cells. In all cases, cells locally contracted the matrix. Invasive breast and lung carcinoma cells showed a significantly higher contractility compared to non-invasive cells. Higher contractility, however, was not universally associated with higher invasiveness. For instance, non-invasive A-431 vulva carcinoma cells were the most contractile cells among all cell lines tested. As a universal feature, however, we found that invasive cells assumed an elongated spindle-like morphology as opposed to a more spherical shape of non-invasive cells. Accordingly, the distribution of strain energy density around invasive cells followed patterns of increased complexity and anisotropy. These results suggest that not so much the magnitude of traction generation but their directionality is important for cancer cell invasion."
+      },
+      {
+        "difficulty": "7",
+        "timeElapsed": "020702",
+        "questionId": "76a6a43e-9b09-4a71-9427-b9ab738ec5df",
+        "correct": [
+          "malignant",
+          "radiological",
+          "buttock",
+          "tissue",
+          "findings"
+        ],
+        "answers": [
+          "slippers",
+          "shoes",
+          "socks",
+          "watch",
+          "glasses"
+        ],
+        "clozeAbstract": "Ischiogluteal bursitis is a rare, infrequently recognized soft <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">4</button> mass of the <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">3</button> region. Of importance is the <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">2</button> differential diagnosis with other benign and <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">1</button> soft-tissue tumors. We describe the imaging <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">5</button> of bursitis.",
+        "topic": "magnetic_resonance_imaging",
+        "fullAbstract": "Ischiogluteal bursitis is a rare, infrequently recognized soft tissue mass of the buttock region. Of importance is the radiological differential diagnosis with other benign and malignant soft-tissue tumors. We describe the imaging findings of bursitis."
+      },
+      {
+        "difficulty": "9",
+        "timeElapsed": "016472",
+        "questionId": "77794d3f-a203-44e0-92ca-472eab6aaa03",
+        "correct": [
+          "induced",
+          "substantial",
+          "interfering",
+          "inflammatory",
+          "Transforming"
+        ],
+        "answers": [
+          "body",
+          "mind",
+          "brain",
+          "teeth",
+          "nose"
+        ],
+        "clozeAbstract": "<button type=\"button\" class=\"btn btn-secondary btn-sm blank\">5</button> growth factor β (TGF-β)-activated kinase 1 (TAK1) is a key regulator in the signals transduced by proinflammatory cytokines and Toll-like receptors (TLRs). The regulatory mechanism of TAK1 in response to various tissue types and stimuli remains incompletely understood. Here, we show that ribosomal S6 kinase 1 (S6K1) negatively regulates TLR-mediated signals by inhibiting TAK1 activity. S6K1 overexpression causes a marked reduction in NF-κB and AP-1 activity <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">1</button> by stimulation of TLR2 or TLR4. In contrast, S6K1(-/-) and S6K1 knockdown cells display enhanced production of <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">4</button> cytokines. Moreover, S6K1(-/-) mice exhibit decreased survival in response to challenge with lipopolysaccharide (LPS). We found that S6K1 inhibits TAK1 kinase activity by <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">3</button> with the interaction between TAK1 and TAB1, which is a key regulator protein for TAK1 catalytic function. Upon stimulation with TLR ligands, S6K1 deficiency causes a marked increase in TAK1 kinase activity that in turn induces a <button type=\"button\" class=\"btn btn-secondary btn-sm blank\">2</button> enhancement of NF-κB-dependent gene expression, indicating that S6K1 is negatively involved in the TLR signaling pathway by the inhibition of TAK1 activity. Our findings contribute to understanding the molecular pathogenesis of the impaired immune responses seen in type 2 diabetes, where S6K1 plays a key role both in driving insulin resistance and modulating TLR signaling.",
+        "topic": "cell_line_tumor",
+        "fullAbstract": "Transforming growth factor β (TGF-β)-activated kinase 1 (TAK1) is a key regulator in the signals transduced by proinflammatory cytokines and Toll-like receptors (TLRs). The regulatory mechanism of TAK1 in response to various tissue types and stimuli remains incompletely understood. Here, we show that ribosomal S6 kinase 1 (S6K1) negatively regulates TLR-mediated signals by inhibiting TAK1 activity. S6K1 overexpression causes a marked reduction in NF-κB and AP-1 activity induced by stimulation of TLR2 or TLR4. In contrast, S6K1(-/-) and S6K1 knockdown cells display enhanced production of inflammatory cytokines. Moreover, S6K1(-/-) mice exhibit decreased survival in response to challenge with lipopolysaccharide (LPS). We found that S6K1 inhibits TAK1 kinase activity by interfering with the interaction between TAK1 and TAB1, which is a key regulator protein for TAK1 catalytic function. Upon stimulation with TLR ligands, S6K1 deficiency causes a marked increase in TAK1 kinase activity that in turn induces a substantial enhancement of NF-κB-dependent gene expression, indicating that S6K1 is negatively involved in the TLR signaling pathway by the inhibition of TAK1 activity. Our findings contribute to understanding the molecular pathogenesis of the impaired immune responses seen in type 2 diabetes, where S6K1 plays a key role both in driving insulin resistance and modulating TLR signaling."
+      }
+    ],
+    "testId": 146,
+    "current": 7,
+    "mode": "READABILITY",
+    "passkey": "e95d195dcabcbae7bc4dc5db1a95fc8a",
+    "groupId": 49
+  },
+  {
+    "completed": true,
+    "questions": [
+      {
         "difficulty": "0",
         "timeElapsed": "01614681150319720320320617620419019019120832198443026546861",
         "questionId": "4c321dbb-0001-4fb1-9ced-11826cce4349",

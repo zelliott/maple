@@ -39,23 +39,33 @@ var calculateAccuracy = function (answers, correct) {
   return count / answers.length;
 };
 
-var arrayToCsv = function (data) {
+var arrayToCsv = function (data, delim) {
   var lineArray = [];
+
+  delim = delim || ',';
   data.forEach(function (infoArray, index) {
-      var line = infoArray.join(",");
+      var line = infoArray.join(delim);
       lineArray.push(line);
   });
 
-  return csvContent = lineArray.join("\n");
+  return csvContent = lineArray.join('\n');
 };
 
 var results = JSON.parse(fs.readFileSync('results.json', 'utf8'));
 var topics = {};
+var questions = {};
 
 var csvResults = [];
 var csvTopics = [];
+var csvForNenkova = [];
+var csvQuestions = [];
 
 _.each(results, function (test) {
+
+  // results.csv
+  // for_nenkova.csv
+  // Results on a per-question level
+
   var questions = test.questions;
 
   _.each(questions, function (question) {
@@ -65,6 +75,9 @@ _.each(results, function (test) {
     var timeElapsed = question.timeElapsed;
     var questionId = question.questionId;
     var topic = question.topic;
+    var abstract =  '<abstract>' + question.fullAbstract + '</abstract>';
+    var length = question.fullAbstract.split(' ').length;
+    var groupId = test.groupId;
 
     var accuracy = calculateAccuracy(answers, correct);
 
@@ -86,9 +99,13 @@ _.each(results, function (test) {
     topics[topic].accuracy += accuracy;
     topics[topic].accuracyCount += 1;
 
-    csvResults.push([ questionId, topic, accuracy, difficulty, timeElapsed ]);
+    csvResults.push([ questionId, topic, accuracy, difficulty, timeElapsed, length, groupId ]);
+    csvForNenkova.push([ abstract, topic, accuracy, difficulty ]);
   });
 });
+
+// topics.csv
+// Results on a per-topic level
 
 _.each(topics, function (value, key) {
   value.accuracy /= value.accuracyCount;
@@ -101,11 +118,16 @@ _.each(topics, function (value, key) {
 
 var csvResultsStr = arrayToCsv(csvResults);
 var csvTopicsStr = arrayToCsv(csvTopics);
+var csvForNenkovaStr = arrayToCsv(csvForNenkova);
 
 fs.writeFile('results.csv', csvResultsStr, function (err) {
   if (err) return console.log(err);
 });
 
 fs.writeFile('topics.csv', csvTopicsStr, function (err) {
+  if (err) return console.log(err);
+});
+
+fs.writeFile('for_nenkova.csv', csvForNenkovaStr, function (err) {
   if (err) return console.log(err);
 });

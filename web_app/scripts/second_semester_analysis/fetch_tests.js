@@ -26,6 +26,7 @@ function onScan (err, data) {
 
       fs.writeFile('results.json', JSON.stringify(results, null, 2), function (err) {
         if (err) return console.log(err);
+        console.log(results.length);
       });
 
     }
