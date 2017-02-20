@@ -78,6 +78,7 @@ _.each(results, function (test) {
     var abstract =  '<abstract>' + question.fullAbstract + '</abstract>';
     var length = question.fullAbstract.split(' ').length;
     var groupId = test.groupId;
+    var testId = test.testId;
 
     var accuracy = calculateAccuracy(answers, correct);
 
@@ -99,7 +100,7 @@ _.each(results, function (test) {
     topics[topic].accuracy += accuracy;
     topics[topic].accuracyCount += 1;
 
-    csvResults.push([ questionId, topic, accuracy, difficulty, timeElapsed, length, groupId ]);
+    csvResults.push([ questionId, topic, accuracy, difficulty, timeElapsed, length, groupId, testId ]);
     csvForNenkova.push([ abstract, topic, accuracy, difficulty ]);
   });
 });
