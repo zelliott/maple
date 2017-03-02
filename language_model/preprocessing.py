@@ -14,3 +14,5 @@ def preprocess(input_file, output_file):
             outfile.write(line)
         outfile.write(" zzos")
     
+
+#preprocess("train_data/clean/nytimes.txt", "pre_train/nytimes/txt")
