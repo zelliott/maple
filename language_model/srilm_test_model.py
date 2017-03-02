@@ -66,6 +66,7 @@ def test_model(test_dir, output_file, language_model, doc_limit=1000, word_limit
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 for test_dir in os.listdir(test_data_clean_path):
 	print 'Starting tests on ' + test_dir
 	for lm in os.listdir(lm_path):
@@ -76,6 +77,9 @@ for test_dir in os.listdir(test_data_clean_path):
 # output_file = 'test_output/' + 'medline' + '_' + 'algorithms' + '.txt'
 # test_model('algorithms', output_file, 'medline.lm')
 
+=======
+test_model('neoplasms', 'output.txt', 'brown.lm')
+>>>>>>> parent of 878c12e... about to run all tests
 =======
 test_model('neoplasms', 'output.txt', 'brown.lm')
 >>>>>>> parent of 878c12e... about to run all tests
