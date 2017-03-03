@@ -1,0 +1,9 @@
+
+For the reconstruction of the coronary arteries from zzso zzso data, a crucial point is the selection of the optimal cardiac phase for data zzso To avoid time-consuming interactive selection of the optimal cardiac phase by visual inspection of multiple high-resolution data sets reconstructed at different cardiac zzso an automatic approach for zzso optimal reconstruction windows is zzso 
+
+This paper presents a new approach to fully automatic selection of the optimal cardiac phase for image zzso It is based on the analysis of a zzso data set of the region of interest reconstructed at zzso resolution utilizing an image quality index, which zzso the image quality of a single three-dimensional reconstructed zzso The derived image quality index zzso the zzso information of a single zzso snapshot as a quality measure for the vessel zzso The proposed technique was applied to 16 projection data sets obtained in eight zzso 
+
+zzso to evaluate the proposed method based on zzso image quality parameters serving as ground truth, showed a relatively high correlation zzso for high-quality zzso zzso zzso zzso 
+
+An zzso technique is introduced, which is able to determine the optimal cardiac phase for zzso fully zzso The proposed method was successfully applied to 16 data sets obtained in a total of 8 zzso zzso 
+

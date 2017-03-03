@@ -1,0 +1,9 @@
+
+Contemporary literature illustrates an abundance of zzso zzso for mining association zzso However, most literature is unable to deal with the peculiarities, such as missing values and dynamic data creation, that are frequently encountered in fields like zzso This paper proposes an uncertainty rule method that uses an zzso threshold for filling missing values in newly added zzso A new approach for mining uncertainty rules and filling missing values is proposed, which is in turn particularly suitable for dynamic databases, like the ones used in home care zzso 
+
+In this study, a new data mining method named zzso zzso Missing zzso is illustrated based on the zzso uncertainty zzso zzso rules have quite a similar structure to association rules and are extracted by an zzso proposed in previous work, namely zzso zzso zzso Rule zzso The main target was to implement an appropriate method for recovering missing values in a dynamic database, where new records are continuously added, without needing to specify any kind of thresholds zzso 
+
+The method was applied to a home care monitoring system zzso zzso multiple missing values for each zzso attributes zzso zzso by zzso zzso were introduced in the initial zzso zzso demonstrated zzso completion rates with over zzso success in each case, while usual approaches, where all records with missing values are ignored or thresholds are required, experienced significantly reduced completion and success zzso 
+
+It is concluded that the proposed method is appropriate for the zzso step of the zzso Discovery process in zzso The latter, containing much significance for the output efficiency of any data mining technique, can improve the quality of the zzso zzso 
+

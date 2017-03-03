@@ -1,0 +1,7 @@
+
+Although numerous methods have been developed to better capture biological information from zzso data, commonly used single zzso methods neglect interactions among genes and leave room for other novel zzso For example, most zzso and zzso methods for zzso data are based on the whole set of genes and have not made use of zzso zzso zzso analysis in zzso studies may lead to more zzso and relevant knowledge for biological zzso 
+
+In this paper, we describe a zzso zzso and zzso method using Random zzso to analyze gene expression zzso The proposed methods allow researchers to rank important pathways from zzso available databases, discover important zzso find zzso outlying cases and make full use of a continuous outcome variable in the zzso zzso We also compared Random zzso with other machine learning methods using several zzso and found that Random zzso zzso error rates were either the lowest or the zzso By combining zzso information and novel statistical methods, this procedure represents a promising zzso strategy in zzso pathways and can provide biological insight into the study of zzso zzso 
+
+zzso code written in R is available from zzso 
+

@@ -1,0 +1,9 @@
+
+There has been a growing interest in identifying zzso active zzso interaction zzso zzso through integration of zzso and time course gene expression zzso However the interaction dynamics during the biological process under study has not been sufficiently considered zzso 
+
+Here we propose a zzso zzso zzso based scoring metric for identifying active zzso zzso from time series expression zzso First the zzso coordination in gene expression changes is evaluated through phase zzso zzso The results are subsequently integrated with zzso to define an activity score for each zzso zzso based on individual member zzso as well zzso characteristics of the zzso network and of the expression zzso coordination zzso Lastly, the zzso with the top scores in the whole zzso network are identified through simulated zzso zzso 
+
+Application of zzso to simulated data and to the zzso cell cycle data showed that it can more sensitively identify biologically meaningful zzso than the method that only zzso the zzso zzso zzso or the additive scoring zzso Using zzso we identified a core zzso with 49 genes important to zzso cell zzso Interestingly, this core contains a protein complex known to be related to arrangement of zzso zzso that exhibit extremely high gene expression zzso 
+
+zzso of interaction dynamics is important to the identification of relevant gene zzso 
+

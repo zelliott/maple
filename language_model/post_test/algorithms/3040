@@ -1,0 +1,9 @@
+
+Modern systems biology aims at understanding how the different molecular components of a biological cell zzso Often, cellular functions are performed by complexes consisting of many different zzso The composition of these complexes may change according to the cellular environment, and one protein may be involved in several different zzso The automatic discovery of functional complexes from protein interaction data is zzso While previous approaches use approximations to extract dense zzso our approach exactly zzso the problem of dense module zzso Furthermore, constraints from additional information sources such as gene expression and zzso data can be zzso so we can systematically mine for dense zzso with interesting zzso 
+
+Given a weighted protein interaction network, our method discovers all protein sets that satisfy a zzso minimum density zzso We employ a reverse search strategy, which allows us to exploit the density criterion in an efficient zzso Our experiments show that the novel approach is feasible and produces biologically meaningful zzso In comparative validation studies using zzso data, the method achieved the best overall prediction performance with respect to confirmed zzso Moreover, by enhancing the zzso network with zzso and zzso profiles and the human network with zzso expression data, we identified zzso complex zzso 
+
+A zzso zzso of the zzso is available at zzso 
+
+zzso data are available at zzso zzso 
+

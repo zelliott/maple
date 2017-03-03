@@ -1,0 +1,9 @@
+
+The aim of this study was to develop an automated method for detection of local zzso and zzso abnormalities in chest zzso 
+
+The method was based on profile analysis to detect abnormalities in chest zzso In the method, one zzso feature, zzso zzso Index, and two zzso features, zzso zzso Index and zzso zzso Index, were used to detect abnormalities in the lung zzso In each chest zzso the lung fields were divided into four zones initially and then the method was applied to each zone zzso For each zone, zzso zzso Index was obtained from the projection profile of each zone, and zzso zzso Index and zzso zzso Index were obtained by measuring the zzso of the horizontal profiles via moving average zzso Linear zzso analysis was used to zzso normal and abnormal cases based on the three zzso The zzso performance of the method was evaluated using zzso zzso 
+
+The method was evaluated on a database of 250 normal and 250 abnormal chest zzso In the zzso conditions, the zzso performance zzso of the method for zones 1, 2, 3, and 4 were zzso zzso zzso and zzso respectively, and the zzso performance zzso of the method was zzso Our previous method for detection of gross abnormalities was also evaluated on the same zzso The zzso performance of our previous method was zzso 
+
+In comparing the previous method and the new method proposed in this study, there was a great improvement by the new method for detection of local zzso and zzso zzso The new method combined with the previous one has potential for screening abnormalities in chest zzso 
+

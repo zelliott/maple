@@ -1,0 +1,7 @@
+
+The linkage phase, or zzso is an extra level of information that in addition to zzso and pedigree can be useful for reconstructing the inheritance pattern of the zzso in a pedigree, and computing for example zzso By zzso zzso If a zzso is zzso the precision of estimated zzso probabilities increases, as long as the zzso is estimated without zzso It is therefore important to only use zzso that are strongly supported by the available data for zzso zzso to avoid introducing new errors due to erroneous linkage zzso 
+
+We propose a genetic zzso based method for zzso zzso in family data that includes a stringency zzso This allows the user to decide the error tolerance level when zzso parental origin of the zzso This is a novel feature compared to existing methods for zzso zzso We show that using a high stringency produces zzso data with few zzso whereas a low stringency provides zzso estimates in most situations, but with an increased number of zzso 
+
+By including a stringency criterion in our zzso method, the user is able to maintain the error rate at a suitable level for the particular study; one can select anything from zzso data with very small proportion of errors and a higher proportion of zzso zzso to data with phase estimates for every marker, when zzso errors are zzso Giving this choice makes the method more flexible and useful in a wide range of applications as it is able to zzso different requirements regarding the tolerance for zzso zzso or uncertain zzso 
+

@@ -1,0 +1,9 @@
+
+zzso zzso zzso data contains detailed information that can be used for structural zzso of compounds observed in zzso zzso However, full exploitation of this complex data requires significant analysis efforts by human zzso In zzso methods currently used to support data zzso by assigning zzso of candidate molecules are limited to a single level of zzso zzso 
+
+We present an extended zzso approach which allows zzso of zzso spectral trees obtained from high-resolution zzso zzso zzso The zzso yields a zzso tree of zzso of a candidate zzso to explain the zzso zzso observed at consecutive levels of the zzso zzso spectral zzso A matching score is calculated that indicates how well the candidate structure can explain the observed zzso fragmentation zzso 
+
+The method is applied to zzso spectral trees of a set of compounds representing important chemical classes in zzso Based on the calculated score, the correct molecules were successfully zzso among extensive sets of candidates structures retrieved from the zzso zzso 
+
+The results indicate that the inclusion of subsequent levels of fragmentation in the automatic zzso of zzso data improves the identification of the correct zzso We show that, especially in the case of lower mass zzso this improvement is not only due to the inclusion of additional zzso zzso in the analysis, but also to the specific zzso information present in the zzso spectral zzso This method may significantly reduce the time required by zzso experts to analyze complex zzso zzso 
+

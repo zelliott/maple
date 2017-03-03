@@ -1,0 +1,7 @@
+
+Current methods of analyzing zzso zzso zzso data require the zzso of probe set expression zzso followed by application of statistical tests to determine which genes are zzso zzso The zzso zzso described by Zhang and colleagues is an alternative method that allows tests of hypotheses directly from probe level zzso It is based on an error model in which the detected signal is zzso to the probe pair signal for highly expressed zzso but approaches a background level (rather than zzso for genes with low levels of zzso This model is used to calculate relative change in probe pair zzso that converts probe signals into multiple zzso with zzso zzso which are summed over a probe set to form the zzso Assuming no expression differences between chips, the zzso follows a standard normal distribution, allowing direct tests of hypotheses to be zzso Using zzso and dilution zzso we validated the zzso method against comparisons of gene expression utilizing the more recently developed methods zzso zzso and zzso 
+
+The zzso showed excellent sensitivity and specificity in detecting low-level gene expression zzso Rank ordering of zzso values more accurately reflected known zzso values compared to other zzso 
+
+The zzso method, utilizing probe level data directly, offers significant advantages over comparisons using only probe set expression zzso 
+

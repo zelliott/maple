@@ -1,0 +1,7 @@
+
+In general, each cell signaling zzso involves many zzso each with one or more specific zzso As they are essential components of cell activity, it is important to understand how these proteins zzso in particular, to determine which of the zzso proteins participate in each zzso zzso determining this mapping of proteins to roles is difficult and time zzso Fortunately, many pathways are similar across species, so we may be able to use known zzso information of one species to understand the corresponding zzso of zzso 
+
+We present an automatic approach, Predict Signaling zzso zzso which uses the signaling pathways in well-studied species to predict the roles of proteins in zzso zzso We use a machine learning approach to create a predictor that achieves a zzso zzso of zzso when applied to 11 different pathways across 14 different zzso We also show our approach is very effective in predicting the pathways that have not yet been zzso studied zzso 
+
+The list of predicted proteins for all pathways over all considered species is available at zzso 
+

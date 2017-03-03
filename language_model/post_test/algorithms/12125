@@ -1,0 +1,9 @@
+
+A method is proposed for generating schemes of diffusion zzso zzso which allow the diffusion zzso to be reconstructed from partial data sets in clinical zzso should the acquisition be corrupted or terminated before completion because of patient zzso 
+
+A general zzso zzso model was developed in which the interactions between zzso are weighted according to their zzso order during zzso In this report, two corruption scenarios were specifically considered for generating relatively uniform schemes of 18 and 60 zzso with useful zzso of 6 and 15 zzso The sets and zzso were compared to conventional sets through their energy, condition number and zzso zzso zzso of 18 zzso were tested on a zzso 
+
+The zzso sets were similar to uniform sets in terms of energy, condition number and zzso zzso whether the complete set or only a subset was zzso zzso maps obtained in zzso were close to those for uniform sets whatever the acquisition time zzso This was not the case with conventional schemes, whose subset uniformity was zzso 
+
+With the proposed approach, sets of zzso responding to several corruption scenarios can be generated, which is potentially useful for imaging uncooperative patients or zzso 
+

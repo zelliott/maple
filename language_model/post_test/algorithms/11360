@@ -1,0 +1,7 @@
+
+zzso is increasingly being used for differential gene expression analysis, which was dominated by the zzso technology in the past zzso However, zzso differential gene expression based on the observed difference of zzso read counts has unique challenges that were not present in zzso zzso The differential expression zzso may be biased against low read count values such that the differential expression of genes with high read counts is more easily zzso The zzso bias may further zzso in downstream analyses at the systems biology level if it is not zzso 
+
+To obtain a better zzso of differential gene zzso we propose a new efficient zzso based on a zzso random field zzso model, called zzso that uses additional gene zzso data to enhance the prediction zzso Our main technical contribution is the careful selection of the zzso potential functions in the zzso so its maximum a zzso zzso can be reduced to the well-known maximum flow problem and thus solved in zzso zzso Our extensive experiments on simulated and real zzso zzso demonstrate that zzso is more accurate and less biased against genes with low read counts than the existing methods based on zzso data zzso For example, on the well-studied zzso zzso zzso improved the sensitivity from zzso to zzso for genes with low read zzso 
+
+zzso is implemented in C and available at zzso 
+

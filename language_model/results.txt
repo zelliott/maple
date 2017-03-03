@@ -1,0 +1,19 @@
+nytimes_algorithms.txt - length: 138.622
+nytimes_algorithms.txt - oovs: 0.0
+nytimes_algorithms.txt - ppl: 7323.850618
+
+nytimes_cell_line_tumor.txt - length: 144.046046046
+nytimes_cell_line_tumor.txt - oovs: 0.0
+nytimes_cell_line_tumor.txt - ppl: 10854.7587167
+
+nytimes_neoplasms.txt - length: 138.154
+nytimes_neoplasms.txt - oovs: 0.0
+nytimes_neoplasms.txt - ppl: 8042.443446
+
+nytimes_obesity.txt - length: 141.309309309
+nytimes_obesity.txt - oovs: 0.0
+nytimes_obesity.txt - ppl: 9495.51007508
+
+nytimes_signal_transduction.txt - length: 141.251
+nytimes_signal_transduction.txt - oovs: 0.0
+nytimes_signal_transduction.txt - ppl: 10574.945754

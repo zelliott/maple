@@ -1,0 +1,7 @@
+
+The explosion of next-generation sequencing data has spawned the design of new zzso and software tools to provide efficient mapping for different read lengths and sequencing zzso In particular, zzso zzso zzso zzso poses a big zzso challenge with its capacity to produce very large amounts of data, and its unique strategy of zzso sequence data into color zzso 
+
+We present the mapping software, named zzso zzso zzso zzso that uses periodic spaced seeds to significantly improve mapping efficiency for large reference zzso when compared with state-of-the-art zzso The data structure in zzso requires only zzso zzso per base to index the human zzso allowing entire zzso to be loaded to memory, while multiple processors simultaneously map reads to the zzso Weight zzso periodic seeds offer full sensitivity for up to three zzso and high sensitivity for four and five zzso while minimizing the number random hits per zzso significantly speeding up the running zzso Such sensitivity makes zzso a valuable mapping tool for zzso and zzso zzso 
+
+zzso 
+

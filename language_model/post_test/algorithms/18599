@@ -1,0 +1,11 @@
+
+zzso is a Quality Controlled Health Gateway using a zzso based on the Medical zzso zzso zzso thesaurus that displays medical specialties zzso and the relationships existing between them and zzso zzso 
+
+The need to zzso the resources within the zzso has led us to combine this type of semantic information with domain expert knowledge for health resources categorization zzso 
+
+A zzso categorization process consisting of mapping resource zzso to zzso zzso and ranking zzso by decreasing coverage in the resource has been zzso We evaluate this zzso on a random set of 123 resources extracted from the zzso zzso Our gold standard for this evaluation is the manual zzso provided by a domain expert, zzso a librarian of the zzso 
+
+The zzso zzso shows zzso precision and zzso recall, and zzso of the resources were assigned a zzso zzso or zzso zzso categorization according to strict zzso 
+
+A thorough analysis of the results has enabled us to find gaps in the knowledge modeling of the zzso zzso The necessary adjustments having been made, the zzso is currently used in zzso for resource zzso 
+

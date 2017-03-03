@@ -1,0 +1,7 @@
+
+This work aims to develop zzso methods to zzso protein structures in an automated zzso We employ a support zzso machine zzso zzso to map from a given class of structures to their corresponding structural zzso or functional zzso zzso zzso In particular, we build upon recent work describing various kernels for protein structures, where a kernel is a similarity function that the zzso uses to compare pairs of zzso 
+
+We describe a kernel that is derived in a straightforward fashion from an existing structural alignment program, zzso We find in our benchmark experiments that this kernel significantly zzso a variety of other zzso including several previously described zzso Furthermore, in both zzso zzso structures using zzso alone does not work as well as using an zzso with the zzso zzso 
+
+zzso 
+

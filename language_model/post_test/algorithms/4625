@@ -1,0 +1,3 @@
+
+A new fuzzy filter is presented for the reduction of additive noise for digital color zzso The filter consists of two zzso The first zzso zzso fuzzy distances between the color components of the central zzso and its zzso These distances determine in what degree each component should be zzso All performed corrections preserve the color component zzso The goal of the second zzso is to correct the zzso where the color components differences are corrupted so much that they appear as zzso in comparison to their zzso Experimental results show the feasibility of the proposed zzso We compare with other noise reduction methods by zzso measures and visual zzso We also illustrate the performance of the proposed method as zzso step for edge zzso 
+

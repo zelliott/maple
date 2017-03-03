@@ -1,0 +1,5 @@
+
+The DNA zzso technology has been increasingly used in cancer zzso In the literature, discovery of putative classes and zzso to known classes based on gene expression data have been largely treated as separate zzso This paper offers a unified approach to class discovery and zzso which we believe is more appropriate, and has greater zzso in practical zzso 
+
+We model the gene expression profile of a tumor sample as from a finite mixture distribution, with each component characterizing the gene expression levels in a zzso The proposed method was applied to a leukemia zzso and good results are zzso With appropriate choices of genes and zzso method, the number of leukemia types and zzso is correctly zzso and all the tumor samples are correctly classified into their respective zzso Further evaluation of the method was carried out on other zzso of the leukemia data and a colon zzso 
+

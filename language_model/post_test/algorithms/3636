@@ -1,0 +1,7 @@
+
+zzso response zzso experiments are those in which there are more than two classes to be zzso In these experiments, though the zzso hypothesis is simple, there are typically many patterns of gene expression changes across the different classes that led to complex zzso In this paper, we propose a new strategy for selecting genes in zzso that is based on a flexible mixture model for the marginal distribution of a modified zzso Using this model, false positive and negative discovery rates can be estimated and combined to produce a rule for selecting a subset of zzso Moreover, the method proposed allows calculation of these rates for any zzso subset of zzso 
+
+We illustrate the performance our approach using simulated zzso and a real breast cancer zzso zzso In this latter study, we investigate zzso subset of genes and point out interesting differences between three distinct biological zzso 
+
+zzso 
+

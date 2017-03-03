@@ -1,0 +1,3 @@
+
+zzso and differentiation of noisy data using zzso functions requires the selection of an unknown smoothing zzso The method of generalized zzso provides an excellent estimate of the smoothing zzso from the data itself even when the amount of noise associated with the data is zzso In the present model only a single smoothing zzso must be zzso but in a more general context the number may be zzso In an earlier work, smoothing of the data was accomplished by solving a zzso problem using the technique of dynamic zzso This paper shows how the zzso required by generalized zzso can be performed as a simple extension of the dynamic programming zzso The results of zzso experiments are also zzso 
+

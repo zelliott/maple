@@ -1,0 +1,7 @@
+
+Most of the available tools for zzso factor binding site prediction are based on methods which assume no sequence dependence between the binding site base zzso Our primary objective was to investigate the statistical basis for either a claim of dependence or independence, to determine whether such a claim is generally true, and to use the resulting data to develop improved scoring functions for zzso zzso 
+
+Using three statistical tests, we analyzed the number of binding sites showing dependent zzso We analyzed zzso zzso crystal structures for evidence of position zzso Our final conclusions were that some factors show evidence of zzso whereas others do zzso We observed that the zzso energy zzso of the zzso zzso complexes was lower zzso for sequences that showed dependency than for those that did not zzso zzso zzso We suggest that where evidence exists for zzso these should be modeled to improve zzso zzso However, when no significant dependency is found, this correction should be zzso This may be done by converting any existing scoring function which assumes independence into a form which includes a dependency zzso We present an example of such an zzso and its zzso as a web zzso 
+
+zzso 
+

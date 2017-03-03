@@ -1,0 +1,7 @@
+
+Identification of molecular markers for the zzso of zzso data is a challenging zzso Despite the evident zzso in various characteristics of biological samples belonging to the same category, most of the zzso and zzso methods do not consider this zzso In general, feature selection methods aim at identifying a common set of genes whose combined expression profiles can accurately predict the category of all zzso Here, we argue that this simplified approach is often unable to capture the complexity of a disease zzso and we propose an alternative method that takes into account the individuality of each zzso 
+
+Instead of using the same features for the zzso of all samples, the proposed technique starts by creating a pool of zzso zzso For each sample, the method selects a subset of these features whose expression profiles are most likely to accurately predict the zzso zzso Different zzso are zzso for different samples and the outcomes are combined in a zzso framework for the zzso of all zzso Moreover, this approach can innately identify zzso of samples within a given class which share common feature sets thus highlighting the effect of individuality on gene zzso 
+
+In addition to high zzso zzso the proposed method offers a more individualized approach for the identification of biological zzso which may help in better understanding the molecular background of a disease and emphasize the need for more flexible medical zzso 
+

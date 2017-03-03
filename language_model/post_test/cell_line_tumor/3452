@@ -1,0 +1,7 @@
+
+Two major identifiable sources of variation in data derived from the zzso Analysis of Gene zzso zzso are zzso sampling zzso and zzso zzso within a zzso Most published methods for identifying differential expression focus on just the sampling zzso In recent work, the problem of assessing differential expression between two groups of zzso libraries has been addressed by introducing a zzso zzso model that explicitly deals with both of the above sources of zzso This model leads to a test statistic analogous to a weighted zzso zzso When the number of groups involved is more than two, however, a more general approach is zzso 
+
+We describe how zzso zzso with zzso supplies this zzso carrying with it the framework for incorporating other zzso into the model as a zzso This approach has the advantage that zzso zzso routines are available in several common statistical zzso 
+
+The described method provides an easily implemented tool for analyzing zzso data that correctly handles multiple types of variation and allows for more flexible zzso 
+

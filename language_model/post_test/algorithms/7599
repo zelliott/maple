@@ -1,0 +1,7 @@
+
+Picking images of particles in zzso zzso is an important step in solving the zzso structures of large zzso zzso However, in order to achieve zzso resolution it is often necessary to capture and process many thousands or even several millions of zzso particle zzso Thus, a zzso bottleneck in reaching high resolution is the accurate and automatic picking of particles from raw zzso zzso 
+
+We have developed zzso a highly parallel zzso particle picking zzso To our knowledge, zzso is the first particle picking program to use multiple graphics zzso units zzso to accelerate the zzso When tested on the publicly available zzso zzso zzso zzso we find that zzso gives similar results to the zzso zzso However, compared to calculating correlations on one core of a contemporary central zzso unit zzso running zzso on a modern zzso gives a zzso of about 27 zzso To achieve even higher processing speeds, the basic correlation calculations are accelerated considerably by using a hierarchy of parallel programming techniques to distribute the calculation over multiple zzso and CPU zzso attached to multiple zzso of a computer zzso By using a theoretically optimal reduction zzso to collect and combine the cluster calculation results, the speed of the overall calculation scales almost zzso with the number of cluster zzso zzso 
+
+The very high picking zzso that is now possible using zzso zzso or computer clusters will help zzso to achieve higher resolution zzso reconstructions more rapidly than zzso 
+

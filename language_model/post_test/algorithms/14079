@@ -1,0 +1,9 @@
+
+New treatment techniques in zzso employ increasing dose calculation complexity in treatment zzso For an adequate check of the results coming from a modern treatment planning system, clinical tools with almost the same degree of zzso and accuracy as the planning system itself are zzso To zzso this need we propose a zzso pencil kernel zzso based on a minimum of input data that can be used for phantom scatter zzso Through scatter integration the pencil kernel model can calculate common zzso such as zzso or phantom scatter factors, used in various zzso zzso zzso zzso zzso 
+
+The proposed model originates from an already published zzso zzso pencil zzso A depth zzso of the pencil kernel parameters has been introduced, based on a large database containing commissioned beam data for a commercial treatment planning zzso The entire pencil kernel model demands only one zzso beam quality index, zzso as zzso 
+
+By comparing the dose calculation results to the extensive experimental data set in the database, it has been possible to make a thorough analysis of the resulting zzso The errors in calculated doses, zzso to the reference zzso are in most cases smaller than zzso 
+
+The investigation shows that a pencil kernel model based only on zzso can be used for zzso zzso purposes in zzso zzso beams at depths below the range of zzso zzso 
+

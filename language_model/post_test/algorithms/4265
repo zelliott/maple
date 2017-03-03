@@ -1,0 +1,7 @@
+
+zzso search methods are dominated by the central paradigm that sequence similarity is a proxy for common ancestry and, by extension, functional zzso For determining sequence similarity in zzso most widely used methods use models of sequence evolution and compare zzso strings in search for zzso linear zzso zzso models or sequence profiles capture the zzso variation in an alignment of zzso sequences and can identify zzso motifs or zzso While zzso search methods are generally more accurate than simple sequence comparison methods, they tend to be zzso more zzso In recent years, several methods have emerged that perform protein similarity searches based on domain zzso However, few methods have considered the linear arrangements of zzso when conducting similarity searches, despite strong evidence that domain order can zzso considerable functional and evolutionary zzso 
+
+Here, we introduce an alignment scheme that uses a classical dynamic programming approach to the global alignment of zzso We illustrate that representing proteins as strings of zzso zzso zzso and comparing these strings globally allows for a both fast and sensitive zzso zzso Further, we demonstrate that the presented methods complement existing methods by finding similar proteins missed by popular zzso comparison zzso 
+
+An zzso of the presented zzso a zzso interface as well as a zzso program for batch searching against the zzso database can be found at zzso Furthermore, we provide a zzso zzso for zzso access to zzso search zzso 
+

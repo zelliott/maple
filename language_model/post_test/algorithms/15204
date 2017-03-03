@@ -1,0 +1,9 @@
+
+There is growing interest in using zzso zzso delivery zzso systems to automate control of brain states zzso zzso and zzso in patients receiving zzso zzso The accuracy and reliability of these systems can be improved by using as control signals electroencephalogram zzso markers for which the zzso links to the zzso brain states are well zzso zzso suppression, in which bursts of electrical activity alternate with periods of zzso or suppression, is a well-known, readily discernible zzso marker of profound brain zzso and zzso This pattern is commonly maintained when zzso are administered to produce a zzso coma for cerebral protection in patients suffering from brain injuries or to arrest brain activity in patients having zzso zzso Although the coma may be required for several hours or days, drug infusion rates are managed zzso by manual zzso Our objective is to design a zzso system for burst suppression control to automate management of zzso zzso 
+
+We establish a zzso system to control burst suppression consisting of: a two-dimensional linear system model relating the zzso brain level to the zzso zzso a new control zzso the burst suppression probability zzso defining the instantaneous probability of zzso the zzso zzso a zzso zzso to estimate the zzso from zzso zzso a zzso zzso and a system identification procedure to estimate the model and controller zzso 
+
+We demonstrate reliable performance of our system in simulation studies of burst suppression control using both zzso and zzso in zzso experiments based on zzso and zzso and in human experiments based on the zzso zzso model for zzso Using zzso we further demonstrate that our control system reliably tracks changing target levels of burst suppression in simulated human subjects across different zzso zzso 
+
+Our results give new insights into zzso system design and suggest a zzso framework to automate zzso control of burst suppression for management of zzso zzso 
+

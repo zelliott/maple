@@ -1,0 +1,9 @@
+
+A widely accepted method to zzso differences in dose zzso is the gamma zzso zzso Currently, almost all gamma zzso zzso the central processing unit zzso Recently, the graphics processing unit zzso has become a powerful platform for specific computing zzso In this study, we describe the zzso of a zzso gamma evaluation using a zzso to improve calculation zzso 
+
+The gamma evaluation zzso was implemented on an zzso zzso zzso zzso using the zzso unified device architecture zzso First, several cubic virtual zzso were zzso These zzso were tested with varying dose cube sizes and zzso introducing artificial dose zzso Second, to show zzso in clinical practice, five patient cases have been evaluated using the zzso dose distribution from a treatment planning system as the reference and the delivered dose determined during treatment as the zzso A calculation time comparison between the CPU and zzso was made with varying zzso sizes including the option of using texture or global zzso 
+
+A zzso over CPU zzso of 66 zzso 12 was achieved for the virtual zzso For the patient cases, a zzso of 57 zzso 15 using the zzso was zzso A zzso size of 16 zzso 16 performed best in all zzso The use of texture memory improved the total calculation time, especially when zzso was zzso zzso between the CPU and zzso zzso were zzso 
+
+The zzso and its features, such as texture memory, decreased the calculation time for gamma evaluations considerably without loss of zzso 
+

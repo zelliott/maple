@@ -1,0 +1,9 @@
+
+zzso the required sample size and statistical power for a study is an integral part of study zzso For standard designs, power equations provide an efficient solution to the problem, but they are unavailable for many complex study designs that arise in zzso For such complex study designs, computer simulation is a useful alternative for zzso study zzso Although this approach is well known among zzso in our experience many epidemiologists and social scientists are unfamiliar with the zzso This article aims to address this knowledge zzso 
+
+We review an approach to estimate study power for zzso or zzso designs using computer zzso This flexible approach arises naturally from the model used to derive conventional power zzso but extends those methods to accommodate arbitrarily complex zzso The method is universally zzso to a broad range of designs and zzso and we present the material in a way that is zzso for zzso applied zzso We illustrate the method using two examples (one simple, one zzso based on sanitation and nutritional interventions to improve child zzso 
+
+We first show how simulation reproduces conventional power estimates for simple zzso designs over a broad range of sample scenarios to zzso the reader with the zzso We then demonstrate how to extend the simulation approach to more complex zzso Finally, we discuss extensions to the examples in the article, and provide computer code to efficiently run the example simulations in both R and zzso 
+
+zzso methods offer a flexible option to estimate statistical power for standard and zzso study designs and parameters of zzso The approach we have described is universally zzso for evaluating study designs used in zzso and social science zzso 
+

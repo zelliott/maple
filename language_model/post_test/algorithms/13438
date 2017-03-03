@@ -1,0 +1,7 @@
+
+Image zzso zzso refers to zzso slowly varying spatial zzso in images that result in a bias that can affect all downstream image processing, zzso and statistical analysis zzso Image zzso is poorly modeled in the field of zzso screening zzso however, such that current conventional correction zzso may be either inappropriate for zzso or fail to take advantage of the information available in zzso image zzso 
+
+A novel image zzso bias correction algorithm, termed intensity zzso zzso and mapping zzso is zzso The zzso estimates the full zzso form of the image zzso bias by mapping zzso zzso to a reference intensity zzso zzso zzso accounts for the variation in zzso bias over broad cell intensity ranges and data acquisition times, both of which are characteristic of zzso image zzso zzso of the method, using simulated and zzso zzso zzso screen images, is zzso Two requirements of zzso are that the zzso consists of large numbers of images acquired under identical conditions and that cells are distributed with no zzso spatial zzso 
+
+zzso function files are available at zzso 
+

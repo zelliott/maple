@@ -1,0 +1,3 @@
+
+A zzso aided replica exchange method zzso is introduced to accelerate the simulation of zzso protein folding in explicit zzso This method is based on exaggerating the zzso effect of various protein zzso acids in water by attenuating the zzso attractive interactions zzso the zzso zzso while leaving other interactions among protein atoms and water molecules zzso The method is applied to a small representative zzso the zzso zzso and it is found that the zzso method successfully folds the protein within 4 zzso while the regular replica exchange method does not fold the same protein within 5 zzso even with many more zzso 
+

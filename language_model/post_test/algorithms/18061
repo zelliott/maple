@@ -1,0 +1,7 @@
+
+zzso of protein in the cell is an important step in understanding its zzso It is highly desirable to predict a zzso zzso locations automatically from its zzso Most studied methods for prediction of zzso zzso of proteins are signal zzso the location by sequence zzso and the correlation between the total zzso acid compositions of zzso Taking zzso composition and zzso acid pair composition into consideration helps improving the prediction zzso 
+
+We constructed a zzso of protein sequences from zzso database and segmented them into 12 classes based on their zzso zzso zzso zzso were trained to predict the zzso location based on zzso acid composition and zzso acid pair zzso zzso were calculated after zzso cross zzso zzso zzso zzso zzso outperformed zzso and linear kernel zzso Total prediction accuracy reached to zzso for zzso acid composition and zzso for zzso acid pair zzso In order to observe the impact of number of zzso locations we constructed two more zzso of nine and five zzso zzso Total accuracy was further improved to zzso and zzso 
+
+A new zzso based approach is presented based on zzso acid and zzso acid pair zzso zzso shows that data simulation and taking more protein features into consideration improves the accuracy to a great zzso It was also noticed that the data set needs to be crafted to take account of the distribution of data in all the zzso 
+

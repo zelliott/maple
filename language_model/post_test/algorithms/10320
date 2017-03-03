@@ -1,0 +1,9 @@
+
+Currently, zzso approaches use multiple zzso serially to interpret raw sequencing data from next-generation sequencing platforms, while remaining oblivious to the zzso information until the final alignment zzso Such approaches fail to exploit the full information from both raw sequencing data and the reference zzso that can yield better quality sequence reads, zzso zzso zzso as well as an alignment at the best possible location in the reference zzso Thus, there is a need for novel zzso zzso zzso for interpreting analog signals representing sequences of the bases zzso C, G, zzso while simultaneously aligning possible sequence reads to a source reference zzso whenever zzso 
+
+Here, we propose a new zzso algorithm, zzso to achieve improved zzso A linear error model for the raw intensity data and zzso transform zzso based alignment are combined utilizing a zzso score function, which is then globally zzso over all possible zzso locations using an efficient zzso zzso The zzso has been implemented in soft- and hardware zzso gate array zzso to achieve real-time zzso zzso results on real zzso zzso data were used to evaluate zzso performance relative to its zzso zzso zzso and zzso on several criteria, particularly those important in clinical and scientific zzso zzso it was evaluated for zzso its zzso speed and zzso zzso its read accuracy and zzso its specificity and sensitivity in zzso zzso 
+
+A software zzso of zzso as well as additional information, is available at: zzso 
+
+zzso 
+

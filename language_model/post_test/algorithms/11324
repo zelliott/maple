@@ -1,0 +1,3 @@
+
+Minimum squared error based zzso zzso method establishes a unique zzso model for all the test zzso However, this zzso model may be not optimal for each test zzso This paper proposes an improved zzso zzso method, which is tailored for each test zzso The proposed method first roughly identifies the possible classes of the test sample, and then establishes a minimum squared error zzso model based on the training samples from these possible classes of the test zzso We apply our method to face zzso The experimental results on several zzso show that zzso zzso zzso and the other state-of-the-art methods in terms of zzso 
+

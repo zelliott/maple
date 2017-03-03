@@ -1,0 +1,3 @@
+
+In this paper we describe a fast, specialized hardware zzso of the belief propagation zzso for the zzso camera, a new zzso sensor patented by the University of La zzso This camera captures the zzso of the scene and can be used to find out at which depth each zzso is in zzso The zzso has been designed for zzso devices using zzso We propose a parallel and pipeline architecture to implement the zzso without external zzso Although the zzso resources of the device increase zzso we can maintain real-time restrictions by using extremely zzso signal processing capability through zzso and by zzso several memories zzso The zzso results with 16 bit precision have shown that performances are really close to the original zzso programmed zzso 
+

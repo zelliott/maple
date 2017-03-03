@@ -1,0 +1,3 @@
+
+We propose a tracking method which tracks the complete object regions, adapts to changing visual features, and handles zzso Tracking is achieved by evolving the zzso from frame to frame by minimizing some energy functional evaluated in the zzso vicinity defined by a zzso Our approach has two major components related to the visual features and the object zzso Visual features zzso zzso are modeled by zzso models and are fused using independent opinion zzso Shape zzso consist of shape level sets and are used to recover the missing object regions during zzso We demonstrate the performance of our method on real sequences with and without object zzso 
+

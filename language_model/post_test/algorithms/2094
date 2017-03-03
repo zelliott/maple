@@ -1,0 +1,3 @@
+
+zzso studies play a major role in current efforts towards protein structure zzso However, despite recent advances in zzso tools for molecular modeling and graphics, the task of constructing a protein model from zzso data remains complex and zzso requiring extensive expert zzso This paper describes an approach to zzso the process of model construction, where a model is represented as an zzso trace (or partial zzso of the three-dimensional backbone of the zzso Potential models are generated using an evolutionary algorithm, which incorporates multiple fitness functions tailored to different structural levels in the zzso zzso experimental results, which demonstrate the viability of the approach, are zzso 
+

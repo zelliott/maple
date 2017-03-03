@@ -1,0 +1,9 @@
+
+This paper presents an automated method for the identification of thin membrane tubes in zzso zzso zzso These tubes, referred to as zzso zzso zzso are newly discovered zzso structures that connect living cells through a membrane zzso zzso are zzso zzso in diameter, crossing from one cell to another at their nearest zzso In microscopic images, they are seen as straight zzso It now emerges that the zzso represent the underlying structure of a new type of zzso zzso 
+
+Our approach for the identification of zzso is based on a combination of biological cell markers and known image processing zzso Watershed zzso and edge detectors are used to find cell borders, zzso and image zzso zzso zzso is employed at several stages of the processing zzso Two image channels are used for the calculations to improve zzso of watershed regions into cells and zzso One image channel displays cell borders and zzso the second is used for cell zzso and displays the zzso compartments of the zzso The method for cell zzso is zzso and the TNT detection incorporates zzso information using various zzso zzso 
+
+The zzso and zzso were applied to numerous zzso stacks of zzso A success rate of zzso was obtained compared with manual identification of the zzso The zzso results were used to achieve statistical information of selected properties of zzso 
+
+To further explore these structures, automated detection and zzso is zzso zzso this automated recognition tool will be useful in biological studies on zzso communication where TNT zzso is zzso 
+

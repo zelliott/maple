@@ -1,0 +1,3 @@
+
+This paper addresses two challenging issues in zzso zzso texture zzso determining adequate spatial and feature resolutions for different regions of the image, and utilizing information across different zzso The center of a homogeneous texture is analyzed using coarse spatial resolution, and its border is detected using fine spatial resolution so as to locate the boundary zzso The extraction of texture features is achieved via a zzso zzso The feature values are integrated across zzso zzso The number of textures is determined automatically using the zzso ratio zzso Experimental results on synthetic and real images demonstrate the improvement in performance of the proposed zzso scheme over single scale zzso 
+

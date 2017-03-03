@@ -1,0 +1,3 @@
+
+A novel zzso approach is introduced to overcome data missing and inconsistency of gene expression levels under different conditions in the stage of zzso It is based on the so-called smooth score, which is defined for measuring the zzso of the expression level of a gene and the average expression level of all the genes involved under a zzso We present an efficient greedy zzso for finding clusters with smooth score below a threshold after studying its zzso zzso The zzso was tested zzso on random zzso and a zzso zzso It was shown to perform well in finding zzso patterns in a test with the zzso zzso 
+

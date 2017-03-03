@@ -1,0 +1,7 @@
+
+zzso analysis of the genetic network, gene function and zzso regulation requires accurate prediction of zzso factor zzso zzso on zzso For calculating the matching score between an input sequence and a set of known zzso binding sites, we use zzso weight zzso zzso and zzso calculating method zzso zzso zzso zzso zzso zzso zzso Since zzso zzso binding sites requires zzso values, we propose a robust zzso value determining zzso 
+
+We zzso the concept of local overrepresentation with statistics, and propose a new zzso for determining the zzso value using the background rate estimated on zzso The zzso zzso determines parameters separating instances into zzso and zzso zzso Our system includes the method of zzso zzso values of zzso that zzso other zzso preferred zzso Our data source comprised 433 zzso zzso promoters including viral zzso from zzso zzso Database zzso zzso The method is applied to 205 zzso zzso that have frequency zzso in zzso zzso 4 and the zzso values of all of them can be zzso 
+
+The zzso values and zzso binding site predicting tool are available at zzso zzso We also provide the zzso value zzso zzso 
+

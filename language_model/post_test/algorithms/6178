@@ -1,0 +1,7 @@
+
+A number of methods have been developed to predict functional specificity zzso in protein families based on sequence zzso Most of these methods rely on zzso functional zzso Manual zzso definition is difficult because of the limited number of zzso characterized zzso with differing zzso while automatic zzso zzso using zzso tools is a zzso task and does not always yield ideal zzso 
+
+We propose a new approach zzso zzso positions by evolutionary zzso to detect positions that are likely to be functional specificity zzso zzso which does not require zzso definition, takes a multiple sequence alignment of a protein family as the only zzso and assigns a zzso to every position in the zzso zzso with low zzso are likely to be important for functional zzso An evolutionary tree is reconstructed during the zzso and zzso zzso is based on a random model that involves evolutionary zzso zzso zzso is chosen as a measure of zzso acid distribution at a zzso To illustrate the performance of the method, we carried out a detailed analysis of two protein families zzso and G protein alpha zzso and compared our method with two existing methods zzso trace and mutual information zzso All three methods were also compared on a set of protein families with known zzso zzso 
+
+zzso is freely available for zzso zzso Its zzso versions for several platforms and alignments used in this work are available at zzso 
+

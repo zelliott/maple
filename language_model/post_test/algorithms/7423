@@ -1,0 +1,7 @@
+
+zzso mining for biological sequences is an important problem in zzso and zzso zzso Biological data mining yield impact in diverse biological fields, such as discovery of zzso zzso which is important for biological data zzso The approaches of mining sequential patterns can discover zzso motifs of biological zzso Nevertheless, traditional approaches of mining sequential patterns zzso mine DNA and protein data since the data have fewer letters and lengthy zzso Furthermore, gap constraints are important in zzso biology since they cope with zzso regions, which are not zzso in evolution of biological zzso 
+
+We devise an approach to efficiently mine sequential patterns zzso with gap constraints in biological zzso The approach is the zzso Spelling zzso for mining sequential patterns of biological sequences with Gap constraints zzso zzso 
+
+zzso is one of the most efficient methods in traditional approaches of mining sequential patterns, and it is the basis of zzso zzso is an approach built on zzso with gap constraints, and therefore we compare zzso with zzso In the experimental results, zzso mines biological sequences much faster than zzso 
+

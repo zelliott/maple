@@ -1,0 +1,11 @@
+
+Clinical notes, typically written in natural language, often contain zzso that divides them into zzso such as zzso of Present zzso or zzso Medical zzso The authors designed and evaluated an zzso zzso to identify both labeled and zzso zzso note section zzso in zzso and physical zzso documents zzso zzso 
+
+The zzso zzso uses a combination of natural language processing techniques, word zzso recognition with spelling zzso zzso rules, and zzso zzso scoring methods to identify note section zzso Eleven physicians evaluated zzso performance on 319 randomly chosen zzso zzso 
+
+The primary outcomes were the zzso recall and precision in identifying all document sections and a zzso list of zzso major zzso A secondary outcome was to evaluate the zzso ability to recognize the correct start and end boundaries of identified zzso 
+
+The zzso zzso identified zzso total sections and zzso major zzso zzso zzso classified zzso as true zzso and identified 160 sections omitted by zzso The recall and precision of the zzso zzso were zzso and zzso for all zzso zzso and zzso for major zzso and zzso and zzso for zzso zzso The zzso determined the correct starting and ending text boundaries for zzso of labeled sections and zzso of zzso zzso 
+
+The zzso zzso accurately identified both labeled and zzso sections in history and physical zzso This type of zzso may assist in natural language processing applications, such as clinical decision support systems or competency assessment for medical zzso 
+

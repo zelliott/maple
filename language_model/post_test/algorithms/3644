@@ -1,0 +1,7 @@
+
+During the past decade, the new focus on zzso has highlighted a particular challenge: to integrate the different views of the zzso that are provided by various types of experimental zzso 
+
+This paper describes a zzso framework for zzso and drawing zzso from a collection of zzso zzso Each zzso is represented via a kernel function, which defines generalized similarity relationships between pairs of entities, such as genes or zzso The kernel representation is both flexible and efficient, and can be applied to many different types of zzso Furthermore, kernel functions derived from different types of data can be combined in a straightforward zzso Recent advances in the theory of kernel methods have provided efficient zzso to perform such combinations in a way that zzso a statistical loss zzso These methods exploit zzso programming techniques to reduce the problem of finding zzso kernel combinations to a convex zzso zzso zzso experiments performed using zzso zzso zzso including zzso acid zzso zzso profiles, gene expression data and known zzso zzso demonstrate the utility of this zzso A statistical learning zzso trained from all of these data to recognize particular classes of zzso proteins and zzso zzso significantly better than the same zzso trained on any single type of zzso 
+
+zzso data at zzso 
+

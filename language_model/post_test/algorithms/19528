@@ -1,0 +1,3 @@
+
+In this paper, we assume that we are given the images of two segmented objects, one of which may be an zzso distorted version of the other, and wish to recover the values of the parameters of the zzso transformation between the two zzso The images may also differ by the overall level of zzso The zzso constant of such difference may also be zzso We present a generic theoretical framework to solve this zzso In terms of this zzso other proposed methods may be zzso We show how, in this zzso one can recover the zzso parameters in a way that is robust to various effects, such as zzso and zzso zzso The proposed method is generic enough to be zzso also to matching two images that do not depict the same scene or zzso 
+

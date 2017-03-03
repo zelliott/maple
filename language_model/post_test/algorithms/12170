@@ -1,0 +1,7 @@
+
+Modeling of gene expression data from time course experiments often involves the use of linear models such as those obtained from principal component analysis zzso independent component analysis zzso or other zzso Such methods do not generally yield factors with a clear biological zzso Moreover, implicit assumptions about the measurement errors often limit the application of these methods to zzso data, destroying linear structure in the zzso expression zzso 
+
+In this work, a method for the linear decomposition of gene expression data by zzso curve resolution zzso is zzso The zzso method is based on an alternating zzso zzso zzso implemented with a weighted least squares zzso The new method, zzso extracts a small number of basis functions from zzso zzso data using only zzso zzso zzso error information can be incorporated into the modeling process and missing data can be zzso The utility of the method is demonstrated through its application to zzso cell cycle zzso 
+
+zzso extracted by zzso exhibit a strong correlation with cell zzso zzso but also suggest new insights into the regulation of those zzso The unique features of the zzso zzso are its freedom from assumptions about the underlying linear model other than the zzso of gene zzso its ability to analyze zzso data, and its use of measurement error information to obtain a weighted model and accommodate missing zzso 
+

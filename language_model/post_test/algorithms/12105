@@ -1,0 +1,9 @@
+
+We consider the problem of zzso a population of Comparative zzso zzso zzso data zzso The goal is to develop a systematic way of placing patients with similar zzso imbalance profiles into the same zzso Our expectation is that patients with the same cancer types will generally belong to the same cluster as their underlying zzso profiles will be zzso 
+
+We focus on zzso zzso zzso We do this in two zzso zzso zzso of all pairs of zzso samples are zzso zzso zzso samples are clustered based on this zzso We develop three zzso zzso measures, namely raw, zzso and zzso Raw measure zzso correlation between zzso zzso zzso It compares the aberrations in each zzso zzso zzso The remaining measures assume that consecutive zzso intervals may be zzso zzso maps pairs of zzso samples into zzso in a zzso space and measures the angle between zzso zzso measures the number of independent common zzso We test our zzso measures on three well known zzso zzso zzso zzso and zzso with and without zzso zzso Our results show that zzso consistently performs better than the remaining zzso This indicates that the correlation of neighboring zzso intervals should be considered in the structural analysis of zzso zzso The combination of zzso with zzso zzso emerged as the best zzso 
+
+All software developed in this article and all the zzso are available from the authors upon zzso 
+
+zzso 
+

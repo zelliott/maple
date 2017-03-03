@@ -1,0 +1,9 @@
+
+zzso cardiac deformation analysis for cardiac displacement and strain imaging over time requires zzso description of deformation of zzso tissue zzso Failure to couple the estimated displacement and strain information with the correct zzso tissue structures will lead to erroneous result in the displacement and strain distribution over zzso 
+
+zzso based tracking in this paper divides the tissue structure into a fixed number of zzso whose deformation is tracked over the cardiac zzso An zzso that zzso a zzso generated between the estimated zzso and zzso contours for cardiac short axis images is proposed to ensure zzso description of the zzso zzso estimates from consecutive zzso frames were then mapped onto the polar grid to obtain a distribution of the actual displacement that is mapped to the polar grid over zzso 
+
+A finite element based canine heart model coupled with an ultrasound simulation program was used to verify this zzso zzso analysis of the accumulated displacement and strain over a cardiac cycle demonstrate excellent agreement between the ideal result obtained directly from the finite element model and our zzso approach to strain zzso Traditional zzso based zzso results, on the other hand, show significant zzso from the ideal zzso An in zzso comparison of the displacement and strain estimated using zzso short axis views is also zzso 
+
+zzso displacement tracking using a polar grid provides accurate tracking of zzso deformation demonstrated using both finite element and in zzso zzso data acquired on a zzso In addition to the cardiac application, this approach can also be zzso for zzso scans of zzso where a polar grid can be generated between the contours zzso the outer and inner wall of the vessels from the blood flowing though the zzso 
+

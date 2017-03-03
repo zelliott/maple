@@ -1,0 +1,11 @@
+
+zzso zzso tumor zzso is of increasing importance in radiation treatment zzso Many tumors exhibit only moderate zzso zzso zzso and zzso methods using an zzso threshold lead to robust zzso These methods use a tumor reference value R zzso zzso zzso and the tumor background zzso to zzso the volume zzso zzso This threshold zzso to an zzso which defines the tumor zzso However, the boundaries of strongly zzso tumors can not be described by an zzso anymore and therefore conventional threshold methods are not suitable for accurate zzso The aim of this work is the development and validation of a zzso method for zzso zzso 
+
+The new method zzso threshold method, zzso can be considered as an extension of an zzso threshold method zzso threshold method, zzso where instead of a zzso threshold for the whole zzso a zzso threshold is zzso by determining for each zzso zzso and R in the close vicinity of the zzso The absolute threshold for the considered zzso is then given by zzso where zzso was determined with phantom zzso 
+
+30 clinical zzso from patients with zzso lung cancer were used to generate 30 realistic zzso software zzso of tumors with different zzso and well-known volumes and zzso Volume zzso was performed with zzso and zzso and compared with the known zzso volumes and zzso 
+
+In contrast to zzso zzso was able to reproduce the true tumor boundaries accurately, independent of the zzso The zzso of the determined volume from the true volume was zzso for zzso and zzso for zzso 
+
+In zzso software zzso the new method leads to promising results and to a clear improvement of volume zzso in comparison to conventional zzso zzso In the next step, the suitability for clinical routine will be further zzso 
+

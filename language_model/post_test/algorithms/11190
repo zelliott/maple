@@ -1,0 +1,3 @@
+
+Given a zzso of colors as the query and a zzso zzso zzso an zzso graph with a set of colors assigned to each of its zzso in the zzso zzso graph motif problem the goal is to find the largest connected zzso such that one can select a color from the set of colors assigned to each of its zzso to obtain a subset of the zzso This problem was introduced to find functional motifs in biological zzso We present a zzso zzso named zzso for finding and enumerating zzso graph zzso As our experimental results show, zzso pruning methods and zzso make it quite fast in practice compared to the zzso presented in the zzso We also present a parallel version of zzso that achieves acceptable zzso 
+

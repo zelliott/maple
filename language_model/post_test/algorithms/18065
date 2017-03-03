@@ -1,0 +1,7 @@
+
+zzso and salt concentration are very helpful experimental conditions for a probe to zzso uniquely to its intended zzso In large families of closely related target zzso the high degree of similarity makes it impossible to find a unique probe for every zzso We studied how to select a minimum set of zzso zzso to identify the presence of at most d targets in a sample where each zzso probe can zzso to a set of zzso 
+
+We proposed efficient zzso based on zzso Linear zzso to select a minimum number of zzso zzso using zzso zzso Our zzso zzso selection can also identify up to d targets in a sample with at most k experimental zzso The decoding complexity of our zzso is as simple as zzso The experimental results show that the decoding time is much faster than that of the methods using zzso zzso while running time and solution size are zzso 
+
+Since finding unique zzso is often not easy, we make use of zzso zzso zzso the number of zzso zzso will result in a smaller DNA zzso design which leads to a smaller chip and considerable reduction of zzso While minimizing the probe set, the decoding ability should not be zzso Our zzso zzso selection zzso can identify up to d targets with error tolerance and the decoding complexity is zzso 
+

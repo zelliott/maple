@@ -1,0 +1,7 @@
+
+As part of the zzso Genome zzso Assessment Project zzso we developed the zzso extension to the zzso zzso zzso is designed to find human alternatively spliced transcripts that are zzso in only one or a limited number of extant zzso zzso is able to use an arbitrary number of informant sequences and predicts a number of alternative transcripts at each gene zzso 
+
+zzso uses the zzso zzso dog, zzso chicken, and zzso zzso sequences as zzso informant sources for zzso and combines the resulting transcript predictions into genes based on coding zzso region zzso Based on the zzso assessment, zzso is one of the more accurate zzso prediction zzso Compared to the zzso zzso we find that zzso sensitivity increases, while specificity zzso as more informant species are zzso zzso correctly predicts alternatively spliced transcripts for 11 of the 236 zzso zzso genes that are alternatively spliced in the coding region of their zzso For these genes a total of 24 correct transcripts are zzso 
+
+The zzso zzso is able to predict alternatively spliced transcripts without the use of expressed sequence information, although the number of zzso in which multiple predicted transcripts match multiple alternatively spliced transcripts in the zzso zzso is relatively zzso 
+

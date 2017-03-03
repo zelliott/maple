@@ -1,0 +1,3 @@
+
+In this brief, a new zzso zzso zzso for a zzso zzso zzso zzso system is zzso Most of the previous zzso neural control zzso for zzso zzso systems were based on the zzso zzso which makes the control law and stability analysis very zzso The main contribution of the proposed method is that it demonstrates that the zzso control of the zzso system can be viewed as the zzso control problem of the system in the normal zzso As a result, the proposed control zzso is considerably simpler than the previous ones based on zzso Depending heavily on the universal approximation property of the neural network zzso only one zzso is employed to approximate the lumped uncertain system zzso The zzso stability of the zzso weights and filtered tracking error is guaranteed in the zzso zzso 
+

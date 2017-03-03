@@ -1,0 +1,3 @@
+
+We present a general approach for solving the zzso matching problem for the case of mildly zzso zzso Our method quickly finds a coarse approximation of the solution by exploring a reduced set of partial matches using an approach to which we refer to as Active Testing Search zzso We apply the method to registration of graph structures by branching point zzso It is based solely on the geometric position of the points, no additional information is used nor the knowledge of an initial zzso In the second stage, we use dynamic programming to refine the zzso We tested our zzso on zzso retinal zzso and zzso data gathered using electron and light zzso We show that our method zzso cases not solved by most approaches, and is faster than the remaining zzso 
+

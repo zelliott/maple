@@ -1,0 +1,7 @@
+
+zzso technology has been widely adopted as an attractive alternative to zzso methods to study global gene zzso However, robust statistical tools to analyze these complex zzso are still zzso By grouping genes with similar expression profiles across treatments, cluster analysis provides insight into gene functions and networks, and hence is an important technique for zzso data zzso 
+
+In this zzso we derive zzso zzso based on appropriate probability models for zzso zzso An zzso zzso and another two zzso versions of zzso zzso are zzso In addition, a strategy for zzso based on likelihood is proposed to improve the zzso zzso Moreover, we present a zzso zzso zzso method to generate a tree structure that allows zzso of relationships among clusters as well as flexibility of choosing the number of zzso zzso from both simulation studies and analysis of a zzso zzso zzso show that our proposed methods provide better zzso results than alternative methods such as the zzso zzso and zzso zzso methods that are not based on probability zzso 
+
+An R package, zzso has been developed to implement our proposed zzso This R package provides fast zzso and is publicly available at zzso 
+

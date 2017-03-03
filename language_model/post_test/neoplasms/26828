@@ -1,0 +1,7 @@
+
+Human cells are organized into compartments of different zzso cellular zzso Having proteins appear at the right time to the correct locations in the cellular compartments is required to conduct their functions in normal cells, whereas zzso of proteins can result in pathological diseases, including zzso 
+
+To reveal the zzso protein zzso we developed an zzso zzso zzso location zzso zzso which covers seven cellular zzso The zzso incorporates both global and local image zzso and generates predictions by using an ensemble zzso zzso The zzso has the ability to treat both zzso and zzso zzso We first trained and tested zzso on zzso normal human tissue images that have known zzso location information from the human protein zzso The zzso was then used to generate protein zzso predictions for zzso protein images from seven cancer zzso that have no location zzso in the human protein zzso By comparing the output data from normal and cancer zzso we detected eight potential cancer zzso proteins that have significant zzso differences with zzso zzso zzso 
+
+zzso 
+

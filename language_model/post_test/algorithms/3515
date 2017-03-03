@@ -1,0 +1,3 @@
+
+Finding similar sequences in time series has received much attention and is a widely studied zzso Most existing approaches in the time series area focus on the efficiency of zzso but seldom provide a means to handle imprecise zzso In this paper, a more general approach is proposed to measure the distance of time sequences containing crisp values, zzso and fuzzy intervals as zzso The concept of distance measurement and its associated zzso zzso are zzso In addition to finding the sequences with similar evolving trends, a means of finding the sequences with opposite evolving tendencies is also proposed, which is usually omitted in current related research but could be of great interest to many zzso 
+

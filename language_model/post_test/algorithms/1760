@@ -1,0 +1,3 @@
+
+zzso prediction of protein structural class based on sequence data remains a challenging problem in current protein zzso In this paper, a new feature extraction approach based on relative zzso composition is zzso This approach could take into account the background distribution of a given zzso under a zzso model of order zzso and avoid the curse of zzso with the increase of k by using a zzso feature selection zzso The selected features are then fed to a support zzso machine to perform the zzso To verify the performance of our method, zzso zzso tests are performed on four widely used benchmark zzso zzso of our results with existing methods shows that our method provides satisfactory performance for structural class zzso 
+

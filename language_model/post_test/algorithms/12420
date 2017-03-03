@@ -1,0 +1,5 @@
+
+zzso selection is a critical step in development of document zzso zzso As a standard practice, words are stemmed and the most zzso ones are used as attributes in zzso zzso to high complexity of biomedical terminology, zzso stemming zzso are often conservative and could also remove zzso zzso This can lead to accuracy reduction, especially when the number of labeled documents is zzso To address this issue, we propose an zzso that omits stemming and, instead, uses the most zzso zzso as zzso 
+
+The approach was tested on five zzso sets of abstracts from zzso that report on the experimental evidence about five types of protein zzso zzso The experiments showed that zzso zzso and support zzso machine zzso perform consistently better zzso area under the zzso curve zzso accuracy in range zzso when using the proposed attribute selection than when using attributes obtained by the Porter zzso zzso zzso in zzso zzso The proposed approach is particularly useful when labeled zzso are zzso 
+

@@ -1,0 +1,9 @@
+
+The graphic processing unit zzso based zzso zzso dose engine zzso dose zzso achieves a dramatic performance improvement over the traditional zzso based zzso dose engine zzso dose zzso Besides the architecture difference between the zzso and zzso there are several zzso changes from the CPU dose engine to the zzso dose zzso These changes made the zzso dose slightly different from the zzso zzso In order for the commercial release of the zzso dose engine, its accuracy has to be zzso 
+
+Thirty eight zzso phantom plans and 19 patient plans were calculated with both dose engines to evaluate the zzso between the two dose zzso zzso zzso zzso were used for the zzso zzso The zzso dose was further verified with the absolute point dose measurement with zzso chamber and film zzso for phantom zzso zzso Carlo calculation was used as a reference for both dose engines in the accuracy evaluation in zzso phantom and actual zzso 
+
+The zzso dose engine showed excellent agreement with the current CPU dose zzso The majority of cases had over zzso of zzso with zzso 1 zzso The worst case observed in the phantom had zzso zzso violating the zzso In patient cases, the worst percentage of zzso violating the criterion was zzso For absolute point dose zzso all cases agreed with measurement to within zzso with average error magnitude within zzso All cases passed the acceptance criterion that more than zzso of the zzso have zzso 3 zzso in film zzso and the average passing zzso percentage is zzso The zzso dose engine also showed similar degree of accuracy in zzso media as the current zzso dose zzso 
+
+It is verified and validated that the zzso zzso zzso dose engine can safely replace the existing zzso cluster based dose engine without degradation in dose zzso 
+

@@ -1,0 +1,3 @@
+
+In this work, a new approach to background zzso based on independent component analysis is zzso This approach assumes that background and foreground information are mixed in a given sequence of zzso Then, foreground and background components are identified, if their probability density functions are zzso from a mixed zzso zzso the components zzso process consists in calculating an zzso zzso The zzso of an zzso zzso is based on a fast zzso algorithm, which is estimated as a zzso zzso zzso Next, the motion components are represented by the zzso zzso from the zzso zzso Finally, the results show the approach capabilities to detect efficiently motion in outdoors and indoors zzso The results show that the approach is robust to zzso conditions changes at zzso 
+

@@ -1,0 +1,7 @@
+
+zzso regulatory elements in zzso sequences is a key component in understanding the control of gene zzso zzso this problem is often addressed by motif discovery, where the goal is to find a set of mutually similar zzso within a collection of input zzso Though motif discovery is widely studied and many approaches to it have been suggested, it remains a challenging and as yet unresolved zzso 
+
+We introduce zzso zzso zzso zzso a novel approach for motif zzso zzso is based on a zzso Random Field zzso and its key idea is to uncover and zzso multiple statistically significant solutions to the given motif finding zzso In contrast to many earlier methods, zzso does not require prior estimates on the number of motif instances present in the data, is not limited by motif zzso and allows motifs to zzso Though zzso is broadly zzso these features make it particularly well suited for addressing the challenges of zzso regulatory element zzso We test zzso ability to find zzso factor binding sites in an zzso coli zzso and show that it zzso previous zzso Additionally, we uncover a number of previously unidentified binding sites in this data, and provide evidence that they zzso to actual regulatory zzso 
+
+zzso data are available at zzso zzso 
+

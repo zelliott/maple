@@ -1,0 +1,9 @@
+
+This study was to assess whether active learning strategies can be integrated with supervised word sense zzso zzso methods, thus reducing the number of zzso samples, while keeping or improving the quality of zzso zzso 
+
+We developed support zzso machine zzso zzso to zzso 197 ambiguous terms and zzso in the zzso zzso zzso Three different uncertainty zzso active learning zzso were implemented with the zzso zzso and were compared with a passive zzso zzso based on random zzso For each ambiguous term and each learning algorithm, a learning curve that plots the accuracy zzso from the test set as a function of the number of zzso samples used in the model was zzso The area under the learning curve zzso was used as the primary metric for zzso 
+
+Our experiments demonstrated that active learners zzso significantly outperformed the zzso showing better performance for 177 out of 197 zzso zzso zzso Further analysis showed that to achieve an average accuracy of zzso the zzso needed 38 zzso samples, while the zzso needed only 24, a 37% reduction in zzso zzso Moreover, we analyzed cases where active learning zzso did not achieve superior performance and identified three zzso zzso poor models in the early learning zzso zzso easy zzso zzso and zzso difficult zzso cases, which provide useful insight for future zzso 
+
+This study demonstrated that zzso active learning strategies with supervised zzso methods could effectively reduce zzso cost and improve the zzso zzso 
+

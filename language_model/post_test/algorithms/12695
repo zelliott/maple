@@ -1,0 +1,9 @@
+
+Developers of new methods in zzso structural biology are often hampered in their research by incompatible software tools and zzso data zzso To address this problem, we have developed zzso as a modular open source platform to provide a powerful, yet flexible general working environment for structural zzso zzso consists primarily of a set of libraries written in zzso with a cleanly designed application programmer zzso All functionality can be zzso directly in zzso or in a Python layer, meeting both the requirements for high efficiency and ease of zzso Powerful selection queries and the notion of entity views to represent these selections greatly facilitate the development and zzso of zzso on structural zzso The modular integration of zzso core methods with powerful zzso tools makes zzso an ideal working and development zzso Several applications, such as the latest versions of zzso and zzso have been implemented based on zzso its value for the development of next-generation structural biology zzso 
+
+zzso code licensed under the zzso lesser general public license and zzso for zzso X, Linux and Windows are available for download at zzso 
+
+zzso 
+
+zzso data are available at zzso zzso 
+

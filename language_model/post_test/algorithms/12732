@@ -1,0 +1,9 @@
+
+zzso image zzso for breast zzso is a critical step in zzso diagnosis zzso The objective of this study was to develop a robust method for the automatic zzso of breast masses on zzso to extract feasible features for zzso diagnosis zzso 
+
+The data set used in this study consisted of zzso regions of interest extracted from zzso zzso A hybrid method for zzso breast masses was proposed on the basis of the zzso and dynamic programming zzso First, a zzso technique was used to locate and obtain the rough region of zzso Then, on the basis of this rough region, a local cost function for dynamic programming was zzso Finally, the optimal zzso was derived by applying dynamic programming as an zzso zzso The performance of this proposed zzso method was evaluated using zzso and boundary zzso similarity measures based on zzso manually marked zzso A comparison with three different zzso zzso on the data set was zzso 
+
+The mean overlap percentage for our proposed hybrid method was zzso zzso zzso whereas those for zzso and zzso dynamic programming method, Song et zzso zzso and dynamic programming method, and the zzso cut zzso method were zzso zzso zzso zzso zzso zzso and zzso zzso zzso zzso All P values for the measure distribution of our proposed method and the other three zzso were zzso 
+
+A hybrid method based on the zzso and dynamic programming techniques was proposed to segment breast masses on zzso zzso results indicate that the proposed zzso method can improve the accuracy of mass zzso compared to three other zzso The proposed zzso method shows better performance and has great potential in improving the accuracy of zzso diagnosis systems in interpreting zzso 
+

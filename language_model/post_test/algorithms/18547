@@ -1,0 +1,9 @@
+
+Many methods of identifying differential expression in genes depend on testing the zzso hypotheses of exactly equal means or zzso of expression levels for each gene across groups, even though a statistically significant difference in the expression level does not imply the occurrence of any difference of biological or clinical zzso This is because a mathematical definition of zzso zzso as any zzso difference does not zzso to the differential expression biologists zzso Furthermore, while some current methods account for multiple comparisons in hypothesis tests, they do not accordingly adjust estimates of the degrees to which genes are zzso zzso Both problems lead to overstating the relevance of zzso 
+
+Testing whether genes have relevant differential expression can be accomplished with customized zzso zzso thereby redefining zzso zzso in a way that is more biologically zzso When such tests control the false discovery rate, they effectively discover genes based on a desired zzso of differential gene zzso zzso of the degree to which genes are zzso expressed has been corrected for multiple zzso 
+
+R code is freely available from zzso and may become available from zzso or zzso 
+
+zzso to cancer zzso an application in the absence of differential zzso zzso and a guide to customizing the methods may be found at zzso and zzso 
+

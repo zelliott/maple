@@ -1,0 +1,3 @@
+
+We seek to zzso a zzso map between a pair of zzso images under large zzso Unlike existing techniques, our method allows any diffusion model to be fitted after registration for subsequent multifaceted zzso This is achieved by directly aligning the zzso images using a large deformation zzso registration framework formulated from an optimal control zzso Our zzso seeks the optimal coordinate mapping by simultaneously considering structural zzso local fiber zzso and deformation zzso Our zzso also incorporates a zzso strategy to zzso register anatomical structures of different zzso We demonstrate the efficacy of our approach using in zzso data and report on detailed qualitative and quantitative results in comparison with several different registration zzso 
+

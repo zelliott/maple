@@ -1,0 +1,9 @@
+
+zzso zzso zzso zzso is considered to be the state of the art technique to monitor particle therapy in zzso To evaluate the beam delivery the measured PET image is compared to a predicted zzso Nowadays the range assessment is performed by a group of experts via visual zzso This procedure is rather time consuming and requires well trained zzso In this study an approach is presented to support human decisions in an automated and objective zzso 
+
+The automated comparison presented uses statistical measures, zzso zzso correlation zzso zzso to detect zzso beam range zzso The study is based on 12 zzso PET patient data sets recorded at zzso and 70 artificial beam range modifications per data zzso The range modifications were 0, 4, 6, and 10 zzso water equivalent path length zzso in positive and negative beam zzso The reference image to calculate the zzso was both an unmodified simulation of the activity distribution zzso 1) and a measured zzso PET image zzso zzso Based on the zzso sensitivity and specificity were zzso zzso the difference between modified and unmodified data sets was investigated using the zzso rank sum zzso 
+
+In Test 1 a sensitivity and specificity over zzso was reached for detecting modifications of zzso and zzso zzso zzso Regarding Test 2 a sensitivity and specificity above zzso was obtained for modifications of zzso and zzso zzso zzso The limitation of the method was around 4 zzso zzso 
+
+The results demonstrate that the automated comparison using zzso provides similar results in terms of sensitivity and specificity compared to visual inspections of zzso PET zzso Hence the method presented in this study is a promising and effective approach to improve the efficiency in the clinical zzso in terms of particle therapy monitoring by means of zzso 
+

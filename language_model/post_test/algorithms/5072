@@ -1,0 +1,7 @@
+
+We propose an efficient and biologically sensitive zzso based on repeated random walks zzso for discovering functional zzso zzso complexes and zzso within large-scale protein zzso Compared to existing cluster identification techniques, zzso implicitly makes use of network zzso edge zzso and long range interactions between zzso 
+
+We apply the proposed technique on a functional network of zzso genes and accurately identify statistically significant clusters of zzso We validate the biological significance of the results using known complexes in the zzso complex zzso database and zzso biological zzso We find that zzso of the created clusters have the majority of their zzso proteins belonging to the same zzso complex, and about zzso have the majority of their proteins involved in the same biological zzso We compare our method to various other zzso techniques, such as the zzso zzso Algorithm zzso and find a significant improvement in the zzso zzso precision and accuracy zzso 
+
+zzso which is a technique that exploits the zzso of the network, is more precise and robust in finding local zzso In addition, it has the added flexibility of being able to find zzso proteins by allowing overlapping zzso 
+

@@ -1,0 +1,7 @@
+
+The automated retrieval and integration of information about protein point zzso in combination with structure, domain and interaction data from literature and databases promises to be a valuable approach to study zzso relationships in biomedical data zzso 
+
+We developed a zzso and regular zzso protein point zzso retrieval pipeline for zzso zzso which shows an zzso of zzso for the zzso retrieval task on a benchmark zzso In order to link zzso to their zzso we zzso a named entity recognition zzso for the identification of gene names zzso in the abstract, and establish links based on sequence zzso Vice versa, we could show that gene recognition improved from zzso to zzso zzso when considering zzso information given in the zzso To demonstrate practical zzso we zzso zzso information from text to evaluate a novel zzso energy based model for the prediction of stabilizing regions in membrane zzso For five G zzso receptors we identified 35 relevant single zzso and associated zzso of which none had been zzso in the zzso or zzso zzso In zzso reported zzso were in compliance with the model predictions, supporting a relation between zzso and stability issues in membrane zzso 
+
+We present a reliable approach for the retrieval of protein zzso from zzso abstracts for any set of genes or proteins of zzso We further demonstrate how zzso acid substitution information from text can be zzso for protein structure stability studies on the basis of a novel energy zzso 
+

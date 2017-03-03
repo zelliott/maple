@@ -1,0 +1,9 @@
+
+The molecular complexity of a tumor zzso itself at the zzso zzso zzso and zzso zzso zzso profiling at these multiple levels should allow an integrated characterization of tumor zzso However, there is a shortage of effective statistical and zzso tools for truly zzso data zzso The standard approach to zzso zzso is separate zzso followed by manual zzso A more statistically powerful approach would incorporate all data types simultaneously and generate a single integrated cluster zzso 
+
+We developed a joint zzso variable model for zzso zzso We call the resulting methodology zzso zzso incorporates flexible modeling of the associations between different data types and the zzso structure within data types in a single zzso while simultaneously reducing the zzso of the zzso zzso zzso is obtained through the zzso zzso 
+
+We demonstrate the zzso zzso using two examples of joint analysis of copy number and gene expression data, one from breast cancer and one from lung zzso In both cases, we identified zzso characterized by zzso DNA copy number changes and gene expression as well as unique profiles specific to one or the other in a completely automated zzso In addition, the zzso discovers potentially novel zzso by combining weak yet consistent zzso patterns across data zzso 
+
+R code to implement zzso can be downloaded at zzso 
+

@@ -1,0 +1,5 @@
+
+We address the problem of using expression data and prior biological knowledge to identify zzso expressed pathways or groups of zzso Following an idea of zzso et zzso (2002), we construct a gene interaction network and search for zzso zzso We make several improvements in terms of scoring functions and zzso resulting in higher speed and accuracy and easier biological zzso We also assign significance levels to our results, adjusted for multiple zzso Our methods are successfully applied to three human zzso data sets, related to cancer and the immune system, retrieving several known and potential zzso The method, zzso by the zzso zzso zzso zzso Network zzso is implemented in software that is publicly available and can be used on virtually any zzso data zzso 
+
+The source code and zzso for the software, as well as certain supplemental materials, can be downloaded from zzso 
+

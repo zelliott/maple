@@ -1,0 +1,3 @@
+
+We propose an effective zzso image registration zzso for dynamic zzso lung zzso The registration will construct a zzso zzso model with continuous trajectory and smooth spatial zzso and the model zzso the interested region in the zzso zzso CT zzso The zzso zzso transformation is represented using two zzso zzso functions, indicating a forward and an inverse zzso zzso zzso The registration process zzso these two functions by minimizing an objective function that penalizes intensity matching error, feature alignment error, spatial and zzso zzso and inverse zzso We test our zzso for respiratory motion zzso on public benchmarks and on clinic lung CT zzso The experimental results demonstrate the efficacy of our zzso 
+

@@ -1,0 +1,3 @@
+
+We present a framework for the design of optimal assembly zzso for shotgun sequencing under the criterion of complete zzso We derive a lower bound on the read length and the coverage depth required for reconstruction in terms of the repeat statistics of the zzso Building on earlier works, we design a de zzso graph based assembly zzso which can achieve very close to the lower bound for repeat statistics of a wide range of zzso zzso including the zzso zzso The results are based on a set of necessary and sufficient conditions on the DNA sequence and the reads for zzso The conditions can be viewed as the shotgun sequencing analogue of zzso necessary and sufficient conditions for zzso by zzso 
+

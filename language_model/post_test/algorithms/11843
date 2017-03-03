@@ -1,0 +1,3 @@
+
+This unit illustrates how to use zzso to discover motifs in a group of related zzso or zzso zzso A zzso motif is a sequence pattern that occurs repeatedly in one or more sequences in the input zzso zzso can be used to discover novel patterns because it bases its discoveries only on the input zzso not on any prior knowledge (such as databases of known zzso The input to zzso is a set of zzso sequences of the same type zzso or zzso For each motif it zzso zzso reports the zzso zzso consensus zzso and the level of conservation zzso zzso at each position in the zzso zzso also produces block zzso showing where all of the discovered motifs occur in the training set zzso zzso zzso zzso output also contains buttons that allow for the convenient use of the motifs in other zzso 
+

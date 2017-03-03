@@ -1,0 +1,7 @@
+
+The development and improvement of reliable zzso methods designed to evaluate the quality of protein models is relevant in the context of protein structure zzso which has been recently identified as one of the bottlenecks limiting the quality and usefulness of protein structure zzso 
+
+In this contribution, we present a zzso method zzso Intelligence zzso zzso zzso which is able to consistently discriminate between correct and incorrect protein zzso In particular, the method is based on neural networks that use as input 15 structural zzso which include energy, zzso accessible surface, zzso contacts and secondary structure zzso The results obtained with zzso on a set of decoy structures were evaluated using statistical indicators such as zzso correlation zzso zzso fraction enrichment, as well as zzso zzso It turned out that zzso performances are comparable and often complementary to available state-of-the-art zzso zzso 
+
+In light of the results obtained with zzso as well as its comparison with available zzso methods, it can be concluded that zzso can be successfully used to evaluate the quality of protein zzso The use of zzso in combination with other evaluation tools is expected to further enhance protein refinement zzso 
+

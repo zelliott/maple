@@ -1,0 +1,9 @@
+
+When the mortality among a cancer patient group returns to the same level as in the general population, that is, the patients no longer experience excess zzso the patients still alive are considered zzso zzso zzso models can be used to estimate the cure proportion as well as the survival function of the zzso One limitation of zzso cure models is that the functional form of the survival of the zzso has to be zzso It can sometimes be hard to find a survival function flexible enough to fit the observed data, for example, when there is high excess hazard within a few months from diagnosis, which is common among older age zzso This has led to the exclusion of older age groups in zzso cancer studies using cure zzso 
+
+Here we have extended the flexible zzso survival model to incorporate cure as a special case to estimate the cure proportion and the survival of the zzso zzso zzso survival models use zzso to model the underlying hazard function, and therefore no zzso distribution has to be zzso 
+
+We have compared the fit from standard cure models to our flexible cure model, using data on colon cancer patients in zzso This new method gives similar results to a standard cure model, when it is reliable, and better fit when the standard cure model gives biased zzso 
+
+zzso models within the framework of flexible zzso models enables cure zzso when standard models give biased zzso These flexible cure models enable inclusion of older age groups and can give zzso estimates, which is not always possible from zzso cure zzso 
+

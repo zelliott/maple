@@ -1,0 +1,7 @@
+
+zzso sequences into families has long been an important step in characterization of genes and zzso There are many zzso developed for this purpose, most of which are based on either direct similarity between gene pairs or some sort of network structure, where weights on edges of constructed zzso are based on zzso However, zzso zzso is an important signal that can help distinguish zzso and it has not been zzso to its fullest zzso 
+
+Here, we present zzso a pipeline that combines the network properties of sequence similarity and zzso to assess zzso relationship and merge known zzso into groups of gene zzso zzso identifies zzso in a more informed and accurate manner as compared to similarity based zzso We tested our method against the Neighborhood zzso method on two diverse zzso consisting of fully zzso zzso of zzso and synthetic zzso 
+
+The results obtained from both zzso confirm that zzso helps determine zzso and zzso improves on Neighborhood zzso zzso The accuracy as well as the definition of zzso scores is the most valuable contribution of zzso 
+

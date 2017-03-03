@@ -1,0 +1,3 @@
+
+We present an approach to the problems of weak plume detection and zzso target detection in zzso imagery that operates in a two-dimensional zzso In this space, one axis is a zzso projection of the data and the other axis is the magnitude of the residual after zzso zzso Although it is only zzso this space is rich enough to include several well-known signal detection zzso including the zzso matched zzso the zzso zzso zzso and the zzso matched zzso Because this space is only zzso zzso machine learning methods can produce new plume detectors without being stymied by the curse of zzso We zzso in particular, the utility of the support zzso machine for learning boundaries in this zzso space, and compare the performance of the resulting zzso zzso detector to well-known zzso 
+

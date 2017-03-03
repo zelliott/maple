@@ -1,0 +1,9 @@
+
+zzso Fluorescence zzso zzso zzso images are employed for detecting zzso abnormalities such as zzso zzso zzso zzso and zzso This technique uses mixed zzso of zzso to paint the whole zzso for rapid detection of zzso zzso The zzso data sets used in our research are obtained from microscopic scanning of a zzso cell zzso with five different zzso and a zzso zzso The reliability of the technique lies in accurate zzso of zzso (24 classes for male and 23 classes for zzso from zzso zzso However, due to imaging noise, zzso between multiple channels and many other imaging problems, there is always a zzso error, leading to wrong detection of zzso zzso zzso how to accurately zzso different types of zzso from zzso images becomes a challenging zzso 
+
+This paper presents a novel sparse representation model considering structural information for the zzso of zzso zzso In our previous work a sparse representation based zzso model was zzso This model employed only individual zzso information for the zzso With the structural information of zzso zzso as well as the information of themselves zzso the novel approach extended the previous one to the regional zzso Based on zzso zzso Pursuit zzso we developed simultaneous zzso zzso zzso to derive an efficient solution of the improved sparse representation model by incorporating the structural zzso 
+
+The zzso of two models shows that the newly proposed model incorporating the structural information is significantly superior to our previous zzso In addition, we evaluated the effect of several zzso such as zzso level, zzso size, and training sample size, on the of the zzso zzso 
+
+The comparison with our previously used sparse model demonstrates that the improved sparse representation model is more effective than the previous one on the zzso of the zzso zzso 
+

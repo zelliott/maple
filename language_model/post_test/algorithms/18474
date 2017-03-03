@@ -1,0 +1,7 @@
+
+Our main objective was to propose an alternative to the technique of signal averaging zzso to avoid shape zzso due to zzso and scale zzso leading to a mean shape signal rather than to an average zzso 
+
+In case of both time shift and time scale fluctuations of the individual signals, the first point was to show what model makes it possible to interpret their expected action as a linear shift zzso filter followed by a scale zzso zzso So, even in the case of equal shape signals, the average is clearly not the same zzso The second point was to propose another averaging process, using the zzso zzso and called Shape zzso zzso which provides, in this case, a mean signal preserving the common zzso 
+
+The performances of zzso were zzso shown by zzso zzso and scaled versions of a given zzso without and with additive noise, have been generated at zzso The mean shape signal obtained by zzso was compared to the shifted and scaled signal using the exact average values of the shifts and scale zzso A very good reconstruction of the mean shape signal is obtained for zzso zzso 20 zzso and quite good for 8 zzso especially compared to zzso The method was then applied to a series of zzso coming from surface zzso zzso In this case, the comparison of zzso with zzso makes it possible to appreciate the zzso of equal shape signal zzso 
+

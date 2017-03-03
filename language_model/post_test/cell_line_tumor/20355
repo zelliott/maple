@@ -1,0 +1,7 @@
+
+Modeling dynamic regulatory networks is a major challenge since much of the zzso interaction data available is zzso The Dynamic Regulatory Events Miner zzso uses a Hidden zzso zzso approach to integrate this zzso interaction data with time series gene expression leading to models that can determine when zzso factors zzso activate genes and what genes they zzso zzso has been used successfully in diverse areas of biological zzso However, several issues were not addressed by the original zzso 
+
+zzso zzso is a comprehensive software for reconstructing dynamic regulatory networks that supports interactive zzso or batch zzso With version zzso a set of new features that are unique in comparison with other zzso are zzso First, we provide zzso interaction data for additional zzso Second, zzso zzso now accepts continuous binding values and we added a new method to zzso zzso expression levels when searching for dynamic zzso Third, we added support for zzso motif discovery, which is particularly powerful for species with limited experimental interaction zzso Finally, we improved the zzso to support the new zzso zzso these changes improve the ability of zzso zzso to accurately recover dynamic regulatory networks and make it much easier to use it for analyzing such networks in several species with varying degrees of interaction zzso 
+
+zzso zzso provides a unique framework for constructing and visualizing dynamic regulatory zzso zzso zzso can be downloaded zzso zzso 
+

@@ -1,0 +1,7 @@
+
+This paper is concerned with zzso for aligning two whole zzso so as to identify regions that possibly contain zzso zzso zzso by existing zzso software tools, we initiate the study of an zzso problem that attempts to uncover zzso genes with a global zzso Another interesting feature in our zzso is the tolerance of noise, which also zzso the zzso zzso A zzso approach takes time exponential in the noise zzso 
+
+We show how an insight into the zzso structure can lead to a drastic improvement in the time and space requirement zzso to zzso and zzso respectively, where zzso is the size of the input and k is the noise zzso The reduced space requirement allows us to implement the new algorithm, called zzso on a zzso It is exciting to see that when tested with different real data sets, zzso consistently zzso a high percentage of zzso genes that have been published by zzso Its performance is indeed favorably compared to zzso (perhaps the most popular software tool for uncovering zzso genes in a zzso zzso 
+
+The source code is available from the zzso zzso detailed proof of the zzso can also be found zzso 
+

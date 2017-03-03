@@ -1,0 +1,11 @@
+
+zzso zzso zzso zzso can be used to assess blood flow dynamics zzso inside the human zzso The acquired images can be reconstructed into flow zzso zzso Traditionally, zzso can be zzso based on the zzso fields to zzso flow patterns and particle zzso 
+
+The traditional methods may give a false impression of precision, as they do not consider the measurement uncertainty in the PC zzso zzso In our prior work, we incorporated the uncertainty of the measurement into the zzso of particle zzso 
+
+As a major part of the contribution, a novel zzso scheme for solving the zzso Fast Marching problem is zzso A computing time comparison to state-of-the-art methods is conducted on artificial zzso zzso A visual comparison of healthy to pathological blood flow patterns is zzso 
+
+The comparison shows that the novel zzso Fast Marching solver zzso previous schemes in terms of computing zzso The visual comparison of flow patterns directly zzso large zzso of pathological flow from healthy zzso 
+
+The novel zzso Fast Marching solver efficiently resolves even strongly zzso path zzso The zzso method enables the user to assess the uncertainty of particle zzso derived from PC zzso zzso 
+

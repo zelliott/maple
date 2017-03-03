@@ -1,0 +1,11 @@
+
+The zzso of diabetes is increasing rapidly across the zzso India has the highest proportion of diabetic patients, earning it the doubtful distinction of the zzso capital of the zzso Early detection of diabetes could help to prevent or postpone its onset by taking appropriate preventive measures, including the initiation of lifestyle zzso To date, early identification of zzso or type 2 diabetes has proven problematic, such that there is an urgent requirement for tools enabling easy, zzso and accurate zzso 
+
+To develop an easy, zzso and precise tool for diagnosing early diabetes based on machine learning zzso 
+
+The zzso used in this study was based on the health profiles of diabetic and zzso patients from hospitals in zzso A novel machine learning algorithm, termed zzso of zzso was used for the determination of a patient's diabetic zzso Out of a total of zzso subjects, zzso were used to train the mixture of expert zzso The remaining 311 data sets were reserved for validation of the zzso zzso of expert was implemented in zzso to train the data for the development of the zzso The model with the minimum mean square error was selected and used for the validation of the zzso 
+
+Different combinations and numbers of hidden zzso and expectation zzso zzso zzso were used to zzso the accuracy of the zzso The overall best accuracy of zzso was achieved with an iteration of 150 and 20 hidden zzso zzso zzso and total zzso accuracy were calculated as zzso zzso and zzso zzso Furthermore, a zzso user interface was developed in zzso script such that the user can readily enter the variables and easily use the zzso as a zzso 
+
+This study describes a highly precise machine learning prediction tool for identifying zzso zzso and zzso individuals with high zzso The tool could be used for large scale screening in zzso or diabetes prevention zzso 
+

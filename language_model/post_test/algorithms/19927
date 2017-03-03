@@ -1,0 +1,9 @@
+
+zzso zzso modification is an important zzso mechanism for regulating zzso state and gene zzso Given the rapid zzso of zzso zzso modification zzso there is a pressing need for zzso methods capable of joint analysis of multiple maps to reveal zzso modification zzso 
+
+We present the zzso zzso and zzso zzso Identification zzso zzso It uses prior knowledge of zzso zzso modifications to guide the zzso zzso Specifically, zzso zzso of zzso modifications characterized by mass zzso are used as zzso zzso to adjust the similarity measure in the zzso zzso Using a high-quality set of zzso enhancers and associated zzso zzso we demonstrate that zzso zzso its predecessor by finding zzso modification and zzso locus zzso with higher enrichment of zzso We apply zzso to identify multiple zzso zzso zzso modification states associated with human zzso We show zzso zzso modification states are correlated with the expression of nearby zzso Further, we find that enhancers with the zzso mark zzso have higher levels of DNA zzso and decreased expression of nearby zzso suggesting a functional interplay between zzso and DNA zzso that can zzso zzso zzso 
+
+The analysis presented here provides a systematic characterization of zzso zzso codes of enhancers across three human cell types using a novel zzso zzso zzso As zzso maps zzso zzso will become increasingly useful for understanding zzso zzso modifications by taking advantage of existing zzso 
+
+zzso is implemented in zzso The source code is freely available at zzso 
+

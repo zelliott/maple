@@ -1,0 +1,3 @@
+
+We present a technique for automatically assigning a zzso label to each location on a cortical surface model based on zzso information estimated from a manually labeled training zzso This procedure incorporates both geometric information derived from the cortical model, and zzso convention, as found in the training zzso The result is a complete labeling of cortical zzso and zzso Examples are given from two different training sets generated using different zzso conventions, illustrating the flexibility of the zzso The technique is shown to be comparable in accuracy to manual zzso 
+

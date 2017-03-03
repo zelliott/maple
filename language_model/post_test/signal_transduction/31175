@@ -1,0 +1,7 @@
+
+zzso regulatory networks is one of the central challenges for zzso zzso Many techniques have been developed to accomplish this by utilizing zzso factor binding data in conjunction with expression zzso Of these approaches, several have focused on the reconstruction of the cell cycle regulatory network of zzso zzso The emphasis of these studies has been to model the relationships between zzso factors and their target zzso In contrast, here we focus on zzso the network of relationships among zzso factors that regulate the cell cycle in zzso zzso 
+
+We have developed a technique to zzso networks of the zzso activities of zzso factors that regulate the cell cycle in zzso zzso The model zzso linear zzso to first estimate the activities of zzso factors from expression time series and zzso zzso factor binding zzso We then use least squares to construct a model of the time evolution of the zzso We validate our approach in two ways: by demonstrating that it accurately models expression data and by demonstrating that our reconstructed model is similar to zzso models of zzso regulation of the cell zzso 
+
+Our zzso approach allows us to build a general model of zzso regulation of the zzso cell cycle that includes additional factors and zzso not reported in zzso zzso Our model could serve as a starting point for targeted experiments that test the predicted zzso In the future, we plan to apply our technique to zzso other systems where both zzso time series expression data and zzso factor binding data are zzso 
+

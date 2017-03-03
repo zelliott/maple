@@ -8,10 +8,12 @@ Created on Tue Feb 21 17:29:05 2017
 # Parse the language model and convert it into a hash table 
 def vocabulary(lang_file) :
     vocab = dict()
-    for line in lang_file :
-        if ("\t" in line) :
-            words = line.split("\t")
-            vocab[words[1]] = words[0]       
+    with open(lang_file) as infile:
+        for line in infile :
+            if ('\t' in line) :
+                words = line.split("\t")
+                actualword = words[1].split("\n")
+                vocab[actualword[0]] = words[0]        
     return vocab
 
 # Replace each word out of vocabulary with the unknown token zzso    
@@ -25,3 +27,6 @@ def postprocess(vocabulary, input_file, output_file) :
                     outfile.write("zzso")
                 outfile.write(" ")
             outfile.write("\n")
+            
+vocab = vocabulary("srilm_models/nytimes.lm")
+postprocess(vocab, "test_data/clean/algorithms/0", "post_test/algorithms/0")

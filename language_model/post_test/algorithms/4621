@@ -1,0 +1,3 @@
+
+Tracking zzso objects involves zzso the global motion of the object and its local zzso as functions of zzso Tracking zzso using Kalman filters or particle filters zzso have been proposed for tracking such objects, but these have limitations due to the lack of dynamic shape zzso In this paper, we propose a novel method based on employing a locally linear embedding in order to incorporate dynamic shape information into the particle filtering framework for tracking highly zzso objects in the presence of noise and zzso The zzso also models image statistics such as mean and zzso of the given data which can be useful in obtaining proper separation of object and zzso 
+

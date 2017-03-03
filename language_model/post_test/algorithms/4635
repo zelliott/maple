@@ -1,0 +1,9 @@
+
+zzso networks based on the zzso zzso zzso process are a promising statistical tool for modeling regulatory interactions in a zzso However, learning these networks is challenging due to the low sample size and high zzso of zzso zzso 
+
+We present a novel and highly efficient approach to estimate a zzso zzso This proceeds in two steps: zzso improved zzso of zzso zzso zzso using an zzso shrinkage approach, and zzso subsequent model selection by testing the associated partial zzso In simulations this approach outperformed for small sample size all other considered approaches in terms of true discovery rate zzso of correctly identified edges relative to the significant zzso Moreover, the analysis of expression time series data from zzso zzso resulted in a biologically sensible zzso 
+
+zzso learning of large-scale zzso zzso models can be done efficiently by the proposed zzso even in the difficult data situations prevalent in zzso and zzso 
+
+The method is implemented in R code that is available from the authors on zzso 
+

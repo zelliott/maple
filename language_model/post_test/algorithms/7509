@@ -1,0 +1,3 @@
+
+Despite recent advances, automatic blood vessel extraction from low quality zzso images remains zzso We propose an interactive approach that enables a user to efficiently obtain near perfect vessel zzso with a few mouse zzso Given two seed points, the approach seeks an optimal path between them by minimizing a cost zzso In contrast to the zzso approach, the graph in our approach is based on the curve fragments generated with vessel tracing instead of individual zzso This enables our approach to overcome the shortcut problem in zzso tortuous vessels and the problem of vessel interference in zzso neighboring vessels in zzso path techniques, resulting in less user interaction for zzso thin and tortuous vessels from low contrast zzso It also makes the approach much zzso 
+

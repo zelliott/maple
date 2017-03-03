@@ -1,0 +1,5 @@
+
+zzso of significant genes via expression patterns is an important problem in zzso zzso zzso to small sample size and the large number of variables zzso the selection process can be zzso This paper proposes a zzso zzso model for gene zzso zzso We employ zzso variables to specialize the model to a zzso setting and uses a zzso mixture prior to perform the variable zzso We control the size of the model by assigning a prior distribution over the dimension zzso of significant zzso of the zzso The zzso zzso of the parameters are not in explicit form and we need to use a combination of truncated sampling and zzso zzso zzso Carlo zzso based zzso techniques to simulate the parameters from the zzso The zzso model is flexible enough to identify significant genes as well as to perform future zzso The method is applied to cancer zzso via zzso zzso where the genes zzso and zzso are associated with a zzso disposition to breast cancer, and the method is used to identify a set of significant zzso The method is also applied successfully to the leukemia zzso 
+
+zzso 
+

@@ -1,0 +1,7 @@
+
+The standard zzso support zzso machine zzso is a widely used tool for zzso zzso Previous studies have demonstrated its superior performance in terms of zzso zzso However, a major limitation of the zzso is that it cannot automatically select relevant genes for the zzso The zzso zzso is a zzso of the standard zzso zzso that zzso the zzso of the fitted zzso Due to the zzso of the zzso the zzso zzso has the property of automatically selecting relevant zzso On the other hand, the zzso zzso has two zzso zzso the number of selected genes is upper bounded by the size of the training zzso zzso when there are several highly correlated zzso the zzso zzso tends to pick only a few of them, and remove the zzso 
+
+We propose a hybrid zzso support zzso machine zzso The zzso combines the zzso hinge loss function and the zzso zzso By doing so, the zzso performs automatic gene selection in a way similar to the zzso zzso In addition, the zzso encourages highly correlated genes to be selected (or zzso zzso We also develop an efficient zzso to zzso the entire solution path of the zzso zzso results indicate that the zzso tends to provide better variable selection results than the zzso zzso especially when variables are highly zzso 
+
+R code are available at zzso 
+

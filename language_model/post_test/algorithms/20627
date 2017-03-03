@@ -1,0 +1,3 @@
+
+This article proposes the use of a penalty function for pruning zzso neural network by weight zzso The penalty function proposed consists of two zzso The first term is to discourage the use of unnecessary connections, and the second term is to prevent the weights of the connections from taking excessively large zzso zzso criteria for eliminating weights from the network are also zzso The effectiveness of this penalty function is tested on three well-known problems: the zzso problem, the parity problems, and the zzso zzso The resulting pruned networks obtained for many of these problems have fewer connections than previously reported in the zzso 
+

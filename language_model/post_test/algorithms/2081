@@ -1,0 +1,3 @@
+
+We have compared four zzso on the problem of predicting the cellular zzso sites of proteins in zzso and zzso zzso A set of sequence derived features, such as regions of high zzso were used for each zzso The methods compared were a structured zzso model specifically designed for the zzso problem, the k nearest neighbors zzso the zzso decision tree zzso and the zzso zzso zzso The result of tests using zzso cross validation shows the k nearest neighbors zzso to perform better than the other zzso In the case of zzso this difference was statistically significant using a zzso paired zzso zzso The result is an accuracy of approximately zzso for 10 zzso classes and zzso for 8 zzso coli zzso The best previously reported zzso for these zzso were zzso and zzso zzso 
+

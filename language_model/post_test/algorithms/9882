@@ -1,0 +1,13 @@
+
+Many zzso exist for zzso reconstruction of data from zzso zzso ultrasound zzso These methods are based on zzso techniques to fill the zzso from the zzso For zzso purposes, zzso is involved to delineate the structure of zzso However, zzso and partial volume effect errors can affect zzso 
+
+This study aimed to assess the effect of the combination of a fuzzy model and zzso reconstruction zzso of zzso ultrasound images on these zzso 
+
+We introduced a zzso step to correct the initial zzso by weighting the zzso by a distribution function, taking into account the local gray levels, the orientation of the local zzso and the local zzso zzso We then used two of the most zzso reconstruction zzso zzso nearest zzso zzso and zzso nearest zzso zzso to zzso and create the volume of the zzso Finally, zzso was used to estimate the optimal zzso 
+
+zzso were acquired using 5 zzso and 8 zzso ultrasound zzso on ultrasound zzso zzso zzso evaluation of the reconstructed structures was done by comparing the method output to the real zzso zzso was also done with classical zzso and zzso zzso 
+
+With the fuzzy model zzso errors were less than zzso whereas with classical zzso errors were larger zzso using zzso zzso using zzso Furthermore, for very small structures zzso zzso errors reached zzso using the classical zzso algorithm, while they were about zzso with the fuzzy zzso zzso 
+
+These experiments prove that the fuzzy model allows volumes to be determined with better accuracy and zzso especially for small structures zzso zzso 
+

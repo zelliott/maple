@@ -1,0 +1,7 @@
+
+zzso zzso and border detection in zzso images is one of the core components of diagnostic procedures and therapeutic interventions for skin zzso zzso assessment tools for zzso images have become an important research field mainly because of zzso and zzso variations in human zzso In this study, we compare two approaches for automatic border detection in zzso zzso density based zzso zzso and zzso zzso zzso zzso zzso In the first approach, if there exists enough zzso than certain number of zzso a point, then either a new cluster is formed around the point or an existing cluster grows by including the point and its zzso In the second approach zzso zzso is zzso This approach has the ability to assign one data point into more than one zzso 
+
+Each approach is examined on a set of 100 zzso images whose manually drawn borders by a dermatologist are used as the ground zzso zzso zzso false zzso and false zzso along with true zzso and true zzso are zzso by comparing results with manually determined borders from a zzso The assessments obtained from both methods are zzso analyzed over three accuracy zzso border error, precision, and zzso 
+
+As well as low border error, high precision and recall, visual outcome showed that the zzso effectively delineated targeted zzso and has bright zzso however, the zzso had poor performance especially in border error zzso 
+

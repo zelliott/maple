@@ -1,0 +1,7 @@
+
+A major goal of cancer research is to identify discrete zzso that specifically characterize a given zzso These markers are useful in diagnosis, may identify potential targets for drug development, and can aid in evaluating treatment efficacy and predicting patient zzso zzso technology has enabled marker discovery from human cells by permitting measurement of zzso zzso levels derived from thousands of zzso However many challenging and unresolved issues regarding the acquisition and analysis of zzso data remain, such as accounting for both experimental and biological noise, transcripts whose expression profiles are not normally distributed, guidelines for statistical assessment of false zzso rates and comparing data derived from different research zzso This study addresses these issues using zzso zzso and zzso zzso data derived from different research zzso 
+
+We present here a simple non zzso approach coupled with noise filtering to identify sets of genes zzso expressed between the normal and cancer states in zzso breast, zzso prostate and zzso zzso An important feature of this study is the ability to integrate data from different laboratories, improving the zzso power of the individual zzso One of the most interesting findings is the down regulation of genes involved in tissue zzso 
+
+This study presents the development and application of a noise model that suppresses noise, limits false zzso in the results, and allows integration of results from individual studies derived from different research zzso 
+

@@ -1,0 +1,7 @@
+
+A large share of the information in electronic medical records zzso consists of zzso zzso From a zzso zzso the continuing prevalence of zzso entry is a major hindrance when the goal is to increase automation in zzso However, the efforts in developing standards for the structured representation of medical information have not proven to be a zzso The information space of clinical medicine is very diverse and constantly evolving, making it challenging to develop standards for the zzso This paper reports a study aiming to increase automation in the zzso through the zzso understanding of specific class of medical text in English, namely emergency department chief zzso 
+
+We apply zzso zzso modeling for the zzso understanding of chief zzso We evaluate the performance of this approach in the automatic zzso of chief complaints, zzso for use in automatic zzso zzso 
+
+The evaluation in a zzso setting showed that the presented zzso was accurate in terms of zzso zzso Also, use of approximate matching in the zzso to cope with zzso zzso did not affect zzso correctness while increasing zzso zzso 
+

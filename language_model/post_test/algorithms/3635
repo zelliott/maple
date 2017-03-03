@@ -1,0 +1,7 @@
+
+zzso the mechanisms that determine gene expression regulation is an important and challenging zzso A common approach consists of identifying zzso sites from a collection of zzso genes and their nearby zzso DNA zzso Here, we consider a zzso model that zzso relates gene expression levels to a sequence matching score of zzso zzso We use zzso models and zzso search techniques to select zzso factor binding site candidates, as an alternative to zzso zzso procedures used by other zzso 
+
+We demonstrate through simulated data the improved performance of the zzso variable selection method compared to the zzso zzso We then analyze and discuss the results from experiments involving well-studied pathways of zzso zzso and zzso zzso We identify regulatory motifs known to be related to the experimental conditions zzso Some of our selected motifs are also in agreement with recent findings by other zzso In addition, our results include novel motifs that constitute promising sets for further zzso 
+
+The zzso code for implementing the zzso variable selection method may be obtained from the corresponding zzso 
+

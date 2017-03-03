@@ -1,0 +1,7 @@
+
+We describe zzso a suite of servers for the prediction of protein structural features: secondary zzso relative zzso zzso contact zzso backbone structural zzso zzso contact maps at 6, 8 and 12 zzso coarse protein zzso The servers are based on large-scale ensembles of zzso neural networks and trained on large, zzso zzso zzso of the zzso Data zzso Together with structural feature predictions, zzso includes a server for prediction of zzso traces for short proteins (up to 200 zzso zzso 
+
+The servers are state-of-the-art, with secondary structure predicted correctly for nearly zzso of zzso zzso the top performance on zzso zzso zzso accessibility nearly zzso correct, and contact maps exceeding 50% precision on the top zzso zzso A preliminary zzso of the predictor of protein zzso traces featured among the top 20 Novel Fold zzso at the last zzso experiment as group zzso zzso zzso The majority of the zzso including the zzso trace zzso now take into account zzso information from the zzso when available, resulting in greatly improved zzso 
+
+All predictions are freely available through a simple joint web interface and the results are returned by zzso In a single submission the user can send protein sequences for a total of up to zzso zzso to all or a selection of the zzso zzso is accessible at the address: zzso 
+

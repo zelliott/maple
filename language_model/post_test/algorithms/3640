@@ -1,0 +1,5 @@
+
+zzso analysis procedure to detect selective constraints zzso is a software system to dissect the constraints on the evolution of zzso zzso The program estimates rates of zzso zzso at specific zzso regions in each branch of a zzso zzso The program uses several sets of simulated sequence alignments to estimate the probability of synonymous and zzso zzso zzso zzso a statistical analysis is conducted to determine the optimum window size to detect selective zzso Finally, the optimum window size is slid along the real alignment and a test for significance of the estimated number of synonymous and zzso zzso zzso in each sliding step is zzso A number of friendly useful output files is zzso 
+
+zzso is available at zzso distribution versions for both Linux and Windows operating systems are available, including manual and example zzso 
+

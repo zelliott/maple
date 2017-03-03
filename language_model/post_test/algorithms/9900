@@ -1,0 +1,9 @@
+
+zzso set theory zzso provides powerful methods for reduction of attributes and creation of decision rules, which have successfully been applied in numerous medical zzso The variable precision rough set model zzso zzso an extension of the original rough set approach, zzso some degree of zzso of the training zzso The basic idea of the zzso model is to change the class information of those objects whose class information cannot be induced without contradiction from the available zzso zzso original methods of zzso are zzso An approach of this model is presented that allows uncertain objects to change class information during the process of attribute reduction and rule zzso This method is referred to as variable precision rough set approach with flexible zzso of uncertain objects zzso zzso and needs only slight modifications of the original zzso zzso 
+
+To compare the zzso model and zzso approach both methods are applied to a clinical data set based on electroencephalogram of awake and zzso zzso For comparison, a second data set obtained from the zzso machine learning zzso is zzso It describes the shape of different vehicle zzso Further well known feature selection methods were applied to both data sets to compare their results with the results provided by rough set based zzso 
+
+The zzso approach requires higher zzso effort, but is able to achieve better reduction of attributes for noisy or inconsistent data and provides smaller rule zzso 
+
+The presented approach is a useful method for substantial attribute reduction in noisy and inconsistent data zzso 
+

@@ -1,0 +1,7 @@
+
+zzso approaches for protein design are relevant in the field of molecular evolutionary zzso In recent years, new, so-called structurally constrained zzso models of zzso sequence evolution have been proposed, which use statistical zzso to assess zzso zzso In a previous work, we defined a statistical framework for zzso zzso zzso especially suited to SC zzso Our method used the maximum likelihood principle and provided what we call the joint zzso However, the method required zzso zzso by the use of zzso heavy zzso zzso zzso Carlo sampling zzso 
+
+Here, we develop an alternative zzso zzso based on a zzso argument coupled to fast zzso descent zzso We assess that the zzso potential yields very similar results to the joint approach developed zzso both in terms of the resulting potential zzso and by zzso factor evaluation in a zzso zzso On the other hand, the zzso approach results in a considerable zzso benefit (up to a 1,000 fold decrease in zzso time for the zzso zzso 
+
+Due to its zzso speed, the zzso method we propose offers an attractive alternative for the design and empirical evaluation of alternative forms of zzso using large data sets and zzso zzso 
+

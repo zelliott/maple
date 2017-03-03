@@ -1,0 +1,7 @@
+
+A fundamental problem when trying to define the functional relationships between proteins is the difficulty in zzso functional similarities, even when zzso zzso exist regarding the activity of proteins zzso zzso zzso zzso However, functional metrics can overcome the problems in the comparing and evaluating functional assignments and zzso As a reference of zzso previous approaches to compare GO terms considered linkage in terms of zzso weighted by a probability distribution that balances the zzso zzso of different parts of the zzso zzso zzso Here, we have followed a different approach to zzso functional similarities between GO zzso 
+
+We propose a new method to derive zzso zzso between GO terms that is based on the simultaneous occurrence of terms in the same set of zzso entries, instead of relying on the structure of the zzso The coincidence of GO terms reveals natural biological links between the GO functions and defines a distance model zzso which zzso the properties of a zzso zzso The distances obtained in this way can be represented as a zzso zzso zzso 
+
+The method proposed provides a new definition of distance that enables the similarity between GO terms to be zzso Additionally, the zzso zzso defines groups with biological meaning enhancing its utility for protein function comparison and zzso Finally, this approach could be for zzso protein searches in databases, and for zzso the gene clusters produced by DNA array zzso 
+

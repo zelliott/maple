@@ -1,0 +1,9 @@
+
+zzso zzso have been used to solve zzso problems for artificial neural networks zzso in several zzso We used genetic zzso to search for optimal zzso zzso zzso and training parameters for ANN for predicting zzso pneumonia among patients with respiratory zzso 
+
+zzso zzso ANN were trained on zzso zzso sign, zzso and zzso outcome data among zzso patients from the University of Illinois (the training zzso and were applied to 116 patients from the University of Nebraska (the testing zzso zzso zzso with genes representing network zzso including the number of zzso in the hidden zzso learning rate and momentum zzso and the presence or absence of implicit zzso connectivity using a competition algorithm, were operated on by various combinations of zzso zzso and zzso selection based on network zzso error zzso and separately on average cross zzso zzso zzso accuracy was measured as the area under a zzso characteristic zzso zzso 
+
+Over 50 generations, the baseline genetic zzso evolved an zzso ANN with nine zzso in the first hidden layer, zero zzso in the second hidden layer, learning rate and momentum parameters of zzso and no zzso competition zzso This ANN had an zzso area in the training cohort of zzso and in the testing cohort of zzso zzso for difference, zzso zzso based on zzso selection, Gray coding of genes prior to zzso and crossover zzso at different genetic levels, evolved zzso ANN identical to the baseline genetic zzso zzso based on other strategies, including elite selection within generations zzso zzso area zzso and zzso of genetic material during zzso zzso zzso area zzso evolved less accurate zzso 
+
+ANN zzso by genetic zzso accurately zzso pneumonia within a training zzso and within a testing cohort consisting of cases on which the networks had not been zzso zzso zzso can be used to implement efficient search strategies for optimal ANN to predict zzso 
+

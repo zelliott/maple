@@ -1,0 +1,3 @@
+
+zzso on zzso of biological networks have raised a strong interest in the problem of graph zzso in zzso zzso zzso zzso To handle this problem, we propose a zzso procedure which first builds a family of candidate zzso from the data, and then selects one graph among this family according to a dedicated zzso This zzso procedure is shown to be consistent in a zzso setting, and its risk is controlled by a zzso zzso zzso The procedure is tested on a real data set concerning gene expression data, and its performances are assessed on the basis of a large zzso zzso The procedure is implemented in the zzso zzso available on the zzso 
+

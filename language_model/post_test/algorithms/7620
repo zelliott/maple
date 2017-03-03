@@ -1,0 +1,9 @@
+
+To develop and test a new zzso for fast direct zzso transform zzso reconstruction of MR data on zzso zzso composed of lines with equally spaced zzso 
+
+The zzso which is normally used as a reference in evaluating the accuracy of other reconstruction methods, can reconstruct images directly from zzso MR data without zzso However, zzso reconstruction involves substantially intensive computation, which makes the zzso zzso for clinical routine zzso In this article, the zzso transform zzso was introduced to accelerate the zzso reconstruction of zzso and Periodically zzso Overlapping zzso Lines with zzso Reconstruction zzso zzso data located on the zzso that are composed of lines with equally spaced zzso The performance of the proposed zzso transform zzso zzso was evaluated by using simulation and in zzso zzso zzso 
+
+After implementing the zzso on a graphics processing unit, the proposed zzso transform zzso zzso achieved an acceleration of approximately one order of zzso and the zzso factor was further increased to approximately three orders of magnitude compared with the traditional zzso zzso zzso 
+
+Implementation the zzso transform zzso zzso on the graphics processing unit can efficiently calculate the zzso reconstruction of the zzso and zzso zzso zzso 
+

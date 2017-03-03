@@ -1,0 +1,9 @@
+
+Falls in the elderly is nowadays a major concern because of their consequences on elderly general health and moral zzso Moreover, the aging of the population and the increasing life expectancy make the prediction of falls more and more zzso The analysis presented in this article makes a first step in this direction providing a way to analyze gait and zzso hospitalized elderly zzso and zzso This zzso based on an zzso network and signal processing, gives objective zzso about the gait and does not need any special gait laboratory as optical analysis zzso The tool is also simple to use by a non expert and can therefore be widely used on a large set of zzso 
+
+A population of 20 hospitalized zzso was asked to execute several classical clinical tests evaluating their risk of zzso They were also asked if they experienced any fall in the last 12 zzso The zzso of the limbs were recorded during the clinical tests with an zzso network distributed on the zzso A total of 67 features were extracted from the zzso signal recorded during a simple 25 m walking test at comfort zzso A feature selection zzso was used to select those able to zzso subjects at risk and not at risk for several zzso zzso zzso 
+
+The results showed that several zzso zzso were able to discriminate people from the two groups of zzso zzso and zzso hospitalized zzso The zzso performances of the used zzso were zzso zzso a subset of the 67 features was considered to be significantly different between the two groups using a zzso 
+
+This study gives a method to zzso a population of hospitalized zzso in two groups: at risk of falling or not at risk based on zzso zzso This is a first step to design a risk of falling assessment system that could be used to provide the right treatment as soon as possible before the fall and its zzso This tool could also be used to evaluate the risk several times during the zzso zzso 
+

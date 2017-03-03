@@ -1,0 +1,9 @@
+
+Current zzso privacy technologies assume the identity of zzso sequence data is protected if personal information, such as zzso are zzso removed, or zzso While demographic features can directly compromise an zzso identity, recent research demonstrates such protections are insufficient because sequence data itself is susceptible to zzso To counteract this problem, we introduce an zzso for zzso a collection of zzso DNA zzso 
+
+The technique is termed DNA lattice zzso zzso and is based upon the formal privacy protection zzso of k zzso Under this model, it is impossible to observe or learn features that distinguish one genetic sequence from zzso other entries in a zzso To maximize information retained in protected zzso we incorporate a concept zzso lattice to learn the distance between two zzso in a single zzso zzso The lattice provides the most similar generalized concept for two zzso zzso zzso and zzso are both zzso 
+
+The method is tested and evaluated with several publicly available human population zzso ranging in size from 30 to 400 zzso Our findings imply the zzso zzso is feasible for the protection of sequences zzso 
+
+The zzso method is the first zzso disclosure control technique for general DNA zzso Given the zzso nature of the method, guarantees of anonymity can be formally zzso There is room for improvement and zzso though this research provides the groundwork from which future researchers can construct zzso zzso zzso tailored to specific zzso zzso 
+

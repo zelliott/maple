@@ -1,0 +1,7 @@
+
+Since the high zzso of gene expression zzso data sets degrades the zzso performance of zzso feature selection, which selects relevant features and zzso irrelevant and redundant features, has been widely used in the zzso zzso zzso learning is a novel technique to improve prediction accuracy of tumor zzso by using information contained in such discarded redundant features, but which features should be discarded or used as input or output remains an open zzso 
+
+We demonstrate a framework for automatically selecting features to be zzso zzso and discarded by using a genetic algorithm, and propose two zzso zzso zzso zzso based zzso zzso and zzso (an enhanced version of zzso Experimental results demonstrate that this framework is effective at selecting features for zzso learning, and that zzso and zzso perform better than other zzso zzso 
+
+zzso zzso are a powerful technique to select features for zzso learning zzso zzso and zzso are shown to to improve zzso performance of zzso on zzso data zzso 
+

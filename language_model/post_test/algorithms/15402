@@ -1,0 +1,9 @@
+
+zzso discovery is the problem of finding recurring patterns in biological zzso zzso can be zzso mainly when discovered in DNA zzso They can also be structural zzso when discovering zzso zzso Finding common structural patterns helps to gain a better understanding of the mechanism of action zzso zzso zzso Unlike DNA zzso which are zzso zzso zzso motifs exhibit conservation in structure, which may be common even if the sequences are zzso Over the past few years, hundreds of zzso have been developed to solve the sequential motif discovery problem, while less work has been done for the structural zzso 
+
+In this paper, we survey, zzso and compare different zzso that solve the structural motif discovery problem, where the underlying sequences may be zzso We highlight their strengths and zzso We start by proposing a benchmark zzso and a measurement tool that can be used to evaluate different motif discovery zzso Then, we proceed by proposing our experimental zzso Finally, results are obtained using the proposed benchmark to compare available zzso To the best of our knowledge, this is the first attempt to compare tools solely designed for structural motif zzso 
+
+zzso show that the accuracy of discovered motifs is relatively zzso The results also suggest a complementary behavior among tools where some tools perform well on simple structures, while other tools are better for complex zzso 
+
+We have classified and evaluated the performance of available structural motif discovery zzso In addition, we have proposed a benchmark zzso with tools that can be used to evaluate newly developed zzso 
+

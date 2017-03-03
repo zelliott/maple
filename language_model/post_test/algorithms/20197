@@ -1,0 +1,3 @@
+
+A new exact zzso is proposed to zzso the zzso geometric moments of a homogeneous shape defined by an zzso zzso of its zzso This zzso relies on the zzso integration of the moments on zzso defined by the surface zzso and a central point and on a set of zzso relationships between the corresponding zzso and achieves linear running time complexities with respect to the number of zzso in the surface mesh and with respect to the number of moments that are zzso This effectively reduces the complexity for computing moments up to order N from zzso to zzso with respect to the fastest previously proposed exact zzso 
+

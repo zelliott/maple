@@ -1,0 +1,7 @@
+
+The last few years have seen the advent of zzso technologies to analyze various properties of the zzso and zzso of several zzso The zzso of these different data sources, or lack zzso can shed light on the mechanisms that govern cellular zzso A central challenge for zzso research is to develop a unified framework for combining the multiple sources of functional zzso information and testing associations between them, thus obtaining a robust and integrated view of the underlying zzso 
+
+We present a zzso approach to test the significance of the association between multiple disparate sources of functional zzso data by proposing two statistical tests, namely edge zzso and zzso label zzso zzso We demonstrate the use of the proposed tests by finding significant association between a Gene zzso zzso and data obtained from zzso expression and zzso experiments for zzso zzso Moreover, we employ the zzso framework to recast a surprising zzso presented elsewhere between gene expression and knockout zzso using expression data from a different set of zzso 
+
+An R software package, zzso containing the data and statistical procedures is available from zzso zzso 
+

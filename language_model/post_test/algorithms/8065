@@ -1,0 +1,7 @@
+
+zzso assessment of zzso zzso zzso is a crucial task in zzso zzso Usually, one concludes from exceptional zzso of DNA motifs that the corresponding zzso factors zzso are zzso However, similar DNA motifs tend to zzso in random sequences due to high probability of overlapping zzso zzso it is important to consider similarity of DNA motifs in the statistical zzso 
+
+Based on previous work, we propose to adjust the window size for zzso zzso Using the derived zzso one zzso different window sizes for different sets of DNA motifs depending on their zzso This ensures that the probability of zzso in random sequences are zzso zzso the approach to selected similar and dissimilar DNA motifs from human zzso shows the necessity of adjustment and confirms the accuracy of the approximation by comparison to simulated zzso Furthermore, it becomes clear that approaches ignoring similarities strongly underestimate zzso for zzso of zzso with similar DNA zzso In addition, the approach is extended to deal with overlapping zzso We derive zzso error bounds for the zzso Comparing the error bounds for similar and dissimilar DNA motifs shows that the approximation for similar DNA motifs yields large zzso zzso one has to be careful using overlapping zzso Based on the error bounds, one can zzso the approximation errors and select an appropriate overlap scheme before running the zzso 
+
+Software to perform the calculation for pairs of position frequency zzso zzso is available at zzso as well as zzso source code for zzso 
+

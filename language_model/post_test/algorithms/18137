@@ -1,0 +1,11 @@
+
+To assess the ability of zzso tree boosting to zzso health care cost predictions, using diagnostic groups and demographic variables as zzso Systems for zzso health care cost, described in the literature, have consistently employed deterministic models to account for interactions among diagnostic groups, simplifying their statistical zzso but sacrificing potentially useful zzso An alternative is to use a statistical learning zzso such as zzso tree boosting that systematically searches the data for consequential zzso which it automatically incorporates into a zzso model that is customized to the population under zzso 
+
+zzso data for over 2 million zzso in zzso preferred provider organization zzso and zzso zzso plans from Thomson zzso Commercial zzso and zzso zzso 
+
+The Agency for Healthcare Research and zzso Clinical zzso Software zzso was used to sort 2001 diagnoses into 260 diagnosis categories zzso For each plan type zzso zzso and zzso zzso zzso trees and main effects linear models were fitted to predict concurrent (2001) and prospective (2002) total health care cost per patient, given zzso and demographic zzso 
+
+zzso tree boosting explained zzso percent of concurrent cost zzso and zzso percent of prospective cost zzso in independent test zzso zzso results for main effects linear models were zzso percent and zzso zzso 
+
+The combination of zzso tree boosting and a diagnostic grouping zzso such as zzso represents a competitive alternative to zzso systems that use complex deterministic models to account for interactions among diagnostic zzso 
+

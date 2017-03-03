@@ -1,0 +1,11 @@
+
+Patients with identical cancer diagnoses often progress zzso The disparity we see in disease progression and treatment response can be attributed to the idea that two zzso similar zzso may be completely different diseases on the molecular zzso zzso for identifying cancer zzso associated with patient survival have the capacity to be powerful instruments for understanding the zzso processes that zzso disease progression as well as providing an initial step toward more personalized therapy for cancer zzso We propose a method called zzso zzso zzso mixture models zzso that zzso zzso genetic and zzso clinical data for finding cancer zzso that are associated with patient zzso 
+
+In the proposed zzso cancer zzso are identified using a selected subset of genes that are associated with survival zzso Since survival information is used in the gene selection step, this method is zzso Unlike other zzso zzso zzso methods, zzso does not require zzso of the number of cancer zzso which is often zzso In a simulation study, our proposed method compared favorably with other competing zzso methods, zzso zzso zzso and supervised principal components zzso Furthermore, an analysis of zzso cancer data using zzso revealed at least two distinct zzso profiles that are zzso for zzso 
+
+The analyses implemented in this article were carried out using R zzso 
+
+zzso zzso 
+
+zzso data are available at zzso zzso 
+

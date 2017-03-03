@@ -1,0 +1,9 @@
+
+Border zzso description of melanoma and other pigmented skin zzso is one of the most important tasks for the clinical diagnosis of zzso images using the zzso zzso For an accurate description of the border, there must be an effective skin tumor area extraction zzso zzso However, this task is complicated due to uneven zzso artifacts present in the zzso and smooth areas or fuzzy borders of the desired zzso 
+
+In this paper, a novel zzso zzso based on improved dynamic programming zzso is zzso The zzso technique consists of the following four steps: color space zzso zzso rough tumor area detection and refinement of the segmented zzso The procedure is performed in the zzso zzso zzso zzso color space, which is approximately uniform and is therefore related to zzso zzso After zzso the skin zzso to reduce artifacts, the zzso zzso is improved by introducing a local cost function, which is based on color and texture zzso 
+
+The zzso method is tested on a total of 100 zzso zzso In order to compare the performance of zzso with other state-of-the-art zzso various statistical measures based on zzso borders are zzso as a ground zzso The proposed method zzso the others with a sensitivity of zzso a specificity of zzso and an error probability of zzso 
+
+The results demonstrate that this zzso method by zzso is an effective solution when compared with other state-of-the-art zzso zzso The proposed method can accurately extract tumor borders in zzso zzso 
+

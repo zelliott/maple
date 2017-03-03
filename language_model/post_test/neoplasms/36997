@@ -1,0 +1,9 @@
+
+We have developed a completely automatic software package to zzso zzso register and zzso match serial zzso zzso images from patients with limb zzso Variations in tumor zzso and size are analyzed and zzso by the zzso 
+
+The software consists of a chain of zzso incorporating several automatic zzso A rigid registration zzso zzso images by translation and rotation based on feature points corresponding to the patient's neck and zzso An elastic matching zzso generates a grid for each image in a sequence by combining zzso and local feature analysis in the head, torso and leg zzso A linear zzso zzso then zzso zzso values and locations to make the grid points in all images coincide with the grid points of one of them (the reference zzso All images in a sequence are zzso based on brain zzso zzso of tumor zzso and size is performed in all images using an zzso automatically determined from a single zzso seed zzso 
+
+The software was tested on four zzso and one zzso sequences from five patients (11 zzso zzso zzso of body zzso overlap show an average zzso agreement of zzso zzso and zzso for zzso zzso registered and zzso registered + matched images, zzso 
+
+Our method represents an objective, quantitative tool to measure tumor activity in sequential zzso zzso images, and may help assess tumor response to chemotherapy or radiation zzso 
+

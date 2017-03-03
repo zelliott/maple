@@ -1,0 +1,9 @@
+
+The aim of this study was to investigate relations among different aspects in supervised word sense zzso zzso supervised machine learning for zzso the sense of a term in a zzso and compare supervised zzso in the biomedical domain with that in the general English zzso 
+
+The study involves three data sets (a biomedical zzso data set, a general biomedical term data set, and a general English data zzso The authors implemented three zzso zzso including zzso zzso zzso zzso and decision lists zzso zzso their adaptation of decision lists zzso and zzso their mixed supervised learning zzso There were six feature representations zzso combinations of zzso bag of words, oriented bag of words, zzso and five window sizes zzso 4, 6, 8, and zzso 
+
+zzso zzso is suitable only when there are enough zzso instances with at least a few dozens of instances for each zzso zzso combined with neighboring words are appropriate selections for the zzso For terms with unrelated biomedical zzso a large window size such as the whole paragraph should be used, while for general English words a moderate window size between 4 and 10 should be zzso The performance of the zzso zzso of decision list zzso for zzso was better than that of traditional decision list zzso However, the opposite held for the other two zzso Also, the zzso mixed supervised learning was stable and generally better than others for all zzso 
+
+From this study, it was found that different aspects of supervised zzso depend on each zzso The experiment method presented in the study can be used to select the best supervised zzso zzso for each ambiguous zzso 
+

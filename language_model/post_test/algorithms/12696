@@ -1,0 +1,13 @@
+
+zzso gene expression data is the problem of zzso zzso of genes and conditions exhibiting significant correlation across both the rows and the columns of a data zzso of expression zzso Even the simplest versions of the problem are zzso zzso Most of the proposed solutions therefore employ greedy zzso zzso that locally zzso a suitably assigned scoring zzso 
+
+We provide a fast and simple zzso zzso called zzso that zzso the rows and columns of the input data zzso in such a way as to group correlated entries in small local neighborhoods within the zzso The proposed zzso zzso takes its roots from effective use of zzso methods applied to problems exhibiting a similar structure to that of zzso In order to evaluate the zzso of the zzso zzso algorithm, we focus on three representative greedy zzso zzso zzso We show how the zzso zzso can be incorporated into each representative zzso to improve zzso zzso Furthermore, we propose a simple zzso algorithm, Random zzso After zzso zzso that randomly extracts zzso from the zzso zzso data zzso eliminates those with low similarity scores, and provides the rest as correlated structures representing zzso 
+
+We compare the proposed zzso zzso with another zzso alternative, zzso zzso zzso We show that our fast and simple zzso procedure provides similar or even better results than the zzso heavy zzso zzso zzso with regards to zzso zzso We next demonstrate that the performances of the three representative greedy zzso zzso methods improve with zzso zzso when biological correlations in the form of functional enrichment and zzso zzso constitute the main performance zzso The fact that the random extraction method based on zzso REAL performs better than the representative greedy zzso methods under same criteria also confirms the effectiveness of the suggested zzso zzso 
+
+zzso material including code zzso in zzso zzso library, experimental data, and the results are available at zzso 
+
+zzso zzso 
+
+zzso data are available at zzso zzso 
+

@@ -1,0 +1,7 @@
+
+zzso of gene expression data searches for local patterns of gene zzso A zzso (or a zzso zzso is defined as a set of genes whose expression profiles are mutually similar within a subset of experimental zzso Although several zzso zzso have been zzso few are based on rigorous statistical zzso 
+
+We developed a zzso zzso model zzso and implemented a Gibbs sampling procedure for its statistical zzso We showed that zzso zzso model can correctly identify multiple clusters of gene expression zzso Using simulated data both from the model and with realistic characters, we demonstrated the BBC zzso zzso other methods in both zzso and zzso We also showed that the model is stable for two zzso methods, the zzso range zzso and the smallest zzso range zzso zzso the BBC zzso to the zzso expression data, we observed that majority of the zzso we found are supported by significant biological zzso such as zzso of gene functions and zzso factor binding sites in the corresponding promoter zzso 
+
+The BBC zzso is shown to be a robust zzso zzso method that can discover biologically significant zzso clusters in zzso zzso The BBC model can easily handle missing data via zzso Carlo zzso and has the potential to be extended to integrated study of gene zzso zzso 
+

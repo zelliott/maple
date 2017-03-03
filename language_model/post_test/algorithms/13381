@@ -1,0 +1,7 @@
+
+zzso zzso Network zzso is a popular model for studying genetic regulatory zzso An important and practical problem is to find the optimal control policy for a zzso so as to avoid the network from entering into zzso zzso A number of research works have been done by using dynamic zzso zzso zzso However, due to the high zzso complexity of zzso zzso method is zzso inefficient for a large size zzso Therefore it is natural to seek for approximation zzso 
+
+Inspired by the state reduction strategies, we consider using dynamic programming in conjunction with state reduction approach to reduce the zzso cost of the zzso zzso zzso examples are given to demonstrate both the effectiveness and the efficiency of our proposed zzso 
+
+Finding the optimal control policy for zzso is zzso The proposed problem has been shown to be zzso By taking state reduction approach into consideration, the proposed method can speed up the zzso time in applying dynamic zzso zzso In particular, the proposed method is effective for larger size zzso 
+

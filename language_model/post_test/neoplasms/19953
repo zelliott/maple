@@ -1,0 +1,7 @@
+
+The success of targeted zzso drugs are frequently hindered by the lack of knowledge of the individual zzso of the patient and the extreme data requirements on the zzso of the personalized genetic network of the patient's zzso The prediction of tumor sensitivity to targeted drugs remains a major challenge in the design of optimal therapeutic zzso The current sensitivity prediction approaches are primarily based on genetic zzso of the tumor zzso We propose a novel sensitivity prediction approach based on functional zzso data that incorporates the drug protein interaction information and sensitivities to a training set of drugs with known zzso 
+
+We illustrate the high prediction accuracy of our framework on synthetic data generated from the zzso Encyclopedia of Genes and zzso zzso and an experimental zzso of four canine zzso tumor cultures following application of 60 targeted zzso zzso We achieve a low leave one out cross validation error of zzso for the canine zzso tumor cultures using a drug screen consisting of 60 targeted zzso 
+
+The proposed framework provides a unique zzso based methodology to model a cancer zzso and predict the effectiveness of targeted zzso zzso This framework can be developed as a viable approach for personalized cancer zzso 
+

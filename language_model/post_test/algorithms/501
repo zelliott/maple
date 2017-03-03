@@ -1,0 +1,7 @@
+
+zzso interactions are involved in many biological processes essential for cellular zzso To understand the molecular mechanism of zzso recognition, it is necessary to identify the zzso zzso in zzso zzso However, structural data are available for only a few hundreds of zzso zzso With the rapid zzso of sequence data, it becomes an important but challenging task to accurately predict zzso zzso directly from zzso acid sequence zzso 
+
+A new machine learning approach has been developed in this study for predicting zzso zzso from zzso acid sequence zzso The approach used both the zzso data instances collected from the available structures of zzso complexes and the abundant zzso data found in protein sequence zzso The evolutionary information contained in the zzso sequence data was represented as zzso scoring zzso zzso and several new zzso The zzso features were then used to train random forests zzso which could handle a large number of input variables and avoid model zzso The use of evolutionary information was found to significantly improve zzso zzso The zzso zzso was further evaluated using a separate test zzso and the predicted zzso zzso were examined in the context of three-dimensional zzso 
+
+The results suggest that the zzso approach gives rise to more accurate prediction of zzso zzso than previous zzso A new web server called zzso zzso has thus been developed to make the zzso zzso accessible to the biological research zzso 
+

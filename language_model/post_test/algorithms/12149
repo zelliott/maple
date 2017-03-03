@@ -1,0 +1,3 @@
+
+This paper introduces zzso schemes for image zooming of color images by general zzso zzso In order to zzso artifacts arising in image zzso such as image blur and the zzso effect, an zzso method is suggested to be applied as a zzso of standard zzso zzso The method is based on zzso zzso partial differential zzso The equations are carefully zzso incorporating zzso schemes of zzso zzso to be able to form reliable edges zzso The alternating direction implicit zzso method is employed for an efficient simulation of the zzso It has been zzso verified that the resulting zzso can form clear edges in 2 to 3 zzso zzso Various results are given to show zzso zzso and reliability of the zzso 
+

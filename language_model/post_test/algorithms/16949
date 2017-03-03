@@ -1,0 +1,3 @@
+
+zzso elegant and powerful zzso dynamic programming zzso for approximate string matching has a restriction that the query length should be within the word size of the computer, typically zzso We propose a modification of zzso algorithm, in which the modification has a restriction not on the query length but on the maximum number of zzso zzso zzso or zzso which should be less than half of the word zzso The time complexity is zzso log zzso where m is the query length and zzso is the size of the alphabet zzso Thus, it is particularly suited for sequences on a small alphabet such as DNA zzso In particular, it is useful in quickly extending a large number of seed alignments against a reference zzso for zzso zzso data produced by next-generation DNA zzso 
+

@@ -1,0 +1,9 @@
+
+The interpretation of zzso zzso has remained one of the central challenges of zzso biology over the past zzso Furthermore, as the amount of biological knowledge increases, it becomes more and more difficult to integrate this large body of knowledge in a meaningful zzso In this article, we propose a particular solution to both of these zzso 
+
+We integrate available biological knowledge by constructing a network of molecular interactions of a specific zzso zzso zzso The resulting zzso graph can be zzso to suggest molecular hypotheses that explain the variations observed in a zzso gene expression zzso We show that a simple scoring function can discriminate between a large number of competing molecular hypotheses about the upstream cause of the changes observed in a gene expression zzso We then develop an zzso method for computing the statistical significance of each zzso This zzso method also helps assess the effects of random or adversarial noise on the zzso power of our zzso 
+
+Our results show that the zzso graph we constructed from known biological literature is extremely robust to random noise and to missing or zzso zzso We demonstrate the power of our zzso reasoning model on two specific examples, one from a cancer zzso and the other from a cardiac zzso zzso We conclude that zzso reasoning models provide a valuable addition to the zzso zzso for the interpretation of gene expression zzso 
+
+R source code for the method is available upon zzso 
+

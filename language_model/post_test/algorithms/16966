@@ -1,0 +1,9 @@
+
+The task of spatial cluster detection involves finding spatial regions where some property deviates from the norm or the expected zzso In a zzso setting this task can be expressed as finding a region where some event is significantly more likely than zzso zzso cluster detection is of interest in fields such as zzso mining of zzso data, military zzso and analysis of zzso zzso In almost all such applications we are interested both in the question of whether a cluster exists in the data, and if it exists, we are interested in finding the most accurate characterization of the zzso 
+
+We present a general dynamic programming zzso for zzso spatial cluster zzso The zzso can be used for both zzso maximum zzso zzso zzso of the most likely spatial distribution of clusters and zzso model averaging over a large space of spatial cluster zzso to zzso the zzso probability of an unusual spatial zzso The zzso is explained and evaluated in the context of a zzso application, specifically the detection and identification of zzso outbreaks based on emergency department zzso A relatively simple underlying model is constructed for the purpose of evaluating the algorithm, and the zzso is evaluated using the model and zzso test zzso 
+
+When compared to baseline methods, tests indicate that the new zzso can improve zzso estimates under certain conditions: the greedy zzso we compared our method to was found to be more sensitive to smaller outbreaks, while as the size of the outbreaks increases, in terms of area affected and proportion of individuals affected, our method zzso the greedy zzso in spatial precision and zzso The new zzso performs zzso with baseline methods in the task of zzso model zzso 
+
+We conclude that the dynamic programming zzso performs zzso with other available methods for spatial cluster detection and point to its low zzso cost and zzso as advantages in favor of further research and use of the zzso 
+

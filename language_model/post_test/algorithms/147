@@ -1,0 +1,7 @@
+
+One of the first steps in zzso analysis is the assignment of zzso obtained from various sequencing technologies to their correct zzso zzso zzso zzso methods assign a read to a zzso based on the pattern of significant zzso hits generated against sequence zzso zzso methods, which use zzso as the sole zzso to ascertain the significance of zzso hits, have limited specificity and accuracy of zzso A new zzso algorithm, called zzso is introduced, which addresses these zzso The method uses alignment parameters besides the bit score to first identify an appropriate zzso level where the read can be zzso An zzso approach is subsequently used by the method for the final zzso 
+
+The performance of zzso has been validated with reads simulating sequences from zzso and zzso sequencing zzso In addition, the zzso composition of the zzso Sea data set has been analyzed using zzso zzso shows improved specificity and accuracy of assignments especially in simulated scenarios, wherein sequences corresponding to the source zzso of the reads are absent in the reference zzso 
+
+zzso software is available for download zzso zzso No license is needed for academic and nonprofit zzso 
+

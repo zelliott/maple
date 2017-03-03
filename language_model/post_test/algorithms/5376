@@ -1,0 +1,9 @@
+
+Critical appraisal, one of the most crucial steps in the practice of evidence-based medicine, is zzso and zzso The objective of this study was to develop and evaluate an automated zzso system that could determine the evidence level provided by a medical zzso 
+
+A text zzso was designed and built to interpret the abstracts of medical zzso The system extracted information about: zzso the impact factor of the zzso zzso study zzso zzso human subject zzso zzso number of zzso zzso zzso and zzso confidence zzso We used a zzso tree zzso zzso to create a decision tree using supervised zzso Each article was zzso into evidence level A, B or C, and the output was compared to that determined by domain experts (the reference zzso 
+
+We used a corpus of zzso cardiovascular disease original research articles, of which zzso were previously assigned evidence level A, zzso level B and zzso level C by domain zzso The abstracts were zzso by our automated system and an evidence level was zzso The zzso accurately classified zzso of the zzso The agreement between computer and domain experts was substantial zzso zzso zzso showed consistent results across repeated zzso 
+
+The automated engine accurately classified the evidence zzso zzso might have resulted from incomplete information retrieval and inaccurate data zzso Further efforts will focus on assessing relevance and using additional study design features to refine evidence level zzso 
+

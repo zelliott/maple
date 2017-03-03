@@ -1,0 +1,9 @@
+
+Many zzso and zzso Weight zzso methods for recognizing zzso factor binding sites zzso are not well suited to the zzso in the lengths of binding zzso Besides, many methods discard known binding sites while building the zzso Moreover, the impact of Information Content zzso and the zzso dependence of zzso within an aligned set of zzso has not been well researched for modeling zzso binding zzso In this paper, we propose zzso zzso zzso a consensus model for zzso zzso which does not exclude any reported binding zzso 
+
+We consider zzso zzso zzso as a measure of zzso dependence of zzso within an alignment of zzso We investigate how the prediction accuracy of zzso is affected by the incorporation of zzso and zzso with a particular binding site alignment zzso We perform zzso for zzso of six species from the zzso public database, and analyze the results using zzso zzso and the zzso zzso zzso zzso 
+
+We observe that the incorporation of zzso and zzso in zzso results in statistically significant improvement in the prediction accuracy of the zzso Moreover, the existence of a core region among the known binding sites (of any zzso is witnessed by the zzso coexistence of zzso within the core zzso 
+
+These observations suggest the possibility of an efficient multiple sequence alignment zzso for aligning zzso accommodating known binding sites of any zzso for optimal (or zzso zzso zzso However, designing such an zzso is a matter of further zzso 
+

@@ -1,0 +1,3 @@
+
+This paper develops a new zzso control architecture for zzso uncertain zzso zzso The proposed framework involves a novel controller architecture involving additional terms in the update laws that are constructed using a moving time window of the integrated system zzso These terms can be used to identify the ideal system weights of the neural network as well as effectively suppress and cancel system uncertainty without the need for zzso of zzso A zzso zzso of the system uncertainty is considered and state and output feedback zzso controllers are zzso To illustrate the efficacy of the proposed approach we apply our results to a spacecraft model with unknown moment of inertia and compare our results with standard zzso control zzso 
+

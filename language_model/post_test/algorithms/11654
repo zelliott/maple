@@ -1,0 +1,7 @@
+
+Drug resistance is a very important factor influencing the failure of current zzso zzso The ability to predict the drug resistance of zzso zzso zzso may be useful in developing more effective and longer lasting treatment zzso 
+
+The zzso resistance is predicted to two current zzso zzso zzso and zzso The problem was approached from two zzso First, a predictor was constructed based on the structural features of the zzso zzso inhibitor zzso A particular structure was represented by its list of contacts between the inhibitor and the zzso Next, a zzso was constructed based on the sequence data of various drug resistant zzso In both cases, zzso maps were first used to extract the important features and cluster the patterns in an zzso zzso This was followed by subsequent zzso based on the known patterns in the training zzso 
+
+The prediction performance of the zzso was measured by zzso The zzso using the structure information correctly classified previously unseen zzso with an accuracy of between 60 and zzso Several zzso were tested on the more abundant sequence zzso The best single zzso provided an accuracy of zzso and a coverage of zzso Multiple networks were then combined into various majority voting zzso The best combination yielded an average of zzso coverage and zzso accuracy on previously unseen zzso This is more than two times better than the zzso accuracy expected from a random zzso 
+

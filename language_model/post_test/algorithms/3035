@@ -1,0 +1,11 @@
+
+The accurate detection of zzso segments (also referred to as zzso zzso plays a key role in comparative zzso as it is useful for zzso zzso zzso scenarios and computing zzso zzso Although a number of zzso for detecting zzso segments have been proposed, none of them contain a framework for zzso their zzso zzso 
+
+In the present study, we propose an algorithm, named zzso zzso zzso zzso which uses a novel scoring scheme based on zzso zzso zzso takes as input the positions of short zzso regions (also referred to as zzso and explicitly discriminates zzso anchors from zzso anchors by using zzso chain models which represent respective geometric zzso of lengths of zzso and zzso zzso Such zzso modeling makes it possible to zzso zzso values by maximizing the likelihood of the input zzso and to automate the setting of the optimal zzso zzso 
+
+We validated the zzso of zzso zzso on the basis of their consistency with the zzso zzso of zzso Our evaluation tests using zzso and bacterial zzso demonstrated that zzso shows higher accuracy than previous zzso 
+
+The zzso software was implemented as a zzso zzso The software is freely available at zzso under the zzso General Public zzso 
+
+zzso data are available at zzso zzso 
+

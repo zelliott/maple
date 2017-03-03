@@ -1,0 +1,9 @@
+
+To develop a system for the automatic zzso of pathology reports for Cancer zzso zzso 
+
+A two pass approach is proposed to zzso whether pathology reports are cancer zzso or zzso The first pass queries pathology zzso messages for known report types that are received by the zzso Cancer zzso zzso while the second pass aims to zzso the free text reports and identify those that are cancer zzso Cancer zzso business rules, natural language processing and symbolic reasoning using the zzso CT zzso were adopted in the zzso 
+
+The system was developed on a corpus of 500 zzso and zzso reports (with zzso zzso zzso and evaluated on an independent set of zzso reports (with zzso zzso zzso zzso show that the system can reliably zzso cancer zzso reports with a sensitivity, zzso and positive predicted value zzso of zzso zzso and zzso respectively for the development set, and zzso zzso and zzso for the evaluation zzso High sensitivity can be achieved at a slight expense in specificity and zzso 
+
+The system demonstrates how medical zzso processing enables the zzso of cancer zzso pathology reports with high reliability for potential use by Cancer zzso and pathology zzso 
+

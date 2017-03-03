@@ -1,0 +1,7 @@
+
+The accurate prediction of disease status is a central challenge in clinical cancer zzso zzso gene zzso have been identified to predict outcome and outperform traditional clinical zzso However, the zzso of the individual gene zzso is questioned because of their little zzso between different zzso of zzso zzso progress in treatment requires advances in methods to identify robust zzso Several methods incorporating zzso information have been proposed to identify robust zzso markers and build zzso at the level of functional categories rather than of individual zzso However, current methods consider the pathways as simple gene sets but ignore the zzso zzso information, which is essential to zzso a more robust zzso zzso 
+
+Here, we propose a directed random walk zzso method to zzso the zzso zzso zzso evaluates the zzso importance of each gene by capturing the structure information embedded in the directed zzso zzso The strategy of weighting genes by their zzso importance greatly improved the zzso of zzso zzso zzso on 18 cancer zzso showed that the proposed method yielded a more accurate and robust overall performance compared with several existing zzso and zzso zzso zzso The resulting zzso pathways are more reliable in guiding therapeutic selection and the development of zzso therapeutic zzso 
+
+zzso is freely available at zzso 
+

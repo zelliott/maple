@@ -1,0 +1,7 @@
+
+Assessment of array quality is an essential step in the analysis of data from zzso zzso Once zzso less reliable zzso are typically excluded or zzso from further analysis to avoid misleading zzso 
+
+In this article, a graduated approach to array quality is considered based on empirical zzso of the gene expression measures from replicate zzso zzso are assigned to each zzso by fitting a zzso linear model with shared array zzso zzso A novel zzso update zzso is used to efficiently estimate the array zzso The inverse zzso are used as weights in the linear model analysis to identify zzso expressed zzso The method successfully assigns lower weights to less zzso zzso from different zzso zzso the observations from suspect zzso increases the power to detect differential zzso In smaller experiments, this approach zzso the usual method of filtering the zzso The method is available in the zzso software package which is implemented in the R software zzso 
+
+This method zzso existing zzso and spot quality procedures, and allows poorer quality zzso which would otherwise be discarded, to be included in an zzso It is zzso to zzso data from experiments with some level of zzso 
+

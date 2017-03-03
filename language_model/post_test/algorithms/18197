@@ -1,0 +1,7 @@
+
+We present a fast version of the dynamics zzso analysis zzso zzso to predict functional sites in protein zzso The original zzso zzso finds regions in proteins where interactions cause a large change in the protein zzso distribution, as measured using the relative zzso zzso Such regions are associated with functional zzso 
+
+The Fast zzso algorithm, which zzso zzso calculations, is motivated by an empirical observation that zzso in a zzso model is highly correlated with an zzso term that only depends on the zzso of the normal zzso The zzso are accurately estimated using zzso zzso theory, resulting in a zzso reduction in the overall zzso requirements of the algorithm, where N is the number of zzso in the zzso The performance of the original and Fast zzso zzso was compared using protein structures from a standard zzso zzso test zzso For nominal zzso of each algorithm, top-ranked Fast zzso predictions overlapped the true binding site zzso of the time, compared to zzso of the time for original zzso In addition, zzso recall statistics zzso of zzso zzso that are among predicted zzso were slightly better for Fast zzso On the other hand, zzso precision statistics zzso of predicted zzso that are among zzso zzso were slightly better using original zzso Overall, the performance of Fast zzso in predicting zzso zzso was comparable to that of the original zzso zzso 
+
+Compared to the original zzso algorithm, the decreased run time with comparable performance makes Fast zzso zzso for zzso on a web server and for zzso zzso 
+

@@ -1,0 +1,7 @@
+
+Gene expression time series array data has become a useful resource for investigating gene functions and the interactions between zzso However, the gene expression zzso are always mixed with noise, and many zzso regulatory relationships have been omitted in many linear zzso Because of those practical limitations, zzso of gene regulatory model from expression data is still far from zzso 
+
+In this study, we present a zzso zzso approach, Slice zzso Model zzso to identify gene regulatory network from time series gene expression array zzso In order to estimate performances of stability and reliability of our model, an artificial gene network is tested by the traditional linear model and zzso zzso can handle the multiple zzso time lags and more accurately reconstruct the gene zzso Using zzso a 17 zzso gene expression data in zzso cell cycle is retrieved to reconstruct the regulatory zzso Under the reliability zzso zzso zzso zzso 18 relationships between genes are identified and zzso regulatory network is zzso zzso from previous studies demonstrate that most of gene relationships identified by zzso are zzso 
+
+With the help of pattern recognition and similarity analysis, the effect of noise has been limited in zzso zzso At the same time, genetic zzso is introduced to zzso parameters of gene network model, which is performed based on a statistic method in our zzso The results of experiments demonstrate that the gene regulatory model reconstructed using zzso is more stable and reliable than those models coming from traditional linear zzso 
+

@@ -1,0 +1,7 @@
+
+zzso of gene expression is fundamental to the operation of a zzso zzso the structure and dynamics of a gene regulatory network zzso is of great interest and represents a considerably challenging zzso zzso The zzso zzso problem is complicated by the fact that the number of gene expression zzso is typically extremely small when compared with the dimension of the biological zzso Further, because the gene regulation process is zzso complex, commonly used zzso models can provide too simple description of the underlying phenomena and, thus, can be zzso In this article, we propose a novel methodology for the zzso of zzso from zzso and zzso gene expression zzso The presented framework is based on the use of zzso analysis with ordinary differential equations zzso and zzso zzso process modeling for the zzso zzso 
+
+The performance of the proposed structure zzso method is evaluated using a recently published in zzso zzso By comparing the obtained results with those of existing zzso and zzso zzso methods we demonstrate that the proposed method provides more accurate network structure zzso The zzso capabilities of the method are examined by splitting the zzso into a training set and a test set and by predicting the test set based on the training zzso 
+
+A zzso zzso of the method will be available from zzso upon zzso 
+

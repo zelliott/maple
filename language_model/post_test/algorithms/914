@@ -1,0 +1,3 @@
+
+This paper addresses sleep staging as a medical decision zzso It develops a model for automated sleep staging by combining signal information, human zzso knowledge in the form of rules, and a mathematical zzso The zzso events relevant for sleep staging are detected in real time by an existing front-end system and are summarized per zzso These token data are zzso zzso and constitute the input alphabet to a finite state machine zzso The processed token events are used as partial belief in a set of zzso rules, which zzso human knowledge about the occurrence of a particular sleep zzso The zzso theory of evidence weighs the partial beliefs and attributes the minutes sleep stage to the machine state transition that displays the highest final zzso zzso are briefly zzso 
+

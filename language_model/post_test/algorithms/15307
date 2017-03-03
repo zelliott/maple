@@ -1,0 +1,9 @@
+
+Linear least squares zzso are widely used in diffusion zzso for the zzso of diffusion zzso Although adding proper weights is necessary to increase the precision of these linear zzso there is no consensus on how to practically define zzso In this study, the impact of the commonly used weighting strategies on the accuracy and precision of linear diffusion zzso zzso is evaluated and compared with the zzso least squares zzso zzso 
+
+zzso and real data experiments were done to study the performance of the weighted linear least squares zzso with weights defined by zzso the squares of the respective noisy zzso zzso and zzso the squares of the predicted signals, which are reconstructed from a previous estimate of the diffusion model zzso 
+
+The negative effect of weighting strategy zzso on the accuracy of the zzso was surprisingly zzso zzso weighting strategies yield better performance and, in some cases, even outperformed the zzso least squares zzso 
+
+If proper weighting strategies are applied, the weighted linear least squares approach shows high performance characteristics in terms of zzso and may even be preferred over zzso zzso zzso 
+

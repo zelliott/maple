@@ -1,0 +1,9 @@
+
+To enrich and develop more convenient and effective boundary treatment method in zzso simulation of restricted diffusion nuclear magnetic zzso 
+
+The conventional approach used in treating boundary behaviors of restricted diffusion is the elastic boundary zzso Because random walk is not dynamic process, other boundary treatments such as zzso reflection are acceptable and probably simplify the programming of diffusion nuclear magnetic resonance zzso The present study simulated the pulse zzso spin echo nuclear magnetic resonance by employing three boundary models, zzso the elastic boundary reflection, the zzso boundary reflection, and the zzso random zzso Their effects on precision, zzso and calculation efficiency were investigated, as well as the effects of zzso boundary reflection zzso drawn from a zzso distribution in zzso zzso 
+
+The results show no obvious difference in zzso and zzso for different methods when the relative zzso is sufficiently zzso Compared with the traditional approach, the required zzso time of the latter two was reduced in some zzso 
+
+zzso treatments based on zzso reflection are a feasible choice in zzso simulation of nuclear magnetic zzso and in comparison with the conventional approach, it not only renders programming more convenience but also possibly lead to higher calculating zzso 
+

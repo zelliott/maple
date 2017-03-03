@@ -1,0 +1,9 @@
+
+This paper investigates a version of zzso neural network with the zzso through time zzso zzso for predicting liver transplant graft failure based on a time series sequence of clinical zzso The objective is to improve upon the current approaches to liver transplant outcome prediction by developing a more complete model that takes into account not only the zzso risk assessment, but also the early zzso zzso 
+
+A zzso zzso procedure was used to measure the performance of the zzso The data set was divided into a learning set and a test set by maintaining the same proportion of positive and negative cases in the original zzso The effects of network complexity on zzso were investigated by constructing two types of networks with different numbers of hidden zzso For each type of network, 10 individual networks were trained on the learning set and used to form a zzso The performance of the networks was measured zzso with respect to both the entire training and test zzso 
+
+The networks were capable of learning the time series problem and achieved good performances of zzso correct zzso on the learning set and zzso on the test zzso The prediction accuracy increases as more information becomes progressively available after the operation with the daily improvement of zzso on the learning set and zzso on the test zzso 
+
+zzso neural networks trained with zzso zzso are capable of learning to represent zzso behavior of the time series prediction zzso This model is an improvement upon the current model that does not take into account zzso zzso zzso 
+

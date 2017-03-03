@@ -1,0 +1,9 @@
+
+We present a novel method to zzso zzso aligned regions in fixed multiple sequence alignments by zzso zzso and Cost Scores zzso zzso The method works via zzso of sequence identity or cost scores zzso by means of Principal zzso Analysis zzso After identification of ambiguous regions, the method zzso zzso distances as sequence identities or cost scores, zzso the resulting distance zzso by means of zzso and encodes the principal coordinates as ordered zzso Three biological and 100 simulated zzso were used to assess the performance of the new zzso 
+
+Including ambiguous regions coded by means of zzso increased zzso zzso resolution, and zzso support in real biological and simulated zzso compared to the alternative of excluding such regions from the analysis a zzso In terms of zzso zzso performs equal to or better than previously available methods of ambiguous region coding zzso zzso with the advantage of a practically unlimited alignment size and increased zzso speed and the possibility of zzso scores to be analyzed together with DNA data in a zzso maximum likelihood zzso 
+
+zzso of zzso over step zzso ambiguous region coding with zzso include a practically unlimited number of zzso and seamless integration of zzso codes into zzso zzso as well as the increased speed of zzso zzso zzso to zzso and zzso methods, zzso maintains the advantage of zzso sequence alignment to derive zzso and the method is flexible with respect to the calculation of distance zzso In addition to distance and maximum zzso zzso codes can be analyzed in a zzso or maximum likelihood zzso zzso zzso zzso or higher that was developed for this zzso allows up to zzso ordered or zzso zzso A zzso zzso or zzso model can be applied to zzso the zzso codes zzso with zzso performing slightly better than zzso and zzso 
+
+An zzso of the zzso zzso is available from zzso It requires both the statistical software, R zzso and the alignment software zzso zzso 
+

@@ -1,0 +1,7 @@
+
+The identification of zzso interaction zzso represents a costly and time-consuming step in drug discovery and zzso zzso methods capable of predicting reliable zzso play an important role in the zzso Recently, recommendation methods relying on network-based zzso zzso have been zzso However, such approaches implement zzso zzso zzso and do not take into account important features within the zzso zzso 
+
+In this article, we present a new zzso method, called domain zzso zzso which extends a well-established recommendation technique by zzso knowledge including drug and target zzso zzso has been extensively tested using the last version of an zzso validated zzso database obtained from zzso zzso with other recently proposed zzso methods clearly shows that zzso is capable of predicting more reliable zzso 
+
+zzso has been developed in R and it is available, along with all the results on the predictions, through an R package at the following zzso zzso 
+

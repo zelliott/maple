@@ -1,0 +1,9 @@
+
+The authors evaluated performance changes in the detection of masses on zzso zzso and zzso images by zzso diagnosis zzso schemes that had been zzso with databases of current and prior zzso 
+
+The authors selected 260 pairs of matched consecutive zzso Each current image depicted one or two verified zzso All prior images had been interpreted originally as negative or probably zzso A zzso scheme initially detected 261 mass regions and 465 zzso regions on the current images, and 252 corresponding mass regions zzso zzso and zzso zzso regions on prior zzso These regions were divided into two training and two testing zzso The current and prior training databases were used to zzso two zzso schemes with a genetic zzso These schemes were evaluated with two independent testing zzso 
+
+The scheme zzso with current images produced areas under the receiver operating characteristic curve of zzso zzso zzso and zzso zzso zzso when tested with current images and prior images, zzso The scheme zzso with prior images produced areas under the receiver operating characteristic curve of zzso zzso zzso and zzso zzso zzso when tested with current images and prior images, zzso Performance changes for both current and prior testing databases were significant zzso zzso zzso for the two zzso 
+
+zzso schemes trained with current images do not perform zzso in detecting masses depicted on prior zzso To zzso zzso schemes for early zzso it may be important to include in the training database a large fraction of prior images originally reported as negative and later proven to be zzso 
+

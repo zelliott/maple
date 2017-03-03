@@ -1,0 +1,9 @@
+
+To accelerate zzso zzso reconstruction zzso using a zzso image zzso 
+
+zzso beam zzso zzso zzso is designed to overcome the scatter and detector problems of cone beam zzso zzso zzso zzso zzso reconstruction zzso have been shown to mitigate approximate reconstruction artifacts that appear at large cone angles, but clinical zzso is limited by their high zzso zzso In this study, a zzso zzso method on a zzso grid is developed in order to take advantage of the zzso of the zzso zzso The zzso geometry is a natural fit for the circular scanning trajectory employed in zzso CT methods such as zzso and zzso This method was implemented in combination with the simultaneous zzso reconstruction technique zzso Both two- and three-dimensional zzso zzso as well as a patient CT image were zzso to generate the projection sets used for zzso The reconstructed images were compared to the original zzso using a set of three figures of merit zzso 
+
+The zzso zzso on a zzso reconstruction grid was successfully implemented in combination with the zzso reconstruction zzso The zzso results showed that the zzso reconstructions were able to maintain the accuracy of the Cartesian zzso In three dimensions, the zzso method provided better accuracy than the Cartesian zzso At the same time, the zzso method was able to provide a zzso factor of approximately 40 while also reducing the system zzso storage size by 2 orders of zzso 
+
+zzso image reconstruction using a zzso image grid was able to provide a significant improvement in the reconstruction time and a more compact system zzso for storage on the hard drive and in memory while maintaining the image quality provided by the Cartesian zzso on a Cartesian zzso 
+

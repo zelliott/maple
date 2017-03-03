@@ -1,0 +1,9 @@
+
+A statistical projection restoration zzso based on the penalized weighted zzso zzso criterion can substantially improve the image quality of zzso zzso zzso The performance of zzso is largely dependent on the choice of the penalty zzso Previously, the penalty zzso was chosen zzso by trial and zzso In this work, the authors developed an inverse technique to calculate the penalty zzso in zzso for noise suppression of zzso zzso in image guided zzso zzso 
+
+In zzso a daily zzso is acquired for the same patient during a treatment zzso In this work, the authors acquired the zzso with a zzso protocol for the first session and then a lower zzso protocol for the subsequent zzso The zzso projections served as the goal zzso toward, which the zzso projections were to be smoothed by minimizing the zzso objective zzso The penalty zzso was determined through an inverse calculation of the zzso of the objective function incorporating both the high and zzso zzso Then the zzso obtained can be used for zzso to smooth the noise in zzso zzso zzso projections for a zzso 600 and an zzso head zzso as well as for a brain patient, were used to evaluate the performance of the proposed zzso 
+
+The penalty zzso in zzso was obtained for each zzso projection using the proposed zzso The noise in the zzso zzso images reconstructed from the smoothed projections was greatly zzso Image quality in zzso zzso zzso was comparable to its corresponding high-dose zzso 
+
+A technique was proposed to estimate the penalty zzso for zzso zzso It provides an objective and efficient way to obtain the penalty zzso for image restoration zzso that require zzso smoothing zzso 
+

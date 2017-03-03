@@ -1,0 +1,9 @@
+
+The goal of this study is to assess the accuracy of the zzso integral dose calculation model for medium and low-energy zzso sources zzso zzso zzso zzso A simple modification of the basic model, the zzso scattering zzso is proposed that significantly improves its zzso 
+
+Both the classical model and revised zzso zzso were tested against zzso dose zzso derived from zzso Carlo zzso transport zzso calculations for the following zzso a zzso zzso source, zzso and high dose rate zzso sources and the model zzso zzso zzso The zzso model was implemented as a zzso zzso integral over the zzso distribution and included zzso zzso and scattering by the surrounding zzso The zzso zzso zzso were zzso by linear energy zzso zzso parameters of best fit, and curve fits to simulated open-air transmission zzso The revised model consists of using the zzso integral only to calculate the primary dose distribution using contact zzso zzso zzso The dose component due to zzso scattering in the medium is assumed to be zzso distributed and is modeled by zzso zzso dose zzso 
+
+The classical zzso integral produces maximum and zzso average zzso errors ranging from zzso to zzso and 3 to zzso zzso In contrast, the revised model reproduces the zzso dose distribution with maximum and zzso mean errors ranging from 5 to zzso and 1 to zzso zzso 
+
+The classical zzso model fails to accurately describe zzso dose zzso around heavily filtered sources emitting photons with average energies of 28 to 400 zzso The revised zzso model accurately models zzso dose zzso for a wide range of sources, using zzso zzso zzso and scatter ratios that can be measured or calculated without knowledge of the final dose zzso The model is potentially useful as a zzso zzso generator for clinical treatment planning in the low energy zzso 
+

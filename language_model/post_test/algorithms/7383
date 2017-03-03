@@ -1,0 +1,7 @@
+
+Gene regulatory networks zzso zzso is an important zzso problem in which the gene interactions need to be deduced from gene expression data, such as zzso zzso Feature selection methods can be applied to this zzso A feature selection technique is composed by two zzso a search zzso and a criterion zzso Among the search zzso already proposed, there is the exhaustive search where the best feature subset is returned, although its zzso complexity is zzso in almost all zzso The objective of this work is the development of a low cost parallel solution based on zzso zzso for exhaustive search with a viable zzso We use zzso a general purpose parallel programming platform that allows the usage of zzso zzso to solve complex problems in an efficient zzso 
+
+We developed a parallel zzso for zzso zzso based on multiple zzso cards and obtained encouraging zzso zzso of zzso when assuming that each target gene has two zzso zzso Also, experiments using single and multiple zzso were performed, indicating that the zzso grows almost zzso with the number of zzso 
+
+In this work, we present a proof of principle, showing that it is possible to zzso the exhaustive search zzso in zzso with encouraging zzso Although our focus in this paper is on the zzso zzso problem, the exhaustive search technique based on zzso developed here can be applied (with minor zzso to other zzso zzso 
+

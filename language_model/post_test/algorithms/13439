@@ -1,0 +1,9 @@
+
+zzso disease genes from human zzso is an important but challenging task in biomedical zzso zzso learning methods can be applied to discover new disease genes based on the known zzso zzso machine learning methods typically use the known disease genes as the positive training set P and the unknown genes as the negative training set N zzso gene set does not zzso to build zzso to identify new disease genes from the unknown zzso However, such kind of zzso is actually built from a noisy negative set N as there can be unknown disease genes in N zzso As a result, the zzso do not perform as well as they could zzso 
+
+Instead of treating the unknown genes as negative examples in zzso we treat them as an zzso set zzso We design a novel zzso zzso learning zzso zzso zzso learning for disease gene zzso to build a zzso using P and zzso We first partition U into four sets, zzso reliable negative set RN, likely positive set zzso likely negative set zzso and weak negative set zzso The weighted support zzso machines are then used to build a zzso zzso based on the four training sets and positive training set P to identify disease zzso Our experimental results demonstrate that our proposed zzso zzso outperformed the existing methods zzso 
+
+The proposed zzso zzso is able to identify disease genes more accurately by treating the unknown data more appropriately as zzso set U instead of negative set zzso Given that many machine learning problems in biomedical research do involve positive and zzso data instead of negative data, it is possible that the machine learning methods for these problems can be further improved by adopting zzso learning methods, as we have done here for disease gene zzso 
+
+The zzso program and data are available at zzso 
+

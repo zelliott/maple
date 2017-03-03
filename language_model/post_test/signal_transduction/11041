@@ -1,0 +1,7 @@
+
+zzso protein interaction detection methods are strongly affected by false positive and false negative zzso zzso experiments are needed to complement the large-scale methods by zzso previously detected interactions but it is often difficult to decide which proteins to probe as interaction zzso zzso reliable zzso methods assisting this decision process is a pressing need in zzso 
+
+We show that we can use the zzso properties of the protein network to identify and validate interaction zzso We apply a number of machine learning zzso to the protein connectivity information and achieve a surprisingly good overall performance in predicting interacting zzso Using a zzso approach we find average success rates between 20 and zzso for predicting the correct interaction partner of a zzso We demonstrate that the success of these methods is based on the presence of zzso interaction motifs within the zzso 
+
+A reference zzso and a table with candidate interacting partners for each zzso protein are available at zzso 
+

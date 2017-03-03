@@ -1,0 +1,7 @@
+
+The zzso report measures the expressions of tens of thousands of zzso producing a feature zzso that is high in zzso and that contains much irrelevant zzso This zzso degrades zzso zzso Moreover, zzso typically contain few samples for training, leading to the zzso of zzso zzso It is essential, therefore, to find good methods for reducing the size of the feature zzso 
+
+In this article, we propose a method for gene zzso zzso that combines different feature reduction approaches for improving zzso zzso Using a support zzso machine zzso as our zzso we examine an zzso trained using a set of selected zzso an zzso trained using the feature set obtained by Neighborhood zzso zzso feature zzso a set of zzso trained using a set of zzso zzso zzso of different zzso zzso a set of zzso trained using texture zzso extracted from the zzso considering it as an image; and an ensemble that combines the best feature extraction methods listed zzso The positive results reported offer confirmation that combining different features extraction methods greatly enhances system zzso The experiments were performed using several different zzso and our results zzso as both accuracy and area under the receiver operating characteristic zzso zzso show the goodness of the proposed approach with respect to the state of the zzso 
+
+The zzso code of the proposed approach is publicly available at zzso 
+

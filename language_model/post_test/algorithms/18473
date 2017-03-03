@@ -1,0 +1,9 @@
+
+This paper proposes a greedy zzso for learning a mixture of motifs model through likelihood zzso in order to discover common zzso known as zzso from a given collection of related zzso 
+
+The approach zzso adds a new motif component to a mixture model by performing a combined scheme of global and local search for appropriately zzso the component zzso A zzso zzso scheme is also applied initially which leads to the identification of candidate motif models and speeds up the global searching zzso 
+
+The performance of the proposed zzso has been studied in both artificial and real biological zzso In comparison with the well-known zzso approach, the zzso is advantageous since it identifies motifs with significant conservation and produces larger protein zzso 
+
+The proposed greedy zzso constitutes a promising approach for discovering multiple zzso motifs in biological zzso By using an effective incremental mixture modeling strategy, our technique manages to successfully overcome the limitation of the zzso scheme which zzso motif zzso each time a new motif is zzso 
+

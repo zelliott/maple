@@ -1,0 +1,7 @@
+
+zzso of zzso bridges from protein sequences is useful for characterizing structural and functional properties of zzso Several methods based on different machine learning zzso have been applied to solve this problem and public domain prediction services zzso These methods are however still potentially subject to significant improvements both in terms of prediction accuracy and overall architectural zzso 
+
+We introduce new methods for predicting zzso bridges from protein zzso The methods take advantage of two new decomposition kernels for measuring the similarity between protein sequences according to the zzso acid environments around zzso zzso connectivity is predicted in two zzso First, a zzso zzso is trained to predict whether a given protein chain has at least one zzso zzso zzso Second, a zzso zzso zzso by zzso zzso is trained to predict connectivity zzso The two passes can be easily zzso to obtain connectivity prediction from sequence zzso We report an extensive experimental comparison on several data sets that have been previously employed in the literature to assess the accuracy of zzso bonding state and zzso connectivity zzso 
+
+We reach state-of-the-art results on bonding state prediction with a simple method that zzso chains rather than individual zzso The prediction accuracy reached by our connectivity prediction method compares favorably with respect to all but the most complex other zzso On the other hand, our method does not need any model selection or zzso zzso a property that makes it less prone to zzso and prediction accuracy zzso 
+

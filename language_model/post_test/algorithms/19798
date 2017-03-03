@@ -1,0 +1,9 @@
+
+Recent large scale deployments of health information technology have created opportunities for the integration of patient medical records with disparate public health, human service, and educational databases to provide comprehensive information related to health and zzso Data integration techniques, which identify records belonging to the same individual that reside in multiple data sets, are essential to these zzso Several zzso have been proposed in the zzso that are adept in zzso records from two different zzso Our zzso are aimed at zzso multiple (in particular more than zzso zzso zzso 
+
+zzso zzso based solutions are used to integrate multiple (in particular more than zzso zzso zzso distance is used as the basic distance zzso while distance calculation of common input errors is also zzso Several techniques have been applied to improve the zzso in terms of both time and zzso 1) zzso Construction of the zzso zzso that ignores the level above the zzso 2) Ignoring the zzso zzso zzso 3) zzso zzso of the zzso zzso zzso that predicts the distance with the threshold by upper bounds on edit distance; and 4) A zzso blocking phase that limits dynamic zzso within each zzso 
+
+We have zzso validated our zzso on large simulated as well as real zzso zzso and zzso are defined zzso to show the performance of our zzso In addition, we employ a zzso zzso zzso with zzso shows the zzso of our zzso 
+
+In the experiments we conducted, the accuracy we observed exceeded zzso for the simulated data in most zzso zzso and zzso accuracy were achieved for the constant and zzso zzso respectively, in a real zzso of zzso zzso 
+

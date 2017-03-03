@@ -1,0 +1,7 @@
+
+The identification of cell zzso genes through the zzso of zzso zzso in zzso studies is a difficult task due to the presence of internal and external noise in zzso zzso Moreover, the analysis is also complicated by the loss of zzso occurring in cell cycle experiments, which often results in additional background zzso 
+
+To overcome these problems, here we propose the zzso zzso and zzso algorithm, able to characterize the zzso zzso of a gene expression time profile using a zzso cascade zzso The first step identifies a potentially zzso behavior by means of a Support zzso zzso trained with a reliable set of positive and negative zzso The second step selects those genes having peak timing consistency along two cell cycles by means of a zzso zzso technique using zzso basis zzso To prove the effectiveness of our combined approach, we use recently published human zzso cell cycle data and, performing in zzso experiments, we demonstrate that our zzso strategy is able not only to confirm well-known cell zzso zzso but also to predict not yet identified zzso 
+
+All scripts for zzso can be obtained on zzso 
+

@@ -1,0 +1,7 @@
+
+The zzso identification of zzso zzso zzso genes represents one of the most important and challenging problems in zzso zzso zzso methods for zzso gene prediction rely mostly on zzso information, thus limiting their applications to zzso genes with known zzso 
+
+We present a novel de zzso prediction zzso for zzso genes using features derived from the sequences and structures of known zzso genes in comparison to zzso Using these features, we have trained a neural network-based zzso and have applied it to zzso coli and zzso zzso for zzso prediction of zzso Our method has an average prediction sensitivity and specificity of zzso and zzso respectively, for identifying windows with potential for zzso genes in zzso By combining windows of different sizes and using zzso filtering strategies, we predicted zzso candidate zzso and recovered zzso of known zzso in zzso We zzso investigated six novel candidates using Northern zzso analysis and found expression of three zzso one represents a potential new zzso one is associated with stable zzso zzso zzso and one is a case of either a potential zzso or zzso zzso involved in the regulation of cell zzso In general, our approach enables the identification of both zzso and zzso zzso in partially or completely zzso microbial zzso without requiring zzso or structural zzso 
+
+The source code and results are available at zzso 
+

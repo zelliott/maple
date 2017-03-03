@@ -1,0 +1,11 @@
+
+As clinical text mining continues to mature, its potential as an enabling technology for innovations in patient care and clinical research is becoming a zzso A critical part of that process is rigid benchmark testing of natural language processing methods on realistic clinical zzso In this paper, the authors describe the design and performance of three state-of-the-art zzso applications from the National Research Council of Canada on evaluations within the 2010 zzso zzso 
+
+The three systems perform three key steps in clinical information zzso zzso extraction of medical problems, tests, and treatments, from discharge zzso and progress zzso zzso zzso of assertions made on the medical zzso zzso zzso of relations between medical zzso zzso learning systems performed these tasks using zzso bags of features, as derived from both the text itself and from external zzso zzso zzso and zzso 
+
+Performance was measured per zzso using zzso zzso as calculated by comparing system zzso with zzso zzso on a test zzso 
+
+The systems ranked high among all submitted systems in the competition, with the following zzso concept extraction zzso zzso zzso assertion detection zzso zzso zzso relationship detection zzso zzso zzso 
+
+For all tasks, we found that the introduction of a wide range of features was crucial to zzso zzso our choice of machine learning zzso allowed us to be versatile in our feature design, and to introduce a large number of features without zzso and without encountering zzso zzso 
+

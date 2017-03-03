@@ -1,0 +1,7 @@
+
+A common problem in understanding a zzso system is to zzso its correct structure or zzso This zzso consists of all relevant state zzso molecules and their zzso Here we present a method called zzso zzso to zzso this structure in a statistically rigorous and systematic way from prior knowledge and experimental zzso 
+
+zzso zzso starts from a simple model that is unable to explain the experimental data and zzso its zzso by adding new terms that capture the experimental zzso This process is guided by representing the uncertainty in the model zzso through zzso differential equations whose zzso contain information about missing model zzso We first apply this semiautomatic procedure to a zzso zzso This example illustrates that a global sampling of the zzso space is critical for zzso a correct model zzso We also use our method to improve our understanding of zzso transport in zzso This analysis shows that transport dynamics is determined by zzso zzso with two different kinds of zzso zzso zzso can not only be applied to zzso systems, but also to any system that can be described by ordinary differential zzso 
+
+zzso code and examples are available at: zzso 
+

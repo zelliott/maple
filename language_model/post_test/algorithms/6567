@@ -1,0 +1,9 @@
+
+Network zzso zzso are powerful zzso tools for identifying putative zzso interactions among variables from zzso zzso zzso network zzso zzso hold particular promise in that they can capture zzso zzso zzso zzso and other types of relationships among variables across multiple levels of biological zzso However, challenges remain when applying these zzso to limited quantities of experimental data collected from biological zzso Here, we use a simulation approach to make advances in our dynamic zzso network zzso zzso algorithm, especially in the context of limited quantities of biological zzso 
+
+We test a range of scoring metrics and search zzso to find an effective zzso zzso for evaluating our zzso zzso We also identify sampling intervals and levels of data zzso that allow the best recovery of the simulated zzso We develop a novel influence score for zzso that attempts to estimate both the sign zzso or zzso and relative magnitude of interactions among zzso When faced with limited quantities of zzso data, combining our influence score with moderate data zzso reduces a significant portion of false positive interactions in the recovered zzso Together, our advances allow zzso zzso zzso to be more effective in recovering biological networks from zzso collected zzso 
+
+zzso code and simulated data are available upon zzso 
+
+zzso 
+

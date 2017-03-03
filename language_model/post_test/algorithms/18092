@@ -1,0 +1,7 @@
+
+The zzso sequencing process produces not only the sequence of zzso but also associated quality zzso Quality values provide valuable information, but are primarily used only for trimming sequences and generally ignored in subsequent zzso 
+
+This article describes how the scoring schemes of standard alignment zzso can be modified to take into account quality values to produce improved alignments and statistically more accurate zzso A zzso zzso is also zzso and used to zzso a set of zzso zzso zzso alignment is a natural extension of standard alignment methods, and can be implemented with only a small constant factor performance zzso The method can also be applied to related methods including zzso search zzso like zzso and zzso 
+
+zzso 
+

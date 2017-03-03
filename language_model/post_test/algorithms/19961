@@ -1,0 +1,3 @@
+
+This work proposes a solution for the output feedback zzso problem in the case of an uncertain DC zzso zzso The system consists of a zzso zzso by a DC motor and subject to a zzso bounded zzso The control law consists of a zzso zzso controller and an uncertain zzso that allows zzso the effects of the unknown bounded zzso Because the motor zzso state is not available from zzso a zzso zzso observer permits the zzso of this variable in finite zzso This last feature allows applying the zzso zzso The convergence analysis is carried out by means of the zzso zzso zzso obtained from zzso simulations and experiments in a laboratory zzso show the performance of the closed loop zzso 
+

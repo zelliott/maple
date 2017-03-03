@@ -1,0 +1,7 @@
+
+zzso typing schemes based on the sequences of genes zzso surface zzso require databases that provide a uniform, zzso and widely accepted nomenclature of the zzso zzso Due to the differences in typing schemes, imposed by the diversity of genes targeted, creating these databases has typically required the writing of one-off code to link the database to a web zzso Here we describe zzso widely zzso web database software that zzso simultaneous zzso zzso of multiple zzso using either zzso or zzso zzso 
+
+zzso are described by zzso files that are parsed by a zzso CGI zzso Each database can have any number of zzso which may be defined by zzso and/or zzso zzso The software is currently in use on at least five public databases for the typing of zzso zzso zzso zzso and zzso zzso and can be set up to query internal isolate tables or zzso external isolate databases, such as those used for zzso sequence zzso The style of the resulting zzso can be fully configured by zzso zzso and through the use of zzso zzso and zzso files that surround the output of the zzso 
+
+The software provides a rapid means of setting up zzso Internet zzso sequence zzso The flexible zzso options enable typing schemes with differing requirements to be zzso 
+

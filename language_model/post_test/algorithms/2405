@@ -1,0 +1,7 @@
+
+zzso sequencing has made the analysis of new model organisms more zzso Although assembling a new zzso can still be costly and difficult, it is possible to use zzso to sequence zzso In the absence of a known zzso it is necessary to assemble these sequences de zzso taking into account possible alternative zzso and the dynamic range of expression zzso 
+
+We present a software package named zzso designed to zzso assemble zzso reads in the absence of a reference zzso across a broad spectrum of expression values and in presence of alternative zzso It achieves this by using an array of hash zzso a dynamic filtering of noise, a robust resolution of alternative zzso events and the efficient merging of multiple zzso It was tested on human and mouse zzso data and is shown to improve significantly on the zzso and Trinity de zzso zzso zzso 
+
+zzso is freely available under the zzso license at zzso 
+

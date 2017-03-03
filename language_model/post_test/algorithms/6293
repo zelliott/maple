@@ -1,0 +1,7 @@
+
+This paper addresses the problem of discovering zzso factor binding sites in zzso sequence data, which includes regulatory sequences of one or more zzso as well as their zzso in other zzso 
+
+We propose an zzso that zzso two important aspects of a zzso significance - overrepresentation and zzso conservation - into one zzso zzso The zzso allows the input zzso sequences to be related by any zzso zzso zzso It is based on the zzso technique, and scales well with the number of species and the length of input zzso We evaluate the zzso on synthetic data, and also present results for data sets from zzso fly, and zzso 
+
+The results demonstrate that the new approach improves motif discovery by exploiting multiple species zzso 
+

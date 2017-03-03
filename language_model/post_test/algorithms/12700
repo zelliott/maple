@@ -1,0 +1,11 @@
+
+It has been claimed in the literature that pooling DNA samples is efficient in zzso zzso zzso There is, however, no theoretical justification based on calculation of statistical zzso In fact, the limited evidence given so far is based on simulation studies with small numbers of zzso With rapid advance in technology, it is of interest to see if pooling is still efficient when the number of zzso zzso 
+
+Instead of resorting to simulation studies, we make use of zzso statistical theory to perform exact calculation of the efficiency of pooling relative to no pooling in the zzso of zzso zzso As an intermediate step, we use the zzso zzso of the zzso probabilities and derive the zzso zzso zzso of the maximum likelihood zzso of the zzso parameters of the zzso zzso 
+
+Based on our calculations under linkage zzso pooling can suffer huge loss in efficiency relative to no pooling when there are more than three independent zzso and the zzso are not zzso zzso works better for rare zzso In particular, if all the minor zzso zzso are zzso pooling maintains an advantage over no pooling until the number of independent zzso reaches zzso High linkage zzso effectively reduces the number of independent zzso by ruling out certain zzso from zzso Similar calculations of efficiency for the case of no pooling justify the common belief that it is not worthwhile to use molecular methods to resolve the phase ambiguity of individual zzso zzso 
+
+The R codes for the calculation are available at zzso 
+
+zzso 
+

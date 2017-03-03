@@ -1,0 +1,9 @@
+
+zzso a disease simulation zzso zzso to existing clinical data is vital to generate confidence in the zzso zzso zzso zzso involves two challenges: 1) defining a total zzso zzso score for multiple targets if simultaneous fitting is required, and 2) searching for the optimal zzso set that zzso the total zzso score zzso yields the best zzso To address these two prominent challenges, we have applied an engineering approach to zzso a zzso model, the Lung Cancer Policy Model zzso 
+
+First, 11 targets derived from clinical and zzso data were combined into a total zzso score by a zzso approach, accounting for the zzso relative importance of the zzso zzso Second, two automated zzso search zzso simulated zzso zzso and genetic zzso zzso were independently applied to a simultaneous search of 28 natural history parameters to minimize the total zzso zzso Algorithm performance metrics were defined for speed and model zzso 
+
+Both search zzso obtained total zzso scores below 95 within 1000 search zzso Our results show that zzso outperformed zzso in locating a lower zzso After zzso our zzso the predicted natural history of lung cancer was consistent with other mathematical models of lung cancer zzso 
+
+An zzso zzso method was able to simultaneously fit zzso output to multiple zzso targets, with the benefits of fast zzso speed and reduced the need for human input and its potential zzso 
+

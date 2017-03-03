@@ -1,0 +1,9 @@
+
+zzso zzso ultrasound is a powerful imaging zzso with many potential zzso However, its reliance on zzso position sensors, which can be expensive, obtrusive and difficult to zzso is a major zzso zzso zzso zzso ultrasound can be acquired without a position sensor using zzso zzso zzso reconstructions exhibit good fine scale detail but are prone to tracking zzso resulting in large scale geometrical zzso 
+
+We investigate an alternative position zzso the zzso zzso which is relatively unobtrusive but measures orientation zzso We describe a straightforward approach to zzso the zzso and we measure the zzso precision (by repeated zzso and the orientation accuracy zzso independent orientation zzso We introduce zzso that allow the zzso potentially to correct both linear and angular drift in zzso zzso 
+
+The zzso can be zzso to a precision of around 1 degrees zzso Reconstruction accuracy is also around 1 degrees zzso The zzso was able to eliminate angular drift in zzso zzso though it had little impact on linear zzso In comparison, six zzso drift correction was shown to produce excellent zzso 
+
+Gold standard zzso zzso ultrasound acquisition requires the synthesis of zzso techniques, for good fine scale detail, and position sensors, for good large scale geometrical zzso A hybrid system incorporating the zzso offers an attractive compromise between quality and ease of zzso The position sensor is unobtrusive and the system is capable of faithful zzso with the one exception of linear drift in the zzso zzso 
+

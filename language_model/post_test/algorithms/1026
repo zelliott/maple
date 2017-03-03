@@ -1,0 +1,3 @@
+
+A new neural network architecture zzso and the resulting zzso are proposed to find projected clusters for data sets in high zzso zzso The architecture is based on the well known ART developed by zzso and zzso and a major modification zzso output zzso is provided in order to deal with the inherent zzso in the full space of the data points from many zzso zzso This selective output signaling mechanism allows the signal generated in a zzso in the input layer to be transmitted to a zzso in the zzso layer only when the signal is similar to the zzso weight between the two zzso and, zzso zzso focuses on dimensions where information can be zzso zzso examples are zzso simulations on high zzso synthetic data and comparisons with zzso ART module and zzso are also zzso 
+

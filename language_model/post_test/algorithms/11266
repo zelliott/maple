@@ -1,0 +1,9 @@
+
+Online health knowledge resources contain answers to most of the information needs raised by clinicians in the course of zzso However, significant barriers limit the use of these resources for decision-making, especially zzso lack of zzso In this study we assessed the feasibility of automatically generating knowledge zzso for a particular clinical topic composed of relevant sentences extracted from zzso zzso 
+
+The proposed approach combines information retrieval and semantic information extraction techniques to identify relevant sentences from zzso zzso We assessed this approach in two case studies on the treatment alternatives for depression and Alzheimer's zzso 
+
+A total of 515 of zzso zzso sentences retrieved in the two case studies were relevant to the topic of zzso About one-third of the relevant sentences described factual knowledge or a study conclusion that can be used for supporting information needs at the point of zzso 
+
+The high rate of relevant sentences is desirable, given that zzso lack of time is one of the main barriers to using knowledge resources at the point of zzso zzso rank was not significantly associated with zzso possibly due to most sentences being highly zzso zzso located closer to the end of the abstract and sentences with treatment and comparative zzso were likely to be conclusive zzso Our proposed technical approach to helping clinicians meet their information needs is zzso The approach can be extended for other knowledge resources and information need zzso 
+

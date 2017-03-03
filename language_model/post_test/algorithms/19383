@@ -1,0 +1,3 @@
+
+This paper presents the pruning and zzso zzso to the support zzso learning for sample zzso and function zzso When constructing zzso network by support zzso learning we occasionally obtain redundant support zzso which do not significantly affect the final zzso and function approximation zzso The pruning zzso primarily based on the sensitivity measure and the penalty zzso The kernel function parameters and the position of each support zzso are updated in order to have minimal increase in error, and this makes the structure of zzso network more zzso We illustrate this approach with synthetic data simulation and face detection problem in order to demonstrate the pruning zzso 
+

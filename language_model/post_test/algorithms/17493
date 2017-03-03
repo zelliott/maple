@@ -1,0 +1,3 @@
+
+This paper presents a new efficient zzso for mining frequent closed zzso It zzso the closed set of frequent zzso by using a novel compound frequent zzso tree that zzso fast growth and efficient pruning of search zzso It also employs a hybrid approach that adapts search strategies, representations of projected transaction subsets, and projecting methods to the characteristics of the zzso zzso local zzso global zzso zzso and fast hashing methods are detailed in this zzso The principle that balances the overhead of search space growth and pruning is also zzso zzso experimental evaluations on real world and artificial zzso showed that our zzso zzso zzso by a factor of five and is one to three orders of magnitude more efficient than zzso and zzso 
+

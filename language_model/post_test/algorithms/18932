@@ -1,0 +1,3 @@
+
+With the rapid zzso of genetic data for a multitude of different species, the availability of intuitive comparative zzso tools becomes an important requirement for the research zzso Here we describe a zzso comparative viewer for mapping data, including zzso physical and zzso zzso that is part of the zzso zzso zzso but that can also be installed and adapted for other zzso In addition to viewing and comparing different maps stored in the zzso database, the viewer allows users to upload their own maps and compare them to other maps in the zzso The viewer is implemented in object oriented zzso with a simple zzso interface to write data adapters for other zzso database zzso and flat file zzso 
+

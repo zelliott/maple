@@ -1,0 +1,3 @@
+
+We present a method for repairing zzso errors on solid models in the form of small surface handles, which often arise from surface reconstruction zzso We zzso a skeleton representation that offers a new mechanism for identifying and measuring zzso Our method presents two unique advantages over previous zzso First, handle removal is guaranteed not to introduce invalid geometry or additional zzso Second, by using an zzso grid structure, our method is capable of processing huge models efficiently at high zzso 
+

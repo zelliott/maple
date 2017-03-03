@@ -1,0 +1,7 @@
+
+In both zzso association studies zzso and zzso analysis, the modest sample size relative to the number of genetic markers presents formidable zzso statistical and zzso challenges for accurately identifying zzso and for building zzso zzso 
+
+We address these objectives via maximum zzso conditional probability modeling zzso coupled with a novel model structure zzso Unlike neural networks and support zzso machines zzso zzso makes explicit and is determined by the interactions that zzso zzso zzso Our method identifies both a marker subset and the multiple zzso interactions between these zzso Additional key aspects are: zzso evaluation of a select subset of up to zzso interactions while retaining relatively low zzso zzso flexible single zzso zzso zzso coding zzso zzso within each zzso zzso no mathematical interaction form zzso zzso model structure and order selection based on the zzso Information zzso which fairly compares interactions at different orders and automatically sets the zzso significance zzso zzso zzso directly yields a zzso zzso zzso was compared with a panel of methods on zzso with up to 1000 zzso and up to eight embedded zzso function zzso zzso zzso including a zzso involving less than 20 zzso zzso achieved improved sensitivity and specificity for detecting both zzso markers and zzso compared with previous zzso 
+
+zzso 
+

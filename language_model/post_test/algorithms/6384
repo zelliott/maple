@@ -1,0 +1,3 @@
+
+In this paper, an automatic method for registering zzso retinal images is zzso The method consists of three steps: the vessel zzso detection and extraction of zzso points only in the reference image, the automatic correspondence of zzso points in the two images using a novel zzso of the self organizing maps and the extraction of the parameters of the zzso transform using the previously obtained zzso The proposed registration zzso was tested on 24 zzso retinal pairs and the obtained results show an advantageous performance in terms of accuracy with respect to the manual zzso 
+

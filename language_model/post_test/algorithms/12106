@@ -1,0 +1,7 @@
+
+zzso zzso gene expression data is a powerful tool for zzso zzso relationships among zzso Many different zzso techniques have been successfully applied and the results are zzso However, substantial fluctuation contained in zzso data, lack of knowledge on the number of clusters and complex regulatory mechanisms underlying biological systems make the zzso problems tremendously zzso 
+
+We devised an improved zzso zzso approach to cluster zzso gene expression zzso zzso assignment is carried out by an zzso weighted Chinese restaurant seating scheme such that the optimal number of clusters can be determined simultaneously with cluster zzso The zzso updating technique was applied to improve the efficiency of the Gibbs zzso An additional step is added during zzso to allow genes that display complex correlation relationships such as zzso and/or zzso to be clustered zzso Analysis done on a real zzso showed that as much as zzso of significant genes clustered in the same group display complex relationships with the consensus pattern of the zzso Other notable features including automatic handling of missing data, quantitative measures of cluster strength and assignment zzso zzso and real zzso gene expression zzso were analyzed to demonstrate its zzso 
+
+A computer program named Chinese restaurant cluster zzso has been developed based on this zzso The program can be downloaded at zzso 
+

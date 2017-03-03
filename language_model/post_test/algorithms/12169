@@ -1,0 +1,7 @@
+
+zzso gene regulatory networks has become one of the central research problems in zzso More than thirty zzso have been proposed to identify DNA regulatory sites during the past thirty zzso However, the prediction accuracy of these zzso is still quite zzso Ensemble zzso have emerged as an effective strategy in zzso for improving the prediction accuracy by exploiting the zzso prediction capability of multiple zzso 
+
+We proposed a novel zzso ensemble zzso named zzso for de zzso motif discovery by combining multiple predictions from multiple runs of one or more base component zzso The ensemble approach is applied to the motif discovery problem for the first zzso The zzso is tested on a benchmark zzso generated from zzso coli zzso The zzso zzso has achieved zzso improvement in terms of the zzso level prediction accuracy over the best zzso component zzso The advantage of the zzso zzso is more significant for shorter input zzso but most importantly, it always zzso or at least stays at the same performance level of the zzso component zzso even for longer zzso 
+
+We proposed an ensemble approach for the motif discovery problem by taking advantage of the availability of a large number of motif discovery zzso We have shown that the ensemble approach is an effective strategy for improving both sensitivity and zzso thus the accuracy of the zzso The advantage of the zzso zzso is its flexibility in the sense that a new powerful zzso can be easily added to the zzso 
+

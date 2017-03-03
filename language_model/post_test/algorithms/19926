@@ -1,0 +1,7 @@
+
+zzso gene zzso using real-time reverse zzso zzso chain reaction zzso technology is a mainstay of molecular zzso Technologies now exist to measure the abundance of many transcripts in zzso The selection of the optimal reference gene for the zzso of this data is a recurring problem, and several zzso have been developed in order to solve zzso So far nothing in R exists to unite these methods, together with other functions to read in and zzso the data using the chosen reference zzso 
+
+We have developed two zzso packages, zzso and zzso intended for a user with some experience with zzso data analysis using zzso who wishes to use R to zzso zzso zzso We illustrate their potential use in a zzso zzso a generic zzso experiment, and apply this to a real zzso zzso are available from zzso zzso 
+
+These packages increase the zzso of zzso analysis tools available to the R user and allow them to zzso other things) read their data into zzso hold it in an zzso compatible R object, choose appropriate reference zzso zzso the data and look for differential expression between zzso 
+

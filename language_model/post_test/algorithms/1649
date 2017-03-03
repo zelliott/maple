@@ -1,0 +1,11 @@
+
+Low coverage sequencing provides an economic strategy for whole zzso zzso When sequencing a set of individuals, zzso calling can be challenging due to low sequencing zzso zzso zzso zzso based refinement of zzso calling is essential to improve the zzso Current zzso methods use read counts or zzso zzso at individual potential zzso sites zzso zzso that span multiple zzso zzso zzso can provide additional zzso information overlooked by current zzso 
+
+In this article, we introduce a new Hidden zzso Model zzso method that can take into account jumping reads information across adjacent zzso and implement it in the zzso zzso Our method extends the zzso in zzso and explicitly models jumping reads information as zzso probabilities conditional on the states of adjacent zzso Our simulation results show that, compared to zzso zzso reduces the zzso error rate by zzso from zzso to zzso The results from the 1000 zzso Project show that zzso reduces the zzso error rate by 12 and zzso from zzso and zzso to zzso and zzso for individuals with European and African zzso zzso We expect our program can improve zzso qualities of the large number of ongoing and planned whole zzso sequencing zzso 
+
+zzso zzso 
+
+The software package zzso and its manual can be found and downloaded at zzso 
+
+zzso data are available at zzso zzso 
+

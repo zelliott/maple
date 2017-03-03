@@ -1,0 +1,7 @@
+
+zzso biological analyses produce huge amounts of zzso As a consequence, automation in the data analysis process is zzso Sample screening problems in zzso zzso protein structure analysis are the typical zzso zzso screening by protein zzso zzso single quantum zzso zzso zzso must be done zzso by a human zzso One popular solution for this problem is data zzso zzso learning methods can automatically extract rules and achieve high accuracy in prediction when a good quality training zzso is zzso However, they tend to be a black box and the learned machines suffer the risk of zzso to the zzso 
+
+We propose a model which evaluates zzso zzso for feature zzso The model zzso similarity between the measured chemical shifts and those of a random zzso peak zzso We applied our feature construction method for the machine learning discrimination of folded protein zzso zzso from unfolded ones, and compared our zzso features with those of conventional zzso features and image recognition zzso The results revealed that our method has sufficient discrimination power and less zzso on training data, as compared to the other zzso In addition, our method succeeded reduction of input data complexity towards further zzso 
+
+zzso data are available at zzso zzso 
+

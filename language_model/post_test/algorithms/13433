@@ -1,0 +1,7 @@
+
+The abundance of biomedical literature has attracted significant interest in novel methods to automatically extract biomedical relations from the zzso Until recently, most research was focused on zzso zzso relations such as zzso interactions and zzso zzso However, these zzso relations cannot fully represent the original biomedical zzso zzso there is a need for methods that can extract zzso and complex relations known as biomedical zzso 
+
+In this article we propose a novel method to extract biomedical events from zzso Our method consists of two zzso In the first phase, training data are mapped into structured zzso Based on that, templates are used to extract rules zzso In the second phase, extraction methods are developed to process the obtained zzso When evaluated against the zzso event extraction abstract and zzso test zzso zzso 1), we obtain results with zzso of zzso and zzso respectively, which are comparable to the state-of-the-art zzso Furthermore, our system achieves superior performance in terms of zzso zzso 
+
+Our source code is available for academic use at zzso 
+

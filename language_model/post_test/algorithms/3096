@@ -1,0 +1,7 @@
+
+zzso methods are widely used in molecular evolution to estimate the most plausible zzso for a set of zzso zzso zzso determines the minimum number of changes required in a given zzso when a cost is associated to transitions between character zzso Although zzso exist to reduce the zzso in the number of zzso the original zzso takes time zzso in the number of states, making it zzso for large values of zzso 
+
+In this study we introduce an zzso of zzso zzso for the reconstruction of ancestral states when zzso or additive cost zzso are zzso We analyzed its performance for randomly generated zzso zzso and Kimura's zzso models of DNA evolution, and in the reconstruction of zzso zzso and ancestral zzso states of a group of zzso showing that in all cases the execution time is significantly less than with the original zzso 
+
+The zzso here presented provide a fast zzso of zzso zzso for a given zzso zzso where the number of states is large, such as reconstruction of ancestral zzso are particularly adequate for this zzso Since we are reducing the zzso required to calculate the zzso cost of a single tree, our method can be combined with zzso in the number of zzso that aim at finding the most zzso zzso 
+

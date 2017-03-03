@@ -1,0 +1,9 @@
+
+In zzso zzso zzso metal objects in the region of interest introduce data inconsistencies during zzso zzso these data results in an image with star shaped artifacts induced by the metal zzso To enhance image quality, the influence of the metal objects can be reduced by different metal artifact reduction zzso zzso For an adequate evaluation of new zzso approaches a ground truth reference data set is zzso In technical evaluations, where zzso can be measured with and without metal zzso ground truth data can easily be obtained by a second reference data zzso Obviously, this is not possible for clinical zzso Here, an alternative evaluation method is presented without the need of an additionally acquired reference data zzso 
+
+The proposed metric is based on an inherent ground truth for metal artifacts as well as zzso methods comparison, where no reference information in terms of a second acquisition is zzso The method is based on the forward projection of a reconstructed image, which is compared to the actually measured projection zzso 
+
+The new evaluation technique is performed on phantom and on clinical CT data with and without zzso The metric results are then compared with methods using a reference data set as well as an zzso zzso It is shown that the new approach is an adequate zzso technique for artifact strength in reconstructed metal or zzso CT zzso 
+
+The presented method works solely on the original projection data itself, which yields some advantages compared to distance measures in image domain using two data zzso zzso this, no parameters have to be manually zzso The new metric is a useful evaluation alternative when no reference data are zzso 
+

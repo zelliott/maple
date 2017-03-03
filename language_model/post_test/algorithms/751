@@ -1,0 +1,7 @@
+
+Image analysis is the first crucial step to obtain reliable results from zzso zzso First, areas in the image belonging to single spots have to be zzso Then, those target areas have to be zzso into foreground and zzso Finally, two zzso values for the zzso have to be zzso These goals have been tackled either by spot shape methods or intensity zzso methods, but it would be desirable to have hybrid zzso which combine the advantages of both zzso 
+
+A new robust and zzso zzso type method is zzso zzso which has been successfully applied for detecting and zzso zzso zzso This paper demonstrates how the spot shape can be effectively integrated in this zzso Based on the zzso results, a zzso mask is zzso It estimates the expected spot shape and is used to filter the data, improving the results of the cluster zzso The quality measure zzso is defined and evaluated on a real data zzso The improved zzso method is compared with the established Spot software on a data set with zzso 
+
+The new method presents a successful hybrid zzso image analysis zzso It incorporates both shape and zzso features and is specifically adapted to deal with typical zzso image zzso As a consequence of the filtering step zzso are divided into three groups, namely zzso background and zzso This allows a separate treatment of artifacts and their elimination from the further zzso 
+

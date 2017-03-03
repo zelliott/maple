@@ -1,0 +1,3 @@
+
+This paper presents an zzso control approach for robotic movement therapy that learns a zzso model of patient zzso Unlike previous work, this approach uses an zzso zzso model that depends on both the position and direction of the desired motion in the zzso zzso This method learns a patient impairment model that accounts for movement specific disability in zzso output (such as zzso zzso extension and slow zzso dynamic zzso Combined with zzso force zzso this approach may promote further patient engagement and zzso Using the robotic therapy device, zzso zzso zzso zzso Exercise zzso several experiments are presented to demonstrate the ability of the zzso control to learn zzso zzso 
+

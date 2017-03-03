@@ -1,0 +1,3 @@
+
+A new general zzso for zzso of potential functions for protein folding is zzso It is based upon zzso zzso of the zzso stability of native folds of a training set of proteins with known zzso The zzso update rule contains two zzso averages which are estimated by zzso zzso zzso zzso We test the learning zzso on a zzso zzso force field with a zzso angle zzso and a zzso zzso In a test with 24 peptides of known structure, none folded correctly with the initial potential functions, but two-thirds came within 3 A to their native fold after zzso the potential zzso 
+

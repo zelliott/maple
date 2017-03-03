@@ -1,0 +1,9 @@
+
+The popularity of continuous subcutaneous insulin infusion zzso or insulin pump therapy, as a way to deliver insulin more zzso and achieve better zzso control in diabetes patients has zzso Despite the substantiated therapeutic advantages of using zzso its use has also been associated with an increased risk of technical malfunctioning of the device, which leads to an increased risk of acute zzso zzso such as diabetic zzso Current insulin pumps already incorporate systems to detect some types of faults, such as zzso in the infusion set, but are not able to detect other types of fault such as the zzso or leakage of the infusion zzso 
+
+In this article, we propose utilizing a validated robust zzso fault detection technique, based on zzso analysis, for detecting zzso of the insulin infusion zzso For this purpose, a previously validated zzso model of zzso regulation in type 1 diabetes zzso zzso and a continuous zzso monitoring device were zzso As a first step to assess the performance of the presented fault detection system, a Food and Drug zzso zzso simulator was zzso 
+
+Of the 100 in zzso tests (10 scenarios on 10 zzso only two false zzso and one false positive zzso All faults were detected before plasma zzso concentration reached 300 zzso with a mean plasma zzso detection value of zzso zzso and a mean detection time of 200 zzso 
+
+zzso zzso fault detection has been proven (in zzso to be an effective tool for detecting zzso faults in zzso zzso zzso Proper zzso of the uncertainty associated with the employed model has been observed to be crucial for the good performance of the proposed zzso 
+

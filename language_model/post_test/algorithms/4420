@@ -1,0 +1,7 @@
+
+zzso alignment methods offer the possibility of measuring distant evolutionary relationships between proteins that are not visible by zzso zzso However, the question of how structural differences and similarities ought to be zzso in this regard remains zzso In this study we construct a training set of zzso zzso and zzso zzso from which we develop a scoring function that can reliably identify zzso with the same zzso zzso and zzso fold zzso The score is implemented in the zzso structure alignment package, for which the source code and a web service are freely available from the zzso zzso zzso 
+
+The new zzso score shows increased selectivity and sensitivity compared with values reported for several popular programs using the same test set of zzso structure pairs, yielding an area of zzso under the receiver operating characteristic zzso zzso In addition, weak sequence zzso between similar zzso are revealed that could not be detected by zzso sequence zzso Also, a subset of domain pairs is identified that exhibit high zzso even though their zzso and zzso zzso zzso Finally, we show that the ranking of alignment programs based solely on geometric measures depends on the choice of the quality zzso 
+
+zzso shows high selectivity and sensitivity with regard to domain zzso an important step in defining zzso related protein sequence zzso Moreover, the CPU cost per alignment is competitive with the fastest programs, making zzso a practical option for large-scale structure zzso zzso 
+

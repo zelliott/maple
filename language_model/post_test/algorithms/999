@@ -1,0 +1,3 @@
+
+For acquisition of the gene chip information, how to correctly locate the probe dots in the zzso scanning image is the base of the chip information zzso Here we present a new approach for locating the probe dots in the gene chip zzso First, a zzso function, which is good at detection of circle area with radius given in advance, is used for calculating the zzso map in which the center of circle sample area of the gene chip image is disclosed zzso Then, a method to locate the probe dots center is given based on the zzso map and the zzso space zzso of the probe zzso The experiments show that the new approach correctly locates the probe dots while against noise affection zzso 
+

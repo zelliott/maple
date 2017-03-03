@@ -1,0 +1,3 @@
+
+This paper describes a new model for human visual zzso that enables the recovery of image features that explain performance on different visual zzso zzso Unlike some common methods, this zzso does not explain performance with a single linear zzso operating on raw image zzso Instead, it models zzso as the result of combining the output of multiple feature zzso This approach extracts more information about human visual zzso than has been previously possible with other methods and provides a foundation for further zzso 
+

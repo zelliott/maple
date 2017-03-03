@@ -1,0 +1,7 @@
+
+zzso network zzso methods based on sets of differential equations generally require a great deal of time, as the equations must be solved many zzso To reduce the zzso cost, researchers have proposed other methods for zzso genetic networks by solving sets of differential equations only a few times, or even without solving them at zzso When we try to obtain reasonable network models using these methods, however, we must estimate the time derivatives of the gene expression levels with great zzso In this study, we propose a new method to overcome the drawbacks of zzso methods based on sets of differential zzso 
+
+Our method zzso genetic networks by obtaining zzso capable of predicting the signs of the derivatives of the gene expression zzso For this purpose, we defined a genetic network zzso problem as a series of discrimination tasks, then solved the defined series of discrimination tasks with a linear programming zzso Our experimental results demonstrated that the proposed method is capable of correctly zzso genetic networks, and doing so more than 500 times faster than the other zzso methods based on sets of differential zzso Next, we applied our method to actual expression data of the bacterial zzso DNA repair zzso And finally, we demonstrated that our approach relates to the zzso method based on the zzso zzso Though our method provides no zzso of the kinetic zzso it should be useful for researchers interested only in the network structure of a target zzso 
+
+zzso data are available at zzso zzso 
+

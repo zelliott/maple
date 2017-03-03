@@ -1,0 +1,7 @@
+
+Researchers in systems biology use network zzso to zzso the results of their zzso Such networks often include unconnected zzso which popular network alignment zzso place arbitrarily with respect to the rest of the zzso This can lead to zzso due to the proximity of otherwise unrelated zzso 
+
+We propose a new network layout zzso technique called zzso which can incorporate additional information on relations between unconnected network zzso It uses a zzso approach by first arranging the zzso within each of the components and then placing the components so that their proximity in the network zzso to their zzso In the experimental study with the leukemia gene networks we demonstrate that zzso can obtain network zzso which are more zzso and hold additional information that could not be exposed using classical network layout zzso zzso 
+
+Network zzso relies on zzso techniques for proper placement of objects under zzso These zzso need to be fast so that they can be incorporated in responsive zzso required by the zzso data analysis zzso Our layout zzso technique zzso meets these requirements and specifically addresses the zzso of fragmented networks, for which standard zzso do not consider similarities between unconnected zzso The experiments confirmed the claims on speed and accuracy of the proposed zzso 
+

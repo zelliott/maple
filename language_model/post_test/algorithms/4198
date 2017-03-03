@@ -1,0 +1,3 @@
+
+This paper deals with the problem of forbidden states in discrete event systems based on zzso net zzso So, a method is presented to prevent the system from entering these states by constructing a small number of generalized mutual exclusion zzso This goal is achieved by solving three types of zzso Linear zzso zzso The problems are designed to verify the constraints that some of them are related to zzso authorized states and the others are related to avoiding forbidden zzso The obtained constraints can be enforced on the system using a small number of control zzso Moreover, the number of arcs related to these places is small, and the controller after connecting them is zzso zzso 
+

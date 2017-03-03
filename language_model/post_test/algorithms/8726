@@ -1,0 +1,9 @@
+
+zzso zzso respiratory motion zzso for the liver or other abdominal zzso the surrogate respiratory signal is usually obtained by using special tracking devices from skin or zzso and subsequently applied to zzso a zzso motion model for prediction or zzso However, due to the intrinsic limits and economical costs of these tracking devices, the identification of the respiratory signal directly from zzso ultrasound images is a more attractive zzso 
+
+zzso propose a fast and robust method to extract the respiratory motion of the liver from an zzso zzso ultrasound image zzso Our method employs a zzso to remove zzso noises in the ultrasound images and zzso the zzso zzso to measure the image similarity zzso More importantly, we present a novel zzso search strategy, which makes full use of the zzso dependency of the image zzso This search strategy zzso the search range of the optimal matching, thus greatly reduces the search time, and makes the matching process more robust and zzso 
+
+zzso experimental results on four volunteers demonstrate that our method is able to extract the respiratory signal from an image sequence of 256 image frames in 5 zzso The quantitative evaluation using the correlation zzso reveals that the respiratory motion, extracted near the liver boundaries and vessels, is highly consistent with the reference motion tracked by an zzso zzso 
+
+zzso method can use zzso ultrasound to track natural landmarks from the liver as surrogate respiratory signal and hence provide a feasible solution to replace special tracking zzso 
+

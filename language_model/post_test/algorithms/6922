@@ -1,0 +1,3 @@
+
+We propose a zzso map zzso method for laser scanning zzso microscopic zzso biomedical zzso In this method, an image is first segmented into zzso by zzso zzso Then the zzso are merged from top to bottom or from bottom to top, according to a zzso criterion of intensity zzso The merging procedures continue until no region needs to be zzso The advantage of this method is that the objects with wide intensity ranges and different intensity zzso can be segmented zzso In this paper, the region zzso by zzso map is first zzso Next a region merging according to a zzso criterion of intensity zzso is zzso and then the design of a linear intensity zzso zzso criterion is zzso Two examples of image zzso by this method are given at the end of this zzso 
+

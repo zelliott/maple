@@ -1,0 +1,7 @@
+
+zzso zzso aims at zzso diseases into clinically relevant zzso based on molecular zzso Typically, the entities are split into subgroups, which might contain several zzso yielding a zzso model of the zzso Recent years have introduced a plethora of new molecular screening technologies to molecular zzso As a result molecular profiles of patients became complex and the zzso task more zzso 
+
+We present a novel tool for detecting zzso structure in zzso zzso We aim for identifying molecular zzso which are zzso zzso other zzso The final zzso structure is zzso in a directed zzso graph where zzso represent molecular characteristics and a directed edge from a zzso A to a zzso B denotes that almost all cases with characteristic B also display characteristic zzso Naturally, these zzso need to be zzso In the core of our modeling approach lies the problem of calculating good zzso approximations of given directed but not necessarily zzso zzso By good zzso approximation we understand zzso zzso which differ from the reference graph in only a small number of zzso It is known that the problem of finding optimal zzso approximation is zzso Here we develop an efficient zzso for generating good zzso zzso We evaluate the zzso efficiency of the zzso in simulations, and demonstrate its use in the context of a large zzso study on mature aggressive zzso 
+
+The software used in our analysis is freely available from zzso 
+

@@ -1,0 +1,9 @@
+
+To incorporate zzso weight zzso into the zzso zzso maximum likelihood linkage zzso and evaluate the performance of the modified zzso zzso Because zzso data are fragmented across many zzso systems, record linkage is a key component of fully functional health information zzso zzso linkage methods produce more accurate, zzso and robust matching results than zzso approaches, particularly when matching patient records that lack unique zzso zzso the relative frequency of specific data elements can enhance the zzso method, including minimizing the zzso or zzso zzso However, to our knowledge, no zzso weight zzso modification to the zzso method has been implemented and specifically evaluated using real-world clinical zzso 
+
+The authors implemented a zzso weight zzso modification using an information theoretical model, and formally evaluated the effectiveness of this modification by linking zzso records from Indiana statewide newborn screening data to zzso zzso registration messages from the Indiana Network for Patient Care, an operational health information zzso In addition to applying the weight zzso modification to all fields, we examined the effect of selectively zzso common or uncommon zzso zzso 
+
+The sensitivity, zzso and positive zzso value for applying weight zzso to all zzso values were zzso zzso and zzso zzso Compared with zzso zzso the modified zzso zzso demonstrated a zzso increase in specificity with a zzso decrease in zzso 
+
+By eliminating zzso matches, the zzso weight modification can enhance the specificity of the zzso method with minimal decrease in zzso 
+

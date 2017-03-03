@@ -1,0 +1,9 @@
+
+In the present paper a novel zzso framework for modeling tumor induced brain deformation as a zzso prior for zzso image registration is zzso More precisely, we aim at providing a generic building block for zzso image registration that can be used to resolve inherent irregularities in zzso registration problems that naturally arise in serial and zzso brain tumor imaging studies due to the presence (or zzso of zzso 
+
+The model for the description of brain cancer dynamics on a tissue level is based on an initial boundary value problem zzso The zzso follows the accepted assumption that the progression of primary brain tumors on a tissue level is governed by proliferation and migration of zzso cells into surrounding healthy zzso The model of tumor induced brain deformation is zzso as a zzso constrained zzso zzso As a basis of comparison and to demonstrate zzso additional soft constraints zzso are zzso A zzso line search is implemented in conjunction with a limited memory zzso zzso method in order to handle the zzso delicate zzso strategy for zzso volume zzso 
+
+zzso experiments are performed to test the flexible control of the zzso deformation patterns in terms of varying model zzso The results are zzso and zzso related to patterns in patient individual magnetic resonance imaging zzso 
+
+zzso experiments demonstrate the flexible control of the zzso deformation zzso This in turn strongly suggests that the model can be adapted to patient individual imaging patterns of brain zzso zzso and quantitative comparison of the zzso cancer profiles to patterns in medical imaging data of an exemplary patient demonstrates zzso The designed zzso problem is based on zzso tools widely used in zzso image zzso which in turn makes the model generally zzso for integration into zzso image registration zzso 
+

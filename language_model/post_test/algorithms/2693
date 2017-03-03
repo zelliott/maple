@@ -1,0 +1,9 @@
+
+The purpose of this study is to propose a complete methodology for automatically registering three-dimensional zzso zzso and zzso CT scan dental volumes as well as to provide a zzso for zzso and evaluating their zzso zzso 
+
+The proposed methodology was applied to cone beam CT zzso data from 20 patients in order to assess the volume of zzso bone in the zzso zzso In each case, the zzso and zzso data were registered using a zzso zzso zzso The performance of the zzso registration zzso was evaluated by measuring the average distance between the edges of the registered zzso The differences between the registered sets were assessed through zzso zzso zzso The volume of the differences was finally evaluated by defining regions of interest in each slice of the zzso zzso data and by combining all respective slices to model the desired volume of zzso The effectiveness of the zzso was verified by applying it to several reference zzso objects with known zzso 
+
+zzso alignment was achieved as a low average offset of zzso zzso zzso zzso was recorded between the edges of the registered zzso Moreover, the estimated volumes closely matched the volumes of the reference objects used for zzso as the recorded volume differences were less than zzso zzso in all zzso 
+
+The proposed method allows for automatic registration of zzso zzso data sets and the zzso assessment of their differences in particular areas of zzso The proposed approach provides accurate zzso zzso in three dimensions, requiring minimal user zzso 
+

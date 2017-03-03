@@ -1,0 +1,11 @@
+
+The task of ad hoc zzso is to automatically place a large number of text documents into zzso categories that are determined by a zzso The authors examine the use of statistical information retrieval techniques for ad hoc zzso of dictated zzso zzso 
+
+The zzso approach is the automated generation of a zzso zzso based on positive and negative evidence that is extracted from zzso zzso Test documents are sorted into three conceptual zzso membership in a zzso class, exclusion from the zzso class, and zzso Documentation of absent findings through the use of zzso and zzso a hallmark of interpretive test results, is managed by expansion and zzso of these zzso 
+
+zzso performance is evaluated using a single measure, the F measure, which provides a weighted combination of recall and precision of document sorting into true positive and true negative zzso 
+
+Single terms are the most effective text feature in the zzso profile, with some improvement provided by the addition of pairs of zzso terms to the zzso zzso zzso of automated zzso enhancement degrade performance because of zzso Performance is best when the proportions of relevant and irrelevant documents in the training collection are close to zzso Special handling of zzso phrases improves performance when the number of terms in the zzso profile is zzso 
+
+The ad hoc zzso system is a promising approach for the zzso of large collections of medical zzso zzso can distinguish positive evidence from negative evidence when the negative evidence plays an important role in the zzso 
+

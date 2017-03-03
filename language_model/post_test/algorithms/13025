@@ -1,0 +1,7 @@
+
+zzso gene regulatory networks from large-scale expression data is an important problem that received much attention in recent zzso These networks have the potential to gain insights into zzso molecular interactions of biological zzso zzso from a zzso point of view, reliable zzso methods based on zzso data are needed to approach this problem zzso 
+
+In this paper, we introduce a novel gene regulatory network zzso zzso algorithm, called zzso We compare zzso with four well known methods, zzso zzso zzso and RN, conducting in-depth zzso ensemble simulations and demonstrate also for biological expression data from zzso coli that zzso performs consistently better than the best known zzso methods in the zzso In addition, it has also a low zzso zzso Since zzso is based on estimates of mutual information values in conjunction with a zzso step, our zzso investigations demonstrate that our zzso zzso exploits zzso structural information in the data zzso 
+
+For systems biology to succeed in the long run, it is of crucial importance to establish methods that extract large-scale gene networks from zzso data that reflect the underlying zzso interactions among genes or gene zzso Our method can contribute to this endeavor by demonstrating that an zzso zzso with a neat design permits not only a more intuitive and possibly biological interpretation of its working mechanism but can also result in superior zzso 
+

@@ -1,0 +1,7 @@
+
+Most zzso association studies rely on single zzso zzso zzso analyses to identify zzso zzso The increased stringency required for zzso analyses (with zzso significance threshold typically approximately zzso means that many real signals will be zzso Thus it is still highly relevant to develop methods with improved power at low type I zzso zzso methods provide a promising zzso however, they suffer from statistical problems such as abundance of rare zzso and ambiguity in defining zzso block zzso 
+
+We have developed an ancestral zzso zzso zzso association method which addresses many of these zzso It can be applied to zzso or zzso markers typed in zzso zzso or zzso organisms, and also handles missing zzso Our model is free from the assumption of a rigid block structure but recognizes a zzso structure if it exists in the zzso We employ a Hidden zzso Model zzso to cluster the zzso into groups of predicted common ancestral zzso We then test each cluster for association with disease by comparing the numbers of cases and controls with 0, 1 and 2 zzso in the zzso We demonstrate the power of this approach by simulation of zzso status under a range of disease models for 1500 zzso mice originating from eight zzso zzso Our results suggest that zzso has substantially more power than zzso analyses to detect disease association, and is also more powerful than the zzso zzso zzso method zzso 
+
+The software can be downloaded from zzso 
+

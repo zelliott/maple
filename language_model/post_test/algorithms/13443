@@ -1,0 +1,7 @@
+
+An effective zzso zzso for zzso zzso complex prediction is an important first step toward design of zzso and zzso We have recently developed a new class of zzso interaction zzso called zzso as the zzso State zzso and incorporated zzso into the zzso program zzso based on the fast zzso transform correlation zzso Although zzso was the best performer in the latest rounds of the zzso protein zzso experiment, it is much less accurate for zzso zzso zzso pairs than other types of complexes, in spite of incorporating zzso information on the location of the zzso Analysis of zzso zzso complexes has revealed an inherent asymmetry within these zzso Specifically, zzso zzso and zzso zzso highly populate the zzso of the zzso but not the zzso of the zzso 
+
+Since this asymmetry cannot be adequately modeled using a zzso zzso potential, we have removed the usual assumption of zzso zzso statistics were extracted from zzso complexes under the assumption that a particular atom on the zzso is different from the same atom on the zzso zzso The use of the new potential significantly improves the performance of zzso for zzso zzso complexes, even without any sequence information on the location of the zzso We note that the zzso potential captures the effects of the zzso interactions inherent to the complex environment in the zzso zzso zzso 
+
+The method is implemented in the zzso protein zzso server, available at zzso 
+

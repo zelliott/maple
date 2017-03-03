@@ -1,0 +1,7 @@
+
+zzso zzso zzso Analysis zzso is a program to perform zzso correlation analysis for protein multiple sequence alignment in order to identify structurally or functionally important interactions between positions in a protein zzso We implement different statistical methods to detect highly correlated position pairs, zzso acid pairs, individual positions and networks of correlated positions, and zzso multiple sequence weighting and sampling methods to eliminate background correlations caused by zzso and zzso zzso Our program runs relatively fast and is suitable for analyzing alignments containing large number of zzso 
+
+zzso 
+
+The zzso zzso site contains a detailed description of the program, and the results of zzso analysis on zzso alignment and ACT domain zzso 
+

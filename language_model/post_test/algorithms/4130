@@ -1,0 +1,9 @@
+
+In recent years, zzso liver surgery based on zzso ultrasound zzso imaging has become zzso Using an efficient zzso registration method to improve both accuracy and zzso time for the registration of zzso computer zzso liver images with zzso US images are important during surgical zzso Although zzso closest point zzso zzso is widely used in zzso zzso its performance strongly depends on the presence of noise and initial zzso A registration technique based on zzso Kalman filter zzso which has been proposed recently, can used to overcome the noise and zzso on an incremental zzso however, the technique is associated with zzso zzso 
+
+To overcome the limitations of zzso and zzso zzso we proposed an incremental zzso registration method based on the combination of zzso and zzso zzso to update the registration process with the acquired new points from US zzso The registration is based on both the vessels and surface information of the zzso 
+
+The zzso method was examined using zzso simulations and phantom data zzso The results of the phantom data set confirmed that the zzso method zzso the accuracy of zzso by zzso and reduces the running time of zzso by zzso 
+
+The convergence rate, zzso speed, and accuracy of the zzso zzso can be improved using the zzso zzso 
+

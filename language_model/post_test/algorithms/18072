@@ -1,0 +1,7 @@
+
+Comprehensive evaluation of common genetic variations through association of single zzso zzso zzso with complex human diseases on the zzso scale is an active area in human zzso zzso One of the fundamental questions in a zzso association study is to find an optimal subset of zzso with predicting power for disease zzso To find that subset while reducing study burden in terms of time and costs, one can potentially reconcile information zzso from associations between zzso zzso 
+
+We have developed a feature selection method named zzso zzso Feature zzso zzso This method combines supervised learning and statistical measures for the chosen candidate zzso to reconcile the zzso information and, in doing so, improve the zzso performance in association zzso Additionally, we have proposed a Support zzso based zzso Feature zzso zzso scheme in zzso association zzso 
+
+We have proposed using zzso with different statistical learning zzso and zzso for both zzso selection and disease zzso and then applying them to two complex disease data zzso In general, our approaches outperform the well-known feature selection method of Support zzso zzso zzso Feature zzso and logic zzso zzso selection for disease zzso in genetic association zzso Our study further indicates that both genetic and environmental variables should be taken into account when doing disease predictions and zzso for the most complex human diseases that have zzso zzso 
+

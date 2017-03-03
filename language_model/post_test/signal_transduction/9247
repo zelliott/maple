@@ -1,0 +1,7 @@
+
+Network zzso from zzso data has become an important means of current analysis of biological zzso For instance, in cancer research, the functional relationships of cancer related zzso zzso into zzso networks are of central interest for the identification of pathways that influence zzso zzso Cancer cell lines can be used as model systems to study the cellular response to drug treatments in a zzso zzso Based on these kind of data, zzso approaches for the zzso relationships are needed, that allow to generate hypotheses on potential interference points in the zzso 
+
+We present the zzso zzso that zzso our recent approach on network reconstruction from zzso data generated after external zzso of network zzso We extend our approach by two novel zzso a zzso zzso zzso Carlo method for sampling network structures with two edge types zzso and zzso and an extension of a prior model that zzso zzso from a given reference network while incorporating these two types of zzso Further, as alternative prior we include a model that learns zzso networks with the zzso zzso 
+
+The package zzso is freely available on zzso and zzso zzso zzso It allows to zzso perform network zzso from zzso zzso data using two different sampling based network structure search zzso 
+

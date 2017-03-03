@@ -1,0 +1,7 @@
+
+zzso available methods that use zzso to estimate or control the false discovery rate zzso implicitly assume that zzso are continuously distributed and based on zzso zzso zzso it is difficult to reliably estimate the zzso when zzso are discrete or based on zzso zzso 
+
+A simple and robust method to estimate the zzso is zzso The proposed method does not rely on implicit assumptions that tests are zzso or yield continuously distributed zzso The proposed method is proven to be conservative and have desirable zzso zzso In addition, the proposed method was among the best performers across a series of zzso data zzso comparing the performance of five currently available zzso 
+
+Libraries of zzso and R routines to implement the method are freely available from zzso 
+

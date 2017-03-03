@@ -1,0 +1,9 @@
+
+zzso acquisition and maintenance in medical zzso with a large application domain zzso is a difficult zzso To reduce knowledge zzso costs, zzso learning methods can be used to support the domain zzso They are usually not only interested in the accuracy of the learned zzso the zzso and zzso of the learned models is of prime importance as zzso Then, often simple models are more favorable than complex zzso 
+
+We propose diagnostic scores as a promising approach for the representation of simple diagnostic knowledge, and present a method for zzso learning of diagnostic zzso It can be zzso refined by including background zzso We present complexity measures for determining the complexity of the learned zzso 
+
+We give an evaluation of the presented approach using a case base from the fielded system zzso We further discuss that the user can easily balance between accuracy and complexity of the learned knowledge applying the presented zzso 
+
+We argue that zzso learning methods can support the domain specialist efficiently when building zzso knowledge systems from zzso The presented complexity measures allow for an intuitive assessment of the learned zzso 
+

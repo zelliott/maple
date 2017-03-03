@@ -1,0 +1,7 @@
+
+Many problems in biomedical research can be posed as a comparison between related samples zzso zzso disease, zzso of the same disease, zzso data representing the progression of a disease, zzso In the cases in which the distinction has a genetic or zzso basis, next-generation sequencing technologies have become a major tool for obtaining the difference between the zzso A commonly occurring application is the identification of zzso zzso occurring in tumor tissue samples driving a single cell to expand zzso In this case, the progression of the disease can be traced through the trajectory of the frequency of the zzso zzso Thus obtaining precise estimates of the frequency of abnormal zzso at various stages of the disease is paramount to understanding the processes driving zzso Although the procedure is zzso simple, technical difficulties arise due to zzso samples, existence of competing zzso zzso and systematic and zzso errors introduced by the sequencing zzso 
+
+We present a method, zzso Algorithm for zzso zzso Identification zzso to estimate the frequency of zzso in a set of zzso The method employs zzso analysis and uses an zzso procedure to derive empirical zzso The approach allows for the comparison of zzso zzso across several samples, zzso zzso pairs and more complex experimental designs comparing multiple samples in tumor zzso as well as analyzing sequencing data from zzso sequencing zzso 
+
+zzso sequencing data through zzso zzso zzso using empirical zzso methods is a powerful complement to the ever-increasing zzso of the sequencing zzso 
+

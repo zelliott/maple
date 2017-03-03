@@ -1,0 +1,7 @@
+
+The alignment of multiple protein sequences is a fundamental step in the analysis of biological zzso It has traditionally been applied to analyzing protein families for zzso zzso zzso structural properties, and to improve sensitivity in zzso zzso The availability of complete zzso sequences has increased the demands on multiple sequence alignment zzso zzso Current zzso methods suffer from being either too inaccurate or too zzso expensive to be applied effectively in large-scale comparative zzso 
+
+We developed zzso a method employing the zzso zzso algorithm, to improve both the accuracy and speed of multiple sequence zzso We compared the speed and accuracy of zzso to other popular methods using zzso zzso and a new large test zzso zzso was as accurate as the best other methods on small zzso but significantly more accurate when aligning large and zzso related sets of zzso In our zzso zzso was about 10 times faster than zzso and, depending on the alignment size, up to 50 times faster than popular zzso zzso 
+
+zzso is a fast and robust alignment zzso It is especially well suited for the increasingly important task of aligning large numbers of zzso 
+

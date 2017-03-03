@@ -1,0 +1,11 @@
+
+zzso learning systems can be an aid to experts performing systematic reviews zzso by automatically ranking journal articles for zzso This work investigates whether a zzso automated document ranking system for zzso can be improved using a hybrid approach, combining zzso training data with data from other zzso zzso 
+
+A test collection was built using zzso reference files from 24 systematic drug class zzso A support zzso machine learning zzso was evaluated with zzso using seven different zzso of zzso training data in combination with samples from the other 23 zzso This approach was compared to both a baseline system, which used only zzso training data, and to a system using only the zzso data sampled from the remaining zzso 
+
+Mean area under the zzso curve zzso was used as the measure of zzso 
+
+On average, the hybrid system improved mean zzso over the baseline system by zzso when zzso training data were zzso The system performed significantly better than the baseline system at all levels of zzso training zzso In addition, the system performed better than the zzso system at all but the two smallest zzso of topic specific training data, and no worse than the zzso system with these smallest amounts of topic specific training zzso 
+
+zzso literature zzso could be helpful in assisting experts to organize their time when performing systematic zzso Future work will focus on extending the zzso to use additional sources of zzso data, and on embedding the zzso in an interactive system available to systematic zzso during the literature review zzso 
+

@@ -1,0 +1,9 @@
+
+Competing risks zzso in which patients are subject to a number of potential failure events, are a feature of most clinical cancer zzso With competing risks, several modeling approaches are available to evaluate the relationship of zzso to zzso zzso We discuss the use and interpretation of commonly used competing risks zzso zzso 
+
+For competing risks analysis, the influence of zzso can be evaluated in relation to zzso hazard or on the cumulative zzso of the failure zzso We present simulation studies to illustrate how zzso effects differ between these zzso We then show the implications of model choice in an example from a zzso zzso Oncology Group zzso clinical trial for prostate zzso 
+
+The simulation studies illustrate that, depending on the relationship of a zzso to both the failure type of principal interest and the competing failure type, different models can result in substantially different zzso For example, a zzso that has no direct influence on the hazard of a primary event can still be significantly associated with the cumulative probability of that event, if the zzso influences the hazard of a competing zzso This is a logical consequence of a fundamental difference between the model zzso The example from zzso similarly shows differences in the influence of age and tumor grade depending on the zzso and the model type zzso 
+
+Competing risks zzso modeling requires that one considers the specific question of interest and subsequent choice of the best model to address zzso 
+

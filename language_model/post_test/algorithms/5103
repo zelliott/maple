@@ -1,0 +1,7 @@
+
+Biological processes typically involve the interactions of a number of elements zzso zzso acting on each zzso Such processes are often zzso as networks whose zzso are the elements in question and edges zzso relations between them zzso zzso But more often than not, elements actually work zzso or competitively to achieve a zzso Or an element can act on the interaction between two others, as in the case of an zzso controlling a reaction zzso We call zzso these types of interaction and propose ways to identify them from zzso zzso 
+
+We use zzso zzso a measure of the interaction between two signals, to characterize the influence of an zzso on a reaction zzso We extend its traditional zzso to the case of zzso signals in order to capture group zzso and not only element zzso Our method is extensively tested on simulated data and applied to three biological zzso zzso data of the zzso zzso zzso local field potential recordings of two brain areas and a zzso zzso 
+
+Our results demonstrate that complex zzso causality can reveal new types of relation between signals and is particularly suited to biological zzso Our approach raises some fundamental issues of the systems biology approach since finding all complex zzso zzso is an zzso hard zzso 
+

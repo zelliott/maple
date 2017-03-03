@@ -1,0 +1,9 @@
+
+The auditory zzso response zzso is an evoked response obtained from brain electrical activity when an auditory stimulus is applied to the zzso An zzso can determine the threshold level of hearing by applying stimuli at reducing levels of intensity, and can also diagnose various zzso zzso and neurological abnormalities by examining the zzso of the zzso and the zzso of the individual zzso This is a zzso process requiring considerable zzso The aim of this research was to develop software zzso models to assist the zzso with an automated detection of the zzso zzso and also to provide objectivity and consistency in this zzso 
+
+The zzso used in this study consisted of 550 zzso derived from tests using a range of stimulus levels applied to 85 subjects ranging in hearing zzso Each zzso had been classified by a human expert as zzso or zzso Individual software zzso models were generated using time, frequency and zzso zzso zzso employed both artificial neural networks zzso and the zzso decision tree zzso zzso were validated using zzso zzso and by zzso training, validation and test zzso 
+
+The result was a two stage zzso process zzso strong responses were classified to an accuracy of zzso in the first zzso This used a ratio of zzso to zzso power in the time domain, with power measures at zzso 500 and zzso in the frequency zzso In the second stage, zzso from time, frequency and zzso zzso were combined using the zzso method to produce a hybrid model with an accuracy of zzso zzso repeat zzso 
+
+By combining the different approaches a hybrid system has been created that zzso the approach used by an zzso in zzso an zzso zzso zzso did not rely on one particular feature but brought together power and frequency analysis as well as consistency of zzso This provided a system that enhanced zzso to zzso while maintaining zzso zzso 
+

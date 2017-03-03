@@ -1,0 +1,9 @@
+
+Record linkage of patient data originating from various data sources and record linkage for checking uniqueness of patient registration are common tasks for every cancer zzso In Austria, there is no unique person zzso in use in the medical zzso zzso it was necessary and the goal of this work to develop an efficient means of record linkage for use in cancer zzso in zzso 
+
+We adapted the method of zzso record linkage to the situation of cancer zzso in zzso In addition to the customary components of this method, we also took into consideration typing errors commonly occurring in names and dates of zzso The method was implemented in a program written in zzso with zzso zzso for cancer zzso 
+
+zzso our record linkage method to zzso linkages results in zzso zzso identical zzso For these identical pairs, zzso of decisions were performed automatically and zzso zzso For results decided automatically, zzso did not have simultaneous identity of last name, first name and date of zzso For results decided zzso zzso did not have an identical last name, zzso did not have an identical date of birth and zzso did not have simultaneous identity of last name and date of birth and first zzso 
+
+The method implemented in our cancer registry zzso all record linkage problems in Austria with sufficient zzso 
+

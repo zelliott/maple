@@ -1,0 +1,3 @@
+
+In this paper, a novel zzso zzso zzso approach, called Linear Neighborhood zzso is zzso The basic idea is to predict the label of a data point according to its neighbors in a linear zzso This method can be cast into a zzso intrinsic zzso zzso random field zzso Its result zzso to a solution to an approximate zzso zzso equation with zzso boundary zzso Different from existing approaches, our approach provides a novel graph structure construction method by introducing zzso edges instead of zzso edges, and presents an effective scheme to estimate the weights for such zzso zzso To the best of our knowledge, these two contributions are novel for zzso zzso The experimental results on image zzso and zzso zzso demonstrate the effectiveness and efficiency of the proposed zzso 
+

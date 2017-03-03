@@ -1,0 +1,7 @@
+
+In many approaches to the zzso and modeling of regulatory interactions using zzso data, the expression of the gene coding for the zzso factor is considered to be an accurate surrogate for the true activity of the protein it zzso There are many instances where this is inaccurate due to zzso modifications of the zzso factor zzso zzso of the activity of the zzso factor from the expression of its targets has predominantly involved linear models that do not reflect the zzso nature of zzso We extend a recent approach to zzso the zzso factor activity based on zzso zzso zzso of zzso from maximum likelihood to fully zzso zzso and give an example of how the model can be further zzso 
+
+We present results on synthetic and real zzso zzso Additionally, we illustrate how gene and replicate specific delays can be incorporated into the zzso 
+
+We demonstrate that full zzso zzso is appropriate in this application and has several benefits over the maximum likelihood approach, especially when the volume of data is zzso We also show the benefits of using a zzso model over a linear model, particularly in the case of zzso 
+

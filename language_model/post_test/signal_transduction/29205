@@ -1,0 +1,7 @@
+
+In general, gene function prediction can be zzso as a zzso problem based on machine learning zzso Usually, both labeled positive and negative samples are needed to train the zzso For the problem of gene function zzso however, the available information is only about positive zzso In other words, we know which genes have the function of interested, while it is generally unclear which genes do not have the function, zzso the negative zzso If all the genes outside of the target functional family are seen as negative samples, the zzso problem will arise because there are only a relatively small number of genes zzso in each zzso Furthermore, the zzso may be zzso by the false zzso in the zzso generated negative zzso 
+
+In this paper, we present a new technique, namely zzso Genes with Positive zzso zzso for defining negative samples in gene function zzso With the defined negative samples, it is straightforward to predict the functions of unknown zzso In addition, the zzso zzso is able to integrate various kinds of data sources to predict gene functions in a reliable and accurate zzso With the zzso and zzso Support zzso Machines as the core learning algorithm, the zzso zzso shows good performances for function prediction on zzso zzso 
+
+We proposed a new method for defining negative samples in gene function zzso Experimental results on zzso genes show that zzso yields good performances on both training and test zzso In addition, the overlapping between prediction results and GO zzso on unknown genes also demonstrates the effectiveness of the proposed zzso 
+

@@ -1,0 +1,5 @@
+
+zzso the reversal distance and searching for an optimal sequence of zzso to transform a zzso zzso into another are useful zzso tools to zzso real evolutionary zzso Currently, these problems can be solved by at least two available zzso the prominent of which are zzso and zzso However, the number of different optimal sequences is usually huge and taking only the distance and/or one example is often insufficient to do a proper zzso Here, we offer an alternative and present zzso a framework that contains an zzso to give a compact representation of the whole space of solutions for the sorting by zzso zzso 
+
+zzso code implemented in zzso is freely available for download at zzso Documentation with zzso background, technical aspects, download and setup zzso interface description and tutorial are available at zzso 
+

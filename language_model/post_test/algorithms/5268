@@ -1,0 +1,7 @@
+
+The major zzso complex zzso zzso plays a central role in controlling the zzso immune response to zzso zzso class I molecules present peptides derived from zzso proteins to zzso T cells, whereas zzso class II molecules stimulate cellular and zzso immunity through presentation of zzso derived peptides to helper T zzso Identification of which peptides will bind a given zzso zzso is thus of great importance for the understanding of zzso zzso and large efforts have been placed in developing zzso capable of predicting this binding zzso 
+
+Here, we present a novel artificial neural network-based method, zzso that allows for simultaneous identification of the zzso class II binding core and binding zzso zzso is trained using a novel training zzso that allows for correction of bias in the training data due to redundant binding core zzso zzso of information about the zzso zzso the zzso core is shown to significantly improve the prediction zzso The method is evaluated on a large-scale benchmark consisting of six independent data sets covering 14 human zzso class II zzso and is demonstrated to outperform other state-of-the-art zzso class II prediction zzso 
+
+The zzso method is competitive with the state-of-the-art zzso class II zzso binding prediction zzso The method is publicly available at zzso 
+

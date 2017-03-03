@@ -1,0 +1,5 @@
+
+zzso of zzso acid and protein sequences is a fundamental tool of modern zzso A dominant method of such string matching is the zzso approach, in which zzso of short zzso called zzso are used to search for potentially longer matches in a large database of zzso Each such potential match is then checked to see if it extends beyond the zzso To be effective, the zzso approach needs to zzso seeds from virtually every zzso in the database of search zzso Projects such as zzso zzso zzso and large-scale protein matching, however, have such large sequence databases that the resulting list of seeds cannot be stored in zzso on a single zzso This significantly slows the matching zzso 
+
+We present a simple and elegant method in which only a small fraction of seeds, called zzso needs to be zzso Using zzso can speed up zzso zzso by a large factor while missing only a small fraction of the matches found using all zzso 
+

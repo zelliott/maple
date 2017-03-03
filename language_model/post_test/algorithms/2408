@@ -1,0 +1,7 @@
+
+zzso can be naturally classified into families of zzso sequences that derive from a common zzso The comparison of zzso sequences and the analysis of their zzso relationships provide useful information regarding the function and evolution of zzso One important difficulty of zzso methods is to distinguish highly divergent zzso sequences from sequences that only share partial zzso due to evolution by protein domain zzso zzso zzso methods require parameters that have to be set a zzso Given the zzso in the evolution pattern among zzso these parameters cannot be optimal for all gene zzso 
+
+We propose a strategy that aims at zzso sequences zzso over their entire zzso and that takes into account the pattern of substitution specific to each gene zzso zzso are first all compared with each other and clustered into zzso based on zzso similarity criteria, with zzso parameters to zzso zzso zzso are then divided into homogeneous zzso based on the zzso of the similarity zzso Finally, clusters are progressively merged into families, for which we zzso multiple zzso and we use a model selection technique to find the optimal zzso between the number of families and multiple alignment zzso To evaluate this method, called zzso we analyzed simulated sequences and manually curated zzso These tests showed that zzso is the only method robust to both sequence divergence and domain zzso zzso is fast enough to be used on very large zzso 
+
+The Python software zzso is freely available at zzso 
+

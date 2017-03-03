@@ -1,0 +1,7 @@
+
+zzso interaction networks are one of the major zzso data sources available to molecular zzso They provide a comprehensive view of the global interaction structure of an zzso zzso as well as detailed information on specific zzso Here we suggest a physical model of protein interactions that can be used to extract additional information at an intermediate zzso It enables us to identify proteins which share biological interaction zzso and also to identify potentially missing or zzso zzso 
+
+Our new graph model explains observed interactions between proteins by an underlying interaction of complementary binding zzso zzso zzso This leads to a novel zzso zzso to identify zzso zzso within zzso interaction networks where the underlying data are taken from zzso zzso experimental zzso By testing on synthetic data, we demonstrate that under certain zzso zzso the zzso will return correct domain information about each protein in the zzso Tests on data from various model organisms show that the local and global patterns predicted by the model are indeed found in experimental zzso Using functional and protein structure zzso we show that zzso zzso can be identified that zzso to biologically relevant interaction zzso Some of these are novel and we discuss an example involving zzso zzso from the zzso zzso zzso 
+
+The zzso (in zzso zzso is available (see zzso 
+

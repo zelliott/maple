@@ -1,0 +1,7 @@
+
+We investigate methods used to zzso the results of clinical trials with survival outcomes in which some patients switch from their allocated treatment to another trial zzso These included simple methods which are commonly used in medical literature and may be subject to selection bias if patients switching are not typical of the population as a zzso zzso which attempt to adjust the estimated treatment effect, either through adjustment to the hazard ratio or via accelerated failure time models, were also zzso A simulation study was conducted to assess the performance of each method in a number of different zzso 
+
+16 different scenarios were identified which differed by the proportion of patients zzso underlying prognosis of zzso and the size of true treatment zzso 1000 zzso were simulated for each of these and all methods zzso zzso bias was observed in simple methods when the difference in survival between zzso and zzso were zzso A number of methods, particularly the zzso method of zzso and zzso were found to give less biased estimates of the true treatment effect in these zzso 
+
+zzso methods are often not appropriate to deal with treatment zzso Alternative approaches such as the zzso & zzso method to adjust for switching should be zzso 
+

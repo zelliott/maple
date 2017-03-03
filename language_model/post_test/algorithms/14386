@@ -1,0 +1,7 @@
+
+The number and the arrangement of zzso that form a protein are referred to as zzso zzso zzso structure is an important protein attribute that is closely related to its zzso zzso with zzso structure are called zzso zzso zzso proteins are involved in various biological zzso such as zzso signal zzso and zzso zzso Thus, it is highly desirable to develop some zzso methods to automatically zzso the zzso structure of proteins from their zzso 
+
+To explore this problem, we adopted an approach based on the functional domain composition of zzso Every protein was represented by a zzso calculated from the zzso in the zzso zzso The nearest neighbor zzso zzso was used for zzso the zzso structure of proteins from this zzso The zzso zzso test was performed on the zzso protein zzso in which the sequence identity was less than zzso The overall success rate obtained is zzso Additionally, to demonstrate the effectiveness of this method, we predicted the proteins in an independent zzso and achieved an overall success rate of zzso 
+
+Compared with the zzso acid composition method and zzso the results indicate that the domain composition approach may be a more effective and promising zzso method in dealing with this complicated problem in zzso 
+

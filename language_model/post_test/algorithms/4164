@@ -1,0 +1,9 @@
+
+Over time, zzso zzso zzso zzso zzso has become the preferred method for zzso generalized linear mixed models with zzso zzso However, penalized zzso zzso is still used zzso In this work, we systematically evaluated whether matching results from zzso and zzso indicate less bias in estimated zzso zzso and zzso parameters via zzso 
+
+We performed a simulation study in which we varied the size of the data set, probability of the outcome, zzso of the random effect, number of clusters and number of subjects per zzso zzso We estimated bias in the zzso zzso odds ratios and zzso parameters as estimated via zzso and zzso We zzso if similarity of estimated zzso zzso odds ratios and zzso parameters predicted less zzso 
+
+Overall, we found that the absolute percent bias of the odds ratio estimated via zzso or zzso increased as the zzso and zzso odds ratios became more zzso though results varied markedly depending on the characteristics of the zzso 
+
+Given how markedly results varied depending on data set zzso specifying a rule above which indicated biased results proved zzso This work suggests that comparing results from generalized linear mixed models estimated via zzso and zzso is a worthwhile exercise for zzso zzso and zzso components obtained via zzso in situations where zzso is known to give reasonable zzso 
+

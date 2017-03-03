@@ -1,0 +1,9 @@
+
+Many hundreds of drugs have names that either look or sound so much alike that doctors, nurses and zzso can get them confused, zzso the wrong one in errors that can injure or even kill zzso 
+
+We propose to address the problem through the application of two new zzso based on zzso similarity zzso and the other based on phonetic similarity zzso In order to compare the effectiveness of the new methods for identifying zzso drug names with other known similarity measures, we developed a novel evaluation zzso 
+
+We show that the new zzso measure zzso zzso other commonly used measures of similarity on a set containing both look-alike and zzso pairs, and that a new zzso phonetic approach zzso zzso zzso approaches on a test set containing solely zzso zzso However, an approach that combines several different measures achieves the best results on two test zzso 
+
+Our system is currently used as the basis of a system developed for the zzso Food and Drug Administration for detection of zzso drug zzso 
+

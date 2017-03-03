@@ -1,0 +1,3 @@
+
+zzso structure prediction is one major task in zzso biology, and various methods have been proposed for secondary structure zzso In particular, it is a challenge to predict zzso structures since they range over several zzso regions in an zzso acid zzso In this article, we propose dynamic programming zzso for several kinds of zzso zzso where the proposed approach can be extended for more general classes of zzso Experimental results for real data show that our prediction zzso have good performance in zzso We also show a relation between the proposed zzso and an existing zzso method, and present another grammatical zzso Furthermore, we prove that prediction of zzso zzso structures is zzso 
+
