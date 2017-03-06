@@ -59,6 +59,7 @@ var csvResults = [];
 var csvTopics = [];
 var csvForNenkova = [];
 var csvQuestions = [];
+var csvPasskeys = [];
 
 _.each(results, function (test) {
 
@@ -67,6 +68,7 @@ _.each(results, function (test) {
   // Results on a per-question level
 
   var questions = test.questions;
+  var passkey = 'http://custom-env-1.v8hharbp4m.us-west-1.elasticbeanstalk.com/test/' + test.passkey;
 
   _.each(questions, function (question) {
     var answers = question.answers;
@@ -103,6 +105,8 @@ _.each(results, function (test) {
     csvResults.push([ questionId, topic, accuracy, difficulty, timeElapsed, length, groupId, testId ]);
     csvForNenkova.push([ abstract, topic, accuracy, difficulty ]);
   });
+
+  csvPasskeys.push([ passkey ]);
 });
 
 // topics.csv
@@ -120,6 +124,7 @@ _.each(topics, function (value, key) {
 var csvResultsStr = arrayToCsv(csvResults);
 var csvTopicsStr = arrayToCsv(csvTopics);
 var csvForNenkovaStr = arrayToCsv(csvForNenkova);
+var csvPasskeysStr = arrayToCsv(csvPasskeys);
 
 fs.writeFile('results.csv', csvResultsStr, function (err) {
   if (err) return console.log(err);
@@ -130,5 +135,9 @@ fs.writeFile('topics.csv', csvTopicsStr, function (err) {
 });
 
 fs.writeFile('for_nenkova.csv', csvForNenkovaStr, function (err) {
+  if (err) return console.log(err);
+});
+
+fs.writeFile('passkeys.csv', csvPasskeysStr, function (err) {
   if (err) return console.log(err);
 });
