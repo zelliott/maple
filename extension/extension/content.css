@@ -1,8 +1,6 @@
-.maple-loading {
-
-}
-
-.maple-score {
+.maple-score,
+.maple-loading,
+.maple-error {
   font-weight: bold;
   margin: 5px 0 0 -7px;
   width: 23px;

@@ -1,0 +1,11 @@
+branch-defaults:
+  default:
+    environment: node-express-env
+    group_suffix: null
+global:
+  application_name: web_app
+  default_ec2_keyname: null
+  default_platform: node.js
+  default_region: us-west-1
+  profile: eb-cli
+  sc: null

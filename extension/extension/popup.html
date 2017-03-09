@@ -1,0 +1,105 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "popup.html".
+ -->
+<html>
+  <head>
+    <title>MAPLE Extension</title>
+    <style>
+      body {
+        color: #444;
+        width: 200px;
+        padding: 0;
+        margin: 0;
+      }
+
+      .section {
+        padding: 10px;
+      }
+
+      .section + .section {
+        border-top: 1px solid #ddd;
+      }
+
+      .section-title {
+        font-size: 14px;
+        margin: 0 0 10px 0;
+      }
+
+      .section-body {
+
+      }
+
+      .legend-item + .legend-item {
+        margin: 10px 0 0 0;
+      }
+
+      .legend-swatch {
+        font-weight: bold;
+        width: 16px;
+        height: 16px;
+        border: 2px solid #444;
+        display: inline-block;
+        vertical-align: top;
+      }
+
+      .legend-label {
+        display: inline-block;
+        vertical-align: top;
+        margin: 0 0 0 10px;
+        line-height: 20px;
+      }
+
+      .swatch-green {
+        background: #10DB8F;
+      }
+
+      .swatch-yellow {
+        background: #F8CF03;
+      }
+
+      .swatch-red {
+        background: #FB754B;
+      }
+
+      .logo {
+        font-weight: 500;
+        font-size: 14px;
+        text-align: center;
+      }
+    </style>
+
+    <!--
+      - JavaScript and HTML must be in separate files: see our Content Security
+      - Policy documentation[1] for details and explanation.
+      -
+      - [1]: https://developer.chrome.com/extensions/contentSecurityPolicy
+     -->
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <div class="section">
+      <div class="logo">MAPLE</div>
+    </div>
+    <div class="section">
+      <div class="section-title">Legend</div>
+      <div class="section-body">
+        <div class="legend-item">
+          <div class="legend-swatch swatch-green"></div>
+          <div class="legend-label">Easy (0 - 33)</div>
+        </div>
+        <div class="legend-item">
+          <div class="legend-swatch swatch-yellow"></div>
+          <div class="legend-label">Intermediate (34 - 66)</div>
+        </div>
+        <div class="legend-item">
+          <div class="legend-swatch swatch-red"></div>
+          <div class="legend-label">Difficult (67 - 99)</div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
