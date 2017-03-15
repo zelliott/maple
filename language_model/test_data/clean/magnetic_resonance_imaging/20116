@@ -1,0 +1,9 @@
+
+To determine whether a whole-body T1-mapping acquisition method improves the definition of adipose tissue (AT) and simplifies automated AT segmentation compared to an image-based method.
+
+The study included 10 subjects. Two whole-body volumes were acquired from each subject using two different flip angles. Whole-body T1 maps were calculated from each pair of whole-body volumes. AT was automatically segmented from the T1 maps and from the original image slices. The results were evaluated using manually segmented slices as reference.
+
+The T1-mapping method segmented more of the reference AT than the image-based method, with mean values (standard deviations (SDs)) of 87.7(5.1)% and 81.1(5.2)%, respectively. Compared to the image-based method, the T1-mapping method gives better histogram separation of AT in whole-body volumes. The suggested method also provides an output with smaller in-slice AT intensity variations.
+
+The T1-mapping method improves the definition of AT. T1-based analysis is superior to analysis based on the original images, and allows fully automated and accurate whole-body AT segmentation.
+

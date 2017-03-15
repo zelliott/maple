@@ -1,0 +1,3 @@
+
+To improve the reproducibility of arterial input function (AIF) registration and absolute cerebral blood flow (CBF) quantification in dynamic-susceptibility MRI-perfusion (MRP) at 1.5T, we rescaled the AIF by use of a venous output function (VOF). We compared CBF estimates of 20 healthy, elderly volunteers, obtained by computed tomography (CT)-perfusion (CTP) and MRP on two consecutive days. MRP, calculated without the AIF correction, did not result in any significant correlation with CTP. The rescaled MRP showed fair to moderate correlation with CTP for the central gray matter (GM) and the whole brain. Our results indicate that the method used for correction of partial volume effects (PVEs) improves MRP experiments by reducing AIF-introduced variance at 1.5T.
+

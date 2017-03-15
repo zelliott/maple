@@ -1,0 +1,3 @@
+
+We study the parsimony approach to haplotype inference, which calls for finding a set of haplotypes of minimum cardinality that explains an input set of genotypes. We prove that the problem is APX-hard even in very restricted cases. On the positive side, we identify islands of tractability for the problem, by focusing on instances with specific structure of haplotype sharing among the input genotypes. We exploit the structure of those instance to give polynomial and constant-approximation algorithms to the problem. We also show that the general parsimony haplotyping problem is fixed parameter tractable.
+

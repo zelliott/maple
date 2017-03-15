@@ -1,0 +1,3 @@
+
+CEDIT, a C interface and macro facility that provides for the colour editing of protein sequence alignments (up to 2000 sequences, 5000 residues each) using Microsoft Word 5.0 for PCs is presented. CEDIT uses the ability of MS-Word 5.0 to display letters with the desired colour to easily identify conservative homologies across the sequences. A glossary file with useful macros for the sequence editing is provided, along with several utilities programs for error checking, estimating sequence similarities and homology significance. CEDIT has a menu interface and a context sensitive help.
+

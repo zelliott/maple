@@ -1,0 +1,7 @@
+
+The design of oligonucleotides and PCR primers for studying large genomes is complicated by the redundancy of sequences. The eukaryotic genomes are particularly difficult to study due to abundant repeats. The speed of most existing primer evaluation programs is not sufficient for large-scale experiments.
+
+In order to improve the efficiency and success rate of automatic primer/oligo design, we created a novel method which allows rapid masking of repeats in large sequence files, for example in eukaryotic genomes. It also allows the detection of all alternative binding sites of PCR primers and the prediction of PCR products. The new method was implemented in a collection of efficient programs, the GENOMEMASKER package. The performance of the programs was compared to other similar programs. We also modified the PRIMER3 program, to be able to design primers from lowercase-masked sequences.
+
+The GENOMEMASKER package is able to mask the entire human genome for non-unique primers within 6 hours and find locations of all binding sites for 10,000 designed primer pairs within 10 minutes. Additionally, it predicts all alternative PCR products from large genomes for given primer pairs.
+

@@ -1,0 +1,9 @@
+
+This manuscript describes the development and ongoing integration of neuroArm, an image-guided MR-compatible robot.
+
+A neurosurgical robotics platform was developed, including MR-compatible manipulators, or arms, with seven degrees of freedom, a main system controller, and a human-machine interface. This system was evaluated during pre-clinical trials and subsequent clinical application, combined with intra-operative MRI, at both 1.5 and 3.0 T.
+
+An MR-compatible surgical robot was successfully developed and merged with ioMRI at both 1.5 or 3.0 T. Image-guidance accuracy and microsurgical capability were established in pre-clinical trials. Early clinical experience demonstrated feasibility and showed the importance of a master-slave configuration. Surgeon-directed manipulator control improved performance and safety.
+
+NeuroArm successfully united the precision and accuracy of robotics with the executive decision-making capability of the surgeon.
+

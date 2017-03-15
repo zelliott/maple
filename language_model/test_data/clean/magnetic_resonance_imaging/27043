@@ -1,0 +1,9 @@
+
+This article explores the feasibility of using coupled electromagnetic and thermodynamic simulations to improve planning and control of hyperthermia treatments for cancer. The study investigates the usefulness of preplanning to improve heat localisation in tumour targets in treatments monitored with PRFS-based magnetic resonance thermal imaging (MRTI).
+
+Heating capabilities of a cylindrical radiofrequency (RF) mini-annular phased array (MAPA) applicator were investigated with electromagnetic and thermal simulations of SAR in homogeneous phantom models and two human leg sarcomas. High frequency structure simulator (HFSS) (Ansoft) was used for electromagnetic simulations and SAR patterns were coupled into EPhysics (Ansoft) for thermal modelling with temperature-dependent variable perfusion. Simulations were accelerated by integrating tumour-specific anatomy into a pre-gridded whole body tissue model. To validate this treatment planning approach, simulations were compared with MR thermal images in both homogenous phantoms and heterogeneous tumours.
+
+SAR simulations demonstrated excellent agreement with temperature rise distributions obtained with MR thermal imaging in homogeneous phantoms and clinical treatments of large soft-tissue sarcomas. The results demonstrate feasibility of preplanning appropriate relative phases of antennas for localising heat in tumour.
+
+Advances in the accuracy of computer simulation and non-invasive thermometry via MR thermal imaging have provided powerful new tools for optimisation of clinical hyperthermia treatments. Simulations agree well with MR thermal images in both homogeneous tissue models and patients with lower leg tumours. This work demonstrates that better quality hyperthermia treatments should be possible when simplified hybrid model simulations are performed routinely as part of the clinical pretreatment plan.
+

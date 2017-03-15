@@ -1,0 +1,3 @@
+
+This paper describes a parallel zzso and its needed architecture for solving exact string matching problem on DNA zzso The parallel zzso is considered much more faster than sequential zzso used to perform exact string zzso the whole matching process between a given string and a pattern is performed in only one clock cycle by zzso a number of processing elements and grouping them into clusters that perform the comparison operation between the zzso and the string zzso A simple parallel architecture is also presented as the zzso is performed using this parallel zzso The system is considered a step towards a complete parallel processing architecture to solve zzso intensive applications of zzso 
+

@@ -1,0 +1,3 @@
+
+Sensitivity encoding (SENSE) uses multiple MRI receive coil elements to encode spatial information in addition to traditional gradient encoding. Requiring less gradient encodings translates into shorter scan times, which is extremely beneficial in many clinical applications. SENSE is available to routine diagnostic imaging for the past 2 years. This paper highlights the use of SENSE with scan time reduction factors up to 6 in contrast-enhanced MRA, routine abdominal imaging, mammography, cardiac and neuro imaging. It is shown that SENSE has opened new horizons in both routine and advanced MR imaging.
+

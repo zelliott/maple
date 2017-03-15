@@ -1,0 +1,9 @@
+
+To propose a new arterial spin labeling (ASL) perfusion-imaging method (alternate slab width inversion recovery ASL: AIRASL) that takes advantage of the qualities of 3.0 T.
+
+AIRASL utilizes alternate slab width IR pulses for labeling blood to obtain a higher signal-to-noise ratio (SNR). Numerical simulations were used to evaluate perfusion signals. In vivo studies were performed to show the feasibility of AIRASL on five healthy subjects. We performed a statistical analysis of the differences in perfusion SNR measurements between flow-sensitive alternating inversion recovery (FAIR) and AIRASL.
+
+In signal simulation, the signal obtained by AIRASL at 3.0 and 1.5 T was 1.14 and 0.85%, respectively, whereas the signal obtained by FAIR at 3.0 and 1.5 T was 0.57 and 0.47%, respectively. In an in vivo study, the SNR of FAIR (3.0 T) and FAIR (1.5 T) were 1.73 ± 0.49 and 1.02 ± 0.20, respectively, whereas the SNRs of AIRASL (3.0 T) and AIRASL (1.5 T) were 3.93 ± 1.65 and 1.34 ± 0.31, respectively. SNR in AIRASL at 3.0 T was significantly greater than that in FAIR at 3.0 T.
+
+The most significant potential advantage of AIRASL is its high SNR, which takes advantage of the qualities of 3.0 T. This sequence can be easily applied in the clinical setting and will enable ASL to become more relevant for clinical application.
+

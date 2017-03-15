@@ -1,0 +1,7 @@
+
+Analysis of gene expression patterns leads to functional understanding of biological processes. Quantitative real-time PCR has become the most commonly used technique for in-depth studies of gene expression. To quantify variation in specific gene expression, accurate and reliable normalization across different samples and tissues is necessary. This can be achieved by selecting one or more suitable reference genes to compare the target mRNA transcript levels. In the present work, we illustrate the first evaluation of potential internal control or reference genes across different developmental stages of eggplant for reliable quantification of transcripts by real-time PCR.
+
+We have evaluated the stability in expression of six candidate reference genes (18s rRNA, APRT, GAPDH, Cyclophilin, Actin, and RuBP) in a set of tissues representing six developmental stages of eggplant. The candidate genes were cloned from cDNA and analysed by real-time PCR. The expression data analyzed by three statistical methods (geNorm, NormFinder and BestKeeper) identified 18s rRNA, Cyclophilin and APRT as the most stable and suitable reference genes in eggplant. This was further confirmed in four different varieties, two representative lines of transgenic eggplant as well as in nematode infected eggplant.
+
+18s rRNA, Cyclophilin and APRT have been found to be appropriate for the normalization of real-time PCR data for gene expression studies in eggplant.
+

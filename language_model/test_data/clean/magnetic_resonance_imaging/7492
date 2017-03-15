@@ -1,0 +1,11 @@
+
+Localizing the human interhemispheric region is of interest in image analysis mainly because it can be used for hemisphere separation and as a preprocessing step for interhemispheric structure localization. Many existing methods focus on only one of these applications.
+
+Here a new Intensity and Symmetry based Interhemispheric Surface extraction method (ISIS) that enables both applications is presented. A combination of voxel intensity and local symmetry is used to optimize a surface from T1-weighted MRI.
+
+ISIS was evaluated in regard to cerebral hemisphere separation using manual segmentations. It was also evaluated in regard to being a preprocessing step for interhemispheric structure localization using manually placed landmarks.
+
+Results were compared to cerebral hemisphere separations by BrainVisa and Freesurfer as well as to a midsagittal plane (MSP) extraction method. ISIS had less misclassified voxels than BrainVisa (ISIS: 0.119±0.114%, BrainVisa: 0.138±0.084%, p=0.020). Freesurfer had less misclassified voxels than ISIS for one dataset (ISIS: 0.063±0.056%, Freesurfer: 0.049±0.044%, p=0.019), but failed to produce usable results for another. Total voxel distance from all manual landmarks did not differ significantly between ISIS and the MSP method (ISIS: 4.00±1.88, MSP: 4.47±4.97).
+
+ISIS was found successful in both cerebral hemisphere separation and as a preprocessing step for interhemispheric structure localization. It needs no time consuming preprocessing and extracts the interhemispheric surface in less than 30 s.
+

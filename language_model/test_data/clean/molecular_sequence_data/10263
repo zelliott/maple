@@ -1,0 +1,3 @@
+
+A protein sequence database (PFDB) containing about 11,000 entries is available for Macintosh computers. The PFDB can be easily updated by importing sequences from the PIR collection through the internet. The most important feature of the database is its organization in families of closely related sequences, each family being characterized by its average dipeptide composition [Petrilli (1993), Comput. Appl. Biosci. 2, 89-93]. This allows one to perform a rapid and sensitive protein similarity search by comparing the precalculated family dipeptide composition with that of the query sequence by a linear correlation coefficient. An example of an application in which a new protein was classified by using a sequence of a fragment just 19 residues long is reported.
+

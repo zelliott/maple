@@ -1,0 +1,9 @@
+
+VBM has been widely used to study GM atrophy in MS. MS lesions lead to segmentation and registration errors that may affect the reliability of VBM results. Improved segmentation and registration have been demonstrated by WM LI before segmentation. DARTEL appears to improve registration versus the USM. Our aim was to compare the performance of VBM-DARTEL versus VBM-USM and the effect of LI in the regional analysis of GM atrophy in MS.
+
+3T T1 MR imaging scans were acquired from 26 patients with RRMS and 28 age-matched NC. LI replaced WM lesions with normal-appearing WM intensities before image segmentation. VBM analysis was performed in SPM8 by using DARTEL and USM with and without LI, allowing the comparison of 4 VBM methods (DARTEL + LI, DARTEL - LI, USM + LI, and USM - LI). Accuracy of VBM was assessed by using NMI, CC, and a simulation analysis.
+
+Overall, DARTEL + LI yielded the most accurate GM maps among the 4 methods (highest NMI and CC, P < .001). DARTEL + LI showed significant GM loss in the bilateral thalami and caudate nuclei in patients with RRMS versus NC. The other 3 methods overestimated the number of regions of GM loss in RRMS versus NC. LI improved the accuracy of both VBM methods. Simulated data suggested the accuracy of the results provided from patient MR imaging analysis.
+
+We introduce a pipeline that shows promise in limiting segmentation and registration errors in VBM analysis in MS.
+

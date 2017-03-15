@@ -1,0 +1,3 @@
+
+GlimmerM is a eukaryotic gene finder that has been used in the annotation of the genomes of Plasmodium falciparum (the malaria parasite), the model plant Arabidopsis thaliana, Oryza sativa (rice), the parasite Theileria parva, and the fungus Aspergillus fumigatus. A unique feature of the system compared to other eukaryotic gene finders is a module that allows users to provide their own data and train GlimmerM for any organism.
+

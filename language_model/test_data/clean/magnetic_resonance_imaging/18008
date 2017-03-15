@@ -1,0 +1,3 @@
+
+We investigate a Bayesian hierarchical model for the analysis of categorical longitudinal data from sedation measurement for Magnetic Resonance Imaging (MRI) and Computerized Tomography (CT). Data for each patient is observed at different time points within the time up to 60 min. A model for the sedation level of patients is developed by introducing, at the first stage of a hierarchical model, a multinomial model for the response, and then subsequent terms are introduced. To estimate the model, we use the Gibbs sampling given some appropriate prior distributions.
+

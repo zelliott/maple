@@ -1,0 +1,3 @@
+
+This work describes an integrated system for planning and performing percutaneous procedures-such as prostate biopsy-with robotic assistance under MRI-guidance. The physician interacts with a planning interface in order to specify the set of desired needle trajectories, based on anatomical structures and lesions observed in the patient's MR images. All image-space coordinates are automatically computed, and used to position a needle guide by means of an MRI-compatible robotic manipulator, thus avoiding the limitations of the traditional fixed needle template. Direct control of real-time imaging aids visualization of the needle as it is manually inserted through the guide. Results from in-scanner phantom experiments are provided.
+

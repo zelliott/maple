@@ -1,0 +1,9 @@
+
+To study measurement repeatability and physiological determinants on measurement stability for phase contrast MRI (PC-MRI) measurements of cyclic volume changes (ΔV) of brain arteries, veins, and cerebrospinal fluid (CSF) compartments.
+
+Total cerebral blood flow (tCBF), total internal jugular flow (tJBF) and spinal CSF flow at C2-C3 level and CSF in the aqueduct was measured using five repetitions in 20 healthy subjects. After subtracting net flow, waveforms were integrated to calculate ΔV of arterial, venous, and cerebrospinal fluid compartments. The intraclass correlation coefficient (ICC) was used to measure repeatability. Systematic errors were investigated by a series of phantom measurements.
+
+For ΔV calculated from tCBF, tJBF and both CSF waveforms, the ICC was ≥0.85. ΔV from the tCBF waveform decreased linearly between repetitions (P = 0.012). Summed CSF and venous volume being shifted out from the cranium was correlated with ΔV calculated from the tCBF waveform (r = 0.75; P < 0.001). Systematic errors increased at resolutions <4 pixels per diameter.
+
+Repeatability of ΔV calculated from tCBF, tJBF, and CSF waveforms allows useful interpretations. The subject's time in the MR system and imaging resolution should be considered when interpreting volume changes. Summed CSF and venous volume changes was associated with arterial volume changes.
+

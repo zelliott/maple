@@ -1,0 +1,9 @@
+
+To investigate the reproducibility of SPM99-based whole brain, gray matter, and white matter volume measurements with and without image inhomogeneity correction, subsequently exploring age and gender effects on absolute and fractional (proportional to intra-cranial) volumes.
+
+Twenty-seven control subjects (aged 23.2 to 55.2 years) had three-dimensional fast spoiled gradient recall scans. Ten subjects were scanned about 197 days later.
+
+Coefficients of variation (CV) for absolute and fractional volumes determined from images processed with inhomogeneity correction ranged from 1.2% to 0.5%. Inhomogeneity correction reduced the CV for all measures except gray matter fractional (GMF) volumes. Significantly lower white matter absolute (WM) and fractional (WMF) volumes, and higher GMF were found in females compared with males, overlying age-related reductions (in decreasing order of significance) in brain parenchymal fraction, GMF, WMF, brain parenchymal, and gray matter volumes.
+
+SPM99 segmentations are sufficiently reproducible to detect age and gender effects in limited cohorts.
+

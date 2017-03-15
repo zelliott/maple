@@ -1,0 +1,3 @@
+
+Tissue-characterizing magnetic resonance imaging (MRI) is a new imaging method for differentiation and biochemical characterization of tissue based on multidimensional MR-parameter information. To support knowledge acquisition in tissue-characterizing MRI, a new segmentation algorithm has been developed by using clustering techniques. The visualization of the complex biochemical MR-parameter information is performed by extraction of regions with similar biochemical properties. The clustering algorithm leads to an easy and comfortable handling of the complex tissue-characteristic MR information and supports knowledge acquisition for knowledge-based tissue characterization.
+

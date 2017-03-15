@@ -1,0 +1,9 @@
+
+To evaluate intersubject variability of susceptibility-induced static field inhomogeneity in breast and to assess effectiveness of whole-body high-order shimming applied to bilateral breast.
+
+A fast, computationally efficient method to calculate susceptibility-induced static field from anatomical images was developed. The method was validated against the conventional multiecho B(0) mapping method and was used to generate data for linear and higher-order shim simulation on 13 volunteers.
+
+Most volunteers showed a significant anterior-posterior B(0) gradient. The majority of the subjects also exhibited a statistically significant left-right gradient. The second- and third-order shimming provided only minor (<5% each) improvement in B(0) homogeneity.
+
+The shape of the air-tissue boundary determines most of the observed B(0) distribution in bilateral breast. Despite significant variability among subjects, a common feature traceable to generic anatomy exists in the linear gradient. Nonlinear variation of susceptibility-induced B(0) field occurs over a relatively short length scale and is likely best shimmed by slice-dependent or localized shimming.
+

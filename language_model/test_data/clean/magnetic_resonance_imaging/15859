@@ -1,0 +1,9 @@
+
+To evaluate a simultaneous integrated boost (SIB) strategy in preoperative radiotherapy of rectal cancer patients following neoadjuvant chemotherapy using pre- and post-chemotherapy tumor volumes assessed by MRI.
+
+Ten patients with locally advanced rectal cancer, receiving chemotherapy prior to radiotherapy, were included in this study. Pre- and post-chemotherapy MR tumor images were co-registered with CT images for IMRT planning. Three planning target volumes were defined: PTV(risk), PTV(pre_chemo) and PTV(post_chemo). For SIB, prescribed mean doses to the PTVs were 46, 50 and 58 Gy, respectively, given in 25 fractions. Organs at risk (OARs) were bladder and intestine. The novel three-volume SIB strategy was compared to a conventional two-volume SIB plan, in which PTV(post_chemo) was ignored, using dose-volume histograms (DVHs) and the generalized equivalent uniform dose (gEUD).
+
+All patients showed tumor shrinkage following chemotherapy. For the novel SIB, population-based mean doses given to PTV(risk), PTV(pre_chemo) and PTV(post_chemo) were 46.8+/-0.3, 50.6+/-0.4 and 58.1+/-0.4 Gy, respectively. DVHs and gEUDs for PTV(risk), PTV(pre_chemo), bladder and intestine revealed minimal differences between the two SIB strategies.
+
+Tumor volume reduction for rectal cancer patients following neoadjuvant chemotherapy allows for increased tumor dose using a SIB strategy without increased OAR toxicity.
+

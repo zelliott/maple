@@ -1,0 +1,3 @@
+
+We present a method for the coregistration and topographic mapping of trans-cranial magnetic stimulation (TCMS) data on surface rendered images of the cortex, derived from Magnetic Resonance Images (MRI). We describe the TCMS procedure and the methods used to locate the TCM stimulation sites in the MRI coordinate system, and the algorithms needed to depict the TCMS distribution as a pseudocolour contour map on the cortical surface. The methods are validated using TCMS data from the hand (thenar) and leg (tibialis muscle). The methods used correctly depict the expected motor representations of each of these areas and we therefore propose that this technique may be used as a functional imaging tool in the investigation of cortical function in both normals and patients.
+

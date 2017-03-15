@@ -1,0 +1,9 @@
+
+The purpose of this article is to compare in vitro T1rho measurements in agarose phantoms and articular cartilage specimens using 2D multislice spiral and 3D magnetization prepared partitioned k-space spoiled gradient-echo snapshot MRI sequences.
+
+Six phantoms (agarose concentration, 2%, 3%, and 4%; n = 2 each) and 10 axially sliced patellar specimens from five cadaveric donors were scanned at 3 T. T1rho-weighted images were acquired using 2D spiral and 3D magnetization prepared partitioned k-space spoiled gradient-echo snapshot sequences. Regions of interest were analyzed to measure T1rho values centrally within phantoms, to evaluate effects of pulse sequence and agarose concentration. In patellar specimens, regions of interest were analyzed to measure T1rho values with respect to anatomic location (the medial and lateral facets and the median ridge in deep and superficial halves of the cartilage) as well as location that exhibited magic angle effect in proton density-weighted images, to evaluate the effects of pulse sequence, anatomic location, and magic angle.
+
+In phantoms, T1rho values were similar (p = 0.9) between sequences but decreased significantly (p < 0.001), from ∼55 to ∼29 milliseconds, as agarose concentration increased from 2% to 4%. In cartilage specimens, T1rho values were also similar between sequences (p = 0.3) but were significantly higher (p < 0.001) in the superficial layer (95-120 milliseconds) compared with the deep layer (45-75 milliseconds).
+
+T1rho measurements of human patellar cartilage specimens and agarose phantoms using 2D spiral and 3D magnetization prepared partitioned k-space spoiled gradient-echo snapshot sequences gave similar values. Lower T1rho values for phantoms with higher agarose concentrations and proteoglycan concentrations that are higher in deeper layers of cartilage than in superficial layers suggest that our method is sensitive to concentration of macromolecules in biologic tissues.
+

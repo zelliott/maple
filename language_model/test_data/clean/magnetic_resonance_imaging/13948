@@ -1,0 +1,11 @@
+
+To explore cortical hemodynamic responses using fMRI in the context of three dichotic listening tasks.
+
+Dichotic listening is a widely used behavioral technique indicating brain laterality during which subjects are presented with two different auditory signals at the same time, one arriving at each ear. fMRI offers the potential to explore the hemodynamic response during dichotic listening and to relate the behavioral indices with these cortical measures.
+
+fMRI was performed for 10 right-handed normal subjects listening to consonant-vowel syllable pairs with the task of detecting a "target" syllable by pressing a button. The target stimulus appeared equally often in the left and right ear. The subjects were instructed to either concentrate on the stimuli presented in both ears (DIV) or only in the left ear (FL) or right ear (FR). In addition, a control condition was used during which the syllables were presented binaurally. Hemodynamic responses were measured by applying whole-head echo planar imaging techniques and statistically analyzed by using statistical parametric mapping (SPM99) software.
+
+During dichotic listening, there were generally extended activations in frontotemporal networks. For the DIV condition, the authors found strong bilateral activations in the inferior frontal gyrus, Broca's area, the left middle frontal gyrus, and in the left superior temporal gyrus. During the FL condition, there was an additional cluster in the right inferior frontal gyrus. For the FR condition, there were stronger activations in Broca's area and the left superior temporal gyrus.
+
+These findings were taken as evidence that dichotic listening is more demanding, requiring more processing capacity distributed in frontotemporal networks. The behavioral measures of dichotic listening were not simply a function of temporal lobe activation. Rather, the cortical activations support the notion that different processing strategies controlled by different neural structures are applied during dichotic listening.
+

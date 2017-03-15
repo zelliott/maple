@@ -1,0 +1,5 @@
+
+ConoServer is a new database dedicated to conopeptides, a large family of peptides found in the venom of marine snails of the genus Conus. These peptides have an exceptional diversity of sequences and chemical modifications and their ability to block ion channels makes them important as drug leads and tools for physiological studies. ConoServer uses standardized names and a genetic and structural classification scheme to present data retrieved from SwissProt, GenBank, the Protein DataBank and the literature. The ConoServer web site incorporates specialized features like the graphic display of post-translational modifications that are extensively present in conopeptides. Currently, ConoServer manages 1214 nucleic sequences (from 54 Conus species), 2258 proteic sequences (from 66 Conus species) and 99 3D structures.
+
+http://research1t.imb.uq.edu.au/conoserver/.
+

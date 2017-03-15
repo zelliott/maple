@@ -1,0 +1,9 @@
+
+zzso magnetic resonance imaging zzso has been shown to have higher zzso accuracy than zzso ultrasound zzso for prostate zzso zzso automated cancer zzso using zzso zzso is receiving a growing interest, since zzso can provide both zzso and functional images for tissue of zzso However, all automated methods to this date are zzso to a single zone of the zzso and the peripheral zone zzso of the prostate needs to be extracted zzso which is a tedious and time-consuming zzso In this paper, our goal is to remove the need of zzso extraction by incorporating the spatial and geometric information of prostate tumors with zzso zzso derived from zzso zzso zzso imaging zzso and dynamic contrast enhanced zzso zzso 
+
+In order to remove the need of zzso zzso the authors propose a new method to incorporate the spatial information of the zzso This is done by introducing a new feature called location zzso This new feature is constructed by applying a zzso transformation to the spatial position coordinates of each zzso so that the location map implicitly represents the geometric position of each zzso with respect to the prostate zzso Then, this new feature is combined with zzso MR images to perform tumor zzso The proposed zzso is applied to zzso prostate zzso data obtained from 20 patients with zzso prostate zzso 
+
+The proposed method which does not need the masks of zzso was found to have prostate cancer detection specificity of zzso sensitivity of zzso and dice zzso value of zzso 
+
+The authors have found that fusing the spatial information allows us to obtain tumor outline without the need of zzso extraction with a considerable success zzso or similar performance to methods that require manual zzso zzso Our experimental results zzso demonstrate the effectiveness of the proposed method, depicting that the proposed method has a slightly better or similar zzso performance compared to methods which require the masks of zzso 
+

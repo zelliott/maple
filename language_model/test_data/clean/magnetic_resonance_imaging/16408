@@ -1,0 +1,9 @@
+
+Functional MR imaging (fMRI) is a promising but, in some aspects, still debated noninvasive tool for functional language mapping. We developed a clinical fMRI overt language design at the sentential level to optimize sensitivity for language-related areas of the brain. To evaluate applicability and sensitivity, we investigated a consecutive series of presurgical patients with epilepsy with minimal morphologic brain abnormalities.
+
+Thirty right-handed patients with temporal lobe epilepsy (TLE) and a control group of 23 right-handed healthy subjects participated in the study. The language design included semantic and syntactic error-detection tasks and was constructed to represent the most relevant aspects of everyday language demands. It was applied during block-designed fMRI runs. We performed image preprocessing and statistical analysis with SPM5 at a group level, applying widely used statistical criteria. The study was approved by the local ethics committee, and all participants gave written informed consent.
+
+Given the strict statistical criteria, the sensitivity for inferior frontal and posterior temporal activations (comprising Broca and Wernicke regions) was improved relative to previous findings in the literature. For both language areas, we found 100% sensitivity in healthy subjects (Brodmann areas, BA22 and BA44) and 97% sensitivity in patients (when including BA47). Lateralization results demonstrated the capability to detect atypical language lateralizations in patients, which were more frequent in than those in healthy subjects.
+
+We developed a clinical language fMRI design that integrates various relevant aspects of everyday language demands and provides robust localization of core language areas.
+

@@ -1,0 +1,9 @@
+
+Brain tumor zzso is a required step before any radiation treatment or zzso When performed zzso zzso is time consuming and prone to human zzso zzso there have been significant efforts to automate the zzso But, automatic tumor zzso from zzso data is a particularly challenging zzso zzso have a large diversity in shape and appearance with zzso overlapping the normal brain zzso In addition, an expanding tumor can also deflect and zzso nearby zzso In our work, we propose an automatic brain tumor zzso method that addresses these last two difficult zzso 
+
+We use the available zzso zzso zzso zzso zzso and their texture characteristics to construct a zzso feature zzso Then, we extract clusters which provide a compact representation of the essential information in these zzso The main idea in this work is to incorporate these clustered features into the zzso zzso zzso zzso In contrast to previous zzso approaches, we propose a zzso method that zzso the zzso in a supervised zzso The zzso boundary is driven by the learned region statistics in the cluster zzso We incorporate prior knowledge about the normal brain tissue appearance during the zzso of these region zzso In particular, we use a zzso prior that discourages the clusters from the normal brain region to be in the tumor zzso This leads to a better zzso of the tumor from brain zzso 
+
+We evaluated the performance of our automatic zzso method on 15 real zzso scans of brain tumor patients, with tumors that are zzso in appearance, small in size and in proximity to the major structures in the zzso zzso with the expert zzso labels yielded encouraging zzso zzso zzso Precision zzso Recall zzso zzso distance zzso 
+
+Using zzso on the zzso appearance, our proposed automatic zzso zzso zzso method was able to better zzso the tumor from the surrounding zzso 
+

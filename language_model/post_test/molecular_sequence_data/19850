@@ -1,0 +1,7 @@
+
+Features of a DNA sequence can be found by zzso the sequence under a suitable zzso good zzso implies low information zzso Good DNA zzso models consider repetition, differences between repeats, and base zzso From a linear DNA zzso a zzso model can produce a linear information zzso Linear space complexity is important when exploring long DNA sequences of the order of millions of zzso zzso a sequence in isolation will include information on zzso Whereas zzso a sequence Y in the context of another X can find what new information X gives about zzso This paper presents a methodology for performing comparative analysis to find features exposed by such zzso 
+
+We apply such a model to find features across zzso of zzso zzso We present a tool that provides useful linear transformations to investigate and save new zzso Various examples illustrate the methodology, finding features for sequences alone and in different zzso We also show how to highlight all sets of zzso features, in this case within zzso zzso zzso zzso 
+
+The methodology finds features that are significant and that biologists zzso The exploration of long information sequences in linear time and space is fast and the saved results are self zzso 
+

@@ -1,0 +1,3 @@
+
+The classic imaging geometry for computed tomography is for the collection of un-truncated projections and the reconstruction of a global image, with the Fourier transform as the theoretical foundation that is intrinsically non-local. Recently, interior tomography research has led to theoretically exact relationships between localities in the projection and image spaces and practically promising reconstruction algorithms. Initially, interior tomography was developed for x-ray computed tomography. Then, it was elevated to have the status of a general imaging principle. Finally, a novel framework known as 'omni-tomography' is being developed for a grand fusion of multiple imaging modalities, allowing tomographic synchrony of diversified features.
+

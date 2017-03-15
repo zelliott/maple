@@ -1,0 +1,9 @@
+
+To study the transcriptional regulation mechanism of dps by OxyR in Yersinia pestis.
+
+Total RNAs were extracted from the wide-type (WT) strain and the oxyR null mutant (deltaoxyR). Primer extension assay was used to detect the promoter activity (the amount of primer extension product) of dps in WT and that in deltaoxyR. Then, quantitative RT-PCR was done to calculate the transcriptional variation of dps between the WT and deltaoxyR. The entire promoter-proximal region of the dps gene was amplified by PCR from Y. pestis strain 201. Over-expressed His-OxyR was purified under native conditions with nickel loaded HiTrap Chelating Sepharose columns (Amersham). Then, the electrophoretic mobility shift assay (EMSA) was applied to analyze the DNA-binding activity of His-OxyR to dps promoter region in vitro. Finally, Escherichia coli OxyR consensus was deployed to predict the OxyR binding site to dps promoter region.
+
+The primer extension assay detected only one transcriptional start site located at 40bp uptream of dps, whose transcript was under positive regulation by OxyR. The bioinformatics analysis indicated that His-OxyR bound to a single region from 111 bp to 78bp upstream of dps.
+
+The transcription of dps was directly activated by OxyR in Yersinia pestis.
+

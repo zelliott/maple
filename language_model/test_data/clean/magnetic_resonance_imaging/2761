@@ -1,0 +1,3 @@
+
+A series of designs is presented for restricted length, whole-body, shielded gradient coils. By using the real space optimization technique, simulated annealing (SA), it is possible to produce viable gradient sets with a length-to-diameter ratio (LDR) of just 1.0. Radially remote return paths for the transverse coils aid in producing such short coils. While the linear regions of such coils cannot be as large as longer coils, they produce homogeneous linear regions suitable for use in whole-body imaging. The coil sets are well shielded even at such small LDRs.
+

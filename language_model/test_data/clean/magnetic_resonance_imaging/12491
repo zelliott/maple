@@ -1,0 +1,9 @@
+
+Existing methods for quantitative magnetic resonance spectroscopy are not widely used for magnetic resonance spectroscopy examinations in clinical practice due to the lengthy and difficult workflow. In this report, we aimed to investigate whether metabolite concentrations show co-variation with relaxation parameters (R1,H2O,R2,H2O), water concentration (ĈH2O), and age, using a quantitative magnetic resonance spectroscopy method, which is suitable for a clinical setting.
+
+We performed 166 single voxel magnetic resonance spectroscopy measurements in the white matter and thalamus in 47 healthy subjects, aged 18-72 years. Whole brain R1,H2O, R2,H2O, and ĈH2O maps were determined for each subject using quantitative magnetic resonance imaging. Absolute metabolite concentrations were calculated by calibrating the water-scaled magnetic resonance spectroscopy, using the quantitative magnetic resonance imaging maps of R1,H2O, R2,H2O, and ĈH2O.
+
+Absolute concentrations in white matter of total Creatine and myo-Inositol were correlated with age (total Creatine: 12 ± 4 μM/year, P < 0.01; myo-Inositol: 23 ± 9 μM/year, P < 0.05), suggesting a process of increased glia density in aging white matter. Moreover, total Creatine and total N-acetylaspartate were inversely correlated with the R1,H2O and positively correlated with the ĈH2O of white matter. In addition, the Cramér-Rao lower bound was biased regarding the metabolite concentration, suggesting that should not be used as a quality assessment.
+
+The implemented method was fast, robust, and user-independent.
+

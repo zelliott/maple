@@ -1,0 +1,11 @@
+
+Antibody humanization by transplanting the complementarity determining regions (CDRs) of a murine antibody to a human framework aims to reduce the response of the human immune system against a foreign molecule. Frequently, however, some murine amino acids from the framework have to be retained to recover binding affinity.
+
+To redesign R3, a mouse monoclonal antibody (mAb) that binds the human epidermal growth factor (EGF)-receptor and inhibits the binding of EGF, to be a human IgG1.
+
+The light and heavy chains of REI and Eu, respectively, were selected as human immunoglobulin (Ig) frameworks for CDR-grafting based on their high homology with the corresponding sequences of murine R3. Molecular modeling was used to analyze the possible effects of mutating murine residues that underlie the CDRs.
+
+CDR-grafting dramatically reduced the binding capability of the antibody. Molecular modeling suggested that two amino acids (Thr 76 and Thr 93), among five immunoglobulin heavy chain variable region (VH) residues underlying the CDRs, were critical for antigen binding. The five residues were mutated back to the original murine amino acids in different combinations contained in six variants of humanized antibodies. In agreement with molecular modeling analysis. The variant in which three murine residues were retained (Ser 75, Thr 76 and Thr 93) exhibited a similar capacity to inhibit the binding of 125I-labeled EGF to its receptor as compared with the original antibody. This humanized antibody was at least 2-fold less immunogenic in African Green monkeys than the chimeric antibody.
+
+Only very few mutations in the frameworks may be necessary to recover the binding capability of a humanized antibody. Molecular modeling can serve as a powerful tool to identify residues critical for binding.
+

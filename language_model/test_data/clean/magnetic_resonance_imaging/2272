@@ -1,0 +1,3 @@
+
+A temperature control system consisting of a thermistor, signal processor, and computer algorithm was developed for magnetic resonance (MR) microscopy of small live animals. With control of body temperature within +/- 0.2 degree C of the set point, heart rate is stabilized and, in turn, repetition time (TR) during cardiac-gated studies is less variable. Thus, image quality and resolution are improved.
+

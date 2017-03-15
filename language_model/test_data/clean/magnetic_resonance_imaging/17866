@@ -1,0 +1,9 @@
+
+To evaluate the feasibility of using computer-assisted, deformable image registration software to enable three-dimensional (3D), multi-parametric (mp) magnetic resonance imaging (MRI)-derived information on tumour location and extent, to inform the planning and conduct of focal high-intensity focused ultrasound (HIFU) therapy.
+
+A nested pilot study of 26 consecutive men with a visible discrete focus on mpMRI, correlating with positive histology on transperineal template mapping biopsy, who underwent focal HIFU (Sonablate 500®) within a prospective, Ethics Committee-approved multicentre trial ('INDEX'). Non-rigid image registration software developed in our institution was used to transfer data on the location and limits of the index lesion as defined by mpMRI. Manual contouring of the prostate capsule and histologically confirmed MR-visible lesion was performed preoperatively by a urologist and uro-radiologist. A deformable patient-specific computer model, which captures the location of the target lesion, was automatically generated for each patient and registered to a 3D transrectal ultrasonography (US) volume using a small number (10-20) of manually defined capsule points. During the focal HIFU, the urologist could add additional sonications after image-registration if it was felt that the original treatment plan did not cover the lesion sufficiently with a margin.
+
+Prostate capsule and lesion contouring was achieved in <5 min preoperatively. The mean (range) time taken to register images was 6 (3-16) min. Additional treatment sonications were added in 13 of 26 cases leading to a mean (range) additional treatment time of 45 (9-90) s.
+
+Non-rigid MR-US registration is feasible, efficient and can locate lesions on US. The process has potential for improved accuracy of focal treatments, and improved diagnostic sampling strategies for prostate cancer. Further work on whether deformable MR-US registration impacts on efficacy is required.
+

@@ -1,0 +1,5 @@
+
+COMPAM is a tool for visualizing relationships among multiple whole genomes by combining all pairwise genome alignments. It displays shared conserved regions (blocks) and where these blocks occur (edges) as block relation graphs which can be explored interactively. An unannotated genome, e.g. can then be explored using information from well-annotated genomes, COG-based genome annotation and genes. COMPAM can run either as a stand-alone application or through an applet that is provided as service to PLATCOM, a toolset for whole genome comparative analysis, where a wide variety of genomes can be easily selected. Features provided by COMPAM include the ability to export genome relationship information into file formats that can be used by other existing tools.
+
+http://bio.informatics.indiana.edu/projects/compam/
+

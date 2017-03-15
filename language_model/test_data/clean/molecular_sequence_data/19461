@@ -1,0 +1,3 @@
+
+Amplified Fragment Length Polymorphism (AFLP) markers are formed by selective amplification of DNA fragments from digested total genomic DNA. The technique is popular because it is a relatively inexpensive way to produce large numbers of reproducible genetic markers. In this paper, we describe a Bayesian approach to modeling AFLP marker evolution by nucleotide substitution and an MCMC approach to estimate phylogeny from AFLP marker data. We demonstrate the method on species in Carex section Ovales, a group of sedges common in North America. We compare the results of our analysis with a clustering method based on Nei and Li's restriction-site distance and a two-state Bayesian analysis using MrBayes.
+

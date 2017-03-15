@@ -1,0 +1,9 @@
+
+We have treated patients with brain surface tumors by using video registration of a three-dimensional image to the surgical field, to identify eloquent cortices, localize the lesions, and define the tumor margins. "Skin-to-skin" registration using the skin surface to produce alignment was performed earlier but was difficult in areas with few prominent registration landmarks. For this reason, "vessel-to-vessel" registration using the cortical vessels as fiducials was applied to 17 cases, to improve accuracy. This article presents the advantages and limitations of vessel-to-vessel registration, as determined from the data for these cases. The accuracy is also estimated.
+
+A three-dimensional model was reconstructed from magnetic resonance imaging data, and a two-dimensional projection was superimposed on the video image of the actual surgical field. The tumor was resected with guidance from the registered video image. The two-dimensional projection accuracy of vessel-to-vessel registration was compared with that of skin-to-skin registration by using a phantom study.
+
+All 17 tumors underwent gross total resection, and the patients experienced no major permanent neurological deficits. In the phantom study, the two-dimensional, projected, target registration error of a tumor with skin-to-skin registration was estimated as 8.9 +/- 5.3 mm and that with vessel-to-vessel registration was 1.3 +/- 1.4 mm (99th percentile confidence intervals, 24.8 and 5.5 mm, respectively).
+
+Video registration using cortical surface vessels is practical and improves two-dimensional projection accuracy significantly, compared with skin registration.
+

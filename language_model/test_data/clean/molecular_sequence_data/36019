@@ -1,0 +1,3 @@
+
+The method of time averaging of distance restraints in molecular dynamics simulations is applied to Boc-Ala-Aib-Ala-OMe in order to demonstrate the improved sampling properties of this method compared to conventional distance restraining. Two conformational regions, beta-turn type II and gamma-turn, are seen during MD runs at a simulation temperature of 500 K, while in simulations with conventional distance restraining, no conformational transitions could be observed for temperatures up to 1000 K.
+

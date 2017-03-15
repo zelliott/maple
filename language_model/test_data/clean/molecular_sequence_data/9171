@@ -1,0 +1,3 @@
+
+A method of window exchange umbrella sampling molecular dynamics simulation is employed for transmembrane helix assembly. An analytical expression for the average acceptance probability between neighboring windows is derived and combined with the first passage time optimization method to predetermine a parameter set in an optimal range. With the parameter set, the method provides a substantially more efficient sampling of helix-helix interfaces together with the potential of mean force along the helix-helix distance of a transmembrane helix-dimer model, compared to the umbrella sampling method.
+

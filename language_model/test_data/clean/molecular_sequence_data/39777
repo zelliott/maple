@@ -1,0 +1,7 @@
+
+Some amino acids clearly show preferences over others in protein-protein interfaces. These preferences, or so-called interface propensities can be used for a priori interface prediction. We investigated whether the prediction accuracy could be improved by considering not single but pairs of residues in an interface. Here we present the first systematic analysis of intramolecular surface contacts in interface prediction.
+
+We show that preferences do exist for contacts within and around an interface region within one molecule: specific pairs of amino acids are more often occurring than others. Using intramolecular contact propensities in a blind test, higher average scores were assigned to interface residues than to non-interface residues. This effect persisted as small but significant when the contact propensities were corrected to eliminate the influence of single amino acid interface propensity. This indicates that intramolecular contact propensities may replace interface propensities in protein-protein interface prediction.
+
+The source code is available on request from the authors.
+

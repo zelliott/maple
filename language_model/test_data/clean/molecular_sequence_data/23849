@@ -1,0 +1,7 @@
+
+In order to design effective HIV inhibitors, studying and understanding the mechanism of HIV protease cleavage specification is critical. Various methods have been developed to explore the specificity of HIV protease cleavage activity. However, success in both extracting discriminant rules and maintaining high prediction accuracy is still challenging. The earlier study had employed genetic programming with a min-max scoring function to extract discriminant rules with success. However, the decision will finally be degenerated to one residue making further improvement of the prediction accuracy difficult. The challenge of revising the min-max scoring function so as to improve the prediction accuracy motivated this study.
+
+This paper has designed a new scoring function called a sum-product function for extracting HIV protease cleavage discriminant rules using genetic programming methods. The experiments show that the new scoring function is superior to the min-max scoring function.
+
+The software package can be obtained by request to Dr Zheng Rong Yang.
+

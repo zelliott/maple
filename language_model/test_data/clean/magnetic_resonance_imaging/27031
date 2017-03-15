@@ -1,0 +1,3 @@
+
+In order to evaluate the relevance of magnetic resonance (MR) features selected by automatic feature selection techniques to build classifiers for differential diagnosis and tissue segmentation two data sets containing MR spectroscopy data from patients with brain tumours were investigated. The automatically selected features were evaluated using literature and clinical experience. It was observed that a significant part of the automatically selected features correspond to what is known from the literature and clinical experience. We conclude that automatic feature selection is a useful tool to obtain relevant and possibly interesting features, but evaluation of the obtained features remains necessary.
+

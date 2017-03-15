@@ -1,0 +1,9 @@
+
+Previously we described from 20 patients' data with our new "polynomial prediction approach" the volumetrical changes following gliomas 1-125 brachytherapy. The aim of this study is to extend the polynomials for 48 months, and to carry out multivarial analysis of several different aspects.
+
+20 inoperable low-grade gliomas were followed for a 48-month period after 1-125 interstitial irradiation. The delivered dose on the tumor surface was 50-60 Gy. Dose planning and image fusion were done with the BrainLab Target 1.19 software, mathematical and statistical computations were carried out with the Matlab numeric computation and visualization software. Volumes of tumor necrosis, reactive zone and edema referred to as "triple ring" were measured on image fused control MRI and planning CT images. The measured volumes were normalized with respect to the reference volumes. Mean values of volumes were determined, then polynomials were fitted to the mean using the polynomial curve fitting method. The accuracy of our results was verified by correlating the predicted data with the measured ones.
+
+We have found that the edema reaches its maximum two times after irradiation during the 48 months follow up period. We have shown that small tumors react more rapidly and creating greater volumes of the "triple ring" than bigger ones.
+
+The polynomial prediction approach proposed here reveals the dynamics of triple ring for 48 months. The derived polynomials and the multivarial analysis carried out afterwards help to (i) design the best treatment, (ii) follow up the patient's condition and (iii) plan reirradiation if necessary.
+

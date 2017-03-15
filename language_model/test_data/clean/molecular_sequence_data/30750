@@ -1,0 +1,3 @@
+
+We have used the program FOLD, which employs the Zuker folding algorithm, to identify regions of stable secondary structure in three chicken proto-oncogene mRNAs: c-src, c-myc, and c-fos. We have found that use of reverse transcriptase to synthesize a cDNA template for amplification by the polymerase chain reaction is successful only if the region chosen for amplification does not contain stem structures with calculated free energies less than -14 kcal/mol.
+

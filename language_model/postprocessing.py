@@ -28,5 +28,5 @@ def postprocess(vocabulary, input_file, output_file) :
                 outfile.write(" ")
             outfile.write("\n")
             
-vocab = vocabulary("srilm_models/nytimes.lm")
-postprocess(vocab, "test_data/clean/algorithms/0", "post_test/algorithms/0")
+#vocab = vocabulary("srilm_models/nytimes.lm")
+#postprocess(vocab, "test_data/clean/algorithms/0", "post_test/algorithms/0")

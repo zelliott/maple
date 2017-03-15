@@ -1,0 +1,3 @@
+
+The restriction endonuclease (ENase) NotI is blocked by methylation within its recognition sequence at 5'-GCGGCmCGC-3'. This sensitivity to methylation can be used to enhance the specificity of NotI in vivo and in vitro. Modification by M.FnuDII or M.BepI methyltransferases (MTase) (5'-mCGCG-3') will block NotI (5'-GCGGCCGC-3') cleavage at overlapping MTase/ENase sites 5'-CGCGGCCGC-3' (equivalent to 5'-GCGGCCGCG-3'), and increase the apparent cleavage specificity of NotI about twofold. This 'cross-protection' procedure reduces the number of NotI fragments in the genomes of Escherichia coli and Bacillus subtilis, as resolved by pulsed field electrophoresis. Application of this method to large DNAs in vitro requires the preparation of highly purified DNA MTases.
+

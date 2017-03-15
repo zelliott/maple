@@ -1,0 +1,9 @@
+
+Part of the planning and performance of neurosurgery consists of determining target areas, areas to be avoided, landmark areas, and zzso all of which are components of the surgical zzso Nowadays, zzso have access to zzso medical imaging to support the definition of the surgical zzso The purpose of this paper is to present a software environment developed by the authors that allows full zzso and zzso planning as well as zzso for zzso and tumor zzso 
+
+We have developed a data fusion environment dedicated to zzso around the zzso zzso zzso system zzso zzso zzso zzso This environment includes zzso zzso zzso zzso and zzso zzso It provides the zzso system with the zzso information involved in the definition of the surgical zzso zzso areas, zzso zzso segmented from magnetic resonance imaging zzso vessels segmented from magnetic resonance zzso zzso functional areas from zzso zzso and functional magnetic resonance imaging zzso for zzso zzso or language zzso These data are considered to be relevant for the performance of the surgical zzso The definition of each entity results from the same zzso registration to the anatomical zzso data set zzso as the reference data zzso zzso fused zzso display, selection of the relevant entities for the surgical step, zzso in zzso zzso zzso and storage of the zzso surfaces in a file recognized by the zzso software zzso zzso zzso zzso zzso 
+
+zzso zzso is illustrated with two clinical cases for which zzso information was introduced into the zzso zzso zzso areas were used to define and follow the surgical path, zzso and vessels helped identify the anatomical environment of the surgical field, and, finally, zzso and zzso functional information helped determine the position of functional high-risk zzso 
+
+In this short zzso the ability to access zzso zzso and anatomical data within the zzso system was a valuable support for the surgical zzso 
+

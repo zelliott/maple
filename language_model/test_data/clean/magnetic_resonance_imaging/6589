@@ -1,0 +1,3 @@
+
+Sequences based on the distant dipolar field (DDF) have shown great promise for novel spectroscopy and imaging. Unless spatial variation in the longitudinal magnetization, Mz(s), is eliminated by relaxation, diffusion, or spoiling techniques by the end of a single repetition, unexpected results can be obtained due to spatial harmonics in the steady state MzSS(s) profile. This is true even in a homogeneous single-component sample. We have developed an analytical expression for the MzSS(s) profile that occurs in DDF sequences when smearing by diffusion is negligible in the TR period. The expression has been verified by directly imaging the MzSS(s) profile after establishing the steady state.
+

@@ -1,0 +1,11 @@
+
+During the last years, many investigations focused on spontaneously active cerebral networks such as the default-mode network. A data-driven technique, the independent component analysis, allows segregating such spontaneous (co-)activity maps (SAM) from noise in functional magnetic resonance imaging (fMRI) time series. The inter-rater reliability of manual selection of not only the default-mode network but all SAMs remained to be assessed.
+
+The current study was performed on 20 min (400 volumes) fMRI time series of 30 healthy participants. SAMs' selection criteria were first established on past experience and from the literature. The inter-rater reliability of SAMs vs non-SAMs manual selection was then investigated from 250 independent components per participant.
+
+Inter-rater Kappa coefficient was of 0.89 ± 0.01 on whole analysis, and 0.88 ± 0.09 on participant per participant analysis.
+
+Without focusing on specific and predetermined SAMs only, our criteria allow a reliable selection of all SAMs including the idiosyncratic networks.
+
+The proposed SAM's selection criteria are reliable enough to allow scientific exploration of all SAMs at the single subject level.
+

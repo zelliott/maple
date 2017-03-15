@@ -1,0 +1,7 @@
+
+zzso are commonly used in molecular biology to provide a compact zzso representation of the conservation pattern of a set of zzso They render the information contained in sequence alignments or profile hidden zzso models by drawing a stack of letters for each position, where the height of the stack zzso to the conservation at that position, and the height of each letter within a stack depends on the frequency of that letter at that zzso 
+
+We present a new tool and web server, called zzso which provides a unified framework for creating logos for both sequence alignments and profile hidden zzso zzso In addition to zzso image files, zzso creates a novel interactive logo plot for inclusion in web zzso These interactive logos enable zzso zzso and inspection of underlying zzso zzso can avoid sampling bias in sequence alignments by zzso redundant sequences and by combining observed counts with informed zzso It also zzso the representation of gap zzso and can zzso scale letter heights based on alternate calculations of the conservation of a zzso 
+
+zzso is available as a zzso a zzso web service with a zzso zzso and as a software package for zzso zzso interactive logos are easily incorporated into a web page with just a few lines of zzso zzso zzso may be found at zzso 
+

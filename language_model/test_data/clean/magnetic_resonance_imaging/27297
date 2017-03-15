@@ -1,0 +1,9 @@
+
+Many studies have reported pre-processing effects for brain volumetry; however, no study has investigated whether non-parametric non-uniform intensity normalization (N3) correction processing results in reduced system dependency when using an atlas-based method. To address this shortcoming, the present study assessed whether N3 correction processing provides reduced system dependency in atlas-based volumetry.
+
+Contiguous sagittal T1-weighted images of the brain were obtained from 21 healthy participants, by using five magnetic resonance protocols. After image preprocessing using the Statistical Parametric Mapping 5 software, we measured the structural volume of the segmented images with the WFU-PickAtlas software. We applied six different bias-correction levels (Regularization 10, Regularization 0.0001, Regularization 0, Regularization 10 with N3, Regularization 0.0001 with N3, and Regularization 0 with N3) to each set of images. The structural volume change ratio (%) was defined as the change ratio (%) = (100 × [measured volume - mean volume of five magnetic resonance protocols] / mean volume of five magnetic resonance protocols) for each bias-correction level.
+
+A low change ratio was synonymous with lower system dependency. The results showed that the images with the N3 correction had a lower change ratio compared with those without the N3 correction.
+
+The present study is the first atlas-based volumetry study to show that the precision of atlas-based volumetry improves when using N3-corrected images. Therefore, correction for signal intensity non-uniformity is strongly advised for multi-scanner or multi-site imaging trials.
+

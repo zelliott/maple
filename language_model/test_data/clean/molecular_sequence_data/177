@@ -1,0 +1,3 @@
+
+A complexity-based approach is proposed to predict subcellular location of proteins. Instead of extracting features from protein sequences as done previously, our approach is based on a complexity decomposition of symbol sequences. In the first step, distance between each pair of protein sequences is evaluated by the conditional complexity of one sequence given the other. Subcellular location of a protein is then determined using the k-nearest neighbor algorithm. Using three widely used data sets created by Reinhardt and Hubbard, Park and Kanehisa, and Gardy et al., our approach shows an improvement in prediction accuracy over those based on the amino acid composition and Markov model of protein sequences.
+

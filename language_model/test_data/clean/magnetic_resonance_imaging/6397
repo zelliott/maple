@@ -1,0 +1,3 @@
+
+From a sequence of planar CT pictures of the hip joint the diagnostically relevant contours are extracted on a graphic monitor by means of an image-analysis process. To do this an image preprocessing is necessary to improve the quality of the CT pictures. These contour data permit a mathematical surface model of the hip joint to be derived using well-known methods of simulating an osteotomy. Three-dimensional reconstruction of the cartilage surface by MRI will be possible in the future. It will then be possible to plan computer-aided osteotomies with high accuracy.
+

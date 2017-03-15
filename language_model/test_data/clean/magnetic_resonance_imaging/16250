@@ -1,0 +1,9 @@
+
+No objective diagnostic biomarkers or laboratory tests have yet been developed for psychotic illness. Magnetic resonance imaging (MRI) studies consistently find significant abnormalities in multiple brain structures in psychotic patients relative to healthy control subjects, but these abnormalities show substantial overlap with anatomic variation that is in the normal range and therefore nondiagnostic. Recently, efforts have been made to discriminate psychotic patients from healthy individuals using machine-learning-based pattern classification methods on MRI data.
+
+Three-dimensional cortical gray matter density (GMD) maps were generated for 36 patients with recent-onset psychosis and 36 sex- and age-matched control subjects using a cortical pattern matching method. Between-group differences in GMD were evaluated. Second, the sparse multinomial logistic regression classifier included in the Multivariate Pattern Analysis in Python machine-learning package was applied to the cortical GMD maps to discriminate psychotic patients from control subjects.
+
+Patients showed significantly lower GMD, particularly in prefrontal, cingulate, and lateral temporal brain regions. Pattern classification analysis achieved 86.1% accuracy in discriminating patients from controls using leave-one-out cross-validation.
+
+These results suggest that even at the early stage of illness, psychotic patients present distinct patterns of regional cortical gray matter changes that can be discriminated from the normal pattern. These findings indicate that we can detect complex patterns of brain abnormality in early stages of psychotic illness, which has critical implications for early identification and intervention in individuals at ultra-high risk for developing psychosis/schizophrenia.
+

@@ -1,0 +1,9 @@
+
+The objective of this study was to implement a three-dimensional (3-D) T1 mapping sequence (3DLL) at 3.0 T for dGEMRIC based on the Look Locker scheme.
+
+Because all current reports on dGEMRIC are at 1.5 T and mostly using 2-D IR fast spin echo (FSE), data were acquired at 1.5 T and 3.0 T with both 3DLL and 2-D IR-FSE sequence. Phantoms with different concentrations of Gd(DTPA) were used and seven subjects (three asymptomatic, four symptomatic) were scanned using the dGEMRIC technique.
+
+The T1 measurements obtained on the phantom with 3DLL show very good agreement with those acquired with 2-D IR-FSE. Using a two-tailed paired t test, the T1 (Gd) measurements in two sections obtained in all subjects with both sequences were found to be statistically indistinguishable at either field strength (P = 0.07 at 1.5 T and P = 0.07 at 3.0 T).
+
+The preliminary data presented here suggest that the 3DLL sequence provides accurate T1 values with sufficient in-plane resolution and allows full joint coverage in less than 10 minutes.
+

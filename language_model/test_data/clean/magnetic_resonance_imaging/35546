@@ -1,0 +1,3 @@
+
+The issue of eddy currents induced by the rapid switching of magnetic field gradients is a long-standing problem. A new method for dealing with this problem is presented whereby spatial harmonic components of the magnetic field are continuously sensed, through their temporal rates of change, and corrected. In this way, the effects of the eddy currents on the magnetic field can be detected and correction currents applied to the appropriate gradient or shim coils in a time much less than the rise time of the gradients. This new methodology has the potential to dynamically shape eddy current corrections for multiple spatial harmonic components of the field.
+

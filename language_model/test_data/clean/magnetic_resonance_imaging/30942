@@ -1,0 +1,9 @@
+
+This paper describes our experience in developing a DICOM (Digital Imaging and Communications in Medicine) server based on widely available personal computers enabling to use X-ray digital images for teaching and scientific purposes.
+
+The system is based on a DICOM server running on a widely used personal computer. The selected DICOM images are collected directly from the radiological equipment or from a dedicated 3D image processing workstation through a LAN connection and converted into one of the standard formats (JPEG or GIF) to allow their direct importing into multimedia presentations for teaching or scientific purposes.
+
+This system allows fast and easy collection of radiological images in DICOM format directly from the diagnostic equipment or from the graphical workstation. These images may be used for scientific and teaching presentations without loss of image quality and colour characteristics in 3D images as there is no off-line acquisition process.
+
+The extensive possibilities of implement the system described on widely used PCs makes the system extremely versatile and facilitates the preparation of teaching material and scientific publications.
+

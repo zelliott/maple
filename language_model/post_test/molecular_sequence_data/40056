@@ -1,0 +1,7 @@
+
+The zzso gene prediction workshop zzso has been organized to evaluate how well state-of-the-art automatic gene finding methods are able to reproduce the manual and experimental gene zzso of the human zzso We have used zzso gene finding software to predict zzso zzso and promoters in 44 selected zzso sequences representing approximately zzso (30 zzso of the human zzso zzso of gene finding programs were evaluated in terms of their ability to reproduce the zzso zzso 
+
+The zzso gene prediction pipeline can identify zzso of coding zzso with a specificity of zzso Our automatic zzso zzso zzso zzso found zzso of the manually zzso zzso and some new zzso The zzso promoter prediction program identifies zzso of zzso promoters sequences with one false positive prediction per 2,000 zzso zzso and 50% of zzso promoters with one false positive prediction per 650 zzso It can be used to identify zzso start sites upstream of zzso coding parts of genes found by gene prediction zzso 
+
+We review our software and underlying methods for identifying these three important structural and functional zzso components and discuss the accuracy of predictions, recent advances and open problems in zzso zzso zzso We have demonstrated that our methods can be effectively used for initial automatic zzso of the zzso zzso 
+

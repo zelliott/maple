@@ -1,0 +1,7 @@
+
+Recent developments in the statistical physics of complex networks have been translated to neuroimaging data in an effort to enhance our understanding of human brain structural and functional networks. This review focuses on studies using graph theoretical measures applied to structural MRI, diffusion MRI, functional MRI, electroencephalography, and magnetoencephalography data.
+
+Complex network properties have been identified with some consistency in all modalities of neuroimaging data and over a range of spatial and time scales. Conserved properties include small worldness, high efficiency of information transfer for low wiring cost, modularity, and the existence of network hubs. Structural and functional network metrics have been found to be heritable and to change with normal aging. Clinical studies, principally in Alzheimer's disease and schizophrenia, have identified abnormalities of network configuration in patients. Future work will likely involve efforts to synthesize structural and functional networks in integrated models and to explore the interdependence of network configuration and cognitive performance.
+
+Graph theoretical analysis of neuroimaging data is growing rapidly and could potentially provide a relatively simple but powerful quantitative framework to describe and compare whole human brain structural and functional networks under diverse experimental and clinical conditions.
+

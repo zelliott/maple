@@ -1,0 +1,9 @@
+
+In this investigation, we compare two-dimensional (2D) fluid-attenuated inversion recovery (FLAIR) imaging of the brain to an isotropic three-dimensional (3D) FLAIR technique that uses a modulated refocusing flip angle echo train and parallel imaging with 2D acceleration.
+
+Two-dimensional and 3D FLAIR sequences were obtained in 16 patients. All examinations were performed on a 3 Tesla (T) magnetic resonance (MR) system. Flow artifacts within the subarachnoid space and ventricles were scored using a 4-point scale. For 2D and 3D FLAIR, the signal-to-noise ratios and contrast-to-noise ratios were calculated.
+
+Compared to 2D FLAIR, the 3D FLAIR images were less degraded by flow artifacts in the subarachnoid space and ventricle (P < 0.03) based on the qualitative imaging scores. Signal-to-noise ratios and contrast-to-noise ratios were higher for 3D FLAIR (P < 0.02) for all variables when compared with 2D FLAIR sequence.
+
+The acquisition time for whole brain isotropic fast spin echo 3D FLAIR can be dramatically reduced by using an extended echo train with flip angle modulation and parallel imaging. The adiabatic, nonselective inversion pulse encompasses the entire volume and provides uniform suppression of the cerebrospinal fluid signal eliminating cerebrospinal fluid pulsation artifacts. Other advantages include reformatting in any desired plane, volume measurements, displays of surface anatomy, and coregistration.
+

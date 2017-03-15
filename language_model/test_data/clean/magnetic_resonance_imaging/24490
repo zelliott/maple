@@ -1,0 +1,9 @@
+
+To examine whether magnetic resonance imaging (MRI)-based 3-dimensional (3-D) bone shape predicts the onset of radiographic knee osteoarthritis (OA).
+
+We conducted a case-control study using data from the Osteoarthritis Initiative by identifying knees that developed incident tibiofemoral radiographic knee OA (case knees) during followup, and matching them each to 2 random control knees. Using knee MRIs, we performed active appearance modeling of the femur, tibia, and patella and linear discriminant analysis to identify vectors that best classified knees with OA versus those without OA. Vectors were scaled such that -1 and +1 represented the mean non-OA and mean OA shapes, respectively. We examined the relation of 3-D bone shape to incident OA (new-onset Kellgren and Lawrence [K/L] grade ≥2) occurring 12 months later using conditional logistic regression.
+
+A total of 178 case knees (incident OA) were matched to 353 control knees. The whole joint (i.e., tibia, femur, and patella) 3-D bone shape vector had the strongest magnitude of effect, with knees in the highest tertile having a 3.0 times higher likelihood of developing incident radiographic knee OA 12 months later compared with those in the lowest tertile (95% confidence interval [95% CI] 1.8-5.0, P < 0.0001). The associations were even stronger among knees that had completely normal radiographs before incidence (K/L grade of 0) (odds ratio 12.5 [95% CI 4.0-39.3]). Bone shape at baseline, often several years before incidence, predicted later OA.
+
+MRI-based 3-D bone shape predicted the later onset of radiographic OA. Further study is warranted to determine whether such methods can detect treatment effects in trials and provide insight into the pathophysiology of OA development.
+

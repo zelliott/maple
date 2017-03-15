@@ -1,0 +1,7 @@
+
+Schizosaccharomyces pombe pik1 encodes a phosphatidylinositol 4-kinase, reported to bind Cdc4, but not Cdc4(G107S).
+
+Gene deletion revealed that pik1 is essential. In cells with pik1 deleted, ectopic expression of a loss-of-function allele, created by fusion to a temperature-sensitive dihydrofolate reductase, allowed normal cell proliferation at 25 degrees C. At 36 degrees C, cells arrested with abnormally thick, misplaced or supernumerary septa, indicating a defect late in septation. In addition to being Golgi associated, ectopically expressed GFP-tagged Pik1 was observed at the medial cell plane late in cytokinesis. New alleles, created by site-directed mutagenesis, were expressed ectopically. Lipid kinase and Cdc4-binding activity assays were performed. Pik1(D709A) was kinase-dead, but bound Cdc4. Pik1(R838A) did not bind Cdc4, but was an active kinase. Genomic integration of these substitutions in S. pombe and complementation studies in Saccharomyces cerevisiae pik1-101 cells revealed that D709 is essential in both cases while R838 is dispensable. In S. pombe, ectopic expression of pik1 was dominantly lethal; while, pik1(D709A,R838A) was innocuous, pik1(R838A) was almost innocuous, and pik1(D709A) produced partial lethality and septation defects. The pik1 ectopic expression lethal phenotype was suppressed in cdc4(G107S). Thus, D709 is essential for kinase activity and septation.
+
+Pik1 kinase activity is required for septation. The Pik1 R838 residue is required for important protein-protein interactions, possibly with Cdc4.
+

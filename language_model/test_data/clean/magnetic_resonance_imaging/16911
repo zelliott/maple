@@ -1,0 +1,9 @@
+
+We wanted to investigate the usefulness of event-related (ER) functional MRI (fMRI) for the assessment of cortical visual impairment in infants with periventricular leukomalacia (PVL).
+
+FMRI data were collected from 24 infants who suffered from PVL and from 12 age-matched normal controls. Slow ER fMRI was performed using a 3.0T MR scanner while visual stimuli were being presented. Data analysis was performed using Statistical Parametric Mapping software (SPM2), the SPM toolbox MarsBar was used to analyze the region of interest data, and the time to peak (TTP) of hemodynamic response functions (HRFs) was estimated for the surviving voxels. The number of activated voxels and the TTP values of HRFs were compared. Pearson correlation analysis was performed to compare visual impairment evaluated by using Teller Acuity Cards (TAC) with the number of activated voxels in the occipital lobes in all patients.
+
+In all 12 control infants, the blood oxygenation level-dependent (BOLD) signal was negative and the maximum response was located in the anterior and superior part of the calcarine fissure, and this might correspond to the anterior region of the primary visual cortex (PVC). In contrast, for the 24 cases of PVL, there were no activated pixels in the PVC in four subjects, small and weak activations in six subjects, deviated activations in seven subjects and both small and deviated activations in three subjects. The number of active voxels in the occipital lobe was significantly correlated with the TAC-evaluated visual impairment (p < 0.001). The mean TTP of the HRFs was significantly delayed in the cases of PVL as compared with that of the normal controls.
+
+Determining the characteristics of both the BOLD response and the ER fMRI activation may play an important role in the cortical visual assessment of infants with PVL.
+

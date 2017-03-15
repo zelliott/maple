@@ -1,0 +1,9 @@
+
+The Janus kinase 2 (JAK2) is important for embryonic primitive hematopoiesis. A gain-of-function JAK2 (JAK2(V617F)) mutation in human is pathogenetically linked to polycythemia vera (PV). In this study, we generated a zebrafish ortholog of human JAK2(V617F) (referred herewith jak2a(V581F)) by site-directed mutagenesis and examined its relevance as a model of human PV.
+
+Zebrafish embryos at one-cell stage were injected with jak2a(V581F) mRNA (200pg/embryo). In some experiments, the embryos were treated with a specific JAK2 inhibitor, TG101209. The effects of jak2a stimulation on hematopoiesis, jak/stat signaling, and erythropoietin signaling were evaluated at 18-somites.
+
+Injection with jak2a(V581F) mRNA significantly increased erythropoiesis, as enumerated by flow cytometry based on gfp(+) population in dissociated Tg(gata1:gfp) embryos. The response was reduced by stat5.1 morpholino coinjection (control: 4.37% +/- 0.08%; jak2a(V581F) injected: 5.71% +/- 0.07%, coinjecting jak2a(V581F) mRNA and stat5.1 morpholino: 4.66% +/- 0.13%; p<0.01). jak2a(V581F) mRNA also upregulated gata1 (1.83 +/- 0.08 fold; p=0.005), embryonic alpha-hemoglobin (1.61 +/- 0.12 fold; p=0.049), and beta-hemoglobin gene expression (1.65 +/- 0.13-fold; p=0.026) and increased stat5 phosphorylation. These responses were also ameliorated by stat5.1 morpholino coinjection or treatment with a specific JAK2 inhibitor, TG101209. jak2a(V581F) mRNA significantly reduced erythropoietin gene (0.24 +/- 0.03 fold; p=0.006) and protein expression (control: 0.633+/-0.11; jak2a(V581F) mRNA: 0.222+/-0.07 mIU/mL; p=0.019).
+
+The zebrafish jak2a(V581F) model shared many features with human PV and might provide us with mechanistic insights of this disease.
+

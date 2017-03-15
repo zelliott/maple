@@ -1,0 +1,9 @@
+
+To develop a simple correction approach to mitigate shading in 3 Tesla (T) breast MRI.
+
+A slightly modified breast receive (Rx) array, which we termed field shaping array (FSA), was shown to mitigate breast shading at 3T. In this FSA, one Rx element was selectively unblocked and tuned off the Larmor frequency during the transmit (Tx) phase. The current flowing in this element during Tx created a secondary transmit field; the vector addition of this field and the one created directly by the body coil resulted in a more uniform excitation profile over the entire breast area. The receive Rx element was returned to its intended tuning during the Rx phase, ensuring unperturbed signal reception.
+
+Using the FSA, improved Tx field uniformity, better fat suppression, increased image homogeneity and reduced power deposition was seen in all volunteers studied.
+
+A simple modification of a standard breast Rx array, converting it to a field shaping array, was shown to mitigate breast shading in all volunteers studied.
+

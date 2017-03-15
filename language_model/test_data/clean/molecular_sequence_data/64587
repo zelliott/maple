@@ -1,0 +1,7 @@
+
+The database of transmembrane protein (TMP) structures is still very small. At the same time, more and more TMP sequences are being determined. Molecular modeling is an interim answer that may bridge the gap between the two databases. The first step in homology modeling is to achieve a good alignment between the target sequences and the template structure. However, since most algorithms to obtain the alignments were constructed with data derived from globular proteins, they perform poorly when applied to TMPs. In our application, we automate the alignment procedure and design it specifically for TMP. We first identify segments likely to form transmembrane alpha-helices. We then apply different sets of criteria for transmembrane and non-transmembrane segments. For example, the penalty for insertion/deletions in the transmembrane segments is much higher than that of a penalty in the loop region. Different substitution matrices are used since the frequencies of occurrence of the various amino acids differ for transmembrane segments and water-soluble domains.
+
+This program leads to better models since it does not treat the protein as a single entity with the same properties, but accounts for the different physical properties of the various segments. STAM is the first multisequence alignment program that is directly targeted at transmembrane proteins.
+
+Source code and installation package are available on request from the authors. Web access is currently implemented.
+

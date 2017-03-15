@@ -1,0 +1,3 @@
+
+A three-dimensional (3D) model of the peripheral benzodiazepine receptor (PBR) has been built using molecular dynamics simulations. The transmembrane domain of the receptor has been modeled as five alpha-helices, which are not long enough to cross the entire bilayer membrane but correspond approximately to only one phospholipid layer. The receptor model has also been tested as a cholesterol carrier, and molecular dynamics simulations have shown that it could indeed accommodate a cholesterol molecule within the five helices. All three known PBR sequences have been modeled, and no significant difference has been found between them.
+

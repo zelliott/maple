@@ -1,0 +1,7 @@
+
+Bacterial DNA gyrase is a validated target for antibacterial chemotherapy. It consists of two subunits, GyrA and GyrB, which form an A₂B₂ complex in the active enzyme. Sequence alignment of Mycobacterium tuberculosis GyrB with other bacterial GyrBs predicts the presence of 40 potential additional amino acids at the GyrB N-terminus. There are discrepancies between the M. tuberculosis GyrB sequences retrieved from different databases, including sequences annotated with or without the additional 40 amino acids. This has resulted in differences in the GyrB sequence numbering that has led to the reporting of previously known fluoroquinolone-resistance mutations as novel mutations.
+
+We have expressed M. tuberculosis GyrB with and without the extra 40 amino acids in Escherichia coli and shown that both can be produced as soluble, active proteins. Supercoiling and other assays of the two proteins show no differences, suggesting that the additional 40 amino acids have no effect on the enzyme in vitro. RT-PCR analysis of M. tuberculosis mRNA shows that transcripts that could yield both the longer and shorter protein are present. However, promoter analysis showed that only the promoter elements leading to the shorter GyrB (lacking the additional 40 amino acids) had significant activity.
+
+We conclude that the most probable translational start codon for M. tuberculosis GyrB is GTG (Val) which results in translation of a protein of 674 amino acids (74 kDa).
+

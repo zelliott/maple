@@ -1,0 +1,9 @@
+
+Internal MRI coils have important applications in diagnostic and interventional studies. Since they can be placed very close to the region of interest in the body, they are favored over external coils in applications where high-resolution images are required. In this paper it is demonstrated that ultimate intrinsic SNR (UISNR) and the optimum coil sensitivity solutions can be used to make new coil designs with higher intrinsic SNR.
+
+In this study, UISNR, which is the maximum attainable value of the intrinsic SNR, is used as a measure of performance and as a design criterion. As an example, a novel endorectal MRI coil is designed. The design is tested with phantom and patient studies.
+
+An endorectal coil is built to demonstrate the effectiveness of the design strategy. ISNR of the endorectal coil approximates the UISNR to 72%.
+
+An internal coil design method that takes advantage of the UISNR and optimum coil sensitivity calculations was presented. This method can also be used to design better internal MRI coils for different applications.
+

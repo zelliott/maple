@@ -1,0 +1,9 @@
+
+To employ a magnetic resonance (MR) imaging technique for quantitative assessment of thin cartilage layers, and to validate the cartilage volume and thickness measurements.
+
+We investigated 10 normal elbow joints (age 20 to 69 years) with a 3D gradient echo sequence with selective water excitation (TR 18 ms; TE 9 ms; FA 25 degrees, resolution 1x0.25x0.25 mm2, imaging time 19 min). After interpolating the image data to a 0.125x0.125 mm2 in-plane resolution, the cartilage plates were segmented, reconstructed in 3D, and the cartilage volume and thickness determined with a 3D Euclidean distance transformation algorithm, independent of the original section plane. The cartilage volume and thickness values were compared with CT arthrography and A-mode ultrasound.
+
+The mean systematic difference between the elbow cartilage volume obtained from MR imaging and CT arthrography was -0.11% (-6.0 mm3) and the mean random difference 5.7% (314 mm3). Except for the fovea capitis radii, the deviations were not statistically significant (range -7.6 to +11.7%). In the humerus, the mean cartilage thickness (average = 1.35 mm) was overestimated relative to CT arthrography (+20.7%/+0.23 mm), and slightly underestimated relative to A-mode ultrasound (-6.0%/-0.05 mm). With few exceptions, there were no significant differences between MRI, CT arthrography and ultrasound in the other joint surfaces of the elbow (random deviations between 0.08 and 0.39 mm).
+
+The technique presented can be applied for determining the cartilage volume and 3D thickness in joints with thin cartilage layers with a reasonable degree of accuracy.
+

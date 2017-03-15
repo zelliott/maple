@@ -1,0 +1,9 @@
+
+To develop and test an artificial neural network (ANN) for predicting biochemical recurrence based on the combined use of pelvic coil magnetic resonance imaging (pMRI), prostate-specific antigen (PSA) measurement, and biopsy Gleason score, after radical prostatectomy and to investigate whether it is more accurate than logistic regression analysis (LRA) in men with clinically localized prostate cancer.
+
+We evaluated 191 consecutive men who had undergone retropubic radical prostatectomy for clinically localized prostate cancer. None of the men had lymph node metastasis as determined by adequate follow-up and pathologic criteria. The preoperative predictive variables included clinical TNM stage, serum PSA level, biopsy Gleason score, and pMRI findings. The predicted result was biochemical failure (PSA level of 0.1 ng/mL or greater). The patient data were randomly split into four cross-validation sets and used to develop and validate the LRA and ANN models. The predictive ability of the ANN was compared with that of LRA, Han tables, and the Kattan nomogram using area under the receiver operating characteristic curve (AUROC) analysis.
+
+Of the 191 patients, 57 (30%) developed disease progression at a median follow-up of 64 months (mean 61, range 2 to 86). Using all the input variables, the AUROC of the ANN was significantly greater (P <0.05) than the AUROC of LRA, Han tables, or the Kattan nomogram for the prediction of PSA recurrence 5 years after radical prostatectomy (0.897 +/- 0.063 versus 0.785 +/- 0.060, 0.733 +/- 0.061, and 0.737 +/- 0.071, respectively). Removing the pMRI findings from the previous models, the AUROC of the ANN decreased statistically significantly (P <0.05) and was comparable to the AUROC of conventional predictive tools (P >0.05).
+
+Using the pMRI findings, the ANN was superior to LRA, predictive tables, and nomograms to predict biochemical recurrence accurately. Confirmatory studies are warranted.
+

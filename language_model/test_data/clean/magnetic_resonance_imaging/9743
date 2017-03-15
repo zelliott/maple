@@ -1,0 +1,9 @@
+
+To compare the nodal risk formula (NRF) as a predictor for lymph node (LN) metastasis in patients with prostate cancer with magnetic resonance lymphography (MRL) using Ultrasmall Super-Paramagnetic particles of Iron Oxide (USPIO) and with histology as gold standard.
+
+Logistic regression analysis was performed with the results of histopathological evaluation of the LN as dependent variable and the nodal risk according to the NRF and the result of MRL as independent input variables. Receiver operating characteristic (ROC) analysis was performed to assess the performance of the models.
+
+The analysis included 375 patients. In the single-predictor regression models, the NRF and MRL results were both significantly (p<0.001) predictive of the presence of LN metastasis. In the models with both predictors included, NRF was nonsignificant (p=0.126), but MRL remained significant (p<0.001). For NRF, sensitivity was 0.79 and specificity was 0.38; for MRL, sensitivity was 0.82 and specificity was 0.93. After a negative MRL result, the probability of LN metastasis is 4% regardless of the NRF result. After a positive MRL, the probability of having LN metastasis is 68%.
+
+MRL is a better predictor of the presence of LN metastasis than NRF. Using only the NRF can lead to a significant overtreatment on the pelvic LN by radiation therapy. When the MRL result is available, the NRF is no longer of added value.
+

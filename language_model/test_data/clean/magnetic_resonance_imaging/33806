@@ -1,0 +1,7 @@
+
+Real-time control of the heating procedure is essential for hyperthermia applications of focused ultrasound (FUS). The objective of this study is to demonstrate the feasibility of MRI-controlled FUS.
+
+An automatic control system was developed using a dedicated interface between the MR system control computer and the FUS wave generator. Two algorithms were used to regulate FUS power to maintain the focal point temperature at a desired level.
+
+Automatic control of FUS power level was demonstrated ex vivo at three target temperature levels (increase of 5 degrees C, 10 degrees C, and 30 degrees C above room temperature) during 30-minute hyperthermic periods. Preliminary in vivo results on rat leg muscle confirm that necrosis estimate, calculated on-line during FUS sonication, allows prediction of tissue damage. CONCLUSIONS. The feasibility of fully automatic FUS control based on MRI thermometry has been demonstrated.
+

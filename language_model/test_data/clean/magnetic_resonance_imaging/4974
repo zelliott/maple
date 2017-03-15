@@ -1,0 +1,9 @@
+
+To investigate the use of a complex multigradient echo (mGRE) acquisition and an autoregressive moving average (ARMA) model for simultaneous susceptibility and R 2 measurements for the assessment of liver iron content (LIC) in patients with iron overload.
+
+Fifty magnetic resonance imaging (MRI) exams with magnitude and phase mGRE images were processed using the ARMA model, which provides fat-separated field maps, R 2 maps, and T(1) -W imaging. The LIC was calculated by measuring the susceptibility between the liver and the right transverse abdominal muscle from the field maps. The relationship between LIC derived from susceptibility measurements and LIC from R 2 measurements was determined using linear least-squares regression analysis.
+
+LIC measured from R 2 is highly correlated to the LIC with the susceptibility method (mg/g dry = 8.99 ± 0.15 × [mg Fe/mL of wet liver] -2.38 ± 0.29, R(2) = 0.94). The field inhomogeneity in the liver is correlated with R 2 (R(2) = 0.85).
+
+By using the ARMA model on complex mGRE images, both susceptibility and R 2-based LIC measurements can be made simultaneously. The susceptibility measurement can be used to help verify R 2 measurements in the assessment of iron overload.
+

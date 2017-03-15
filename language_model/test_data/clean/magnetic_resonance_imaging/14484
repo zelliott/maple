@@ -1,0 +1,9 @@
+
+PURPOSE : Characterizing aspheric deformities of the femoral head-neck junction in cam-type femoroacetabular impingement (FAI) requires representing the location, size, or extent of the bony lesion. The objectives of this work are to (1) assess the feasibility of creating 3D models of cam deformities from MRI sets, (2) present a standardized 2D visualization of the lesion, and (3) present and evaluate the potential utility of summary metrics in distinguishing between FAI patients and control subjects.
+
+Using MRIs from five subjects with diagnosed cam-type FAI and four healthy subjects, we developed a technique based on subtracting an estimated normal surface from each subject's actual bone surface in order to generate a subject-specific 2D "diagnosis graph" that characterized the femoral deformity. The models from three control subjects were combined to create the baseline model.
+
+The RMS fitting error between the surface models of individual control subjects and their corresponding baseline models was 1.05 mm across the head and the head-to-neck transition region. In the anterosuperior region of the 2D diagnosis graphs, the mean height of the detected cam deformities relative to the estimated baseline normal shape was 17.9 % of the head radius for the five FAI subjects (95 % CI 8.5-27.3 %) and 7.0 % (95 % CI 2.9-11.1 %) for the four control subjects. A binary logistic regression analysis indicated that an h/r ratio larger than a threshold of [Formula: see text] = 10.7 % (equivalent to approximately 2.3 mm in height) yielded the best discrimination between cam-type FAI subjects and normal subjects.
+
+Our 2D diagnosis graph qualitatively enabled the cam-type lesions in four of our five diagnosed patients to be clearly visualized on MRI-derived models. We believe this visualization tool may be helpful in better characterizing cam-type lesions for diagnosis and for developing more precise plans for surgical treatment.
+

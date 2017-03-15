@@ -1,0 +1,9 @@
+
+Clinical 3 T MRI systems are rapidly increasing and MRI systems with a static field of 7 T or even more have been installed. The RF power deposition is proportional to the square of the static magnetic field strength and is characterized by the specific absorption rate (SAR). Therefore, there exist defined safety limits to avoid heating of the patient. Here, we describe a hybrid method to significantly reduce the SAR compared to a turbo-spin-echo (TSE) sequence.
+
+We investigate the potential benefits of a combined acquisition technique (CAT) for high-field neuroimaging at 3 and 7 T. The TSE/EPI CAT experiments were performed on volunteers and patients and compared with standard TSE and GRASE protocols. Problems and solutions regarding T2 weighted CAT imaging are discussed.
+
+We present in vivo images with T2 and proton density contrast obtained on 3 and 7 T with significant SAR reduction (up to 60%) compared with standard TSE. Image quality is comparable to TSE but CAT shows fewer artifacts than a GRASE sequence.
+
+CAT is a promising candidate for neuroimaging at high fields up to 7 T. The SAR reduction allows one to shorten the waiting time between two excitations or to image more slices thereby reducing the overall measurement time.
+

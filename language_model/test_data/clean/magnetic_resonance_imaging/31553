@@ -1,0 +1,9 @@
+
+To develop accurate and reliable equations from simple anthropometric parameters that would predict percentage of total body fat (%BF), total abdominal fat (TAF), subcutaneous abdominal adipose tissue (SCAT), and intra-abdominal adipose tissue (IAAT) with a fair degree of accuracy.
+
+Anthropometry, %BF by dual-energy X-ray absorptiometry (DXA) in 171 healthy subjects (95 men and 76 women) and TAF, IAAT, and SCAT by single slice magnetic resonance imaging (MRI) at L3-4 intervertebral level in 100 healthy subjects were measured. Mean age and BMI were 32.2 years and 22.9 kg/m(2), respectively. Multiple regression analysis was used on the training data set (70%) to develop equations, by taking anthropometric and demographic variables as potential predictors. Predicted equations were applied on validation data set (30%).
+
+Multiple regression analysis revealed the best equation for predicting %BF to be: %BF = 42.42 + 0.003 x age (years) + 7.04 x gender (M = 1, F = 2) + 0.42 x triceps skinfold (mm) + 0.29 x waist circumference (cm) + 0.22 [corrected] x weight (kg) - 0.42 x height (cm) (R (2) = 86.4%). The most precise predictive equation for estimating IAAT was: IAAT (mm(2)) = -238.7 + 16.9 x age (years) + 934.18 x gender (M = 1, F = 2) + 578.09 x BMI (kg/m(2)) - 441.06 x hip circumference (cm) + 434.2 x waist circumference (cm) (R (2) = 52.1%). SCAT was best predicted by: SCAT (mm(2)) = -49,376.4 - 17.15 x age (years) + 1,016.5 x gender (M = 1, F = 2) +783.3 x BMI (kg/m(2)) + 466 x hip circumference (cm) (R (2) = 67.1).
+
+We present predictive equations to quantify body fat and abdominal adipose tissue sub-compartments in healthy Asian Indians. These equations could be used for clinical and research purposes.
+

@@ -1,0 +1,5 @@
+
+Current short read mapping programs are based on the reasonable premise that most sequencing errors occur near the zzso end of the zzso These programs map reads with either a small number of zzso in the entire read, or a small number of zzso in the segment remaining after trimming bases from the zzso end or a single base from the zzso zzso Though multiple sequencing errors most likely occur near the zzso end of the reads, they can still occur at the zzso end of the zzso zzso from the zzso end will not be able to map these zzso We have developed a program, zzso zzso zzso zzso based on the concept of query matching that is designed to capture a zzso length match within the short read satisfying the user defined error zzso This query matching approach thus zzso multiple sequencing errors at both zzso We demonstrate that this technique achieves greater sensitivity and a higher percentage of uniquely mapped reads when compared to existing programs such as zzso zzso and zzso Software and Test Data 
+
+zzso 
+

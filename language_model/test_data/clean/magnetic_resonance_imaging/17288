@@ -1,0 +1,9 @@
+
+The analysis of brain imaging data such as functional MRI often requires considerable computing resources, which in most cases are not readily available in many medical imaging facilities. This lack of computing power makes it difficult for researchers and medical practitioners alike to perform on-site analysis of the generated data. This paper presents a system that is capable of analyzing functional MRI data in real time with results available within seconds after data acquisition.
+
+The system employs remote computational servers to provide the necessary computing power. System integration is accomplished by an accompanying software package, which includes fMRI analysis tools, data transfer routines, and an easy-to-use graphical user interface. The remote analysis is transparent to the user as if all computations are performed locally.
+
+The use of PC clusters in the analysis of fMRI data significantly improved the performance of the system. Simulation runs fully achieved real-time performance with a total processing time of 1.089 s per image volume (64 x 64 x 30 in size), much less than the per volume acquisition time set to 3.0 s.
+
+The results show the feasibility of using remote computational resources to enable on-demand real-time fMRI capabilities to imaging sites. It also offers the possibility of doing more intensive analysis even if the imaging site doesn't have the necessary computing resources.
+

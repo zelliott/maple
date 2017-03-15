@@ -1,0 +1,9 @@
+
+The purpose of this study was to increase the allowed number of acquired slices per unit time (i.e., time efficiency) for high-power deposition breath-hold abdominal acquisitions at 3.0 T.
+
+Abdominal MRI protocols include various T1-weighted, T2-weighted, and contrast-enhanced acquisitions that require extended spatial coverage and resolution. Ideally, each acquisition is completed within one breath-hold. At 3.0 T, power deposition (i.e., specific absorption rate [SAR]) concerns can limit achieving these conflicting needs because conventional sequences are based on 6-minute time-average SAR requirements. We optimized abdominal-specific sequences based on an approved short-term 10-second time-average SAR criterion and added a delay time after breath-holding to fulfill the long-term 6-minute time-average power deposition regulation.
+
+Using our strategy, image acquisition time efficiency at 3.0 T was increased approximately twofold compared with conventional abdominal breath-hold pulse sequences for 2D dual-echo gradient-recalled echo, single-shot fast spin-echo, and 3D steady-state free precession sequences. Volunteers experienced a slight sensation of warmth for the single-shot fast spin-echo implementation, the most SAR-intensive sequence.
+
+Our optimization strategy is not vendor-specific, is easily implemented for all conventional scanners (provided one can access and modify the pulse sequences directly, or the vendors can make the necessary changes), yields a higher slice-per-unit-time imaging efficiency, and still satisfies all the regulatory power deposition requirements.
+

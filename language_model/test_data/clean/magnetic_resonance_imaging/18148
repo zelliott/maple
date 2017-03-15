@@ -1,0 +1,9 @@
+
+To present a method for generating reference maps of typical brain characteristics of groups of subjects using a novel combination of rapid quantitative Magnetic Resonance Imaging (qMRI) and brain normalization. The reference maps can be used to detect significant tissue differences in patients, both locally and globally.
+
+A rapid qMRI method was used to obtain the longitudinal relaxation rate (R1), the transverse relaxation rate (R2) and the proton density (PD). These three tissue properties were measured in the brains of 32 healthy subjects and in one patient diagnosed with Multiple Sclerosis (MS). The maps were normalized to a standard brain template using a linear affine registration. The differences of the mean value ofR1, R2 and PD of 31 healthy subjects in comparison to the oldest healthy subject and in comparison to an MS patient were calculated. Larger anatomical structures were characterized using a standard atlas. The vector sum of the normalized differences was used to show significant tissue differences.
+
+The coefficient of variation of the reference maps was high at the edges of the brain and the ventricles, moderate in the cortical grey matter and low in white matter and the deep grey matter structures. The elderly subject mainly showed significantly lower R1 and R2 and higher PD values along all sulci. The MS patient showed significantly lower R1 and R2 and higher PD values at the edges of the ventricular system as well as throughout the periventricular white matter, at the internal and external capsules and at each of the MS lesions.
+
+Brain normalization of rapid qMRI is a promising new method to generate reference maps of typical brain characteristics and to automatically detect deviating tissue properties in the brain.
+

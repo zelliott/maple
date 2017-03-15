@@ -1,0 +1,9 @@
+
+Dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) is a radiological tool for the detection and discrimination of breast lesions. The aim of this study is to evaluate a computer-aided diagnosis (CAD) system for discriminating malignant from benign breast lesions at DCE-MRI by the combined use of morphological, kinetic, and spatiotemporal lesion features.
+
+Fifty-four malignant and 19 benign breast lesions in 51 patients were retrospectively evaluated. Images were acquired at two centers at 1.5 T. Mass-like lesions were automatically segmented after image normalization and elastic coregistration of contrast-enhanced frames. For each lesion, a set of 28 3D features were extracted: ten morphological (related to shape, margins, and internal enhancement distribution); nine kinetic (computed from signal-to-time curves); and nine spatiotemporal (related to the variation of the signal between adjacent frames). A support vector machine (SVM) was trained with feature subsets selected by a genetic search. Best subsets were composed of the most frequent features selected by majority rule. The performance was measured by receiver operator characteristics analysis with a stratified tenfold cross-validation and bootstrap method for confidence intervals.
+
+SVM training by the three separated classes of features resulted in an area under the curve (AUC) of 0.90 ± 0.04 (mean ± standard deviation), 0.87 ± 0.06, and 0.86 ± 0.06 for morphological, kinetic, and spatiotemporal feature, respectively. Combined training with all 28 features resulted in AUC of 0.96 ± 0.02 obtained with a selected feature subset composed by two morphological, one kinetic, and two spatiotemporal features.
+
+Quantitative combination of morphological, kinetic, and spatiotemporal features is feasible and provides a higher discriminating power than using the three different classes of features separately.
+

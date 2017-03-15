@@ -1,0 +1,9 @@
+
+The aim of this work is to provide a supervised method to assist the diagnosis and monitor the progression of the Alzheimer's disease zzso using information which can be extracted from a functional magnetic resonance imaging zzso zzso 
+
+The proposed method consists of five zzso zzso zzso of zzso data, zzso modeling of the zzso zzso time series using a generalized linear model, zzso feature extraction from the zzso experiment, zzso feature selection, and zzso zzso using the random forests zzso In the last stage we employ features that were extracted from the zzso and other features such as zzso behavioral and zzso zzso The aim of the zzso is twofold: first to diagnose zzso and second to zzso zzso as very mild and zzso 
+
+The method is evaluated using data from 41 zzso The stage of zzso is established using the Washington University Alzheimer's Disease Research Center recruitment and assessment zzso The method zzso a patient as healthy or zzso with zzso sensitivity and zzso zzso and the stages of zzso with zzso and zzso accuracy for the three class and the four class problem, zzso 
+
+The method is advantageous since it is fully automated and for the first time the diagnosis and staging of the disease are addressed using zzso 
+

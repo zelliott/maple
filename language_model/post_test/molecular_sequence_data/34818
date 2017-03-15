@@ -1,0 +1,7 @@
+
+One of the most evident achievements of zzso is the development of methods that transfer biological knowledge from zzso proteins to zzso zzso This mode of protein function assignment is mostly based on the detection of sequence similarity and the premise that functional properties are zzso during zzso Most automatic approaches developed to date rely on the identification of clusters of zzso proteins and the mapping of new proteins onto these zzso which are expected to share functional zzso 
+
+Here, we inverse the logic of this process, by considering the mapping of sequences directly to a functional zzso instead of mapping functions to a sequence zzso In this mode, the starting point is a database of zzso proteins according to a functional zzso zzso and the subsequent use of sequence similarity allows defining the membership of new proteins to these functional zzso In this zzso we define the zzso zzso as measures of relationship between sequence and function and further formulate two zzso approaches to estimate the probability for a sequence of unknown function to belong to a functional zzso This approach allows the zzso of different sequence search strategies and provides a direct measure of zzso error zzso We validate this approach with a database of zzso zzso by their corresponding zzso zzso numbers and zzso specific zzso 
+
+The performance of this method is significantly higher than the simple strategy consisting in transferring the zzso from the highest scoring zzso match and is expected to find applications in automated functional zzso zzso 
+

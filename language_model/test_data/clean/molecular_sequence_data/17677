@@ -1,0 +1,3 @@
+
+From protein sequence comparison data found in the literature, a library was organized using peptide fragment sequences which are common to related proteins. Each of the fragments was then examined for its occurrence in all the protein superfamilies defined by the NBRF-PIR data base. We have selected those fragment peptides that appear exclusively in one or a few superfamilies, and thus made a library of fragment peptides that characterize specific superfamilies. Such characteristic peptides are, in general, five to seven residues long and contain unusually high proportions of glycine and cysteine. This collection is a useful resource for the classification and functional prediction of protein molecules.
+

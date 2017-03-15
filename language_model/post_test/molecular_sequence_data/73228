@@ -1,0 +1,5 @@
+
+When evaluating the results of a sequence similarity search, there are many situations where it can be useful to determine whether sequences appearing in the results share some distinguishing zzso Such zzso between database entries are often not readily identifiable, but can yield important new insights into the biological function of a gene or zzso 
+
+We have developed a program called zzso that sorts the results of a zzso sequence similarity search according to sequence membership in zzso zzso of zzso To demonstrate the utility of this application, we have constructed two cluster zzso The first describes clusters of zzso sequences representing the same zzso as documented in the zzso database, and the second describes clusters of protein sequences which are members of the protein families documented in the zzso zzso zzso databases and the zzso zzso provide an efficient mechanism for identifying and exploring relationships and zzso between new sequences and database zzso 
+

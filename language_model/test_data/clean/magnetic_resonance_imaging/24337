@@ -1,0 +1,9 @@
+
+Zero echo time (ZTE) imaging is a robust and silent 3D radial technique suitable for direct MRI of tissues with very rapid transverse relaxation. Given its successful application on micro- and animal MRI systems, the purpose of this work is to enable and demonstrate ZTE imaging in humans using a whole-body magnet.
+
+A commercial 7 T MRI scanner was complemented by rapid high-power transmit-receive switches, a custom-built spectrometer, and a proton-free detector coil. With this setup, transmit-receive switching is achieved within 1 µs, radiofrequency (RF) excitation is performed in 3 µs, and digital bandpass filtering takes 5.3 µs, resulting in an effective dead time of only 5 µs.
+
+ZTE imaging was performed at 250 and 500 kHz bandwidth with central k-space gaps of 1.2 and 2.5 Nyquist intervals and repetition times of 739 and 471 µs. The technique was applied for silent 3D imaging of the head and joints of human volunteers at an isotropic resolution down to 0.83 mm. A sound pressure level of 41 dB(A) was measured, which is a reduction of more than 40 dB(A) compared to gradient-switched MRI.
+
+ZTE imaging in humans was demonstrated for the first time, enabled by dedicated, high-performing RF hardware.
+

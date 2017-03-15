@@ -1,0 +1,9 @@
+
+Echocardiographic assessment of LV wall motion is still most frequently done visually. This study was designed to validate a new system for semi-automatic quantification of global and regional LV systolic function from contrast-enhanced cross-sectional echocardiograms.
+
+Measurements of LV volumes were validated in 50 patients using magnetic resonance (MR) as reference. The regional identification of the endocardial boundary was validated frame-by-frame against the visually identified border in another 27 patients. Finally, the applicability of the system for quantifying stress-echocardiographic exams was assessed in 52 patients undergoing dobutamine interventions. Echocardiographic sequences were digitally processed using custom-built algorithms, based on local phase feature descriptors, deformable contour fitting, and prospective training.
+
+Compared to MR, the tracing system showed reasonable accuracy, with relative errors for end-diastolic volume, end-systolic volume, and EF of 21+/-20%, 27+/-33%, and--4+/-18%, respectively. Regional agreement of the instantaneous contours with visually traced borders was within the limits of visual reproducibility. The system was suitable for tracking stress-echo studies from all patients except two (96%). Quantification of regional radial shortening allowed to discriminate segments showing an abnormal regional wall motion with an overall area under the ROC curve of 0.87.
+
+A reliable and accurate quantification of LV systolic function can be obtained by processing contrast echocardiograms. Values of LV volumes, ejection fraction, and regional endocardial shortening adequately correlate with currently available reference methods. Readily applicable to baseline and stress studies, endocardial tracking techniques increase the reliability of echocardiography for the assessment of global and regional systolic function.
+

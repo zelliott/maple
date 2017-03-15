@@ -1,0 +1,9 @@
+
+To develop an automated planning method to obtain double oblique slices for clinically relevant diagnoses of spine-related pathologies.
+
+Thirty healthy volunteers, 18 patients with cervical spine (c-spine) pathologies, and 15 patients with lumbar spine (l-spine) pathologies were included in this study. The planning method requires no interaction and is calculated online on the MR scanner after two sagittal acquisitions (a MR myelogram and standard T2-weighted (T2W) acquisition). The planning of the subsequent double oblique slice packets is calculated automatically. The results from the volunteers were evaluated visually by an operating technician. The results obtained in a clinical trial from interactive planning by an operating technician and from automated planning were compared.
+
+Visual assessment of the planned slices in the T2W images of all subjects confirmed the accuracy and robustness of the method for both applications. The differences in positions and orientations between interactively and automatically planned transverse series were within the range of interindividual variability.
+
+he new approach can be used to automatically plan double oblique MR images for examination of spine-related pathologies with high reliability and robustness. The major advantage is that simultaneous planning in the transversal-coronal and transversal-sagittal orientations can be performed without any additional measurement. Another advantage is that standardized localization of the nerve roots in the center of the image can be obtained.
+

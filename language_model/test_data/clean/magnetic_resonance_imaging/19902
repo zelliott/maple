@@ -1,0 +1,3 @@
+
+A method is described for denoising multiple-echo data sets using singular value decomposition (SVD). Images are acquired using a multiple gradient- or spin-echo sequence, and the variation of the signal with echo time (TE) in all pixels is subjected to SVD analysis to determine the components of the signal variation. The least significant components are associated with small singular values and tend to characterize the noise variation. Applying a "minimum variance" filter to the singular values suppresses the noise components in a way that optimally approximates the underlying noise-free images. The result is a reduction in noise in the individual TE images with minimal degradation of the spatial resolution and contrast. Phantom and in vivo results are presented.
+

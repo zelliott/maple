@@ -1,0 +1,9 @@
+
+To compare the performance of birdcage, transverse electromagnetic (TEM) and microstrip volume coils at 7T under the same geometric conditions.
+
+Birdcage, TEM, and microstrip coils are modeled with the same dimensions. The finite difference time domain (FDTD) method is adopted to calculate the electromagnetic fields of the coils. Further, B(1) field, specific absorption rate (SAR) and signal-to-noise ratio (SNR) are calculated for these coils.
+
+In the unloaded case, within the central axial plane, the variation of B(1) field magnitude over 18-cm distance is about 15% for the birdcage coil, 23% for the TEM coil, and 38% for the microstrip coil. In the loaded case, the percentages of the samples on the central axial plane, which have B(1) field magnitude within +/-20% of the average B(1) field magnitude, are about 57% for the birdcage, 72% for the TEM, and 59% for the microstrip coil. Average SAR levels are 11.4% and 42.9% higher in the birdcage than those in the TEM and microstrip coils, respectively. The average relative SNR on the central axial plane for the shielded birdcage, TEM, and microstrip coils are 1, 1.07, and 1.48, respectively.
+
+The birdcage coil has the best unloaded B(1) field homogeneity, and the TEM coil has the best loaded B(1) field homogeneity and the lowest radiation loss; while the microstrip coil is better in SAR and SNR at 7T than the birdcage and TEM coils.
+

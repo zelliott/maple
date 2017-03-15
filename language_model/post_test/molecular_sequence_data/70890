@@ -1,0 +1,9 @@
+
+The fact that the multiple sequence alignment problem is of high complexity has led to many different zzso zzso attempting to find a solution in what would be considered a reasonable amount of zzso time and zzso Very few of these zzso produce results that are guaranteed always to lie within a certain distance of an optimal solution zzso a measure of quality, zzso zzso Most practical zzso cannot guarantee this, but nevertheless perform well for certain zzso An zzso obtained with one of these zzso and with a bad overall score, is not zzso though, it might contain important information on how zzso should be zzso This paper presents a method that extracts zzso good zzso from a set of multiple alignments and combines these into a new, often improved zzso The zzso is implemented as a zzso of the traditional dynamic programming zzso 
+
+An zzso of zzso (the zzso that combines multiple zzso has been run on several sets of artificially generated sequences and a set of zzso zzso zzso To assess the quality of the alignments zzso the results have been compared with the output of zzso zzso zzso et zzso Proceedings of the Sixth Annual zzso on zzso zzso zzso 1995; zzso et zzso zzso zzso zzso In all cases, zzso was able to produce a solution with a score comparable to the solution obtained by zzso The results also show that zzso actually does combine parts from different alignments and not just select the best of zzso 
+
+The C source code (a zzso version is being worked on) of zzso and the other programs that have been implemented in this context are free and available on zzso zzso zzso 
+
+zzso zzso 
+

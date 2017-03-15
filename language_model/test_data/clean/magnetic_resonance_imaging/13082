@@ -1,0 +1,3 @@
+
+To accelerate the analysis of a multi-element MRI coil, a two-way link is used between radiofrequency (RF) circuit and 3-D electromagnetic (EM) simulation tools. In this configuration, only one 3-D EM simulation is required to investigate the coil performance over a range of different tunings, saving considerable computation time. For the purpose of 3-D EM simulation, the coil feed networks and trim capacitors are substituted by 50Omega ports. The entire coil was tuned in the RF circuit domain, and the near-field profiles of the electric and magnetic field components were then calculated, together with the specific energy absorption ratio (SAR) maps in the 3-D EM domain.
+

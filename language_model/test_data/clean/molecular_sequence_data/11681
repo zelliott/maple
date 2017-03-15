@@ -1,0 +1,9 @@
+
+The marR gene of Escherichia coli encodes a repressor of the marRAB operon, a regulatory locus controlling multiple antibiotic resistance in this organism. Inactivation of marR results in increased expression of marA, which acts at several target genes in the cell leading to reduced antibiotic accumulation. Exposure of E. coli to sodium salicylate (SAL) induces marRAB operon transcription and antibiotic resistance. The mechanism by which SAL antagonizes MarR repressor activity is unclear.
+
+Recombinant plasmid libraries were introduced into a reporter strain designed to identify cloned genes encoding MarR repressor activity. Computer analysis of sequence databases was also used to search for proteins related to MarR.
+
+A second E. coli gene, MprA, that exhibits MarR repressor activity was identified. Subsequent database searching revealed a family of 10 proteins from a variety of bacteria that share significant amino acid sequence similarity to MarR and MprA. At least four of these proteins are transcriptional repressors whose activity is antagonized by SAL or by phenolic agents structurally related to SAL.
+
+The MarR family is identified as a group of regulatory factors whose activity is modulated in response to environmental signals in the form of phenolic compounds. Many of these agents are plant derived. Some of the MarR homologs appear more likely to control systems expressed in animal hosts, suggesting that phenolic sensing by bacteria is important in a variety of environments and in the regulation of numerous processes.
+

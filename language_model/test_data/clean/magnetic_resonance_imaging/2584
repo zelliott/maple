@@ -1,0 +1,3 @@
+
+The method of constrained reconstruction, previously applied to magnetic resonance imaging (MRI), is extended to magnetic resonance spectroscopy. This method assumes a model for the MR signal. The model parameters are estimated directly from the phase encoded data. This process obviates the need for the fast Fourier transform (FFT) (which often exhibits limited resolution and ringing artifact). The technique is tested on simulated data, phantom data, and data acquired from human liver in vivo. In each case, constrained reconstruction offers spatial resolution superior to that obtained with the FFT.
+

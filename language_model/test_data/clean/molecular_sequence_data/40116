@@ -1,0 +1,3 @@
+
+The comprehensive identification of cis-regulatory elements on a genome scale is a challenging problem. We develop a novel, steganalysis-based approach for genome-wide motif finding, called WordSpy, by viewing regulatory regions as a stegoscript with cis-elements embedded in 'background' sequences. We apply WordSpy to the promoters of cell-cycle-related genes of Saccharomyces cerevisiae and Arabidopsis thaliana, identifying all known cell-cycle motifs with high ranking. WordSpy can discover a complete set of cis-elements and facilitate the systematic study of regulatory networks.
+

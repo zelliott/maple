@@ -1,0 +1,3 @@
+
+We propose a unified zzso framework for detecting genetic zzso associated with a disease while exploiting zzso features as an intermediate zzso Traditionally, imaging zzso methods comprise two separate zzso First, image features are selected based on their relevance to the disease zzso Second, a set of genetic zzso are identified to explain the selected zzso In contrast, our method performs these tasks simultaneously to ultimately assign zzso measures of relevance to both genetic and imaging zzso We derive an efficient approximate zzso zzso that handles high zzso of imaging genetic zzso We evaluate the zzso on synthetic data and show that it zzso traditional zzso We also illustrate the application of the method on zzso zzso 
+

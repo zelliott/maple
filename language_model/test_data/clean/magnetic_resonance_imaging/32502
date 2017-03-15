@@ -1,0 +1,3 @@
+
+3D (kx, ky, t)-space analysis is invoked to provide insights into dynamic magnetic resonance imaging (DMRI) with arbitrary k-space sampling trajectories. The effects of 3D sampling in (kx, ky, t) are analyzed theoretically and verified with computer simulation. The analyses show that a 3D sampling pattern that is more isotropic in (kx, ky, t)-space and denser around the (kx=0, ky=0, t)-line likely results in improved temporal qualities of DMRI. The isotropy of 3D sampling is quantified using Voronoi 3D cells and the isoperimetric theorem. This 3D sampling perspective provides a theoretical framework for understanding the temporal qualities of various DMRI methods.
+

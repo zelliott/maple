@@ -1,0 +1,11 @@
+
+Knowledge of the anatomic location of the deep brain stimulation (DBS) electrode in the brain is essential in quality control and judicious selection of stimulation parameters. Postoperative computed tomography (CT) imaging coregistered with preoperative magnetic resonance imaging (MRI) is commonly used to document the electrode location safely. The accuracy of this method, however, depends on many factors, including the quality of the source images, the area of signal artifact created by the DBS lead, and the fusion algorithm.
+
+To calculate the accuracy of determining the location of active contacts of the DBS electrode by coregistering postoperative CT image to intraoperative MRI.
+
+Intraoperative MRI with a surrogate marker (carbothane stylette) was digitally coregistered with postoperative CT with DBS electrodes in 8 consecutive patients. The location of the active contact of the DBS electrode was calculated in the stereotactic frame space, and the discrepancy between the 2 images was assessed.
+
+The carbothane stylette significantly reduces the signal void on the MRI to a mean diameter of 1.4 ± 0.1 mm. The discrepancy between the CT and MRI coregistration in assessing the active contact location of the DBS lead is 1.6 ± 0.2 mm, P < .001 with iPlan (BrainLab AG, Erlangen, Germany) and 1.5 ± 0.2 mm, P < .001 with Framelink (Medtronic, Minneapolis, Minnesota) software.
+
+CT/MRI coregistration is an acceptable method of identifying the anatomic location of DBS electrode and active contacts.
+

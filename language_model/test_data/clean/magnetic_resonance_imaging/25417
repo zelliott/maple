@@ -1,0 +1,13 @@
+
+Small area analysis.
+
+To determine the association between the rates of advanced spinal imaging and spine surgery across geographic areas.
+
+The rates of spine surgery in the United States have increased along with a concurrent rise in the use of advanced spinal imaging: CT and MRI. Spine surgery rates vary six-fold across geographic areas of the United States. Differences in patient populations and health care supply have explained only about 10% of this variation.
+
+We used a random 5% sample of Medicare's National Claims History Part B files for 1996 and 1997 to determine procedure rates across 306 Hospital Referral Regions. We analyzed the association between spinal imaging and spine surgery using linear regression. Main outcome measures were rates of procedures and coefficients of determination (R2).
+
+The rates of advanced spinal imaging (CT and MRI combined) varied 5.5-fold across geographic areas. Areas with higher rates of MRI had higher rates of spine surgery overall (r = 0.46) and spinal stenosis surgery specifically (r = 0.37). The rates of advanced spinal imaging accounted for 22% of the variability in overall spine surgery rates (R2 = 0.22, P < 0.001) and 14% of the variability in lumbar stenosis surgery rates (R2 = 0.14, P < 0.001). A simulation model showed that MRIs obtained in the patients undergoing surgery accounted for only a small part of the correlation between MRI and total spine surgery rates.
+
+A significant proportion of the variation in rates of spine surgery can be explained by differences in the rates of advanced spinal imaging. The indications for advanced spinal imaging are not firmly agreed on, and the appropriateness of many of these imaging studies has been questioned. Improved consensus on the use and interpretation of advanced spinal imaging studies could have an important effect on variation in spine surgery rates.
+

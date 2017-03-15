@@ -1,0 +1,9 @@
+
+To investigate the temporal behavior of the blood oxygenation-level dependent (BOLD) signal applying the wavelet coherence phase to functional magnetic resonance imaging (fMRI) data.
+
+The wavelet coherence phase was computed for a group of four subjects using three functional runs of different visual stimulation lengths. In order to consider the variability of the wavelet coherence phase, a correlation analysis was performed between the variance of the phase shift and the associated activation strength. In activated brain regions, correlation was performed between the mean wavelet coherence phase and the spectral density phase shift.
+
+The scalograms of the wavelet coherence phase show the temporal variability of the phase shift between fMRI time series. For brain regions with weakly stationary behavior, the mean wavelet coherence phase supports the results obtained by spectral analyses.
+
+The wavelet coherence phase provides a description of the temporal behavior of the BOLD signal even for the nonstationary case. In particular, temporal changes of the phase shift can be investigated. This makes the wavelet coherence phase more suitable for the investigation of BOLD dynamics than an average phase lag obtained by correlation or spectral methods.
+

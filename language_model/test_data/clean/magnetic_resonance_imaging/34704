@@ -1,0 +1,9 @@
+
+To optimize a T1-weighted fast fluid-attenuated inversion recovery (FLAIR) sequence using computer-simulated data and to study its clinical utility for imaging the spine.
+
+Relative signal intensities and contrast of relevant normal and pathologic tissues in the spine were computed using an inversion recovery equation modified to account for a hybrid RARE (rapid acquisition with relaxation enhancement) readout. A range of inversion time (TI) and repetition time (TR) pairs that null the signal from CSF was generated. A contrast-optimized heavily T1-weighted fast FLAIR sequence, based on the generated data, was qualitatively compared with conventional T1-weighted spin-echo sequences for imaging various spinal abnormalities.
+
+A T1/TR pair of approximately 862/2000 was extracted from the computer-generated data to produce effective nulling of CSF signal, to achieve heavy T1 weighting, and to optimize contrast between abnormal tissues and cord/bone marrow. Clinical implementation of the optimized T1-weighted fast FLAIR sequence revealed superior contrast at the CSF-cord interface, better conspicuity of lesions of the spinal cord and bone marrow, and reduced hardware-related artifacts as compared with conventional T1-weighted spin-echo sequences.
+
+The optimized T1-weighted fast FLAIR technique has definite advantages over spin-echo sequences for imaging the spine. Comparable acquisition times render the FLAIR sequence the method of choice for T1-weighted imaging of the spine.
+

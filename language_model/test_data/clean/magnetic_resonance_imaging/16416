@@ -1,0 +1,9 @@
+
+The efficacy of deep brain stimulation in treating movement disorders depends critically on electrode localization, which is conventionally described by using coordinates relative to the midcommissural point. This approach requires manual measurement and lacks spatial normalization of anatomic variances. Normalization is based on intersubject spatial alignment (coregistration) of corresponding brain structures by using different geometric transformations. Here, we have devised and evaluated a scheme for automated subcortical optimization of coregistration (ASOC), which maximizes patient-to-atlas normalization accuracy of postoperative structural MR imaging into the standard Montreal Neurologic Institute (MNI) space for the basal ganglia.
+
+Postoperative T2-weighted MR imaging data from 39 patients with Parkinson disease and 32 patients with dystonia were globally normalized, representing the standard registration (control). The global transformations were regionally refined by 2 successive linear registration stages (RSs) (ASOC-1 and 2), focusing progressively on the basal ganglia with 2 anatomically selective brain masks, which specify the reference volume (weighted cost function). Accuracy of the RSs was quantified by spatial dispersion of 16 anatomic landmarks and their root-mean-square errors (RMSEs) with respect to predefined MNI-based reference points. The effects of CSF volume, age, and sex on RMSEs were calculated.
+
+Mean RMSEs differed significantly (P < .001) between the global control (4.2 +/- 2.0 mm), ASOC-1 (1.92 +/- 1.02 mm), and ASOC-2 (1.29 +/- 0.78 mm).
+
+The present method improves the registration accuracy of postoperative structural MR imaging data into MNI space within the basal ganglia, allowing automated normalization with increased precision at stereotactic targets, and enables lead-contact localization in MNI coordinates for quantitative group analysis.
+

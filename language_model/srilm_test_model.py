@@ -13,7 +13,8 @@ from constants import temp_test_file
 from postprocessing import vocabulary
 from postprocessing import postprocess
 
-def test_model(test_dir, output_file, language_model, doc_limit=1000, word_limit=150):
+def test_model(test_dir, output_file, language_model, doc_limit=1000, word_limit=600):
+
     '''
     # perform postprocessing step first
     vocab = vocabulary(lm_path + '/' + language_model)
@@ -85,6 +86,7 @@ for test_dir in os.listdir(test_data_post_path):
 		lm_name = lm.split('.')[0]
 		output_file = 'test_output/' + lm_name + '_' + test_dir + '.txt'
 		test_model(test_dir, output_file, lm)
-
+    
 #output_file = 'test_output/' + 'nytimes' + '_' + 'algorithms' + '.txt'
-#test_model('algorithms', output_file, 'nytimes.lm')
+#test_model('magnetic_resonance_imaging', output_file, 'nytimes.lm')
+

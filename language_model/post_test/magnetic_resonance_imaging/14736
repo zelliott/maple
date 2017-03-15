@@ -1,0 +1,9 @@
+
+To segment veins from brain zzso weighted images with zzso background and zzso noises and complex zzso 
+
+Based on vessel enhancing zzso an zzso threshold zzso method and an zzso threshold region growing method were zzso The former method was used to exactly segment part of veins from the original zzso Taking the veins segmented by the former method as seeds, the later method was used to extract nearly all the zzso 
+
+For simulation data with serious noises and zzso correct rate above zzso was zzso And for clinical data, the veins were extracted accurately and the structures of veins were displayed zzso 
+
+The methods can extract veins from the brain zzso weighted images exactly and avoid false zzso of the other structures zzso The methods are very robust and zzso 
+

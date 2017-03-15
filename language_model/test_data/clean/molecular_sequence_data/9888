@@ -1,0 +1,3 @@
+
+We present a new probabilistic model of evolution of RNA-, DNA-, or protein-like sequences and a tool rose that implements this model. By insertion, deletion and substitution of characters, a family of sequences is created from a common ancestor. During this artificial evolutionary process, the "true" history is logged and the "correct" multiple sequence alignment is created simultaneously. We also allow for varying rates of mutation within the sequences making it possible to establish so-called sequence motifs. The results are suitable for the evaluation of methods in multiple sequence alignment computation and the prediction of phylogenetic relationships.
+

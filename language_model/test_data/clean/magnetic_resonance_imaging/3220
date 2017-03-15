@@ -1,0 +1,9 @@
+
+We investigated the feasibility of performing chemical exchange saturation transfer (CEST) imaging using ytterbium-based paramagnetic CEST (PARACEST) agents on a clinical magnetic resonance (MR) scanner.
+
+We prepared solutions of 3 different ytterbium-based PARACEST agents at concentrations of 5, 10, 20, and 50 mM at a pH of 7.4 and at a concentration of 50 mM at pHs of 3.0, 5.0, 7.4, and 9.5. We acquired images with a turbo spin echo technique using a quadrature head coil and a clinical 3.0-tesla MR system in accordance with the safety limits of the specific absorption rate (SAR). We acquired CEST images with presaturation offset frequencies from -5,000 Hz (-39.1 ppm) to 5,000 Hz (39.1 ppm) with an interval of 500 Hz (3.9 ppm) for each condition. We repeated each scan 3 times and then calculated the mean and standard deviations of the magnitude of the CEST effect at different concentrations and pH values for each agent. We used one-way analysis of variance and Tukey's honestly significant difference post hoc test to compare mean values of the magnitude of the CEST effect obtained at different concentrations and pH values. P < 0.05 was considered significant.
+
+PARACEST agents showed a strong CEST effect at their specific presaturation offset frequencies. For each agent, the CEST effect showed significant concentration dependency (P < 0.05), increasing with agent concentration, and significant pH dependency (P < 0.05), with strong effect near physiological pH.
+
+CEST imaging using ytterbium-based PARACEST agents might be feasible on a clinical MR scanner with further modifications, such as adjustments of the presaturation radiofrequency pulse and imaging protocols.
+

@@ -1,0 +1,9 @@
+
+The measurement of the CBF is a non-standardized procedure and there are no reliable gold standards. This abstract shows a capillary-based perfusion-phantom for CE-DSC-MRI. It has equivalent flow properties to those within the tissue capillary system of the human brain and allows the validation of the Siemens Perfusion (MR) software.
+
+The perfusion phantom consists of a dialyzer for the simulation of the capillary system, a feeding tube for simulation of the AIF and a pulsatile pump for simulation of the heart. Using this perfusion phantom, the exact determination of the gold standard CBF due to the well-known geometry of the phantom is easy. It was validated based on different perfusion measurements. These measurements were investigated with standard software (Siemens Perfusion MR). The software determined the CBF within the capillary system. Based on this CBF, a comparison to the gold standard was made with several different flow speeds. After AIF selection, a total of 726 CBF data points were automatically extracted by the software.
+
+This results in a comparison of the gold standard CBF to these 726 CBF values. Therefore, a reproducible and reliable deviation estimation between gold standard CBF and measured CBF using the software was computed. It can be shown that the deviation between gold standard and software-based evaluation ranges between 1 and 31 %.
+
+There is no significance for any correlation between flow speed and amount of deviation. The mean measured CBF is 11.4 % higher than the gold standard CBF (p-value < 0.001). Using this kind of perfusion-phantom, the validation of different software systems allows reliable conclusions about their quality.
+

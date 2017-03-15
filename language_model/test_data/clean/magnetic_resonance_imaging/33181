@@ -1,0 +1,3 @@
+
+Lesion count observed on brain magnetic resonance imaging scan is a common end point in phase 2 clinical trials evaluating therapeutic treatment in relapsing remitting multiple sclerosis (MS). This paper compares the performances of Poisson, zero-inflated poisson (ZIP), negative binomial (NB), and zero-inflated NB (ZINB) mixed-effects regression models in fitting lesion count data in a clinical trial evaluating the efficacy and safety of fingolimod in comparison with placebo, in MS. The NB and ZINB models prove to be superior to the Poisson and ZIP models. We discuss the advantages and limitations of zero-inflated models in the context of MS treatment.
+

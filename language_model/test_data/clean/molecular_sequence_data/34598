@@ -1,0 +1,7 @@
+
+Members of the M2 family of peptidases, related to mammalian angiotensin converting enzyme (ACE), play important roles in regulating a number of physiological processes. As more invertebrate genomes are sequenced, there is increasing evidence of a variety of M2 peptidase genes, even within a single species. The function of these ACE-like proteins is largely unknown. Sequencing of the A. gambiae genome has revealed a number of ACE-like genes but probable errors in the Ensembl annotation have left the number of ACE-like genes, and their structure, unclear.
+
+TBLASTN and sequence analysis of cDNAs revealed that the A. gambiae genome contains nine genes (AnoACE genes) which code for proteins with similarity to mammalian ACE. Eight of these genes code for putative single domain enzymes similar to other insect ACEs described so far. AnoACE9, however, has several features in common with mammalian somatic ACE such as a two domain structure and a hydrophobic C terminus. Four of the AnoACE genes (2, 3, 7 and 9) were shown to be expressed at a variety of developmental stages. Expression of AnoACE3, AnoACE7 and AnoACE9 is induced by a blood meal, with AnoACE7 showing the largest (approximately 10-fold) induction.
+
+Genes coding for two-domain ACEs have arisen several times during the course of evolution suggesting a common selective advantage to having an ACE with two active-sites in tandem in a single protein. AnoACE7 belongs to a sub-group of insect ACEs which are likely to be membrane-bound and which have an unusual, conserved gene structure.
+

@@ -1,0 +1,3 @@
+
+A method for obtaining localized spectra from arbitrarily shaped regions of interest is described. When a sample consists of homogeneous compartments or domains, spectra localized in each compartment can be obtained from signals of single voxels with regular shapes by solving a set of simultaneous linear equations. Experimental demonstrations on a phantom and on human brain in vivo for a two compartment, two voxel case are presented. The issue of signal-to-noise ratio is also discussed.
+

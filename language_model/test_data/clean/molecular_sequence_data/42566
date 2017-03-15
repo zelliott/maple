@@ -1,0 +1,3 @@
+
+An efficient algorithm is described to locate locally optimal alignments between two sequences allowing for insertions and deletions. The algorithm is based on that of Smith and Waterman which returns the single best local alignment. However, the algorithm described here permits all non-intersecting locally optimal alignments to be determined in a single pass through the comparison matrix. The algorithm simplifies the location of repeats, multiple domains and shuffled motifs, and is fast enough to be used on a conventional workstation to scan large sequence databanks.
+

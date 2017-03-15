@@ -1,0 +1,9 @@
+
+An automated procedure has been developed to isolate the brain in single/multislice or whole-volume MR images obtained from various sequences.
+
+T1-weighted, T2-weighted, and inversion recovery images were acquired. The brain segmentation procedure employed (A) a knowledge base that held generic information about the brain in the three orthogonal views and (B) a texture definition and intensity characteristics of features within the head. The brain was segmented by selectively blurring scans using components of B; contour following with region growing was initiated until the isolated feature satisfied the measurements in A.
+
+The brain was segmented automatically from 210 subjects (whole volume) and 52 subjects (multi/single slice). Detailed analysis of seven segmented brains showed that < 0.8% of the contour pixels were erroneously identified. Whole-volume head scans consisting of 140 x 256 x 256 pixels were segmented in < 30 min.
+
+A robust, fast, and efficient procedure has been developed to segment the brain from MR images.
+

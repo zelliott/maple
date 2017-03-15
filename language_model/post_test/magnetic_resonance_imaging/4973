@@ -1,0 +1,9 @@
+
+To shorten acquisition time by means of both partial scanning and partial echo acquisition and to reconstruct images from such zzso partial zzso zzso 
+
+We propose an approach to reconstructing magnetic resonance images from zzso truncated zzso in which the zzso is truncated in both zzso and zzso zzso Unlike conventional reconstruction techniques, the proposed approach is based on a newly developed zzso zzso function analysis zzso model and a sparse representation of an image whose parameters can be estimated from the zzso partial zzso zzso Such a sparse representation leads to an accurate recovery of the missing zzso data and, zzso an accurate reconstruction of the zzso 
+
+The proposed approach can reconstruct an image from as little as zzso of the zzso data and the quality of the reconstructed image is comparable to the reference image that is reconstructed from the complete zzso zzso 
+
+Despite the high asymmetry of a zzso truncated zzso the proposed approach allows for accurate reconstruction without the need of phase correction and, thus, overcomes the assumption of slow phase variations that is usually required by the existing reconstruction zzso It provides a new way of fast imaging for applications that require a significant reduction of the acquisition zzso 
+

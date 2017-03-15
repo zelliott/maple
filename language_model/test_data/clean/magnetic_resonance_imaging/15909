@@ -1,0 +1,9 @@
+
+To investigate gray matter concentration changes in the brains of narcoleptic patients.
+
+Twenty-nine narcoleptic patient with cataplexy and 29 age and sex-matched normal subjects (mean age, 31 years old) underwent volumetric MRIs. The MRIs were spatially normalized to a standard T1 template and subdivided into gray matter, white matter, and cerebrospinal fluid (CSF). These segmented images were then smoothed using a 12-mm full width at half maximum (FWHM) isotropic Gaussian kernel. An optimized voxel-based morphometry protocol was used to analyze brain tissue concentrations using SPM2 (statistical parametric mapping). A one-way analysis of variance was applied to the concentration analysis of gray matter images.
+
+Narcoleptics with cataplexy showed reduced gray matter concentration in bilateral thalami, left gyrus rectus, bilateral frontopolar gyri, bilateral short insular gyri, bilateral superior frontal gyri, and right superior temporal and left inferior temporal gyri compared to normal subjects (uncorrected p < 0.001). Furthermore, small volume correction revealed gray matter concentration reduction in bilateral nuclei accumbens, hypothalami, and thalami (false discovery rate corrected p < 0.05).
+
+Gray matter concentration reductions were observed in brain regions related to excessive daytime sleepiness, cognition, attention, and memory in narcoleptics with cataplexy.
+

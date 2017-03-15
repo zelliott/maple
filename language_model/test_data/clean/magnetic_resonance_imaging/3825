@@ -1,0 +1,9 @@
+
+Functional magnetic resonance imaging (fMRI) is a useful technology for investigating regional metabolic activity in the brain. Many experiments using fMRI have been performed, but because of variations in protocols and analytic techniques, the results vary. When a priori information of the task is known, a model-based technique, such as statistical parametric mapping, is often used for analysis. In the case of acid stimulation of the esophagus the task model is unclear, so we analyzed brain activity during an acid or isotonic saline infusion to the esophagus using independent component analysis (ICA), which does not depend on a priori information of the task.
+
+Six healthy male volunteers (29-45 years) participated in the study. A multi-lumen catheter was inserted transnasally and side-hole infusions ports were approximately 15 cm proximal to the lower esophageal sphincter. The experimental protocol was 5-min interval, 5-min saline infusion, 5-min interval, 5-min 0.1 N HCl, and a final 5-min interval. After magnetic resonance scanning, fMRI image data were analyzed using group ICA.
+
+The cerebral regions activated during the first interval, saline infusion, and HCl infusion were the thalamus, insula, cingulate gyri, temporal pole and some parts of the frontal, parietal, temporal and occipital lobes. Activation of the postcentral and precentral gyri occurred during both infusions, but was not observed during the first interval.
+
+ICA, which can show the cerebral areas activated in relation to liquid in the esophagus, may be a powerful technique for studying the brain's response to visceral stimulation.
+

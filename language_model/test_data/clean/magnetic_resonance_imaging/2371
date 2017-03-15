@@ -1,0 +1,3 @@
+
+A method is proposed to estimate signal-to-noise ratio (SNR) values in phased array magnitude images, based on a region-of-interest (ROI) analysis. It is shown that the SNR can be found by correcting the measured signal intensity for the noise bias effects and by evaluating the noise variance as the mean square value of all the pixel intensities in a chosen background ROI, divided by twice the number of receivers used. Estimated SNR values are shown to vary spatially within a bound of 20% with respect to the true SNR values as a result of noise correlations between receivers.
+

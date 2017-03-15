@@ -1,0 +1,9 @@
+
+The fact that the multiple sequence alignment problem is of high complexity has led to many different heuristic algorithms attempting to find a solution in what would be considered a reasonable amount of computation time and space. Very few of these heuristics produce results that are guaranteed always to lie within a certain distance of an optimal solution (given a measure of quality, e.g. parsimony). Most practical heuristics cannot guarantee this, but nevertheless perform well for certain cases. An alignment, obtained with one of these heuristics and with a bad overall score, is not unusable though, it might contain important information on how substrings should be aligned. This paper presents a method that extracts qualitatively good sub-alignments from a set of multiple alignments and combines these into a new, often improved alignment. The algorithm is implemented as a variant of the traditional dynamic programming technique.
+
+An implementation of ComAlign (the algorithm that combines multiple alignments) has been run on several sets of artificially generated sequences and a set of 5S RNA sequences. To assess the quality of the alignments obtained, the results have been compared with the output of MSA 2.1 (Gupta et al., Proceedings of the Sixth Annual Symposium on Combinatorial Pattern Matching, 1995; Kececioglu et al., http://www.techfak.uni-bielefeld. de/bcd/Lectures/kececioglu.html, 1995). In all cases, ComAlign was able to produce a solution with a score comparable to the solution obtained by MSA. The results also show that ComAlign actually does combine parts from different alignments and not just select the best of them.
+
+The C source code (a Smalltalk version is being worked on) of ComAlign and the other programs that have been implemented in this context are free and available on WWW (http://www.daimi.au.dk/ õcaprani).
+
+klaus@bucka-lassen.dk; jotun@pop.bio.au.dk;ocaprani@daimi.au.dk
+

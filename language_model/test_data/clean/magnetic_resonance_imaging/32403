@@ -1,0 +1,9 @@
+
+The purpose of this study was to compare the signal-to-noise ratio (SNR) of phantom and rat brain images performed at 1.5 T on a clinical MR system and at 7 T on a small-animal experimental system. Comparison was carried out by taking into account SNR values based on a single sample acquisition at 1.5 and 7 T as well as on simultaneous imaging of multiple samples at 1.5 T.
+
+SNR was experimentally assessed on a phantom and rat brains at 1.5 and 7 T using 25 mm surface coils and compared to theoretical SNR gain estimations. The feasibility of multiple-animal imaging, using the hardware capabilities available on the 1.5 T system, was demonstrated. Finally, rat brain images obtained on a single animal at 7 T and on multiple animals acquired simultaneously at 1.5 T were compared.
+
+Experimentally determined SNR at 7 T was far below theoretical estimations. Taking into account chemical shift, susceptibility artifacts and modifications of T1 and T2 relaxation times at higher field, a 7-T system holds limited advantage over a 1.5-T system. Instead, a multiple-animal acquisition methodology was demonstrated on a clinical 1.5-T scanner. This acquisition method significantly increases imaging efficiency and competes with single animal acquisitions at higher field.
+
+Multiple-animal imaging using a standard clinical scanner has a great potential as a high-throughput acquisition method for small animals.
+

@@ -1,0 +1,3 @@
+
+We present techniques of automatic nonlinear transformation of MR images (2D or 3D). A neural network automatically finds the corresponding parts between the subject's brain images and the standard images. By iterative operations, the network generates a set of image-shifting vectors to realize a plastic transformation. For precise matching, a set of markers can be placed manually before starting the transformation on landmarks of the images, e.g., on the anterior-posterior commissural line and on the central sulcus.
+

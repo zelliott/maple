@@ -1,0 +1,3 @@
+
+A new pulse sequence for fast multislice T1 mapping is presented. This method is based on calculating T1 from spin echo (SE) and stimulated echo (STE) images obtained with different degrees of T1 weighting, and uses the interleaved acquisition scheme of the fast phase acquisition of composite echoes (FastPACE) technique. In contrast to the FastPACE technique, the two echoes are sampled separately. Experimental comparisons confirm that the new sequence layout overcomes most of the FastPACE restrictions, such as its motion sensitivity and the need for a fully complex data set. Moreover, this method offers a higher precision for long T1 values and a further reduction of acquisition time.
+

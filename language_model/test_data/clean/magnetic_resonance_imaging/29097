@@ -1,0 +1,3 @@
+
+The exact, hardware-constrained design of a spiral k-space trajectory requires the solution of a differential equation, thereby making real-time prescription difficult on scanners with limited computational power. This study describes a closed-form approximate solution for interleaved Archimedian spiral trajectories that closely matches the exact design. Both slew rate-limited and amplitude-limited regimes are incorporated. Magn Reson Med 42:412-415, 1999.
+

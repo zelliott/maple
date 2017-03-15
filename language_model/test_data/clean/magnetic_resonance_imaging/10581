@@ -1,0 +1,9 @@
+
+To evaluate an augmented reality (AR) system in combination with a 1.5-T closed-bore magnetic resonance (MR) imager as a navigation tool for needle biopsies.
+
+The experimental protocol had institutional animal care and use committee approval. Seventy biopsies were performed in phantoms by using 20 tube targets, each with a diameter of 6 mm, and 50 virtual targets. The position of the needle tip in AR and MR space was compared in multiple imaging planes, and virtual and real needle tip localization errors were calculated. Ten AR-guided biopsies were performed in three pigs, and the duration of each procedure was determined. After successful puncture, the distance to the target was measured on MR images. The confidence limits for the achieved in-plane hit rate and for lateral deviation were calculated. A repeated measures analysis of variance was used to determine whether the placement error in a particular dimension (x, y, or z) differed from the others.
+
+For the 50 virtual targets, a mean error of 1.1 mm +/- 0.5 (standard deviation) was calculated. A repeated measures analysis of variance indicated no statistically significant difference (P > .99) in the errors in any particular orientation. For the real targets, all punctures were inside the 6-mm-diameter tube in the transverse plane. The needle depth was within the target plane in 11 biopsy procedures; the mean distance to the center of the target was 2.55 mm (95% confidence interval: 1.77 mm, 3.34 mm). For nine biopsy procedures, the needle tip was outside the target plane, with a mean distance to the edge of the target plane of 1.5 mm (range, 0.07-3.46 mm). In the animal experiments, the puncture was successful in all 10 cases, with a mean target-needle distance of 9.6 mm +/- 4.85. The average procedure time was 18 minutes per puncture.
+
+Biopsy procedures performed with a combination of a closed-bore MR system and an AR system are feasible and accurate.
+

@@ -1,0 +1,9 @@
+
+Computer-based selection of entries from sequence databases with respect to a related functional description, e.g. with respect to a common cellular localization or contributing to the same phenotypic function, is a difficult task. Automatic semantic analysis of annotations is not only hampered by incomplete functional assignments. A major problem is that annotations are written in a rich, non-formalized language and are meant for reading by a human expert. This person can extract from the text considerably more information than is immediately apparent due to his extended biological background knowledge and logical reasoning.
+
+A technique of automated annotation evaluation based on a combination of lexical analysis and the usage of biological rule libraries has been developed. The proposed algorithm generates new functional descriptors from the annotation of a given entry using the semantic units of the annotation as prepositions for implications executed in accordance with the rule library.
+
+The prototype of a software system, the Meta_A(nnotator) program, is described and the results of its application to sequence attribute assignment and sequence selection problems, such as cellular localization and sequence domain annotation of SWISS-PROT entries, are presented. The current software version assigns useful subcellular localization qualifiers to approximately 88% of all SWISS-PROT entries. As shown by demonstrative examples, the combination of sequence and annotation analysis is a powerful approach for the detection of mutual annotation/sequence inconsistencies.
+
+Results for the cellular localization assignment can be viewed at the URL http://www.bork. embl-heidelberg.de/CELL_LOC/CELL_LOC.html.
+

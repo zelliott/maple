@@ -1,0 +1,9 @@
+
+To evaluate a fully automatic computer-assisted diagnosis (CAD) method for breast magnetic resonance imaging (MRI), which considered dynamic as well as morphologic parameters and linked those to descriptions laid down in the Breast Imaging Reporting and Data System (BI-RADS) MRI atlas.
+
+MR images of 108 patients with 141 histologically proven mass-like lesions (88 malignant, 53 benign) were included. The CAD system automatically performed the following processing steps: 3D nonrigid motion correction, detection of lesions by a segmentation algorithm, extraction of multiple dynamic and morphologic parameters, and classification of lesions. As one final result, the lesions were categorized by defining their probability of malignancy; this so-called morpho-dynamic index (MDI) ranged from 0%-100%. The results of the CAD system were correlated with histopathologic findings.
+
+The CAD system had a high detection rate of the histologically proven lesions, missing only two malignancies of invasive multifocal carcinomas and four benign lesions (three fibroadenomas, one atypical ductal hyperplasia). The 86 detected malignant lesions showed a mean MDI of 86.1% (± 15.4%); the mean MDI of the 49 coded benign lesions was 41.8% (± 22.0%; P < 0.001). Based on receiver-operating characteristic analysis, the diagnostic accuracy of the CAD system was 93.5%. Using an appropriate cutoff value (MDI 50%), sensitivity was 96.5% combined with specificity of 75.5%.
+
+The fully automatic CAD technique seems to reliably distinguish between benign and malignant mass-like breast tumors. Observer-independent CAD may be a promising additional tool for the interpretation of breast MRI in the clinical routine.
+

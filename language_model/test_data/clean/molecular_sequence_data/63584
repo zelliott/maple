@@ -1,0 +1,7 @@
+
+We present a novel method of protein fold decoy discrimination using machine learning, more specifically using neural networks. Here, decoy discrimination is represented as a machine learning problem, where neural networks are used to learn the native-like features of protein structures using a set of positive and negative training examples. A set of native protein structures provides the positive training examples, while negative training examples are simulated decoy structures obtained by reversing the sequences of native structures. Various features are extracted from the training dataset of positive and negative examples and used as inputs to the neural networks.
+
+Results have shown that the best performing neural network is the one that uses input information comprising of PSI-BLAST 1 profiles of residue pairs, pairwise distance and the relative solvent accessibilities of the residues. This neural network is the best among all methods tested in discriminating the native structure from a set of decoys for all decoy datasets tested.
+
+This method is demonstrated to be viable, and furthermore evolutionary information is successfully used in the neural networks to improve decoy discrimination.
+

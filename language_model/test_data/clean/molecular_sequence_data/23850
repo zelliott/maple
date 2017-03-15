@@ -1,0 +1,7 @@
+
+ViTO is a graphical application, including an editor, of multiple sequence alignment and a three-dimensional (3D) structure viewer. It is possible to manipulate alignments containing hundreds of sequences and to display a dozen structures. ViTO can handle so-called 'multiparts' alignments to allow the visualization of complex structures (multi-chain proteins and/or small molecules and DNA) and the editing of the corresponding alignment. The 3D viewer and the alignment editor are connected together allowing rapid refinement of sequence-structure alignment by taking advantage of the immediate visualization of resulting insertions/deletions and strict conservations in their structural context. More generally, it allows the mapping of informations about the sequence conservation extracted from the alignment onto the 3D structures in a dynamic way. ViTO is also connected to two comparative modelling programs, SCWRL and MODELLER. These features make ViTO a powerful tool to characterize protein families and to optimize the alignments for comparative modelling.
+
+http://bioserv.cbs.cnrs.fr/VITO/DOC/.
+
+http://bioserv.cbs.cnrs.fr/VITO/DOC/index.html.
+

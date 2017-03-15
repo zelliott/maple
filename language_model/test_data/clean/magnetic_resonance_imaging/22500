@@ -1,0 +1,9 @@
+
+To extend the harmonic phase (HARP) tracking method in order to track the myocardial tissue that appears near the epicardial contour during systole and reappears near the endocardial contour during diastole, due to the longitudinal motion and conical shape of the heart.
+
+A mathematical model of myocardial deformation was used to quantify the accuracy of the extended HARP tracking and of the strain computation. For six healthy volunteers, the number of tracked points and the two-dimensional strain components were computed with the extended and with the original HARP tracking version.
+
+High accuracy was obtained for the circumferential strain (maximum error is 0.5% relative to analytical strain). The extended version tracked 22 +/- 7%, 51 +/- 19%, and 67 +/- 20% more points than the original version on the basal, mid, and apical slices, respectively (P < or = 0.001 for each slice), and yielded a decreased circumferential shortening (relative decrease: 2 +/- 4%, 9 +/- 4%, and 12 +/- 5% for the three slices; P < 0.005 for mid and apex), at end systole. These differences in circumferential strain were related to the more complete coverage of the myocardial wall with tracked points.
+
+The extended HARP tracking also provides strain values from myocardial regions that were not covered by the original HARP tracking.
+

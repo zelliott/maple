@@ -1,0 +1,9 @@
+
+To quantify glycosaminoglycans (GAG) in intact bovine patellar cartilage using the proton spin-lock ratio imaging method. This approach exploits spin-lattice relaxation time in the rotating frame (T(1rho)) imaging and T(1rho) relaxivity (R(1rho)).
+
+All the magnetic resonance imaging (MRI) experiments were performed on a 4-T whole-body GE Signa scanner (GEMS, Milwaukee, WI), and spectroscopy experiments of chondroitin sulfate (CS) phantoms were done on a 2-T custom-built spectrometer. A custom-built 11-cm-diameter transmit-receive birdcage coil, which was tuned to a proton frequency of 170 MHz, was employed for the imaging experiments. T(1rho) measurements were made using a fast spin echo (FSE) sequence pre-encoded with a three-pulse cluster consisting of two 90 degrees hard pulses separated by a low-power rectangle pulse for spin-locking.
+
+The methodology is first validated on CS phantoms and then used to quantify GAG content in intact bovine cartilage (N = 5). There is a good agreement between the GAG map calculated from the T(1rho) ratio imaging method (71 +/- 4%) and GAG measured from spectrophotometric assay (75 +/- 5%) in intact bovine tissue.
+
+We have demonstrated a proton spin-lock ratio imaging method to quantify absolute GAG distribution in the cartilage in a noninvasive and nondestructive manner.
+

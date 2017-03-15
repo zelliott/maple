@@ -1,0 +1,9 @@
+
+To improve the signal-to-noise ratio (SNR) of functional magnetic resonance imaging (fMRI) data, an approach is developed that combines wavelet-based methods with the general linear model.
+
+Ruttimann et al. (1) developed a wavelet-based statistical procedure to test wavelet-space partitions for significant wavelet coefficients. Their method is applicable for the detection of differences between images acquired under two experimental conditions using long blocks of stimulation. However, many neuropsychological questions require more complicated event-related paradigms and more experimental conditions. Therefore, in order to apply wavelet-based methods to a wide range of experiments, we present a new approach that is based on the general linear model and wavelet thresholding.
+
+In contrast to a monoresolution filter, the application of the wavelet method increased the SNR and showed a set of clearly dissociable activations. Furthermore, no relevant decrease of the local maxima was observed.
+
+Wavelet-based methods can increase the SNR without diminishing the signal amplitude, while preserving the spatial resolution of the image. The anatomical localization is strongly improved.
+

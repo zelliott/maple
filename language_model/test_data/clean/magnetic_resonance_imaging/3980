@@ -1,0 +1,3 @@
+
+A modified BURST imaging technique with a nearly twofold reduction in acquisition time, improved signal-to-noise ratio and clear improvement of the image quality is introduced. The method applies half-Fourier reconstruction and can be implemented on a standard clinical scanner. This approach allows the collection of single-shot magnetization prepared images of the human brain with a matrix size of 112 x 128 within 86-250 ms. The signal-to-noise properties of the pulse sequence are analyzed and compared with a standard BURST experiment.
+

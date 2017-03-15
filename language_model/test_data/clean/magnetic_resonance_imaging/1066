@@ -1,0 +1,3 @@
+
+Neuronavigation systems integrating functional magnetic resonance imaging data have been reported recently, but generally without many details about methodology. We propose an easy method to perform functional neuronavigation by integrating functional MRI data analyzed with the Statistical Parametric Mapping 99 reference software, in the Stealth Station which is the most common neuronavigation system. Users of this new and promising technique, which requires further validation, must be aware of its limitations. Functional MRI data seem to be the major source of imprecision. As a result we do not yet recommend the use of functional neuronavigation without the control of direct cortical stimulations.
+

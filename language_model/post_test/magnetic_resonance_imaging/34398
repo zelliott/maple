@@ -1,0 +1,9 @@
+
+An automated procedure has been developed to isolate the brain in zzso or zzso MR images obtained from various zzso 
+
+zzso zzso and inversion recovery images were zzso The brain zzso procedure employed zzso a knowledge base that held generic information about the brain in the three zzso views and zzso a texture definition and intensity characteristics of features within the zzso The brain was segmented by selectively blurring scans using components of zzso zzso following with region growing was initiated until the isolated feature satisfied the zzso in zzso 
+
+The brain was segmented automatically from 210 subjects zzso zzso and 52 subjects zzso zzso zzso analysis of seven segmented brains showed that zzso zzso of the zzso zzso were erroneously zzso zzso head scans consisting of 140 zzso 256 zzso 256 zzso were segmented in zzso 30 zzso 
+
+A zzso fast, and efficient procedure has been developed to segment the brain from MR zzso 
+

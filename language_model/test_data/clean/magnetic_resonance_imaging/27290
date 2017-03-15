@@ -1,0 +1,9 @@
+
+In clinical practice, both coronary anatomy and myocardial perfusion information are needed to assess coronary artery disease (CAD). The extent and severity of coronary stenoses can be determined using computed tomography coronary angiography (CTCA); the presence and amount of ischemia can be identified using myocardial perfusion imaging, such as perfusion magnetic resonance imaging (PMR). To determine which specific stenosis is associated with which ischemic region, experts use assumptions on coronary perfusion territories. Due to the high variability between patient's coronary artery anatomies, as well as the uncertain relation between perfusion territories and supplying coronary arteries, patient-specific systems are needed.
+
+We present a patient-specific visualization system, called Synchronized Multimodal heART Visualization (SMARTVis), for relating coronary stenoses and perfusion deficits derived from CTCA and PMR, respectively. The system consists of the following comprehensive components: (1) two or three-dimensional fusion of anatomical and functional information, (2) automatic detection and ranking of coronary stenoses, (3) estimation of patient-specific coronary perfusion territories.
+
+The potential benefits of the SMARTVis tool in assessing CAD were investigated through a case-study evaluation (conventional vs. SMARTVis tool): two experts analyzed four cases of patients with suspected multivessel coronary artery disease. When using the SMARTVis tool, a more reliable estimation of the relation between perfusion deficits and stenoses led to a more accurate diagnosis, as well as a better interobserver diagnosis agreement.
+
+The SMARTVis comprehensive visualization system can be effectively used to assess disease status in multivessel CAD patients, offering valuable new options for the diagnosis and management of these patients.
+

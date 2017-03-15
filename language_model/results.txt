@@ -1,19 +1,57 @@
+First analysis with doc limit of 1000 and word limit of 150
 nytimes_algorithms.txt - length: 138.622
 nytimes_algorithms.txt - oovs: 0.0
-nytimes_algorithms.txt - ppl: 7323.850618
+nytimes_algorithms.txt - ppl: 7840.245624
 
 nytimes_cell_line_tumor.txt - length: 144.046046046
 nytimes_cell_line_tumor.txt - oovs: 0.0
-nytimes_cell_line_tumor.txt - ppl: 10854.7587167
+nytimes_cell_line_tumor.txt - ppl: 11614.894023
+
+nytimes_magnetic_resonance_imaging.txt - length: 131.057057057
+nytimes_magnetic_resonance_imaging.txt - oovs: 0.0
+nytimes_magnetic_resonance_imaging.txt - ppl: 9927.47465365
+
+nytimes_molecular_sequence_data.txt - length: 141.816816817
+nytimes_molecular_sequence_data.txt - oovs: 0.0
+nytimes_molecular_sequence_data.txt - ppl: 9963.33136036
 
 nytimes_neoplasms.txt - length: 138.154
 nytimes_neoplasms.txt - oovs: 0.0
-nytimes_neoplasms.txt - ppl: 8042.443446
+nytimes_neoplasms.txt - ppl: 8615.430967
 
-nytimes_obesity.txt - length: 141.309309309
+nytimes_obesity.txt - length: 141.318
 nytimes_obesity.txt - oovs: 0.0
-nytimes_obesity.txt - ppl: 9495.51007508
+nytimes_obesity.txt - ppl: 10425.941572
 
 nytimes_signal_transduction.txt - length: 141.251
 nytimes_signal_transduction.txt - oovs: 0.0
-nytimes_signal_transduction.txt - ppl: 10574.945754
+nytimes_signal_transduction.txt - ppl: 11321.362276
+
+Second analysis with doc limit of 1000 and word limit of 600 (no word limit)
+nytimes_algorithms.txt - length: 198.426
+nytimes_algorithms.txt - oovs: 0.0
+nytimes_algorithms.txt - ppl: 7545.135293
+
+nytimes_cell_line_tumor.txt - length: 201.456456456
+nytimes_cell_line_tumor.txt - oovs: 0.0
+nytimes_cell_line_tumor.txt - ppl: 11225.0969449
+
+nytimes_magnetic_resonance_imaging.txt - length: 182.386386386
+nytimes_magnetic_resonance_imaging.txt - oovs: 0.0
+nytimes_magnetic_resonance_imaging.txt - ppl: 9565.06895495
+
+nytimes_molecular_sequence_data.txt - length: 195.017017017
+nytimes_molecular_sequence_data.txt - oovs: 0.0
+nytimes_molecular_sequence_data.txt - ppl: 9465.37013113
+
+nytimes_neoplasms.txt - length: 187.644
+nytimes_neoplasms.txt - oovs: 0.0
+nytimes_neoplasms.txt - ppl: 8425.912383
+
+nytimes_obesity.txt - length: 208.801801802
+nytimes_obesity.txt - oovs: 0.0
+nytimes_obesity.txt - ppl: 9677.54173173
+
+nytimes_signal_transduction.txt - length: 190.403
+nytimes_signal_transduction.txt - oovs: 0.0
+nytimes_signal_transduction.txt - ppl: 10964.42669

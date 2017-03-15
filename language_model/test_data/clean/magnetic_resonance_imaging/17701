@@ -1,0 +1,9 @@
+
+Recent guidelines on stroke neuroimaging from the American Academy of Neurology (AAN) recommend magnetic resonance imaging (MRI) over computed tomography (CT) for stroke diagnosis when patients present within 12 hours of onset. We sought to estimate the proportion of stroke MRI that is performed within 12 hours.
+
+Using the best available data, we estimated total time from symptom onset to MRI with a Monte Carlo simulation. We modeled 3 times to MRI: time to presentation, time to emergency department (ED) MRI, and time to inpatient MRI. Total time to MRI was estimated by summing these time components while varying model parameters around our base model. Sensitivity analyses assessed the relative importance of model parameters to overall MRI timing.
+
+In 2009, we estimate that 66% of stroke patients underwent MRI, 14% received an MRI in the ED, and 68% of all MRIs were obtained on hospital day 0 or 1. We estimate that 29% (95% confidence interval 24-33%) of stroke MRIs are obtained within 12 hours of onset. Sensitivity analyses revealed that even large clinical changes (eg, decreasing time to presentation) would only moderately influence this proportion. For example, if mean time to presentation were reduced to 30 minutes (from the base case estimate of 16 hours), the proportion of stroke MRI performed within 12 hours would only increase to 55.3%.
+
+Stroke guidelines favor the use of MRI over CT only during the first 12 hours from symptom onset, yet less than one-third of stroke MRIs are actually performed within this timeframe.
+

@@ -1,0 +1,9 @@
+
+Warfarin is the most commonly prescribed oral anticoagulant medication but also is the second leading cause of emergency room visits for adverse drug reactions. Genetic testing for warfarin sensitivity may reduce hospitalization rates, but prospective genotyping is impeded in part by the turnaround time and costs of genotyping. Microfluidics-based assays can reduce reagent consumption and analysis time; however, no current assay has integrated multiplexed allele-specific PCR for warfarin genotyping with electrophoretic microfluidics hardware. Ideally, such an assay would use a single PCR reaction and, without further processing, a single microchip electrophoresis (ME) run to determine the 3 single-nucleotide polymorphisms (SNPs) affecting warfarin sensitivity [i.e., CYP2C9 (cytochrome P450, family 2, subfamily C, polypeptide 9) *2, CYP2C9 *3, and the VKORC1 (vitamin K epoxide reductase complex 1) A/B haplotype].
+
+We designed and optimized primers for a fully multiplexed assay to examine 3 biallelic SNPs with the tetraprimer amplification refractory mutation system (T-ARMS). The assay was developed with conventional PCR equipment and demonstrated for microfluidic infrared-mediated PCR. Genotypes were determined by ME on the basis of the pattern of PCR products.
+
+Thirty-five samples of human genomic DNA were analyzed with this multiplex T-ARMS assay, and 100% of the genotype determinations agreed with the results obtained by other validated methods. The sample population included several genotypes conferring warfarin sensitivity, with both homozygous and heterozygous genotypes for each SNP. Total analysis times for the PCR and ME were approximately 75 min (1-sample run) and 90 min (12-sample run).
+
+This multiplexed T-ARMS assay coupled with microfluidics hardware constitutes a promising avenue for an inexpensive and rapid platform for warfarin genotyping.
+

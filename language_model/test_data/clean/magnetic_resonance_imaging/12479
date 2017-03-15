@@ -1,0 +1,9 @@
+
+To characterize the relationship between motor resting-state connectivity of the dorsal pre-motor cortex (PMd) and clinical disability in patients with multiple sclerosis (MS).
+
+A total of 27 patients with relapsing-remitting MS (RR-MS) and 15 patients with secondary progressive MS (SP-MS) underwent functional resting-state magnetic resonance imaging. Clinical disability was assessed using the Expanded Disability Status Scale (EDSS). Independent component analysis was used to characterize motor resting-state connectivity. Multiple regression analysis was performed in SPM8 between the individual expression of motor resting-state connectivity in PMd and EDSS scores including age as covariate. Separate post hoc analyses were performed for patients with RR-MS and SP-MS.
+
+The EDSS scores ranged from 0 to 7 with a median score of 4.3. Motor resting-state connectivity of left PMd showed a positive linear relation with clinical disability in patients with MS. This effect was stronger when considering the group of patients with RR-MS alone, whereas patients with SP-MS showed no increase in coupling strength between left PMd and the motor resting-state network with increasing clinical disability. No significant relation between motor resting-state connectivity of the right PMd and clinical disability was detected in MS.
+
+The increase in functional coupling between left PMd and the motor resting-state network with increasing clinical disability can be interpreted as adaptive reorganization of the motor system to maintain motor function, which appears to be limited to the relapsing-remitting stage of the disease.
+

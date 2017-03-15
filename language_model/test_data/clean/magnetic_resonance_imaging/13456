@@ -1,0 +1,3 @@
+
+The calculation of rho, T1 and T2 images from a minimal set of source images is considerably simplified if proper values for the sequence parameters are chosen. For the spin-echo technique a setup is suggested - a ratio of three between the effective repetition time of the T2- and the T1-weighted acquisitions - which not only produces the desired simplifications but which also is entirely compatible with normal diagnostic practice and close to optimum for two-point measurements.
+

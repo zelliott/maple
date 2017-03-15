@@ -1,0 +1,11 @@
+
+Spin-lattice relaxation in the rotating frame, or T(1ρ) relaxation, is normally described by a mono-exponential decay model. However, compartmentation of tissues and microscopic molecular exchange may lead to bi-exponential or multi-exponential T(1ρ) relaxation behavior in certain tissues under the application of spin lock pulse field strength.
+
+To investigate the presence of bi-exponential T(1ρ) relaxations in in-vivo rat head tissues of brain and muscle.
+
+Five Sprague-Dawley rats underwent T(1ρ) imaging at 3T. A B(1)-insensitive rotary echo spin lock pulse was used for T(1ρ) preparation with a spin lock frequency of 500Hz. Twenty-five T(1ρ)-weighted images with spin lock times ranging from 1 to 60 ms were acquired using a 3D spoiled gradient echo sequence. Image intensities over different spin lock times were fitted using mono-exponential as well as bi-exponential models both on region-of-interest basis and pixel-by-pixel basis. F-test with a significance level P value of 0.01 was used to evaluate whether bi-exponential model gave a better fitting than mono-exponential model.
+
+In rat brains, only mono-exponential but no apparent bi-exponential T(1ρ) relaxation (~70-71 ms) was found. In contrast, bi-exponential T(1ρ) relaxation was observed in muscles of all five rats (P < 10(-4)). A longer and a shorter T(1ρ) relaxation component were extracted to be ~37- ~41 ms (a fraction of ~80- ~88%) and ~9- ~11 ms (~12-20%), compared to the normal single T(1ρ) relaxation of ~30- ~33 ms.
+
+Bi-exponential relaxation components were detected in rat muscles. The long and the short T(1ρ) relaxation component are thought to correspond to the restricted intracellular water population and the hydrogen exchange between amine and hydroxyl groups, respectively.
+

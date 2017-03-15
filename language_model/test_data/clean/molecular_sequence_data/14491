@@ -1,0 +1,9 @@
+
+Matrix-assisted laser desorption/ionization (MALDI) time-of-flight-time-of-flight (TOF-TOF) post-source decay (PSD) tandem mass spectrometry (MS/MS) has seen increasing use for analysis of non-digested protein ions for top-down proteomic identification. However, there is no commonly accepted calibrant for this purpose beyond the use of peptide calibrants whose fragment ions span a lower mass-to-charge (m/z) range.
+
+We have used the PSD-generated fragment ions of disulfide-reduced/alkylated thioredoxin (AlkTrx) for TOF-TOF calibration in reflectron mode for the purpose of PSD-MS/MS analysis. The average m/z values of AlkTrx fragment ions were used for calibration. The quality of the calibration was assessed from the observed fragment ion mass error of MS/MS of the YahO protein from an unfractionated bacterial cell lysate of Escherichia coli O157:H7 as well as from MS/MS of bovine ubiquitin. The fragment ion mass errors of these two analytes were also used to assess instrument calibration using the monoisotopic fragment ions of [Glu(1)]-fibrinopeptide B (GluFib).
+
+A general improvement in fragment ion mass accuracy was observed using the AlkTrx calibration compared to the GluFib calibration which resulted in a more significant top-down proteomic identification of these analyte proteins.
+
+Our results suggest that AlkTrx may be useful as a calibrant for MALDI-TOF-TOF-PSD-MS/MS of small and modest-sized protein ions. The uniform fragmentation efficiency of YahO across its sequence suggests that it may be useful as a post-calibration standard to assess PSD-MS/MS instrument performance as well as establishing appropriate top-down proteomic fragment ion tolerances.
+

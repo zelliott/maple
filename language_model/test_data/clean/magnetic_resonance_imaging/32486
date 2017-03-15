@@ -1,0 +1,9 @@
+
+White matter hyperintensities (WMH) are common on brain MRI of the elderly. Their size ranges from punctate to early confluent to confluent lesions. While this increase in extension is frequently seen as evidence for a continuum of changes, histological data and clinical follow-up suggest differences in underlying pathology and their progression.
+
+We tested this hypothesis by exploring the distributions of punctuate and confluent lesions using lesion probability maps (LPM) generated from MRI scans of 189 participants (mean age 60.8+/-6.2 years) in the Austrian Stroke Prevention Study. We dichotomised WMH according to the classification by Fazekas et al. [punctate (n=143) vs. early confluent and confluent (n=33)] to run voxel-based t-tests using permutation-based nonparametric inference. To test alternative hypotheses, we created similar LPM for age and arterial hypertension.
+
+We observed significant differences in the spatial distribution of lesions for the two WMH groups (p<0.01). Punctate lesions were more diffusely distributed throughout the cerebral white matter (peak probability approximately 5%) relative to confluent lesions (peak probability 45%). Confluent lesions had greatest likelihood of being found in perfusion "watershed" regions. These differences in distribution could not be explained by differences in age or hypertension only, as both greater age and the diagnosis of hypertension were associated with WMH abutting the occipital horns.
+
+Punctate and early confluent to confluent WMH show distinguishable differences in their spatial distribution within a normal elderly population. The pattern of punctate WMH is probably a consequence of mixed etiologies. Preferential localization of the more confluent WMH with arterial watershed areas implies a stronger ischemic component in their development.
+

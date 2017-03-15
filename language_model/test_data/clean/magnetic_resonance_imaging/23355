@@ -1,0 +1,9 @@
+
+Acoustic noise both in terms of its magnitude and frequency during magnetic resonance imaging (MRI) scan is influenced by imaging parameters and pulse sequences. It varies because of many different factors such as structure, materials, and magnetic field strength. The purpose of our study is to evaluate the characteristics of acoustic noise independent of MRI scan protocol by measuring a gradient-pulse-to-acoustic-noise transfer function (GPAN-TF) at various MRI scanners.
+
+We measured sound pressure levels in the frequency domain in a 0.4-T, seven 1.5-T, and three 3.0-T clinical MRI systems when applying a simple narrower trapezoidal gradient pulse. We calculated a GPAN-TF [μPa/(mT/m)] in each gradient coil (ie, X, Y, and Z-axis) by the deconvolution process.
+
+GPAN-TF at a high-frequency range (1000-10,000 Hz) was larger than that at low frequency for all MRI (P<0.01) scanners except for a low static field machine. For high frequency (>1000 Hz), the 3.0-T MRI scanner had a larger GPAN-TF than that of 0.4-T and 1.5-T (P < .01). MR scanner with a vacuum chamber reduced GPAN-TF at a lower frequency (P < .01), but this effect decreased at higher frequency.
+
+GPAN-TF analysis makes it possible to obtain more detailed information on acoustic noise properties among MRI scanners.
+

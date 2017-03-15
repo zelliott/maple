@@ -1,0 +1,3 @@
+
+zzso motifs that discriminate functional classes of proteins are useful for zzso new zzso capturing structural constraints, and identifying protein zzso Despite the fact that the space of such motifs can grow zzso with sequence length and number, we show that in practice it usually does not, and we describe a technique that zzso motifs from aligned protein sequences by zzso searching this zzso Our method generates sequence motifs over a wide range of recall and precision, and chooses a representative motif based on a score that we derive from both statistical and zzso zzso Finally, we show that the selected motifs perform well in practice, zzso unseen sequences with extremely high precision, and zzso protein zzso that zzso to known zzso zzso 
+

@@ -1,0 +1,7 @@
+
+We study the problem of mapping proteins between two protein families in the presence of zzso This problem occurs as a difficult zzso in zzso zzso approaches for zzso interaction zzso 
+
+Similar to prior approaches, our method is based on the idea that zzso implies equal rates of sequence evolution among the interacting zzso and we provide a first attempt to zzso this notion in a formal statistical zzso We call the units that are central to this zzso scheme the units of zzso A unit consists of two mapped protein pairs and its score zzso the zzso of the zzso This zzso allows us to provide a maximum likelihood zzso of the zzso mapping problem and to cast it into a zzso zzso programming zzso 
+
+zzso our software tool based on a zzso relaxation of this zzso makes it, for the first time, possible to zzso state-of-the-art quality pairings in a few minutes of zzso In zzso we suggest a novel alternative to the earlier available approaches, which is statistically sound and zzso zzso 
+

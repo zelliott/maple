@@ -1,0 +1,7 @@
+
+Current experimental techniques, especially those applying liquid chromatography mass spectrometry, have made high-throughput proteomic studies possible. The increase in throughput however also raises concerns on the accuracy of identification or quantification. Most experimental procedures select in a given MS scan only a few relatively most intense parent ions, each to be fragmented (MS2) separately, and most other minor co-eluted peptides that have similar chromatographic retention times are ignored and their information lost.
+
+We have computationally investigated the possibility of enhancing the information retrieval during a given LC/MS experiment by selecting the two or three most intense parent ions for simultaneous fragmentation. A set of spectra is created via superimposing a number of MS2 spectra, each can be identified by all search methods tested with high confidence, to mimick the spectra of co-eluted peptides. The generated convoluted spectra were used to evaluate the capability of several database search methods - SEQUEST, Mascot, X!Tandem, OMSSA, and RAId_DbS - in identifying true peptides from superimposed spectra of co-eluted peptides. We show that using these simulated spectra, all the database search methods will gain eventually in the number of true peptides identified by using the compound spectra of co-eluted peptides.
+
+Reviewed by Vlad Petyuk (nominated by Arcady Mushegian), King Jordan and Shamil Sunyaev. For the full reviews, please go to the Reviewers' comments section.
+

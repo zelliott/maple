@@ -1,0 +1,7 @@
+
+Recent studies suggest reduction of radical-propagating fatty acid hydroperoxides to inert hydroxides by interaction with apolipoprotein-D (apoD) Met93 may represent an antioxidant function for apoD. The nature and structural consequences of this selective interaction are unknown.
+
+Herein we used molecular dynamics (MD) analysis to address these issues. Long-timescale simulations of apoD suggest lipid molecules are bound flexibly, with the molecules free to explore multiple conformations in a binding site at the entrance to the classical lipocalin ligand-binding pocket. Models of 5s- 12s- and 15s-hydroperoxyeicosatetraenoic acids were created and the lipids found to wrap around Met93 thus providing a plausible mechanism by which eicosatetraenoic acids bearing hydroperoxides on different carbon atoms can interact with Met93 to yield Met93 sulfoxide (Met93SO). Simulations of glycosylated apoD indicated that a second solvent exposed Met at position 49 was shielded by a triantennerary N-glycan attached to Asn45 thereby precluding lipid interactions. MD simulations of apoD showed B-factors of the loop containing Met93SO were higher in the oxidized protein, indicating increased flexibility that is predicted to destabilize the protein and promote self-association.
+
+These studies provide novel insights into the mechanisms that may contribute to the antioxidant function of apoD and the structural consequences that result if Met93SO is not redox-cycled back to its native state.
+

@@ -1,0 +1,9 @@
+
+To objectively characterize different heart tissues from functional and viability images provided by composite-strain-encoding (C-SENC) MRI.
+
+C-SENC is a new MRI technique for simultaneously acquiring cardiac functional and viability images. In this work, an unsupervised multi-stage fuzzy clustering method is proposed to identify different heart tissues in the C-SENC images. The method is based on sequential application of the fuzzy c-means (FCM) and iterative self-organizing data (ISODATA) clustering algorithms. The proposed method is tested on simulated heart images and on images from nine patients with and without myocardial infarction (MI). The resulting clustered images are compared with MRI delayed-enhancement (DE) viability images for determining MI. Also, Bland-Altman analysis is conducted between the two methods.
+
+Normal myocardium, infarcted myocardium, and blood are correctly identified using the proposed method. The clustered images correctly identified 90 +/- 4% of the pixels defined as infarct in the DE images. In addition, 89 +/- 5% of the pixels defined as infarct in the clustered images were also defined as infarct in DE images. The Bland-Altman results show no bias between the two methods in identifying MI.
+
+The proposed technique allows for objectively identifying divergent heart tissues, which would be potentially important for clinical decision-making in patients with MI.
+

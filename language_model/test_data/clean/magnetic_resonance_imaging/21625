@@ -1,0 +1,3 @@
+
+A method has been developed that uses dynamic MR imaging to measure simultaneously the changes in signal intensity due to paramagnetic contrast agent in blood and tissue, using interleaved single-angle projection and imaging sequences. The basic projection/image sequence has a projection time resolution of 50 ms and can measure rapid changes in the blood signal intensity. Variants with a tissue suppression slab have time resolutions of 57 or 75 ms. Orientation of the projection and image planes can be defined independently. This technique will facilitate functional measurements using MR contrast agents, allowing the blood input function to be determined with excellent time resolution.
+

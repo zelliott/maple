@@ -1,0 +1,9 @@
+
+To discuss the technical details of a head mounted display with an augmented reality (AR) system and to describe a first pre-clinical evaluation in interventional MRI.
+
+The AR system consists of a video-see-through head mounted display (HMD), mounted with a mini video camera for tracking and a stereo pair of mini cameras that capture live images of the scene. The live video view of the phantom/patient is augmented with graphical representations of anatomical structures from MRI image data and is displayed on the HMD. The application of the AR system with interventional MRI was tested using a MRI data set of the head and a head phantom.
+
+The HMD enables the user to move around and observe the scene dynamically from various viewpoints. Within a short time the natural hand-eye coordination can easily be adapted to the slightly different view. The 3D perception is based on stereo and kinetic depth cues. A circular target with a diameter of 0.5 square centimeter was hit in 19 of 20 attempts. In a first evaluation the MRI image data augmented reality scene of a head phantom allowed good planning and precise simulation of a puncture.
+
+The HMD in combination with AR provides a direct, intuitive guidance for interventional MR procedures.
+

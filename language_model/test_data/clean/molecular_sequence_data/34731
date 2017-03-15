@@ -1,0 +1,3 @@
+
+Although proven successful in the identification of regulatory motifs, phylogenetic footprinting methods still show some shortcomings. To assess these difficulties, most apparent when applying phylogenetic footprinting to distantly related organisms, we developed a two-step procedure that combines the advantages of sequence alignment and motif detection approaches. The results on well-studied benchmark datasets indicate that the presented method outperforms other methods when the sequences become either too long or too heterogeneous in size.
+

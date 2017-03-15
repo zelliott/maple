@@ -1,0 +1,3 @@
+
+This paper explores the connection between the size of the spectral coefficients of a nucleotide or any other symbolic sequence and the distribution of nucleotides along certain subsequences. It explains the connection between the nucleotide distribution and the size of the spectral coefficients, and gives a necessary and sufficient condition for a coefficient to have a prescribed magnitude. Furthermore, it gives a fast algorithm for computing the value of a given spectral coefficient of a nucleotide sequence, discussing periods 3 and 4 as examples. Finally, it shows that the spectrum of a symbolic sequence is redundant, in the sense that there exists a linear recursion that determines the values of all the coefficients from those of a subset.
+

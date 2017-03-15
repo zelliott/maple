@@ -1,0 +1,7 @@
+
+We thoroughly analyse the results of 40 blind predictions for which an experimental answer was made available at the fourth meeting on the critical assessment of protein structure methods (CASP4). Using our comparative modelling and fold recognition methodologies, we made 29 predictions for targets that had sequence identities ranging from 50% to 10% to the nearest related protein with known structure. Using our ab initio methodologies, we made eleven predictions for targets that had no detectable sequence relationships.
+
+For 23 of these proteins, we produced models ranging from 1.0 to 6.0 A root mean square deviation (RMSD) for the Calpha atoms between the model and the corresponding experimental structure for all or large parts of the protein, with model accuracies scaling fairly linearly with respect to sequence identity (i.e., the higher the sequence identity, the better the prediction). We produced nine models with accuracies ranging from 4.0 to 6.0 A Calpha RMSD for 60-100 residue proteins (or large fragments of a protein), with a prediction accuracy of 4.0 A Calpha RMSD for residues 1-80 for T110/rbfa.
+
+The areas of protein structure prediction that work well, and areas that need improvement, are discernable by examining how our methods have performed over the past four CASP experiments. These results have implications for modelling the structure of all tractable proteins encoded by the genome of an organism.
+

@@ -1,0 +1,3 @@
+
+The Perfect Phylogeny Haplotyping (PPH) problem is one of the many computational approaches to the Haplotype Inference (HI) problem. Though there are many O(nm(2)) solutions to the PPH problem, the complexity of the PPH problem itself has remained an open question. In this paper, We introduce the FlexTree data structure that represents all the solutions for a PPH instance. We also introduce row-ordering that arranges the genotypes in a more manageable fashion. The column ordering, the FlexTree data structure and the row ordering together make the O(nm) OPPH algorithm possible. We also present some results on simulated data which demonstrate that the OPPH algorithm performs quiet impressively when compared to the earlier O(nm(2)) algorithms.
+

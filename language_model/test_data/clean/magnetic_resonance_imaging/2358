@@ -1,0 +1,3 @@
+
+A basic feature of many clinical trials is the collection of longitudinal data on individual patients. Analysis of such data is often based on summaries over time. This allows use of standards methods to assess treatment effects but sacrifices information on patterns over time as well as potential greater efficiency of analysis. The purpose of this paper is to illustrate the utility of the generalized estimating equations (GEE) approach to the analysis of longitudinal binary, count, and continuous responses for the frequent magnetic resonance imaging (MRI) substudy of the 3-year pivotal trial of interferon beta-1 b in relapsing-remitting multiple sclerosis.
+

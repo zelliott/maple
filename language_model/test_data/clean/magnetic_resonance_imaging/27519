@@ -1,0 +1,11 @@
+
+Small bowel peristalsis is a complex of many individual motion elements. Although each element of peristalsis can be measured there is no current global measure of peristalsis.
+
+To examine the feasibility of automated computerized assessment of global small bowel motility using simple computational methods.
+
+Coronal dynamic MR images were obtained from five healthy volunteers who had fasted for 9 h and drunk 1.5 L of water. Images were taken using single breath-hold and ECG triggering. Acquisitions were repeated at 10 and 20 min after an intramuscular injection of hyoscine butylbromide. Parametric maps were generated representing the mean change in signal amplitude (MSA) per voxel for each dynamic acquisition. Two observers independently assessed thresholding for optimal segmentation of small bowel from other sources of signal. Total voxel activity (TVA) for each study was calculated as a sum of MSA per slice and whole examination and TVA profiles were generated.
+
+Independent observations suggest that the automated segmentation method described usefully segments small bowel activity from other signal. Small bowel movement represented as TVA varied three-fold in the five volunteers and was inhibited by anti-muscarinic injection.
+
+It is possible to develop a new measure, based on automated segmentation of mean signal amplitude changes, of small bowel peristalsis using dynamic MR.
+

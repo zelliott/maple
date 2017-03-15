@@ -1,0 +1,9 @@
+
+To describe and evaluate the accuracy of water-saturation MRI and a computer segmentation program for quantification of visceral adipose tissue (VAT).
+
+MRI was performed on five patients with whole-volume coverage of the abdomen using two different sequences: 1) a T1-weighted spoiled gradient-echo breath-hold sequence (non-water-saturation) and 2) a T1-weighted spoiled gradient-echo water-saturation breath-hold sequence (water-saturation). The computer segmentation program analyzed the data and calculated VAT volumes (cm3) from both sequences. The data from one patient were additionally processed with the use of a manual technique. The intrastudy reproducibility of the proposed method using the water-saturation MRI sequence and the computer segmentation technique was tested by repeated measures of the automated system analysis (x 10) on MRI data from a single subject to calculate variability.
+
+VAT volumes measured by the water-saturation MRI sequences were consistently greater than those measured by the non-water-saturation sequences. Comparison of VAT volumes derived from the water-saturation images and measured by the computer segmentation technique vs. the manual technique showed good correlation (K = 0.8), with a significant time-saving benefit associated with the automated method (5 minutes vs. 1 hour). There was poor correlation between VAT volume measurement calculated by the manual technique and the computer segmentation technique using non-water-saturation images. The reproducibility of the computer segmentation technique using data derived from water-saturation images was high, with a low variability (+/- 5%).
+
+The results obtained demonstrate that the proposed method may be able to provide accurate quantification of VAT in a highly reproducible and efficient manner.
+

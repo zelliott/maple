@@ -1,0 +1,5 @@
+
+Web-based servers implementing the DAS-TMfilter algorithm have been launched at three mirror sites and their usage is described. The underlying computer program is an upgraded and modified version of the DAS-prediction method. The new server is (approximately 1 among 100 unrelated queries) while the high efficiency of the original algorithm locating TM segments in queries is preserved (sensitivity of approximately 95% among documented proteins with helical TM regions).
+
+The server operates at three mirror sites: http://mendel.imp.univie.ac.at/sat/DAS/DAS.html, http://wooster.bip.bham.ac.uk/DAS.html and http://www.enzim.hu/DAS/DAS.html. The program is available on request.
+

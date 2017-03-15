@@ -1,0 +1,9 @@
+
+In oxygen-enhanced lung MRI, difference maps of acquisitions during inhalation of room air and pure oxygen are calculated to assess lung function. The purpose of this study was to analyze how the calculation of these difference maps depends on the delayed signal change after switching the gas supply.
+
+Ten healthy volunteers were examined with an ECG and respiratory-triggered T1-weighting inversion recovery HASTE sequence with parallel imaging. Four blocks with 20 repetitions of up to 6 coronal slices were continuously acquired; in blocks 1 and 3 room air was supplied, in blocks 2 and 4 oxygen. Data were postprocessed, discarding between 0 and 19 repetitions after each change of gas supply before calculating the relative signal difference.
+
+The averaged relative signal difference increases from 9.4 to 17.4% when the number of discarded acquisitions increases; the ratio of signal difference and spatial standard deviation reaches a maximum at 5-8 discarded acquisitions.
+
+An optimized ratio of signal difference and statistical error is found if about 5-8 of 20 respiratory-triggered repetitions are discarded after each change of gas supply for the calculation of difference maps.
+

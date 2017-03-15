@@ -1,0 +1,9 @@
+
+A spin-echo diffusion-sensitized pulse sequence using high gradients (23 mT/m) is introduced.
+
+In order to minimize motion artefacts, velocity-compensating gradients, ECG-triggering and post-processing with phase correction and raw data averaging using navigator echoes was performed. The in vitro ratio of diffusion coefficients for water and acetone was determined and the water self-diffusion coefficient at different temperatures was evaluated. The pulse sequence was tested in 7 healthy volunteers and in 2 tumour patients with astrocytomas of grades I-II and III-IV. Both single-slice and multi-slice techniques were used.
+
+The incorporation of phase correction clearly improved the quality of both diffusion-encoded images and the calculated diffusion maps. Mean values of the diffusion coefficients in vivo were for CSF 2.66 x 10(-9) m2/s and for white and grey matter 0.69 x 10(-9) m2/s and 0.87 x 10(-9) m2/s, respectively.
+
+Velocity-compensating gradients in combination with a high gradient strength were shown to be useful for in vivo diffusion MR imaging.
+

@@ -1,0 +1,9 @@
+
+To construct single chain antibody (scFv) gene of mAb E10 against human integrin alphavbeta3.
+
+The VH and VL genes were amplified from hybridoma cells secreting mAb E10 by RT-PCR and connected with the use of linker (Gly4Ser)3 to assemble scFv gene. The scFv gene was cloned into prokaryotic expression vector pTIG-TRX and expressed in E. coli BL21 (DE3).
+
+SDS-PAGE analysis showed the expressed recombinant protein with relative molecular mass (Mr) being 31,000. Western blot confirmed that the protein was labeled with His6. scFv protein was expressed as soluble protein under the condition of a small amount of IPTG induction and culture at lower temperature. The purity of the protein purified through Ni-NTA agarose metal affinity resin column was over 91%. The purified protein could bind to the human integrin alphavbeta3 by ELISA confirmation.
+
+scFv against human integrin alphavbeta3 has been successfully constructed and expressed,which lays the foundation for further clinical research.
+

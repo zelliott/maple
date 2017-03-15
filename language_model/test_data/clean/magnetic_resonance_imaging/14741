@@ -1,0 +1,11 @@
+
+The aim of our study was to compare volume change in grey matter (GM) and white matter (WM) in a group of subjects with anosmia and a healthy control group. We tried to find a regular pattern of atrophy within and between GM and WM and to determine whether any particular areas are more sensitive to olfactory injury.
+
+There were 19 anosmic patients and 20 age- and sex-matched control subjects. We acquired MR images on a 3-T scanner and performed voxel-based morphometry using the VBM8 toolbox and SPM8 in a MATLAB® (MathWorks®, Natick, MA) environment.
+
+Patients with anosmia showed a significant decrease in GM volume, mainly in the anterior cingulate cortex, middle temporal gyrus, superior temporal gyrus, fusiform gyrus, supramarginal gyrus, superior frontal gyrus, middle frontal gyrus, middle occipital gyrus, anterior insular cortex and cerebellum. In addition, we observed volume decreases in smaller areas such as the piriform cortex, the inferior temporal gyrus, the precuneus and the subcallosal gyrus. All WM areas with atrophy were near those GM areas that experienced volume loss. There was more volume atrophy in GM areas corresponding to WM areas with more volume loss. Atrophy increased with disease duration.
+
+There is simultaneous atrophy in GM and WM, and the degree of atrophy is greater with longer disease duration. Different GM and WM areas have different sensitivities to olfactory injury.
+
+This study examines the atrophy pattern in and between GM and WM-a subject that has not been widely researched previously.
+

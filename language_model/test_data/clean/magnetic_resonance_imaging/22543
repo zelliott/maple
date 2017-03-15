@@ -1,0 +1,9 @@
+
+We sought to evaluate an optimized method for oxygen-enhanced magnetic resonance imaging of the lung, using electrocardiogram-trigger and a pneumotachograph for simultaneous cardiac and respiratory synchronization.
+
+Five series of IR-SSFSE images (echo time = 28.2 milliseconds; inversion time = 1,200 milliseconds) were obtained in 6 volunteers during the ventilation-paradigm room-air/oxygen/room-air: series 1, respiratory-triggered; series 2, cardiac-triggered; series 3, cardiac-triggered and respiratory-synchronized using the signal of the pneumatic belt; series 4, cardiac-triggered and respiratory-synchronized using the external signal of the pneumotachograph; and series 5, not cardiac-triggered and respiratory-synchronized using the signal of the pneumotachograph. Standard deviations of the lung (SI(var)) and diaphragm mismatch (DM) were measured. The relative SI change (DeltaSI) was computed from room-air and oxygen-enhanced images. Parametric maps were obtained from cross-correlation analysis of the ventilation paradigm. Mean correlation coefficients (cc) and the percentage of activated pixels over the lung (Act%) were calculated from these maps. All 5 parameters were compared among the 5 series (Friedman-analysis of variance, Dunn's posthoc test).
+
+In series 4, DM and SI(var) were significantly lower than in respiratory and cardiac-triggered series (DM = 4.7 vs. 14.3 and 18.4; SI(var) = 4.9 vs. 10 and 11). In the same series cc and Act% also were significantly higher than in series 1 and 2 (cc = 0.86 vs. 0.7 and 0.6; Act% = 71.3 vs. 44.7 and 41.2). DeltaSI was not significantly different among all series.
+
+Effective respiratory and cardiac synchronization can be achieved in oxygen-enhanced magnetic resonance imaging of the lung, using a pneumotachograph for real-time targeting of end-expiration.
+

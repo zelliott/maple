@@ -1,0 +1,7 @@
+
+Most of the available tools for transcription factor binding site prediction are based on methods which assume no sequence dependence between the binding site base positions. Our primary objective was to investigate the statistical basis for either a claim of dependence or independence, to determine whether such a claim is generally true, and to use the resulting data to develop improved scoring functions for binding-site prediction.
+
+Using three statistical tests, we analyzed the number of binding sites showing dependent positions. We analyzed transcription factor-DNA crystal structures for evidence of position dependence. Our final conclusions were that some factors show evidence of dependencies whereas others do not. We observed that the conformational energy (Z-score) of the transcription factor-DNA complexes was lower (better) for sequences that showed dependency than for those that did not (P < 0.02). We suggest that where evidence exists for dependencies, these should be modeled to improve binding-site predictions. However, when no significant dependency is found, this correction should be omitted. This may be done by converting any existing scoring function which assumes independence into a form which includes a dependency correction. We present an example of such an algorithm and its implementation as a web tool.
+
+http://promoterplot.fmi.ch/cgi-bin/dep.html
+

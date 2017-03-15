@@ -1,0 +1,3 @@
+
+A method has been developed using techniques from partially parallel imaging (PPI) to detect localized inconsistencies in k-space that are caused by certain types of motion. The inconsistent data are discarded and consistent data regenerated from the remaining data using PPI techniques. The price is a small decrease in signal-to-noise ratio (SNR) and additional postprocessing. An iterative scheme is presented which does not require separately acquired coil sensitivity information for the PPI reconstructions. This method has been found to reduce artifact levels in phantom and in vivo test studies.
+

@@ -1,0 +1,9 @@
+
+The analysis of brain imaging data such as functional zzso often requires considerable computing resources, which in most cases are not readily available in many medical imaging zzso This lack of computing power makes it difficult for researchers and medical practitioners alike to perform on-site analysis of the generated zzso This paper presents a system that is capable of analyzing functional zzso data in real time with results available within seconds after data zzso 
+
+The system employs remote zzso servers to provide the necessary computing zzso System integration is accomplished by an accompanying software package, which includes zzso analysis tools, data transfer zzso and an zzso zzso user zzso The remote analysis is transparent to the user as if all zzso are performed zzso 
+
+The use of PC clusters in the analysis of zzso data significantly improved the performance of the zzso zzso runs fully achieved real-time performance with a total processing time of zzso s per image volume zzso zzso 64 zzso 30 in zzso much less than the per volume acquisition time set to zzso zzso 
+
+The results show the feasibility of using remote zzso resources to enable on-demand real-time zzso capabilities to imaging zzso It also offers the possibility of doing more intensive analysis even if the imaging site doesn't have the necessary computing zzso 
+

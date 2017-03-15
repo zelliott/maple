@@ -1,0 +1,5 @@
+
+TargetDB is a centralized target registration database that includes protein target data from the NIH structural genomics centers and a number of international sites. TargetDB, which is hosted by the Protein Data Bank (RCSB PDB), provides status information on target sequences and tracks their progress through the various stages of protein production and structure determination. A simple search form permits queries based on contributing site, target ID, protein name, sequence, status and other data. The progress of individual targets or entire structural genomics projects may be tracked over time, and target data from all contributing centers may also be downloaded in the XML format.
+
+TargetDB is available at http://targetdb.pdb.org/
+

@@ -1,0 +1,9 @@
+
+To characterize artifacts and imaging problems in the presence of conductive grounding pads for RF ablation therapy as well as potential heating problems due to induction of eddy currents in the pads. Strategies for avoidance of those problems are developed.
+
+Underlying principles of interactions between grounding pads and MR imaging are reported. Influential parameters, e.g., orientation in relation to the magnetic field, shape of the grounding pad, sequence type (spin-echo versus gradient echo) and magnetic field strength (0.2 T, 1.5 T, 3 T) were varied in systematic phantom studies. Heating effects due to induced eddy currents were estimated theoretically and measured by infrared imaging in an adapted set-up.
+
+MR imaging artifacts are markedly dependent on the orientation and geometrical shape of the grounding pads. Visible signal extinction artifacts were more pronounced using spin-echo techniques than in gradient echo images and increased for higher field strengths. Suitable incisions in the grounding pad reduced eddy currents markedly and minimized image artifacts. Heating problems due to induced eddy currents by the RF transmitted for MR imaging were excluded by phantom measurements.
+
+Suitable positioning of the grounding pads and adaptation of their geometry provide clearly reduced artifacts in MR imaging.
+

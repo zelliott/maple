@@ -1,0 +1,9 @@
+
+To assess the value of conventional and magnetization transfer (MT) MRI measures of white matter (WM) and gray matter (GM) damage, and their 12-month change, in predicting long-term disability and cognitive impairment in multiple sclerosis (MS).
+
+Conventional and MT MRI brain scans were obtained at baseline and at 12 months in 73 patients, who were followed prospectively with clinical visits and rating of the Expanded Disability Status Scale score and the MS severity score (MSSS) for a median period of 13.3 years. At 13-year follow-up, a neuropsychological assessment was also performed when possible. T2-hyperintense and T1-hypointense lesion volumes, GM fraction (GMF), WM fraction, thalamic fraction, average lesion MT ratio (MTR), average GM MTR, average normal-appearing WM MTR, and thalamic MTR were measured. Random forest and multivariable analyses were performed to identify the predictors of neurologic deterioration and cognitive impairment at 13 years.
+
+At 13-year follow-up, 66% of patients showed significant worsening of disability and 37% had worsened cognitively. The multivariable model, in which Expanded Disability Status Scale deterioration at final follow-up was the dependent variable, identified baseline GMF (odds ratio [OR] = 0.79, p = 0.01) as the only predictor of worsening of disability (C-index = 0.69). Baseline disease duration (OR = 1.50, p = 0.08) and average GM MTR (OR = 0.87, p = 0.03) were independent variables associated with cognitive deterioration (C-index = 0.97). Baseline MSSS (β = 0.50, p < 0.0001) and baseline GMF (β = -0.32, p = 0.0005) predicted MSSS at follow-up (r(2) = 0.45).
+
+GM damage is one of the key factors associated with long-term accumulation of disability and cognitive impairment in MS.
+

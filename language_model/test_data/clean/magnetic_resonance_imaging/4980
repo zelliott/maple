@@ -1,0 +1,9 @@
+
+To compare the diagnostic performance of a diffusion-weighted imaging (DWI) dataset and a gadofluorine M-enhanced imaging dataset for identifying lymph node (LN) metastases in a rabbit rectal cancer model.
+
+VX2 carcinomas were injected into the rectum of 26 rabbits. Four weeks later, T2-weighted imaging (T2WI), pre-T1WI, DWI, and post-T1WI were performed. Two radiologists independently reviewed the DWI set (T2WI, pre-T1WI, DWI) and the gadofluorine M set (T2WI, pre- and post-T1WI) and recorded their confidence scores for LN metastasis on a per-LN basis. Receiver operating characteristic (ROC) analysis was performed to compare the area under the ROC curve (A(z) ) of the two imaging sets. Histopathologic results were used as the reference standard.
+
+The A(z) and sensitivity of the gadofluorine M set were comparable to those of the DWI set (A(z) , for reader 1, 0.849, 0.829, P = 0.571; for reader 2, 0.923, 0.876, P = 0.212; sensitivity, for reader 1, 97%, 97%; for reader 2, 97%, 92%, P = 0.304). The specificity of the former was greater than that of the latter (for reader 1, 65%, 53%, P = 0.0003; for reader 2, 81%, 68%, P = 0.01).
+
+Gadofluorine M-enhanced images provided greater specificity than DWI for identifying LN metastases, whereas the A(z) and sensitivity of the former were comparable to those of the latter.
+

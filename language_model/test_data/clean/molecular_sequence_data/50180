@@ -1,0 +1,3 @@
+
+DomCut is a program to predict inter-domain linker regions solely by amino acid sequence information. The prediction is made by using linker index deduced from a data set of domain/linker segments. The linker preference profile, which is the averaged linker index along a sequence, can be visualized in the graphical interface.
+

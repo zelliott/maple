@@ -1,0 +1,7 @@
+
+This work aims to develop computational methods to annotate protein structures in an automated fashion. We employ a support vector machine (SVM) classifier to map from a given class of structures to their corresponding structural (SCOP) or functional (Gene Ontology) annotation. In particular, we build upon recent work describing various kernels for protein structures, where a kernel is a similarity function that the classifier uses to compare pairs of structures.
+
+We describe a kernel that is derived in a straightforward fashion from an existing structural alignment program, MAMMOTH. We find in our benchmark experiments that this kernel significantly out-performs a variety of other kernels, including several previously described kernels. Furthermore, in both benchmarks, classifying structures using MAMMOTH alone does not work as well as using an SVM with the MAMMOTH kernel.
+
+http://noble.gs.washington.edu/proj/3dkernel
+

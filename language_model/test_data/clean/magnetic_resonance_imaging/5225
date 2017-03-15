@@ -1,0 +1,9 @@
+
+Accurate delineation of the prostate gland on computed tomography (CT) remains a persistent challenge and continues to introduce geometric uncertainty into the planning and delivery of external beam radiotherapy. We, therefore, developed an expansion/de-expansion tool to quantify the contour errors and determine the location of the deviations.
+
+A planning CT scan and magnetic resonance imaging scan were prospectively acquired for 10 patients with prostate cancer. The prostate glands were contoured by 3 independent observers using the CT data sets with instructions to contour the prostate without underestimation but to minimize overestimation. The standard prostate for each patient was defined using magnetic resonance imaging and CT on multiple planes. After registration of the CT and magnetic resonance imaging data sets, the CT-defined prostates were scored for accuracy. The contours were defined as ideal if they were within a 2.5-mm expansion of the standard without underestimation, acceptable if they were within a 5.0-mm expansion and a 2.5-mm de-expansion, and unacceptable if they extended >5.0 mm or underestimated the prostate by >2.5 mm.
+
+A total of 636 CT slices were individually analyzed, with the vast majority scored as ideal or acceptable. However, none of the 30 prostate contour sets had all the contours scored as ideal or acceptable. For all 3 observers, the unacceptable contours were more likely from underestimation than overestimation of the prostate. The errors were more common at the base and apex than the mid-gland.
+
+The expansion/de-expansion tool allows for directed feedback on the location of contour deviations, as well as the determination of over- or underestimation of the prostate. This metric might help improve the accuracy of prostate contours.
+

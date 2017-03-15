@@ -1,0 +1,3 @@
+
+A novel method for iterative reconstruction of images from undersampled MRI data acquired by multiple receiver coil systems is presented. Based on Projection onto Convex Sets (POCS) formalism, the method for SENSitivity Encoded data reconstruction (POCSENSE) can be readily modified to include various linear and nonlinear reconstruction constraints. Such constraints may be beneficial for reconstructing highly and overcritically undersampled data sets to improve image quality. POCSENSE is conceptually simple and numerically efficient and can reconstruct images from data sampled on arbitrary k-space trajectories. The applicability of POCSENSE for image reconstruction with nonlinear constraining was demonstrated using a wide range of simulated and real MRI data.
+

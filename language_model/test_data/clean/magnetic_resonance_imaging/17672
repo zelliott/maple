@@ -1,0 +1,9 @@
+
+Lesion size in fluid attenuation inversion recovery (FLAIR) images is an important clinical parameter for patient assessment and follow-up. Although manual delineation of lesion areas considered as ground truth, it is time-consuming, highly user-dependent and difficult to perform in areas of indistinct borders. In this study, an automatic methodology for FLAIR lesion segmentation is proposed, and its application in patients with brain tumors undergoing therapy; and in patients following stroke is demonstrated.
+
+FLAIR lesion segmentation was performed in 57 magnetic resonance imaging (MRI) data sets obtained from 44 patients: 28 patients with primary brain tumors; 5 patients with recurrent-progressive glioblastoma (rGB) who were scanned longitudinally during anti-angiogenic therapy (18 MRI scans); and 11 patients following ischemic stroke.
+
+FLAIR lesion segmentation was obtained in all patients. When compared to manual delineation, a high visual similarity was observed, with an absolute relative volume difference of 16.80% and 20.96% and a volumetric overlap error of 24.87% and 27.50% obtained for two raters: accepted values for automatic methods. Quantitative measurements of the segmented lesion volumes were in line with qualitative radiological assessment in four patients who received anti-anogiogenic drugs. In stroke patients the proposed methodology enabled identification of the ischemic lesion and differentiation from other FLAIR hyperintense areas, such as pre-existing disease.
+
+This study proposed a replicable methodology for FLAIR lesion detection and quantification and for discrimination between lesion of interest and pre-existing disease. Results from this study show the wide clinical applications of this methodology in research and clinical practice.
+

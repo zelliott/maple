@@ -1,0 +1,9 @@
+
+To show the prevalence of inter-packet motion in clinical trial magnetic resonance imaging (MRI) data and the effect of inter-packet motion on MRI-derived brain pathology measurements.
+
+We present a method to detect and quantify inter-packet motion, apply it to 2384 MRIs to determine the prevalence of inter-packet motion in clinical trial data, and show the effect of inter-packet motion on measuring multiple sclerosis (MS) lesion volumes.
+
+Experiments with simulated data showed that the detection procedure was accurate at measuring the amount of movement between packets and quantifying the amount of missing data. Application to clinical trial data demonstrated that a large number of MRIs had missing data due to inter-packet motion; 20% of the images had greater than 10% of the data missing and 10% of the images had greater than 15% of the data missing. These levels corresponded to thresholds where lesions were difficult to visually identify or disappeared completely. Lesion volume measurement errors ranged from 1.3 ± 0.5% to 9.9 ± 6.3%.
+
+Inter-packet motion can introduce substantial errors to MRI-derived brain pathology measurements. The prevalence of inter-packet motion is substantial in MS clinical trial data. Automated detection procedures should be implemented to increase the fidelity of MRI-derived measurements.
+

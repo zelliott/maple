@@ -1,0 +1,7 @@
+
+We introduce a new approach to using the information contained in zzso prediction data in order to recognize protein template classes, a critical step in predicting protein zzso The data on which our method is based comprise probabilities of functional zzso for given query sequences these probabilities are obtained by a neural net that has previously been trained on a variety of functionally important zzso On a training set of sequences we assess the relevance of individual functional categories for identifying a given structural zzso Using a combination of the most relevant categories, the likelihood of a query sequence to belong to a specific family can be zzso 
+
+The performance of the method is evaluated using zzso For a fixed structural family and for every zzso a score is calculated that measures the evidence for family zzso Even for structural families of small size, family members receive significantly higher zzso For some examples, we show that the relevant functional features identified by this method are biologically zzso The proposed approach can be used to improve existing zzso prediction zzso 
+
+zzso code is available on request from the zzso The data are available at zzso 
+

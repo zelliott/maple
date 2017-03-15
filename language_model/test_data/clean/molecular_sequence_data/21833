@@ -1,0 +1,9 @@
+
+To design and construct a lentiviral vector containing shRNA against rat myeloid differentiation protein 88 gene (MyD88), and to establish rat pancreatic ductal cell line with stable knockdown of MyD88 expression.
+
+Constructed two plasmid expression vectors coding shRNA against MyD88 and converted them into lentiviral particles using three-plamid package system, named as Lenti-sh MyD88-1 and LentishMyD88-2. Rat pancreatic ductal cell, ARIP were divided into untreated group, Lenti-Non Target group, LentishMyD88-1 and LentishMyD88-2 treated groups, and transduced with corresponding lentiviral particles. The GFP positive cells were selected by fluorescence-activated cell sorting and puromycin, the MyD88 gene silencing efficiency was detected by real-time RT-PCR.
+
+After the transduction, we observed highly efficient transduction (reach to 100%) of lentivirus in ARIP cells by fluorescent microscopy and FACS. Quantitative RT-PCR showed that Lenti-shMyD88-1 reduced MyD88 mRNA expression by about 82.73% +/- 1.203% in ARIP cells, and LentishMyD88-2, reduced 75.56% +/- 1.176% as compared with that of the untreated cells (P < 0.05).
+
+The results demonstrated that lentivector containing the short hairpin RNA expression cassette specifically targeting MyD88 (pLVshMyD88-1,-2) were successfully constructed, which could stably knock down the MyD88 expression in ARIP cells. This study finally provided a new and stable cell model for the study of MyD88's function in acute pancreatitis.
+

@@ -1,0 +1,11 @@
+
+Independent component analysis (ICA) has been often used to decompose fMRI data mostly for the resting-state, block and event-related designs due to its outstanding advantage. For fMRI data during free-listening experiences, only a few exploratory studies applied ICA.
+
+For processing the fMRI data elicited by 512-s modern tango, a FFT based band-pass filter was used to further pre-process the fMRI data to remove sources of no interest and noise. Then, a fast model order selection method was applied to estimate the number of sources. Next, both individual ICA and group ICA were performed. Subsequently, ICA components whose temporal courses were significantly correlated with musical features were selected. Finally, for individual ICA, common components across majority of participants were found by diffusion map and spectral clustering.
+
+The extracted spatial maps (by the new ICA approach) common across most participants evidenced slightly right-lateralized activity within and surrounding the auditory cortices. Meanwhile, they were found associated with the musical features.
+
+Compared with the conventional ICA approach, more participants were found to have the common spatial maps extracted by the new ICA approach. Conventional model order selection methods underestimated the true number of sources in the conventionally pre-processed fMRI data for the individual ICA.
+
+Pre-processing the fMRI data by using a reasonable band-pass digital filter can greatly benefit the following model order selection and ICA with fMRI data by naturalistic paradigms. Diffusion map and spectral clustering are straightforward tools to find common ICA spatial maps.
+

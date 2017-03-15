@@ -1,0 +1,9 @@
+
+To develop a novel approach for high-resolution functional MRI (fMRI) using the conventional gradient-echo sequence.
+
+Echo-planar imaging (EPI) techniques have generally been used for fMRI studies due to their fast imaging time. However, it is difficult for studying brain function at the submillimeter level using this sequence. In addition, EPI techniques have some drawbacks, such as Nyquist ghosts and geometric distortions in the reconstructed images, and subsequently require additional postprocessing to reduce these artifacts. One way of solving these problems is to acquire fMRI data by means of a conventional gradient-echo imaging sequence instead of EPI. To provide a fast imaging time, the proposed method combines higher-order generalized series (HGS) imaging with a parallel imaging technique which is called the HGS-parallel technique.
+
+The proposed HGS-parallel technique achieves a 12.8-fold acceleration in imaging time without the cost of spatial resolution. The proposed method was verified through the application of fMRI studies on normal subjects.
+
+This study suggests that the proposed method can be used for high-resolution fMRI studies without the geometric distortion and the Nyquist ghost artifacts compared to EPI.
+

@@ -1,0 +1,7 @@
+
+Ultra-fast gradient and spin-echo (GRASE) imaging is a hybrid of turbo spin-echo (TSE) and echo-planar imaging (EPI). One scan consists of several spin echoes (SEs) (turbo factor, TF), each of which consists of a number of gradient echoes (EPI factor, EF). The aim of our study was to evaluate different combinations of TF and EF in GRASE imaging and to test its usefulness in musculoskeletal imaging.
+
+On a 1.0 T MR unit, 11 GRASE sequences with different combinations of TF and EF (TR/TE 2150/120 ms) were evaluated in phantom studies with respect to signal-to-noise (S/N) ratio, nonuniformity of images, and geometrical distortion. From this study, the optimal GRASE-sequence was applied to 25 patients with different joint pathologies and compared to a T2-weighted TSE sequence (TR/TE 2855/130 ms). Lesion visualization, conspicuity, overall image quality, and artifacts were qualitatively analyzed by two observers independently of each other.
+
+With respect to S/N ratio, signal nonuniformity, and geometrical distortion, the GRASE sequence with TF/EF 7/3 (S/N 47; signal nonuniformity 11.7%; distortion 1 pixel) proved to be superior to the other GRASE sequences within a scanning time of less than 120 s. In a clinical study, the GRASE sequence proved superior to T2-weighted TSE (without fat suppression) in the visualization of bone-marrow and soft-tissue lesions (p < 0.001) and ligamentous injuries, although the image quality was inferior.
+

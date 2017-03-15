@@ -1,0 +1,3 @@
+
+A large number of methods are available to deplete ribosomal RNA reads from high-throughput RNA sequencing experiments. Such methods are critical for sequencing Drosophila small RNAs between 20 and 30 nucleotides because size selection is not typically sufficient to exclude the highly abundant class of 30 nucleotide 2S rRNA. Here we demonstrate that pre-annealing terminator oligos complimentary to Drosophila 2S rRNA prior to 5' adapter ligation and reverse transcription efficiently depletes 2S rRNA sequences from the sequencing reaction in a simple and inexpensive way. This depletion is highly specific and is achieved with minimal perturbation of miRNA and piRNA profiles.
+

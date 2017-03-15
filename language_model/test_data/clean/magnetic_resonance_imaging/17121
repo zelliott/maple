@@ -1,0 +1,5 @@
+
+The purpose of this article is to review some of the basic principles of imaging and how metal-induced susceptibility artifacts originate in MR images. We will describe common ways to reduce or modify artifacts using readily available imaging techniques, and we will discuss some advanced methods to correct readout-direction and slice-direction artifacts.
+
+The presence of metallic implants in MRI can cause substantial image artifacts, including signal loss, failure of fat suppression, geometric distortion, and bright pile-up artifacts. These cause large resonant frequency changes and failure of many MRI mechanisms. Careful parameter and pulse sequence selections can avoid or reduce artifacts, although more advanced imaging methods offer further imaging improvements.
+

@@ -1,0 +1,9 @@
+
+To introduce a method to correct phase errors (e.g., from B0 inhomogeneity) in tagging images, which may affect harmonic phase (HARP) evaluation.
+
+The phase images corresponding to the negative and positive harmonic peaks in k-space are combined before HARP evaluation to eliminate any spurious phase. To validate in vivo, two complementary spatial modulation of magnetization (CSPAMM) data sets were collected for each volunteer and evaluated with conventional HARP, using either the positive or the negative harmonic peak, and with peak-combination HARP.
+
+Elimination of phase distortion by peak combination was observed in vitro and in vivo. Improved reproducibility of motion parameters was found with peak-combination HARP.
+
+With peak-combination HARP, reproducibility of contractile parameters is improved, and consequently, the number of subjects needed to detect statistically significant changes in contractile function can be reduced to one third compared to conventional HARP evaluation.
+

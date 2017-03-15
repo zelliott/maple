@@ -1,0 +1,3 @@
+
+This paper describes a probabilistic framework for modeling single-trial functional magnetic resonance (fMR) images based on a parametric model for the hemodynamic response and Markov random field (MRF) image models. The model is fitted to image data by maximizing a lower bound on the log likelihood. The result is an approximate maximum a posteriori estimate of the joint distribution over the model parameters and pixel labels. Examples show how this technique can used to segment two-dimensional (2-D) fMR images, or parts thereof, into regions with different characteristics of their hemodynamic response.
+

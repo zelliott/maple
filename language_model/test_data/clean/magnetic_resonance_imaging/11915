@@ -1,0 +1,3 @@
+
+The acoustic noise generated during an MRI sequence can be effectively reduced with the help of soft gradient pulses using sinusoidal ramps. The long slope duration, however, leads to long acquisition times. The use of interleaved spiral trajectories, calculated with long gradient slopes, is proposed to reduce the acquisition time while maintaining low acoustic noise levels. The practicality of this approach is demonstrated on phantom and volunteer images.
+

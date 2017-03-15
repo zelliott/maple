@@ -1,0 +1,9 @@
+
+Characterization of magnetic susceptibility artefacts with assessment of the gradient-echo signal decay function of echo time, pixel size, and object geometry in the case of air-filled cylinders embedded in water.
+
+Experiments were performed with a 0.2 T magnet on a network of small interacting air-filled cylinders along with Magnetic resonance imaging (MRI) simulations integrating intravoxel dephasing. Signal decay over echo time was assessed at different pixel sizes on real and simulated images. The effects of radius, distance between cylinders and main magnetic field were studied using simulation.
+
+Signal loss was greater as echo time or pixel size increased. Voxel signal decay was not exponential but was weighted by sinus cardinalis functions integrating echo time, pixel size and field inhomogeneities which depended on main magnetic field strength and geometric configuration of the object. Simulation was able to model signal decay, even for a complex object constituted of several cylinders. The specific experimental signal modulation we observed was thus reproduced and explained by simulation.
+
+The quantitative signal decay approach at 0.2 T can be used in characterization studies in the case of locally regular air/water interfaces as the signal depends on object size relative to pixel size and is relevant to the geometric configuration. Moreover, the good concordance between simulation and experiments should lead to further studies of magnetic susceptibility effects with other objects such as networks of spheres. MRI simulation is thus a potential tool for molecular and porous media imaging.
+

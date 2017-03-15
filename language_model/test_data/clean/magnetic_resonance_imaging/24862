@@ -1,0 +1,9 @@
+
+Treatment resistance affects up to one third of patients with schizophrenia (SCZ). A better understanding of its biological underlying processes could improve treatment. The aim of this study was to compare cortical thickness between non-resistant SCZ (NR-SCZ), treatment-resistant SCZ (TR-SCZ) patients and healthy controls (HC).
+
+Structural MRI scans were obtained from 3 groups of individuals: 61 treatment resistant SCZ individuals, 67 non-resistant SCZ and 80 healthy controls. Images were analyzed using cortical surface modelling (implemented in freesurfer package) to identify group differences in cortical thickness. Statistical significant differences were identified using Monte-Carlo simulation method with a corrected p-cluster<0.01.
+
+Patients in the TR-SCZ group showed a widespread reduction in cortical thickness in frontal, parietal, temporal and occipital regions bilaterally. NR-SCZ group had reduced cortex in two regions (left superior frontal cortex and left caudal middle frontal cortex). TR-SCZ group also showed decreased thickness in the left dorsolateral prefrontal cortex (DLPFC) when compared with patients from NR-SCZ group.
+
+The reduction in cortical thickness in DLPFC indicates a more severe form of the disease or a specific finding for this group. Alterations in this region should be explored as a putative marker for treatment resistance. Prospective studies, with individuals being followed from first episode psychosis until refractoriness is diagnosed, are needed to clarify these hypotheses.
+

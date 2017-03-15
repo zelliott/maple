@@ -1,0 +1,9 @@
+
+To examine the ability of TrueFISP imaging for evaluating tumor size in mouse brain at high field.
+
+Brains of healthy and glioma-implanted nude mice were imaged at 4.7T and 9.4T. 3D imaging was performed with TrueFISP and T2w-RARE. Radiofrequency pulses with alternating phase and the sum-of-squares reconstruction method were used in TrueFISP imaging. The contrast-to-noise ratio (CNR) was evaluated in healthy and in tumoral brain regions.
+
+Banding artifact was correctly suppressed in TrueFISP images thanks to the method used. The signal-to-noise ratio (SNR) and CNR were comparable in TrueFISP and T2w-RARE images at 4.7T, but acquisition was around 4 times shorter with TrueFISP. Tumor was well detected at 4.7T with TrueFISP, but CNR between tumor and healthy tissue was low at 9.4T.
+
+TrueFISP is efficient and fast to perform brain imaging at 4.7T. Multiple TrueFISP acquisitions with phase-cycled radiofrequency (RF) pulses and sum-of-squares reconstruction allow suppression of banding artifact. Tumoral regions were well detected and the method allows longitudinal studies of tumor growth.
+

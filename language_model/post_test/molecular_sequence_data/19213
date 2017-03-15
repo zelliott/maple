@@ -1,0 +1,7 @@
+
+An apparent paradox in zzso zzso structure prediction is that many methods, in advance, require a multiple alignment of a set of related zzso when searching for a common structure between zzso However, such a multiple alignment is hard to obtain even for few sequences with low sequence similarity without simultaneously folding and aligning zzso Furthermore, it is of interest to conduct a multiple alignment of zzso sequence candidates found from searching as few as two zzso zzso 
+
+Here, based on the zzso program, we present a global multiple alignment program, zzso which performs especially well on few sequences with low sequence zzso and is comparable in performance with state of the art programs in zzso In addition, it can cluster sequences based on sequence and structure similarity and output a multiple alignment for each zzso Furthermore, preliminary results with local zzso indicate that the program is useful for post processing zzso zzso zzso 
+
+The program zzso is implemented in zzso and is, along with some accompanying zzso zzso available at zzso 
+

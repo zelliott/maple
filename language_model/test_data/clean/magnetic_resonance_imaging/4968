@@ -1,0 +1,9 @@
+
+To evaluate whether MR thermometry is sufficiently fast, accurate, and spatially resolved for monitoring the thermal safety of nonablative pulsed high intensity ultrasound (pHIFU) treatments.
+
+A combination of real MR thermometry data and modeling was used to analyze the effects of temporal and spatial averaging as well as noise on the peak temperatures and thermal doses that would be measured by MR thermometry.
+
+MR thermometry systematically underestimates the temperature and thermal doses during pHIFU treatment. Small underestimates of peak temperature can lead to large underestimates of thermal dose. Spatial averaging errors are small for ratios of pixel dimension to heating zone radius less than 0.25, which may be achieved by reducing the voxel size or steering the acoustic beam. Thermal dose might also be underestimated for very short, high power pulses due to temporal averaging. A simple correction factor based on the applied power and duty cycle may be applied to determine the upper bound of this effect.
+
+The temperature and thermal dose measured using MR thermometry during pulsed HIFU treatment is probably sufficient in most instances. Simple corrections may be used to calculate an upper bound where this is a critical factor.
+

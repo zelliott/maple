@@ -1,0 +1,9 @@
+
+Accurate measurement of cerebrospinal fluid (CSF) flow rate elucidates pathophysiological changes in the intracranial environment and is thus clinically useful. We investigated the feasibility of correlation coefficient (CC) analysis for extracting CSF lumens in the cerebral aqueduct and cervical subarachnoid space (SAS) to quantify CSF flow rate and net flow from data acquired by phase-contrast magnetic resonance imaging (PC-MRI).
+
+First, in phantom studies on pulsatile flow using a 1.5-tesla MR imaging system, we investigated the accuracy of CC analysis and used a statistical approach to determine an optimal threshold value for extracting the CSF lumens (CC(min)). Second, we performed phantom studies on constant flow with various flow rates to estimate the accuracy of low flow measurement by PC-MRI. Finally, in 6 healthy male volunteers aged 24 +/- 2 years, we estimated the CSF lumen areas, net flows, and peak flow rates in the cerebral aqueduct and cervical SAS using CC analysis with the optimal CC(min) value determined in phantom studies. Three observers analyzed results to compare reproducibility of CC analysis with that of manual segmentation.
+
+The optimal CC(min) value for CC analysis was 0.41 for a matrix measuring 256 x 256. The CSF lumen area extracted by CC analysis was 6.15 +/- 2.52 mm(2), and the net flow in the cerebral aqueduct was 0.74 +/- 0.38 mL/min; in the cervical SAS, lumen area was 135.60 +/- 17.94 mm(2) and net flow, 12.55 +/- 12.67 mL/min. The reproducibility of CSF lumen extraction was better by CC analysis than manual segmentation.
+
+CC analysis offers a quick and reproducible method for segmenting CSF lumens and calculating CSF flow rate.
+

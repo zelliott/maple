@@ -1,0 +1,7 @@
+
+In this work we consider zzso DNA analysis problems and address them using alternative, zzso methods and representations which model sequences as collections of short sequence fragments zzso The methods use zzso representations zzso for zzso sequences to measure similarities or zzso between sequences coming from the same or different zzso The zzso representation not only allows for accurate and zzso efficient species zzso but also opens possibility for accurate zzso analysis of putative species zzso and identification of critical zzso zzso distinguishing zzso of different sample zzso 
+
+New zzso methods provide highly accurate and fast DNA zzso identification and zzso of species with substantial improvements in accuracy and speed over state-of-the-art zzso analysis zzso We evaluate our methods on problems of species zzso and identification using zzso important and relevant zzso tasks in many practical applications zzso species movement monitoring, sampling surveys for unknown or zzso species zzso zzso assessment, zzso On several benchmark zzso zzso including zzso zzso zzso Fish larvae, and zzso of North America, proposed zzso methods considerably improve prediction accuracy compared to prior zzso We also observe significant running time improvements over the state-of-the-art zzso 
+
+Our results show that newly developed zzso methods for DNA zzso can efficiently and with high accuracy identify specimens by examining only few zzso features, resulting in increased zzso and zzso of current zzso approaches to zzso 
+

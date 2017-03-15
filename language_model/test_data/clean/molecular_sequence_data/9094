@@ -1,0 +1,7 @@
+
+Our ultimate goal is to detect the entire human microbiome, in health and in disease, in a single reaction tube, and employing only commercially available reagents. To that end, we adapted molecular inversion probes to detect bacteria using solely a massively multiplex molecular technology. This molecular probe technology does not require growth of the bacteria in culture. Rather, the molecular probe technology requires only a sequence of forty sequential bases unique to the genome of the bacterium of interest. In this communication, we report the first results of employing our molecular probes to detect bacteria in clinical samples.
+
+While the assay on Affymetrix GenFlex Tag16K arrays allows the multiplexing of the detection of the bacteria in each clinical sample, one Affymetrix GenFlex Tag16K array must be used for each clinical sample. To multiplex the clinical samples, we introduce a second, independent assay for the molecular probes employing Sequencing by Oligonucleotide Ligation and Detection. By adding one unique oligonucleotide barcode for each clinical sample, we combine the samples after processing, but before sequencing, and sequence them together.
+
+Overall, we have employed 192 molecular probes representing 40 bacteria to detect the bacteria in twenty-one vaginal swabs as assessed by the Affymetrix GenFlex Tag16K assay and fourteen of those by the Sequencing by Oligonucleotide Ligation and Detection assay. The correlations among the assays were excellent.
+

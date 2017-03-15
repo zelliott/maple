@@ -1,0 +1,9 @@
+
+Tissue contrast phenomenology was investigated analytically and clinically for a class of magnetic resonance (MR) pulse sequences we call large-tip-angle (LTA) spin-echo (SE) imaging. In comparison to traditional SE sequences (denoted 90 degrees-180 degrees-echo), the LTA sequence is of the form alpha degrees-180 degrees-echo, where 90 degrees < alpha < 180 degrees. Theoretical analysis shows that appropriately designed LTA sequences can selectively boost the MR signal by 10%-150% in substances whose spin lattice (T1) relaxation values equal or exceed the sequence repetition time (TR). This unique contrast behavior potentially allows one to reduce TR (and hence imaging time) by 30% to 50% while maintaining constant T2-weighted contrast or contrast-to-noise within an image.
+
+Preliminary clinical testing of LTA sequences was performed in 60 patients with a wide range of cranial, spinal, musculoskeletal, and abdominal pathologies. Large-tip-angle images (1,500/80/130 degrees) were blindly and prospectively compared to conventional (2,600/80/90 degrees) SE images.
+
+Principal diagnoses were concordant between the readers in all cases, although minor variances in detail features were noted in 6 (10%) of 60 cases. Large-tip-angle sequences revealed small cystic areas in two cerebral neoplasms and in a herniated disk which were not apparent on the standard SE images. However, the LTA images were rated to be "noisier" by visual assessment in 43 of 60 cases, the exception being for abdominal examinations, where respiratory and peristaltic artifacts were judged more severe on the standard SE sequences.
+
+Large-tip-angle SE imaging is an interesting technique capable of improving image contrast and signal from lesions with long T1 values when the sequence repetition time (TR) is short.
+

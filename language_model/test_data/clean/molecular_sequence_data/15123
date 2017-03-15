@@ -1,0 +1,3 @@
+
+Database searches can fail to detect all truly homologous sequences, particularly when dealing with short, highly sequence diverse protein families. Here, using microtubule interacting and transport (MIT) domains as an example, we have applied an approach of profile-profile matching followed by ab initio structure modelling to the detection of true homologues in the borderline significant zone of database searches. Novel MIT domains were confidently identified in USP54, containing an apparently inactive ubiquitin carboxyl-terminal hydrolase domain, a katanin-like ATPase KATNAL1, and an uncharacterized protein containing a VPS9 domain. As a proof of principle, we have confirmed the novel MIT annotation for USP54 by in vitro profiling of binding to CHMP proteins.
+

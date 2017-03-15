@@ -1,0 +1,7 @@
+
+Non-coding RNAs (ncRNAs) are known to be involved in many critical biological processes, and identification of ncRNAs is an important task in biological research. A popular software, Infernal, is the most successful prediction tool and exhibits high sensitivity. The application of Infernal has been mainly focused on small suspected regions. We tried to apply Infernal on a chromosome level; the results have high sensitivity, yet contain many false positives. Further enhancing Infernal for chromosome level or genome wide study is desirable.
+
+Based on the conjecture that adjacent nucleotide dependence affects the stability of the secondary structure of an ncRNA, we first conduct a systematic study on human ncRNAs and find that adjacent nucleotide dependence in human ncRNA should be useful for identifying ncRNAs. We then incorporate this dependence in the SCFG model and develop a new order-1 SCFG model for identifying ncRNAs.
+
+With respect to our experiments on human chromosomes, the proposed new model can eliminate more than 50% false positives reported by Infernal while maintaining the same sensitivity. The executable and the source code of programs are freely available at http://i.cs.hku.hk/~kfwong/order1scfg.
+

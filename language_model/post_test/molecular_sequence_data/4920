@@ -1,0 +1,3 @@
+
+We describe a new approach for accurately aligning two zzso zzso sequences when the secondary structure of one of them is zzso To do so we developed two software packages, called zzso and zzso which use a genetic zzso approach to zzso the zzso zzso is mainly an extension of zzso an earlier package for multiple protein sequence zzso In zzso several genetic zzso run in parallel and exchange individual zzso This method allows us to zzso an objective function that describes the quality of a zzso zzso zzso taking into account both primary and secondary structure, including zzso We report results obtained using zzso on nine test cases of pairs of zzso small zzso zzso sequence zzso and zzso 
+

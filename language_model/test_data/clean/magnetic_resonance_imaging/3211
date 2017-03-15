@@ -1,0 +1,9 @@
+
+We studied the feasibility of pseudocontinuous arterial spin labeling (pCASL) at 7 T.
+
+Simulations were performed to find the optimal labeling parameters for pCASL, with particular attention to the maximum-allowed specific absorption rate (SAR). Subsequently, pCASL experiments (four volunteers) were performed to find the B1 efficiency at the labeling position with and without high-permittivity pads placed around the head, and to study the optimal labeling duration (four separate volunteers). Finally, feasibility of whole-brain pCASL imaging was tested.
+
+Simulations showed that a lower B1 efficiency should be compensated by a lower effective flip angle of the labeling, a moderately shorter labeling duration, and a longer repetition time. B1 efficiency in the internal carotid arteries just below the carotid siphon was approximately 55% and 35% with and without high-permittivity pads, respectively. In vivo experiments showed an optimal labeling duration of 1,500 ms, although longer labeling durations up to 2,500 ms resulted in similar signal-to-noise efficiency. Whole-brain pCASL imaging was demonstrated in a single volunteer.
+
+Despite decreased B1 efficiency, sufficient labeling efficiency can be achieved for whole-brain pCASL at 7 T with high-permittivity pads. However, image quality is still limited compared with 3 T, probably due to imaging instabilities, and further research is needed to elucidate this.
+

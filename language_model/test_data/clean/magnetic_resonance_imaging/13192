@@ -1,0 +1,9 @@
+
+To investigate the feasibility of multiecho balanced steady-state free precession (bSSFP)-based fast chemical shift mapping hyperpolarized (13)C metabolites. The overall goal was to reduce total imaging time and to increase spatial resolution compared to common chemical shift imaging (CSI).
+
+A multiecho bSSFP sequence in combination with an iterative reconstruction algorithm was implemented. (1)H experiments were performed on phantoms and on a human volunteer in order to investigate the feasibility of the method on a system with metabolite maps that are known beforehand. (13)C experiments were performed in vivo on pigs, where CSI images were acquired also for comparison.
+
+Chemical shift images of three and four distinct (1)H resonance frequencies as well as chemical shift images of up to five hyperpolarized (13)C metabolites were successfully obtained.
+
+Fast metabolite mapping based on multiecho balanced SSFP in combination with an iterative reconstruction approach could successfully separate several (1)H resonances and hyperpolarized (13)C metabolites.
+

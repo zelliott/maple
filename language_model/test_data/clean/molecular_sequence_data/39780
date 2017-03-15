@@ -1,0 +1,7 @@
+
+Multiple STructural Alignment (MSTA) provides valuable information for solving problems such as fold recognition. The consistency-based approach tries to find conflict-free subsets of alignments from a pre-computed all-to-all Pairwise Alignment Library (PAL). If large proportions of conflicts exist in the library, consistency can be hard to get. On the other hand, multiple structural superposition has been used in many MSTA methods to refine alignments. However, multiple structural superposition is dependent on alignments, and a superposition generated based on erroneous alignments is not guaranteed to be the optimal superposition. Correcting errors after making errors is not as good as avoiding errors from the beginning. Hence it is important to refine the pairwise library to reduce the number of conflicts before any consistency-based assembly.
+
+We present an algorithm, Iterative Refinement of Induced Structural alignment (IRIS), to refine the PAL. A new measurement for the consistency of a library is also proposed. Experiments show that our algorithm can greatly improve T-COFFEE performance for less consistent pairwise alignment libraries. The final multiple alignment outperforms most state-of-the-art MSTA algorithms at assembling 15 transglycosidases. Results on three other benchmarks showed that the algorithm consistently improves multiple alignment performance.
+
+The C++ code of the algorithm is available upon request.
+

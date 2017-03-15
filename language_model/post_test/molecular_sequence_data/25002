@@ -1,0 +1,3 @@
+
+This paper presents a new method to find motifs from multiple protein sequences and multiple protein zzso The method consists of two zzso zzso and local multiple zzso In the former part, protein sequences and protein structures are transformed into sequences of real numbers and real zzso zzso In the latter part, fixed length regions having similar shapes are zzso A Gibbs sampling zzso for sequences of real zzso is newly developed for finding common zzso The results of the comparison with a standard Gibbs sampling program show that the method is particularly useful when structural information is zzso 
+

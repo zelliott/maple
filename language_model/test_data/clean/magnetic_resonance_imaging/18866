@@ -1,0 +1,3 @@
+
+This paper presents our experience in using FE modeling of clinically relevant cases specifically in mandibular surgery. A semi-automatic procedure integrated with a group of Virtual Basic-based codes has been developed to clean the geometric models. Consequently, the time required for generate the tetrahedral volumetric mesh of mandible from patient-specific CT data has been reduced to less than 40 hours. Pre- and post-operation FE meshes are shown to be consistent and can be used for further modeling and analysis.
+

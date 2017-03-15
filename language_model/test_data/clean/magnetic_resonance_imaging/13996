@@ -1,0 +1,9 @@
+
+To assess magnetic resonance imaging (MRI)-related heating for a neurostimulation system (Activa Tremor Control System, Medtronic, Minneapolis, MN) used for chronic deep brain stimulation (DBS).
+
+Different configurations were evaluated for bilateral neurostimulators (Soletra Model 7426), extensions, and leads to assess worst-case and clinically relevant positioning scenarios. In vitro testing was performed using a 1.5-T/64-MHz MR system and a gel-filled phantom designed to approximate the head and upper torso of a human subject. MRI was conducted using the transmit/receive body and transmit/receive head radio frequency (RF) coils. Various levels of RF energy were applied with the transmit/receive body (whole-body averaged specific absorption rate (SAR); range, 0.98-3.90 W/kg) and transmit/receive head (whole-body averaged SAR; range, 0.07-0.24 W/kg) coils. A fluoroptic thermometry system was used to record temperatures at multiple locations before (1 minute) and during (15 minutes) MRI.
+
+Using the body RF coil, the highest temperature changes ranged from 2.5 degrees-25.3 degrees C. Using the head RF coil, the highest temperature changes ranged from 2.3 degrees-7.1 degrees C.Thus, these findings indicated that substantial heating occurs under certain conditions, while others produce relatively minor, physiologically inconsequential temperature increases.
+
+The temperature increases were dependent on the type of RF coil, level of SAR used, and how the lead wires were positioned. Notably, the use of clinically relevant positioning techniques for the neurostimulation system and low SARs commonly used for imaging the brain generated little heating. Based on this information, MR safety guidelines are provided. These observations are restricted to the tested neurostimulation system.
+

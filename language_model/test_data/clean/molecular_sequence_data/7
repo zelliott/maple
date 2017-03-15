@@ -1,0 +1,7 @@
+
+Metagenomic sequence data are proving to be a vast resource for the discovery of biological components. Yet analysis of this data to identify functional RNAs lags behind efforts to characterize protein diversity. The genome of 'Candidatus Pelagibacter ubique' HTCC 1062 is the closest match for approximately 20% of marine metagenomic sequence reads. It is also small, contains little non-coding DNA, and has strikingly low GC content.
+
+To aid the discovery of RNA motifs within the marine metagenome we exploited the genomic properties of 'Cand. P. ubique' by targeting our search to long intergenic regions (IGRs) with relatively high GC content. Analysis of known RNAs (rRNA, tRNA, riboswitches etc.) shows that structured RNAs are significantly enriched in such IGRs. To identify additional candidate structured RNAs, we examined other IGRs with similar characteristics from 'Cand. P. ubique' using comparative genomics approaches in conjunction with marine metagenomic data. Employing this strategy, we discovered four candidate structured RNAs including a new riboswitch class as well as three additional likely cis-regulatory elements that precede genes encoding ribosomal proteins S2 and S12, and the cytoplasmic protein component of the signal recognition particle. We also describe four additional potential RNA motifs with few or no examples occurring outside the metagenomic data.
+
+This work begins the process of identifying functional RNA motifs present in the metagenomic data and illustrates how existing completed genomes may be used to aid in this task.
+

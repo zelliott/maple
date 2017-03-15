@@ -1,0 +1,3 @@
+
+A new 2D single-shot imaging technique is introduced that uses only one dimension of Fourier encoding. The second dimension is encoded in time, rather than using phase encoding. The data is acquired in the form of a closely spaced echo train with each echo produced from a different physical line in the object. A 1D Fourier transform is applied to each echo for image reconstruction. Because only the desired lines are excited, there can be no aliasing in the time encoding direction even when the object is much larger than the field of view. This technique is also very insensitive to motion, as motion-related artifacts do not propagate in the time encoding direction.
+

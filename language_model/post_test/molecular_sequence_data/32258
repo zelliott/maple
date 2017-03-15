@@ -1,0 +1,7 @@
+
+zzso methods for assembling families of zzso genes include those based on sequence similarity scores and those based on zzso zzso The first are easy to automate but usually they do not distinguish between zzso and zzso or have restriction on the number of zzso zzso methods often are based on reconciliation of a gene tree with a known rooted species zzso a limitation of this approach, especially in case of zzso is that the species tree is often unknown, and that from the analyses of single gene families the branching order between related organisms frequently is zzso 
+
+Here we describe an zzso for the automated selection of zzso genes that recognizes zzso genes from different species in a zzso tree for any number of zzso The zzso is capable of distinguishing complete zzso all zzso and incomplete (not containing all zzso families and recognizes zzso and zzso The zzso zzso is implemented in zzso with the use of the zzso module for parsing trees and is freely available at zzso 
+
+zzso zzso the zzso Best zzso hit method in selecting more sets of zzso zzso zzso In the test cases zzso the correctness of the selected families and of the identified zzso and zzso was confirmed by inspection of the pertinent zzso zzso 
+

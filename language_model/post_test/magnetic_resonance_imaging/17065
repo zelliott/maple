@@ -1,0 +1,9 @@
+
+Image zzso techniques using fuzzy connectedness zzso principles have shown their effectiveness in zzso a variety of objects in several large zzso However, one challenge in these zzso has been their excessive zzso requirements when processing large image zzso Nowadays, commodity graphics hardware provides a highly parallel computing zzso In this paper, the authors present a parallel fuzzy connected image zzso zzso zzso on zzso zzso unified device Architecture zzso platform for zzso medical image data zzso 
+
+In the zzso algorithm, there are two major zzso tasks: zzso computing the fuzzy affinity relations and zzso computing the fuzzy connectedness zzso These two tasks are implemented as zzso kernels and executed on zzso A dramatic improvement in speed for both tasks is achieved as a zzso 
+
+Our experiments based on three data sets of small, zzso and large data size demonstrate the efficiency of the parallel algorithm, which achieves a zzso factor of zzso zzso and zzso zzso for the three data sets on the zzso zzso zzso over the zzso of the zzso on zzso and takes zzso zzso and zzso zzso zzso for the three data zzso 
+
+The authors developed a parallel zzso of the widely used fuzzy connected image zzso method on the zzso zzso which are far more zzso and zzso than both cluster of zzso and zzso zzso A zzso speed of zzso has been zzso even for the large data zzso 
+

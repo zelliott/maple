@@ -1,0 +1,7 @@
+
+Given inputs extracted from an aligned column of DNA bases and the underlying Perkin Elmer Applied Biosystems (ABI) fluorescent traces, our goal is to train a neural network to determine correctly the consensus base for the column. Choosing an appropriate network input representation is critical to success in this task. We empirically compare five representations; one uses only base calls and the others include trace information.
+
+We attained the most accurate results from networks that incorporate trace information into their input representations. Based on estimates derived from using 10-fold cross-validation, the best network topology produces consensus accuracies ranging from 99.26% to >99.98% for coverages from two to six aligned sequences. With a coverage of six, it makes only three errors in 20 000 consensus calls. In contrast, the network that only uses base calls in its input representation has over double that error rate: eight errors in 20 000 consensus calls.
+
+allex@cs.wisc.edu
+

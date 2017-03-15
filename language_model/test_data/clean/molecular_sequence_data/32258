@@ -1,0 +1,7 @@
+
+Automated methods for assembling families of orthologous genes include those based on sequence similarity scores and those based on phylogenetic approaches. The first are easy to automate but usually they do not distinguish between paralogs and orthologs or have restriction on the number of taxa. Phylogenetic methods often are based on reconciliation of a gene tree with a known rooted species tree; a limitation of this approach, especially in case of prokaryotes, is that the species tree is often unknown, and that from the analyses of single gene families the branching order between related organisms frequently is unresolved.
+
+Here we describe an algorithm for the automated selection of orthologous genes that recognizes orthologous genes from different species in a phylogenetic tree for any number of taxa. The algorithm is capable of distinguishing complete (containing all taxa) and incomplete (not containing all taxa) families and recognizes in- and outparalogs. The BranchClust algorithm is implemented in Perl with the use of the BioPerl module for parsing trees and is freely available at http://bioinformatics.org/branchclust.
+
+BranchClust outperforms the Reciprocal Best Blast hit method in selecting more sets of putatively orthologous genes. In the test cases examined, the correctness of the selected families and of the identified in- and outparalogs was confirmed by inspection of the pertinent phylogenetic trees.
+

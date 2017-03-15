@@ -1,0 +1,9 @@
+
+To develop and implement a method for identification and quantification of gadolinium (Gd) enhancements with minimal human intervention.
+
+Dual fast spin echo (FSE), fluid attenuation inversion recovery (FLAIR), and pre- and postcontrast T1-weighted spin echo were acquired on 22 subjects. The enhancements were identified on the postcontrast T1-weighted images based on morphological operations. A single threshold based on the ratio of the difference of postcontrast and precontrast T1 images with that of precontrast T1 images is applied to the reconstructed images to reduce the false classifications. False classification of enhancements arising from enhancing vasculature and structures such as the choroid plexus that lack a blood-brain barrier were reduced by assuming that the true enhancements are always associated with hyperintense lesions on T2-weighted images (T2 lesions). The enhanced lesions were further delineated based on fuzzy connectivity.
+
+The segmented Gd enhancements were evaluated quantitatively with manually identified enhancements based on similarity measures. The average similarity index (SI) of 0.76 suggests excellent performance of the proposed methodology. The Bland-Altman plot shows a close agreement between the results obtained manually and those based on the proposed methodology.
+
+The proposed algorithm identifies and quantifies Gd enhancements accurately with minimal human intervention.
+

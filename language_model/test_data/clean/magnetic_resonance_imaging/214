@@ -1,0 +1,3 @@
+
+Conventionally implemented MRI is performed in a strong magnetic field, typically >1T. The high fields, however, can lead to many limitations. To overcome these limitations, ultra-low field (ULF) [or microtesla] MRI systems have been proposed and implemented. To-date such systems rely on low-Tc Superconducting Quantum Interference Devices (SQUIDs) leading to the requirement of cryogens. In this letter, we report ULF-MRI obtained with a non-cryogenic atomic magnetometer. This demonstration creates opportunities for developing inexpensive and widely applicable MRI scanners.
+

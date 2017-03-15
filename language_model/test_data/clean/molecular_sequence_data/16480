@@ -1,0 +1,3 @@
+
+Using fluorescence polarization anisotropy (FPA), we measured the torsional constant of various DNA oligomers in different sequences and calculated the value for each of the 136 unique tetranucleotides. From these values, we obtained a "rigidity profile" for every double-stranded DNA sequence. We tested the code in the analysis of DNA sequences able to form nucleosomes. More than 50% of the sequences studied showed a common 20 and/or 30 bp modulation of the torsional constant. Many other profiles of rigidity were observed in the remaining sequences and this variety in torsional constant modulation may be related to functional differences between nucleosomes.
+

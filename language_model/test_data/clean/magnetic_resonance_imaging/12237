@@ -1,0 +1,3 @@
+
+The quality of Magnetic Resonance imaging systems has improved to the point that the motion is the most important limitation in many examinations. Gross movements of the patient cause a ghost artifact in the image which can interfere with the diagnosis. In this paper a new method is presented to suppress the translational motion artifact caused by gross movements. The method uses postprocessing on a standard two-dimensional Fourier transform image. It is shown that translational motion causes an additional phase factor in the detected signal and that this phase error can be removed using an iterative algorithm of generalised projections. The method has been tested using computer simulations and successfully removed most of the artifact, even in the presence of noise.
+

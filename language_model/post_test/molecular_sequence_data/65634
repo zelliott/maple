@@ -1,0 +1,7 @@
+
+The analyses of the increasing number of zzso sequences requires shortcuts for the detection of zzso such as zzso Best zzso zzso where zzso are assumed if two genes each in a different zzso find each other as the best hit in the other zzso Two zzso options seem to affect alignment scores the most, and thus the choice of a best zzso the filtering of low information sequence segments and the zzso used to produce the final zzso Thus, we decided to test whether such options would help better detect zzso 
+
+Using zzso coli zzso as an example, we compared the number and quality of zzso detected as zzso We tested four different conditions derived from two options: filtering of zzso zzso hard zzso versus zzso and alignment algorithm, default (based on matching zzso versus zzso All options resulted in significant differences in the number of zzso zzso with the highest numbers obtained with the combination of soft filtering with zzso zzso We compared these results with those of zzso zzso zzso zzso supposed to be superior to zzso because it uses an evolutionary measure of distance, rather than zzso statistics, to rank zzso and thus detect zzso zzso barely increased the number of zzso detected over those found with zzso zzso estimates, based on analyses of conservation of gene order, found small differences in the quality of zzso detected using zzso However, zzso showed the highest error zzso Thus, zzso have no advantages over zzso 
+
+zzso detected as zzso Best zzso using soft masking and zzso alignments can be downloaded from zzso 
+

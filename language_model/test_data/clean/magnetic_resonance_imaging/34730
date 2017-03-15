@@ -1,0 +1,3 @@
+
+A novel image processing scheme for extracting the intracranial contours in axial magnetic resonance data sets is proposed. The scheme incorporates the method of active contour models, a recently introduced paradigm for contour extraction. Its performance is nearly ideal for T2-weighted images. Although the performances for proton-density-weighted images and T1-weighted images drop slightly, qualitatively satisfactory extraction still can be obtained for T1-weighted images. Due to high degree of automation, the scheme should help speed up some image processing applications that require the presegmentation of the intracranial cavity.
+

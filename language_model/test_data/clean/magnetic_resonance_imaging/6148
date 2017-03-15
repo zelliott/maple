@@ -1,0 +1,9 @@
+
+The capability of MRI-guided transurethral ultrasound therapy to produce continuous regions of thermal coagulation that conform to human prostate geometries was evaluated using 3-D anatomical models of prostate cancer patients.
+
+Numerical simulations incorporating acoustic and biothermal modeling and a novel temperature control feedback algorithm were used to evaluate treatment accuracy of a rotating dual-frequency multi-element transducer. Treatments were simulated on twenty anatomical models obtained from the manual segmentation of the prostate and surrounding structures on MR images of prostate cancer patients obtained prior to radical prostatectomy.
+
+Regions of thermal coagulation could be accurately shaped to predefined volumes within 1 mm across the vast majority of the prostates. Over- and under-treated volumes remained smaller than 4% of the corresponding prostate volumes which ranged from 14 to 60 cc. Treatment times were typically 30 min and remained below 60 min even for large 60 cc prostates. Heating of the rectal wall remained below 30 min(43 degrees C) in half of the patient models with only minor, superficial heating in the other cases. The simulated feedback control algorithm adjusted the ultrasound transducer parameters such that high treatment accuracy was maintained despite variable blood perfusion, changing tissue ultrasound attenuation, and practical temperature measurement noise and sampling rate.
+
+Numerical simulations predict that MRI-guided transurethral ultrasound therapy is capable of producing highly accurate volumes of thermal coagulation that conform to human prostate glands.
+

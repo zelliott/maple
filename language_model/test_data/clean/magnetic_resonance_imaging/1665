@@ -1,0 +1,9 @@
+
+Transcranial magnetic stimulation (TMS) is progressively gaining relevance as a tool in cognitive neuroscience and clinical research. However, most studies in this field do not consider individual anatomy. Neuronavigational devices allow to guide the coil to a specific cortical area, predetermined by functional magnetic resonance imaging (fMRI). Therefore, it is crucial to know whether the area of a certain function as identified by fMRI corresponds to the area where the TMS should be placed in order to influence this function.
+
+We investigated the spatial relation between the cortical area activated by a motor task in fMRI and the area of magnetically evoked motor potentials (MEP) in 8 subjects, using a spacing of 5x5 mm. A neuronavigational system was adapted for coil positioning and for the registration of the stimulation coordinates.
+
+A spatial divergence of the centers of gravity from fMRI and MEP was found with a mean distance of about 10 mm, with the MEP centers being, by a mean derivation of 7.5 mm, consistently anterior to the center of fMRI activation. However, regarding MEP areas and fMRI activities, a large overlap was found for stimulation intensities of both 110 and 120% motor threshold.
+
+The combination of fMRI and neuronavigated TMS is useful for non-invasive investigation of individual cortical functions predetermined by fMRI. Whereas both are spatially by and large congruent, discrepencies in the exact spatial relation between MEP and fMRI areas should be considered and further studied.
+

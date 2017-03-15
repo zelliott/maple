@@ -1,0 +1,3 @@
+
+The design of a test object for the volumetric evaluation of geometric image quality parameters in magnetic resonance imaging (MRI) is presented. Two-dimensional parameters: linearity, distortion, slice position, slice width, slice oblique angle, spatial resolution, line spread function (LSF) are measurable in all slice planes within a volume corresponding to a typical head examination. Additionally, parameters particular to three-dimensional Fourier transform (3-DFT) imaging are measurable: 3D ghosting and 3D LSF. Parameter measurements are correctable with regard to test object positioning through the determination of the six degrees of freedom of the test object within the scanner's field of view.
+

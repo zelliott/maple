@@ -1,0 +1,7 @@
+
+We focus on the prediction of zzso bridges in proteins starting from their zzso acid sequence and from the knowledge of the zzso bonding state of each zzso The location of zzso bridges is a structural feature that conveys important information about the protein main chain zzso and can therefore help towards the solution of the folding zzso zzso approaches based on weighted graph matching zzso do not take advantage of evolutionary zzso zzso neural networks zzso on the other hand, can handle in a natural way complex data structures such as zzso whose zzso are labeled by real zzso allowing us to incorporate multiple alignment profiles in the zzso representation of zzso connectivity zzso 
+
+The core of the method is the use of machine learning tools to rank alternative zzso connectivity zzso We develop an ad-hoc zzso architecture for scoring labeled zzso zzso that represent connectivity zzso In order to compare our zzso with previous methods, we report experimental results on the zzso 39 zzso We find that using multiple alignment profiles allows us to obtain significant prediction accuracy improvements, clearly demonstrating the important role played by evolutionary zzso 
+
+The Web interface of the predictor is available at zzso 
+

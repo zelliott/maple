@@ -1,0 +1,9 @@
+
+We aimed to develop an intuitive, interactive, three-dimensional (3D) MRI modelling technique to produce a 3D image of fistula-in-ano.
+
+The 3D model was created from standard two-dimensional (2D) MRI sequences to produce an image that is anatomically correct. Individual muscle and soft-tissue layers were extracted from T1-weighted sequences and fistula pathology from short TI inversion recovery (STIR) sequences, to produce two separate volumes. These were then fused using postprocessing software (Vitrea Workstation version 6.3) to generate a 3D model.
+
+The final 3D model was incorporated into a PDF file that has an integrated computer aided design (CAD) viewer, allowing the surgeon to rotate it in any direction during preoperative planning or whilst in theatre.
+
+As an adjunct to 2D MRI images and the associated radiology report, this model communicates the fistula anatomy to the clinician more clearly and should be particularly useful in complex cases.
+

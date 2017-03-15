@@ -1,0 +1,9 @@
+
+The clinical utility of hippocampal volumetry is well documented, but the materials and techniques required to perform the procedure are not widely available outside major research centers. We describe a personal computer-based method of volumetric data analysis.
+
+Using a 1.0-T scanner, we obtained 2-mm-thick tilted coronal MPRAGE magnetic resonance imaging (MRI) scans of 20 healthy volunteers aged 20-38 years. We used an inexpensive utility program to extract image information and an NIH Image for image analysis. The hippocampal formations were traced with a graphics tablet and landmarks described by Watson et al. (Neurology 1992;42:1743-50). Overlays of individual observers' tracings were used to fine tune the selection of landmarks and boundaries. Filled-in silhouette pairs generated from these "training tracings" were compared to determine how well observers could visually quantify area differences.
+
+Visual detection of asymmetry of silhouette pairs was sensitive, but the magnitude of asymmetry was underestimated. We achieved intraobserver coefficients of variation of right/left volume ratios between 0.82 and 3.16 and an interobserver range of volume ratios of 6%. In 20 healthy controls aged 20-38 years, the mean right and left hippocampal volumes were 2,911 mm3 and 2,836 mm3, respectively. The lower limits of normal were 2,217 mm3 for the right and 2,178 mm3 for the left. The mean right/left hippocampal ratio was 1.03, and the limits of normal (3 SD) for this were 0.95 to 1.10.
+
+Hippocampal volumetry can be performed reliably and economically. Our methodology makes it possible for different observers to generate consistent and comparable measurements.
+

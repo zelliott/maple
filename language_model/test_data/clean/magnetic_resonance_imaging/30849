@@ -1,0 +1,9 @@
+
+The aim of the work was to compare two different approaches - one model-dependent, the other data-dependent - for "deblurring" EEG data, in order to improve the estimation of Event-Related Desynchronization/Synchronization.
+
+Realistic Surface Laplacian filtering (SL) and Infomax Independent Component Analysis (ICA) were applied on multivariate scalp EEG signals (SL: 128 electrodes with MRI-based realistic modeling; ICA: a subset of 19 electrodes, no MRI) prior to beta Event Related Synchronization (ERS) estimation after finger movement in 8 normal subjects. ERS estimation was performed using standard band-pass filtering. ERS peak amplitudes and latencies in the most responsive channel were calculated and the effect of the two methods above was evaluated by one-way analysis of variance (ANOVA) and Sheffe's test.
+
+Both methods and their combination significantly improved ERS estimation (greater ERS peak amplitude, p <0.05). The results obtained after ICA on 19 electrodes were not significantly different than the ones obtained with Realistic SL using 128 electrodes and MRI for scalp modeling (p >0.89).
+
+The "low cost" of ICA (19 electrodes, no MRI) imposes such method as a valid alternative to SL filtering. The employ of ICA after SL filtering suggests that the "ideal EEG deblurring method" would unify the two approaches, depending on both the scalp model and the data.
+

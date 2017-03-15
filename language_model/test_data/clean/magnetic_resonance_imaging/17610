@@ -1,0 +1,3 @@
+
+There are many kinds of artifacts in image series of functional MRI, such as head motion artifacts, physiological motion artifacts, blood flow artifacts, ghost artifacts and susceptibility artifacts. These artifacts which are unassociated with the neural activities, have so severe affects on the analysis of functional MRI data that they not only reduce the sensibility and reliability of functional MRI, but also make the detecting, locating and visualizing of the functional active regions more complicated. The mechanism and the effect of artifacts in functional MRI are discussed here, the methods of correcting artifacts are reviewed, and research prospects are discussed too.
+

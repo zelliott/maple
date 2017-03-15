@@ -1,0 +1,9 @@
+
+To propose a simple, accurate method for measuring T(1) in flowing blood and the arterial input function (AIF), and to evaluate the impact on dynamic contrast-enhanced MRI (DCE-MRI) quantification of pharmacokinetic parameters.
+
+A total of 10 rabbits were scanned at 1.5 Tesla and administered a bolus of Gadomer. Preinjection T(1) and AIF measurements were acquired in the iliac arteries using a rapid three-dimensional (3D) spoiled gradient recalled echo (SPGR) approach. Correction was made for imperfect B(1) fields, in-flow, and partial volume effects. DCE-MRI parameters blood volume (v(b)) and endothelial transfer constant (K(trans)) in resting skeletal muscle were estimated from pharmacokinetic analysis using individually measured AIFs. Literature comparisons were made to assess accuracy.
+
+Blood T(1) was more accurate and precise after correction for B(1) and partial volume errors (1267 +/- 72 msec). Measured AIFs followed reported biexponential decay characteristics for Gadomer clearance in rabbits. Parameters v(b) (2.47 +/- 0.65%) and K(trans) (3.6 +/- 1.0 x 10(-3) minute(-1)) derived from AIFs based on corrected blood T(1)s were more reproducible and in better agreement with literature values.
+
+The proposed method enables accurate in vivo blood T(1) and AIF measurements and can be easily implemented in a range of DCE-MRI applications to improve both the accuracy and reproducibility of pharmacokinetic parameters.
+

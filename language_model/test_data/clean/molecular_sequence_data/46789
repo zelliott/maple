@@ -1,0 +1,7 @@
+
+To represent various aspects of receptors effectively, we developed the receptor database (RDB), using an object-oriented database management system ACEDB and the Internet/WWW technology.
+
+RDB was constructed so that the system collects data items such as attributes of proteins from distributed data sources of the Internet, and so that it provides various viewing tools effectively, depending on different types of receptor data. Such sources include standard international biological databases such as the up-to-date database of PIR, Swiss Prot, PDB, GenBank and GDB. Application to the endocrine disruptor problem is presented.
+
+RDB is available through the Internet at http://impact.nihs.go.jp/RDB.html.
+

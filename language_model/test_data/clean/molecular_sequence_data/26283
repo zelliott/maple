@@ -1,0 +1,3 @@
+
+A program is described which generates hydrogen bonding diagrams of protein structures and optionally helical wheels and helical nets. The program can also beta-strands beta-strands and to automatically extract simple structural motifs such as hairpins or Greek keys. The program greatly reduces the effort required to produce these diagrams and offers considerable flexibility in the information which can be represented. The usefulness of the program is illustrated by several examples including comparing homologous families, correlating protein structure with attributes of individual residues, and extracting all examples of the psi-loop motif from the Brookhaven Data Bank.
+

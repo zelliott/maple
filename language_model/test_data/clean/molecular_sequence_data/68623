@@ -1,0 +1,3 @@
+
+The ability to accurately compute the atomic positions of substrate-bound ligands is central to understanding biological recognition. Although substantial progress has been made in docking small, relatively rigid ligands, the problem of docking flexible peptides remains open. In this communication we present a new method that allows configurational flexibility of peptides, and apply it to predict the conformation of peptides bound to two class-I major histocompatibility complex receptors: human HLA-A2, and murine H-2Kb. Using only the approximate locations of the amino and carboxyl-terminal residues of the bound peptide, our calculations yield structures with backbone conformations that are similar to structures reported crystallographically.
+

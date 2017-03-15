@@ -1,0 +1,9 @@
+
+Current clinical hyperpolarized He lung ventilation MR imaging protocols rely on the patient's ability to control inhalation and exhalation and hold their breath on demand. This is impractical for intensive care unit patients under ventilation or for pediatric populations under the age of 3 to 4 years. To address this problem, we propose a free-breathing protocol for hyperpolarized He lung ventilation spiral imaging. This approach was evaluated in vitro and on rabbits.
+
+The protocol was implemented on a clinical 1.5-T magnetic resonance imaging scanner. Ventilation images were acquired using a spiral sequence, in vitro on a lung phantom and in vivo on rabbits, the animal breathing freely from a gas reservoir. Dynamic spiral ventilation images were reconstructed using retrospective Cine synchronization. Magnetic resonance (MR) signal dynamics was modeled taking account of gas inflow and outflow, radiofrequency depolarization and oxygen-induced relaxation.
+
+Cine ventilation images acquired in spontaneously breathing rabbits were reconstructed with a temporal resolution of 50 milliseconds. Gas volume variations and time-to-maximum maps were obtained. The numerical model was validated in vitro and in vivo with various gas mixtures. Ventilation parameters (functional residual capacity, tidal volume, and alveolar pO2) were extracted from the MR signal dynamics.
+
+Ventilation imaging can be performed at tidal volume using a simple experimental protocol, without any ventilation device or breath-hold period. Acquisition time, SNR and pO2 decay can be optimized using the developed numerical model. Free-breathing ventilation images can be obtained without artifacts related to motion or gas flow. Lastly, parametric maps can be derived from the time-resolved ventilation images and physiological parameters extracted from the global signal dynamics.
+

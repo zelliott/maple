@@ -1,0 +1,9 @@
+
+This article details preliminary studies undertaken to integrate the most relevant advancements across multiple disciplines in an effort to construct a highly realistic neurosurgical simulator based on a distributed computer architecture. Techniques based on modified computational modeling paradigms incorporating finite element analysis are presented, as are current and projected efforts directed toward the implementation of a novel bidirectional haptic device.
+
+Patient-specific data derived from noninvasive magnetic resonance imaging sequences are used to construct a computational model of the surgical region of interest. Magnetic resonance images of the brain may be coregistered with those obtained from magnetic resonance angiography, magnetic resonance venography, and diffusion tensor imaging to formulate models of varying anatomic complexity.
+
+The majority of the computational burden is encountered in the presimulation reduction of the computational model and allows realization of the required threshold rates for the accurate and realistic representation of real-time visual animations.
+
+Intracranial neurosurgical procedures offer an ideal testing site for the development of a totally immersive virtual reality surgical simulator when compared with the simulations required in other surgical subspecialties. The material properties of the brain as well as the typically small volumes of tissue exposed in the surgical field, coupled with techniques and strategies to minimize computational demands, provide unique opportunities for the development of such a simulator. Incorporation of real-time haptic and visual feedback is approached here and likely will be accomplished soon.
+

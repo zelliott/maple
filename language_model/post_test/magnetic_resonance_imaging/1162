@@ -1,0 +1,9 @@
+
+To develop a zzso zzso that provides a rationale for the design of zzso acquisition schemes for dynamic zzso magnetic resonance imaging zzso 
+
+The zzso termed zzso zzso zzso analysis, is demonstrated using a zzso modeling of object and enhancement characteristics typically observed in zzso of breast zzso A temporally enhancing zzso is considered as a two-dimensional zzso zzso object that possesses a corresponding zzso zzso energy zzso The zzso space is segmented based on a threshold such that the total spectral energy in a finite number of zzso samples, constrained by the imaging experiment, is zzso This zzso map contains a set of spatial and corresponding zzso sampling zzso These prescriptions are used in designing an acquisition scheme that is adequate for a range of zzso breast zzso The zzso scheme is compared to an equivalent zzso zzso in terms of zzso of enhancement rate, zzso zzso volume zzso zzso and spatial zzso We chose object sizes zzso zzso 2, 5, 10, 15, 20, and 30 zzso and enhancement rates zzso zzso zzso 1, zzso zzso zzso and zzso zzso and zzso was held at zzso 
+
+The zzso scheme results in more accurate zzso of the rate and zzso volume fraction parameters when the object size is small zzso and five zzso and the enhancement rates are rapid zzso and 1 zzso compared to the zzso zzso The zzso scheme provides higher spatial zzso for very small zzso For large object and slow enhancements, the zzso and zzso scheme perform zzso 
+
+We have demonstrated an intuitive zzso zzso to zzso for a set of zzso dynamic events as well as spatial zzso This zzso can be extended to any dynamic imaging condition, and a corresponding zzso acquisition scheme can be zzso 
+

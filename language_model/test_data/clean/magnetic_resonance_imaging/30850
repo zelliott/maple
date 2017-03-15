@@ -1,0 +1,9 @@
+
+EEG scalp potential distributions recorded in humans are affected by low spatial resolution and by the dependence on the electrical reference used. High resolution EEG technologies are available to drastically increase the spatial resolution of the raw EEG. Such technologies include the computation of surface Laplacian (SL) of the recorded potentials, as well as the use of realistic head models to estimate the cortical sources via linear inverse procedure (low resolution brain electromagnetic tomography, LORETA). However, these deblurring procedures are generally used in conjunction with EEG recordings with 64-128 scalp electrodes and with realistic head models obtained via sequential magnetic resonance images (MRIs) of the subjects. Such recording setup it is not often available in the clinical context, due to both the unavailability of these technologies and the scarce compliance of the patients with them. In this study we addressed the use of SL and LORETA deblurring techniques to analyze data from a standard 10-20 system (19 electrodes) in a group of Alzheimer disease (AD) patients.
+
+EEG data related to unilateral finger movements were gathered from 10 patients affected by AD. SL and LORETA techniques were applied for source estimation of EEG data. The use of MRIs for the construction of head models was avoided by using the quasi-realistic head model of the Brain Imaging Neurology Institute of Montreal.
+
+A similar cortical activity estimated by the SL and LORETA techniques was observed during an identical time period of the acquired EEG data in the examined population.
+
+The results of the present study suggest that both SL and LORETA approaches can be usefully applied in the clinical context, by using quasi-realistic head modeling and a standard 10-20 system as electrode montage (19 electrodes). These results represent a reciprocal cross-validation of the two mathematically independent techniques in a clinical environment.
+

@@ -1,0 +1,3 @@
+
+We present a tool for the prediction of conserved secondary structure elements of a family of homologous non-coding RNAs. Our method does not require any prior multiple sequence alignment. Thus, it successfully applies to datasets with low primary structure similarity. The functionality is demonstrated using three example datasets: sequences of RNase P RNAs, ciliate telomerases and enterovirus messenger RNAs. CARNAC has a web server that can be accessed at the URL http://bioinfo.lifl.fr/carnac.
+

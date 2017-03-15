@@ -1,0 +1,9 @@
+
+zzso zzso is required for zzso treatment planning, and zzso methods are frequently used for this zzso The combination of multiple intermediate results from zzso zzso into a single zzso map can be achieved by label zzso A method that includes expert knowledge in the label fusion phase of zzso zzso was zzso The method was tested by application to prostate zzso and the accuracy was compared to standard zzso 
+
+The selective and zzso method for performance level zzso zzso zzso for label fusion was modified with a weight map given by an expert that indicates the importance of each region in the evaluation of zzso zzso zzso weights specified by an expert when performing the label fusion step in zzso zzso were introduced into the modified zzso zzso These weights incorporate expert knowledge on accuracy requirements in different regions of a zzso Using this knowledge, zzso accuracy in regions known to be important can be improved by sacrificing zzso accuracy in less important zzso zzso information such as the presence of vulnerable tissue is then used in the zzso zzso This method using weight maps to fine-tune the result of zzso zzso was tested using a set of 146 zzso images consisting of an MR image of the lower abdomen and a prostate zzso Each image served as a target in a set of zzso zzso These experiments were repeated for a weight map derived from the clinical practice in our zzso 
+
+The zzso accuracy increased zzso in regions that border vulnerable tissue using zzso zzso weight zzso This was achieved at the cost of a zzso decrease in accuracy in less clinically relevant zzso 
+
+The inclusion of expert knowledge in a zzso zzso procedure was shown to be feasible for prostate zzso This method allows an expert to ensure that automatic zzso is most accurate in critical zzso This improved local accuracy can increase the practical value of automatic zzso 
+

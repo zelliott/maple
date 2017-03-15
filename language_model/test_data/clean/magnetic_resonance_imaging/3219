@@ -1,0 +1,9 @@
+
+We aimed to show that correcting image distortion significantly affects brain volumetry using voxel-based morphometry (VBM) and to assess whether the processing of distortion correction reduces system dependency.
+
+We obtained contiguous sagittal T(1)-weighted images of the brain from 22 healthy participants using 1.5- and 3-tesla magnetic resonance (MR) scanners, preprocessed images using Statistical Parametric Mapping 5, and tested the relation between distortion correction and brain volume using VBM.
+
+Local brain volume significantly increased or decreased on corrected images compared with uncorrected images. In addition, the method used to correct image distortion for gradient nonlinearity produced fewer volumetric errors from MR system variation.
+
+This is the first VBM study to show more precise volumetry using VBM with corrected images. These results indicate that multi-scanner or multi-site imaging trials require correction for distortion induced by gradient nonlinearity.
+

@@ -1,0 +1,3 @@
+
+We introduce a fast technique, based on the principles of the 2D Look-Locker T1 measurement scheme, to rapidly acquire the data for accurate maps of T1 in three dimensions. The acquisition time has been shortened considerably by segmenting the acquisition of the k(y) phase encode lines. Using this technique, the data for a 256 x 128 x 32 volumetric T1 measurement can be acquired in 7.6 min. T1 measurements made in phantoms with T1s between 200 and 1200 ms had an accuracy of 4% and a reproducibility of 3.5%. Measurements of T1 made in normal brain using the fast 3D sequence corresponded well with inversion-recovery fast spin-echo measurements.
+

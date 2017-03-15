@@ -1,0 +1,5 @@
+
+Progress in structural biology depends on several key technologies. In particular tools for alignment and superposition of protein structures are indispensable. Here we describe the use of the TopMatch web service, an effective computational tool for protein structure alignment, for the visualization of structural similarities, and for highlighting relationships found in protein classifications. We provide several instructive examples.
+
+TopMatch is available as a public web service at http://services.came.sbg.ac.at.
+

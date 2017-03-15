@@ -1,0 +1,9 @@
+
+To describe the AddNeuroMed imaging framework for multi-centre magnetic resonance imaging (MRI) assessment of longitudinal changes in Alzheimer's disease and report on early results from the first 24 months of the project.
+
+A multi-centre study similarly to a faux clinical trial has been established to assess longitudinal MRI changes in Alzheimer disease (AD), mild cognitive impairment (MCI) and healthy control subjects using an image acquisition protocol compatible with Alzheimer disease neuroimaging initiative (ADNI). Comprehensive quality control (QC) measures have been established throughout the study. An intelligent web-accessible database holds details on both the raw images and data processed using a sophisticated image analysis pipeline.
+
+A total of 378 subjects have been recruited (130 AD, 131 MCI, 117 healthy controls) of which a high percentage (97.3%) of the T1-weighted volumes passed the QC criteria. Measurements of normalized whole brain volume and whole brain cortical thickness showed significant differences between AD and controls, AD and MCI and MCI and controls.
+
+A framework for multi-centre MRI studies of Alzheimer's disease has been established consisting of a harmonized MRI acquisition protocol across centres, rigorous QC at both the sites and central data analysis hub and an automated image analysis pipeline. Early results demonstrate the high quality of the images acquired and the applicability of the automated image analysis techniques employed.
+

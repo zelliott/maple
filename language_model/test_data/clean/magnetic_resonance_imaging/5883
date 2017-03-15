@@ -1,0 +1,9 @@
+
+The efficacy of surgical ventricular reconstruction (SVR) for ischemic cardiomyopathy has never been truly quantified. Methods to assess ventricular flow have not been applied to these patients. The objective is to develop a volume-independent technique for assessing the effects of ischemic remodeling and SVR on left ventricular blood flow dynamics.
+
+Cardiac magnetic resonance images from a healthy volunteer and from a patient before and after SVR were segmented and transformed to generate a grid model of the heart by generating numeric grids and running third-order approximations to achieve 850 grid images per cardiac cycle. These grids formed the skeletal structure of our patient-specific time-dependent ventricular geometry model, the Karlsruhe Heart Model, used for modeling fluid dynamics. We modeled flow, ejection fraction, and blood washout from the ventricle. The model was validated using a silicone ventricle and mock circulation.
+
+In the healthy heart and before SVR, ejection fractions were 0.61 and 0.15 and left ventricular volumes were 166 mL and 175 mL, respectively. Surgical ventricular reconstruction decreased left ventricular volume by one fourth. Postoperative ejection fraction was 0.18 in the patient. Post-SVR shape was more spherical than preoperatively and also more spherical than the healthy heart. Ventricular flow patterns in the patient were significantly altered by SVR. However, fluid washout from the ventricle was similar before and after SVR but worse than in the healthy heart.
+
+Fluid dynamic modeling of the heart is possible based on cardiac magnetic resonance imaging data and enables volume-independent quantitative assessment of the surgical procedure. In the future, preoperative modeling for patients with remodeled ventricles may help to achieve optimized post-SVR flow characteristics and potentially outcomes.
+

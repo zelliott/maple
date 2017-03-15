@@ -1,0 +1,9 @@
+
+To evaluate the effect that variations in the enhancement threshold have on the diagnostic accuracy of two computer-aided detection (CAD) systems for magnetic resonance based breast cancer screening.
+
+Informed consent was obtained from all patients participating in cancer screening and this study was approved by the participating institution's review board. This retrospective study was nested in a prospective, single-institution, high-risk, breast screening study involving dynamic contrast-enhanced magnetic resonance imaging. Only those screening examinations (n = 223) for which a histopathological diagnosis was available were included. Two CAD methods were performed: the signal enhancement ratio (SER) and support vector machines (SVMs). Statistical analysis was performed by tracking changes in each CAD test's diagnostic accuracy (eg, receiver-operating characteristic [ROC] curve area, maximum possible sensitivity) with changes in the enhancement threshold.
+
+The enhancement threshold plays a significant role in affecting a CAD test's potential sensitivity, ROC curve area, and number of assumed true and false-positive predictions per cancerous examination. A high threshold can also limit the CAD-based detection of the full size of a lesion.
+
+Enhancement thresholds can limit a CAD test's ability to diagnose a lesion's full size and as such should not be raised above 60%. The clinically used SER method exhibits a high rate of false positives at low enhancement thresholds and as such the threshold should not be set lower than 50%. The SVM method yielded better results in our study than the SER method at clinically realistic enhancement thresholds.
+

@@ -1,0 +1,9 @@
+
+To determine whether the mean wall thickness (MWT) of the common carotid artery (CCA) measured by MRI is comparable to B-mode ultrasound (US) measurement of the intima-media thickness (IMT), an established marker of cardiovascular risk.
+
+As part of the two-year ORION trial, 43 patients with 16-79% stenosis by duplex US underwent high-resolution MRI and B-mode US examinations of their carotid arteries. Twenty-eight carotid arteries were identified as having both sufficient proximal coverage and adequate image quality of the CCA on MRI and a corresponding US. A novel algorithm utilizing statistical shape modeling was developed to automatically detect and measure MWT to within subpixel accuracy. The interrater and interscan reproducibility of the MWT measurement was computed as the root-mean-square (RMS) difference. The MWT and IMT measurements were compared via the Pearson correlation coefficient.
+
+The MWT and IMT had a high Pearson correlation coefficient (r = 0.93; P < 0.001). The RMS difference between readers and between scans was 0.01 mm and 0.04 mm, respectively. Our automated algorithm correctly identified the lumen in 28 cases (100%) and the outer-wall boundary in 26 cases (93%).
+
+Automated measurements of the MWT by MRI are reproducible and have a high correlation with the IMT by B-mode US.
+

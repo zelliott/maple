@@ -1,0 +1,7 @@
+
+zzso sequences of a full-length zzso library into alternative zzso form candidates is a very important zzso 
+
+We developed a new efficient zzso to cluster sequences of a full-length zzso library into alternative zzso form zzso Current zzso zzso for zzso tend to produce too many clusters containing incorrect zzso form zzso Our zzso is based on a spliced sequence alignment zzso that considers zzso zzso The spliced sequence alignment zzso is a zzso of an ordinary dynamic programming algorithm, which requires zzso time for checking a pair of sequences where zzso and m are the lengths of the two zzso Since the time bound is too large to perform zzso comparison for a large set of zzso we developed new techniques to reduce the zzso time without affecting the accuracy of the output zzso Our zzso was applied to 21 zzso mouse zzso sequences of the zzso zzso database to examine its performance and zzso In these experiments, we achieved about zzso zzso against a method using only a traditional zzso zzso Moreover, without using any information of the mouse zzso sequence data or any gene data in public databases, we succeeded in listing zzso of all the clusters that biologists have zzso zzso 
+
+We provide a web service for zzso zzso located at zzso for which registration for the zzso zzso is zzso 
+

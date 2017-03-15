@@ -1,0 +1,9 @@
+
+To investigate the effect of the multipeak spectral modeling of fat on R2* values as measures of liver iron and on the quantification of liver fat fraction, with biopsy as the reference standard.
+
+Institutional review board approval and informed consent were obtained. Patients with liver disease (n = 95; 50 men, 45 women; mean age, 57.2 years±14.1 [standard deviation]) underwent a nontargeted liver biopsy, and 97 biopsy samples were reviewed for steatosis and iron grades. MR imaging at 1.5 T was performed 24-72 hours after biopsy by using a three-echo three-dimensional gradient-echo sequence for water and fat separation. Data were reconstructed off-line, correcting for T1 and T2* effects. Fat fraction and R2* maps (1/T2*) were reconstructed and differences in R2* and steatosis grades with and without multipeak modeling of fat were tested by using the Kruskal-Wallis test. Spearman rank correlation coefficient was used to assess fat fractions and steatosis grades. Linear regression analysis was performed to compare the fat fraction for both models.
+
+Mean steatosis grade at biopsy ranged from 0% to 95%. Biopsy specimens in 26 of 97 patients (27%) showed liver iron (15 mild, six moderate, and five severe). In all 71 samples without iron, a strong increase in the apparent R2* was observed with increasing steatosis grade when single-peak modeling of fat was used (P=.001). When multipeak modeling was used, there were no differences in the apparent R2* as a function of steatosis grading (P=.645), and R2* values agreed closely with those reported in the literature. Good correlation between fat fraction and steatosis grade was observed (rS=0.85) both without and with spectral modeling.
+
+In the presence of fat, multipeak spectral modeling of fat improves the agreement between R2* and liver iron. Single-peak modeling of fat leads to underestimation of liver fat.
+

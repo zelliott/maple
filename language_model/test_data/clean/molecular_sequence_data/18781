@@ -1,0 +1,9 @@
+
+CmeABC is a resistance-nodulation-cell division (RND)-type multidrug efflux pump conferring resistance to clinically important antibiotics in Campylobacter. This study aimed to identify the optimal target sites for the inhibition of CmeABC with antisense peptide nucleic acid (PNA).
+
+Eighteen PNAs were designed to bind to the translational initiation regions of cmeABC, spanning the ribosome-binding site (RBS) and the start codon of the cmeABC genes. Campylobacter jejuni was treated with CmeABC-specific PNAs (CmeABC-PNAs) at various concentrations and subjected to western blotting to measure changes in the level of CmeABC expression. The MICs of ciprofloxacin and erythromycin were measured to evaluate the impact of CmeABC knockdown on antibiotic susceptibility.
+
+While antisense PNA significantly affected CmeA and CmeB expression, interestingly, CmeC expression was not altered by any of the CmeC-PNAs used in this study. A CmeA-PNA targeting the RBS of cmeA and its upstream region reduced CmeA expression most efficiently, and CmeB expression was most significantly decreased by PNA binding to the RBS of cmeB and its downstream region. CmeA- and CmeB-PNAs increased the susceptibility of C. jejuni to ciprofloxacin and erythromycin in proportion to the inhibition levels observed in western blotting.
+
+The cmeA gene is the best target to knockdown CmeABC with antisense PNA. The RBS is the major target for the PNA-mediated antisense inhibition of CmeABC. However, regions in its vicinity also significantly influence the effectiveness of the PNA-based knockdown of CmeABC.
+

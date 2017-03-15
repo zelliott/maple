@@ -1,0 +1,11 @@
+
+Precise and synchronized presentation of paradigm stimuli in functional magnetic resonance imaging (fMRI) is central to obtaining accurate information about brain regions involved in a specific task.
+
+In this manuscript, we present a new MATLAB-based toolbox, BOLDSync, for synchronized stimulus presentation in fMRI.
+
+BOLDSync provides a user friendly platform for design and presentation of visual, audio, as well as multimodal audio-visual (AV) stimuli in functional imaging experiments. We present simulation experiments that demonstrate the millisecond synchronization accuracy of BOLDSync, and also illustrate the functionalities of BOLDSync through application to an AV fMRI study.
+
+BOLDSync gains an advantage over other available proprietary and open-source toolboxes by offering a user friendly and accessible interface that affords both precision in stimulus presentation and versatility across various types of stimulus designs and system setups.
+
+BOLDSync is a reliable, efficient, and versatile solution for synchronized stimulus presentation in fMRI study.
+

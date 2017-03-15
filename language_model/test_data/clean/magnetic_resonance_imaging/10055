@@ -1,0 +1,3 @@
+
+This work explores an image-based approach for localizing needles during MRI-guided interventions, for the purpose of tracking and navigation. Susceptibility artifacts for several needles of varying thickness were imaged, in phantoms, using a 3 tesla MRI system, under a variety of conditions. The relationship between the true needle positions and the locations of artifacts within the images, determined both by manual and automatic segmentation methods, have been quantified and are presented here.
+
