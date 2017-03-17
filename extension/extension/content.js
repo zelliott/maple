@@ -22,7 +22,7 @@ MapleAnalyzer.prototype = {
 
           // POST abstract text to our web app analysis api
 
-          var mapleUrl = 'http://sample-env.q6yemetfiv.us-west-1.elasticbeanstalk.com/api/analyze';
+          var mapleUrl = 'https://sample-env.q6yemetfiv.us-west-1.elasticbeanstalk.com/api/analyze';
 
           $.ajax({
             type: 'POST',
