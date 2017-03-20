@@ -16,7 +16,7 @@ def make_model(train_file):
 	# the srilm command used to create a language model
 	ngram_count_cmd = srilm_path + '/ngram-count'
 
-	model_name = train_file.split('.')[0] + '.lm'
+	model_name = train_file.split('.')[0] + '_3.lm'
 	model_path = srilm_language_models_path + '/' + model_name
 
 	train_file_path = train_data_pre_path + '/' + train_file
@@ -28,7 +28,7 @@ def make_model(train_file):
 			'-text', 
 			train_file_path,
                  '-order',
-                 '1',
+                 '3',
 			'-lm', 
 			model_path]
 	print ' '.join(args)
@@ -37,4 +37,4 @@ def make_model(train_file):
 # To run this function, simply add a function call to the end of this file, and
 # run the file directly from the command line. An example function call would 
 # look like:
-make_model('nytimes.txt')
+make_model('fisher_punct.txt')

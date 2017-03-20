@@ -1,0 +1,373 @@
+# fe_03_04636.sph
+# Transcribed by BBN/WordWave
+
+0.35 1.63 B: hello 
+
+0.90 3.79 A: (( hi how're you doing tonight )) 
+
+3.35 5.38 B: i'm all right and yourself 
+
+4.46 8.07 A: good good this is chris from upstate new york 
+
+7.47 10.98 B: uh this is onda from uh new york 
+
+10.66 12.24 A: what what's your first name 
+
+12.13 13.42 B: oh onda 
+
+13.22 14.34 A: ondra 
+
+14.17 15.37 B: (( onda )) 
+
+15.24 16.26 A: onda 
+
+16.07 17.52 B: yes that's correct 
+
+17.00 20.46 A: oh where where where in new york are you more towards the city 
+
+19.24 22.76 B: uh when i say new york yeah new york city 
+
+22.38 24.94 A: oh okay well i'm that other part of 
+
+23.86 25.84 B: still in new york for myself 
+
+25.39 29.57 A: i'm that other part of new york i'm upstate i'm about two hours south of syracuse 
+
+29.56 31.48 B: uh-huh i gotcha 
+
+30.17 31.01 A: so 
+
+31.04 33.61 A: you uh have a computer obviously 
+
+33.72 38.69 B: uh yeah i'm sitting at one right now doing my grocery shopping 
+
+35.54 36.54 A: (( are you )) 
+
+37.76 39.04 A: you're what 
+
+38.70 40.49 B: grocery shopping yeah oh 
+
+39.60 41.93 A: you're grocery shopping on the computer 
+
+41.57 42.79 B: (( yeah )) 
+
+42.16 48.77 A: oh my gosh well i work for a grocery store [laughter] i work for a company called wagmans 
+
+45.22 46.55 B: (( i )) 
+
+49.21 50.24 B: don't know 
+
+49.79 53.41 A: no you're getting the closest you'd be getting is in uh 
+
+53.58 54.92 A: um 
+
+55.13 62.62 A: uh woodbridge new jersey right around staten island area you'll be getting one of those soon anyway i'm sorry 
+
+58.77 61.34 B: (( uh-huh are you )) 
+
+61.51 63.32 B: into computer games 
+
+63.22 68.94 A: yeah um i have i have a web t._v. and i have 
+
+68.99 82.01 A: um uh a computer i did get a laptop computer for work uh most of the games i play are online games um mostly single player games by myself 
+
+74.51 76.30 B: mhm 
+
+81.96 84.60 B: like solitaire 
+
+82.86 84.26 A: oh i don't 
+
+84.46 85.73 A: what about you 
+
+86.03 91.21 B: um not recently i haven't played any computer games for uh 
+
+91.97 94.50 B: (( i don't know maybe eight months )) 
+
+94.69 99.75 A: oh wow well i usually play oh off and on i play uh 
+
+94.89 95.85 B: (( a year )) 
+
+100.25 107.57 A: there's this uh um set of games on a website called net for t._v. dot com 
+
+107.57 108.90 B: mhm 
+
+107.64 112.14 A: and i can play a lot of games on it uh there's a game called chocks 
+
+112.21 115.69 A: um it's a game where you have to match up 
+
+115.81 117.96 A: three like colors 
+
+118.11 123.85 A: either horizontally or vertically by moving two blocks 
+
+123.57 124.71 B: mhm 
+
+124.12 129.18 A: and uh i'll play that quite a bit there's a game called aliens 
+
+129.39 134.16 A: where you have to put uh you have a grid of ten by ten 
+
+134.15 136.05 B: mhm 
+
+134.38 138.85 A: and you have to put uh five like 
+
+138.91 146.27 A: um five like aliens in a in a row and it'll add aliens uh 
+
+146.47 149.40 A: you move them to the grids that you want 
+
+149.24 150.34 B: mhm 
+
+149.51 160.19 A: and once you click on the grid and more aliens come out and uh once you've put five in a row then it empties out those uh spaces on the grid and gives you points 
+
+157.66 159.01 B: good yeah 
+
+160.33 161.45 B: uh you 
+
+160.43 162.94 A: based on how many you've put together 
+
+162.85 165.23 B: you do this on your web t._v. 
+
+164.95 166.83 A: i do this on the web t._v. 
+
+167.07 168.01 B: mhm 
+
+167.17 168.39 A: (( uh )) 
+
+169.03 180.53 A: adding uh different games from time to time uh they've got a thing called cing- cingo c. i. n. g. o. uh it's like a version it's like their version of yahtzee 
+
+180.42 181.56 B: (( mhm mhm )) 
+
+180.78 183.63 A: i play that quite a bit um 
+
+183.26 185.73 B: do you do anything sort of more 
+
+186.05 192.11 B: like computer games computer games like that you go to the store and buy like i don't know quake or 
+
+192.37 194.88 B: you know any of those sort of games can 
+
+194.16 198.84 A: no not really because the web t._v. doesn't have the 
+
+198.91 203.58 A: doesn't have the uh ability to hold a lot of that 
+
+199.31 200.02 B: you 
+
+203.46 216.23 A: and it doesn't support a lot of like java or any of these type of things so i'm kinda limited in what i can play it has to be basically uh web t._v. 
+
+216.54 220.78 A: compatible which is kind of basic 
+
+220.87 223.38 A: so i'm limited in what i can play 
+
+221.13 223.68 B: use c._d. with the web t._v. 
+
+223.42 224.76 A: what's that 
+
+224.14 227.22 B: can you use a c._d. with the web t._v. or is it only internet 
+
+226.05 228.48 A: no no no it's just a 
+
+228.63 236.59 A: it's a box probably oh the box i've got right now is probably the size of a personal pan pizza 
+
+236.59 238.55 B: mhm 
+
+237.46 251.06 A: and it has a card entry in front but they're never developed the uh the technology to put a card in there uh there's no hard drive there's no c._d. rom drive whatsoever 
+
+251.16 253.92 A: it's basically website stuff 
+
+251.33 252.63 B: (( so your )) 
+
+253.95 257.32 B: so your laptop you just use that for work you don't 
+
+256.32 266.19 A: [cough] the laptop i use for work i haven't done a lot with it um i've tried a couple of games and there's some some 
+
+266.55 270.16 A: i don't know difficulty with with running some things 
+
+270.26 271.69 A: um 
+
+270.69 272.43 B: how new is the computer is 
+
+272.54 273.69 A: i'm sorry 
+
+273.46 276.10 B: the computer new or is it an older 
+
+275.32 280.31 A: yeah it's a brand new dell a brand new dell with uh microsoft uh 
+
+279.96 282.46 B: which uh dell laptop is it 
+
+282.07 283.74 A: yes laptop 
+
+283.17 285.45 B: do you know know what the model is 
+
+285.29 288.59 A: oh what do i have i have uh 
+
+288.36 291.90 B: fifty one hundred eighty five hundred twenty one hundred 
+
+291.18 304.93 A: oh god i don't even know i don't even know i'm sorry [laughter] i'm i'm kind of a novice at the laptop i'm i'm still trying to figure it out but i do have microsoft professional 
+
+292.57 295.14 B: (( i used to know the mhm )) 
+
+305.25 307.05 A: x._p. professional 
+
+305.67 306.55 B: uh-huh 
+
+307.60 309.10 B: (( yeah yeah mhm )) 
+
+308.49 314.64 A: so um i mean it's got it's got the c._d. rom i don't really use it i don't really 
+
+315.05 319.10 A: i don't have time really basically to use it um 
+
+317.54 318.51 B: mhm 
+
+319.36 324.95 A: but as far as games i mean the kids we have uh have a couple of kids and and they 
+
+323.78 324.85 B: mhm 
+
+324.85 335.14 A: they find a couple of games here and there just like nickelodeon and the the kids site games uh my daughter plays some games uh 
+
+335.07 344.39 A: there's a pokemon place where you can do battles and stuff like that it's kind of our version of dun- dungeons and dragons but with pokemon 
+
+344.35 345.54 B: mhm 
+
+344.93 346.83 A: and it's um 
+
+346.85 351.81 A: i guess she can play against the computer and such like and things of that sort 
+
+352.64 360.87 A: [mn] you know i wish i had more capacity to do the games and stuff like that but until i become more familiar with it i'm not as 
+
+361.02 367.05 A: not as at ease with running the games it's basically websites that have games 
+
+367.12 368.55 A: uh there's a 
+
+367.32 368.49 B: did you 
+
+369.15 373.12 B: what did you have before you had your lap- did you have a computer before the laptop 
+
+372.24 377.70 A: um they did give me a desk an old desktop a seven year old desktop 
+
+377.52 379.04 B: (( so that's all )) 
+
+377.82 380.93 A: they offered it to me for for fifty bucks 
+
+380.74 381.73 B: (( uh-huh )) 
+
+381.21 384.62 A: uh so once i pay them for that um 
+
+385.04 387.29 A: i'm gonna see if i can uh 
+
+387.37 395.43 A: get some games i've got some friends that you know might be able to print some games and make uh c._d. roms of some games and stuff 
+
+394.78 397.39 B: uh-huh but before but 
+
+395.46 397.80 A: and i might introduce myself that way 
+
+397.91 401.45 B: you didn't have a computer before the lap you just have a laptop now 
+
+399.66 400.82 A: no 
+
+400.97 405.62 A: well the before my laptop i had a desktop for work 
+
+405.01 407.50 B: was this the seven this is the seven year old 
+
+406.94 408.87 A: yeah the seven year old one 
+
+408.61 410.35 B: oh that's the one you had 
+
+409.74 413.19 A: yeah that's the one i had for work um 
+
+411.90 414.40 B: (( oh yeah that must be pretty slow )) 
+
+414.37 416.16 A: um 
+
+416.78 424.17 A: [mn] well they they upgraded it to windows ninety eight [laughter] and it did take me a while to run stuff 
+
+420.69 421.58 B: uh-huh 
+
+424.21 427.31 B: i just think if it was seven years old it probably couldn't have been 
+
+427.47 430.36 B: terribly fast to do any sort of you know 
+
+430.39 433.22 B: advanced graph- you know three d. graphics 
+
+432.68 435.45 A: [mn] oh gosh no no 
+
+434.59 439.36 B: you know anything any any game that uses very much processing power 
+
+439.06 442.86 A: [mn] if if i had ran it i would have to run basic stuff 
+
+442.30 444.21 B: very basic stuff yeah 
+
+443.64 448.50 A: um i i don't know how much i can juice it up 
+
+447.94 459.76 B: mhm have you played games before you know like any of these three d. games and first player shooters or you know role playing games on a computer that they 
+
+458.65 461.02 A: no i have not 
+
+460.40 461.72 B: play no 
+
+461.34 474.45 A: i have not i mean if something i think if i could figure out what i needed to do and figured out how it would work i probably would look into a couple of things i don't know about any type of role player 
+
+461.77 462.35 B: (( you )) 
+
+474.29 476.61 A: any kind of d. and d. or any 
+
+476.70 478.61 A: of those type of things 
+
+477.61 483.22 B: right i'm yeah role playing r._p._g. games as they're called 
+
+481.71 485.45 A: yeah yeah but um 
+
+486.14 496.43 A: they're [mn] you know i might to get into some of the uh [mn] uh sport aspect that's the the type of games that i prefer most are the sports 
+
+496.05 498.67 B: mhm you're big on sports games 
+
+496.49 498.23 A: you know baseball 
+
+498.74 500.05 A: huge 
+
+500.24 502.09 A: huge huge huge 
+
+501.71 502.68 B: uh-huh 
+
+502.34 515.61 A: and i mean i do a lot of uh i do some i do fantasy games as far as like uh fantasy baseball online through yahoo and and uh games of that sort 
+
+510.18 511.21 B: (( yeah )) 
+
+513.17 514.14 B: mhm 
+
+515.77 529.09 A: um it's one that we have i have a a private league that i have with a bunch of my friends that we set up everything through yahoo [mn] we did our draft um over the computer 
+
+529.10 532.23 A: and then we just entered the information under yahoo 
+
+532.36 533.29 B: (( uh-huh )) 
+
+532.40 533.56 A: so 
+
+533.79 540.19 A: i'm in second right now but it's basically players you know we just go ahead and we just send the draft 
+
+535.86 536.66 B: (( yeah )) 
+
+540.57 548.73 A: fan the draft stuff out and and we make our picks and then our secretary just en- just manually enters it into 
+
+548.91 549.90 A: (( our )) 
+
+550.27 563.65 A: our stuff and we go from there so i do play some fantasy baseball and i can make my uh uh picks based upon what's going on in in in uh in actually in baseball 
+
+563.79 570.26 A: and that is kind of a game that i do play but it's it's stuff that i just basically use the computer it's not a 
+
+570.33 575.96 A: anything where it the computer's helping me it's basically just doing the work for me 
+
+575.69 576.95 B: yeah 
+
+576.39 580.98 A: so do you do any fantasy type sport anything of that sort 
+
+580.33 584.40 B: no i'm not much of a sports guy myself 
+
+583.87 584.85 A: uh-huh 
+
+585.07 596.41 B: uh yeah i've got friends who've done fantasy baseball before but you know i'm not terribly up to date on that sort of thing at all or football any any sort of sports like that 
+
+589.51 590.43 A: uh-huh 
+
+596.26 597.45 A: (( right [mn] )) 
+
+597.26 598.40 B: (( um )) 
+
+599.47 599.95 B: uh 
+

@@ -1,0 +1,401 @@
+# fe_03_03131.sph
+# Transcribed by BBN/WordWave
+
+0.04 1.46 A: hello 
+
+0.93 2.07 B: hello 
+
+1.71 3.36 A: hi i'm tucker 
+
+3.06 4.77 B: hi i'm quinton 
+
+4.12 6.88 A: (( quinton hey how're you doing nice to meet you )) 
+
+4.81 5.61 B: yes 
+
+6.17 10.64 B: pretty good [noise] supposed to talk to you about pets 
+
+7.87 8.90 A: so 
+
+9.67 11.36 A: right 
+
+10.77 13.23 B: cool do you have any pets 
+
+12.05 16.32 A: absolutely not no no not one negative 
+
+13.35 14.22 B: (( oh )) 
+
+15.95 17.69 B: oh i have a lot i 
+
+17.09 18.68 A: (( oh yeah [noise] what do you have [noise] )) 
+
+18.27 20.83 B: have two dogs a parrot 
+
+21.45 22.63 B: a frog 
+
+23.37 25.10 B: (( what else do we have )) 
+
+25.84 27.21 B: (( a shr- ah )) 
+
+27.65 30.30 B: we have this i already the bird 
+
+30.72 32.38 A: yeah 
+
+31.69 34.18 B: oh yeah a grub worm that's what it is 
+
+33.55 36.32 A: (( oh a w- worm grub worm [mn] )) 
+
+34.93 39.17 B: sounds yeah nasty and funny but it was a science project that's now 
+
+39.20 40.60 A: that went wrong 
+
+40.49 47.49 B: it's in the window no it didn't go wrong it went good but what do you do with it you don't it's just a grub it won't die 
+
+41.70 42.28 A: (( [mn] )) 
+
+43.33 44.61 A: (( yeah is it )) 
+
+46.22 47.06 A: [mn] 
+
+47.23 54.01 A: yeah just yeah i guess they live on yeah yeah i mean i i i had pets i grew up with um 
+
+54.02 55.43 A: (( with parrots )) 
+
+55.57 63.95 A: parrots always had a parrot and ah tropical fish but ah [mn] now i don't have any none no pets 
+
+64.16 67.26 A: so i mean that doesn't leave the conversation 
+
+67.32 69.83 A: leave me a whole lot to talk about 
+
+68.46 72.29 B: [mn] well how long have you been doing this conversation thing 
+
+71.44 72.79 A: um 
+
+72.92 76.81 A: this will be my second one so i guess last week last week i started 
+
+76.53 80.86 B: oh this is my first one my friend has done it he just got a check for twenty dollars 
+
+80.39 82.21 A: oh yeah 
+
+81.01 83.34 B: for two that he did last month 
+
+82.98 90.68 A: oh two that he did yeah i did one and i guess this will be my second one yeah um i forgot how i found out about i kind of stumbled upon this 
+
+90.78 94.33 A: and ah filled out ah you know i registered and stuff so 
+
+94.38 97.47 A: i don't know i guess i'll be happy when i see the money i guess 
+
+96.89 98.99 B: exactly 
+
+97.71 109.17 A: yeah and it's no real it's no big deal to really do it um you know it takes like ten minutes no big deal ten minutes ten bucks it's a dollar a minute that's pretty good money 
+
+105.39 106.42 B: (( [noise] )) 
+
+108.59 110.75 B: and they pay for it exactly 
+
+109.93 111.80 A: yeah it's good money 
+
+110.90 113.94 B: and all you gotta do is sit at home and smoke a cigarette and talk 
+
+113.57 115.18 A: yeah so um 
+
+114.07 115.69 B: (( what state are you in )) 
+
+115.54 118.97 A: what's that oh i'm in new jersey 
+
+116.42 117.80 B: what state 
+
+118.32 121.00 B: new jersey florida 
+
+118.98 122.18 A: yeah new yeah new york city area what part of florida 
+
+122.05 124.31 B: i'm in ah sarasota 
+
+123.89 129.31 A: sarasota right okay yeah yeah yeah is that near um 
+
+124.97 126.16 B: west coast 
+
+129.61 130.97 B: south of tampa 
+
+130.74 134.23 A: [lipsmack] right okay i'm with you yeah i've been all through 
+
+132.42 134.97 B: i'm about thirty miles south of tampa ah 
+
+134.59 139.39 A: okay yeah i've been all through florida one time or the other yeah ah 
+
+138.58 142.31 B: i just moved here in february it's pretty cool i love it 
+
+141.10 142.56 A: yeah where are you from 
+
+142.41 143.62 B: from ohio 
+
+143.25 145.95 A: oh okay i have a friend in um 
+
+146.57 149.79 A: (( [lipsmack] [sigh] well let's see ohio ah )) 
+
+149.87 152.66 A: it's not elmara elr- ah 
+
+152.73 155.00 A: el- sounds like elmira 
+
+154.74 156.99 B: ah no i'm from akron 
+
+155.02 156.39 A: ohio el- 
+
+156.41 157.38 A: from where 
+
+157.02 158.68 B: the akron area 
+
+158.07 160.43 A: okay akron yeah 
+
+158.77 165.09 B: we actually moved here from lexington kentucky though that's where my wife's from i lived there for a few years but i grew up in ohio 
+
+162.01 163.12 A: (( oh okay )) 
+
+164.68 165.62 A: okay 
+
+165.79 169.10 B: and we got tired of the snow and we moved here in february 
+
+165.86 167.49 A: yeah my friend 
+
+167.93 174.11 A: yeah yeah um i have a friend that lives it's outside of cleveland elyria or something like that or 
+
+174.10 175.25 B: (( ah )) 
+
+174.26 178.46 A: el elyria something like that it's like elmira but elyria 
+
+178.24 181.10 B: (( oh the only thing i know out of cleveland is parma heights area )) 
+
+178.48 193.29 A: elyria or something it's outside of cleveland it's it's ah west of cleveland act- is it west i think it's east of cleveland it's in the cleveland area yeah ah yeah i'm from new jersey yeah it's ah right outside new york right on the you know 
+
+187.06 188.85 B: so are you from jersey 
+
+192.88 195.43 B: yeah i've been to jersey or through jersey 
+
+194.04 195.02 A: yeah 
+
+195.29 202.72 A: yeah um i mean where i live it's right across the water from manhattan it's right on the water yeah it's okay yeah 
+
+198.95 200.00 B: oh really 
+
+203.15 204.55 A: so ah 
+
+204.21 208.19 B: so do you get asked about se- september eleventh a lot living there 
+
+207.87 210.53 A: ah yeah actually um 
+
+210.68 223.95 A: i was on my way to i was getting ready to leave to go to the world trade center when it happened yeah and ah i mean i could see it so i watched the the second fireball with my own eyes like the second you know 
+
+215.41 216.57 B: no shit 
+
+223.92 227.41 A: after the plane hit i saw the fireball the second one and ah 
+
+227.51 234.77 A: i watched it and pretty m- i watched 'em crumble wi- before my own eyes ah [mn] where i live 
+
+230.70 232.31 B: man how far away were you 
+
+234.89 236.97 A: well i just moved ah but in 
+
+238.89 239.72 A: hello 
+
+239.48 240.43 B: i'm here 
+
+240.02 241.51 A: (( yeah ah )) 
+
+241.58 244.05 A: it was about three miles 
+
+244.09 248.13 A: like where i live right now it's about four miles to you know ground ce- ah 
+
+248.26 249.49 A: ground zero 
+
+249.10 250.25 B: oh really 
+
+249.63 258.15 A: yeah yeah so um [mn] yeah i watched it smoke it smoked for about a month afterwards people don't talk about that just imagine like in a 
+
+258.36 263.92 A: like after a fire the smoke had lasted for over a month it's pretty evil yeah so 
+
+261.11 262.24 B: oh man 
+
+263.63 265.27 B: (( i don't even want to imagine it )) 
+
+264.66 273.12 A: and ah i was there at ten o'clock the night before [mn] because ah all the subways ru- used to run right through there and i would come and go 
+
+271.11 271.86 B: (( ahah )) 
+
+273.17 284.92 A: come and go ah through the world trade center every day commuting to work like i would go to the trade center it was like about a ten minute ride so i would go to the trade center every day and i was getting dressed to go to work 
+
+284.81 294.00 A: and my friend told me there was a plane that hit the trade center don't go to work i was what like and then ah i walked on my porch where i could see the trade center 
+
+293.96 302.87 A: and i saw the fucking smoke and then i came back and turned on the t._v. saw the second plane hit and then i walked back outside and saw the fucking second fireball 
+
+302.94 310.14 A: and ah you know i just hung out and watched the fucking shit crumble yeah pretty fucked up something i'll never forget that's for sure 
+
+307.68 309.27 B: (( yeah )) 
+
+310.75 312.04 A: yeah so how 
+
+311.11 314.75 B: so has it affected you psychologically watching that 
+
+314.17 317.52 A: ah absolutely it'll be something i never forget you know 
+
+317.67 321.50 A: yeah um i had trouble sleeping and stuff like that yeah absolutely 
+
+321.74 325.66 A: yeah i was pretty fucked up considering i would go there every day and it was like you know 
+
+326.07 336.66 A: actually i was leaving to go there was a whole little mall concourse on the [lipsmack] lower level of the trade center and actually that day i was leaving to go to the big book store there 
+
+336.60 343.89 A: i was leaving early than i normally would to go to my job to stop in the book store in the bottom of the trade center 
+
+344.03 358.55 A: and ah you know i'm i'm pulling over my sweater and my friend calls me up and tells me that a plane hit so [mn] i mean i'm i'm like not only you know i mean you ima- it was my normal routine to go through there every day but [cough] that day in particular i'm leaving extra early to go to the fucking book store 
+
+358.66 359.70 B: wow 
+
+358.71 361.43 A: you know so it was pretty scary so that kind of freaked me out 
+
+361.40 374.52 A: yeah and ah you know if i wasn't so lazy like you know i might have been like you know just leaving there a little bit earlier and fucking you know maybe the plane would have been in my lap or something so how much time do you spend with your pets a lot 
+
+373.89 379.82 B: um i spend probably i spend a lot of time yelling at my pets to shut up 
+
+379.25 380.51 A: yeah 
+
+380.00 394.43 B: um probably like ten hours a day doing that the dogs my dogs w- we spend a lot of time probably the dogs probably at least twenty hours a day somebody's paying attention 'cause there's three adults and two kids that live here 
+
+383.32 384.87 A: yeah and your dogs 
+
+394.13 397.33 A: okay yeah so the dogs are just part of the family are they 
+
+396.57 398.21 B: mhm 
+
+397.42 399.03 A: what kind of dogs are 
+
+398.86 404.59 B: we have a chihuahua that looks identical to the taco bell dog and a bird dog 
+
+401.31 401.87 A: (( they )) 
+
+402.03 403.04 A: right 
+
+403.99 405.38 A: a what 
+
+404.69 406.13 B: a bird dog 
+
+405.51 406.71 A: a bird dog 
+
+406.24 408.88 B: i don't even know how to d- it's black and white 
+
+408.54 409.64 A: (( oh okay )) 
+
+409.91 411.39 B: it's um 
+
+412.04 413.29 B: what kind is it 
+
+412.14 416.40 A: i you know for me like i always would want a dog that ah 
+
+417.07 418.46 A: um 
+
+419.20 427.35 A: [lipsmack] ah something that i don't know if maybe i needed help like the dog would fucking bark and i don't know 
+
+426.84 429.42 B: we have an electronic dog also kind 
+
+428.82 430.74 A: oh okay oh 
+
+429.56 436.10 B: of like the jetsons except this is an expensive one this one like if it falls down it gets back up it's like twelve hundred dollars 
+
+431.05 432.24 A: right 
+
+434.06 441.70 A: yeah right um i worked at a f._a._o. schwarz big toy store and ah i know exactly what you're talking about 
+
+438.20 439.25 B: mhm 
+
+441.09 444.52 B: it is pretty cool we got that at a good price too 
+
+441.94 446.27 A: yeah yeah it is pretty cool actually yeah um 
+
+445.18 448.88 B: partly it was fun at first but we hardly use it 
+
+448.10 455.49 A: yeah i w- that's the thing like i remember seeing it and like being amazed by it but i was like this is all cool and all but i said ah 
+
+455.53 459.46 A: even if i would buy it i could see the novelty wearing off pretty quick 
+
+458.89 464.03 B: ah i tell you we spent twelve hundred dollars and it was fun but would you say we used the dog maybe a week 
+
+463.62 473.50 A: and then it's like they're now it's like everything else yeah i could s- yeah yeah so that hooks up to your p._c. where you can program it more and stuff like that 
+
+466.61 469.09 B: the electronic dog playing with it 
+
+472.96 480.51 B: yeah well it has ah a- artificial intelligence in it the more you play with it but we i haven't had a battery in it honestly in probably three months 
+
+476.25 477.17 A: right 
+
+480.33 482.54 A: [mn] yeah 
+
+481.03 488.58 B: i leave it unplugged and just let it shut off it was like i told you it was a twelve hundred dollar toy that i wanted at the time and i had the money and i got it and 
+
+488.00 491.14 A: and then yeah now now it's sitting around yeah yeah [mn] 
+
+489.27 496.10 B: now it's collecting dust tonight i went out and bought an r._v. and two fishing poles we're going fishing night fishing tonight off the pier 
+
+496.13 499.24 B: [mn] not an r._v. an electronic remote control r._v. 
+
+498.64 500.33 A: oh okay yeah 
+
+499.42 501.40 B: (( i just saw it and wanted to buy it [mn] )) 
+
+500.92 502.19 A: (( yeah [mn] a )) 
+
+502.55 506.81 B: it's not a pet though um do we have any other pets that i'm forgetting [noise] 
+
+508.81 511.36 B: i said the snail and frog i think 
+
+512.49 514.62 A: frog yeah maybe i 
+
+513.39 517.40 B: we have a frog a bird and two dogs we have a pet squirrel in the yard 
+
+517.00 520.15 A: ah maybe i can get a pet that's what the hell i need i guess 
+
+519.78 522.14 B: ah i go and see dolphins every day 
+
+522.17 523.48 A: ah that's cool 
+
+522.83 524.23 B: they're not pets though 
+
+524.33 525.81 A: (( yeah that's pretty cool )) 
+
+525.18 531.80 B: 'cause we live right on the ocean i work on the well we don't live on it we're like a couple of miles from the ocean but we work right on the ocean 
+
+529.34 530.27 A: (( oh okay )) 
+
+531.41 532.90 A: oh that's very cool 
+
+533.03 534.65 B: (( what type of work do you do )) 
+
+534.24 540.54 A: ah i do i compose music for t._v. commercials and stuff like that um 
+
+538.83 540.94 B: oh very cool what commercials 
+
+540.74 550.70 A: well nothing yet but actually ah i got some maybe something maybe with nike and something maybe with ah [lipsmack] ah rayovac batteries 
+
+550.31 551.63 B: oh very cool 
+
+550.81 556.25 A: so i got some shit some music that i made sitting on their desk like a maybe so 
+
+555.85 557.13 B: hey you never know 
+
+556.30 559.90 A: you know never know never know i'm you know it's in the right direction 
+
+558.59 562.69 B: you could be like six months ago i was talking on the phone and i made ten bucks [mn] 
+
+562.46 571.79 A: yeah exactly so um you know i don't know something might become of it [mn] i got a publishing deal with this ah [lipsmack] ah label in the u._k. 
+
+563.20 564.34 B: [laughter] 
+
+566.82 567.69 B: yeah 
+
+571.86 579.53 A: and ah i send them music and then it's on them to get it used in um t._v. commercials like they send it out so 
+
+579.64 581.58 A: um you know and then i 
+
+581.94 593.37 A: [mn] i just actually today i went and was checking on the status of some of the stuff that i submitted to them and um you know i found out that it had been forwarded to ah nike and ray vac batteries so 
+
+593.65 599.89 A: who knows maybe something will become of it maybe not i don't know but you know it's it's heading heading in the right dir 
+
+598.31 599.56 B: what's that 
+

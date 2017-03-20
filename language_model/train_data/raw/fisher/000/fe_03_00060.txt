@@ -1,0 +1,716 @@
+# fe_03_00060.sph
+# Transcribed at the LDC
+
+2.62 3.14 B: hello 
+
+3.21 3.77 A: hello 
+
+3.78 4.39 B: hello 
+
+4.44 4.97 A: hi 
+
+4.97 5.69 B: hi 
+
+6.10 7.23 B: nice to meet you 
+
+7.14 8.15 A: nice to meet you 
+
+8.23 9.00 B: yeah um 
+
+9.15 10.16 B: my name is unjang 
+
+10.81 11.86 A: oh my name's amy 
+
+12.09 15.81 B: okay i'm an undergraduate student at ohio state university 
+
+16.68 18.93 A: okay i'm an undergrad at harvard 
+
+19.16 20.94 B: okay what do you study 
+
+20.99 22.03 A: i study 
+
+22.38 26.02 A: some biological thing i'm entirely sure about my major yet 
+
+26.16 29.14 B: uh well i'm studying linguistics and i'm planning to 
+
+29.24 31.04 B: go to a graduate school next year 
+
+31.04 32.68 A: oh nice at where 
+
+31.83 32.39 B: yeah 
+
+33.21 33.68 B: uh 
+
+33.21 34.11 A: like m._i._t. 
+
+33.96 37.89 B: m._i._t. is a good place actually i'm applying to m._i._t. 
+
+38.08 40.09 A: yeah it seems like we're always hearing about like 
+
+40.24 43.68 A: chomsky and like how he was like hanging out there 
+
+41.72 42.31 B: uh-huh 
+
+43.29 48.71 B: cool yeah they have a really good program in phonetics which i'm interested in 
+
+48.69 49.72 A: in what again 
+
+49.51 50.33 B: phonetics 
+
+50.32 51.58 A: oh phonetics great 
+
+51.14 52.25 B: yeah phonetics 
+
+52.67 58.57 B: yeah i'm actually like harvard has a good programming team in linguistics but not in phonetics right 
+
+58.72 61.92 A: um we have phonology i think 
+
+61.23 62.38 B: yeah 
+
+63.45 63.94 B: cool 
+
+63.50 64.29 A: mm 
+
+64.60 65.07 A: yeah not 
+
+65.90 68.58 A: entirely familiar with the program 
+
+67.85 70.77 B: right your- you're differently you're in a different 
+
+71.21 71.79 B: from 
+
+71.91 74.95 B: from a different program i think biological thing 
+
+75.83 76.43 B: yeah 
+
+77.95 78.58 B: so 
+
+80.21 81.91 A: um let's see 
+
+80.83 81.41 B: yeah um 
+
+82.21 83.03 B: the topic 
+
+83.16 86.27 B: i heard it was about personal habits 
+
+86.61 87.15 A: uh-huh 
+
+87.32 87.71 B: right 
+
+88.02 90.81 A: is that personal habits and the question was 
+
+91.00 91.70 A: um 
+
+91.81 94.40 B: which is worse do you think 
+
+92.92 93.71 A: yeah like 
+
+94.80 96.96 A: okay the choices where gossiping 
+
+97.03 98.58 B: uh-huh smoking 
+
+98.05 99.38 A: smoking 
+
+99.17 100.87 B: drinking alcohol 
+
+100.26 100.75 A: uh-huh 
+
+100.85 103.36 A: eating to much i think and not exercising 
+
+103.35 104.11 B: yeah 
+
+104.33 105.19 A: um 
+
+105.48 109.18 B: that's those are all yeah 
+
+108.95 110.90 A: i don't know i admit that i gossip 
+
+111.14 113.09 A: not maliciously i i should hope 
+
+113.36 115.05 B: i think 
+
+115.22 116.08 B: over eating 
+
+116.35 118.62 B: and not exercising is really bad 
+
+118.54 119.32 A: ye it's true 
+
+119.24 129.97 B: actually i don't really exercise a lot and that's one of my problems i should work out regularly and i should work out regularly i just can't find enough time to do that 
+
+119.57 120.36 A: although 
+
+122.12 122.55 A: mm 
+
+130.28 131.07 B: and 
+
+130.42 130.92 A: mm 
+
+131.20 132.80 B: and that makes me tiered 
+
+133.15 133.75 B: sometimes 
+
+134.35 137.89 A: yeah actually although i think with the alcohol and the smoking thing 
+
+137.77 138.31 B: uh-huh 
+
+138.59 141.77 A: simply because it's sort of something you choose to do 
+
+141.78 142.15 B: right 
+
+142.31 143.26 A: bad verses 
+
+144.23 145.48 A: um it's bad if you 
+
+145.74 146.74 A: don't do it 
+
+146.92 147.76 A: i guess it's 
+
+146.94 147.51 B: uh-huh 
+
+148.12 149.86 A: sort of more of a choice 
+
+150.34 152.31 A: what are those choices 
+
+152.19 152.76 B: mm 
+
+152.63 153.57 A: mm 
+
+153.71 155.76 A: yeah like i guess i'm not 
+
+156.72 159.34 A: like i don't really drink and i don't drink either 
+
+159.86 163.45 B: oh wow what do you do when you hand out with people 
+
+163.70 164.58 A: um 
+
+165.63 169.70 A: i don't know maybe the problem is that we're really boring people 
+
+169.75 171.82 B: science people 
+
+171.61 175.57 A: yeah like all we do is like spas we we're like oh look 
+
+175.67 176.18 B: yeah 
+
+175.79 177.18 A: it's a molecule 
+
+177.34 179.72 B: i understand you yeah 
+
+177.42 178.65 A: and then we go crazy 
+
+180.49 182.14 A: yeah i think we're just 
+
+182.34 182.89 A: yeah 
+
+183.13 185.26 A: it's just my group that's kind of 
+
+185.56 186.53 A: bland i guess 
+
+186.80 189.51 B: right how about oh how about caffeine but 
+
+189.66 191.52 B: i think one of the yeah caffeine 
+
+189.72 190.94 A: oh caffeine 
+
+191.77 192.26 A: um 
+
+192.64 195.49 A: i don't see anything wrong with caffeine actually 
+
+195.46 196.09 B: mm 
+
+196.11 196.73 A: um 
+
+196.93 203.81 B: right i'm i'm really like addicted to coffee a lot i drink a lot of coffee and i don't know how 
+
+204.04 206.24 B: that effects my health or 
+
+206.66 213.99 B: cause i don't even see any problems yet maybe i'll see some late on in my life 
+
+214.22 215.91 A: mm well they do say that 
+
+216.32 219.43 A: actually moderate amounts help you feel better 
+
+219.80 220.49 A: stuff like that 
+
+220.49 221.09 B: right 
+
+220.80 223.43 A: it's like the same thing with alcohol like something about 
+
+223.56 225.18 A: a little bit of like red wine 
+
+225.14 225.67 B: right 
+
+226.62 229.61 B: that makes your liver circulating more 
+
+230.24 231.24 B: better i i know 
+
+230.93 232.49 A: no not the liver the heart 
+
+232.37 233.49 B: the heart the the heart 
+
+233.50 235.73 A: yeah it like helps to prevent heart disease 
+
+235.87 236.52 B: uh-huh 
+
+236.48 237.09 A: i think 
+
+237.58 243.41 A: like i guess between alcohol and smoking i'd say smoking's worse because there are absolutely no health benefits to it 
+
+243.44 245.36 B: yeah that's what i heard too 
+
+245.77 246.87 A: yeah and caffeine 
+
+246.97 248.03 A: yeah i don't know 
+
+248.27 252.36 A: i guess some people consider it a drug too but i kind of like frapachinos 
+
+252.61 254.27 B: you like cappuccino yeah 
+
+255.22 256.00 A: mm 
+
+255.64 256.40 B: mm 
+
+257.61 258.73 B: um 
+
+259.51 263.92 B: yeah i don't know coffees just so popular everywhere these days and 
+
+264.11 264.55 A: mm 
+
+264.75 275.94 B: if if there's really like a serious problem with the caffeine then then there should be a lot of them worries like people who worry about smoking they 
+
+276.16 286.29 B: they are a lot of activist against smoking and high smoking but they i haven't really seen many people who are opposed to caffeine 
+
+280.32 280.88 A: yeah 
+
+286.51 287.32 A: yeah true 
+
+287.15 289.39 B: it's kind of a different situation i think 
+
+289.71 291.21 A: actually have you ever seen 
+
+291.43 294.25 A: have you seen this new drink out called vinergy 
+
+294.66 295.27 B: um n- 
+
+294.90 295.45 A: and it's 
+
+295.53 296.38 B: not really 
+
+296.38 297.70 A: oh it's got um 
+
+298.05 299.79 A: number one it's like carbonated 
+
+299.65 300.06 B: uh-huh 
+
+300.06 304.57 A: and it's got it's basically carbonated wine that they added caffeine too 
+
+304.25 304.65 B: right 
+
+305.24 306.18 A: which is 
+
+306.32 315.42 A: interesting because caffeine's like you know a stimulant and alcohol's a suppressant so i'm not entirely sure what the effect off two of them together will be 
+
+307.14 308.25 B: uh 
+
+315.16 315.90 B: yeah 
+
+316.08 316.93 B: (( or the of )) 
+
+317.09 318.08 B: have you ever tried it 
+
+318.81 321.12 A: i haven't no i've seen ads for it around though 
+
+320.97 321.65 B: uh-huh 
+
+322.13 322.51 B: uh 
+
+323.67 324.33 B: yeah 
+
+325.10 327.93 B: even tea also have some caffeine inside 
+
+328.03 328.66 A: uh-huh 
+
+328.54 330.42 B: do you drink tea do you like tea 
+
+330.40 331.62 A: um a little bit 
+
+331.95 332.55 B: yeah 
+
+332.33 334.06 A: yeah just when it's cold 
+
+340.30 345.61 B: coffee at night just right before they go to sleep and the (( )) can't sleep enough to drinking coffee at night 
+
+345.36 345.87 A: yeah 
+
+345.78 346.18 B: um 
+
+346.29 347.88 B: but i just i have 
+
+348.59 354.19 B: been drinking too much coffee and then i even i i sleep really well even though i 
+
+353.81 355.24 A: wow 
+
+354.50 356.36 B: and then instead of problem (( )) 
+
+356.62 359.15 A: no probably not it's just your body's gotten use to it 
+
+359.28 363.05 B: maybe it's my body just (( )) 
+
+361.56 367.98 A: yeah cause my roommate like if she drinks coffee anytime after twelve noon 
+
+367.90 368.30 B: right 
+
+368.23 370.33 A: then she just basically can't sleep at night 
+
+370.44 371.25 B: wow 
+
+371.36 375.37 A: yeah like i'm not that extreme actually i don't think caffeine does anything to me 
+
+375.46 376.08 B: uh-huh 
+
+376.65 377.07 A: but 
+
+376.79 377.99 B: that's interesting 
+
+377.98 378.51 A: yeah 
+
+379.89 380.44 B: right 
+
+381.09 382.91 A: yeah i suppose 
+
+383.90 385.74 B: how about overeating 
+
+385.57 388.98 A: overeating's very bad i do that 
+
+386.97 387.67 B: yeah 
+
+388.06 389.02 B: um 
+
+389.20 391.90 B: so are you a senior or what's your ranking 
+
+392.01 392.95 A: oh i'm a junior 
+
+392.93 396.91 B: junior and you live um on campus off campus 
+
+397.04 397.97 A: i like on campus 
+
+398.06 399.53 B: right but in a dormitory right 
+
+399.86 400.33 A: uh-huh 
+
+400.39 401.00 B: and 
+
+401.20 404.95 B: you know we have a lot of dorms on campus here other wise you 
+
+405.16 406.42 B: and a lot of people 
+
+406.97 410.29 B: yeah i think they go the gyms and work out 
+
+410.38 411.20 A: uh-huh 
+
+411.02 412.87 B: and do that all the time 
+
+412.56 422.31 A: no yeah it's just like when you get busy or else your like you know i'm so lazy i'd rather just sit here and be comfortable 
+
+413.77 415.06 B: yeah i mean 
+
+420.19 421.09 B: lazy 
+
+422.64 423.34 B: right 
+
+423.72 428.11 B: i mean i think i personally i think it's important to work out regularly and 
+
+428.28 429.09 B: make your 
+
+429.41 431.38 B: body healthy 
+
+430.51 434.90 A: true yeah it totally does like i here people say that you know 
+
+433.15 433.75 B: yeah 
+
+435.07 439.29 A: it gives them energy right after they do it and then they can be more efficient and like 
+
+438.58 439.07 B: mm 
+
+439.46 440.02 B: sure 
+
+439.50 440.69 A: the whole everything 
+
+440.79 441.38 B: yeah 
+
+442.16 448.68 B: yup one of my friends at m._i._t. he didn't use to bike 
+
+449.45 449.94 A: uh-huh 
+
+450.87 451.64 A: oh dear 
+
+459.15 462.28 B: three bikes at like different (( perpose )) you know like when you go 
+
+462.46 467.94 B: um hiking or just in the road he bikes every day and then it 
+
+462.60 463.09 A: oh 
+
+467.84 468.92 A: wow 
+
+468.16 470.28 B: it's a good exercise instead of 
+
+470.67 472.46 B: i think yeah biking will be a 
+
+472.72 475.39 B: really go exercise one of the (( seeking )) 
+
+475.65 478.19 B: pick you know really easily 
+
+476.69 477.25 A: mm 
+
+478.34 478.95 A: yeah it's 
+
+479.70 480.38 B: yeah 
+
+479.92 480.74 A: (( or )) 
+
+481.17 484.59 A: i don't know i guess the only exercise i really get is walking around 
+
+484.49 489.54 B: actually yeah i have to walk a lot and i think it's a good exercise too 
+
+489.69 490.50 A: mhm 
+
+489.78 492.61 B: walking fast is a really good way to do 
+
+493.18 493.68 A: yeah 
+
+493.46 495.47 B: (( )) just you know you just walk 
+
+495.59 500.28 B: slowly but it really doesn't help but when you walk fast and it's a good exercise too 
+
+500.49 500.95 A: mhm 
+
+500.67 503.25 B: were you walking fast for thirty minutes ha ha 
+
+502.79 508.12 A: yeah that's definitely good exercise that's when you arrive at your destination you're like (( )) 
+
+507.49 509.46 B: yeah ha ha 
+
+509.58 510.15 B: aw 
+
+510.67 511.21 B: right 
+
+511.65 513.12 B: is harvard really 
+
+513.29 515.90 B: oh how far is it between m._i._t. and harvard 
+
+516.08 521.34 A: oh it's about oh let's see about ten minutes on the subway or about a 
+
+519.70 520.26 B: uh-huh 
+
+521.59 522.55 A: i'd say a 
+
+522.80 525.08 A: forty minute walk i guess by the river 
+
+524.25 524.94 B: oh 
+
+525.08 525.65 B: okay 
+
+525.18 525.62 A: mhm 
+
+525.91 530.79 B: like the (( )) river between the yeah i've never been to boston but 
+
+527.43 527.99 A: yeah 
+
+530.98 537.28 B: i'm visiting boston um in maybe t in two weeks ha ha yeah i'm excited 
+
+531.01 531.58 A: oh 
+
+534.50 535.69 A: oh that's nice 
+
+536.15 536.42 A: yep 
+
+536.88 539.82 A: boston's a good place it's a little snowy right now but 
+
+539.68 544.38 B: yeah i heard it's snowy but didn't you have sh- uh sunshine today 
+
+544.58 545.38 A: yeah we did 
+
+545.18 546.26 B: yeah ha ha ha 
+
+546.11 553.23 A: so we tend to have like it snows and it like grows for a day and then the next day sun the sunshines and the snow and then it melts 
+
+551.97 552.65 B: right 
+
+552.98 553.66 B: yeah 
+
+553.59 554.42 A: very interesting 
+
+554.81 556.69 B: yeah oh my gosh yeah 
+
+558.40 559.64 B: interesting hm hm 
+
+559.13 560.40 A: heh heh 
+
+560.70 561.92 B: okay 
+
+561.90 562.98 A: hm 
+
+563.07 563.99 B: um did 
+
+564.67 565.97 B: is there any other topic 
+
+566.08 566.85 B: other than 
+
+567.06 569.45 A: the oh we didn't talk about gossiping 
+
+567.47 567.99 B: (( what )) 
+
+569.23 574.54 B: oh gosh (( )) cause i don't really i'm not really into gossiping (( a whole lot )) 
+
+570.39 571.22 A: mm 
+
+574.47 576.95 A: hm i guess gossiping in terms of 
+
+578.14 578.80 A: hm 
+
+579.16 581.69 A: cause like here we have like a little group 
+
+581.65 582.36 B: uh-huh 
+
+581.81 588.35 A: a sort of what we call a blocking group which is basically you go to a dorm with like seven of your closest friends 
+
+588.01 588.94 B: yeah 
+
+588.99 591.64 A: so it's sort of like our main little like social group 
+
+591.70 592.33 B: mhm 
+
+591.91 592.62 A: and like 
+
+593.61 594.31 B: right 
+
+594.00 596.69 A: it's always interesting to talk about guys 
+
+596.49 597.57 B: ha ha ha ha 
+
+597.51 600.06 A: like i'm not sure if that counts as gossiping or not 
+
+599.90 603.60 B: uh what's your definition of of gossiping 
+
+603.89 604.81 A: um 
+
+605.42 605.99 A: hm 
+
+606.29 609.37 A: uh maybe i guess gossiping has more the 
+
+609.63 610.98 A: meaning of um 
+
+612.22 614.85 A: like to say bad things about people 
+
+615.06 616.57 A: behind their back i guess 
+
+616.03 617.58 B: (( instead of )) um negative 
+
+617.78 619.09 B: term for you then 
+
+619.56 621.07 A: i think so 
+
+619.87 620.60 B: gossiping 
+
+620.85 621.30 B: uh-huh 
+
+621.43 624.29 A: yeah gossiping versus say um chatting i guess 
+
+624.58 626.66 B: so yeah those are different things uh 
+
+626.57 627.09 A: yeah 
+
+627.53 628.73 B: yeah 
+
+629.33 630.21 B: gossiping 
+
+630.92 632.54 B: is just talking about other people 
+
+632.93 633.80 B: um 
+
+633.07 633.55 A: yeah 
+
+634.12 634.42 B: (( but )) 
+
+635.29 635.59 B: there 
+
+635.89 637.03 B: bad things ha ha 
+
+637.00 637.54 A: yeah 
+
+637.65 638.70 A: imagine that's kind of 
+
+639.76 640.25 A: hm 
+
+640.90 642.94 A: yeah although there's not very much to talk about 
+
+643.08 643.52 B: right 
+
+644.43 648.40 B: but wh- when you when you talk about guys with your friends what do you talk about them 
+
+648.67 651.95 A: um let's it either they're cute or they're not 
+
+651.88 652.83 B: okay 
+
+652.93 653.73 A: so i guess 
+
+654.46 659.26 A: when we're talking about how they're not or how they're like obnoxious i guess that would be called gossiping 
+
+656.19 656.65 B: uh-huh 
+
+659.43 660.87 B: yeah i think so 
+
+661.08 671.07 B: or um people around you uh when you when you talk about those people when they are not at present and (( just )) how they did yesterday and (( you just )) 
+
+671.36 673.77 B: and then you didn't like their behaviors and the 
+
+674.34 676.35 A: yeah that happens too 
+
+675.62 675.96 B: (( right )) 
+
+676.07 676.73 B: yeah 
+
+677.21 678.30 B: well i think 
+
+678.43 682.73 B: i don't really like gossiping at all because i don't really like to talk about other um 
+
+683.39 686.93 B: people it's just my personality i think 
+
+684.12 684.73 A: ha 
+
+686.88 687.51 A: uh-huh 
+
+687.56 689.21 B: and because i think 
+
+689.68 692.37 B: it's my opinion but it could be really biased and 
+
+692.58 693.37 B: i don't want to 
+
+694.13 697.67 B: ha make any rumor against other people 
+
+697.78 698.63 B: so i i think i 
+
+698.77 701.32 B: can't be really careful when i talk about other people 
+
+701.50 701.92 A: mhm 
+
+702.07 702.78 A: that's good 
+
+702.11 702.62 B: so 
+
+702.91 704.62 A: yeah that's a really good like 
+
+704.99 706.26 B: yeah 
+
+705.35 706.83 A: sort of thing to follow 
+
+706.64 708.08 B: i guess so 
+
+708.14 708.91 A: yeah 
+
+710.81 711.30 B: (( well )) 
+
+711.17 712.15 A: (( so )) 
+
+711.84 714.92 B: so like okay maybe we can make some conclusion here 
+
+714.44 719.01 A: oh yeah (( usually yeah )) that's bad that's bad that's bad mm 

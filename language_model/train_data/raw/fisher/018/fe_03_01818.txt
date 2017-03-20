@@ -1,0 +1,385 @@
+# fe_03_01818.sph
+# Transcribed by BBN/WordWave
+
+0.44 2.82 A: hello this is david 
+
+1.20 2.40 B: hello 
+
+2.56 4.48 B: hi david this is laura 
+
+4.19 5.71 A: hi laura 
+
+6.02 9.02 A: what part of the country are you coming from 
+
+7.74 9.96 B: i'm um i'm in philadelphia 
+
+9.46 10.75 A: philadelphia 
+
+10.95 12.57 A: uh i'm in rawley 
+
+12.23 13.32 B: you're in rawley 
+
+14.00 15.47 A: almost due south of you 
+
+14.26 15.05 B: (( wow )) 
+
+15.38 17.07 B: mhm mhm 
+
+18.56 20.01 B: (( yes so com- )) 
+
+19.36 21.27 A: our topic is 
+
+20.26 25.55 B: computers and how they and education how they help or hinder 
+
+21.97 23.23 A: education 
+
+25.15 26.88 A: mm or do they help and hinder 
+
+25.97 28.69 B: are good things are bad things 
+
+28.95 32.23 A: yes that's correct that's what i understand 
+
+29.29 30.20 B: mhm 
+
+30.77 31.84 B: yes 
+
+32.00 33.06 B: well 
+
+33.07 33.90 B: (( hm )) 
+
+33.88 35.34 A: i think they do both 
+
+35.39 38.66 B: i i would be inclined to agree um 
+
+38.60 43.65 A: like most things [laughter] you can abuse it it can be 
+
+39.52 41.07 B: [laughter] 
+
+43.86 45.64 A: implemented 
+
+44.91 47.11 B: mhm i i 
+
+46.36 46.98 A: (( [noise] )) 
+
+47.49 50.98 B: taught for a while and was interested in um 
+
+51.13 56.19 B: in how how it worked with students just you know um in terms of of 
+
+56.45 57.23 B: um 
+
+57.23 71.69 B: get com- get computers with kids with some kids and it you know engages them and suddenly you know it's it's not passive and they are all involved but then it's it can be a huge distraction it can be the only thing they learn [laughter] nothing else at all [laughter] 
+
+62.23 63.14 A: yes 
+
+70.50 80.62 A: [noise] that's true that's true um and it's also it can be very good for um additional assignments or for self paced studies 
+
+71.95 73.10 B: mhm 
+
+80.62 82.56 B: for pa- self pacing 
+
+82.16 83.62 A: for self pacing 
+
+83.23 84.02 B: (( mm )) 
+
+83.67 94.35 A: whereas certain individ- certain students may have additional drills that need be done that the rest of the class doesn't need to have so they it it can be done so 
+
+90.37 92.35 B: mhm yeah 
+
+94.75 98.26 A: you know you can help enhance the concepts going on [noise] 
+
+97.72 102.29 B: mhm i guess it it allows for a kind of infinite individualization 
+
+102.43 103.97 B: as long as the computer 
+
+104.10 112.50 B: knows what's going on with you and can kind of diagnose what you need i recall taking the the g._r._e.s on the computer 
+
+112.39 125.77 B: um they switched all the formats over to computers a couple of years ago and and now the whole test kind of formats your version of it you know depending on how many you have gotten right so far so no-one gets the same test 
+
+124.54 127.43 A: (( mhm )) 
+
+126.02 128.09 B: it's very much that story 
+
+127.72 130.31 A: well when i took it it was all paper and pencil 
+
+129.98 133.65 B: yes [laughter] i wish i had taken it then [laughter] 
+
+133.30 137.52 A: i have taken some other tests since then they were on liners 
+
+137.58 146.72 A: it's it's nothing like taking taking something on line and realizing that you're getting get instant rep- feedback as to what your score is 
+
+146.22 147.48 B: uh yeah i 
+
+147.70 149.56 B: i think especially with 
+
+149.86 154.04 B: with literature which is what i taught you just can't 
+
+152.03 152.73 A: (( mm )) 
+
+153.93 165.49 B: replace the you know kind of engagement of a person with a page and the ability to i mean especially to write notes and annotate and engage with the text in that way which um 
+
+165.74 168.68 A: well that especially within education uh 
+
+168.74 176.23 A: [mn] there's something different about having to put a thought proc- having to think about your thought process and be able to 
+
+176.26 184.15 A: expand that into the written word that's more difficult to do on the [noise] com- on on the com- on the computer other than a word processor of course 
+
+178.60 179.51 B: mhm 
+
+182.21 183.11 B: (( yeah yes )) 
+
+183.82 191.64 B: i actually now that i'm thinking of it i wonder if computers actually because you can only respond to them in a ways they in a way 
+
+191.81 195.44 B: um cue you to respond to them and i wonder if it actually limits 
+
+193.39 194.73 A: [noise] 
+
+195.74 197.75 B: um what you can learn 
+
+197.85 205.03 B: um you know in in ways that are more natural i don't know i guess natural is like the opposite of computer but [laughter] 
+
+204.24 212.63 A: well once again it's how you have it programmed also because you can set up things like almost like the the artificial intelligence aspect 
+
+207.40 208.34 B: mhm 
+
+212.62 223.99 A: so that as you get more and more into it it can [mn] learn as you're doing and also feed give you as you select different kinds of alternatives [noise] 
+
+224.63 228.19 B: this is like almost like choose your own adventure sort of like 
+
+225.09 226.80 A: go different paths that way 
+
+226.82 231.72 A: but some of that has to be programmed in to begin with um 
+
+229.71 230.90 B: yeah 
+
+231.75 235.61 A: and also but it has has to be approached that way also 
+
+235.98 241.86 A: the other thing too is that especially in the in the educational matters i have done some some teaching 
+
+241.99 242.98 B: mhm 
+
+242.24 253.42 A: but a computer doesn't necessarily know when you see a ch- see a child finally finally it hits hits them like a ton of bricks and they're starting to catch the concept 
+
+251.53 252.50 B: yeah 
+
+253.26 254.37 B: yeah 
+
+254.47 264.80 B: and i guess you you never have kids that that come home and remember they always remember that computer they they had in second grade [laughter] and not you know 
+
+262.92 264.85 A: (( yeah )) 
+
+264.90 265.79 B: the 
+
+265.14 269.09 A: and but once they get to middle school they never remember anything happening in school 
+
+268.36 277.40 B: [laughter] you sound like you have kids [laughter] huh it it must be do do you 
+
+272.35 273.34 A: (( yes [noise] )) 
+
+277.45 282.35 B: do your kids have a lot of computer involvement in the classroom or did they in their education 
+
+282.31 286.92 A: [sigh] um i don't know how much they had there we had all had computers at home too 
+
+286.74 287.60 B: (( aha mhm )) 
+
+287.39 299.96 A: but i think that for the most part they did have computer at least several computers in their classroom which they would take time [mn] time during the day in a lot of s- in the school system down here they tend to have centers 
+
+300.04 300.88 B: (( ahah )) 
+
+300.49 309.15 A: so at different parts of the day the children will be going using different assignments in a different part of the classroom to split s- s- s- split it out 
+
+308.41 311.06 B: so it so they're all kind of doing different 
+
+310.45 312.81 A: yes that's correct 
+
+311.39 314.66 B: things did did you feel pretty good about um 
+
+314.69 319.91 B: like the time taken for computer stuff with your kids did you feel like it was a good use of 
+
+320.00 322.15 B: of like class time 
+
+322.49 324.40 B: or did it did it ever feel 
+
+325.20 326.35 A: mm 
+
+325.82 328.81 B: you know like they were kind of having endless computer whatever 
+
+328.06 330.27 A: no i don't i don't prop- 
+
+329.04 330.67 B: i've always heard that 
+
+330.38 332.99 A: (( like do they have endless computer )) 
+
+332.62 343.38 B: or just kind of having too much unstructured computer time or that learning you know quote computer was taking away from learning other things sounds like you never felt like that 
+
+341.71 342.45 A: (( they )) 
+
+343.09 357.48 A: well i hadn't really i hadn't really thought about that some of that i think is just most of the time it's been more supplemental just getting used to the doing something and to be able do it and some of the things they do too is that they may have accelerated reader 
+
+350.11 351.07 B: mhm 
+
+357.37 359.73 A: tests that are on it for 
+
+357.52 358.32 B: (( ahah )) 
+
+360.11 369.18 A: supplemental aspects of of the schooling so is that really computer time yeah it is on the computer but it's you're taking a test 
+
+363.84 365.09 B: mhm 
+
+368.55 371.35 B: yeah it sounds like it's a lot um 
+
+371.42 379.44 B: kind of based on how it's structured and i yeah i've i've been teaching in in the philadelphia schools and you definitely have you know 
+
+373.14 373.99 A: yes 
+
+379.29 387.04 B: whole classrooms that just have you know tonnes of you know quote computer time when i don't know what the kids are doing i think they are just kind of 
+
+384.17 384.91 A: (( mm )) 
+
+386.54 394.10 A: oh yeah i- i- it should be a it should yeah and it should be a part an integrated part as to what the curriculum is actually doing 
+
+388.27 390.43 B: it's so much how you use it [laughter] 
+
+393.99 401.90 A: some aspects it's easier to use that for i have a scientific background and that tends [noise] to lend itself a lot easier to it than 
+
+398.31 399.36 B: yeah 
+
+402.20 410.25 A: pure literature there's there obviously certain certain formats or certain components of literature can lend itself very well to it 
+
+403.40 404.40 B: yeah 
+
+408.00 408.81 B: yeah 
+
+409.63 410.76 B: yeah 
+
+410.24 417.84 A: but obviously in like help identification of different writing styles but not necessarily the actual writing itself 
+
+417.80 419.96 B: mhm yeah i think especially in 
+
+420.05 421.00 B: um 
+
+421.45 425.02 B: i hear teachers complain especially in the early grades 
+
+425.17 433.57 B: you know that it's kind of all about how you use it that they feel like they are being required to [mn] make sure kids get computer time and and 
+
+433.35 441.63 B: because it's really important i mean everything you end up doing has some connection to it and like you were saying before like you'd have to be comfortable with the 
+
+438.35 439.94 A: yeah 
+
+441.29 442.84 A: yeah yeah you have your 
+
+441.91 448.97 B: basic feel and like not being afraid it's going to blow up which i certainly remember you know when i first started 
+
+444.57 445.28 A: (( [noise] )) 
+
+445.85 447.37 A: yeah 
+
+447.80 448.57 A: (( [noise] )) 
+
+449.56 454.56 B: i was older and i thought they were going to blow up all the time [laughter] you hit the wrong key 
+
+454.38 463.96 A: mhm well i have ve- i have had computers crashes have had them crash before on me but it's not because of what i did but because of the software itself 
+
+460.13 461.14 B: yeah 
+
+463.27 469.29 B: yeah it sounds like you also know you you know a bit about computers it sounds like your background 
+
+468.27 470.41 A: i've i've used them for years 
+
+469.81 474.55 B: sounds like you you know some things about programming and networks and all of that 
+
+473.65 482.45 A: yes i've done some i've done some of that i try not to do that too extensively i've been more of a user rather than a tech a techy although i was a techy 
+
+475.63 476.82 B: yeah 
+
+478.34 479.04 B: (( yeah )) 
+
+480.61 481.54 B: yeah 
+
+483.00 484.14 A: before 
+
+484.17 496.99 A: before they really came around but that's that's that's a different story but not but like it's as you were talking before talking before most things there's 
+
+486.40 487.23 B: huh 
+
+489.13 490.74 B: right yep 
+
+497.74 500.09 A: nothing is ever a panacea [mn] 
+
+499.54 500.38 B: yeah 
+
+500.13 502.17 A: (( any kind of advances that come )) 
+
+503.63 511.74 A: there's good parts of it and there's mis- and there's bad parts of it or misuses of it and seen some things that if you if you don't use it properly 
+
+507.52 510.87 B: (( mhm yeah i was going to say misuse of key )) 
+
+511.89 515.81 A: you're not going to get the benefit that you you would want it to be regardless of what it is 
+
+513.58 514.48 B: yeah 
+
+515.36 520.23 B: yeah or just poorly structured use or whatever absolutely 
+
+518.04 521.61 A: yeah that's well that's that's all or that's all been misuse 
+
+520.87 522.52 B: yeah absolutely 
+
+522.23 525.05 A: you're not using your resources appropriately 
+
+524.13 525.26 B: yeah 
+
+525.29 526.23 B: yeah 
+
+525.89 528.34 A: or like you know they're just sitting doing nothing 
+
+528.59 532.13 B: yeah which is really it's it's too bad if it isn't 
+
+532.21 533.72 B: it's not helping anyone 
+
+533.70 537.04 A: that's true that's true so you're you're no longer teaching 
+
+537.28 541.09 B: no i i i write full time now for actu- 
+
+539.83 541.88 A: okay what what are you what are you writing 
+
+541.69 546.14 B: well i write actually i write for an educational institution i i write for penn 
+
+546.02 546.77 A: mhm 
+
+546.21 548.34 B: um the university of pennsylvania 
+
+548.34 549.16 A: yes 
+
+548.45 551.56 B: just various external affairs sorts of things 
+
+551.58 552.40 A: mhm 
+
+552.08 552.84 B: so 
+
+553.14 555.77 B: so i do use a computer all day but it's for 
+
+553.29 553.93 A: (( mm )) 
+
+555.69 557.26 A: (( [laughter] )) 
+
+556.69 561.77 B: somewhat administrationary less than educational [laughter] uses 
+
+558.26 559.27 A: yes 
+
+560.37 561.86 A: right 
+
+562.72 574.22 A: well i do some i do a a some con- consulting work and i do it just for communication purposes and sending um doc- planning documents and so forth and [mn] it's 
+
+568.12 569.06 B: (( mhm mhm mhm )) 
+
+574.27 580.07 A: a great well like spreadsheets [mn] you you can't do that you can't do that stuff paper and pencil 
+
+579.78 581.61 B: right right 
+
+580.71 583.56 A: it would just it would just take far far too long 
+
+583.51 586.62 B: yeah you're definitely in the area where 
+
+586.75 599.89 B: the the computer is [laughter] constantly saving your life i'm sure in all sorts of ways [laughter] where yeah i i do feel um i i do feel very balanced about it it's it's not you know 
+
+591.14 593.73 A: [laughter] 
+

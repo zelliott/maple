@@ -1,0 +1,375 @@
+# fe_03_01819.sph
+# Transcribed by BBN/WordWave
+
+0.27 1.32 B: (( hello )) 
+
+0.81 2.48 A: hi [laughter] 
+
+1.89 3.14 B: hi i'm vila 
+
+3.00 4.00 A: you're phillip 
+
+3.89 4.97 B: (( vila )) 
+
+5.00 7.30 B: it's a nickname hi hi nice to meet you 
+
+5.02 6.56 A: vila hi i'm susan 
+
+7.41 8.23 A: [laughter] 
+
+7.54 9.21 B: um where are you 
+
+9.71 11.20 A: um i live in florida 
+
+10.81 13.63 B: oh okay i'm in washington state [laughter] 
+
+12.89 15.26 A: okay [laughter] well 
+
+15.41 22.30 A: uh education i was a teacher [laughter] so but it it was prior um computer era 
+
+17.03 18.08 B: oh 
+
+22.40 26.21 B: oh i'm a computer guy [laughter] 
+
+24.12 26.91 A: oh well then this might be interesting 
+
+26.58 30.82 B: because i actually work uh on the data that they collect from to study 
+
+30.51 31.67 A: mhm 
+
+31.03 34.10 B: and build speech recognition systems and 
+
+34.44 39.95 B: see how well we do in trans- building machines that transcribe these conversations 
+
+40.28 42.81 A: oh okay that's that's neat 
+
+43.54 44.56 B: (( yeah uh )) 
+
+44.44 45.34 A: (( well i mm )) 
+
+44.69 50.36 B: so when i first heard the topic it's interesting you said you were a teacher because i thought you know 
+
+50.86 56.03 B: computers are probably irrelevant and what's really important is the teachers you know 
+
+56.33 61.09 B: like the one thing that can make education good or bad is good or bad teachers 
+
+61.16 69.45 A: to to a great degree i i agree with you there but um i guess people have to learn how to adjust in the world and the world is computer literate 
+
+67.72 69.04 B: right 
+
+69.21 70.96 B: right 
+
+69.58 80.03 A: um i'm computer semi literate [laughter] i've got one i could do my email and i could you know search on a few things but i know my grandchildren 
+
+73.01 75.20 B: [laughter] 
+
+79.92 81.13 B: mhm 
+
+80.50 81.73 A: all use them 
+
+82.07 85.98 A: but not to the exclusion of um everything else 
+
+85.93 94.90 B: right yeah i i think yeah it's important that you know as i say a kid graduating from high school is able to use a computer 
+
+95.59 103.68 B: so in those terms i think there should be a subject of education like something you learn to use and be proficient in 
+
+103.41 107.16 A: well my kids my grandch- my oldest is thi- thirteen my youngest 
+
+107.38 115.20 A: uh is is like two [laughter] so i mean i mean they they're more even the four and five year old are more proficient in it than i am 
+
+114.96 118.02 B: [laughter] right yeah i mean kids pick it up really quick 
+
+117.64 121.80 A: yeah and they the the thing that i always thought when i went to school 
+
+121.69 122.49 B: (( ahah )) 
+
+121.91 125.47 A: and this and this maybe will have something to do with definitely with the topic 
+
+125.79 128.29 A: i i always felt that the 
+
+128.48 138.27 A: where where education was lacking was not necessarily teaching but in teaching people how to find things because the brain can just hold so much at any one time 
+
+132.80 134.03 B: mhm 
+
+137.22 139.11 B: right 
+
+138.41 140.90 A: so i think the computer is an excellent tool 
+
+140.69 142.34 B: mhm 
+
+141.60 144.73 A: um i never learned how to read newspapers properly 
+
+144.81 146.24 B: right 
+
+144.85 149.62 A: which was of course that was our main way of edu- of um finding you know um 
+
+149.97 151.36 A: of communication 
+
+150.97 152.31 B: mhm 
+
+151.65 152.85 A: (( years ago because i )) 
+
+152.95 163.42 A: i'm little bit older obviously [laughter] and i the t._v. and television just had come you know when i was i was a kid television had just come out it certainly wasn't the um information source that it is now 
+
+158.65 159.46 B: (( [laughter] ahah )) 
+
+164.73 167.34 A: so i definitely think computers need to be 
+
+167.46 169.18 A: in education and taught 
+
+169.62 175.83 A: um you know obviously the personal touch is important but i can't see how anyone is going to make it without it 
+
+175.74 189.02 B: right no i i just you know i think that it's just uh important not that it's important to learn people to use computers as tools i was when i heard the question what first came to mind was like 
+
+189.09 192.15 B: you know using computers to kind of 
+
+192.90 198.21 B: almost replace teachers like instead of you know investing in 
+
+195.70 197.63 A: oh i didn't think of it that way 
+
+198.27 200.33 B: getting better teachers to just 
+
+200.40 209.21 B: you know say okay let's just get a bunch of computer labs and you know that's going somehow magically make kids learn better [laughter] you 
+
+206.64 207.69 A: (( okay [mn] )) 
+
+208.02 214.63 A: i hear you in that respect yes i think you're right i i don't think there is any substitute for a good teacher 
+
+209.74 210.57 B: (( know )) 
+
+214.08 216.80 B: right but definitely they should 
+
+214.76 219.53 A: i i didn't think of that at all i didn't see i heard the question differently 
+
+216.92 217.63 B: (( they )) 
+
+219.25 227.05 B: right i mean i think i mean but i've i've talked to people who seem to think that you know 
+
+227.24 230.18 A: that they don't need the the the um human touch 
+
+229.82 240.11 B: right that you know that it's the end all and be all and that somehow and i think as far as teaching kids to use computers as tools 
+
+231.96 232.72 A: (( mm )) 
+
+239.66 244.06 A: right that's why then i think that i'm i'm more on your side in that respect 
+
+240.95 242.20 B: right 
+
+242.32 243.38 B: right 
+
+243.47 246.32 B: and even that i think 
+
+244.12 250.19 A: i didn't think of it at all as c- as computer being the the sole source of learning not at all 
+
+248.26 256.74 B: right or or you want like a medium of learning like replacing text books with like computer programs and things like that you think so 
+
+252.95 258.57 A: basically that that it it could help there but i think more more up to date stuff 
+
+258.13 259.50 B: right right 
+
+258.69 261.47 A: you know because you you can't keep up with history any more 
+
+261.28 263.54 B: [laughter] right 
+
+261.69 262.96 A: (( through the text book )) 
+
+263.58 274.33 A: but um and [mn] probably use it as good for teaching and stuff like that but i mean as far as maths we used to think when we when the kids took our computers not computers calculators that 
+
+273.30 274.16 B: right 
+
+274.43 276.52 A: in a way it has hurt them 
+
+276.67 285.25 A: because they don't have they may not know how to add they depend on the calculator but long as the calculator will always be around it will help but i still think they have to have an understanding 
+
+276.96 278.00 B: right 
+
+279.59 280.94 B: right 
+
+284.77 286.60 B: right exactly i mean 
+
+286.24 289.31 A: and the only way you can do that is with the personal touch 
+
+288.66 292.95 B: yep yep and the other thing i was thinking was you know if you 
+
+293.36 297.97 B: i think there's uh probably going to be a big difference um as far as 
+
+298.12 308.21 B: um rich kids and poorer kids go because with richer kids they're probably having access to a computer at home and kind of um 
+
+308.23 320.36 B: you know they will pick it up almost by themselves because they have been exposed to it whereas poorer kids who don't have access to a computer at home i think they're the ones with the most to gain from 
+
+310.55 311.31 A: mhm 
+
+320.68 323.98 B: you know computers being taught at school 
+
+322.87 324.33 A: in school mhm 
+
+324.55 326.02 B: (( because [mn] )) 
+
+324.94 330.54 A: right because then they will have the access to it or even at a library and maybe you know stir their interest in it mhm 
+
+326.52 327.98 B: right i mean 
+
+328.88 331.84 B: right and the public library for example i think is a great idea 
+
+332.67 336.46 B: because i mean growing up i was lucky enough to you know my 
+
+336.06 337.25 A: how old are you 
+
+337.00 339.96 B: i'm [laughter] i'm twenty eight 
+
+339.58 344.64 A: yeah okay my my son is thirty eight so it gives you an idea mhm 
+
+340.00 341.19 B: and 
+
+342.73 349.54 B: right so um i i actually grew up to sri lanka which is kind of a developing country but 
+
+349.45 357.79 B: i was lucky that my dad bought a computer when i was in third grade and i got hooked onto it 
+
+357.87 368.88 B: and so even though i didn't have exposure to computers at school like formally i'd play around with it at home and use it for various things 
+
+369.05 377.52 B: and you know we didn't have internet or anything like that but just just even just playing games on the thing really helped me kind of get used to using one 
+
+377.25 389.52 A: right not be afraid of it the first time i ever touched one was when i i i worked started work about nine years ago at i [mn] not being i i stopped being a teacher when i moved down here i raised my children 
+
+378.46 380.17 B: right exactly 
+
+383.86 384.55 B: (( ahah )) 
+
+388.07 389.23 B: right 
+
+389.60 396.60 A: i used to be from new york [laughter] and um i went i got a job in in sales but the you know in a very 
+
+390.92 391.83 B: okay 
+
+394.74 395.67 B: mhm 
+
+397.30 400.55 A: easy computer basically very basic type thing 
+
+400.58 405.44 A: and um once i learned not to be afraid of it that i couldn't you know that it could find things 
+
+405.22 406.17 B: right 
+
+405.58 419.41 A: then i was at ease with it and which helped me become more at ease with the one at home i still can't find when i send something somewhere i often can't find it and i'm surprised when i can i know if someone would just sit down with me i could but um 
+
+407.12 408.46 B: right 
+
+414.70 417.12 B: [laughter] 
+
+418.02 419.29 B: right 
+
+419.52 421.57 A: for what i need it it works 
+
+421.33 422.55 B: right 
+
+421.92 424.26 A: as i said i'll probably get my kids here to help me 
+
+424.23 428.13 B: [laughter] yep yeah 
+
+424.42 426.70 A: (( my grandchildren to help me some day )) 
+
+427.52 437.30 A: but uh no as replacements no i'm i'm completely against that but as an addition to and an important addition to i think that they need to have computers 
+
+431.52 432.67 B: right 
+
+437.90 440.80 B: and like do you how 
+
+441.11 443.81 B: how early and how much do you think 
+
+443.85 455.85 A: how early as much as they are willing to bear i i said i have a [mn] a little um one granddaughter who's well now she's five but when we went to one of the museums hands on museum 
+
+454.37 455.06 B: (( ahah )) 
+
+455.74 456.80 B: yeah 
+
+455.99 459.79 A: and she was able to go they had a computer geared toward that age 
+
+459.51 460.86 B: oh wow 
+
+460.18 464.98 A: and they weren't afraid of it at all i mean and it was just simple things you know it had pictures 
+
+465.29 470.09 A: you know and [mn] if something that matches it you know matching colors matching um 
+
+465.32 467.08 B: right 
+
+470.23 482.10 A: shapes letters uh they they can start very early my my two year old uh granddaughter um she's helped her parents use it so i'm sure she's not going to be afraid of it at three 
+
+471.20 472.05 B: right 
+
+474.01 475.11 B: oh wow 
+
+482.24 483.98 B: right 
+
+483.04 488.81 A: and they do have enough gear well you're in the business you must know they gear computers way down 
+
+488.70 490.74 B: i didn't know that actually 
+
+490.15 493.70 A: oh they do yeah they have programs for li- uh for preschoolers 
+
+493.37 495.84 B: oh [laughter] 
+
+495.35 503.66 A: and it's not scary it's actually fun they actually enjoy it and then by that time they are ready to [mn] have it an information tool they're not afraid of it 
+
+496.81 497.97 B: right 
+
+502.40 503.21 B: (( ahah )) 
+
+503.78 505.73 B: (( right yes )) 
+
+505.13 506.99 A: they learn how to use the mouse 
+
+506.85 508.16 B: (( yeah the what )) 
+
+507.08 509.57 A: it it's much easier type thing 
+
+509.70 513.13 B: the one thing i have seen is uh language learning programs 
+
+513.13 514.21 A: mhm 
+
+513.57 517.40 B: and there i've seen like it seems to really help because 
+
+517.52 526.21 B: um it listens to you pronounce words and tells you when you you know it helps you get the accent down right and 
+
+525.71 528.17 A: oh they they actually i didn't know they had that 
+
+527.58 536.34 B: yeah like the i was playing around with a spanish program and it just makes you repeat and then you know it will play back what you said and how you should have said it 
+
+535.45 540.63 A: see now we both learned something you didn't know there were preschool and i didn't know there was computers that can hear 
+
+536.95 538.58 B: [laughter] 
+
+540.81 545.27 B: oh well yeah the reason i knew about it is because that's exactly what i work in so [mn] 
+
+541.90 544.01 A: well basically you know and 
+
+545.87 551.50 B: so i i was keeping track of things what that it actually gets used to used for 
+
+551.25 552.03 A: oh 
+
+551.76 553.09 B: but um 
+
+553.41 556.68 B: yeah and i thought that was a kind of really neat 
+
+555.77 558.80 A: so it can actually teach you can actually learn a language on the computer 
+
+557.83 567.05 B: yeah you can really learn a language but i still wonder whether so these are designed primarily for people who who are not taking a language class or just sitting at home and trying to learn a language 
+
+567.48 569.76 B: and i still wonder 
+
+570.11 571.31 B: whether 
+
+571.34 575.87 B: you know how well that would integrate into a class where there's a real live teacher 
+
+575.62 583.48 A: right it would be i think that would be a little bit difficult they could learn the basics but the slang words and the expressions and stuff probably wouldn't translate very well 
+
+579.52 581.39 B: right 
+
+581.59 585.38 B: right yeah exactly um 
+
+585.43 591.03 B: i guess you know if i was a teacher and i had thirty students in a spanish class then this would kind of help because 
+
+592.10 595.39 B: you know it's hard to hard to give the kind of attention 
+
+596.62 599.89 B: with that many so i guess it would be kind of like a multiplier 
+
+596.81 597.73 A: right 
+

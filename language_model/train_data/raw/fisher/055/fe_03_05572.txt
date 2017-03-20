@@ -1,0 +1,411 @@
+# fe_03_05572.sph
+# Transcribed by BBN/WordWave
+
+0.40 1.36 B: (( hello )) 
+
+3.32 4.42 B: (( hello my name's kel )) 
+
+3.67 5.26 A: (( [noise] hello )) 
+
+5.06 6.27 B: (( hey what's up man )) 
+
+6.14 7.09 A: hey 
+
+6.72 8.19 B: my name's kelvin 
+
+7.93 9.11 A: kelvin 
+
+8.49 9.69 B: yeah 
+
+9.14 10.37 A: hey i'm mark 
+
+10.11 12.68 B: hi so how you doing man 
+
+12.80 14.33 A: i'm doing fine man 
+
+13.91 17.33 B: oh where you at tha- you ain't you ain't in wisconsin -sin 
+
+17.28 19.30 A: i'm in atlanta 
+
+18.40 21.88 B: oh atlanta oh okay okay what's the topic for the day 
+
+21.88 23.62 A: and where are you at 
+
+22.91 24.73 B: i'm in new york city 
+
+24.17 32.79 A: new york city oh man you're going to have a whole different idea about it than i am the topic's supposed to be what changes we've made since september eleventh 
+
+24.99 26.16 B: (( yeah [laughter] )) 
+
+28.28 29.92 B: (( [mn] yeah so )) 
+
+33.19 42.38 B: okay well well what i do out here and i i still feeling sorry for it but um what i do i try to ke- ke- 
+
+42.55 44.22 B: (( stay alert )) 
+
+44.30 48.78 B: um be nice to people and try and help those who um 
+
+48.94 55.76 B: have been damaged by that because i had a lot of friends and that have families and then some of my friends themselves uh 
+
+56.01 58.57 B: is uh was taken down in that 
+
+58.00 59.43 A: no shit man 
+
+58.79 63.84 B: and uh and yeah they have children still you know they're still going through it 
+
+63.18 67.05 A: [noise] [noise] i'm sure i'm sure [noise] that's [noise] [noise] 
+
+64.36 65.44 B: yeah 
+
+65.59 70.33 B: so i i'm i i ain't too much i can do but just pray god you know 
+
+70.35 72.33 B: for them 'cause i i got um 
+
+72.64 81.43 B: um health his- health issues myself right now but it ain't from that but my body ain't strong enough to be uh you know running all around so 
+
+81.61 85.03 B: (( so i just do is all i do is give my moral support )) 
+
+84.97 87.15 A: right right 
+
+86.02 88.37 B: (( yeah what you being like )) 
+
+87.64 95.03 A: you know man my life hasn't changed a single bit not a single thing has changed about my life 
+
+91.11 92.46 B: (( it hasn't [mn] )) 
+
+95.71 97.63 A: it's you know it's it's 
+
+98.21 103.96 A: [mn] and i i work in disaster relief too so i know exactly what y'all are going through 
+
+101.24 102.19 B: (( oh yeah )) 
+
+103.51 105.27 B: (( yeah it's bad up here right [noise] right )) 
+
+104.38 112.47 A: but but i also know that that things such as that are so localized 
+
+112.85 116.89 A: that they really have so much effect on on a few people 
+
+117.18 120.72 A: in that local area but they really don't have that much effect 
+
+121.24 122.30 A: um 
+
+122.92 127.56 A: all over the the rest of the country although some people are affected deeply by it 
+
+126.96 128.17 B: yeah 
+
+127.70 130.13 A: but but i knew that 
+
+130.19 134.41 A: [mn] i guess what i'm thi- saying is that from a standpoint of uh 
+
+134.54 145.76 A: statistical stuff is you know three thousand people died which affects probably you know maybe fifty thousand people directly 
+
+140.43 141.31 B: (( right right )) 
+
+145.38 146.75 B: uh-huh yeah 
+
+146.12 152.12 A: and but we have three hundred over three hundred million people in this country and that's not very big 
+
+151.91 152.92 B: (( yeah yeah yeah )) 
+
+152.21 160.55 A: really but if you were there and you know people that have been affected it's going to be devastating every bit of it 
+
+159.98 162.31 B: (( yeah yeah and constantly having )) 
+
+162.85 165.10 B: (( especially with the small children )) 
+
+165.00 166.03 A: uh-huh 
+
+165.33 171.83 B: you know those the ones that you those the ones you be trying really really reach out and touch and you 
+
+170.73 174.09 A: right 'cause they don't understand why all this has happened 
+
+173.49 176.80 B: (( yeah [noise] )) 
+
+174.39 176.09 A: yeah 
+
+177.28 180.01 B: [noise] so what's how's things down there though 
+
+180.50 181.65 A: what's that 
+
+181.02 183.31 B: (( how is things there yeah )) 
+
+183.25 184.54 A: hold on a sec 
+
+184.18 184.96 B: (( [noise] )) 
+
+185.61 186.76 A: [laughter] 
+
+188.38 190.03 A: [noise] say that again 
+
+189.69 191.54 B: how is things in atlanta 
+
+191.19 193.12 A: oh atlanta um 
+
+192.12 194.90 B: yeah how how were you all affected by it down there 
+
+194.68 196.66 A: [mn] you know atlanta 
+
+197.26 199.30 A: i don't know i think there's um 
+
+198.37 200.45 B: (( [laughter] )) 
+
+199.55 210.79 A: there's different things going on here from from the standpoint of the way people f- are affected i think some people in in the suburbs of re- of atlanta are really affected uh 
+
+204.64 205.60 B: (( yeah [noise] )) 
+
+210.95 216.13 A: deeply by it thinking that they are the next ones to get hit 
+
+215.89 217.42 B: (( right )) 
+
+216.44 221.16 A: and i think the people in in the city of atlanta think that you know 
+
+220.88 222.06 B: (( yeah [noise] uh-huh )) 
+
+221.73 223.00 A: uh 
+
+224.41 226.63 A: chances of getting hit are slim 
+
+226.42 227.34 B: (( [noise] [noise] right )) 
+
+226.72 234.39 A: we just live our lives day to day i actually live you know i i say this affectionately i live in the hood in atlanta um 
+
+232.70 234.70 B: (( right [mn] [noise] right )) 
+
+235.46 244.69 A: kind of a transitional neighborhood it's predominantly black and and we all just kind of live our lives day to day just like we always did 
+
+238.69 239.66 B: (( uh-huh [noise] )) 
+
+244.21 257.17 B: yeah that's cool 'cause up up here just um they they telling us now right that the terrorists is threatening to come back up here [noise] and do something [noise] to new york again so we try and keep it you know 
+
+252.77 253.69 A: right 
+
+257.59 269.87 B: [noise] they getting a little nervous they is nervous before because [noise] okay we got national guards and they'll be running around with rifles or something [noise] and so [noise] we gotta be 
+
+268.60 272.87 A: absolutely well you know you guys actually got hit by the whole thing 
+
+271.63 275.10 B: yeah yeah and then they talk about coming back again too 
+
+275.02 276.75 A: yeah yeah 
+
+277.08 285.27 A: i you know there's there's los angeles and there's d._c. and there's a few other big places but i you know i can't really imagine 
+
+277.38 279.05 B: [noise] 
+
+280.67 285.17 B: (( yeah right [noise] [noise] [noise] )) 
+
+285.36 286.68 B: (( [noise] [noise] )) 
+
+285.40 288.71 A: terrorists and you know attacking like uh 
+
+288.45 293.25 B: (( [noise] yeah but a lot of them is right here in the city here [noise] )) 
+
+290.98 291.83 A: yeah 
+
+292.05 298.76 A: atlanta's a big city and i can see them maybe doing that but i really don't see them attacking any small town america 
+
+297.13 298.04 B: (( yeah ye- )) 
+
+298.28 300.44 B: (( yeah )) 
+
+298.87 304.61 A: and small town america's probably the most fearful of anybody i've i've really come across 
+
+303.21 305.23 B: what which town 
+
+305.97 311.71 A: um not any particular town but just any um small town that's that 
+
+306.05 306.79 B: (( [noise] )) 
+
+310.62 321.80 B: huh well they they they like to hit this one because this is the one where the money is you got wall street and dow jones avenue and all that that's what yeah that's what yeah 
+
+314.62 315.70 A: oh yeah 
+
+319.02 320.50 A: absolutely 
+
+320.97 325.79 A: yeah those they're definitely um they targeted new york for that reason for sure 
+
+325.88 326.86 B: (( try )) 
+
+326.10 328.99 A: because they wanted to mess with the e- economic goal 
+
+328.51 329.78 B: (( to ye- )) 
+
+329.62 333.21 A: yeah absolutely you know they they weren't stupid people 
+
+330.85 331.58 B: (( yeah yeah )) 
+
+332.88 334.82 B: i know they was evil 
+
+334.90 336.85 A: [laughter] 
+
+335.35 341.04 B: [laughter] that's some evil shit if you do it you go around do that shit all them people 
+
+338.38 339.37 A: yeah 
+
+341.10 347.31 B: [noise] innocent people people of all races creed and color [noise] yeah that's horrible 
+
+344.80 346.30 A: uh-huh uh-huh 
+
+347.91 357.21 A: yeah you know but it there's a lot of evil in the world and is it and some of the evil is right next door some of it's in your own household if you're not careful you know 
+
+348.50 349.46 B: [noise] 
+
+356.35 358.22 B: (( so [noise] yeah )) 
+
+358.31 362.80 A: i've had some evil that was living here with me and that evil's finally gone 
+
+360.16 362.16 B: (( it is [laughter] )) 
+
+362.45 364.64 B: [mn] [noise] gone 
+
+363.65 369.29 A: and i'm happy for that but you know i still have to deal with the fact that that evil touched me on every single day 
+
+365.18 366.01 B: (( uh-huh )) 
+
+366.28 368.20 B: (( right )) 
+
+369.01 369.59 B: (( [noise] )) 
+
+370.88 372.00 A: (( you know it's it's )) 
+
+371.30 374.12 B: right [noise] right 
+
+373.03 378.04 A: you know losing losing people and my mother just lost her husband 
+
+377.39 378.82 B: (( [noise] ah )) 
+
+378.65 390.74 A: you know you you lose people whether it's through death or or a breakup or whatever it's it's a painful thing no matter if it comes from terrorism or just the fact that you don't get along anymore 
+
+379.21 380.49 B: (( uh-huh right )) 
+
+382.02 384.25 B: (( that's right )) 
+
+390.33 392.12 B: yeah 
+
+391.02 392.93 A: it's the same kind of deal 
+
+393.15 396.83 B: [noise] yeah i got all the evil for me i i i stay by myself 
+
+393.28 394.25 A: and we 
+
+396.65 397.68 A: yeah 
+
+397.11 405.68 B: yeah [noise] i have my own little par- uh apartment [noise] i just got it well this one i just got here um two days ago [noise] 
+
+405.22 406.25 A: oh yeah 
+
+405.62 413.82 B: (( [noise] yeah we got a lot of knuckleheads running around here [laughter] but i try to [noise] you know go around them )) 
+
+408.70 410.42 A: [laughter] 
+
+414.16 421.81 B: (( [noise] 'cause there ain't nothing they doing interest to me anyway [noise] they running around acting stupid and everything [noise] but i just go right on around them )) 
+
+419.37 420.38 A: right 
+
+421.84 433.93 B: (( [noise] after i finish this i'm going to go down to um i'll wait for a a delivery then i'm a go to go down manhattan and you heard of manhattan right oh yeah you know where [mn] and um )) 
+
+431.34 432.32 A: oh yeah 
+
+433.78 435.42 A: been there [laughter] 
+
+434.38 436.87 B: (( [noise] yeah go down and hang out you've ever been up here [noise] )) 
+
+436.63 437.84 A: oh yeah 
+
+437.49 438.97 B: (( how you like )) 
+
+438.90 446.75 A: uh i do like it uh i was i would like to um spend some time there for significant time so i could get to know it better 
+
+446.21 447.98 B: (( it yeah )) 
+
+446.95 448.44 A: you know it uh 
+
+448.86 456.66 A: the way i am is i like to travel places but i want to travel there for a long period of time i don't want to just go there for a week or something 
+
+451.73 452.92 B: (( [noise] yeah )) 
+
+456.04 459.04 B: (( [noise] right )) 
+
+456.78 465.00 A: i i want to go there for a couple of months i want to start to to learn about the the place i'm at to learn about the different neighborhoods to learn about the different 
+
+465.07 468.33 A: areas and whatnot you go for 
+
+465.16 465.87 B: (( right )) 
+
+466.03 468.22 B: (( [noise] yeah )) 
+
+468.67 474.61 A: just for a week and and basically you s- get stuck in the tourist areas and you don't really touch anybody 
+
+470.49 472.46 B: (( mm [noise] )) 
+
+474.26 476.19 B: (( [laughter] yeah you got )) 
+
+475.75 483.58 A: and it's no fun you know it's the people that matter it's not the not the damn bars and restaurants that you go to it's the people that you talk 
+
+476.27 477.48 B: (( that [noise] )) 
+
+483.59 484.65 B: uh-huh 
+
+484.55 493.40 A: to so that's that's what i'd rather do but it's hard to get that do- done sometimes you can't always do that on your trip but i do my best 
+
+487.50 488.71 B: (( [noise] mm )) 
+
+492.97 499.92 B: well that's good well we moved round here was the tragedy brung a whole lot of the people in the city together closer 
+
+498.65 499.96 A: (( [noise] uh-huh )) 
+
+500.01 506.75 B: after all that we can move around ain't the crime um crime against each other here has dropped now it's um 
+
+507.09 511.68 B: (( oh yeah it's a lot of them that um have businesses here )) 
+
+511.71 514.92 B: (( like a lot of uh people from pakistan )) 
+
+511.89 512.61 A: (( yeah )) 
+
+515.00 515.90 A: uh-huh 
+
+515.01 521.65 B: or or people from um their countries that that [noise] that's headed guys with businesses 
+
+518.45 519.41 A: yeah 
+
+521.60 530.50 B: uh that's where the crime is mostly going down but even though this has kind of slowed down because they got they made uh a law against it a 
+
+530.81 539.35 B: stricter law where you get locked up so we don't bother them too much uh they's kinda quiet up here right now that's good 
+
+538.76 542.29 A: well that's the thing about new york city you have people from all over the world 
+
+541.89 544.49 B: yeah everywhere yeah 
+
+543.40 548.13 A: yeah it's the only really international city in this in the united states 
+
+546.13 549.66 B: (( [laughter] yeah yeah everywhere )) 
+
+548.37 553.88 A: uh everybody else likes to think they're international cities but new york is the only one 
+
+553.63 561.28 B: (( uh-huh yeah [noise] that's right so tell me a little so tell me a little bit about down there before before they cut off a )) 
+
+561.54 563.46 A: tell us about about what 
+
+562.99 564.78 B: little bit about down there 
+
+564.65 573.64 A: down here um we're much more um homogeneous um we do have pockets of like jamaicans and and asians and uh 
+
+565.60 567.70 B: (( yeah i ain't never been there [noise] [noise] )) 
+
+574.07 578.60 A: and stuff like and uh let's see what else africans 
+
+578.29 580.09 B: (( yeah )) 
+
+578.88 587.29 A: different pockets but you know they they tend to stay out in the suburbs they don't come down to the city the city is kind of sterile in that way 
+
+584.69 585.63 B: (( oh )) 
+
+587.39 588.35 B: (( oh what )) 
+
+587.52 592.01 A: you know in in new york it's it's all right there in the city where everything's happening 
+
+590.69 593.40 B: (( yeah yeah everybody [noise] )) 
+
+593.00 597.15 A: right and everybody's got their place but here it's they it's [noise] 
+
+597.69 599.89 A: everybody avoids the uh the city 
+

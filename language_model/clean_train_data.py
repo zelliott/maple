@@ -105,11 +105,43 @@ def clean_medline():
 	training_corpus = convert_file_to_lines(training_corpus)
 	to_write.write(training_corpus)
 	to_write.close()
+ 
+def clean_fisher():
+    to_write = open(train_data_clean_path + '/fisher.txt', 'w')
+    training_corpus = []
+    fisher_raw_dir = train_data_raw_path + '/fisher'
+    
+    for conversation_dir in os.listdir(fisher_raw_dir):
+        conversation_dir_path = fisher_raw_dir + '/' + conversation_dir
+  
+        for conversation in os.listdir(conversation_dir_path):
+            f = open(conversation_dir_path + '/' + conversation)
+            # do the parsing here
+            conversation = []
+            f = f.read().split()
+            for i in xrange(7, len(f)) :
+                if (not (f[i] in ["A:", "B:"]) and (not ('.' in f[i]))) :
+                    conversation.append(f[i])
+                
+            training_corpus = training_corpus + conversation
+            print len(training_corpus)
+            if len(training_corpus) > corpus_size:
+                break
+        if len(training_corpus) > corpus_size:
+            break
+    if len(training_corpus) > corpus_size:
+        training_corpus[:corpus_size]
+    print len(training_corpus)
+    training_corpus = ' '.join(training_corpus)
+    training_corpus = convert_file_to_lines(training_corpus)
+    to_write.write(training_corpus)
+    to_write.close()
 		
 
 # clean_brown()
 # clean_gutenberg()
-# clean_nytimes()
+#clean_nytimes()
+clean_fisher()
 # clean_medline()
 
 

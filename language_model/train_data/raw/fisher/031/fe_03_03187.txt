@@ -1,0 +1,381 @@
+# fe_03_03187.sph
+# Transcribed by BBN/WordWave
+
+1.99 3.51 B: (( 'allo )) 
+
+3.24 5.54 A: hi how are you 
+
+6.00 11.05 B: i am well [mn] it's a strange little study isn't it hold on [mn] 
+
+10.33 11.39 A: what's that 
+
+11.59 14.17 B: strange little study because 
+
+13.17 16.00 A: yeah yeah definitely what's your name 
+
+15.71 16.44 B: mike 
+
+16.54 17.82 A: mike i'm chris 
+
+18.02 27.52 B: hey chris [mn] i'm from seattle [noise] the oddly contrived topics to get one to speak relatively freely so you don't think about what they're really monitoring 
+
+18.18 20.11 A: cool where are you from 
+
+21.61 22.74 A: oh cool 
+
+27.47 29.56 A: yeah exactly yeah [laughter] 
+
+28.80 30.70 B: [laughter] 
+
+30.29 32.15 A: so do you have any pets i guess 
+
+32.06 35.83 B: oh yes i have several i have three cats 
+
+34.35 35.21 A: cool 
+
+37.60 39.28 A: cool uh what's their names 
+
+39.56 41.74 B: uh simon baxter and homie 
+
+42.14 43.33 A: cool cool 
+
+44.35 49.03 A: yeah uh i used to have a rabbit but uh she died last december [laughter] 
+
+49.07 51.30 B: oh how allegorical 
+
+50.69 56.65 A: yeah yeah she was she was nice and old though she was like eight and uh like eight and a half years old so 
+
+56.84 58.03 B: ah 
+
+57.68 59.17 A: (( yeah but uh )) 
+
+58.89 62.27 B: yeah mine are getting old they're all about eighteen 
+
+62.31 63.46 A: wow 
+
+63.36 64.56 B: yes 
+
+64.57 65.34 A: (( cool )) 
+
+64.57 70.08 B: it's funny w- they're two of them are siamese and the other one's um some random mutt um 
+
+69.69 70.98 A: (( yeah )) 
+
+70.70 84.76 B: the siamese tend to live a lot longer so i've got one that's that looks like a freaking mummy he's all and he's dropped down to a pound and a half and doesn't move a whole lot and the other two are still you know leaping up on to the roof [laughter] so 
+
+79.26 80.37 A: wow 
+
+80.85 81.69 A: yeah 
+
+83.69 85.17 A: right yes [laughter] 
+
+85.45 86.66 A: cool cool 
+
+87.41 89.74 A: yeah so do you spend a lot of time with them or 
+
+90.35 94.27 B: oh well they spend a lot of time with me i mean they're cats they're 
+
+94.20 108.74 B: semi-autonomous creatures right oh [laughter] but i write code for a living so i spend a huge amount of time sitting relatively still with a laptop and invariably there'll be one or two of them hanging out and trying to help 
+
+96.13 97.43 A: right yeah 
+
+98.16 99.10 A: (( definitely )) 
+
+104.43 105.28 A: okay 
+
+108.46 110.59 A: right right 
+
+111.20 112.23 A: cool 
+
+113.07 118.00 A: yeah i don't know we we also i'm in i'm in college here i i'm in philadelphia 
+
+118.23 119.49 A: (( and uh )) 
+
+119.69 130.10 A: we have a my friends have like a guinea pig so [laughter] we're always messing around with that but other than that no pets really we're not really supposed to have pets in here i think they just kinda snuck him in so 
+
+123.21 123.97 B: (( cool )) 
+
+130.90 133.29 B: yeah [laughter] 
+
+131.95 132.93 A: yeah 
+
+133.83 136.11 B: oi so which college in philly 
+
+136.07 137.38 A: uh u. penn 
+
+137.60 140.47 B: oh cool i got a couple of friends that are from u. penn 
+
+138.57 139.52 A: yeah 
+
+140.40 141.47 A: oh really 
+
+141.38 143.40 B: yeah 
+
+142.66 143.84 A: cool cool 
+
+144.55 147.85 B: yeah it's it's kinda weird i mean there's the there are the big 
+
+144.70 145.53 A: yeah 
+
+147.94 153.07 B: three that you tend to see people from cal tech m._i._t. and ah 
+
+153.41 154.47 B: stanford 
+
+154.64 155.76 B: but 
+
+154.78 157.08 A: oh yeah on the west coast that's true 
+
+157.21 164.16 B: yeah well at at microsoft you know we get you know those are the those are the big three um computer schools for them 
+
+159.49 160.72 A: oh yeah oh 
+
+162.38 165.12 A: are you near are you near redmond or no 
+
+165.23 168.45 B: oh i i work at microsoft corporate redmond 
+
+167.79 178.60 A: oh do you really i just uh i take like a management one oh one class and uh that was that was like the last case was how you guys took over i don't if you know front page came vermeer technologies 
+
+168.99 170.66 B: yeah 
+
+178.43 184.19 B: yes i know that [laughter] i was actually in the acquisition [laughter] 
+
+182.27 185.27 A: (( really get out )) 
+
+184.95 185.56 B: (( yeah )) 
+
+185.51 187.05 A: that's incredible [laughter] that's 
+
+186.76 188.86 B: (( [laughter] oh )) 
+
+188.50 191.49 A: (( really cool what was your name maybe and maybe i read about you i don't know )) 
+
+191.77 195.02 B: no i was i'm a dev i would be behind the scenes 
+
+194.90 196.09 A: uh okay 
+
+196.17 198.68 A: but you were part of microsoft and then you 
+
+196.79 197.72 B: but 
+
+198.45 208.87 B: i was part of microsoft i did some of the analysis on the on vermeer's technology but yeah but i think spyglass was a bit of a better purchase i mean 
+
+204.18 205.14 A: yeah 
+
+209.02 216.24 B: front page actually sells reasonably well but god do i loathe the technology it's it's a security nightmare 
+
+211.47 212.34 A: uh-huh 
+
+216.37 219.60 B: [laughter] well 
+
+216.70 218.03 A: (( r- really )) 
+
+219.83 229.84 B: so it throws a bunch of crap on to the server to allow remote managements it's been it's essentially how front page is the client software reaches up and creates the websites 
+
+230.15 237.13 B: well that means you're giving pretty open control of one server to anyone who wants to use it 
+
+236.96 238.12 A: (( oh )) 
+
+237.10 251.75 B: and right and the protocol is horribly loose and it's hard to upgrade these things because of back you know you if we actually locked down a protocol to you know do everything via some sort of authenticated encrypted law 
+
+251.67 260.18 B: um all of the existing deployments and peop- and a lot of companies have very large scale um like document flow written around this now 
+
+260.10 273.08 B: all of that would break so on the one hand there's this huge open issue with like most of the i._s._p.s out there not wanting to host front page because it's just you know it's an open invitation to let people take your servers over 
+
+273.54 278.30 B: and on the other hand if we upgrade it we screw a bunch of existing clients so 
+
+278.70 279.88 A: (( oh okay )) 
+
+279.06 280.52 B: (( what a pain in the ass )) 
+
+280.49 281.55 A: yeah 
+
+280.83 284.24 B: [laughter] spyglass worked out a little better except for the whole 
+
+284.55 290.12 B: um lawsuit thing [laughter] 
+
+286.84 287.78 A: right 
+
+288.84 296.71 A: that's really cool though that's it's a small world [laughter] 'cause yeah we're reading all about i don't know chris peters is a manager is that right 
+
+292.06 292.90 B: (( mm )) 
+
+296.11 297.59 B: (( mhm )) 
+
+296.96 305.73 A: yeah and like randy frogard i'd i'd just i'm just thinking picking the names there's so much material that yeah it's really cool 
+
+305.66 310.01 B: it's funny those are names i haven't heard in a while [laughter] 
+
+306.19 307.18 A: (( but i )) 
+
+308.22 315.46 A: [laughter] who's are they all still part of the uh the company or did a lot of them drop out yet or 
+
+315.19 319.37 B: you know i've i honestly don't know i haven't thought of either of those guys in 
+
+320.06 323.38 B: five years [laughter] been 
+
+321.53 322.54 A: (( really )) 
+
+322.61 324.01 A: (( yeah )) 
+
+323.95 333.66 B: you know when you work eighty to a hundred hours a week five years is a really long time [laughter] like dude that's a million lines of code ago 
+
+328.01 331.68 A: that's true that's true so much happens in between yeah 
+
+333.42 335.23 A: [laughter] 
+
+334.61 337.17 B: [laughter] 
+
+335.85 338.85 A: do you uh is that do you work like eighty hours a week 
+
+339.35 349.39 B: uh there are times when you're waiting for management to figure out what we're doing next i mean software kind of runs in in cyc- did you just drop off 
+
+349.97 362.78 B: nope you're there um software kind of loops through cycles and there are times where you're not really there's nothing to really dev so you're kinda like hanging around rolling in at noon leaving at three barbecuing a lot working in the yard and giving you 
+
+362.66 374.85 B: reading specs and giving input on what people think they want to do next and then you get down to the part where you actually have to do work and yeah you'll spike up to doing i think my longest week so far is a hundred and sixteen hours 
+
+366.46 367.69 A: right right 
+
+369.19 370.24 A: mhm 
+
+374.82 376.01 A: yeah 
+
+375.03 385.48 B: that would be all of them [laughter] actually that's not true the longest the longest single block of time i've ever worked was not when i was doing software it was when i was doing intelligence 
+
+377.28 378.27 A: wow 
+
+385.53 395.64 B: um the wall came down in eighty nine and i was doing intercept analysis for uh seventeen straight days 
+
+395.35 396.46 A: wow 
+
+396.16 401.66 B: [laughter] no sleep lots of speed [laughter] 
+
+396.98 397.85 A: (( oh shit )) 
+
+399.26 400.24 A: yeah 
+
+400.59 401.80 A: [laughter] 
+
+402.76 403.93 A: wow 
+
+404.89 406.10 A: that's crazy 
+
+405.39 419.28 B: yeah the government has really good speed [laughter] we would come up with some really interesting things to make sleep not necessary [laughter] but with all the drawbacks of actually doing speed like rabid paranoia 
+
+408.85 410.00 A: (( [laughter] )) 
+
+419.51 423.44 A: was that is that is that do a lot of guys do drugs or uh at microsoft or 
+
+424.07 434.89 B: oh no of course not but um when i was doing intelligence work uh the government actually issues it right if if you're like when you're flying uh combat missions and blah blah blah blah blah blah 
+
+429.99 431.22 A: (( oh oh )) 
+
+434.76 440.72 B: they have all sorts of chemicals to keep you alert and awake when you're getting one hour of sleep or so a day for months 
+
+440.63 445.35 A: wow but how so microsoft what is that subsidized by 
+
+445.70 448.77 A: that's that's that's taken care of by the government 
+
+448.87 452.11 B: no no no i used to work for u._s. intelligence 
+
+451.78 453.99 A: oh oh all right now 
+
+452.97 464.81 B: i used to work for the nsa [laughter] yeah different company [laughter] yeah i used to work for quote the company [laughter] as it were 
+
+454.62 456.61 A: oh okay now i understand 
+
+458.63 460.77 A: oh okay now i understand [laughter] 
+
+464.80 466.95 A: right right right right 
+
+467.27 468.32 A: wow 
+
+467.74 469.14 B: (( oh )) 
+
+468.87 472.90 A: is that is that legal though or is it that supposed to be like 
+
+472.99 478.41 B: legal hm you ask the question of whether or not something the government does is legal 
+
+479.03 484.92 B: [laughter] think about the irony [laughter] 
+
+479.94 481.15 A: (( [laughter] )) 
+
+481.78 485.78 A: well you know [laughter] you have to ask 
+
+485.36 490.02 B: yeah i think wa- was this recent war legal hm history will tell us 
+
+488.68 489.72 A: yeah 
+
+489.80 492.15 A: exactly exactly 
+
+489.97 502.83 B: [laughter] when you're the government and you have all the guns and you make up laws it's legal until you get caught [laughter] but it is standard operating procedure [laughter] 
+
+496.90 498.28 A: right right 
+
+500.67 502.04 A: exactly 
+
+503.05 504.03 A: cool 
+
+505.21 506.42 A: but uh 
+
+507.04 508.55 A: yeah [laughter] 
+
+508.78 511.61 A: so are you with your pets right now [laughter] 
+
+511.65 522.68 B: yeah actually i had one of them just come up he was being all angsty cats are so funny they're totally autonomous but then they go through these moods where suddenly right now they absolutely need attention 
+
+522.28 523.68 A: yeah 
+
+523.24 528.71 B: [laughter] this one especially he's the neurotic in the bunch 
+
+525.16 526.10 A: [laughter] 
+
+528.60 529.74 A: [laughter] 
+
+528.94 529.66 B: [laughter] 
+
+531.37 532.29 A: yeah 
+
+532.55 533.70 A: (( that's funny )) 
+
+533.36 534.93 B: so funny 
+
+534.78 537.03 A: so uh trying to think 
+
+536.01 538.46 B: cats would make a great um 
+
+538.48 542.30 B: tool for beginning psychology 'cause 
+
+541.34 542.22 A: yeah 
+
+542.34 555.50 B: they do have the same weird neurotic obsessive compulsive patterns a lot of people do but it's so much more obvious in a cat [laughter] 'cause like one it's not masked behind a semantic layer 
+
+548.43 549.27 A: uh-huh 
+
+550.82 552.01 A: yeah 
+
+555.33 556.31 A: right 
+
+555.72 561.60 B: and two they really don't know how to hide what it is that they're feeling so it's it's when they're 
+
+561.48 574.61 B: when they'll run over and desperately need attention but too afraid to jump up on your lap and get it and then run away and cry in the corner it's really obvious that that's what they're doing where when people do that they usually explain it a little bit and it's not nearly so obvious exactly what they're doing 
+
+574.25 575.44 A: (( right )) 
+
+576.04 578.33 A: wow [laughter] 
+
+578.49 579.61 A: cats 
+
+579.92 581.71 B: jeeze 
+
+579.97 589.59 A: trying to think what other pets i don't know we've i mean in my lifetime i had a bird that my grandpa found half it was like half dead behind a uh [laughter] behind a garbage can so 
+
+589.51 591.00 B: yeah 
+
+589.69 594.80 A: that was that was my pet and then uh goldfish and a rabbit and that's about it 
+
+591.46 593.80 B: (( yeah yeah and that )) 
+
+594.56 599.30 B: ah the ones that i miss are dogs i was raised by wolves 
+
+599.56 599.95 B: (( we )) 
+

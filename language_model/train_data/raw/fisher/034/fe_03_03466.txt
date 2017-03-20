@@ -1,0 +1,555 @@
+# fe_03_03466.sph
+# Transcribed by BBN/WordWave
+
+0.16 1.22 B: (( hello )) 
+
+1.66 3.14 A: (( [noise] [noise] )) 
+
+4.87 5.73 B: hello 
+
+9.12 9.94 B: hello 
+
+9.99 10.95 A: (( hello can )) 
+
+10.73 11.53 B: (( hello )) 
+
+13.76 14.63 B: hello 
+
+14.65 16.37 A: (( you hear me )) 
+
+15.25 16.43 B: yeah 
+
+16.49 18.64 A: what's up [noise] 
+
+17.68 19.55 B: are you on a are you on a cell phone or 
+
+19.35 20.81 A: yeah i'm on a cell phone right now 
+
+20.47 21.99 B: oh okay what's your name 
+
+22.21 23.66 A: my name's uh vince 
+
+23.37 25.14 B: vince my name's ralph 
+
+24.18 26.51 A: (( yeah how you doing [mn] )) 
+
+25.66 26.63 B: (( all right )) 
+
+27.82 30.42 B: hey are you on a cell are you on a cell phone or 
+
+27.90 28.46 A: (( [cough] )) 
+
+30.86 32.03 A: yeah i'm on a cell phone 
+
+31.57 33.49 B: oh all right cool [laughter] 
+
+33.09 36.91 A: (( i )) 
+
+35.51 37.21 B: (( so what do you think of that topic )) 
+
+37.30 39.75 A: (( don't know the topic was life partners )) 
+
+38.88 40.39 B: (( yeah )) 
+
+40.74 43.05 A: (( uh i don't know i guess )) 
+
+41.78 42.67 B: like 
+
+43.06 44.67 A: what do you look for in a life partner 
+
+45.34 48.92 B: uh man they got to have brains man [laughter] you know 
+
+48.16 51.44 A: [laughter] yeah i guess they got to have a body too though 
+
+49.03 50.12 B: [laughter] 
+
+51.14 53.66 B: (( yeah i mean they got to have a body but you know )) 
+
+53.85 61.35 A: uh yeah yeah i guess you're right there should be a good balance between brains and body you can't have you can't have o- too much of one and like not enough of the other 
+
+56.97 58.62 B: (( you know you have to have )) 
+
+60.77 65.20 B: right you know 'cause mentally one's going to go [laughter] sooner you know 
+
+64.20 72.23 A: (( that's true that's true definitely but you have [mn] you have a girlfriend right now or [mn] are )) 
+
+66.23 67.62 B: (( yeah )) 
+
+70.07 73.27 B: (( yeah yeah i have a girlfriend now )) 
+
+72.50 75.18 A: you are you satisfied with her or would you change her in any way 
+
+76.15 78.13 B: uh [sigh] 
+
+79.17 84.80 B: maybe in the body yeah i would but you know [mn] the the brains are the brains are there you know [laughter] 
+
+80.96 83.12 A: (( [laughter] )) 
+
+84.12 87.98 A: that's good that's good yeah i have a girlfriend right now and uh 
+
+85.06 86.17 B: (( what about you )) 
+
+88.06 93.44 A: yeah i guess i'd just change her body if anything but [mn] i like her personality and everything she's real smart 
+
+92.81 97.12 B: yeah i mean yeah they got to have they can't be too bitchy you know [laughter] 
+
+96.37 99.49 A: oh shit yeah she might she might be borderline on that one 
+
+99.29 103.40 B: yeah you know she's like if they're too bitchy it's like you gotta go man you know [laughter] what's 
+
+102.64 105.54 A: that's true too so where do you live now 
+
+105.34 106.29 B: (( that uh )) 
+
+106.13 107.73 A: where do you live right now 
+
+107.10 108.91 B: i live in california 
+
+108.42 110.89 A: (( oh you're in california what part )) 
+
+109.23 109.88 B: yeah 
+
+109.95 111.30 B: uh l. a. 
+
+111.38 119.51 A: l. a. that's cool that's cool my hometown i used to live there i moved here like uh a few years ago i live in i go to austin texas now i go to u. t. 
+
+112.31 113.36 B: what about you 
+
+117.54 118.64 B: (( oh really )) 
+
+119.33 120.18 B: cool 
+
+119.94 121.75 A: university of texas 
+
+121.15 122.99 B: oh really at austin or 
+
+122.85 124.86 A: yeah at austin 
+
+124.23 125.16 B: (( that's cool )) 
+
+125.11 128.28 A: yeah you go to college or you graduated or 
+
+127.66 130.45 B: yeah i'm done with school man i'm done with college [laughter] 
+
+129.85 131.73 A: (( oh that's cool that's cool did )) 
+
+130.65 132.42 B: uh two years ago so 
+
+132.60 134.22 A: (( you meet your girlfriend in college or )) 
+
+134.22 138.07 B: yeah actually yeah yeah i did actually she went to a different school so 
+
+135.94 136.95 A: (( oh okay )) 
+
+138.48 139.54 A: (( oh okay )) 
+
+139.15 141.37 B: (( but a different college )) 
+
+141.68 145.52 A: yeah i don't know what else [laughter] and stuff 
+
+144.97 146.74 B: yeah i don't know man it's just 
+
+146.22 147.41 A: (( life partner )) 
+
+147.52 148.58 A: um 
+
+147.64 148.46 B: yeah 
+
+149.67 154.33 B: yeah can't be too stupid you know [laughter] 
+
+152.21 157.14 A: hm [laughter] just keep on saying that over and over right can't be too stupid 
+
+155.25 156.52 B: (( yeah )) 
+
+156.70 159.86 B: can't be too stupid man that [mn] that would be like too easy you know 
+
+159.61 163.91 A: well they got to have like yeah they got to have different personal- i don't know like i think 
+
+164.91 169.62 A: personality wise is like different than brain wise because you can be real smart and have like a bitchy personality too 
+
+169.45 173.51 B: yeah i mean like also they can't be like too high maintenance too you know 
+
+173.29 175.59 A: oh yeah a lot of the girls are way high maintenance 
+
+175.30 178.35 B: i mean girls out here man are just shit it's like 
+
+177.75 181.31 A: (( in l. a. [laughter] i know how it is absolutely )) 
+
+179.23 180.15 B: yeah they 
+
+180.24 183.09 B: like they like drain your wallet man you know 
+
+182.20 193.37 A: hell yeah yeah l. a. has the kind of girls that that expect like you to pay for all their crap and do this and do that like i mean like i i don't mind paying for her but if like they expect it it's a totally different story you know 
+
+183.68 184.71 B: like you might 
+
+188.78 189.79 B: (( yeah )) 
+
+192.93 195.10 B: yeah i mean i don't mind paying 
+
+193.90 196.01 A: [mn] it shouldn't be expected because 
+
+196.11 199.50 A: the i don't know like i just don't think that's right 
+
+199.59 203.16 B: yeah i mean when they expect like everything you know they expect to be treated like a 
+
+201.80 206.95 A: expect everything expect you to buy 'em like everything bring you like candy and roses every damn day 
+
+204.29 205.32 B: yeah 
+
+205.94 209.73 B: you know they like you to treat 'em like a princess all the time it's like come on 
+
+208.93 213.56 A: yeah i mean like you don't mind doing that if they deserve it but if like they don't deserve it they can't expect it you know 
+
+212.78 214.53 B: yeah exactly you know 
+
+214.95 216.50 A: kind of like 
+
+216.30 226.31 B: and if you're trying to get yeah you got to you got to like you know [laughter] play the role but you know [mn] if you're not you know giving up the bag in return it's like come on man you know [laughter] 
+
+222.37 223.26 A: (( true )) 
+
+224.01 227.61 A: [laughter] definitely i know what you mean 
+
+227.56 231.81 B: you know i don't know how they are up there man but out here man it's just like you 
+
+230.27 233.75 A: [laughter] uh it's the same out here dude 
+
+233.49 238.39 B: know if you if you if if you're driving a bucket you're not getting nothing [laughter] 
+
+233.82 235.51 A: same everywhere i think 
+
+236.62 237.49 A: (( mm )) 
+
+237.95 241.67 A: (( [laughter] that's true too that's true too )) 
+
+239.85 240.71 B: (( you know if )) 
+
+240.88 243.98 B: you if you ain't got a car forget it you know 
+
+243.33 247.97 A: forget it yeah they see they look they don't look past a lot of the materialistic things a lot of times 
+
+247.68 249.02 B: what was that 
+
+248.62 251.10 A: they don't look past like a lot of materialistic things 
+
+250.97 252.27 B: yeah 
+
+251.82 255.03 A: all they look for is like shit you have like your money your car 
+
+255.02 255.97 B: yeah 
+
+255.16 258.95 A: you know all that kind of crap but they don't like look for who you really are 
+
+258.78 263.55 B: i know i mean my chick right now man she's like fucking low maintenance man you know [laughter] 
+
+262.95 264.99 A: low maintenance that's the way you like 'em huh 
+
+264.96 269.78 B: you know she's like real if i hear something and it's like you know she'll be satisfied you know 
+
+269.53 272.53 A: that's tight and see that makes you appreciates what she has 
+
+272.20 274.05 B: yeah that and 
+
+273.21 275.16 A: she don't look for other shit 
+
+274.76 284.71 B: 'cause i cause i talk to some chicks man you know they're all like yeah when i get engaged i want this fat ring you know and if he gives me rinky dink diamond then i'm fucking [mn] dumping his ass you know 
+
+280.49 281.88 A: [laughter] 
+
+282.43 284.57 A: (( [laughter] )) 
+
+284.65 285.61 A: (( that's true )) 
+
+285.63 289.89 B: and now she's like damn man these guys are fucking ruthless [laughter] you know 
+
+288.37 292.23 A: [laughter] isn't isn't this supposed to be like a like a linguistic study or some shit 
+
+292.19 293.83 B: yeah 
+
+293.50 298.81 A: we're talking in slang [laughter] [laughter] well what the hell are they talking about 
+
+296.16 297.26 B: [laughter] 
+
+298.25 300.72 B: i know [laughter] 
+
+299.98 302.58 A: oh well i guess my ten minutes are up 
+
+301.98 305.70 B: yeah i mean geez they'll they'll find a way you know 
+
+305.61 307.29 A: (( [laughter] for real )) 
+
+307.35 309.01 B: (( if they're studying linguistics )) 
+
+309.27 313.10 B: city like [laughter] slang [laughter] 
+
+310.67 319.46 A: [laughter] oh well that's definitely the way most people talk nowadays like you think about it people that actually went you know go to college or go to college or high school whatever 
+
+319.11 320.43 B: yeah 
+
+319.78 322.01 A: so if you're just gonna be talking stuff 
+
+321.73 326.23 B: i know i mean i've done this hardly this is my third one and i've been talking 
+
+325.57 331.03 A: oh you've had three i like i always cancel 'em everytime they call because i don't have time or i'll take it today 
+
+330.81 336.55 B: yeah i just keep forgetting you know and just like they just call me and it's like oh all right guess i'll take it [laughter] 
+
+335.62 337.82 A: what other topics have you had 
+
+337.88 347.01 B: uh [mn] the first one is just uh uh favorite like food if i like eating out or um [lipsmack] eating at home and 
+
+344.10 345.78 A: oh yeah 
+
+345.99 349.65 A: (( like for ten minutes though like i like eating out uh )) 
+
+349.43 356.70 B: yeah and i mean it then then the other time was was pretty hard like if i had to make a national holiday what would it be 
+
+356.53 358.92 A: [laughter] [laughter] 
+
+357.09 359.50 B: and i was like what the hell is that you know 
+
+359.28 360.43 A: (( [mn] yeah )) 
+
+359.68 368.25 B: and i had this uh lady she was just like oh uh i would think this and you know like going off and i was just like [laughter] 
+
+365.49 372.45 A: yeah i know what you mean oh what time is it there it's like uh 
+
+368.55 369.64 B: yeah but 
+
+372.56 373.52 A: seven thirty 
+
+373.46 375.62 B: uh yeah it's about seven thirty 
+
+375.63 377.18 B: watching the game you know 
+
+375.84 376.64 A: (( oh that's )) 
+
+376.67 378.42 A: cool yeah lakers game 
+
+378.15 379.43 B: yeah 
+
+378.79 380.96 A: you going for lakers of course right 
+
+380.33 383.57 B: oh yeah going for his first [laughter] 
+
+381.06 382.41 A: [laughter] 
+
+382.69 385.62 A: yeah i was i was watching that right now too when the call came in 
+
+385.78 389.79 B: oh yeah is austin is austin by uh san antonio ain't it 
+
+386.97 388.79 A: yeah 
+
+389.78 390.65 A: is what 
+
+390.48 392.91 B: [mn] austin it's like south of san antonio right 
+
+390.88 397.62 A: [noise] yeah austin's south of san antonio we're like we could like drive there about forty minutes away thirty minutes away it's 
+
+394.14 395.01 B: yeah 
+
+397.56 401.18 B: right yeah my mom lives out there in uh my mom lives out in houston so 
+
+398.33 399.61 A: (( not that far at all )) 
+
+401.19 404.60 A: oh really yeah that's [mn] that's from houston but like uh 
+
+401.80 402.91 B: (( yeah [laughter] )) 
+
+406.73 407.94 A: (( austin you know [mn] )) 
+
+408.13 409.33 B: yeah 
+
+410.01 412.78 B: where you at like in a bar right now or what 
+
+411.99 413.17 A: (( yeah i'm in a bar )) 
+
+413.12 414.38 B: (( what was that )) 
+
+421.96 422.86 B: hello 
+
+423.58 424.37 B: hello 
+
+423.64 424.62 A: (( [noise] hello )) 
+
+428.16 430.70 A: (( oh [mn] [noise] )) 
+
+428.18 428.89 B: (( hello )) 
+
+429.86 430.69 B: (( hello )) 
+
+433.03 433.90 A: (( [noise] )) 
+
+433.57 437.22 B: (( yeah are you there all right you kind of like cutting out there [laughter] )) 
+
+434.70 435.84 A: (( hello my )) 
+
+440.28 442.88 B: you guys watching the game out there or what 
+
+445.53 446.36 B: hello 
+
+450.04 450.87 B: hello 
+
+451.33 453.62 B: yeah you're kind of cutting out there 
+
+452.69 454.81 A: (( cell phone keeps dying for some reason it's weird )) 
+
+454.66 455.56 B: (( what was )) 
+
+455.47 458.19 A: (( my cellphone keeps dying i don't )) 
+
+456.88 458.44 B: (( that yeah [laughter] you )) 
+
+458.81 459.72 A: (( know )) 
+
+460.12 461.83 B: guys watching the game out there or what 
+
+461.65 465.90 A: yeah we're watching the game right now we should be studying we have finals this week but whatever 
+
+464.83 466.28 B: (( oh uh for real )) 
+
+466.26 471.56 A: yeah [laughter] always round austin you ever been to austin 
+
+467.15 469.83 B: any good looking chicks [mn] in in there or what 
+
+471.32 476.61 B: no man i just went out to uh [mn] went out there to houston and saw that's where i stayed at yeah 
+
+475.01 486.59 A: oh really yeah houston's all right but you come to austin you'll see all the all the girls yeah then you can find out which one to look for [laughter] trying to relate it back to our topic somehow 
+
+478.96 480.46 B: all the good chicks are there 
+
+482.15 485.66 B: [laughter] all the flavors 
+
+486.38 488.26 B: yeah all the flavors are there huh 
+
+488.10 489.56 A: (( all the flavors are over here dude )) 
+
+489.33 490.95 B: [laughter] 
+
+490.49 492.13 A: (( it's i know how l. a. is too )) 
+
+492.18 493.58 B: (( [laughter] what )) 
+
+493.11 496.14 A: i know how l. a. is too long beach that's where i used to live 
+
+494.30 495.34 B: (( was that yeah )) 
+
+496.06 497.77 B: (( oh you used to live out in long beach )) 
+
+497.40 498.35 A: yeah 
+
+498.85 500.63 B: (( yeah )) 
+
+499.78 501.06 A: (( where you live in l. a. )) 
+
+501.34 504.28 B: uh kind of live out in the valley san fernando valley 
+
+504.34 507.35 B: (( kind of close to magic kind of close to magic mountain )) 
+
+504.70 505.99 A: oh okay good 
+
+507.12 511.27 A: oh shit magic mountain that used to be the spot next to cedar valley kind of 
+
+508.58 509.65 B: yeah 
+
+511.30 515.34 B: uh yeah i'm like i'm like ten minutes south of magic you know 
+
+512.64 514.61 A: not really 
+
+515.29 517.46 A: oh that's cool that's cool 
+
+516.51 519.09 B: so [lipsmack] it's not that bad 
+
+518.26 520.27 A: yeah 
+
+520.10 521.07 B: (( you know )) 
+
+520.51 521.47 A: now 
+
+522.22 524.71 B: thinking of going to texas [mn] over the summer 
+
+524.76 527.37 A: (( [laughter] that's nice )) 
+
+525.46 526.35 B: (( you know )) 
+
+527.22 528.62 B: so i'll be there 
+
+527.97 530.74 A: so what do you do now you work anywhere or 
+
+529.72 532.98 B: yeah i work in yeah i work insurance company 
+
+532.68 534.25 A: okay that's cool 
+
+533.51 535.84 B: yeah a lot of hot chicks up in there and shit 
+
+535.46 538.97 A: (( [laughter] a lot of different flavors there too )) 
+
+536.15 537.67 B: [laughter] 
+
+538.78 542.32 B: yeah we got we got to get that [mn] got to have that eye candy and shit you know 
+
+541.57 546.01 A: [laughter] eye candy pick the candy that's tight 
+
+543.01 544.84 B: [laughter] 
+
+546.01 547.25 B: (( you know )) 
+
+546.67 549.31 A: yeah you know what time is it now 
+
+549.37 551.20 B: (( uh i don't even know man )) 
+
+551.02 554.98 A: [laughter] do they come in and tell you when it's been ten minutes or what 
+
+553.69 559.23 B: yeah there's like uh you have there's some computer automated thing that tells you like yeah you know it's 
+
+559.28 562.49 B: your ten minutes are up time for you to you know 
+
+559.54 560.58 A: okay 
+
+561.23 562.64 A: yeah 
+
+562.56 565.02 B: it's like say your goodbyes and shit [laughter] 
+
+564.69 566.57 A: (( [laughter] what that's [laughter] )) 
+
+566.07 567.25 B: (( you know [laughter] )) 
+
+566.91 567.91 A: weird 
+
+567.93 569.03 B: yeah 
+
+568.25 571.37 A: (( this whole fisher thing's kind of weird dude i don't know )) 
+
+570.93 573.52 B: i i know i'm like calling like what fisher 
+
+572.96 575.74 A: so they they pay like ten dollars for each call or something 
+
+575.05 576.54 B: yeah 
+
+577.05 578.06 A: okay 
+
+578.09 580.92 B: you know better hurry up with that check man [laughter] 
+
+580.14 582.47 A: really you done two already 
+
+581.82 584.09 B: no i haven't got nothing yet so 
+
+583.84 584.88 A: (( oh okay )) 
+
+584.18 588.31 B: um i was just wondering if they make you do the three calls they send out your check or what you know 
+
+588.09 589.53 A: you should get it soon though so 
+
+589.43 593.09 B: so i don't know we'll see then i'll call 'em up [laughter] 
+
+592.44 594.27 A: (( how long you and your girlfriend been together )) 
+
+595.22 597.39 B: uh almost a year 
+
+597.02 598.53 A: yeah that's cool 
+
+597.61 599.30 B: yeah what about you 
+
+598.98 599.95 A: uh year and a half 
+

@@ -1,0 +1,343 @@
+# fe_03_00411.sph
+# Transcribed by BBN/WordWave
+
+0.00 0.75 A: (( [noise] )) 
+
+0.92 1.87 A: hello 
+
+1.35 2.71 B: yes hi 
+
+2.94 4.05 A: (( [noise] how ya doing )) 
+
+3.85 5.26 B: i'm fine how you do 
+
+4.11 6.03 A: my name's vinesh patel my 
+
+5.97 7.11 B: i'm sorry 
+
+6.99 9.22 A: (( name's vinesh patel )) 
+
+8.57 9.98 B: (( oh delilah )) 
+
+10.19 12.16 A: (( all right )) 
+
+11.46 14.52 B: so i guess we're supposed to talk about education and computers huh 
+
+14.62 21.54 A: yeah i guess they help anyhow i i would think it helps [noise] in every in every aspect of it 
+
+18.81 19.73 B: well i 
+
+21.25 22.87 B: oh yeah such as 
+
+22.17 22.90 A: [noise] 
+
+23.30 30.59 A: [noise] well i mean [noise] like i'm i'm a computer science major in university and every day i use a computer 
+
+27.87 28.88 B: oh okay 
+
+30.65 31.77 B: mhm 
+
+31.45 32.67 A: and like 
+
+32.78 42.39 A: [noise] without computers [noise] i i mean like even like with students with the emails and things like that they can email teachers and quickly speak to teachers and ask questions and they get the feedback really quick [noise] 
+
+37.11 38.04 B: mhm 
+
+42.57 51.30 A: and if not the teacher the the teaching assistant can help them [noise] and they get more help that way which is a lot faster than any like traditional [noise] [noise] 
+
+52.00 53.93 B: yeah i can't hear you very well 
+
+54.62 55.96 A: oh sorry 
+
+55.73 56.97 B: okay [laughter] 
+
+56.19 58.47 A: [noise] that that a little better hold on let me [noise] [noise] 
+
+57.43 59.38 B: yeah yeah that's yeah that's better 
+
+59.36 60.24 A: okay 
+
+59.92 70.89 B: you were fading in and out there for a second y- yeah that's all right no i i agree that you know that computers can help i think they neither um harm nor really i think they just facilitate really 
+
+61.89 63.50 A: oh okay i'm sorry [noise] 
+
+70.29 73.72 A: [noise] [noise] right [noise] right 'cause like [noise] what [noise] 
+
+71.65 72.79 B: (( and like things )) 
+
+73.58 80.73 B: they make things easier you know they can't replace a certain type of instruction you know like in a college setting 
+
+75.34 76.43 A: (( [noise] [noise] right )) 
+
+80.74 81.95 A: right 
+
+80.97 87.27 B: um but they can you know um add to it supplement it you know in a efficient way 
+
+85.37 86.68 A: (( [noise] [noise] well )) 
+
+87.15 91.53 A: [noise] right i think also li- li- at at a young age when the kids use computers 
+
+91.58 98.15 A: [noise] for like school wise it ends up teaching them a lot more than like like like now at this age i only learn- 
+
+93.16 94.01 B: mhm 
+
+98.02 104.99 A: i only started using computers when i was like probably [noise] in high school [noise] kids like my little niece and nephews they use computers [noise] like 
+
+104.83 117.10 A: in elementary it's like that so they know the ins and the outs of computers and [noise] they're a lot more they're like a lot more used to it so like they they they benefit a lot more from it ah learning at a early age the computers [noise] 
+
+116.54 121.82 B: right yeah i see the same things my niece and nephews i think they were born with a mouse in their hands you know [laughter] 
+
+121.12 122.67 A: you're right 
+
+122.15 131.10 B: when i when they when i first bought an ibook at home they looked at it then they go auntie you don't have a mouse [laughter] 'cause you know it's a track pad you know 
+
+128.49 130.10 A: [laughter] 
+
+130.48 131.82 A: right 
+
+131.11 139.33 B: and they're like where's your mouse i'm like i don't need one [laughter] yeah but don't you think they're less curious about other things like books for instance 
+
+134.83 136.13 A: (( yeah [noise] )) 
+
+139.10 140.06 A: (( [noise] uh )) 
+
+142.27 143.28 A: (( [noise] hello )) 
+
+143.11 149.80 B: yes i was saying don't you think that they're less curious of other things like books they tend to read less 
+
+143.93 144.81 A: yeah 
+
+148.23 150.12 A: right yeah [noise] 
+
+150.44 156.65 A: i think i think it goes both both ways it could be like some kids read a lot more but then 
+
+150.49 151.69 B: 'cause they expect 
+
+156.62 167.42 A: like kids some kids the kids who are used to computers they might not read as well read as much but they might get more information off the web such as news and stuff like that which they wouldn't get ah 
+
+163.62 164.53 B: (( mhm [noise] )) 
+
+167.59 170.16 A: living at home by themselves doing nothing [noise] 
+
+169.81 177.66 B: right do they really know how to get information though or are are they just to just you know getting stuff by clicking on a mouse isn't that kind of 
+
+177.00 184.51 A: yeah a- again that goes back to i guess how they're taught to use a computer what they use it for yeah i mean that's true 
+
+177.67 178.87 B: (( too easy )) 
+
+181.42 182.64 B: mhm 
+
+184.50 193.90 B: it's too easy [laughter] [laughter] and you know there are more and more students cheating also because they find so much information available online 
+
+185.77 187.52 A: [noise] yeah it is 
+
+188.28 189.52 A: (( [mn] [noise] )) 
+
+193.89 195.08 A: that is true 
+
+194.80 199.33 B: you can actually you know buy papers for all kinds of classes and so on 
+
+198.62 200.48 A: (( [noise] oh right so in that sense i guess )) 
+
+201.36 204.40 A: it would harm education [noise] it does harm yeah i guess it he- harms that way but [noise] 
+
+204.45 213.23 A: i think in the long run it's got to be it's got to be a lot more beneficial than harmful [noise] but yeah there's always the pros and cons of each side [noise] each [noise] 
+
+212.50 213.64 B: mhm 
+
+213.96 217.71 B: what about ah what do you think of ah digital divide 
+
+218.00 220.02 A: which kind what kind of devices 
+
+219.81 228.75 B: no the digital digital divide you know the fact that if you have access to a computer you have access of a lot more things than if you don't have access to a computer 
+
+226.72 227.67 A: oh right 
+
+228.79 231.21 A: right the kids i mean i'm sure the kids who 
+
+231.30 238.51 A: who lack in computer i mean lack the access to computers like for a while when um [noise] at my house [noise] 
+
+238.46 245.33 A: we didn't a com- the internet was messed up and that that time alone maybe it was three or four days 
+
+245.29 256.61 A: the kids like all the kids in the house were it's really like hurting that they couldn't get to the websites they needed and like a lot of the homework and the stuff that we need are on the websites now 
+
+256.33 257.40 B: mhm 
+
+256.54 264.49 A: instead of delivered 'cause i i i mean i'm from the university university of texas at austin and it's a really big university with classes like two or three hundred people 
+
+260.71 261.76 B: mhm 
+
+264.52 278.25 A: so they don't always like pass out papers or anything like that they tell us to go to websites and say hey we're gonna save some money on like paper and you know whatever but it's easier to tell the students go to websites and the second you don't have that access 
+
+278.40 281.08 A: lose a lot a lot lot of time ah potential 
+
+281.32 283.15 A: time to do homework [noise] [noise] 
+
+282.76 289.42 B: actually at big universities like ah u._t. don't you have don't all incoming freshmen have to have a computer 
+
+289.36 290.71 A: [noise] no they don't 
+
+290.40 293.28 B: oh okay i thought so well i guess i was mistaken 
+
+291.32 294.13 A: yeah they don't don't have that going on right now 
+
+294.33 299.03 A: [noise] i think some of the honors programs have that but the general students don't 
+
+294.45 295.40 B: oh okay 
+
+299.05 302.34 B: hm oh okay i guess i was wrong that's interesting 
+
+301.42 303.05 A: yeah 
+
+303.32 307.61 A: yeah i think that might be at something like at most universities higher level 
+
+303.41 304.43 B: yeah 
+
+308.26 312.52 A: universities they just make every student incoming freshman buy a computer 
+
+312.23 313.85 B: mhm 
+
+313.34 316.56 A: so i mean i think some some our engineering ah 
+
+316.97 318.01 A: school 
+
+318.10 328.81 A: makes sure the kids get ah what's it um they buy laptops even like the graduate school here the graduate school they all have laptops when they come around they had to buy 'em [noise] 
+
+324.14 325.04 B: mhm 
+
+328.68 329.57 B: right 
+
+330.41 331.19 A: (( so )) 
+
+332.47 335.62 B: yeah so more money for more education [laughter] 
+
+335.20 343.54 A: right it's i mean education's getting a lot more expensive it seemed like steady climb when i first got to university i think my 
+
+335.70 336.63 B: [laughter] 
+
+343.90 350.28 A: monthly my semester fees were like eighteen hundred for like twelve to thirt- fourteen hours now it's like 
+
+350.33 352.64 A: twenty one twenty two hundred 
+
+352.65 353.85 B: oh yeah 
+
+352.68 353.31 A: (( [noise] )) 
+
+353.50 355.91 A: yeah it's a lot more now [noise] 
+
+355.37 359.15 B: wow that's kind of of unfair to people who can't afford it though huh 
+
+359.27 369.22 A: yeah it's true 'cause i mean like but also i mean i don't think there's no one who can't go to university 'cause the uni- our government pays like will give you loans to 
+
+369.61 380.28 A: enough for you to live ah live like [noise] enough for your books tuition and some living costs they always give loans if not grants or anything they'll always give loans to everybody 
+
+380.39 389.60 B: right but you know the the loans i mean financially is it conditional you know upon a bunch of factors n- not everybody can get financial aid and then 
+
+380.83 381.58 A: so 
+
+389.49 404.07 B: it put also more pressure on you once you graduate to actually get a job you know within six months so i'm you know don't you think maybe some people are more reluctant to go to college because they don't want to be you know in debt by the time they graduate 
+
+393.48 394.94 A: oh yeah of course 
+
+404.31 407.21 A: yeah i i'm sure some people find it 
+
+407.38 420.55 A: like a hill to climb to get the money and then having like once you gain the money how are you gonna pay it back and just a whole opt- if you don't have the option of getting some somewhere then finding the money is hard [noise] 
+
+420.09 421.14 B: mhm 
+
+420.81 428.18 A: and i'm sure it deters people from school but that's something like at any time you gotta risk something before you gain something 
+
+428.14 428.98 B: right 
+
+428.24 431.26 A: so i mean risking some mon- like the chances of 
+
+431.29 435.55 A: having to pay something back and they get an education out of it or you can earn money higher 
+
+435.87 441.69 A: higher paid i think that all [noise] most people that who who are willing to take a chance will 
+
+441.81 442.88 A: go for it 
+
+442.70 444.27 B: yeah i guess so 
+
+444.36 445.29 A: so 
+
+444.44 458.53 B: i guess so well you know the other thing i was thinking about the use of computers in education is that it makes since you know you interact less and less with people and more and more through you know the computer it makes education less ah 
+
+458.56 463.33 B: you know individual less personalized isn't that ah a negative effect 
+
+463.45 468.89 A: [noise] [noise] yeah i mean i i i as of right now where i'm at at university you see less 
+
+469.00 472.34 A: student teacher interaction so that alone [noise] 
+
+472.26 482.91 A: hurts i mean introduction of computers like the websites that of course we don't get the ah [noise] the i mean it's a lot different [noise] when teacher tells you in your face [noise] 
+
+482.70 491.72 A: and she'll helps you do it while ot- now where it's set the slides and stuff like that are all on the website you don't get the whole the effect of 
+
+491.79 496.66 A: yeah i'm sure you get a lot more from you know teacher itself one on one interaction [noise] 
+
+494.60 495.71 B: right i mean 
+
+495.98 499.09 B: yeah i mean you might as well stay home and just study online 
+
+498.84 504.45 A: [noise] yeah you i mean you lo- i mean you can probably get through the class but you don't get as much out of it [noise] so [noise] 
+
+504.20 505.59 B: mhm 
+
+504.60 506.14 A: (( [noise] )) 
+
+506.45 507.48 B: yeah 
+
+507.81 510.49 B: it's interesting because see you're a student right 
+
+510.40 511.59 A: (( [noise] right )) 
+
+510.91 515.80 B: yeah i'm a professor [laughter] [laughter] and 
+
+514.56 517.35 A: mm [noise] you're the other aspects [noise] [noise] 
+
+516.38 524.78 B: yeah exactly [laughter] and and i can see you know in large class- i don't like large classes but the largest i teach have fifty students in them 
+
+524.41 525.45 A: (( [noise] [noise] uh-huh )) 
+
+524.79 529.59 B: but the largest you know the class the more stude- the more i use the computer 
+
+526.33 527.31 A: (( [noise] [noise] [noise] )) 
+
+529.61 544.10 B: you know i have a website and a discussion forum online and i encourage students you know to get a hold of me through email and at first you know a lot more things online they can access class notes and papers and all kinds of stuff 
+
+529.69 530.89 A: (( right [noise] [noise] )) 
+
+533.52 535.05 A: (( ah [noise] exactly )) 
+
+544.05 557.73 B: but i feel i get to know the students a lot less and the rapport between me and the student is not as good as in you know smaller classes where i've got less than thirty students and i get to know the names you know within a couple of weeks 
+
+544.05 544.86 A: (( [noise] [noise] right )) 
+
+550.62 551.72 A: [noise] that's true 
+
+557.80 558.91 A: yeah 
+
+558.15 564.33 B: and and i feel like i care about them you know and they're not just a social security number on a piece of paper 
+
+564.29 566.59 A: right i understand 'cause like 
+
+566.36 567.21 B: yeah 
+
+566.54 576.63 A: when i when i first got here at the university like i took all the classes that were like the freshman core classes [noise] and there was like two three hundred people in each class but now that i'm taking my 
+
+572.36 573.25 B: mhm 
+
+576.53 583.36 A: i've been doing c._s. classes [noise] there's not more than like maybe twenty or thirty [noise] and sometimes say twelve [noise] 
+
+580.75 581.63 B: right 
+
+583.12 584.28 B: mhm 
+
+583.90 595.57 A: and of course there's a m- there's a like these teachers maybe they know your name they know everything how you progressed through the class [noise] and so you get you get a better understanding a better feel of the class al- also 
+
+595.42 596.22 B: right 
+
+595.58 599.95 A: you're not left out in the open in just out in the open you're just kind of like hanging out w- 
+
+599.44 599.95 B: mhm 
+

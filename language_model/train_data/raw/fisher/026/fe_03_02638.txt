@@ -1,0 +1,377 @@
+# fe_03_02638.sph
+# Transcribed by BBN/WordWave
+
+0.96 2.13 A: hello 
+
+1.51 2.64 B: hello 
+
+2.44 3.86 A: (( hi [noise] [noise] [noise] )) 
+
+3.12 4.73 B: (( hey how're you doing )) 
+
+4.25 5.97 A: good how are you [noise] 
+
+5.05 6.22 B: i'm good 
+
+6.38 7.46 A: what's your name 
+
+7.35 8.83 B: (( marianna uh-hum )) 
+
+8.42 9.68 A: marianna 
+
+9.75 11.88 A: hi my name's kelly where are you calling from 
+
+11.62 13.80 B: um in philadelphia 
+
+13.58 16.39 A: oh okay wha- tennessee 
+
+14.51 15.61 B: what about you 
+
+16.04 17.17 B: oh okay 
+
+17.68 18.73 A: yeah i grew up 
+
+19.08 21.37 A: in near pittsburgh pennsylvania so 
+
+21.29 22.58 B: [sigh] oh okay 
+
+21.89 25.42 A: i've been to philly [sigh] okay have you ever done this before 
+
+24.82 28.05 B: yeah [noise] i did this the other day the first time 
+
+26.24 27.44 A: (( [noise] oh okay )) 
+
+28.10 29.13 B: what about you 
+
+28.86 32.83 A: [mn] ah this is my second time i did it a couple of weeks ago so it's you know 
+
+32.98 36.27 A: [sigh] and i think the subject then was like family what was your subject 
+
+36.11 39.64 B: um [lipsmack] habits of people 
+
+38.54 39.32 A: (( yes )) 
+
+39.61 42.97 A: okay [sigh] so what do you think about our our subject tonight 
+
+42.67 47.15 B: [sigh] um i guess it's fitting for the the time period 
+
+46.56 47.57 A: (( yeah [noise] )) 
+
+47.49 48.67 B: um 
+
+49.11 53.37 B: [lipsmack] i guess i have kind of mixed opinions about it um 
+
+53.85 55.08 B: you know it was 
+
+55.32 56.28 B: you know 
+
+56.98 67.94 B: interesting to i guess watch it kind of all unfold on the tv [sigh] however i think that ah the media really only provided [sigh] half of 
+
+60.65 61.53 A: (( uh-huh )) 
+
+68.20 69.30 B: really 
+
+69.45 73.13 B: a a pretty biased view of what was go- really going on over there 
+
+72.51 74.17 A: right 'cause how do we really know 
+
+73.81 74.99 B: right 
+
+74.22 75.88 A: we're going by their version 
+
+75.30 89.19 B: right [sigh] and it's very like hollywood with like you know you're watching friends or whatever and you get breaking up dates and stuff but i think i think kind of [lipsmack] 
+
+76.15 76.96 A: (( uh-hum )) 
+
+82.08 83.06 A: uh-huh 
+
+84.70 85.60 A: (( uh-huh )) 
+
+89.24 99.48 B: the u._s. we kind of [sigh] set ourselves up for this with kind of stuff that happened in the past with the gulf war and [sigh] we really never finished 
+
+93.22 94.36 A: (( uh-hum )) 
+
+99.67 104.17 B: what we were supposed to do then and it's kind of like we had to 
+
+101.14 103.10 A: right 
+
+104.39 105.34 B: kind of 
+
+105.70 109.53 B: [noise] do what we did now because it was almost like push came to shove and 
+
+109.03 109.95 A: (( [noise] uh-huh )) 
+
+109.83 114.20 B: you know i don't think you know bush wanted to be pushed around any more [laughter] 
+
+113.54 115.07 A: (( [noise] yeah )) 
+
+115.14 116.19 B: so 
+
+117.38 120.24 B: (( [lipsmack] so i don't know what do you think about it [noise] uh-huh [noise] [noise] )) 
+
+119.63 132.06 A: oh i agree with you know what you're saying it's just you know i mean just the whole subject of war isn't a good subject to begin with you know i mean it's just [mn] and it's funny because i'm married and my husband is ex military so 
+
+132.18 140.10 A: you know he's like oh yeah let's go in there let's kick butt blah blah blah an- and i'm just the opposite i'm like well i mean i know it needs to be done but 
+
+140.38 146.56 A: you know i mean i still can't help but think you know all those lives that are lost [sigh] you know and i don't know 
+
+146.90 154.33 A: [sigh] i mean we have to now that we're in there we have to disarm 'em and we have to do you know being that we're already there we gotta to do what needs to be done 
+
+154.90 156.87 A: but i mean as far as 
+
+157.27 163.40 A: [mn] going there in the first place i i don't know i mean it would have had to be done eventually i feel 
+
+163.21 164.45 B: (( right [noise] )) 
+
+163.69 166.44 A: but i don't think now was the time 
+
+166.21 167.15 B: (( uh-huh )) 
+
+167.01 170.13 A: [mn] and i mean that's just my opinion but you know 
+
+169.87 174.13 B: mm it just seemed like with the whole afghanistan thing like we had so much stuff going on 
+
+173.66 174.96 A: exactly 
+
+174.22 177.26 B: but it's like how do you [sigh] you know 
+
+177.36 189.34 B: put all your effort i mean i know our military is huge and everything but like [sigh] put all those people over there when we're still fighting the war in afghanistan and then the whole north korea thing [mn] 
+
+185.80 194.01 A: right ex- yes see that's the yeah that's the way i feel [noise] i'm like you know come on here [sigh] you know a i mean i think 
+
+194.25 202.44 A: we're just fortunate that nothing serious we didn't get another major attack over here while [sigh] half of our troops are over there in iraq [noise] uh-hum 
+
+198.72 199.70 B: (( r- right )) 
+
+200.68 201.87 B: exactly 
+
+202.13 204.89 B: yeah and i just think like 
+
+204.95 208.98 B: the ramifications of this is we haven't even really seen it like 
+
+207.87 209.11 A: (( [noise] [noise] )) 
+
+209.51 213.83 B: also the fact that our economy is like crap going into the war 
+
+213.44 214.32 A: (( mm uh-huh )) 
+
+213.91 215.43 B: you know and it it's 
+
+214.86 221.01 A: oh but they're saying it's fine you know [laughter] in the news media oh we're fine we're fine you know [noise] 
+
+216.17 217.51 B: [laughter] 
+
+219.96 220.76 B: (( mm )) 
+
+220.97 229.11 B: [sigh] yeah i have a hard time with the whole like war thing like i'm us i'm going to school to be a social worker right now so like 
+
+229.34 240.08 B: you know i i work in the medical field and i just see how much m- money isn't given to that and health care and everything like that and then it [sigh] you hear like them like [sigh] 
+
+240.12 245.03 B: each missile cost like three million dollars and each plane is like [laughter] 
+
+244.94 251.66 A: yeah it's just [noise] yeah and we've got people that are starving on the streets and you know go figure yeah i know what you're saying yeah [noise] 
+
+245.37 247.48 B: ten million dollars and it's like 
+
+248.76 250.08 B: exactly 
+
+251.57 262.11 B: so i mean i understand that we have to you know defend our country we don't want anything to happen and the fact that they were supposedly hiding these nuclear 
+
+262.36 267.90 B: or weapons of mass destruction like it's just interesting that we ha- haven't found anything yet 
+
+266.76 268.33 A: (( [noise] [noise] ah ah yeah )) 
+
+268.23 269.28 B: you know 
+
+268.73 269.62 A: uh-huh 
+
+269.63 274.13 B: um whether or not they're still hidden or if they're in [sigh] um 
+
+269.72 270.32 A: (( [noise] [noise] )) 
+
+274.27 278.11 B: what's that country right above it libya or 
+
+276.33 277.36 A: (( ah [mn] )) 
+
+278.49 283.37 B: i forget where they were trying to hide everything there so wherever 
+
+278.58 279.47 A: i think 
+
+281.70 282.89 A: (( uh-hum )) 
+
+282.97 284.76 A: in where saddam is supposed to be 
+
+283.92 285.19 B: area yeah yeah 
+
+285.44 292.46 B: um so that's you know i think it's also pretty scary that we don't even know where saddam [laughter] is right now 
+
+291.92 293.39 A: (( uh-hum )) 
+
+292.63 294.21 B: (( you know uh-hum [sigh] [noise] mm )) 
+
+293.77 299.06 A: we assume he's dead but you know then he was sighted and blah blah blah yeah that's crazy 
+
+299.25 309.27 A: [sigh] that's just i mean [noise] like you said i mean we're there you know we've gotta do what we've gotta do but it's just war and al- in general [mn] just like the whole thing i mean the cost the lives it's just you know 
+
+308.99 314.73 B: uh-hum i never realized how many like how young the people are that are fighting over there like 
+
+314.73 325.28 B: you know you always here about the military this the military that like i've a lot of family members that were [sigh] in the military but are not are not in it any more and i was like on the t._v. they're like nineteen 
+
+324.79 325.73 A: (( mm uh-huh )) 
+
+325.45 327.09 B: they're like kids 
+
+326.71 327.80 A: (( yeah [noise] )) 
+
+327.10 332.33 B: and they're like carrying these like huge guns and everything and it's like you know 
+
+333.23 334.74 B: [lipsmack] it's terrible 
+
+333.89 337.29 A: [noise] [noise] i know i'm just you see i have a i have a son he 
+
+337.17 348.90 A: he's gonna be five and i'm just [sigh] you know i just think oh my gosh what's what are things going to be like whenever you know he gets to be old enough and will he decide to go in and you know i mean all these thoughts are running through my head and like gosh what's gonna you know 
+
+348.65 349.58 B: (( uh-huh )) 
+
+349.22 351.69 A: i i would- i don't want him to be [laughter] in the military 
+
+351.31 352.36 B: (( right [noise] )) 
+
+352.19 354.94 A: i mean i i can't stop him but it's just 
+
+355.19 357.65 A: just a simple fact it's like oh my gosh 
+
+357.52 358.55 B: right 
+
+358.93 372.81 A: and i mean and i know that that's another thing that i i don't know why it bugs me but i mean that's that's their job when you're in the military i mean everybody i i support our troops and i think they're doing a wonderful job and stuff but that's they knew what they were getting into 
+
+366.61 367.40 B: (( uh-huh )) 
+
+372.49 373.53 B: (( [noise] uh-hum )) 
+
+372.90 374.79 A: you know i mean that's part of their job 
+
+374.46 375.36 B: (( right [noise] )) 
+
+374.98 387.35 A: [mn] you know i mean just because [sigh] i mean if you're in law enforcement you risk your life every day if you know if you're in the medical you know just a whole bunch of things that most people you know don't even think about you know so i don't know 
+
+381.52 382.33 B: right 
+
+384.57 385.54 B: (( uh-hum )) 
+
+387.86 400.72 B: [noise] i think it's just it's you know you're you're always i mean i i remember in high school and everything you just you hear about world war two and you hear about all this stuff but like how much [noise] like we're k- we're living in 
+
+400.76 412.25 B: like major history right now you know with the whole [sigh] you know unfortunately september eleven then you know this war [sigh] you know we we had the gulf war and now we have this war and it's like all these major 
+
+405.83 407.31 A: (( [noise] uh-hum uh-hum )) 
+
+412.26 421.80 B: things that have happened [noise] that it'll be interesting like you know our kids or our grand kids are going to be like [sigh] wow you lived in the war you know kind of like 
+
+413.72 414.67 A: (( [noise] uh-huh )) 
+
+419.88 426.73 A: yeah it's [laughter] [sigh] i know what what do they call it what is the media calling it now days i i lose track [sigh] 
+
+426.32 432.45 B: ah operation something free iraq or liberate or something like that [laughter] 
+
+428.82 429.87 A: yeah lib- yeah 
+
+430.91 442.74 A: yeah i know and [laughter] isn't it i think it's funny that they have ta call it something you know i mean back in the days like you're saying in history you know they called it a war they called it what it was you know and now they have to have you know 
+
+439.27 440.08 B: right 
+
+440.15 441.02 B: (( uh-huh [noise] )) 
+
+442.77 446.18 A: desert storm and now [laughter] whatever this is [laughter] 
+
+443.89 445.00 B: right 
+
+445.24 449.05 B: [mn] defence of the it's like hollywood 
+
+446.71 448.10 A: yeah 
+
+448.43 452.28 A: yeah it's like you said it's hollywood it's just ah you know and it's 
+
+450.29 451.33 B: (( uh-hum )) 
+
+452.29 458.83 A: and another thing that worries me is i mean how much is you know how much is garbage what they're feeding the american public you know 
+
+458.49 459.59 B: right 
+
+459.26 461.96 A: i mean do we really know we don't and we n- never will 
+
+461.97 463.80 B: uh-huh yeah i have um 
+
+464.18 478.00 B: i have some friends from another country and you know we talk on email and everything and they just think the amer- like our like bush is the dumbest thing and [sigh] how can you go into a war and you know 
+
+466.14 466.94 A: (( [noise] [noise] uh-huh )) 
+
+477.45 478.29 A: uh-huh 
+
+478.25 480.74 B: you know americans are just you know 
+
+480.87 495.82 B: stuffy people and all this like it's interesting to see how we're viewed in other countries you know about this [sigh] you know bush just got a little you know trigger happy 'cause his dad didn't finish it what had what needed to be done last time 
+
+481.98 482.78 A: (( [laughter] )) 
+
+486.11 487.64 A: (( [noise] right )) 
+
+494.89 496.44 A: (( [noise] uh-hum )) 
+
+495.76 508.04 B: so he's gonna be the big man [sigh] and how it's like you know this is like real like this [laughter] you know you turn on the t._v. [sigh] and there it you know like he had no idea that it was on the t._v. like twenty four seven 
+
+501.58 502.66 A: (( [laughter] [noise] [noise] )) 
+
+507.87 508.61 A: (( oh )) 
+
+508.45 512.26 B: and i was like yeah it's like real war going on [laughter] [noise] 
+
+511.64 514.37 A: yeah this is it i mean it's just shh 
+
+514.68 515.90 A: it's amazing 
+
+517.89 519.86 A: but i know it's crazy 
+
+519.59 521.90 B: [sigh] [lipsmack] so it's kind of died down a little bit though 
+
+521.57 529.10 A: [sigh] yeah it has well 'cause d- didn't bush announce that we kind of sort of won or in so many words that was kind of thursday [noise] 
+
+526.98 530.96 B: [noise] yeah kind he said and then they have like [mn] 
+
+531.10 533.84 B: the whole deck of cards sort of like they've got 
+
+533.78 545.09 B: like each [sigh] iraqi person like the high profile government leaders are like [sigh] they named them like a deck of cards so like the ace of spades is somebody 
+
+544.68 545.56 A: mm 
+
+544.98 549.83 B: i mean it's ridiculous the way they have you know how they keep catching all these people 
+
+549.39 550.62 A: (( uh-hum )) 
+
+550.17 553.35 B: like the big the big wigs and everything 
+
+553.95 555.07 B: and um 
+
+555.68 562.06 B: [lipsmack] you know the and then the whole like he landed i think yesterday he landed on that a- -at 
+
+562.62 569.19 B: big ship in the ocean and he was the first president ever you know it was like come on [laughter] uh-huh 
+
+564.00 565.12 A: (( [noise] [noise] [noise] [noise] uh-hum )) 
+
+568.07 569.08 A: [laughter] 
+
+570.18 573.50 A: yes again i mean i i watched like the 
+
+573.68 578.46 A: like the last ten minutes or i try to just catch the highlights of the news 'cause it's just like 
+
+578.50 587.09 A: gosh you know you just you just see it so much and this is like okay i need a break from this i can't i can't handle watching any more of this an' [sigh] 
+
+583.45 584.45 B: (( right yeah )) 
+
+587.65 595.99 A: and we also wh- where i live in tennessee it's close to a military base so [mn] this is like jeeze [lipsmack] it's pretty crazy 
+
+595.53 596.73 B: (( [noise] right [lipsmack] )) 
+
+596.99 598.32 A: [mn] pretty crazy 
+
+599.29 599.89 B: so yeah 
+

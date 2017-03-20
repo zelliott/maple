@@ -1,0 +1,389 @@
+# fe_03_05399.sph
+# Transcribed by BBN/WordWave
+
+0.73 1.95 A: (( hello )) 
+
+1.54 2.92 B: [noise] [lipsmack] hello 
+
+2.68 4.79 A: hello my name is john 
+
+4.50 10.47 B: john [mn] my name is ernest [lipsmack] and um i'm in san francisco 
+
+5.17 5.96 A: (( yes )) 
+
+7.14 8.77 A: ernest how are you doing 
+
+10.63 12.21 A: you're in san francisco 
+
+11.80 12.78 B: yes 
+
+12.35 17.88 A: oh i've a friend uh named ernest who is in the uh [mn] san francisco area 
+
+17.77 22.24 B: [noise] oh really [mn] and you are calling from where [mn] 
+
+18.52 20.47 A: (( actually yeah )) 
+
+21.78 24.68 A: uh i'm calling from uh philadelphia 
+
+24.47 26.21 B: oh philadelphia are you [mn] 
+
+25.78 26.85 A: (( yeah )) 
+
+26.23 34.03 B: oh east coast i ha- i have friend from um philadelphia he's been here for about um eight months 
+
+33.77 35.00 A: oh nice 
+
+34.61 36.72 B: yeah cool 
+
+35.52 36.29 A: (( nice )) 
+
+36.31 37.85 A: (( [mn] excellent )) 
+
+36.99 39.84 B: yeah so how are you doing 
+
+39.24 40.95 A: i'm doing fine how are you 
+
+40.68 46.65 B: okay i'm great i'm great um getting ready for our parade here and 
+
+41.98 43.22 A: excellent 
+
+46.55 48.29 A: (( what's that )) 
+
+47.33 50.76 B: [mn] getting ready for our our parade here 
+
+50.43 51.99 A: a p- a parade 
+
+51.64 54.45 B: yeah on um sunday 
+
+53.98 55.10 A: (( aw nice )) 
+
+54.80 56.98 B: (( [mn] yeah it's a pride parade )) 
+
+57.50 58.86 A: a pie parade 
+
+58.68 60.28 B: pride 
+
+59.64 61.40 A: oh pride okay 
+
+60.79 62.49 B: yeah 
+
+61.68 63.66 A: nice are you will you be marching 
+
+63.58 66.17 B: [mn] um yes i am going to be in it 
+
+65.85 67.37 A: nice excellent 
+
+66.31 72.98 B: [noise] yes yeah [noise] okay so the subject is about um opening a business 
+
+73.63 76.60 A: uh i thought it was uh about leaving the u. s. 
+
+77.39 82.16 B: [mn] they told me it it was about [mn] opening a business of your own 
+
+82.61 85.34 B: and how would you do it and things like that uh 
+
+86.03 93.45 A: oh i was i was giving [mn] given if you were to leave the le- the u. s. where would you go what would you miss most 
+
+86.32 87.57 B: [laughter] 
+
+91.91 95.47 B: okay [mn] well we we we can do that one then 
+
+95.28 98.04 A: okay which would you rather do [laughter] 
+
+97.30 99.62 B: uh [mn] leaving the u. s. [mn] 
+
+99.39 100.33 A: okay 
+
+99.98 101.20 B: yeah 
+
+100.58 103.54 A: um so if you were to leave the u. s. where would you go 
+
+103.21 114.02 B: [mn] where would i go [mn] i would go like um to some far off island um that's not on the mainstream network of [mn] of 
+
+114.22 117.36 B: of where um tourists go [noise] 
+
+116.94 118.54 A: right right 
+
+117.98 120.35 B: [mn] you know um 
+
+121.23 133.89 B: tahiti or you know some island [mn] in the middle of nowhere or [mn] um go to somewhere where it's mountainous 
+
+126.21 127.25 A: (( right [noise] )) 
+
+133.76 134.72 A: (( oh )) 
+
+134.58 141.25 B: you know [mn] and cold and where it snows [mn] that's [mn] see i grew up in seattle 
+
+135.12 137.25 A: yeah yeah 
+
+140.87 142.01 A: ah 
+
+142.07 143.74 A: the rainy city [mn] [mn] 
+
+142.43 152.30 B: and yeah so you know um i'm used to the four seasons [mn] and down here in california it doesn't do that 
+
+148.61 149.70 A: right 
+
+151.59 153.10 A: exactly 
+
+152.81 153.80 B: you know 
+
+153.19 165.46 A: so b- i mean ho- how do you find that er [mn] i've always [mn] like i i actually grew up in pittsburgh where you [mn] there's a big seasonal change as well [mn] it's actually very similar to seattle it's very cloudy there as well 
+
+160.38 162.02 B: [noise] oh yes oh yeah 
+
+165.19 166.02 B: yeah 
+
+165.33 178.91 A: um actually i think it's the second most cloudy city next to seattle um but anyway yeah like [mn] i w- i always thought california would be great without the without the cold bitter winters and 
+
+170.25 171.27 B: (( [noise] [noise] [noise] uh-huh )) 
+
+178.15 184.51 B: [noise] [mn] oh oh it's fine see like it's summer okay but here in san francisco 
+
+181.42 183.17 A: mhm 
+
+184.47 195.82 B: [mn] our summer where it's nice and warm everywhere else [mn] um our summer here um the summer season here is cold 
+
+194.89 197.63 A: yeah it's very windy isn't it 
+
+196.05 199.82 B: and and um foggy 
+
+199.54 200.43 A: okay 
+
+200.42 205.30 B: okay [mn] and then like like in september october 
+
+204.54 207.04 A: mhm 
+
+205.86 212.28 B: [mn] um we we call it the um red season that's when it gets hot down here 
+
+211.91 212.94 A: (( okay )) 
+
+212.32 219.50 B: okay like it runs in- into the hundreds or nineties and things like that [mn] but like now you know 
+
+216.48 217.84 A: right right 
+
+219.26 232.18 B: it's cold and a lot of tourists don't understand it they think 'cause it's summer where they're at that it's gonna be summer here well no it's cold it's windy the air coming off the ocean 
+
+231.78 235.19 A: right right and 
+
+232.43 235.50 B: yeah yeah so um 
+
+235.66 239.68 B: i would love to go to a nice sunny place 
+
+239.92 244.42 B: i mean seasonal place and then i would like to go 
+
+242.27 243.45 A: right 
+
+244.70 253.05 B: when winter comes i'd like to go somewhere where it snows because [mn] i miss snow that's what i grew up with and i miss it 
+
+250.03 251.76 A: (( yeah )) 
+
+252.39 255.50 A: i [mn] how how long have you lived in san francisco okay nice 
+
+254.86 259.16 B: um i've been here almost um eight nine years 
+
+261.11 265.05 A: yeah i can i can see how you you would start to miss snow after that long 
+
+263.06 274.76 B: [noise] yeah and um [mn] i used to fly up to seattle a couple of times a year to go see my family [mn] and then i used to fly up there every year just to see snow i mean 
+
+273.22 274.83 A: mhm yeah [laughter] 
+
+274.77 276.98 B: [mn] i mean i could go east 
+
+277.99 285.95 B: and um go towards nevada you know reno lake tahoe where it snows at [lipsmack] but it's 
+
+280.54 282.28 A: right 
+
+286.47 289.10 B: it's not the same you know 
+
+287.91 290.92 A: yeah yeah 
+
+289.87 292.57 B: [mn] yeah and um [mn] 
+
+292.73 294.18 B: vancouver 
+
+294.24 297.07 B: is beautiful vancouver um british columbia 
+
+296.93 299.38 A: [mn] yeah yeah it's uh 
+
+299.95 304.98 A: yeah apparently it's [mn] i just met somebody from vancouver actually they said it's great up there 
+
+305.06 312.58 A: uh i i was actually thinking about going and visiting them just also [mn] the yeah [mn] the 
+
+309.52 313.50 B: [noise] you should it's beautiful it's beautiful there 
+
+312.62 317.67 A: [mn] they're a lot more liberal up there too especially with mhm 
+
+314.77 320.59 B: [mn] oh yeah yeah they're they're very liberal up there um [noise] 
+
+320.66 321.63 B: um 
+
+321.68 328.03 B: [mn] excuse me but i have to say this there's no republicans up there [laughter] 
+
+326.95 329.29 A: [laughter] that's great 
+
+329.09 332.16 B: [laughter] excuse me [laughter] 
+
+329.28 340.17 A: i i actually just [noise] no that's fine that's that's beautiful i i just came back from uh i was in france for a little while which is actually the the answer to my side of the question 
+
+333.07 334.57 B: [laughter] 
+
+337.24 338.29 B: (( mhm )) 
+
+339.82 340.76 B: (( mhm )) 
+
+340.14 346.27 A: i- if i was to go somewhere outside the country where would it be i would definitely live in france [mn] uh but 
+
+344.96 352.20 B: [lipsmack] well france um also there's um somewhere else i would go like the little islands off of italy 
+
+351.36 354.99 A: mhm yeah 
+
+352.82 359.81 B: yeah um i would like to go there somewhere in the [mn] mediterranean or somewhere you know [mn] i mean 
+
+357.26 358.79 A: yeah that would be great 
+
+360.95 370.23 B: [mn] [sigh] i mean but at this day and time i do not want to travel internationally i don't want to travel anywhere 
+
+370.26 371.38 B: um 
+
+371.89 374.89 B: and that happened from september eleventh 
+
+374.60 377.06 A: right i [mn] this was 
+
+375.33 378.90 B: [lipsmack] you know and i haven't threw that away yet so 
+
+378.56 389.54 A: yeah well [mn] i i just got back like two weeks ago from france and it was uh i was over there for two weeks and it was my first time travelling since september eleventh and whatnot [mn] 
+
+379.32 379.88 B: (( [mn] )) 
+
+382.87 384.29 B: mhm 
+
+388.55 389.87 B: (( mhm )) 
+
+389.50 397.03 A: and actually i besides the the security checks and whatnot i found it to be a great experience i mean sp- 
+
+393.90 395.21 B: right 
+
+396.99 407.34 A: i think it was specifically in france as well like [sigh] uh our relationship with them has been kind of uh stretched and and uh a little bashed lately but uh i think 
+
+407.22 419.52 A: i think things are getting a little bit better and when i went over there they were just like i i also speak french fluently so it's it it was just a great experience to go over there and like talk with everybody and and i ended up going to like 
+
+415.06 416.84 B: mhm 
+
+419.76 434.53 A: uh going all around with with some of the french youth and just and just having fun yeah yeah it w- it was great we went to uh the french alps and we went to grenobyl yeah we went to a three day rave in grenobyl 
+
+424.14 427.14 B: oh that was oh i bet you that was beautiful 
+
+427.94 428.86 B: oh 
+
+430.26 431.95 B: oh really [mn] 
+
+434.54 438.36 A: and it was just absolutely bizarre it was great 
+
+438.46 441.36 B: [lipsmack] oh as as far as international 
+
+441.90 443.00 B: that i've been 
+
+443.13 444.58 B: is london 
+
+444.53 446.15 A: (( [noise] mhm )) 
+
+445.28 449.73 B: [mn] yeah um i had went over to london with my nephew [mn] um 
+
+449.96 452.48 B: at that time he was a um 
+
+452.68 457.73 B: professional kickboxing champion of the world [lipsmack] his name is maurice smith 
+
+455.62 457.54 A: (( [noise] mhm )) 
+
+458.07 464.07 B: and um i was travelling around with him you know um as his manager 
+
+458.20 459.01 A: okay 
+
+463.92 464.93 A: oh 
+
+464.68 470.31 B: and um we went to london uh we went to hong kong 
+
+470.52 477.09 B: um we went to australia and he had all these little fights and [noise] he was even on u. s. p. n. 
+
+476.88 478.66 A: right 
+
+477.80 480.06 B: you know um e. s. p. n. 
+
+479.70 481.20 A: right right the 
+
+480.41 488.71 B: and um you know um you know so i had been around but the place that i would really like to go is probably 
+
+489.29 491.82 B: the the south pacific 
+
+492.51 495.34 B: you know [mn] if i was gonna settle down there 
+
+492.52 493.40 A: okay 
+
+495.00 499.02 A: yeah yeah yeah yeah 
+
+496.26 498.82 B: yeah [mn] i mean 
+
+498.85 502.66 B: i mean it's so beautiful there [noise] i mean 
+
+502.81 504.41 B: it it [mn] 
+
+505.05 506.88 B: the weather is 
+
+507.29 508.31 B: iffy 
+
+508.47 509.59 B: you know 
+
+509.18 510.58 A: right 
+
+509.95 515.29 B: you know and i know that i'm stuck out there in the middle of a big ocean 
+
+515.42 518.48 B: you know but still you know 
+
+518.57 527.28 B: it's it's the the people there are so [noise] beautiful and down home they make you feel welcome and [noise] you know 
+
+525.29 527.50 A: (( [laughter] yeah yeah [mn] )) 
+
+527.59 531.71 B: you know i mean it's it's laid back and relaxed 
+
+531.00 532.66 A: exactly 
+
+531.94 532.85 B: you know 
+
+533.07 534.35 B: yeah 
+
+534.08 540.94 A: that's uh nothing like it is here [laughter] [mn] at least in uh [mn] in philadelphia yeah 
+
+538.24 540.72 B: in philadelphia 
+
+541.18 550.02 A: and i mean [mn] it it's not like real real uppity like new york but it's it's very it's pretty speedy and it's a big city and there's a lot of uh 
+
+544.67 545.69 B: uh-huh 
+
+548.69 550.36 B: yeah 
+
+549.99 558.33 A: especially in center city and whatnot there's just a lot of business and a lot of commerce going on 
+
+555.09 555.95 B: yeah 
+
+558.10 562.92 B: [mn] yeah um san francisco i'm pretty you heard about san francisco 
+
+562.89 566.20 A: uh well what about 'em 
+
+565.04 573.43 B: um it's it's it's um basically [noise] the same thing [mn] we have a area it's called 
+
+574.06 576.52 B: um [lipsmack] the financial district 
+
+575.88 577.86 A: right right 
+
+576.76 589.62 B: it's like boom boom boom boom just like running back and forth running back and forth [mn] and and plus we just opened up um you've heard of the bart system the subway system 
+
+582.04 583.87 A: yeah 
+
+589.02 596.81 A: uh okay uh i i haven't heard of it uh specifically for san francisco but i mean i know subway systems general [mn] 
+
+589.88 591.42 B: (( okay okay )) 
+
+593.23 594.07 B: okay 
+
+596.46 599.89 B: yeah [mn] okay well um they just opened up [mn] 
+

@@ -1,0 +1,446 @@
+# fe_03_00022.sph
+# Transcribed at the LDC
+
+0.22 0.73 A: hello 
+
+0.78 1.16 B: hi 
+
+1.32 1.90 A: how you doing 
+
+2.03 2.68 B: all right how are you 
+
+3.23 6.24 A: oh let's just say book of joe but a laugh track 
+
+7.11 9.59 A: the last thing i'm worried about is my health 
+
+9.87 11.58 A: my health is abominable 
+
+11.44 11.93 B: ah 
+
+12.41 15.79 A: nothing like being an asthmatic when the seasons change 
+
+16.57 16.91 B: mm 
+
+17.02 18.99 A: when you go from mold to cold 
+
+20.05 20.55 B: yea 
+
+20.79 22.03 A: from the frigid air 
+
+22.14 22.72 A: to such 
+
+23.23 29.52 A: and it works in both direction i mean admit it there comes that awkward point in spring when you sit there and go 
+
+30.16 33.22 A: there is the first ice cream truck of summer 
+
+34.25 35.25 B: ice cream truck 
+
+35.29 35.87 A: yup 
+
+36.32 36.67 B: huh 
+
+36.84 46.32 A: when your still mentally keeping track of it in that manner you know sitting there thinking there's somebody it's april it can't be fifty five degrees outside 
+
+46.47 51.00 A: there's the ice cream truck and you're going you brave fool 
+
+56.61 58.11 B: you know in the winter not that 
+
+62.50 64.70 A: exactly you cross link things 
+
+65.21 67.16 A: that holiday cup of hot 
+
+67.27 67.96 A: chocolate 
+
+68.39 76.16 A: that burns your tong and guarantees every thing you're going to eat for the next three week has a residual taste of hot chocolate 
+
+76.91 79.65 A: of burnt hot chocolate 
+
+79.80 80.17 B: right 
+
+81.31 81.91 A: but 
+
+82.44 86.22 A: it's you know when the seasons change so many little things hit you 
+
+87.00 89.99 A: my wife suffers terribly from daylight savings time 
+
+90.62 91.10 B: oh really 
+
+91.15 93.94 A: because november depression 
+
+94.03 95.30 A: and wham 
+
+95.29 96.32 B: yea i i get the 
+
+95.70 98.51 A: suddenly it's dark it's five in the afternoon 
+
+98.55 100.05 B: right i get the same phenomenon 
+
+100.66 104.44 B: it pretty rou- pretty bad i always end up really sleepy all the time 
+
+104.65 106.83 A: well the real trick is get a sun lamp 
+
+107.82 109.76 A: get a sun lamp and use it 
+
+109.88 110.88 A: use it in the morning 
+
+111.08 114.92 A: use it at night give your self the extra two ours of daylight 
+
+116.15 116.44 B: mm 
+
+116.19 116.55 A: and it's 
+
+116.65 117.74 A: worth the difference 
+
+117.79 128.22 B: yea that's what i've been told by my girlfriend who has some clinical depression which is something apparently it runs in my family my dad 
+
+127.25 130.00 A: seasonally effected disorder or something like that 
+
+129.43 130.87 B: yea i believe yea it's seasonal 
+
+131.03 131.92 B: effected yea 
+
+131.17 133.50 A: there's a syndrome for everything out there 
+
+133.93 141.48 A: and that's part of the problem you can sit there and say i'm having problems with this i think i have long division syndrome 
+
+141.81 145.54 A: huh i've got i've got microsoft excel syndrome 
+
+146.10 150.48 B: well yes it's easy to you know blame anything you want on a syndrome 
+
+149.95 155.74 A: we we we now have we now have super hypochondriacs 
+
+156.20 158.66 B: yes people think they're sick all the time 
+
+158.53 163.37 A: super hypochondriac (( oh expedite a doe shus )) 
+
+164.13 164.79 B: huh 
+
+165.26 174.42 B: yea no that's one of the things that never never quite made sense to me why exactly do we have daylight savings time it doesn't do anything for me 
+
+174.19 174.81 A: farmers 
+
+175.00 175.39 B: yea 
+
+175.93 177.15 A: blame it on ben franklin 
+
+178.29 181.93 A: seeing as i'm in philadelphia i love to blame just about everything on ben franklin 
+
+182.51 186.90 A: there's eight inches of snow out side and it's ben franklin's fault 
+
+186.04 187.75 B: yea that that's not 
+
+188.04 192.58 B: ah man i only wish we got that much snow and this has been driving me crazy 
+
+192.10 192.68 A: where are you 
+
+192.67 194.69 B: i live in central ohio in columbus 
+
+194.80 195.43 A: mm 
+
+195.54 205.07 B: and so what what ends up happening is that we hear how the lake effect has now dropped somewhere between six and eight feet on cleveland for sum reason cincinnati has 
+
+204.85 206.14 A: got a quarter of an inch 
+
+206.48 207.01 B: oh really 
+
+207.12 207.51 B: yea 
+
+207.53 211.04 A: something like yea it just drops off same with toronto 
+
+211.47 211.90 B: mm 
+
+211.57 215.66 A: you hear about the lake effect people think my god they live a hundred miles north of 
+
+215.76 216.62 A: buffalo they must have 
+
+216.72 219.59 A: dog teams and igloos 
+
+219.57 219.82 B: yup 
+
+219.79 221.75 A: (( and we're sitting here saying )) it's wine country 
+
+222.62 223.23 B: exactly 
+
+233.29 233.68 B: right 
+
+234.77 235.67 A: but huh 
+
+237.50 238.85 A: hey let them dream 
+
+239.26 239.74 B: yes 
+
+239.44 245.75 A: let them dream there's still plenty of people coming up to the canadian border with skis on the top of their truck you know in may 
+
+249.20 249.65 A: mm 
+
+259.81 261.55 B: canadians apparently just stare at them strangely 
+
+261.73 263.75 A: that's the scary thing i mean down here 
+
+263.87 265.07 A: no body has health care 
+
+265.52 266.49 B: exactly 
+
+265.98 267.93 A: everybody runs of huh you know 
+
+268.41 270.43 A: the vitamins the hole thing 
+
+270.67 272.24 A: and up in canada 
+
+272.33 275.87 A: quite frankly because everybody has health care something goes wrong 
+
+276.42 277.43 A: they leap to the doctor 
+
+278.09 280.97 A: and because of it it catches so much at the bud 
+
+281.72 284.18 A: that you don't get the major effect 
+
+292.90 293.23 A: yea 
+
+292.96 294.79 B: i always get it a little early so 
+
+302.39 302.67 B: and 
+
+315.19 316.23 B: i mean you you talk to 
+
+316.46 321.12 B: anybody on campus and you can't understand anything that's supposed to have a nasal in it 
+
+333.72 335.52 A: what's holding the plane up 
+
+335.74 336.15 B: right 
+
+336.09 340.85 A: do we have to shuffle the same stuff around over and over again i mean you know 
+
+341.00 344.51 A: if worst gets to worse punch a little hole 
+
+344.85 347.90 B: yea you kind of wish the windows would open 
+
+347.67 349.44 A: exactly you know 
+
+350.27 355.48 A: then of course you hear these wonderful stories about people being sucked out of planes from teeny tiny holes and what not 
+
+355.66 358.06 B: right or you know alien resurrection 
+
+358.51 359.30 A: exactly 
+
+360.47 361.07 A: but hum 
+
+361.82 365.02 A: health unfortunately most people again 
+
+365.32 367.76 A: most people don't know a damn about health until 
+
+367.91 368.99 A: the problems set in 
+
+369.07 369.43 B: right 
+
+369.95 372.70 A: and that's that's part of the trick we don't make 
+
+373.51 374.56 A: we don't make health 
+
+375.36 375.96 A: entertaining 
+
+378.04 382.22 A: you know doctors are paid per view obviously there's the problem 
+
+381.59 382.30 B: right 
+
+382.60 383.05 B: hum 
+
+383.22 386.36 B: that's an interesting concept i wonder what are the sort of things you can draw from that 
+
+391.82 394.13 A: notice that no body has come up with the idea 
+
+396.36 397.08 A: bubble gum 
+
+399.13 404.16 A: right there i have given them an idea that will pay for this entire process 
+
+404.37 404.93 A: i'm sorry 
+
+405.17 405.86 B: oh quite all right 
+
+406.36 409.19 A: ever noti- hey that's the other yea that's how you can tell 
+
+409.96 411.06 A: geniuses who put 
+
+411.63 412.89 A: key pads on 
+
+413.02 417.94 A: pay phones i mean on the phone so while your talking your cheek brushes the numbers 
+
+417.75 421.02 B: oh that dives me crazy particularly with cordless phones because huh 
+
+421.12 426.68 A: cordless phones are designed for people who's heads are a third the size of human beings 
+
+426.37 432.56 B: yes i completely agree with that or ones that have buttons that stick out as far as the ear piece does 
+
+432.68 433.11 A: mm 
+
+432.98 434.85 B: so you can't cradle the phone at all 
+
+435.76 440.08 A: i mean i want one that quite literally has a little microphone and a little ear piece so i can put them in 
+
+441.55 441.98 B: yes 
+
+442.31 442.84 A: there's nothing 
+
+449.99 456.95 B: huh ear pieces and just that little microphone on the side so every one walks around looks like they're talking to them selves 
+
+456.98 457.82 A: well there's the trick 
+
+458.07 460.76 A: right there you know if your going to be a schizophrenic 
+
+461.17 462.42 A: find a cell phone 
+
+462.78 466.71 A: find a dead cell phone and no one ever will know 
+
+468.34 470.75 B: tips on how to be functional in society 
+
+470.90 473.75 A: yea you know you just have to look functional 
+
+473.55 473.89 B: right 
+
+474.85 475.82 A: i mean hum 
+
+476.17 478.28 A: in japan they actually have 
+
+479.24 479.94 A: hair color 
+
+480.47 482.88 A: that they sell to kids who's hair isn't 
+
+483.06 483.93 A: as black 
+
+484.31 485.95 A: as the other kids in their class 
+
+485.82 486.39 B: really 
+
+486.55 486.97 A: yup 
+
+487.11 488.05 B: that i wasn't aware of 
+
+487.25 488.37 A: that's conformity 
+
+489.19 492.03 A: that's scary conformity 
+
+491.89 496.93 B: yea well i mean they've gotten an interesting culture there which is also huh 
+
+497.12 498.67 B: kind of peculiar in a couple of ways 
+
+498.96 499.22 B: but 
+
+498.96 499.37 A: oh yea 
+
+499.74 501.17 A: you know hey 
+
+501.50 511.24 A: you know we we eat mars bars and twinkies after they've been deep fried i don't think we have any right to say we're the supreme country on the face of the planet 
+
+510.48 512.24 B: true enough 
+
+513.03 514.56 B: huh i just remember huh 
+
+514.90 515.92 B: reading on huh 
+
+516.03 524.40 B: flash (( dot )) which is a new site online about a phone scam which had been going around japan in which apparently a bunch of people had been 
+
+518.45 518.81 A: mm 
+
+524.56 527.30 B: huh they they're referred to as one ring 
+
+527.62 528.96 B: scams where 
+
+529.06 533.76 B: hum somebody huh these companies would call peoples cell phones and then 
+
+545.53 550.15 B: since there's such conformity you don't want to say hey i you know 
+
+550.38 553.38 B: i was tricked into calling this company 
+
+553.48 554.88 B: quite a few people just paid it 
+
+555.16 556.84 B: and apparently hum this 
+
+557.17 561.99 B: continues until they actually brought down a wireless phone net work in osaka 
+
+562.09 563.80 A: well they did something like that in australia 
+
+564.09 565.15 A: huh gut they would 
+
+565.28 577.06 A: basically you would join a club you would refu- you know they would cancel the membership because of lousy service and they would send you back your refund but the check would say something like uh you know chronic masturbaters of australia 
+
+578.36 582.91 A: something that was so degrading and vile that you wouldn't show it to people in public 
+
+583.70 584.64 A: and because of that 
+
+585.08 587.39 A: most of the checks never got cashed 
+
+590.42 591.59 A: i have no shame 
+
+591.71 598.24 A: then again i don't think anybody who does any kind of a serve or situation like this could honestly say 
+
+598.81 599.75 A: that huh you know 
+
+600.05 604.01 A: they're going to be as shy and awkward as the first person 
+
+604.50 604.90 B: yea 
+
+605.01 609.16 B: well it's interesting to see how people would behave in different context as well 
+
+609.74 610.18 B: huh 
+
+610.61 615.44 B: cause i've been i normally consider my self a fairly out going person who can usually talk 
+
+615.63 616.73 B: huh even 
+
+616.19 618.01 A: what kind of introvert would do this 
+
+618.39 619.67 B: that's a very good point 
+
+618.73 626.68 A: that's that's the scary thing when you think about it when you know what kind of people fill out surveys 
+
+619.97 620.76 B: i was 
+
+621.22 622.10 B: wondering about that 
+
+627.33 631.22 A: when they tell me four out of five doctors came up with this conclusion which four 
+
+631.69 632.78 A: who's the fifth 
+
+633.17 641.38 A: what are the fifth like what it half of them don't take these test then we only have four out of five no actually we're looking at two out of eight 
+
+642.80 652.69 B: and really that that that's the thing that's sort of interesting particularly polling in the u._s. now if you ever watch c._n._n. their on line poll says this or that 
+
+651.80 654.54 A: plus or minus four percent sixty two percent of the time 
+
+654.44 655.58 B: yes precisely 
+
+655.10 655.74 A: so 
+
+655.96 661.96 A: you sit there and say if your fifty two percent right with in pus or minus four percent how often are you right a hundred percent of the time 
+
+662.88 663.28 A: none 
+
+663.43 666.10 A: thank you then what your saying is bull shit numbers 
+
+664.04 664.42 B: yes 
+
+666.16 667.08 B: exactly 
+
+667.60 672.02 B: well what the d._b. disclaimer is the thing that blows my mind not a scientific poll really 
+
+671.41 681.13 A: mm (( )) my mother said to pick this poem 
+
+682.37 683.70 A: i'm not surprised 
+
+684.33 690.47 A: i'm not surprised that we you know we're the country who can't hey if we're the country where there's twenty five million illiterate people 
+
+690.67 692.94 A: how accurate do you expect the numbers to be 
+
+695.46 698.22 B: huh well i mean that that's huh 
+
+698.36 701.29 B: this country has some interesting things about it and that 
+
+701.94 705.47 B: the voter turn out seems to be just about as accurate as the huh 
+
+705.77 710.30 B: online polls and things like that where you end with what like twenty five percent of 
+
+710.49 710.99 B: the 
+
+711.55 716.82 B: twenty five percent of the fifty percent of the u._s. populous who actually voted for one person or another 
+
+717.04 717.52 A: oh yea 

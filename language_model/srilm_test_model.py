@@ -8,24 +8,23 @@ from constants import srilm_path
 from constants import model_order as order
 from constants import test_data_clean_path
 from constants import test_data_post_path
+from constants import train_data_clean_path
 from constants import srilm_language_models_path as lm_path
 from constants import temp_test_file
 from postprocessing import vocabulary
 from postprocessing import postprocess
 
 def test_model(test_dir, output_file, language_model, doc_limit=1000, word_limit=600):
-
+    # perform postprocessing step first: THE VOCAB CALL NEEDS TO CHANGE TO CALL THE txt instead
     '''
-    # perform postprocessing step first
-    vocab = vocabulary(lm_path + '/' + language_model)
+    vocab = vocabulary(train_data_clean_path + '/' + language_model + '.txt')
     test_dir_path = test_data_clean_path + '/' + test_dir
     test_dir_path_post = test_data_post_path + '/' + test_dir
     for test_file_name in os.listdir(test_dir_path):
         postprocess(vocab, test_dir_path + '/' + test_file_name, 
                     test_dir_path_post + '/' + test_file_name )
     '''
-    
-    language_model = lm_path + '/' + language_model
+    language_model = lm_path + '/' + language_model + '.lm'
     ngram_cmd = srilm_path + '/ngram'
     output_file = open(output_file, 'w')
     output_file.write('file_name,oov,doc_length,logprob,ppl,ppl1\n')
@@ -51,7 +50,7 @@ def test_model(test_dir, output_file, language_model, doc_limit=1000, word_limit
 			language_model,
 			'unk',
 			'-order',
-			order,
+			'3',
 			'-ppl',
 			temp_test_file,
 			'> logs/test_output.txt']
@@ -88,6 +87,6 @@ for test_dir in os.listdir(test_data_post_path):
 		test_model(test_dir, output_file, lm)
   '''
     
-output_file = 'test_output/' + 'nytimes' + '_' + 'cloze_tests' + '.txt'
-test_model('cloze_tests', output_file, 'nytimes.lm')
+output_file = 'test_output/' + 'medline_punct_3' + '_' + 'cloze_tests' + '.txt'
+test_model('cloze_tests', output_file, 'medline_punct_3')
 

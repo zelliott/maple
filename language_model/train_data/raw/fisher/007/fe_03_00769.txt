@@ -1,0 +1,509 @@
+# fe_03_00769.sph
+# Transcribed by BBN/WordWave
+
+0.46 1.72 A: hello 
+
+1.33 2.84 B: (( hello hi this )) 
+
+2.93 4.09 A: katarina 
+
+4.02 5.42 B: (( is katarina )) 
+
+4.17 4.74 A: (( hi )) 
+
+4.83 5.92 A: (( this is )) 
+
+5.79 7.53 B: yeah who dustin 
+
+7.43 8.41 A: (( dustin )) 
+
+8.30 9.54 B: (( dustin hey )) 
+
+9.14 10.32 A: dustin 
+
+10.22 11.54 B: (( [laughter] is )) 
+
+10.67 13.04 A: (( yeah [laughter] )) 
+
+11.64 13.57 B: (( this good how are you good no this is my )) 
+
+13.33 14.72 A: how are you i'm 
+
+14.63 17.12 B: (( first phone call that actually got through )) 
+
+16.80 17.91 A: (( doing all right have )) 
+
+17.58 19.64 B: (( i've been yeah this is what )) 
+
+19.04 22.23 A: (( you done this before me too actually i )) 
+
+23.18 23.95 A: (( think )) 
+
+23.23 27.70 B: ((  )) 
+
+26.87 28.56 A: (( this is the first one )) 
+
+28.25 32.25 B: ((  )) 
+
+32.51 33.29 B: (( [laughter] czech )) 
+
+33.81 37.51 A: (( i've gotten so this is the first call i've gotten for the thing )) 
+
+37.53 39.38 B: (( republic [laughter] yes way why why does )) 
+
+39.18 42.14 A: (( yeah oh it just rings )) 
+
+40.18 41.32 B: (( it surprise you you're )) 
+
+43.19 44.91 B: (( from )) 
+
+44.92 46.95 B: (( los angeles oh wow )) 
+
+47.08 51.70 B: ((  )) 
+
+52.18 53.04 B: (( now )) 
+
+52.82 53.78 A: (( [laughter] um )) 
+
+53.43 58.27 B: (( i'm in utah so yeah no no i just go to school here oh yes uh-huh yep that is correct i )) 
+
+57.86 60.94 A: (( i think it's just )) 
+
+62.74 65.04 A: (( kind of funny to just )) 
+
+65.15 67.66 B: (( go to b._y._u. do you know do you )) 
+
+67.08 68.47 A: (( to )) 
+
+69.24 70.52 B: (( know b._y._u. )) 
+
+70.45 71.40 A: (( get )) 
+
+72.75 74.54 A: (( like people to )) 
+
+73.92 76.64 B: (( i am well i guess you know something [laughter] uh-huh )) 
+
+76.42 77.82 A: (( talk you )) 
+
+77.80 79.51 B: (( yeah )) 
+
+79.23 80.32 A: (( know )) 
+
+80.28 82.55 B: (( yeah i guess )) 
+
+82.04 83.39 A: (( i don't )) 
+
+84.10 90.74 B: ((  )) 
+
+84.12 85.39 A: (( know )) 
+
+86.77 87.80 A: (( kind of weird )) 
+
+89.97 92.62 A: (( how they have ah the recording )) 
+
+92.96 95.40 A: (( and everything where where you where are )) 
+
+93.92 96.35 B: (( [laughter] because like see at first )) 
+
+95.94 97.28 A: (( you from )) 
+
+97.07 98.66 B: (( i didn't even know )) 
+
+99.39 101.37 B: (( what perjury is and then my )) 
+
+101.16 103.73 A: (( no way i'm in )) 
+
+103.92 105.86 B: (( friend explained to me that )) 
+
+105.31 106.45 A: (( ah los angeles )) 
+
+106.18 107.46 B: (( it's like kind of )) 
+
+106.91 109.47 A: (( yeah that's where i am you're )) 
+
+109.35 111.02 B: (( lying right oh my goodness uh-huh oh okay )) 
+
+110.80 112.83 A: (( not lying to me are you wow )) 
+
+112.85 113.94 B: (( oh wow so would )) 
+
+112.93 115.24 A: (( wait so so do we have )) 
+
+114.60 119.71 B: (( you ever do that uh-huh yeah hm )) 
+
+116.45 117.65 A: (( to pay long )) 
+
+118.11 119.95 A: (( distance or something )) 
+
+119.86 132.57 B: ((  )) 
+
+120.56 121.30 A: (( is )) 
+
+131.83 133.98 A: (( that the deal oh )) 
+
+132.85 133.62 B: (( did )) 
+
+134.06 136.52 A: (( where are you oh you're )) 
+
+135.42 140.22 B: (( it just because it's your friend or would you tell the truth )) 
+
+139.72 140.57 A: (( in )) 
+
+140.64 142.34 A: (( utah but )) 
+
+142.41 143.50 A: (( you )) 
+
+143.88 144.67 A: (( you )) 
+
+144.88 146.76 A: (( were born there )) 
+
+146.60 147.91 B: (( if you swore on )) 
+
+146.85 148.34 A: (( no you )) 
+
+148.94 150.07 B: (( the bible uh-huh mhm )) 
+
+151.22 152.90 A: (( were born in )) 
+
+152.91 153.66 A: (( the )) 
+
+153.71 156.41 A: (( czech republic wow )) 
+
+156.89 167.19 B: (( mhm so if if somebody in your life that you would want to want this to happen like to to punish him would you punish anybody oh )) 
+
+162.85 164.05 A: (( where do you )) 
+
+167.72 169.84 B: (( my goodness i'm )) 
+
+169.41 170.75 A: (( go to )) 
+
+170.35 173.95 B: (( sorry uh-huh uh-huh uh-huh wow hm )) 
+
+171.36 172.34 A: (( school )) 
+
+172.85 175.19 A: (( oh really yeah )) 
+
+174.88 177.52 B: (( it is i'm i'm surprised actually )) 
+
+177.89 184.24 B: (( because you know now that i'm thinking about it too you know after you explained to me )) 
+
+181.63 182.39 A: (( are )) 
+
+183.75 184.67 A: (( you )) 
+
+184.50 186.14 B: (( what exactly it means you know )) 
+
+186.24 187.18 A: (( a mormon )) 
+
+187.40 195.60 B: (( i don't think i would i would um i don't think i would lie just because i mean come on i believe in )) 
+
+187.47 188.32 A: wow 
+
+191.63 192.50 A: (( [laughter] ah )) 
+
+195.72 198.42 B: (( god and so i would )) 
+
+197.78 198.82 A: yeah 
+
+198.87 200.09 A: (( i used to )) 
+
+200.66 204.02 A: (( ah love like the forty niner's and like )) 
+
+204.61 205.42 A: (( steve )) 
+
+205.69 206.95 A: (( young and )) 
+
+206.99 210.18 A: (( like like that his great great )) 
+
+210.83 211.92 A: (( grandfather's )) 
+
+212.08 213.74 A: (( he )) 
+
+214.14 214.81 A: (( was )) 
+
+214.87 224.18 A: (( brigham young or something [laughter] [mn] )) 
+
+220.67 221.96 B: (( not )) 
+
+222.10 226.35 B: (( lie to him and if i swear to god that i wouldn't lie why would i )) 
+
+226.45 228.20 B: (( lie you know )) 
+
+228.42 231.53 B: (( that just doesn't make sense to )) 
+
+232.20 234.52 B: (( me and like i w- i )) 
+
+234.78 239.56 B: (( would hate myself for the rest of my life i would be like judah you know )) 
+
+238.57 239.49 A: (( okay )) 
+
+239.64 242.59 B: (( i would have to just kill myself if )) 
+
+242.84 248.18 B: (( i lied if i did something against god and so w- of course )) 
+
+247.41 249.05 A: (( mhm )) 
+
+249.09 249.81 A: (( yeah )) 
+
+249.91 255.87 A: (( it's lying in like court like under oath supposedly like ah )) 
+
+255.88 256.83 A: (( i think )) 
+
+257.10 258.96 A: (( you put your hand on the )) 
+
+260.66 265.71 B: (( i have but it was it was just because i was stupid and because i make mistakes just like everybody )) 
+
+265.10 268.52 A: (( bible actually you're supposed to like swear )) 
+
+266.10 269.79 B: (( else you know but i'm trying to not lie really and also )) 
+
+269.45 270.98 A: (( under god and and all )) 
+
+270.73 274.78 B: (( not judge other people because that's just not my place you know to judge others because )) 
+
+275.05 278.86 B: (( i don't want to be judged by others either so )) 
+
+276.42 277.39 A: (( that and ah )) 
+
+277.71 278.77 A: (( yeah )) 
+
+279.19 280.05 A: (( um )) 
+
+279.48 281.43 B: (( why would i judge them so )) 
+
+281.05 292.32 A: (( i don't know i've never really thought about it it it it'd all depend on like consequences and you know all the circumstances as far as depending on you know i )) 
+
+284.18 285.20 B: (( you )) 
+
+292.38 295.26 A: (( i you know i i i )) 
+
+295.97 298.01 A: (( wouldn't want )) 
+
+298.40 301.10 A: (( to say no you know because like i )) 
+
+301.74 303.78 A: (( i would never know if i was in )) 
+
+303.80 308.16 A: (( that situation and if i would you know change my mind ah well it it all depends )) 
+
+308.41 309.54 B: (( know but to )) 
+
+308.72 311.22 A: (( you know it all depends on as far )) 
+
+311.35 312.25 A: (( as )) 
+
+312.44 313.21 A: (( i c- )) 
+
+313.59 318.79 A: (( if i felt you know he deserved see then it kind of it kind of goes like as far )) 
+
+318.87 320.13 A: (( as where i )) 
+
+320.14 323.36 A: (( have control and like if i would )) 
+
+322.30 324.71 B: (( judge yeah well i'm sure yes i )) 
+
+324.63 326.46 A: (( want to you know if )) 
+
+325.87 326.87 B: (( i'm sure )) 
+
+326.49 328.27 A: (( i'd want him to )) 
+
+328.29 337.91 A: (( get punished for this or if i you know if i want to do all i can in my power to help that person [laughter] you know it i )) 
+
+338.20 342.82 A: (( i now that you said that a person actually came to my mind really )) 
+
+342.44 344.36 B: (( you- you're right but i think )) 
+
+342.89 343.94 A: (( yeah )) 
+
+344.39 345.16 A: (( but )) 
+
+345.47 347.57 A: (( i haven't )) 
+
+347.61 349.16 A: (( really i haven't really )) 
+
+349.64 351.41 A: (( thought about )) 
+
+351.94 353.82 A: (( that )) 
+
+352.11 353.89 B: (( that even though it's natural like we )) 
+
+354.06 360.04 B: (( can't help it we can still we we can just keep it in ourselves we don't have to carry it out you know )) 
+
+354.27 355.05 A: (( though )) 
+
+358.95 368.46 A: (( yeah i i guess i wouldn't but it's kind of funny that you said that because this person kind of popped up )) 
+
+368.10 369.44 B: (( we don't have )) 
+
+368.96 370.57 A: (( into my )) 
+
+371.22 372.90 A: (( head and i haven't thought )) 
+
+373.20 375.83 A: (( about this person in a long time )) 
+
+376.12 376.96 A: (( wow )) 
+
+376.98 377.82 B: (( to like )) 
+
+378.05 378.90 A: (( that's )) 
+
+379.27 384.13 A: (( interesting you wouldn't how old are you yo- you you've never lied in your )) 
+
+384.48 387.36 A: (( life [laughter] yeah that's right i knew that )) 
+
+389.17 390.22 A: (( i think )) 
+
+391.89 392.63 A: (( it's )) 
+
+392.83 393.75 A: (( very )) 
+
+395.03 402.17 A: (( natural though you know judge judgment is it naturally occurs and it's just constant no matter what it's being human )) 
+
+401.10 403.65 B: (( um )) 
+
+402.34 407.80 A: (( uh-huh [laughter] verbalize it or thank you i like your voice too you know [laughter] thanks [laughter] can i ask you )) 
+
+407.99 411.04 A: (( how old you are twenty five guess what would you say really i'm )) 
+
+410.47 412.54 B: (( yes or like like punish the people )) 
+
+411.10 411.98 A: (( nineteen )) 
+
+412.55 414.64 A: (( nineteen [laughter] you sound )) 
+
+414.13 416.20 B: (( you know say you are the )) 
+
+416.07 417.78 A: (( younger than twenty five )) 
+
+417.53 418.76 B: (( worst person in )) 
+
+418.49 420.59 A: (( actually i )) 
+
+420.51 421.34 B: (( the )) 
+
+421.49 423.76 A: (( don't know it could go either )) 
+
+422.44 423.66 B: (( world you know i )) 
+
+423.82 428.01 A: (( way does like the time click off or something )) 
+
+427.55 428.86 B: (( don't think it's our )) 
+
+428.10 429.10 A: (( does )) 
+
+429.10 430.70 B: (( right to do that just because )) 
+
+429.38 431.53 A: (( the time click off when we when )) 
+
+431.49 432.83 B: (( i mean )) 
+
+431.58 437.27 A: (( we stop talking [laughter] [laughter] oh really [laughter] do you keep talking or something )) 
+
+437.28 442.17 B: (( i don't know it just doesn't it's not it's not right you know like i )) 
+
+440.35 441.09 A: [laughter] 
+
+442.21 442.96 A: (( um )) 
+
+442.97 443.73 B: (( can't tell )) 
+
+443.04 447.06 A: (( that's a that's i believe in a higher power like i guess you could you )) 
+
+447.52 448.40 A: (( know )) 
+
+448.77 452.10 B: (( you even though i don't know you i can't tell you i don't really )) 
+
+448.92 450.65 A: (( sum it down to that you know god )) 
+
+451.49 452.23 A: (( but )) 
+
+452.47 454.98 B: (( like your voice like your voice is weird it's not )) 
+
+454.46 461.14 A: (( i don't know sometimes i find myself losing that belief like where i just feel as though there isn't a higher being and it's like just me it is )) 
+
+460.98 463.68 B: (( true but i mean i like your voice but )) 
+
+461.50 462.11 A: (( just )) 
+
+463.95 469.72 A: (( like my control as far as my whole existence but yeah but those those times don't come too often )) 
+
+464.12 465.11 B: (( you know )) 
+
+469.86 470.68 A: (( though )) 
+
+470.83 475.95 B: (( i can't say that )) 
+
+477.87 478.83 A: (( [laughter] )) 
+
+478.23 481.17 B: (( because you don't deserve that nobody deserves that how old twenty five yeah how )) 
+
+481.20 482.57 B: (( about you oh )) 
+
+482.03 483.57 A: (( [laughter] you know mos- most )) 
+
+482.88 493.68 B: ((  )) 
+
+488.17 489.19 A: (( of the time )) 
+
+491.47 493.08 A: (( i give it to thanks to )) 
+
+493.70 499.31 B: (( this is the first time so i don't know what's going to happen i suppose they're just going to cut )) 
+
+497.02 497.98 A: (( the god in )) 
+
+498.24 499.49 A: (( the higher )) 
+
+499.70 500.62 A: (( power )) 
+
+499.89 504.18 B: (( us off yeah but but let's talk more about this )) 
+
+505.22 506.62 A: (( usually there like )) 
+
+506.73 514.98 A: (( like especially now just how i'm living and just like earlier i wasn't feeling too good but now it's kind of a )) 
+
+514.84 520.11 B: ((  )) 
+
+519.76 520.91 A: (( lot better )) 
+
+520.54 530.20 B: (( uh-huh uh-huh so do you feel like um like like when you when you do something good and when something good happens do you like give credit to yourself because you did it oh that's )) 
+
+530.42 537.09 B: good you know what i fi- you know what i find kind of bad is ah when i'm feeling bad i kind of blame my god too 
+
+531.03 532.09 A: mhm 
+
+536.92 539.04 A: oh yeah that's typical 
+
+537.68 538.62 B: yeah 
+
+539.25 540.28 A: because 
+
+539.38 540.82 B: (( okay i thought )) 
+
+540.67 551.84 A: unfortunately though people usually think of god when something bad happens and they curse him and they don't like him they hate him and they think it's his fault but when something good happens you know it's 
+
+552.10 558.93 A: usually god is not undermined very often which is sad and that's the way it is in my country 
+
+558.90 567.56 A: and i know it's it's in minds of a lot of people you know because they don't know god and that's the problem i was the same way 
+
+567.43 576.13 A: i i haven't been a member of the church my whole life and so i i you know i had those feelings too so now i 
+
+576.08 582.81 A: i can see both sides you know and i can tell you it's so much better where i am now 
+
+582.91 586.81 A: than where i was you know five years ago 
+
+587.50 588.40 A: (( so )) 
+
+590.57 591.71 A: (( i don't know )) 
+
+591.75 593.74 B: ((  )) 
+
+592.62 594.20 A: (( are you )) 
+
+594.38 595.34 A: (( still )) 
+
+595.31 596.89 B: (( quiet [laughter] but yeah so )) 
+
+596.05 597.05 A: (( there )) 
+
+598.09 599.89 A: (( yeah yeah i'm listening oh no )) 
+

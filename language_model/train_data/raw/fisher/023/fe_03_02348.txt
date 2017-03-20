@@ -1,0 +1,437 @@
+# fe_03_02348.sph
+# Transcribed by BBN/WordWave
+
+0.05 1.28 B: (( hello )) 
+
+0.76 1.93 A: hi 
+
+1.80 2.86 B: (( how ya doing )) 
+
+2.54 5.70 A: good how you doing are you on a speaker phone 
+
+3.78 4.81 B: (( all right )) 
+
+5.37 6.71 B: yes are you 
+
+6.38 8.41 A: no i'm not i 
+
+7.66 8.44 B: [noise] 
+
+8.69 10.79 A: that's okay you you can stay on it 
+
+10.22 11.46 B: (( no it's all right )) 
+
+10.84 11.83 A: it's fine 
+
+12.62 13.37 B: so 
+
+12.63 16.59 A: so uh where are you from are you from boston 
+
+16.62 18.17 B: no i'm from new jersey 
+
+18.01 19.08 A: (( get out of here )) 
+
+18.62 19.57 B: yeah 
+
+19.21 20.74 A: how'd you hear about the project 
+
+20.70 23.63 B: oh i um heard from a friend on line mhm 
+
+23.69 25.04 A: oh very cool 
+
+25.36 32.37 A: interesting uh all right so i guess what's the topic what do you dislike most 
+
+29.92 30.76 B: going to 
+
+31.55 34.15 B: yeah i think gossiping is the worst 
+
+34.07 36.26 A: you think more so than smoking 
+
+35.99 41.68 B: well yeah because the gossiping people cannot defend themselves if they're if they're not around 
+
+41.93 44.38 A: but what if they are around 
+
+43.19 46.14 B: well if they are around it wouldn't be gossiping right 
+
+45.46 46.67 A: it wouldn't be 
+
+46.20 47.08 B: no 
+
+46.95 49.12 A: it just be like telling someone to their face 
+
+48.71 49.94 B: (( right exactly )) 
+
+49.72 51.98 A: okay interesting 
+
+50.23 51.94 B: (( mhm what do you think )) 
+
+52.32 59.80 A: i think it's smoking personally only because it's it's really one of the only 
+
+54.11 55.05 B: mhm 
+
+60.07 62.94 A: consumer habits you know 
+
+62.99 64.82 A: you know i don't know 
+
+64.86 71.60 A: anything a c- a consumer does that is legal but still harms other people 
+
+66.65 67.57 B: right 
+
+71.36 72.23 B: true 
+
+72.32 84.28 A: for instance like second hand smoke has been proven to cause these effects in children whose parents' smoke and i'm i'm assuming if you work in a bar or whatever you have higher health risk than the average person and 
+
+84.22 86.03 B: (( that's v- [cough] very fair )) 
+
+84.90 88.19 A: it just seems like it's a little unfair to the other person to me 
+
+88.21 89.25 B: very true 
+
+90.13 91.29 B: yeah very true 
+
+91.04 92.01 A: (( i don't know )) 
+
+91.64 92.50 B: [laughter] 
+
+92.21 94.42 A: but you're right gossiping is pretty bad 
+
+94.12 96.60 B: yeah because they can't defend themselves you know 
+
+96.76 97.82 B: but um 
+
+98.52 101.85 B: but um is this the first time you're doing one of these calls 
+
+102.22 104.68 A: uh actually i did one yesterday 
+
+104.35 105.54 B: oh yeah 
+
+105.14 111.89 A: yeah i kinda work for the company who's doing these tests and they wanted they needed more people to do it so i figured i'd sign up 
+
+111.69 112.91 B: oh it's interesting 
+
+112.68 118.17 A: yeah where do you do you are you in the technology field or you just heard about it from a friend or 
+
+118.00 121.69 B: (( i'm in the [cough] excuse me i have a little cold but um )) 
+
+120.44 121.42 A: that's okay 
+
+121.90 128.23 B: i have um i'm in the um customer um service i do customer service and um 
+
+128.29 130.32 B: you could say it's technology also 
+
+130.00 131.69 A: right which company you work for 
+
+131.73 138.81 B: well i work for a local company i don't wanna say [laughter] um but it's um very known it's a cable company 
+
+134.28 135.83 A: oh okay that's fine 
+
+138.82 139.98 A: oh right on 
+
+139.71 141.05 B: yeah 
+
+140.54 143.03 A: very nice very cool 
+
+141.37 142.79 B: yeah so [cough] 
+
+143.71 153.30 A: inter- yeah i find it interesting with i i talked to someone yesterday from like illinois or something and she just was you know a regular person who just called in i find it pretty amazing 'cause 
+
+153.63 156.52 A: [cough] wi- the company i work for is 
+
+156.56 165.81 A: and i guess i'm up to working on it in the future we're we're actually gonna be looking at all the data and figuring out what it means and helping to train the models and whatnot yeah 
+
+163.41 164.39 B: oh really 
+
+164.87 166.48 B: yeah sounds interesting 
+
+166.48 169.57 A: it's very interesting it's interesting stuff 
+
+169.15 174.59 B: well i've been do- doing surveys for several years but um i never did anything like this 
+
+174.85 179.01 A: yeah it's very do you know sort of what's going on with the project or 
+
+178.77 183.08 B: well well i have an idea but um not really if you you wanna explain it or 
+
+182.90 186.30 A: yeah i mean what's what's happening is is that um 
+
+186.87 189.92 A: i work for i work in a speech recognition division 
+
+190.05 198.26 A: and in order to make a lot of the the in order to make a lot of the systems work you have to generate these models that sort of 
+
+198.44 212.90 A: have a certain vocabulary in 'em and then you figure out the traits of the vocabulary and then they sort of match it up to the uh the user's speech patterns in their voice and they try to get similarities between what 
+
+213.03 220.59 A: a user's word is that he says he or she says and then matches it to a word that's kind of already in your vocabulary say 
+
+220.18 221.46 B: (( mhm mhm mm that )) 
+
+221.05 227.45 A: so by getting all these people to talk about things and just getting different dialects and um 
+
+227.53 236.68 A: you know different sort of like idioms that people talk about you're just we're building this big model so that we can get conversational speech you know 
+
+236.70 237.77 B: (( that sounds )) 
+
+237.78 244.75 A: yeah 'cause see right now with speech recognition is kind of hard for conversations like this because uh 
+
+245.57 258.09 A: you know there's just so many there's just so many rules and so many times we break the rules but we can't but we can still understand each other that's hard for like an automated process like a computer or whatever to figure out what's really going on 
+
+257.88 260.24 B: (( good [cough] excuse me science )) 
+
+260.51 262.68 B: (( it's hard to understand science right )) 
+
+262.37 263.22 A: what 
+
+262.91 264.14 B: well it's science 
+
+264.45 266.43 A: you're right 
+
+264.95 270.56 B: yeah and so i- you never can really follow the rules with science because you have to 
+
+271.22 273.37 B: you know [noise] go on your own 
+
+273.78 275.41 B: judgement 
+
+275.53 276.26 B: like 
+
+276.33 280.13 B: so you're calling from like um right now you're located in a college 
+
+280.03 283.05 A: no no i'm at a company in boston 
+
+282.86 283.72 B: okay 
+
+283.39 294.96 A: yeah so and yeah i guess the system i think that we're working with another school with this who who is actually administering the fisher project 
+
+291.76 292.67 B: mhm 
+
+294.92 298.72 A: but i think they're using some of our recognition models and stuff for this 
+
+300.24 308.93 A: [lipsmack] so it's it's pretty interesting yeah uh what were the other options to that going i guess going back to the 
+
+301.97 303.29 B: yeah it 
+
+308.86 309.87 B: is subject 
+
+309.53 315.27 A: subject what were the other options it was like gossiping smoking 
+
+310.51 311.22 B: (( i mean )) 
+
+315.67 317.24 A: uh 
+
+317.48 319.00 A: i forgot the other ones 
+
+318.64 320.35 B: oh my goodness [laughter] 
+
+320.97 323.12 A: it it was 
+
+322.75 324.28 B: i just remember those two 
+
+324.53 325.31 B: because 
+
+324.59 326.53 A: no drinking was one 
+
+326.14 329.17 B: well some drinking yes you know [cough] 
+
+328.63 329.66 A: uh 
+
+330.82 336.16 B: but i don't i i hardly ever drink i don't know about yourself but well 
+
+334.89 336.70 A: yeah 
+
+336.33 337.35 B: i mean 
+
+337.71 341.08 B: the last time i drank maybe was um several months back 
+
+340.64 342.51 A: right 
+
+341.29 342.44 B: so um 
+
+343.81 350.20 B: you know occasional drink i guess is um wouldn't harm anything if you um if you're in a certain place with um 
+
+348.32 355.20 A: yeah as long as you're responsible about it and don't you know don't drive or anything that's ridiculous 
+
+351.73 352.80 B: exactly 
+
+354.78 355.94 B: no that's true 
+
+356.59 361.88 B: because if you [cough] excuse me if you drink and drive you're taking other people's lives 
+
+361.76 362.86 A: exactly 
+
+363.11 365.04 B: and um that's very selfish 
+
+363.74 365.33 A: exactly 
+
+365.67 369.38 A: very selfish kinda like smoking no i'm kidding [laughter] 
+
+367.57 370.57 B: yeah well [laughter] yeah true 
+
+370.31 379.91 A: but i guess it's not as as extreme right now but a lot of i think boston is uh they're out they're banning smoking in every public 
+
+374.49 375.23 B: well 
+
+380.19 381.20 A: place 
+
+380.76 382.69 B: well they're trying to do that in new york 
+
+382.62 384.77 A: yeah i think it's already in effect though isn't it 
+
+384.71 390.92 B: mm i'm not really sure but i the last time i think i heard w- it pretty much was so if i'm not mistaken 
+
+385.91 387.13 A: right 
+
+389.00 392.56 A: yeah yeah 
+
+391.92 393.05 B: so um 
+
+392.80 396.39 A: uh so do you live near the city or are you more in 
+
+396.18 398.05 B: i'm more in towards philadelphia 
+
+397.78 400.48 A: towards philadelphia okay very nice 
+
+398.77 399.89 B: mhm 
+
+399.95 402.79 B: i live in like in the shore area 
+
+402.97 403.80 B: so 
+
+403.65 404.76 A: right 
+
+403.83 405.12 B: [cough] excuse me 
+
+405.35 414.87 A: oh that's nice i've never really been to new jersey i don't think i've driven and i and i live so close i mean i just i've driven through the top of it and that was it [laughter] 
+
+408.90 409.50 B: (( mm )) 
+
+414.27 418.42 B: [laughter] well i think boston's like how many hours away five hours 
+
+418.34 420.02 A: from where boston 
+
+419.60 421.92 B: from new jersey you know jersey and boston 
+
+421.66 424.37 A: yeah it's probably something like that 
+
+423.01 424.01 B: yeah 
+
+424.53 426.15 A: (( but i used to live in connecticut )) 
+
+425.96 426.85 B: oh 
+
+426.47 429.59 A: so i was only maybe about two and a half hours away 
+
+429.31 430.43 B: yeah 
+
+430.24 432.40 A: from cer- from certain areas 
+
+432.54 434.15 A: but um 
+
+434.98 440.76 A: gossiping huh yeah i can see that i think that's that's respectable 
+
+435.96 437.78 B: yeah gossiping number one 
+
+438.86 439.56 B: i 
+
+440.42 443.92 B: yeah because i worked in a office for several years and um 
+
+442.81 444.66 A: yeah 
+
+444.12 457.17 B: you see it you see it all the time and well even and people cannot defend themselves so i believe in if you if you wanna say something if you are going to say it you make sure you are able to say it in front of that person 
+
+457.49 459.35 A: yeah 
+
+457.90 460.02 B: you know what i mean you don't 
+
+459.80 463.45 A: yeah exactly i mean that that only makes the most sense i mean 
+
+462.81 463.76 B: mhm 
+
+463.79 468.54 A: but i mean i just yeah you're right but i guess certain people are just sort of like 
+
+468.52 472.60 A: and sometimes i do it myself i mean it's just like 
+
+469.93 470.85 B: (( mhm )) 
+
+472.57 483.77 A: you kinda wanna get it off your chest and you maybe it i guess there's some sort of thrill of knowing something that other people don't know and then you kinda feel like the person in charge by telling other people i don't know 
+
+472.60 473.78 B: we all do it 
+
+483.47 487.05 B: well i think it's part of our nature to gossip but 
+
+485.22 487.01 A: yeah 
+
+487.32 494.26 B: what it is is that i feel like anything i have to say say about you or anybody i'm willing to say it to you also 
+
+494.32 496.18 A: true true true 
+
+494.35 500.21 B: [laughter] yeah so um i'm not known as a gossiper at my work [laughter] yeah 
+
+498.08 501.50 A: well that's good i think you should get employee of the month 
+
+500.92 503.51 B: (( [laughter] yeah [laughter] right )) 
+
+502.00 503.13 A: [laughter] 
+
+503.77 507.44 A: very good um what was i gonna say 
+
+507.64 510.53 A: something about uh 
+
+513.54 516.02 A: [mn] no yeah i think the reason why 
+
+515.91 518.25 A: people gossip too mostly is that 
+
+518.07 530.98 A: they kind of know that they don't have anyone to respond to them i mean sure people can stand up for their friends and whatnot but when you say it face to face to someone and they're like no i think you're wrong 'cause of this and they're like well blah blah blah then 
+
+530.93 532.05 B: well that's true 
+
+531.60 534.43 A: then they freak out 
+
+534.87 536.08 A: anyways 
+
+535.99 536.72 B: (( [laughter] )) 
+
+536.58 537.52 A: uh 
+
+538.67 541.08 A: so what else what else is new 
+
+541.40 542.76 A: what's new in your life 
+
+542.43 544.45 B: [laughter] nothing [laughter] 
+
+543.60 547.96 A: nothing [laughter] that's good um 
+
+547.08 547.95 B: (( you know )) 
+
+549.15 550.98 B: but um let me see here 
+
+552.96 556.85 B: so i'm looking at the email that you guys sent well y- you know your company sent me 
+
+556.47 559.32 A: right 
+
+558.78 560.02 B: and um 
+
+560.15 567.87 B: like i say when i did surveys throughout the past it's always um on line or it's all this product testing but it's never um 
+
+566.16 568.01 A: right 
+
+568.91 571.48 B: (( you know to this ex- to this extent )) 
+
+571.90 573.60 A: yeah it's 
+
+572.93 574.08 B: kind of different 
+
+573.89 579.27 A: yeah oh now did they call you do we participate in up to three calls okay 
+
+578.25 581.54 B: yeah you're allowed to three uh up to three c- calls 
+
+581.71 583.11 A: right 
+
+581.93 584.77 B: they um they called me um before 
+
+584.39 585.66 A: mhm 
+
+584.93 586.77 B: originally but when i 
+
+586.87 590.66 B: i started to talk nobody was there so i'm just had dead air 
+
+590.73 597.12 B: so i figured i'm gonna go check my email maybe they emailed me 'cause they did say they would email me within seventy two hours 
+
+597.50 599.89 B: so um and that was right they had the email 
+

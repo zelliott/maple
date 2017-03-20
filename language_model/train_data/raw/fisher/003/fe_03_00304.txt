@@ -1,0 +1,369 @@
+# fe_03_00304.sph
+# Transcribed by BBN/WordWave
+
+7.80 9.23 B: (( hi )) 
+
+71.92 73.21 A: (( hi )) 
+
+72.78 74.31 B: (( my name )) 
+
+76.30 77.12 A: (( my )) 
+
+110.84 111.97 B: (( is )) 
+
+121.59 122.87 B: (( leena )) 
+
+123.41 124.40 B: (( um )) 
+
+127.53 128.51 B: (( hi )) 
+
+130.98 132.36 B: (( oh you're )) 
+
+133.36 134.62 B: (( a )) 
+
+136.18 137.75 B: (( real person )) 
+
+138.95 140.17 B: (( [laughter] )) 
+
+142.03 142.87 B: (( um )) 
+
+146.78 147.85 B: (( yeah )) 
+
+150.01 151.90 B: (( so well )) 
+
+160.66 161.55 B: (( the )) 
+
+165.41 166.44 B: (( question )) 
+
+170.55 171.84 B: (( was yeah )) 
+
+173.57 174.66 B: (( i )) 
+
+175.33 176.03 B: (( don't )) 
+
+177.04 177.93 B: (( know i )) 
+
+178.65 179.79 B: (( i was )) 
+
+195.05 196.21 A: (( name )) 
+
+197.17 198.14 B: (( i )) 
+
+201.12 201.95 B: (( wonder )) 
+
+202.14 202.86 B: (( if )) 
+
+204.21 206.08 B: (( like sort of )) 
+
+207.45 208.35 B: (( um )) 
+
+210.34 219.49 B: (( [mn] )) 
+
+219.90 221.48 B: (( i )) 
+
+221.66 227.19 B: (( sort of think that it if somebody's like )) 
+
+227.34 228.32 B: (( actually )) 
+
+228.41 231.14 B: (( determined to do something they'll do )) 
+
+231.26 233.26 B: (( it anyway it's my )) 
+
+233.31 234.78 B: (( general idea of this but )) 
+
+234.82 236.79 B: (( that might just be )) 
+
+237.11 239.03 B: (( cynical [laughter] um )) 
+
+239.53 241.08 B: (( what about you )) 
+
+241.85 243.91 B: (( what do )) 
+
+246.29 251.63 B: (( you think yeah right right yeah definitely right yeah yeah i feel )) 
+
+251.88 252.80 B: (( like )) 
+
+252.82 253.99 B: (( well )) 
+
+254.60 256.65 B: (( i first thought that it was )) 
+
+256.70 257.52 B: (( going )) 
+
+258.14 266.95 B: (( to be only a u._s. thing and i was surprised um the last )) 
+
+268.03 271.12 B: (( time i flew actually i )) 
+
+271.99 273.06 B: (( was um )) 
+
+274.04 274.96 B: (( coming )) 
+
+276.79 278.57 A: (( is )) 
+
+287.41 288.21 B: (( back )) 
+
+293.81 294.75 B: (( from )) 
+
+303.46 304.31 B: (( from )) 
+
+309.06 310.15 B: (( madrid )) 
+
+313.49 314.46 A: (( lindy )) 
+
+315.19 316.08 A: (( jones )) 
+
+320.65 321.53 A: (( hi )) 
+
+323.77 324.94 B: yeah 
+
+336.60 337.97 B: (( and )) 
+
+340.18 341.08 A: (( leena )) 
+
+343.79 348.18 B: (( i was um in my there were like these two guys )) 
+
+352.07 353.03 A: (( i )) 
+
+354.87 355.63 B: (( on )) 
+
+355.43 356.35 A: (( am )) 
+
+357.45 358.46 A: (( [laughter] )) 
+
+366.72 368.06 A: (( i )) 
+
+370.64 371.64 A: (( guess )) 
+
+371.89 372.58 B: (( the )) 
+
+383.92 385.28 A: (( the )) 
+
+387.98 388.85 A: (( fisher )) 
+
+388.92 389.61 A: (( thing )) 
+
+389.77 391.35 A: (( is so )) 
+
+401.05 401.86 A: i 
+
+403.49 404.43 A: (( guess )) 
+
+406.89 408.09 A: (( we're )) 
+
+410.20 411.55 A: (( supposed to )) 
+
+414.69 417.69 B: (( way into the plane )) 
+
+418.39 420.04 B: (( um just like )) 
+
+420.92 422.50 B: (( after we )) 
+
+423.26 425.66 B: (( had checked our )) 
+
+426.10 427.10 B: (( baggage )) 
+
+428.36 432.23 B: (( and everything just checking carry on stuff )) 
+
+432.88 437.16 B: (( and it was and they were all you know dressed )) 
+
+437.69 440.63 B: (( up in military attire like )) 
+
+442.17 448.37 A: (( talk about airport security )) 
+
+449.56 450.53 B: (( they )) 
+
+449.95 451.67 A: (( um do you )) 
+
+453.66 457.66 A: (( think that airport security hei- or )) 
+
+458.06 460.79 A: (( increases actual security when )) 
+
+458.63 459.37 B: (( pulled )) 
+
+461.71 462.88 B: (( out my )) 
+
+464.35 466.13 B: (( friend and )) 
+
+466.69 467.90 A: (( you're flying )) 
+
+469.74 472.92 A: (( [noise] )) 
+
+473.73 474.71 B: (( i )) 
+
+476.95 477.75 B: had 
+
+478.42 479.29 B: (( to wait for )) 
+
+481.42 485.31 B: (( her and )) 
+
+488.40 490.55 A: (( mhm you know )) 
+
+491.53 494.03 A: (( at first i thought )) 
+
+492.42 493.28 B: (( stuff )) 
+
+495.69 498.89 A: (( because at first it seemed to me like they )) 
+
+500.12 500.89 A: (( were )) 
+
+503.23 504.75 A: (( definitely )) 
+
+504.83 506.16 A: (( profiling )) 
+
+506.56 507.45 A: (( people )) 
+
+508.77 511.11 B: (( and )) 
+
+511.95 515.56 B: (( it was so weird because i was like i )) 
+
+516.19 517.14 B: (( thought this )) 
+
+517.78 520.24 B: (( crazy scary whatever )) 
+
+528.96 532.32 A: (( like last summer and and even )) 
+
+532.84 534.82 A: (( a year ago like last winter )) 
+
+535.55 536.28 B: (( stuff )) 
+
+536.11 537.60 A: (( it seemed like )) 
+
+538.34 539.04 A: (( when )) 
+
+540.97 543.81 A: (( i'd see them pulling people out it was always )) 
+
+544.74 546.08 A: (( like some middle )) 
+
+546.14 547.97 A: (( eastern or some )) 
+
+548.64 550.46 A: (( and i was and )) 
+
+550.98 553.21 A: (( so then it seemed like any time )) 
+
+553.95 555.00 A: (( there's a )) 
+
+555.20 555.99 B: (( it )) 
+
+556.06 560.03 A: (( consistent system like you said if people are determined )) 
+
+561.82 562.76 A: (( to do )) 
+
+562.00 562.71 B: (( was still )) 
+
+562.83 564.90 A: (( something they're )) 
+
+565.03 566.02 A: (( going to )) 
+
+566.66 567.72 A: (( figure out )) 
+
+567.62 568.51 B: (( it was )) 
+
+568.21 570.91 A: (( the system and they're )) 
+
+571.00 573.27 A: (( going to get around it and )) 
+
+574.25 576.08 A: (( if it's like obvious )) 
+
+576.84 578.23 A: (( profiling )) 
+
+578.81 579.83 A: (( then )) 
+
+580.13 581.02 A: (( yeah just )) 
+
+581.44 582.30 A: (( go )) 
+
+582.40 583.25 A: (( dressed )) 
+
+583.88 585.78 A: (( like whoever )) 
+
+585.88 586.68 A: they're 
+
+587.55 588.69 A: (( not profiling )) 
+
+590.24 592.94 A: (( um but now it seems like )) 
+
+593.71 594.57 B: (( only in )) 
+
+594.32 595.84 A: (( they're a little better )) 
+
+596.82 597.76 B: (( the )) 
+
+598.06 598.67 A: (( at )) 
+
+598.80 600.88 A: (( being random like i definitely )) 
+
+602.23 603.06 A: have 
+
+603.22 605.50 A: (( more faith in it )) 
+
+605.42 608.80 B: (( u._s. but )) 
+
+610.81 612.85 B: (( yeah )) 
+
+613.10 614.10 B: (( i i don't )) 
+
+614.09 616.40 A: (( now uh-huh oh how cool uh-huh [laughter] )) 
+
+616.60 618.35 B: (( know i really like don't )) 
+
+618.40 622.18 B: (( know if they're still um racially profiling )) 
+
+623.35 624.16 B: (( as )) 
+
+624.59 625.28 A: (( mhm )) 
+
+626.82 627.53 A: (( uh-huh )) 
+
+626.94 627.70 B: (( much )) 
+
+629.05 630.39 B: (( as they were )) 
+
+631.22 632.59 A: mhm 
+
+632.03 633.08 B: (( but )) 
+
+633.19 635.46 B: (( um i was actually very )) 
+
+638.28 639.37 B: (( concerned )) 
+
+639.41 640.58 A: (( so yeah )) 
+
+639.97 640.93 B: (( when )) 
+
+640.73 643.40 A: (( i guess the the question they didn't ask that i )) 
+
+643.75 644.84 A: (( think )) 
+
+644.94 652.28 A: (( is real important is like um what about the trade off like between the heightened security maybe it )) 
+
+652.62 656.43 B: (( i heard um i )) 
+
+657.16 664.84 B: (( think it was over the summer when they started some sort of like really really tight immigration )) 
+
+668.52 669.39 B: (( law )) 
+
+669.69 672.20 B: (( and visit- visitation law actually where people )) 
+
+672.46 675.12 B: (( from certain countries )) 
+
+674.73 675.37 A: (( does )) 
+
+676.07 679.06 B: (( were not allowed like were going to be )) 
+
+679.72 686.07 B: (( checked up on while they're in the u._s. and that looked to me it was just you know brothers big brother whatever so that's a )) 
+
+686.27 686.93 B: (( little )) 
+
+688.74 690.28 B: (( scary right well i )) 
+
+690.94 698.46 B: (( think i- i think in a lot of um to a lot of people it is worth it because i mean they obviously don't and this sort of incident )) 
+
+698.86 701.29 B: (( doesn't happen in statistic )) 
+
+702.69 710.03 A: (( maybe it doesn't actually improve security but like is it worth it )) 
+
+710.69 712.03 B: (( like it's )) 
+
+712.17 719.61 B: (( much easier to get in a car accident everybody like sort of knows that but not really and then i mean no matter what )) 
+
+719.20 719.90 A: mhm 
+

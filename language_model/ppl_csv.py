@@ -8,7 +8,7 @@ Created on Wed Mar 15 14:48:22 2017
 import csv
 
 # construct the map
-file = open('test_output/nytimes_cloze_tests.txt', 'r')
+file = open('test_output/medline_punct_3_cloze_tests.txt', 'r')
 lines = file.readlines()
 ppl_map = dict()
 for line in lines[1:]:
@@ -17,8 +17,8 @@ for line in lines[1:]:
     ppl_map[index] = ppl
 
 # add stuff to the CSV 
-fr = open("clozeAbstracts.csv", "r")
-wr = open("clozeAbstractsPPL.csv", "w")
+fr = open("clozeAbstractsPPL_8.csv", "r")
+wr = open("clozeAbstractsPPL_9.csv", "w")
 csv_reader = csv.reader(fr, delimiter=',')
 csv_writer = csv.writer(wr, lineterminator='\n')
 all_ = []

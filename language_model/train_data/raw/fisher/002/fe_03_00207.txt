@@ -1,0 +1,501 @@
+# fe_03_00207.sph
+# Transcribed by BBN/WordWave
+
+0.48 1.66 A: hello 
+
+0.76 2.82 B: hello hi 
+
+1.72 3.05 A: hi i'm elena 
+
+3.11 4.26 B: i'm virginia 
+
+4.02 6.07 A: virginia hi nice to talk to you 
+
+5.80 7.53 B: hi nice to talk to you 
+
+8.65 11.48 A: what is so what is your favorite holiday 
+
+8.69 9.71 B: (( [sigh] ah )) 
+
+11.45 15.04 B: um probably now christmastime 
+
+14.43 15.33 A: uh-huh 
+
+15.28 17.28 B: i really love christmastime 
+
+17.58 20.67 B: i just finished finals and um 
+
+21.67 25.37 B: i got back to my parents' house yesterday and i was helping 
+
+25.47 30.02 B: decorate the tree tonight and i put all the lights on 
+
+29.39 30.63 A: oh 
+
+30.75 37.02 B: dug through the attic for all the decorations and just making the house look all pretty and then my 
+
+33.67 34.73 A: mhm 
+
+37.00 46.11 B: three year old niece comes over and her eyes just light up when she sees christmas and i think that's why it's my favorite holiday you know 'cause it's 
+
+45.21 46.21 A: yeah 
+
+46.34 48.69 B: it's just pretty and [sigh] i 
+
+49.80 51.79 A: oh yeah that's nice 
+
+49.98 50.96 B: (( don't know )) 
+
+51.49 53.25 B: nice time of year 
+
+53.54 57.37 B: nice to be home nice to see family you know 
+
+58.08 60.17 B: so what's your favorite holiday 
+
+59.66 64.03 A: mm oh it was it's always been christmastime and lately 
+
+64.33 68.96 A: um well i grew up in new england so christmas sort of comes naturally to 
+
+69.32 75.56 A: with the snow and you know the environment there but um i live in a desert now so 
+
+71.20 72.22 B: right 
+
+72.72 73.58 B: (( right [laughter] )) 
+
+75.63 90.15 A: it it it seems strange it does- it seems contrived [laughter] um but lately more and more my favorite holiday has been thanksgiving which i was always bored with when i was young you know like it didn't excite me and you know 
+
+87.58 88.56 B: mhm 
+
+89.94 92.22 A: it wasn't necessarily anything 
+
+90.29 91.28 B: mhm 
+
+92.49 97.99 A: [sigh] very special but now i i look forward to it so much now that i'm cooking my own meals and 
+
+97.36 98.39 B: oh are you 
+
+98.39 100.21 A: yeah 
+
+99.97 103.95 B: oh you mean oh i thought you meant thanksgiving meals 
+
+103.38 107.86 A: yeah yeah i i i do 'cause i i don't yeah i don't live near my family 
+
+104.95 107.10 B: oh you do cook thanksgiving okay 
+
+107.71 108.89 B: mhm 
+
+108.30 112.00 A: i usually get together with a group of good friends and um 
+
+111.95 123.60 A: and we all contribute something but i i appreciate it a lot more when i see what's going into it and maintaining little details that i never thought of as much tradition you know just having cranberries or having 
+
+123.85 129.45 A: you know pecan pie makes such a big difference when [mn] when you're trying to put something together and 
+
+128.97 130.00 B: right 
+
+129.63 132.56 A: it's just it's a it's a low pressure holiday 
+
+133.22 134.00 B: (( [laughter] )) 
+
+133.35 138.02 A: because it's only revolving around just sitting around and eating and relaxing and 
+
+137.74 138.84 B: (( [laughter] yeah )) 
+
+138.28 143.79 A: there isn't too much preparation put into it it's two free days of vacation and it's great 
+
+143.21 146.27 B: right right right right yeah good point 
+
+145.68 156.60 A: but i mean i didn't used to appreciate it as much as as i do now that i live away from my family and i still do love all of the everything that goes into preparing christmas but 
+
+149.74 150.30 B: (( [mn] )) 
+
+156.58 157.68 B: mhm 
+
+157.04 163.26 A: um i started appreciating i still have a thanksgiving screensaver on my computer [laughter] 
+
+162.47 163.85 B: yeah yeah 
+
+164.85 172.40 B: [sigh] i haven't had thanksgiving for since ninety eight i think was my last thanksgiving until this year 
+
+172.07 173.04 A: (( mm )) 
+
+172.79 175.91 B: and i forgot how much i love thanksgiving as well 
+
+175.66 176.64 A: uh-huh 
+
+176.82 180.16 B: um i have lived in europe for a couple of years 
+
+180.21 183.73 B: and um last year we had like [mn] 
+
+183.89 185.80 B: a typical dutch 
+
+185.84 199.48 B: dinner for thanksgiving dinner i was living with americans and we're like we have to celebrate thanksgiving you know and then we had like sausages and mashed potato with like a spinach kind of stuff in 'em 
+
+190.76 191.62 A: mhm 
+
+199.38 202.34 B: um i don't remember what they called that stuff it was called 
+
+199.46 200.75 A: mhm 
+
+203.18 206.11 B: cabbage maybe was in 'em cabbage and mashed potatoes 
+
+205.79 206.77 A: (( ah )) 
+
+206.86 211.10 B: and uh yeah so it really wasn't thanksgiving at all but 
+
+210.22 212.25 A: oh that's interesting yeah 
+
+211.56 214.94 B: but to come home this year and have thanksgiving was really nice 
+
+214.96 216.79 A: yeah it's really great 
+
+216.60 217.52 B: yeah 
+
+217.73 219.20 A: also as um 
+
+219.89 225.68 A: to talk about another holiday when i was little i never celebrated halloween 'cause my mother thought it was dangerous 
+
+225.55 226.61 B: (( oh really )) 
+
+226.18 240.34 A: and and so i never went trick or treating and you know i never rarely dressed up in costumes and i didn't really care 'cause i didn't i didn't know what i was missing lived in a pretty rural area so it wasn't like all the other kids are walking by and i'm looking you know 
+
+228.88 230.35 B: (( [laughter] oh )) 
+
+235.46 236.72 B: no oh right 
+
+240.54 242.06 A: not in the middle of the woods 
+
+240.69 241.69 B: so 
+
+242.11 243.43 B: yeah 
+
+242.79 246.34 A: but so now i do it up you know my boyfriend and i will 
+
+246.63 252.15 A: crazy elaborate costumes and you know as an adult it's so much more fun 
+
+249.88 250.92 B: huh 
+
+252.02 253.58 B: what were you this year 
+
+253.33 256.60 A: this year my boyfriend and i were a dead bride and groom 
+
+257.33 258.62 B: [laughter] 
+
+257.62 264.77 A: so i bought a wedding dress an old one but i bought a wedding dress [laughter] and he bought an old suit and we [sigh] 
+
+259.23 260.50 B: mhm 
+
+260.71 261.71 B: uh-huh 
+
+261.98 262.95 B: uh-huh 
+
+264.87 272.28 A: did um some really good dead makeup and had a dead bouquet of flowers and dead uh boutonniere 
+
+268.35 269.77 B: (( [laughter] that's great )) 
+
+272.27 273.98 B: (( mhm [laughter] )) 
+
+272.92 274.00 A: and scared 
+
+274.26 276.58 A: the living daylights out of everyone 
+
+274.92 275.83 B: i don't 
+
+276.83 281.21 B: yeah halloween's one of those that i don't celebrate at all in fact my mother 
+
+281.90 284.13 B: [mn] we always used to uh 
+
+284.16 289.62 B: go trick or treating when we were kids and i remember my mom one year made us um 
+
+289.92 292.50 B: what do you what do you call oh it's oh like a 
+
+292.73 298.56 B: a a mac and tuna casserole like macaroni and cheese and canned tuna mixed up together 
+
+297.99 298.90 A: uh-huh 
+
+298.75 301.46 B: served like all stuck together 
+
+301.16 302.09 A: uh-huh 
+
+301.82 304.58 B: and i just 
+
+304.75 307.81 B: i never liked canned tuna i thought it was really gross 
+
+306.58 307.51 A: [laughter] 
+
+308.24 313.13 B: and my mom wouldn't let us go out trick or treating until we all finished and my brothers didn't really care 
+
+312.02 313.67 A: jeeze 
+
+313.35 322.15 B: (( but i was just like oh this is terrible like mom how can you do this you know i'm like it's trick or treating and i was so ho mad )) 
+
+322.18 325.08 B: and i'll never forget that she did that to us 
+
+324.85 326.40 A: [laughter] 
+
+325.70 327.38 B: horrible 
+
+328.45 333.30 A: i still call my mup- mom up and give her a hard time for not um 
+
+328.47 329.55 B: (( horrible )) 
+
+333.88 341.21 A: letting me trick or treat you know i feel like i have this like excessive sweet tooth now as a result of 
+
+335.60 337.02 B: [laughter] 
+
+340.57 343.02 B: oh yeah yeah 
+
+342.00 347.17 A: of not having been able to gorge myself one time a year for [laughter] 
+
+346.50 347.80 B: (( yeah yeah )) 
+
+347.26 350.52 A: [sigh] but i'm over it just 
+
+349.81 352.40 B: so did she pass out candy 
+
+352.33 357.68 A: yeah well raisins [laughter] and like little books and stuff 
+
+357.54 361.12 B: so she'd give stuff out but she wouldn't let you go out and 
+
+360.51 367.31 A: right well we lived literally i mean we lived in a really rural area so maybe we would get one kid per year 
+
+367.35 368.60 B: mhm 
+
+367.96 379.56 A: um it was you know like a half a mile between houses so people weren't really coming out to my neighborhood to go trick or treating so i think that was also part of it it was a major effort for her to take us you know 
+
+368.90 370.58 B: (( oh right )) 
+
+371.73 373.57 B: [laughter] 
+
+374.91 375.60 B: (( oh )) 
+
+376.95 377.85 B: (( goodness )) 
+
+380.21 381.70 B: [laughter] 
+
+381.30 383.22 A: [laughter] and she wasn't willing to uh 
+
+382.93 384.38 B: (( all right [laughter] )) 
+
+384.75 386.54 A: (( go through with that i don't know )) 
+
+386.56 387.79 B: (( that's funny )) 
+
+389.94 390.68 B: (( okay )) 
+
+390.78 395.42 A: [noise] so did they i think the other part of the question was if you would create your own holiday 
+
+395.04 396.18 B: yeah i 
+
+395.90 398.99 A: but i i'm not inspired by that 
+
+398.60 405.75 B: i'm not inspired by that either i'm i'm glad i'm glad you put it that way because i i would have put it that 
+
+400.23 401.73 A: [laughter] 
+
+405.91 408.23 B: my brain doesn't function that way 
+
+408.26 410.91 B: and i can't i i can't 
+
+410.98 415.98 B: i don't know my boyfriend's the one that has the imagination that just runs wild and 
+
+415.29 416.50 A: (( mhm )) 
+
+415.87 426.51 B: my i don't really have that much of an imagination he's left handed i'm right handed and you give me a question like that and i just i i i just come up blank 
+
+422.91 424.29 A: [laughter] 
+
+426.53 427.48 A: yeah 
+
+427.21 430.53 B: but i i when um they posed the question though 
+
+431.06 435.53 B: i re- i uh thought of seinfeld when george's dad with the 
+
+435.07 437.01 A: (( i thought of the same thing )) 
+
+436.23 437.52 B: [laughter] did you 
+
+437.32 441.17 A: yeah i totally thought of the same thing that's hysterical 
+
+437.58 438.85 B: [laughter] 
+
+439.09 440.89 B: [laughter] 
+
+442.54 450.20 A: which was pretty that was a pretty brilliant moment actually and so then i was trying to think like really fast on my feet like well what would i come up with i don't 
+
+449.63 451.32 B: (( no i couldn't come up with anything [laughter] )) 
+
+450.69 456.32 A: but but i well actually one time i did come up with i i declared 
+
+456.58 460.95 A: a certain day my day worldwide like 
+
+461.30 471.91 A: because i was looking at the calendar and there was some random holiday written on there and i thought well just because it's on the calendar that means that like suddenly i don't have to observe it of course but you know 
+
+464.49 466.26 B: (( mhm mhm )) 
+
+471.84 473.27 B: (( [laughter] [laughter] )) 
+
+471.93 478.81 A: just because someone somewhere says that today is whatever like australian flag day or something then 
+
+477.52 478.67 B: (( [laughter] yeah )) 
+
+478.77 479.57 B: (( yeah )) 
+
+478.87 486.02 A: you know it is that's the day whether i celebrate it or not you know christmas is christmas whether people celebrate it or not so i said well 
+
+482.47 484.02 B: right right 
+
+486.13 494.31 A: why not declare myself a day so i declared you know some i don't even remember what day it was i think it was like november seventh i wish i could remember it'd be great but 
+
+494.29 501.98 A: i said this is you know my day and people in australia even though they don't aren't observing it you know they're existing in my day 
+
+502.27 503.21 B: (( hm [laughter] yeah )) 
+
+502.64 506.01 A: and i was very fired up about that for a while but um 
+
+505.58 506.36 B: (( [laughter] )) 
+
+506.71 510.37 A: no one really caught on to it [laughter] so nothing happened 
+
+509.25 513.92 B: you make yourself queen of the world and make everybody take off and pay homage 
+
+513.35 521.24 A: yeah i definitely didn't get any presents or money so and no likenesses of my image were erected anywhere so i just [laughter] that's why 
+
+514.35 516.05 B: on november seventh 
+
+522.87 527.27 A: [laughter] but that's the only time i've ever come to creating a holiday 
+
+524.01 524.93 B: (( i had )) 
+
+527.52 528.14 B: (( oh )) 
+
+529.21 533.15 B: my i had uh friends that would always have parties 
+
+533.31 537.24 B: they wouldn't have parties for halloween or for christmas or for 
+
+537.25 540.95 B: anything like that but pick like a random 
+
+541.43 552.53 B: celestial event in the year and they would have a party for it like winter solstice begins they'd have a party for that and i always thought that that was really cool like they're celebrating something just a little 
+
+546.59 547.66 A: there you go 
+
+552.94 556.54 B: more off the wall and use it as an excuse 
+
+554.24 557.11 A: right but yet it's still like a theme 
+
+557.10 566.40 B: yeah yeah and use it as an excuse to have a party and so never mind christmas parties never mind any of that they had those parties and i always thought that that was 
+
+558.65 559.98 A: that's really cool 
+
+566.50 569.13 B: so neat they were always a lot of fun 
+
+569.46 571.72 A: my cousin has an oscar party 
+
+571.95 573.29 B: (( oh really oh that's )) 
+
+572.45 573.34 A: like a 
+
+573.50 581.81 A: like a charity party or something like people have to actually pay to come to her party but it's for charity but they have to dress like somebody at the oscars 
+
+578.96 579.90 B: yeah 
+
+582.15 590.18 A: i i've never been to it it's a total show she does in san francisco she's over the top but like it's become this big event in her neighborhood 
+
+583.49 584.79 B: [laughter] 
+
+590.03 590.85 B: huh 
+
+590.91 592.19 A: sounds really fun 
+
+591.13 595.97 B: i wonder if anybody comes as oscar i bet there's at least a token one every year 
+
+595.43 608.01 A: sure there's somebody well she's in san francisco so you know she's got all these flamboyant friends and one of her guy friends came as j. lo or as i guess she was jennifer lopez at the time in that green dress 
+
+601.56 602.38 B: (( uh-huh )) 
+
+605.21 606.63 B: mhm 
+
+608.62 610.74 A: the controversial green dress 
+
+610.37 612.42 B: (( i don't remember )) 
+
+612.30 617.23 A: it's like a scarf [laughter] the whole dress is like 
+
+612.63 613.63 B: is that from 
+
+614.94 616.16 B: oh really 
+
+617.39 618.55 A: a scarf 
+
+618.35 620.71 B: (( i don't think i saw that )) 
+
+620.46 633.18 A: it's it was like there was a big like deal about it you know was it even a dress and all this stuff 'cause it was practically like it was all sheer and then just like a scarf but this guy came dressed as that and it was hysterical 
+
+628.02 629.03 B: [laughter] 
+
+633.59 635.28 B: oh that's really funny 
+
+634.80 639.32 A: yeah i love anything where you have to dress up 'cause i just have such a good time with that 
+
+639.20 641.29 B: yeah halloween right right 
+
+639.71 641.60 A: outdo everyone and i'm 
+
+641.71 645.14 A: an actress i like to dress up [laughter] mm 
+
+645.17 645.81 B: i 
+
+645.91 653.58 B: [laughter] i thought that if i went to a halloween party um not this halloween but the one before that i would go as um 
+
+654.64 656.63 B: [laughter] kylie minogue in the 
+
+656.85 659.18 B: in the can't get you out of my head video 
+
+658.35 660.56 A: (( yeah )) 
+
+659.20 662.87 B: [laughter] because do you know that outfit the white one 
+
+661.74 663.77 A: yeah yeah yeah 
+
+663.16 670.17 B: because it looks it looks kind of like a ghost outfit but i think it'd be pretty scary [laughter] 
+
+668.12 669.35 A: that's funny 
+
+670.49 675.65 A: one of the scariest things i my boyfriend and i last year dressed up as um old people 
+
+675.85 682.20 A: just old people like an old like grandma and gran- ma and pop and it was so subtle 
+
+676.11 677.19 B: oh really 
+
+679.62 680.54 B: yeah 
+
+682.67 685.76 A: but we did all the details that people just thought we were old 
+
+686.34 693.88 A: and we got out on the dance floor and we started dancing and people were like those old people can move they're not old people ha ah ah ah it was really funny 
+
+686.63 687.25 B: (( wow )) 
+
+692.13 693.41 B: [laughter] 
+
+693.63 696.04 B: you're like out there break dancing and stuff 
+
+695.40 697.76 A: we were yeah we were just busting 
+
+696.32 698.39 B: [laughter] 
+
+698.53 700.12 A: but it was um 
+
+700.52 702.05 B: i'm picturing like 
+
+700.61 701.86 A: it was really good 
+
+702.08 705.40 B: (( the church lady [laughter] you know like out there dancing )) 
+
+704.55 712.06 A: yeah and i mean and the costume was real 'cause i just went to the thrift shop and got old man pants and you know like old lady skirt and 
+
+710.49 711.14 B: [laughter] 
+
+712.51 717.85 A: you know did a little couple of makeup lines i got myself a wig and that was it it was really easy 
+
+718.55 719.89 A: cheapest costume you'll 
+
+718.69 719.42 B: (( mm )) 
+

@@ -1,0 +1,379 @@
+# fe_03_05741.sph
+# Transcribed by BBN/WordWave
+
+0.04 2.13 A: (( how you doing )) 
+
+1.58 3.36 B: yeah 
+
+2.75 4.07 A: how you doing i'm john 
+
+4.02 6.71 B: yeah it's working 
+
+6.53 8.31 A: (( [laughter] )) 
+
+8.08 10.02 B: where where are you located 
+
+9.65 14.19 A: (( new york city )) 
+
+10.93 16.84 B: i'm on long island i have an unusual name which i'm not going to even bother mentioning 
+
+17.06 18.54 A: okay [laughter] 
+
+17.38 19.42 B: you won't even understand it 
+
+18.88 20.95 A: go ahead what is it 
+
+20.40 22.39 B: oh uh kenyan 
+
+22.34 27.32 A: kenyan all right that's not too bad go ahead 
+
+23.01 23.82 B: (( yes )) 
+
+24.63 30.92 B: all right let's let's get down to business 'cause i i'm so ready to talk about education and uh computers in classrooms 
+
+30.31 32.65 A: right go ahead 
+
+30.93 34.55 B: now you're phoning i'm going to like go crazy 
+
+34.22 35.88 A: sure go ahead 
+
+34.98 36.88 B: now um [lipsmack] 
+
+37.08 38.57 B: oh you want me to go first 
+
+37.99 38.78 A: yeah go 
+
+39.02 41.86 B: 'cause you know uh okay 
+
+39.07 40.96 A: (( ahead )) 
+
+42.25 44.33 B: i'm wasting time okay 
+
+44.77 50.08 B: [sigh] computers in education um i'm going to have to say i mean obviously 
+
+50.53 57.84 B: obviously they woul- they would be helpful but uh if they're introduced too early 
+
+58.86 64.80 B: i- you know uh with kids then i think it can cause some damage 
+
+64.93 66.79 B: uh in particular 
+
+66.26 68.23 A: what would too early be 
+
+68.19 70.60 B: uh let me see good question um 
+
+69.70 73.04 A: grammar school grammar school 
+
+70.61 71.54 B: what 
+
+72.24 79.23 B: no i would say like i would say a good good time to introduce computers would be 
+
+79.67 81.78 B: like uh 
+
+81.80 85.16 B: fourth grade i don't know fifth gr- fifth grade 
+
+82.77 86.89 A: fourth or fifth grade yeah sounds all right 
+
+85.50 87.10 B: only because uh 
+
+87.45 92.55 B: [mn] well the main thing i have the main issue i have with computers as far as 'specially like 
+
+92.48 103.41 B: bringing them in too soon is because of uh repetitive stress injury which can lead to carpal tunnel syndrome that i've gotten like pain in my arms that's why if you start 
+
+97.79 99.94 A: (( right )) 
+
+99.97 101.44 A: i had that 
+
+103.35 113.52 B: th- the sooner you start that like the worse it's going to be and like it's if if you have like kids depending too much on computers which kids are already doing they're like playing games and shit then like 
+
+113.92 115.66 B: [mn] that could be harmful 
+
+115.88 118.52 B: um as far as like other things 
+
+117.07 119.78 A: did you have it in school 
+
+120.00 124.15 B: oh yeah but i mean when i was i mean i'm like in my late twenties so 
+
+123.02 125.04 A: [noise] [noise] 
+
+124.38 125.74 B: when i was 
+
+126.55 127.97 A: (( all )) 
+
+126.57 131.75 B: in grammar school grade school it was like computers were kind of just like starting like to be 
+
+130.72 143.76 A: right i was in high school so i'm thirty five we had a bullshit computer class when i was in high school but it was like really super super basic i guess like 
+
+133.86 134.95 B: yeah 
+
+141.55 144.75 B: mhm but it wasn't there wasn't much you could do then 
+
+144.14 152.88 A: first second generation dos based stuff just for you know if then statements if you probably don't even know what those are 
+
+145.14 145.96 B: (( you know )) 
+
+147.60 149.30 B: right 
+
+152.94 155.28 A: but that's what we used to do they used to teach us to write 
+
+155.49 163.41 B: well what do you think how about today though 'cause like now we have such uh highly developed things you can do like what do you think about right now 
+
+157.63 159.74 A: (( these )) 
+
+160.82 163.53 A: now it's like uh i don't know i 
+
+163.46 175.46 A: my uh my brother's got a kid who is just uh graduating high school he's going to go to college and he's a super computer kid see that uh you can't get him away from the thing and all he does is play games 
+
+165.28 166.59 B: mhm 
+
+171.02 171.77 B: (( mm )) 
+
+175.23 188.75 A: and go on the internet i guess s- so i don't know how good it was for him my brother is one of those guys who's been in computers since computers came around so he he's like a big computer tech type of guy so o- 
+
+176.72 178.01 B: right 
+
+187.67 189.73 B: do you think uh 
+
+188.73 197.17 A: he's obviously his kid got into it too but his kid didn't get into it like did like my bro- my brother knows everything his kid only knows how to play games 
+
+196.46 198.61 B: [mn] but i think um 
+
+198.79 208.68 B: aside from like you know people kids will get computers on their own and use it at home and i think like i guess this the t- this topic is specifically aimed more aimed 
+
+208.13 213.61 A: towards the uh in the classroom in education so uh well he uses it in school too i'm sure 
+
+208.91 210.28 B: in the classroom 
+
+210.92 214.20 B: yeah that's what we're supposed to be talking about more yeah mm 
+
+213.60 225.56 A: but you never hear him talk anything about it what they do in school if they're learning programming or anything like that so uh i don't know what i didn't have them in school to to use as a learning aid so i don't know what they're doing with them now 
+
+225.66 237.15 A: but basically alls i hear is kids playing games and s- getting in trouble [laughter] that's all um if they're not teaching them like specific computer science type stuff like programming or hardware development or anything like that i 
+
+229.55 230.82 B: yeah 
+
+234.61 235.30 B: (( mm )) 
+
+237.29 239.98 A: have no idea what they're using it for 
+
+237.35 237.97 B: (( [mn] [mn] )) 
+
+238.36 250.33 B: d- do do you think that s- uh students should definitely be using computers more in like as a complement to their studies as opposed to like depending too much on the computer to do everything right 
+
+248.78 252.24 A: yeah i like your idea about not getting it too early 
+
+252.34 255.59 A: 'cause i could imagine if w- w- i had them when i was 
+
+255.48 268.57 A: very young i wouldn't have learned the a._b._c.s and the one two threes i would have been screwing round with that thing uh left and right so i don't know if they're learning or not i think it's horrible that they're constantly in front of the computer but that's not really an education issue so 
+
+260.20 262.26 B: mm yeah exactly 
+
+268.60 270.37 B: yeah 
+
+269.39 271.06 A: they're all like fat kids now 
+
+271.42 275.89 B: yeah and also the other thing i was going to say was 
+
+276.30 283.65 B: like computers are like are expensive so it's probably instead of uh 
+
+284.16 290.00 B: constantly i don't intend spending a lot of money on computers they could prob- maybe use money for like other things [mn] 
+
+289.29 290.32 A: (( [laughter] )) 
+
+290.33 299.59 A: [noise] yeah well i know when i went back to my high school to see what was going on years later they had a whole big computer department classroom and all that and they spent 
+
+293.84 294.68 B: mhm 
+
+299.59 309.95 A: ridiculous amounts of money o- setting up the whole thing and there was the same guy teaching the class who taught me typing when that classroom used to be full of typewriters and uh 
+
+308.22 309.32 B: right 
+
+309.73 319.63 A: i think i the typing was worth it you learned how to type at least but these kids h- sit in front of a keyboard all day and they can't type 
+
+315.21 316.21 B: yeah 
+
+319.69 320.72 B: yeah 
+
+319.71 333.88 A: so at least i learned some i don't know what they're learning in that class i mean he walked around with the guy and he showed me some stuff and i was like i wasn't impressed for the uh massive amount of money they spent on uh doing that which is probably all donations and shit since it was a catholic school 
+
+333.49 335.11 B: (( right [mn] is )) 
+
+333.84 335.53 A: but uh 
+
+335.82 340.02 B: this is this uh have you done other phone calls 
+
+336.31 337.78 A: (( this )) 
+
+339.71 341.06 A: is my second one 
+
+341.17 343.51 B: yeah how did you find out about 
+
+343.15 351.15 A: i saw it on a listing on the internet in the craig list that's where you saw it [laughter] somebody's getting a lot of 
+
+346.46 348.67 B: it yeah yeah that's where i found it [laughter] 
+
+349.28 350.37 B: yeah 
+
+351.77 354.97 A: (( referrals )) 
+
+353.09 354.12 B: uh 
+
+354.24 358.71 B: well like the uh the research the people doing it's probably set up there now 
+
+359.18 366.23 A: i don't know it was a guy who had a referral code i. b. a pin number just like and me got i don't know did you sign up on the internet 
+
+364.28 365.83 B: (( oh you think so )) 
+
+366.56 367.39 B: huh 
+
+367.01 370.06 A: did you sign up on their web page 
+
+369.57 371.86 B: um i i guess so 
+
+371.58 373.81 A: or did you call the phone number 
+
+373.40 376.23 B: well right now well no i signed up 
+
+375.74 379.92 A: oh yes so then you had you were they were asked for a pin number i don't know unless you 
+
+379.15 381.18 B: right right yeah i got a pin 
+
+380.06 382.72 A: i put a pin number in so some guy got a referral 
+
+382.89 389.90 A: so if anybody uses my pin number i think if enough of people do it you get like a dollar per person or something like that 
+
+384.69 385.41 B: (( mm )) 
+
+389.12 394.02 B: you got you got anything else to say about computers and education is it is it helpful you 
+
+394.06 399.50 A: uh yeah in some ways and some ways it's probably not 
+
+394.83 395.57 B: think 
+
+395.99 397.30 B: well what's helpful 
+
+399.27 411.72 A: so i mean i don't know i- it'd be a good question to ask a younger kid if they had an opinion at all because i didn't have it in school i mean i didn't have stuff like that in school but and we did our fair share of screwing around 
+
+410.78 416.01 B: mm [mn] right i mean well obviously there were it would be helpful because i mean mm 
+
+414.21 417.92 A: you said you're in your twenties so you had it in high school 
+
+417.50 419.98 B: um lemme think 
+
+420.14 426.15 B: yeah but i just did uh like we didn't even have uh i mean there was no internet then 
+
+426.17 431.77 B: you know but uh yeah i mean i just learned uh word processing and learned how to type and like 
+
+426.24 429.94 A: (( right )) 
+
+430.82 443.48 A: uh so you you were like one [noise] one level ahead of me i've had regular typing on just the regular electric typewriter and you had like a word processing type of thing so i guess it would be ha- half the kids in their 
+
+431.89 433.82 B: other things things like that 
+
+437.56 438.39 B: (( yeah mm )) 
+
+443.95 445.62 A: late teens or 
+
+445.60 450.84 A: very early twenties maybe had computers in school so i don't know i mean uh 
+
+450.82 462.45 A: i haven't really talked to enough people to know if it's helping them or not i mean yeah it's nice to write papers and all that actually i talked to one girl who told me she used to buy term papers off the [mn] internet so i don't know how [laughter] 
+
+462.44 465.93 A: how useful the computer was for her she didn't write the damn paper itself 
+
+462.79 463.93 B: (( mm yeah )) 
+
+464.83 465.82 B: but in 
+
+465.97 468.50 B: but in yeah but in the classroom 
+
+468.79 473.30 B: it can only like if if you're in a classroom you'd probably be uh i 
+
+471.72 475.17 A: (( so )) 
+
+474.13 480.11 B: mean not not everyone has a computer at home but if you're in a classroom using it then you go home and use it you know like 
+
+478.38 490.27 A: yeah i don't know how it works in in in the classroom [laughter] does everybody have their own computer that they sit at and work on something or uh er is there only a few of them and they're using them to teach i don't 
+
+480.69 481.72 B: can be a lot 
+
+489.31 491.81 B: well probably depends on the school you know 
+
+490.83 494.42 A: yeah i don't know i mean we all sat at our own computer 
+
+493.94 494.81 B: (( yeah mhm )) 
+
+494.24 507.49 A: when we did it in high school and we did stupid crap tried to follow along with the teacher and there was a game called uh wargames it's just like that wargames movie that was out when i was younger and that's what we did is 
+
+504.01 504.82 B: uh-huh 
+
+505.72 506.60 B: right 
+
+507.38 510.03 A: the global thermonuclear war game 
+
+510.17 511.60 B: fun stuff 
+
+510.95 517.58 A: [laughter] not that it was like a little game where you actually typed typed words [mn] there was no mouse and all of that we didn't have a mouse 
+
+517.53 526.78 A: just had the keyboard so i i i didn't get anything out of the whole computer thing in in school but i'm sure it has advanced tremendously now there was no windows 
+
+517.76 518.63 B: yeah 
+
+525.02 526.54 B: [noise] i think that 
+
+526.94 528.67 B: (( [mn] promise you'll listen to this )) 
+
+528.35 529.67 A: go ahead 
+
+529.03 533.59 B: well we're going to [laughter] listen to this like i don't stress enough the repetitive stress 
+
+530.26 533.76 A: (( did )) 
+
+533.80 535.80 B: injury on the f- on the hand 
+
+535.28 538.61 A: you get carpal tunnel 
+
+536.78 544.54 B: no but i g- i get like um i started getting pain so i had to like [mn] be more careful about how much i type 
+
+543.96 554.52 A: right i realized i was getting it and i i actually went to a doctor because carpal tunnel wasn't that big yet so when i first got a computer it was like nineteen ninety or something 
+
+547.02 548.00 B: mhm 
+
+550.75 551.72 B: right 
+
+554.08 554.87 B: (( [mn] mm )) 
+
+554.34 568.09 A: and i s- really started to learn a lot about it i'm a mechanical person so i wanted to know how it worked and uh i was spending a lot of time on it and i started to get the carpal tunnel so i don't know if the schools address that type of thing or not 
+
+558.11 558.81 B: (( mm )) 
+
+559.14 560.11 B: (( yeah [noise] )) 
+
+564.42 565.41 B: (( yeah )) 
+
+566.84 574.56 B: yeah i think that's something that i mean that kind of thing is like something that's i think only getting starting to get more attention now because 
+
+574.60 577.73 B: computers are fairly a fairly recent invention so 
+
+578.40 581.24 B: it's only like the number 
+
+579.90 581.99 A: you're really talking maybe ten years 
+
+582.06 586.29 B: the number people that are experiencing that uh is starting to increase 
+
+586.37 587.46 A: for sure 
+
+586.87 587.68 B: (( so )) 
+
+587.62 591.50 A: i wonder if they use them in the classroom in other countries 
+
+593.19 594.85 B: [mn] ten minutes isn't up yet what's 
+
+594.53 597.63 A: [laughter] i know i'm waiting for that too 
+
+595.25 596.26 B: going on here 
+
+597.17 598.39 B: [laughter] 
+
+597.76 599.89 A: uh i don't know 
+
+599.52 599.89 B: (( [mn] )) 
+

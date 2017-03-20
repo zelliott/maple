@@ -1,0 +1,453 @@
+# fe_03_05321.sph
+# Transcribed by BBN/WordWave
+
+0.39 1.66 A: hello 
+
+0.95 2.15 B: hello 
+
+1.95 3.43 A: hey i'm lester 
+
+3.27 5.52 B: hey i'm prankul 
+
+4.95 5.77 A: who 
+
+5.87 9.85 B: ah it's prankul p. r. a. n. k. u. l. 
+
+9.26 10.96 A: (( [noise] oh how're doing )) 
+
+10.42 12.25 B: good what was your name again 
+
+11.69 13.00 A: lester 
+
+12.44 14.37 B: lester okay hi lester 
+
+15.13 16.86 A: are you having a good day 
+
+16.57 17.89 B: i'm sorry 
+
+17.28 20.28 A: are you having a good day or did you have a good day 
+
+18.72 19.66 B: (( yes uh )) 
+
+19.85 23.67 B: fairly good where are you located 
+
+21.02 22.87 A: good 
+
+23.10 24.08 A: georgia 
+
+23.90 26.36 B: okay i'm in delaware 
+
+25.81 27.11 A: delaware 
+
+26.65 27.72 B: (( yes )) 
+
+27.77 29.71 A: so did you have much rain today 
+
+29.91 33.85 B: uh no pretty good day a little cool but sunny 
+
+33.87 37.33 A: we had a little bit of rain this morning but then it cleared out 
+
+37.09 38.23 B: okay 
+
+39.01 40.81 A: so what's your favorite show 
+
+41.09 44.01 B: uh it's a favorite sport right 
+
+43.41 45.08 A: yeah 
+
+44.28 48.63 B: uh i think uh my favorite's basketball 
+
+47.95 49.60 A: basketball 
+
+49.15 50.28 B: how about you 
+
+50.02 54.71 A: uh that's a toss up between baseball and and uh football 
+
+54.52 55.72 B: okay 
+
+56.12 57.03 B: uh 
+
+57.63 62.55 B: i mean i i like baseball but just it's sort of slo- slow 
+
+62.57 65.79 A: yeah it can get s- it can be kind of slow 
+
+65.60 66.69 B: yeah 
+
+65.99 68.63 A: what's your favorite team in basketball 
+
+68.51 72.61 B: oh i like the lakers yeah 
+
+70.52 71.43 A: (( do you )) 
+
+72.78 77.65 A: uh i never was too much for the lakers i like the bulls 
+
+77.39 80.73 B: okay well yeah they used to be really good 
+
+80.10 82.74 A: yeah they did they used to be 
+
+82.28 83.36 B: yeah 
+
+83.13 84.92 A: lakers used to be good too 
+
+84.72 86.36 B: yeah that's true [laughter] 
+
+85.98 90.36 A: [laughter] all of them did um for a while 
+
+88.48 89.81 B: yeah ho- 
+
+90.44 92.71 B: how about baseball do you like the braves 
+
+93.20 94.93 A: no not really [noise] 
+
+95.43 98.79 B: well you'd uh not even we go you are from georgia 
+
+98.63 100.95 A: right i like the angels 
+
+100.63 104.86 B: you like the angels oh cool so you must be excited last year 
+
+101.56 102.57 A: uh-huh 
+
+105.07 109.26 A: yeah i was 'cause it [laughter] it was a long time for they been there mhm 
+
+108.63 112.29 B: yeah that's true that's true forty forty something years 
+
+111.63 115.30 A: yeah yeah i used to live in california so uh 
+
+112.63 113.69 B: yeah 
+
+114.72 116.91 B: okay do you 
+
+115.67 118.62 A: oh i've been to that stadium and it's it all 
+
+117.65 119.79 B: (( have you been to the los angeles area )) 
+
+119.17 120.45 A: yeah 
+
+119.97 121.00 B: okay 
+
+120.99 123.81 A: i lived in a little town called la mirada are 
+
+123.43 124.46 B: okay 
+
+125.01 125.97 B: okay 
+
+125.13 126.90 A: you familiar with california 
+
+126.81 130.42 B: a little bit but i've never heard of that town 
+
+130.46 132.57 A: you've heard of whittier right 
+
+132.22 134.10 B: uh no actually 
+
+133.32 136.33 A: never heard of whittier either that's where richard nixon was born 
+
+136.00 137.31 B: okay 
+
+137.70 144.35 B: i mean i know anaheim i know orange county and you know that little bit arline that 
+
+144.80 147.31 A: now down in i know of uh 
+
+147.59 151.61 A: well in anaheim they got that uh disneyworld or disneyland 
+
+150.99 152.83 B: mhm disneyland yeah 
+
+152.23 155.01 A: and they also got a place called knotts berry farm 
+
+154.91 155.93 B: okay 
+
+156.03 159.41 A: that's a big museum like uh disneyland is 
+
+158.90 162.43 B: yeah i've been to that disneyland yeah 
+
+160.66 161.62 A: have you 
+
+161.86 163.59 A: you been to the one in orlando 
+
+163.20 166.50 B: no no not yet 
+
+166.42 168.92 A: [mn] it's about ten times bigger 
+
+169.18 176.60 B: oh yeah i've heard i've heard so anyhow back to sports how about football what's your favorite team 
+
+176.12 181.38 A: oh i guess my favorite team for football let's see probably be uh 
+
+182.17 184.99 A: [lipsmack] right now i'd have to say the dolphins 
+
+184.44 186.18 B: the dolphins okay 
+
+185.17 189.86 A: yeah i used to like uh the uh 
+
+187.78 188.84 B: (( mm )) 
+
+190.01 190.57 B: (( [mn] )) 
+
+190.62 192.38 A: br- uh the bangles 
+
+191.82 192.83 B: okay 
+
+192.45 195.57 A: i liked the browns for the longest time 'cause of paul brown 
+
+195.50 196.47 B: okay 
+
+196.13 199.17 A: and then he ca- he went to cincinnati 
+
+199.37 202.17 A: and uh then he retired 
+
+202.34 205.70 A: well he kind of retired he went to detroit after that 
+
+205.08 206.17 B: (( [noise] okay )) 
+
+205.79 207.16 A: but uh 
+
+207.40 210.22 A: no i kinda like the saints too who do you like 
+
+210.36 213.58 B: [noise] uh i like the eagles 
+
+212.98 214.02 A: (( oh do you )) 
+
+214.07 220.70 B: yeah yeah i like them but what do you think about uh 
+
+221.14 222.28 B: i mean do you 
+
+222.67 231.05 B: like do you do y- do you think that it's good that they move they keep moving all their sports to cable like they don't have anything on network these days 
+
+230.47 232.47 A: [noise] no i don't think it's fair 
+
+232.29 233.52 B: i'm sorry 
+
+232.98 234.75 A: i don't think it's right 
+
+234.16 236.26 B: yeah i know i mean 
+
+235.80 237.49 A: it's all money thing 
+
+237.28 241.28 B: yeah basketball they just showed the finals that's about it 
+
+240.69 241.95 A: yeah 
+
+241.30 247.07 B: on a._b._c. every everything else [noise] was like e._s._p._n. and p._n._d. and 
+
+244.43 245.52 A: right 
+
+246.08 258.86 A: as it's a shame it it's it's a surprising how it used to be a sport where somebody could take [noise] and watch it or be involved into it and now i mean just look at the price it costs to go to the game 
+
+252.93 255.63 B: exactly yeah 
+
+258.60 264.59 B: exac- oh i know it's crazy just ridiculous like you could never afford it 
+
+264.29 265.52 A: i know goodwa 
+
+265.54 274.23 A: goodwa at braves game or go to a uh hawkes game here in georgia you got you're almost dropping a hundred dollar bill for two people 
+
+269.41 270.41 B: uh-huh 
+
+273.97 283.72 B: yeah i mean i i i see i don't know but that's true that's true i mean baseball is still a little better but like basketball and football are just crazy 
+
+282.87 284.50 A: [noise] it is 
+
+283.93 288.41 B: like baseball at least you can get ch- ch- cheaper tickets like if you want it 
+
+287.81 290.75 A: uh-huh yeah they be up in the boon decks 
+
+288.47 289.70 B: but like 
+
+290.04 296.12 B: yeah but for the others like there's no option like you've got cheaper so you you got to shell out like thirty forty bucks 
+
+295.47 296.68 A: yeah 
+
+296.66 297.85 B: and uh 
+
+298.29 301.68 B: and then yeah they're not even going to show it on t._v. so 
+
+301.31 305.35 A: [noise] i think that that's wrong the same way it is with level lake too though you know 
+
+305.47 307.43 A: that's all going cable too 
+
+307.28 309.00 B: yeah that's true 
+
+308.70 310.89 A: (( 'cause we've got a like world series )) 
+
+310.55 311.72 B: yeah 
+
+311.12 316.95 A: they uh they make that on uh uh cable and e._s._p._n. takes it and 
+
+317.09 322.31 A: and uh locks on to it just to make to make money 
+
+317.17 318.07 B: yeah 
+
+319.07 320.15 B: mhm 
+
+321.76 326.07 B: oh yeah that's crazy everything was going down i mean 
+
+324.24 325.05 A: and it 
+
+325.11 326.12 A: (( it is )) 
+
+325.89 337.46 B: i was reading some time about it how they even wanted to move all the football games to cable as well and then somebody intervened and they say well football has to stay on 
+
+337.49 338.97 B: the networks 
+
+338.92 343.71 A: well y- you're going to see it eventually where it's going to be it's all going to be on cable 
+
+343.10 350.17 B: yeah eventu- i mean i i think so like it just too much money involved in there so 
+
+350.55 352.94 B: it's just not 
+
+352.04 355.06 A: well just look at how much they're paying these players 
+
+354.76 357.26 B: mm oh yeah i mean yeah 
+
+356.61 360.45 A: like that uh wasn't it who was it that they 
+
+360.68 364.01 A: signed uh [lipsmack] [noise] robinson 
+
+364.10 365.84 A: i think it was robinson 
+
+365.87 371.27 A: it just he was playing uh college ball and he gave up his college ball and he went to pro 
+
+370.98 372.06 B: (( [noise] yeah )) 
+
+371.42 373.71 A: uh i forget what team he went to 
+
+373.63 378.85 B: [noise] i mean yeah this just crazy like look at errol like two fifty million 
+
+373.96 374.82 A: but 
+
+378.34 379.40 A: yeah 
+
+378.86 385.67 B: i mean that's just crazy money like you're right you know they have to they have to recover it somehow [mn] 
+
+385.57 391.68 A: well i don't i don't think it's that i don't think it's even that bad they just i think they ought to put a cap on on the 
+
+390.78 393.08 B: uh they have to like i mean 
+
+393.19 398.92 B: it's crazy like if this it's just in the u._s. like it is so much money in sports 
+
+398.71 399.75 A: yeah 
+
+399.18 400.01 B: i mean 
+
+400.15 405.37 B: like i was just reading today it's have you do you do you follow soccer at all 
+
+404.58 406.00 A: (( [noise] a little bit )) 
+
+405.67 411.83 B: yeah like so david beckham was the captain of england he i 
+
+411.77 416.43 B: mean one of the best soccer players in the world like really good and they he 
+
+413.47 414.34 A: [noise] 
+
+416.33 427.74 B: he he's a they just traded him or one team traded him to the other and he's going to get like six i think six million a year i mean it's a lot of money but he's like the best you know 
+
+423.67 424.58 A: (( mm )) 
+
+427.30 428.27 A: right 
+
+427.78 435.86 B: and that's th- and here like i mean eroll i mean he's good but he's not the best i think and he got like twenty five mil a year 
+
+432.69 433.82 A: [noise] that's right 
+
+435.52 436.74 A: yeah 
+
+436.17 437.36 B: so that's 
+
+437.66 442.51 A: well i just wonder how long it's going to be soccer's going to be in the same line as the rest of them 
+
+441.99 443.13 B: yeah 
+
+442.53 445.70 A: you know 'cause soccer's getting more popular all the time 
+
+445.14 446.54 B: mhm 
+
+445.90 448.29 A: i know down here in georgia they uh 
+
+448.40 462.08 A: they found that they made a a stocker a soccer's uh what do they call it's not a stadium i forget what it's called but uh they got a pavilion that's what it is they got a soccer pavilion down here in in georgia 
+
+457.76 458.75 B: okay 
+
+461.81 462.72 B: okay 
+
+462.19 463.87 A: little town where i live 
+
+463.51 464.41 B: okay 
+
+463.95 471.29 A: uh in gainsville uh and it's just for soccer that's all it is and and then they have uh 
+
+468.95 470.57 B: (( [noise] oh mm [noise] [noise] )) 
+
+471.48 479.12 A: soccer camps for kids and things like that and it's just a matter of time it's going to be a mighty thing yeah 
+
+476.39 478.02 B: so it's going to be big too 
+
+478.59 487.62 B: mm yeah and i mean this is definitely gaining popularity 'specially like in in for girls when this soon as the u._s. won the world cup 
+
+481.91 483.04 A: oh yeah 
+
+487.06 488.10 A: (( mhm )) 
+
+487.81 490.09 B: yeah so that's definitely gotten uh 
+
+490.55 491.60 B: bigger 
+
+491.86 499.06 B: here which is 'cause soccer is like the most popular sport in the world everywhere everybody plays soccer 
+
+493.49 494.34 A: (( [noise] [noise] )) 
+
+499.05 500.08 A: yeah 
+
+499.86 501.57 B: just 
+
+500.64 503.03 A: well you know all the european countries play it 
+
+502.44 513.43 B: yeah exactly like i mean you could pick all country in the world and probably it's going to be playing soccer you know like many other things are very selective like i mean 
+
+508.34 509.28 A: yeah 
+
+513.82 520.39 B: selective uh representation but it's not soccer i mean basketball is probably too like very popular 
+
+520.86 522.71 B: but not that popular 
+
+522.76 523.94 B: also 
+
+524.46 530.15 A: well th- basketball it seem like it has it it's own elite group of people have 
+
+529.65 531.49 B: yeah that's true 
+
+530.23 532.25 A: you noticed that 
+
+532.39 539.14 A: there's just there's just people that you got people that like football yeah but they'll turn to to baseball too 
+
+538.73 539.78 B: mhm 
+
+539.17 545.86 A: but then you people that's locked into basketball and that's all that's all they want to take 'em pay any attention to is basketball 
+
+545.18 553.50 B: yeah that's true i mean what i like is i i like to follow pretty much everything you know i'm not like super 
+
+550.73 551.72 A: uh-huh 
+
+554.03 560.15 B: that i'm gong to just go basketball or i'm just going to go this but i mean i like in general like to 
+
+560.37 564.04 B: i mean i like tennis i like to follow that also 
+
+564.18 568.53 B: and you know like even like track and field sometimes 
+
+567.91 569.36 A: yeah yeah 
+
+568.80 577.04 B: so um it's kinda fun like every sport i think has it's own ping like you know that you can enjoy 
+
+575.92 579.79 A: [noise] well see a lot of it i think it all depends on what part of the county too 
+
+579.45 581.37 B: right i think so 
+
+581.16 582.47 A: but uh 
+
+582.76 592.87 A: in uh out in west when i lived out there they had seasons where they took and did football them they did baseball then they did uh soccer 
+
+586.32 587.32 B: (( [noise] okay )) 
+
+592.88 596.52 A: uh and that was a more 
+
+596.53 599.89 A: versatile area where you gonna that it took 
+
+597.89 599.00 B: oh i see 
+

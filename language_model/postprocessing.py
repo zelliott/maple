@@ -5,6 +5,7 @@ Created on Tue Feb 21 17:29:05 2017
 @author: omarpaladines
 """
 
+'''
 # Parse the language model and convert it into a hash table 
 def vocabulary(lang_file) :
     vocab = dict()
@@ -14,6 +15,17 @@ def vocabulary(lang_file) :
                 words = line.split("\t")
                 actualword = words[1].split("\n")
                 vocab[actualword[0]] = words[0]        
+    return vocab
+'''
+
+# Parse the language model and convert it into a hash table 
+def vocabulary(lang_file) :
+    vocab = dict()
+    with open(lang_file) as infile:
+        for line in infile :
+            words = line.split()
+            for word in words :
+                vocab[word] = word        
     return vocab
 
 # Replace each word out of vocabulary with the unknown token zzso    
