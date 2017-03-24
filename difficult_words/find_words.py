@@ -6,8 +6,6 @@ import random
 from textblob import TextBlob as tb
 
 def tf(word, blob):
-	# print blob.words.count(word)
-	# print len(blob.words)
 	return blob.words.count(word) / len(blob.words)
 
 def n_containing(word, bloblist):
@@ -43,7 +41,7 @@ def get_most_difficult(doc, doc_class):
 		all_docs.extend(all_docs_in_file)
 
 	random.shuffle(all_docs)
-	# all_docs = all_docs[:1000]
+	all_docs = all_docs[:1000]
 
 	# print "getting corpora hard words"
 	corpora_hard_words = get_top_words(doc, all_docs)
@@ -52,7 +50,7 @@ def get_most_difficult(doc, doc_class):
 	class_docs_text = class_docs_file.read()
 	all_class_docs = class_docs_text.split('\n')
 
-	# all_class_docs = all_class_docs[:1000]
+	all_class_docs = all_class_docs[:1000]
 
 	# print "getting class hard words"
 	class_hard_words = get_top_words(doc, all_class_docs)
@@ -60,3 +58,10 @@ def get_most_difficult(doc, doc_class):
 	corpora_hard_words.extend(class_hard_words)
 	all_words = list(set(corpora_hard_words))
 	return all_words
+
+
+doc =  "most continent geriatric patients can be managed appropriately after a clinical assessment including a history, physical examination, urinalysis and culture, and simple tests of bladder function. a subgroup will benefit from urologic, gynecologic, and formal urodynamic evaluation. algorithms described in this chapter are being developed and tested; these algorithms will make clinical assessment more practical and cost effective."
+doc_type = "algorithms"
+print get_most_difficult(doc, doc_type)
+
+
