@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.externals import joblib
 from sklearn.naive_bayes import MultinomialNB
+from sklearn.model_selection import train_test_split
 
 def build_training_documents(source_dir):
 	all_train = []
@@ -34,11 +35,19 @@ def classify(test_text):
 	predicted = clf.predict(testX)
 	return predicted
 
+def compute_accuracy(X, y):
+	clf = joblib.load('saved_models/naive_bayes.pkl')
+	return clf.score(X, y)
+
 print "building training documents"
 docX,y = build_training_documents('corpora')
 print "vectorizing training data"
 X = train_vectorizer(docX)
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=0)
 print "training classifier"
-train_classifier(X, y)
+train_classifier(X_train, y_train)
 print "testing classifier"
-print classify([" most continent geriatric patients can be managed appropriately after a clinical assessment including a history, physical examination, urinalysis and culture, and simple tests of bladder function. a subgroup will benefit from urologic, gynecologic, and formal urodynamic evaluation. algorithms described in this chapter are being developed and tested; these algorithms will make clinical assessment more practical and cost effective."])
+# test_pred = classify(X_test)
+print compute_accuracy(X_test, y_test)
+
