@@ -1,0 +1,11 @@
+
+Voice pitch carries important cues for speech perception in humans. Recent studies have shown the feasibility of recording the frequency-following response (FFR) to voice pitch in normal-hearing listeners. The presence of such a response, however, has been dependent on subjective interpretation of experimenters. The purpose of this study was to develop and test an automated procedure including a control-experimental protocol and response-threshold criteria suitable for extracting FFRs to voice pitch, and compare the results to human judgments.
+
+A set of four Mandarin tones (Tone 1 flat; Tone 2 rising; Tone 3 dipping; and Tone 4 falling) were prepared to reflect the four contrastive pitch contours. Two distinctive algorithms, short-term autocorrelation in the time domain and narrow-band spectrogram in the frequency domain, were used to estimate the Frequency Error, Slope Error, Tracking Accuracy, Pitch Strength and Pitch-Noise Ratio of the recordings from individual listeners as well as the power and false-positive rates of each algorithm.
+
+Eleven native speakers (five males; age: mean ± SD = 31.4 ± 4.7 years) of Mandarin Chinese were recruited.
+
+The results demonstrated that both algorithms were suitable for extracting FFRs and the objective measures showed comparable results to human judgments.
+
+The automated procedure used in this study, including the use of the control-experimental protocol and response thresholds used for each of the five objective indices, can be used for difficult-to-test patients and may prove to be useful as an assessment and diagnostic method in both clinical and basic research efforts.
+

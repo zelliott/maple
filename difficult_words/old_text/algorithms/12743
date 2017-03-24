@@ -1,0 +1,9 @@
+
+Midline shift (MLS) is an important quantitative feature for evaluating severity of brain compression by various pathologies, including traumatic intracranial hematomas. In this study, we sought to determine the accuracy and the prognostic value of our computer algorithm that automatically measures the MLS of the brain on computed tomography (CT) images in patients with head injury.
+
+Modelling the deformed midline into three segments, we had designed an algorithm to estimate the MLS automatically. We retrospectively applied our algorithm to the initial CT images of 53 patients with head injury to determine the automated MLS (aMLS) and validated it against that measured by human (hMLS). Both measurements were separately used to predict the neurological outcome of the patients.
+
+The hMLS ranged from 0 to 30 mm. It was greater than 5 mm in images of 17 patients (32%). In 49 images (92%), the difference between hMLS and aMLS was <1 mm. To detect MLS >5 mm, our algorithm achieved sensitivity of 94% and specificity of 100%. For mortality prediction, aMLS was no worse than hMLS.
+
+In summary, automated MLS was accurate and predicted outcome as well as that measured manually. This approach might be useful in constructing a fully automated computer-assisted diagnosis system.
+

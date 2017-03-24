@@ -1,0 +1,7 @@
+
+Flux estimation by using (13) C-labeling pattern information of metabolites is currently the only method that can give accurate, detailed quantification of all intracellular fluxes in the central metabolism of a microorganism. In essence, it corresponds to a constrained optimization problem which minimizes a weighted distance between measured and simulated results. Characteristics, such as existence of multiple local minima, non-linear and non-differentiable make this problem a special difficulty.
+
+In the present work, we propose an evolutionary-based global optimization algorithm taking advantage of the convex feature of the problem's solution space. Based on the characteristics of convex spaces, specialized initial population and evolutionary operators are designed to solve (13)C-based metabolic flux estimation problem robustly and efficiently. The algorithm was applied to estimate the central metabolic fluxes in Escherichia coli and compared with conventional optimization technique. Experimental results illustrated that our algorithm is capable of achieving fast convergence to good near-optima and maintaining the robust nature of evolutionary algorithms at the same time.
+
+Available from the authors upon request.
+

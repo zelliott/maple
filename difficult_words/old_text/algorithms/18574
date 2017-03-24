@@ -1,0 +1,3 @@
+
+Inspired by the concept of knowledge-based scoring functions, a new quantitative structure-activity relationship (QSAR) approach is introduced for scoring protein-ligand interactions. This approach considers that the strength of ligand binding is correlated with the nature of specific ligand/binding site atom pairs in a distance-dependent manner. In this technique, atom pair occurrence and distance-dependent atom pair features are used to generate an interaction score. Scoring and pattern recognition results obtained using Kernel PLS (partial least squares) modeling and a genetic algorithm-based feature selection method are discussed.
+

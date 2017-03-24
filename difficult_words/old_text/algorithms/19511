@@ -1,0 +1,3 @@
+
+Cells adapt to changes in their environment by the concerted action of many different regulatory mechanisms. Examples of such mechanisms are feedback inhibition by intermediates of metabolism, covalent modification of enzymes and changes in the abundance of mRNAs and proteins. These mechanisms act in parallel at different levels in the cellular hierarchy while regulating a single process. Existing hierarchical regulation analysis determines the relative importance of these mechanisms when the cell regulates a transition from one steady-state to another. Here, the analysis is extended to the regulation of time-dependent phenomena, for which two methods are introduced and illustrated with a kinetic model incorporating transcription and translation of metabolic enzymes.
+

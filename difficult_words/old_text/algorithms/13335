@@ -1,0 +1,9 @@
+
+To further improve the image quality, in particularly, to suppress the boundary artifacts, in the extended scan field-of-view (SFOV) reconstruction.
+
+To combat projection truncation artifacts and to restore truncated objects outside the SFOV, an algorithm has previously been proposed based on fitting a partial water cylinder at the site of the truncation. Previous studies have shown this algorithm can simultaneously eliminate the truncation artifacts inside the SFOV and preserve the total amount of attenuation, owing to its emphasis on consistency conditions of the total attenuation in the parallel sampling geometry. Unfortunately, the water cylinder fitting parameters of this 2D algorithm are inclined to high noise fluctuation in the projection samples from image to image, causing anatomy boundaries artifacts, especially during helical scans with higher pitch (≥1.0). To suppress the boundary artifacts and further improve the image quality, the authors propose to use a roughness penalty function, based on the Huber regularization function, to reinforce the z-dimensional boundary consistency. Extensive phantom and clinical tests have been conducted to test the accuracy and robustness of the enhanced algorithm.
+
+Significant reduction in the boundary artifacts is observed in both phantom and clinical cases with the enhanced algorithm. The proposed algorithm also reduces the percent difference error between the horizontal and vertical diameters to well below 1%. It is also noticeable that the algorithm has improved CT number uniformity outside the SFOV compared to the original algorithm.
+
+The proposed algorithm is capable of suppressing boundary artifacts and improving the CT number uniformity outside the SFOV.
+

@@ -1,0 +1,3 @@
+
+A new exact algorithm is proposed to compute the 3D geometric moments of a homogeneous shape defined by an unstructured triangulation of its surface. This algorithm relies on the analytical integration of the moments on tetrahedra defined by the surface triangles and a central point and on a set of recurrent relationships between the corresponding integrals, and achieves linear running time complexities with respect to the number of triangles in the surface mesh and with respect to the number of moments that are computed. This effectively reduces the complexity for computing moments up to order N from N^6 to N^3 with respect to the fastest previously proposed exact algorithm.
+

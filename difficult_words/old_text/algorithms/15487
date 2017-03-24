@@ -1,0 +1,11 @@
+
+In this study, individual differences in brain electrophysiology during positive and negative affective valence processing in women with different neuroticism scores are quantified.
+
+Twenty-six women scoring high and low on neuroticism participated on this experiment. A support vector machine (SVM)-based classifier was applied on the EEG single trials elicited by high arousal pictures with negative and positive valence scores. Based on the accuracy values obtained from subject identification tasks, the most distinguishing EEG channels among participants were detected, pointing which scalp regions show more distinct patterns.
+
+Significant differences were obtained, in the EEG heterogeneity between positive and negative valence stimuli, yielding higher accuracy in subject identification using negative pictures. Regarding the topographical analysis, significantly higher accuracy values were reached in occipital areas and in the right hemisphere (p < 0.001).
+
+Mainly, individual differences in EEG can be located in parietooccipital regions. These differences are likely to be due to the different reactivity and coping strategies to unpleasant stimuli in individuals with high neuroticism. In addition, the right hemisphere shows a greater individual specificity.
+
+An SVM-based classifier asserts the individual specificity and its topographical differences in electrophysiological activity for women with high neuroticism compared to low neuroticism.
+

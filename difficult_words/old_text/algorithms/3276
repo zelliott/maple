@@ -1,0 +1,3 @@
+
+In this paper, we study the synchronization of two bidirectionally coupled piecewise linear chaotic systems when the coupling strength is disturbed by the common or different noise. Based on stochastic differential equation theory, we verify that the noise can really induce the occurrence of synchronization, and the sufficient conditions of synchronization with probability 1 are established. We also find that with the common noise it is easier to induce the synchronization than with different noise. Moreover, two examples are provided and some numerical simulations are performed to verify the theoretical results.
+

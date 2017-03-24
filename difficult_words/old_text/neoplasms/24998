@@ -1,0 +1,9 @@
+
+This planning study compared RapidArc, fixed-field IMRT (cIMRT), 3D conformal radiotherapy (3D-CRT), and a parallel-opposed pair (POP) for children with retroperitoneal tumors.
+
+Plans were generated in eight patients to treat the PTV (dose range 19.8-45 Gy) while limiting kidney and liver doses. In selected patients, vertebral body (VB) dose heterogeneity was minimized. Cumulative DVH parameters, monitor units (MU), and treatment times were compared for the four techniques using the Wilcoxon matched pairs test.
+
+RapidArc and cIMRT covered target volumes more conformally than 3D-CRT and POP (P = 0.012). There was no difference in the ability to meet kidney dose constraints. A significantly lower volume of the liver received 12 Gy with cIMRT or RapidArc compared with 3D-CRT (P = 0.028). Where VB was included in PTV, VB dose homogeneity was generally within 94-104% of the prescription dose. Time to deliver a single fraction with RapidArc, POP, 3D-CRT, and cIMRT was 1.25 ± 0.01, 1.38 ± 0.10, 2.6 ± 0.45, and 4.02 ± 1.12 min, respectively (P = 0.012). Monitor units for a single fraction with POP, 3D-CRT, RapidArc, and cIMRT were 203 ± 26, 235 ± 32, 325 ± 71, and 665 ± 215, respectively (P &lt; 0.05).
+
+POP resulted in favorable MU, treatment time and dosimetry but had poor conformality. 3D-CRT was more conformal but had higher MU and treatment time. RapidArc and cIMRT were generally no better dosimetrically than conformal techniques. RapidArc was dosimetrically very similar to cIMRT, but resulted in a major reduction in time and MU used to deliver the radiation.
+

@@ -1,0 +1,7 @@
+
+Biological processes typically involve the interactions of a number of elements (genes, cells) acting on each others. Such processes are often modelled as networks whose nodes are the elements in question and edges pairwise relations between them (transcription, inhibition). But more often than not, elements actually work cooperatively or competitively to achieve a task. Or an element can act on the interaction between two others, as in the case of an enzyme controlling a reaction rate. We call "complex" these types of interaction and propose ways to identify them from time-series observations.
+
+We use Granger Causality, a measure of the interaction between two signals, to characterize the influence of an enzyme on a reaction rate. We extend its traditional formulation to the case of multi-dimensional signals in order to capture group interactions, and not only element interactions. Our method is extensively tested on simulated data and applied to three biological datasets: microarray data of the Saccharomyces cerevisiae yeast, local field potential recordings of two brain areas and a metabolic reaction.
+
+Our results demonstrate that complex Granger causality can reveal new types of relation between signals and is particularly suited to biological data. Our approach raises some fundamental issues of the systems biology approach since finding all complex causalities (interactions) is an NP hard problem.
+

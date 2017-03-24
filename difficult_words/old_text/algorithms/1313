@@ -1,0 +1,5 @@
+
+To provide data management tools to maintain and query efficiently experimental and derived protein data with the goal of providing new insights into structure-function relationships. The tools should be portable, extensible, and accessible locally, or via the World Wide Web, providing data that would not otherwise be available.
+
+The initial phase of the work, the data representation and query of all available macromolecular structure data, including real-time access to complex property patterns based on the amino acid sequence, is reported. protein structure data taken from the Protein Data Bank (PDB) are decomposed into native and derived elementary properties, and represented as compact indexed objects minimizing storage requirements and query time for select types of query. In addition, collections of indices representing a particular property are maintained and can be queried for specific property patterns found across the whole database. The approach is proving applicable to a wide variety of data available on specific protein families.
+

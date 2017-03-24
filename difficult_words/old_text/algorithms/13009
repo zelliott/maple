@@ -1,0 +1,9 @@
+
+Scoring sleep visually based on polysomnography is an important but time-consuming element of sleep medicine. Whereas computer software assists human experts in the assignment of sleep stages to polysomnogram epochs, their performance is usually insufficient. This study evaluates the possibility to fully automatize sleep staging considering the reliability of the sleep stages available from human expert sleep scorers.
+
+We obtain features from EEG, ECG and respiratory signals of polysomnograms from ten healthy subjects. Using the sleep stages provided by three human experts, we evaluate the performance of linear discriminant analysis on the entire polysomnogram and only on epochs where the three experts agree in their sleep stage scoring.
+
+We show that in polysomnogram intervals, to which all three scorers assign the same sleep stage, our algorithm achieves 90% accuracy. This high rate of agreement with the human experts is accomplished with only a small set of three frequency features from the EEG. We increase the performance to 93% by including ECG and respiration features. In contrast, on intervals of ambiguous sleep stage, the sleep stage classification obtained from our algorithm, agrees with the human consensus scorer in approximately 61%.
+
+These findings suggest that machine classification is highly consistent with human sleep staging and that error in the algorithm's assignments is rather a problem of lack of well-defined criteria for human experts to judge certain polysomnogram epochs than an insufficiency of computational procedures.
+

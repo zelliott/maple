@@ -1,0 +1,3 @@
+
+After Pap smear test, colposcopy is the most used technique to diagnose cervical cancer due to its higher sensitivity and specificity. One of the most promising approaches to improve the colposcopic test is the use of the aceto-white temporal patterns intrinsic to the color changes in digital images. However, there is not a complete understanding of how to use them to segment colposcopic images. In this work, we used the classification algorithm k-NN over the entire length of the aceto-white temporal pattern to automatically discriminate between normal and abnormal cervical tissue, reaching a sensitivity of 71% and specificity of 59%.
+

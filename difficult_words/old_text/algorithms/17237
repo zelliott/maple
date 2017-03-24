@@ -1,0 +1,3 @@
+
+In a previous publication we showed that non-linear analysis can extract spatio-temporal changes of brain electrical activity prior to epileptic seizures. Here we describe a new method to analyze this long-term non-stationarity in the EEG by a measure of dynamical similarity between different parts of the time series. We apply this method to the study of a group of patients with temporal lobe epilepsy recorded intracranially during transitions to seizure. We show that the method, which can be implemented on a personal computer, can track in real time spatio-temporal changes in brain dynamics several minutes prior to seizure.
+

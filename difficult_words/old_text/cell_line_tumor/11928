@@ -1,0 +1,9 @@
+
+Accurate prediction of an individual patient's drug response is an important prerequisite of personalized medicine. Recent pharmacogenomics research in chemosensitivity prediction has studied the gene-drug correlation based on transcriptional profiling. However, proteomic profiling will more directly solve the current functional and pharmacologic problems. We sought to determine whether proteomic signatures of untreated cells were sufficient for the prediction of drug response.
+
+In this study, a machine learning model system was developed to classify cell line chemosensitivity exclusively based on proteomic profiling. Using reverse-phase protein lysate microarrays, protein expression levels were measured by 52 antibodies in a panel of 60 human cancer cell (NCI-60) lines. The model system combined several well-known algorithms, including random forests, Relief, and the nearest neighbor methods, to construct the protein expression--based chemosensitivity classifiers. The classifiers were designed to be independent of the tissue origin of the cells.
+
+A total of 118 classifiers of the complete range of drug responses (sensitive, intermediate, and resistant) were generated for the evaluated anticancer drugs, one for each agent. The accuracy of chemosensitivity prediction of all the evaluated 118 agents was significantly higher (P < 0.02) than that of random prediction. Furthermore, our study found that the proteomic determinants for chemosensitivity of 5-fluorouracil were also potential diagnostic markers of colon cancer.
+
+The results showed that it was feasible to accurately predict chemosensitivity by proteomic approaches. This study provides a basis for the prediction of drug response based on protein markers in the untreated tumors.
+

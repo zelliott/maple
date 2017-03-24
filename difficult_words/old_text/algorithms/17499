@@ -1,0 +1,3 @@
+
+In this study, the author has designed new verifiable (t,n) threshold untraceable signature schemes. The proposed schemes have the following properties:(1) Verification: The shadows of the secret distributed by the trusted center can be verified by all of the participants;(2) Security: Even if the number of the dishonest member is over the value of the threshold, they cannot get the system secret parameters, such as the group secret key, and forge other member's individual signature;(3) Efficient verification: The verifier can verify the group signature easily and the verification time of the group signature is equivalent to that of an individual signature; (4) Untraceability: The signers of the group signature cannot be traced.
+

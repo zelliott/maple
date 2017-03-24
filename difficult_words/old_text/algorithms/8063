@@ -1,0 +1,5 @@
+
+We present a software package for pedigree reconstruction in natural populations using co-dominant genomic markers such as microsatellites and single nucleotide polymorphisms (SNPs). If available, the algorithm makes use of prior information such as known relationships (sub-pedigrees) or the age and sex of individuals. Statistical confidence is estimated by Markov Chain Monte Carlo (MCMC) sampling. The accuracy of the algorithm is demonstrated for simulated data as well as an empirical dataset with known pedigree. The parentage inference is robust even in the presence of genotyping errors.
+
+The C source code of FRANz can be obtained under the GPL from http://www.bioinf.uni-leipzig.de/Software/FRANz/.
+

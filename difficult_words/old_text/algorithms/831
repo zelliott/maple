@@ -1,0 +1,9 @@
+
+The aim of this study was to investigate relations among different aspects in supervised word sense disambiguation (WSD; supervised machine learning for disambiguating the sense of a term in a context) and compare supervised WSD in the biomedical domain with that in the general English domain.
+
+The study involves three data sets (a biomedical abbreviation data set, a general biomedical term data set, and a general English data set). The authors implemented three machine-learning algorithms, including (1) naïve Bayes (NBL) and decision lists (TDLL), (2) their adaptation of decision lists (ODLL), and (3) their mixed supervised learning (MSL). There were six feature representations (various combinations of collocations, bag of words, oriented bag of words, etc.) and five window sizes (2, 4, 6, 8, and 10).
+
+Supervised WSD is suitable only when there are enough sense-tagged instances with at least a few dozens of instances for each sense. Collocations combined with neighboring words are appropriate selections for the context. For terms with unrelated biomedical senses, a large window size such as the whole paragraph should be used, while for general English words a moderate window size between 4 and 10 should be used. The performance of the authors' implementation of decision list classifiers for abbreviations was better than that of traditional decision list classifiers. However, the opposite held for the other two sets. Also, the authors' mixed supervised learning was stable and generally better than others for all sets.
+
+From this study, it was found that different aspects of supervised WSD depend on each other. The experiment method presented in the study can be used to select the best supervised WSD classifier for each ambiguous term.
+

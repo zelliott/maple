@@ -1,0 +1,9 @@
+
+The US Public Health Service Panel on Cost-Effectiveness has recommended the use of quality-adjusted life-years (QALYs) as the best way to estimate outcomes in a cost-effectiveness analysis. We evaluate the importance of this recommendation by assessing whether adjusting for health-related quality of life affects the ultimate resource allocation decision implied by the cost-effectiveness ratio for interventions aimed at cancer prevention and control.
+
+We identified 110 interventions in 39 articles for which both cost/life-year and cost/QALY were reported. Interventions were forms of prevention, early detection, or treatment of cancer. We calculated a Spearman correlation to assess the ordinal relationship between cost/life-year and cost/QALY. In addition, we employed various decision thresholds to assess whether the use of cost/life-year would yield different resource allocation decisions than the use of cost/QALY.
+
+The correlation between cost/life-year and cost/QALY is 0.96 (P &lt;.0001). Assuming a US dollars 50000 decision threshold, adjustment for quality of life would affect the implied choice in 5% of cases. With a US dollars 400000 threshold, adjustment for quality of life would affect choice for 2% of interventions.
+
+For interventions aimed at cancer, the outcome measures of cost/life-year and cost/QALY are highly correlated with one another. Although adjusting for quality of life can make an important difference in the evaluation of alternative approaches to cancer prevention and control, it often does not.
+

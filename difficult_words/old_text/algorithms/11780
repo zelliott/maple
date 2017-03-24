@@ -1,0 +1,3 @@
+
+A novel clustering approach is introduced to overcome data missing and inconsistency of gene expression levels under different conditions in the stage of clustering. It is based on the so-called smooth score, which is defined for measuring the deviation of the expression level of a gene and the average expression level of all the genes involved under a condition. We present an efficient greedy algorithm for finding clusters with smooth score below a threshold after studying its computational complexity. The algorithm was tested intensively on random matrixes and a yeast data. It was shown to perform well in finding co-regulation patterns in a test with the yeast data.
+

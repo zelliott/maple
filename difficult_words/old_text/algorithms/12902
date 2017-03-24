@@ -1,0 +1,3 @@
+
+Segmentation of anatomical and pathological structures in ophthalmic images is crucial for the diagnosis and study of ocular diseases. However, manual segmentation is often a time-consuming and subjective process. This paper presents an automatic approach for segmenting retinal layers in Spectral Domain Optical Coherence Tomography images using graph theory and dynamic programming. Results show that this method accurately segments eight retinal layer boundaries in normal adult eyes more closely to an expert grader as compared to a second expert grader.
+

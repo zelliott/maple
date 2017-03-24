@@ -1,0 +1,3 @@
+
+Luria-Delbrück fluctuation analysis provides a method to estimate mutation rates in cell populations. Originally designed for bacterial populations, the method now is widely applied in somatic cell genetics and in cancer biology. However, there are fundamental genetic differences between bacteria and somatic cells, and this together with the inherent mathematical complexity of fluctuation analysis can lead to many pitfalls in its application. In addition there is considerable statistical error associated with the method. The use, misuse, and limitations of fluctuation analysis are reviewed here with the hope that such problems may be avoided.
+

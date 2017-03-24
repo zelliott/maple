@@ -1,0 +1,7 @@
+
+Recently novel classes of functional RNAs, most prominently the miRNAs have been discovered, strongly suggesting that further types of functional RNAs are still hidden in the recently completed genomic DNA sequences. Only few techniques are known, however, to survey genomes for such RNA genes. When sufficiently similar sequences are not available for comparative approaches the only known remedy is to search directly for structural features.
+
+We present here efficient algorithms for computing locally stable RNA structures at genome-wide scales. Both the minimum energy structure and the complete matrix of base pairing probabilities can be computed in theta(N x L2) time and theta(N + L2) memory in terms of the length N of the genome and the size L of the largest secondary structure motifs of interest. In practice, the 100 Mb of the complete genome of Caenorhabditis elegans can be folded within about half a day on a modern PC with a search depth of L = 100. This is sufficient example for a survey for miRNAs.
+
+The software described in this contribution will be available for download at http://www.tbi.univie.ac.at/~ivo/RNA/ as part of the Vienna RNA Package.
+

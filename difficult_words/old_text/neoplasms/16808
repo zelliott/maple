@@ -1,0 +1,3 @@
+
+Phase II studies of new medical treatments often use historical data on the standard treatment for comparative evaluation. Incorrectly disregarding inherent variability in the historical data may lead to erroneous conclusions regarding the efficacy of the experimental treatment. We propose an approach to phase II trial design which accounts for both inter-study and intra-study variation. Our results indicate that it is sometimes best to randomize a proportion of the patients to a control arm. We choose this proportion to maximize the precision of the estimated experimental treatment effect. We evaluate operating characteristics of the design numerically, and provide illustrations based on historical data from cancer chemotherapy trials.
+

@@ -1,0 +1,3 @@
+
+We present here a method for calibrating an optical see-through head-mounted display (HMD) using techniques usually applied to camera calibration (photogrammetry). Using a camera placed inside the HMD to take pictures simultaneously of a tracked object and features in the HMD display, we could exploit established camera calibration techniques to recover both the intrinsic and extrinsic properties of the HMD (width, height, focal length, optic centre and principal ray of the display). Our method gives low re-projection errors and, unlike existing methods, involves no time-consuming and error-prone human measurements, nor any prior estimates about the HMD geometry.
+

@@ -1,0 +1,3 @@
+
+The paper reviews single-neuron learning rules for minor component analysis and suggests a novel minor component learning rule. In this rule, the weight vector length is self-stabilizing, i.e., moving towards unit length in each learning step. In simulations with low- and medium-dimensional data, the performance of the novel learning rule is compared with previously suggested rules.
+

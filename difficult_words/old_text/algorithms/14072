@@ -1,0 +1,9 @@
+
+To evaluate the technical feasibility of two approaches--dual-contrast (DC) cluster analysis, and scout geometry (SG)--for automatic identification of the left ventricular (LV) cavity in short-axis (SA) cine-MR images.
+
+The DC algorithm uses Fuzzy C-Means (FCM) cluster analysis of SA images from a black-blood double-inversion recovery turbo spin-echo (dual IR TSE) sequence, and bright-blood images from a steady-state free precession (SSFP) sequence. The SG algorithm employs geometric information from scout views (i.e., vertical long-axis (VLA) and four-chamber (4CH) views). Both algorithms incorporate additional geometric continuity constraints along with LV region segmentation to identify the LV. The performance of both algorithms was compared on images of eight healthy volunteers, and the SG algorithm was further evaluated on images of 13 clinical patients.
+
+The DC algorithm identified the LV in 89% (72/75 at end-diastole (ED) and 47/59 at end-systole (ES)) of the images from healthy volunteers, compared to 98% (74/75 at ED and 57/59 at ES) by the SG algorithm. Both methods are robust against interslice signal variations and misalignment. The DC method suffers from misregistration between the dual IR TSE and SSFP images near the apex at ES. The SG method identified the LV in 91% (112/122 at ED and 91/102 at ES) of the images from clinical patients.
+
+The SG method requires no additional scan, is robust and accurate, and performs better than the DC method for automatic identification of the LV.
+

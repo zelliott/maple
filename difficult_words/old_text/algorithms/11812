@@ -1,0 +1,3 @@
+
+An automatic ECG analysis system based on DSP is introduced in this paper. It can fulfill the functions of signal regulation, adaptive filtering, QRS waves positioning, and automatically recognize more than 10 kinds of arrhythmia and report alarm. TI DSP product--TMS320F206 is applied in this system to accomplish the adaptive filtering and automatic diagnosis of arrhythmia for the need of real time signal processing.
+

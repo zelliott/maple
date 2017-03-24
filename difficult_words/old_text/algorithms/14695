@@ -1,0 +1,3 @@
+
+In pedestrian navigation systems, the position of a pedestrian is computed using an inertial navigation algorithm. In the algorithm, the zero velocity updating plays an important role, where zero velocity intervals are detected and the velocity error is reset. To use the zero velocity updating, it is necessary to detect zero velocity intervals reliably. A new zero detection algorithm is proposed in the paper, where only one gyroscope value is used. A Markov model is constructed using segmentation of gyroscope outputs instead of using gyroscope outputs directly, which makes the zero velocity detection more reliable.
+

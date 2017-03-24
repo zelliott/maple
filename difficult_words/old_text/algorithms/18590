@@ -1,0 +1,9 @@
+
+In this study, we developed a prototype model-based computer aided detection (CAD) system designed to automatically detect both solid and subsolid pulmonary nodules in computed tomography (CT) images. By using this CAD algorithm, along with the radiologist's initial interpretation, we aim to improve the sensitivity of radiologic readings of CT lung exams.
+
+We have developed a model-based CAD algorithm through the use of precise mathematic models that capture scanner physics and anatomic information. Our model-based CAD algorithm uses multiple segmentation algorithms to extract noteworthy structures in the lungs and a Bayesian statistical model selection framework to determine the probability of various anatomical events throughout the lung. We tested this algorithm on 50 low-dose CT lung cancer screening cases in which ground truth was produced through readings by three expert chest radiologists.
+
+Using this model-based CAD algorithm on 50 low-dose CT cases, we measured potential sensitivity improvements of 7% and 5% in two radiologists with respect to all noncalcified nodules, solid and subsolid, greater than 5 mm in diameter. The third radiologist did not miss any nodules in the ground truth set. The CAD algorithm produced 8.3 false positives per case.
+
+Our prototype CAD system demonstrates promising results as a tool to improve the quality of radiologic readings by increasing radiologist sensitivity. A significant advantage of this model-based approach is that it can be easily extended to support additional anatomic models as clinical understanding and scanning practices improve.
+

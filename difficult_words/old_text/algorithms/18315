@@ -1,0 +1,3 @@
+
+Display of the intersection of a shaped radiation beam with an arbitrarily oriented image plane is a very useful tool in three-dimensional external beam radiation treatment planning. Coverage of the tumor (or target) region can be graphically investigated, as well as the radiation received by the surrounding healthy tissues. An algorithm is presented that obtains and displays these intersections by projecting contour points defining the beam's aperture on the plane. A general procedure is given, as well as provisions for special cases in which a straightforward projection is not sufficient.
+

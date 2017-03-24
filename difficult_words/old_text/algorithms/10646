@@ -1,0 +1,7 @@
+
+Numerous microarray analysis programs have been created through the efforts of Open Source software development projects. Providing browser-based interfaces that allow these programs to be executed over the Internet enhances the applicability and utility of these analytic software tools.
+
+Here we present ArrayQuest, a web-based DNA microarray analysis process controller. Key features of ArrayQuest are that (1) it is capable of executing numerous analysis programs such as those written in R, BioPerl and C++; (2) new analysis programs can be added to ArrayQuest Methods Library at the request of users or developers; (3) input DNA microarray data can be selected from public databases (i.e., the Medical University of South Carolina (MUSC) DNA Microarray Database or Gene Expression Omnibus (GEO)) or it can be uploaded to the ArrayQuest center-point web server into a password-protected area; and (4) analysis jobs are distributed across computers configured in a backend cluster. To demonstrate the utility of ArrayQuest we have populated the methods library with methods for analysis of Affymetrix DNA microarray data.
+
+ArrayQuest enables browser-based implementation of DNA microarray data analysis programs that can be executed on a Linux-based platform. Importantly, ArrayQuest is a platform that will facilitate the distribution and implementation of new analysis algorithms and is therefore of use to both developers of analysis applications as well as users. ArrayQuest is freely available for use at http://proteogenomics.musc.edu/arrayquest.html.
+

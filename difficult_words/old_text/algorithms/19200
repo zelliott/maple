@@ -1,0 +1,3 @@
+
+A central problem in the emerging field of metabolomics is how to identify the compounds comprising a chemical mixture of biological origin. NMR spectroscopy can greatly assist in this identification process, by means of multi-dimensional correlation spectroscopy, particularly total correlation spectroscopy (TOCSY). This Communication demonstrates how non-negative matrix factorization (NMF) provides an efficient means of data reduction and clustering of TOCSY spectra for the identification of unique traces representing the NMR spectra of individual compounds. The method is applied to a metabolic mixture whose compounds could be unambiguously identified by peak matching of NMF components against the BMRB metabolomics database.
+

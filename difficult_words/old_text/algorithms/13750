@@ -1,0 +1,3 @@
+
+Improving the interfaces in molecular graphics applications, making them more natural and easy to use, is an important task, given the current complexity of the displayed objects and of modeling operations. Clicking near an atom center is the usual method of atom selection. However, this method has certain disadvantages when working with images composed of different atomic representations such as sticks, CPK, or dotted surfaces. We propose another technique allowing the user to obtain the correct answer when he or she clicks on any element of the atom image.
+

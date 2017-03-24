@@ -1,0 +1,7 @@
+
+MiSearch is an adaptive biomedical literature search tool that ranks citations based on a statistical model for the likelihood that a user will choose to view them. Citation selections are automatically acquired during browsing and used to dynamically update a likelihood model that includes authorship, journal and PubMed indexing information. The user can optionally elect to include or exclude specific features and vary the importance of timeliness in the ranking.
+
+http://misearch.ncibi.org.
+
+Supplementary data are available at Bioinformatics online.
+

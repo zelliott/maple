@@ -1,0 +1,9 @@
+
+Photorefractive keratectomy with large diameter ablations using a uniform laser beam has produced central undercorrections, or "steep central islands" in patients, as seen with videokeratography.
+
+Using a custom optical profilometer to measure corneal ablation profiles and a VISX excimer laser system, we measured the effect of ablation algorithms, diameter, depth, and dioptric correction on enucleated porcine eyes and living rabbit eyes. Our profilometer was verified using a 43.00 diopter (D) spherical surface and a 35.00 and 43.00 D bicurve test surface as a model for the ablated cornea.
+
+The profilometer measured the test surfaces to within 3 microns of predicted values. Photorefractive keratectomies showed over-ablation peripherally and under-ablation centrally which increased with ablation diameter and dioptric correction. Fixed diameter ablations 2 to 6 mm in diameter and 10 to 80 microns deep showed stromal ablation rates vary spatially but not with ablation depth. These spatially variant ablation profiles were used to re-engineer the ablation algorithm and to produce photorefractive keratectomies with improved sphericity.
+
+Steep central islands are caused by the spatial variance of tissue ablated with a uniform laser beam irradiance. This aberration can be corrected by modifying the laser ablation algorithm to correct for the spatial variance of stromal ablation.
+

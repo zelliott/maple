@@ -1,0 +1,3 @@
+
+We describe an efficient method for partial complementary shape matching for use in rigid protein-protein docking. The local shape features of a protein are represented using boolean data structures called Context Shapes. The relative orientations of the receptor and ligand surfaces are searched using precalculated lookup tables. Energetic quantities are derived from shape complementarity and buried surface area computations, using efficient boolean operations. Preliminary results indicate that our context shapes approach outperforms state-of-the-art geometric shape-based rigid-docking algorithms.
+

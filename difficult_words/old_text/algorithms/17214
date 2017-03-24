@@ -1,0 +1,9 @@
+
+To optimise three-dimensional spiral CT of the tracheobronchial tree using adequate acquisition and reconstruction parameters for spiral CT of the chest.
+
+Qualitative and quantitative assessment of different 3 D reconstructions of two test objects of the tracheobronchial tree depending on section thickness, reconstruction interval, pitch, and reconstruction algorithm used in spiral CT (Siemens, Somatom plus S) of the chest. The frequency of volume and stairstep artifacts was evaluated. The 3 D reconstructions were generated using a seeded VOI-technique (Allegro, ISG).
+
+Reduction of artifacts was achieved by decreasing section thickness. Increasing overlap of source images, lowering the pitch factor, and application of the reconstruction algorithm "slim". Section thickness was the single most important factor which was mainly responsible for the occurrence of volume artifacts. Stairstep artifacts were primarily influenced by the reconstruction interval.
+
+Spiral CT with a section thickness > 4 mm is not adequate for 3 D reconstructions of the tracheobronchial tree. Overlapping source images with a pitch of 1 and the reconstruction algorithm "slim" can be recommended to reduce artifacts.
+

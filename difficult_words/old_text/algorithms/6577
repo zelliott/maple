@@ -1,0 +1,7 @@
+
+Multiple alignments of proteins are an effective way of identifying conserved amino acids that provide clues to functional relationships among proteins. Quantitation of the abundances of amino acids found at each position in a sequence motif can provide a basis for understanding the structural and functional constraints at each point. Distribution of information across a motif has been used previously, but the non-intuitive nature of the analysis has limited its impact.
+
+Here, we introduce a quantitative measure of amino acid sequence diversity (DIVAA) that has a simple, intuitive meaning. Diversity, as a measure of sequence conservation or variation, is inextricably linked to the probability of selecting identical pairs from a distribution. We demonstrate its utility through the analysis of four populations: ATP-binding P-loops, hypervariable domains of kappa light chains, signal sequences, and the N- and C- termini of proteins. DIVAA provides a simple means to generate hypotheses concerning the contribution of individual residues to the functional and evolutionary relationships among proteins.
+
+Access to DIVAA software is available at RELIC (http://relic.bio.anl.gov).
+

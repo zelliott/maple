@@ -1,0 +1,9 @@
+
+Diffusion tensor tractography offers a unique perspective of white matter anatomy, but proper delineation of white matter tracts of interest generally requires the active involvement of an expert neuroanatomist. The investigators describe the implementation of an automated tractographic method requiring no user input and compare its results to those from user-driven tractography.
+
+Fourteen healthy volunteers underwent diffusion tensor imaging at 3 T. Images were registered to a standard template, and predefined seed regions containing tract termini were transformed into subject space for use in unsupervised probabilistic tractography. The output was compared to the results of user-driven tractography performed on the same subjects.
+
+After the selection of suitable smoothing kernels and thresholds, the results of automated tractography closely approximated those of user-driven tractography. The main bodies of the cingulum, inferior fronto-occipital fasciculus, and inferior longitudinal fasciculus were depicted equally well by both methods. Discrepancies mainly arose at the periphery of these tracts, where anatomic uncertainty tends to be greatest.
+
+Automated tractography can be used to depict white matter anatomy without need for user intervention, particularly if the main body of the tract is of greatest interest.
+

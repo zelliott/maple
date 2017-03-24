@@ -1,0 +1,11 @@
+
+We introduce an algorithm to evaluate hip DXA scans using quantitative image analysis procedures based on the Minkowski functionals (MF) for differentiation between post-menopausal women with and without hip fracture. In a population of 30 post-menopausal women, the new parameter has a highly discriminative potential with a performance superior to standard densitometry providing complementary information compared to BMD.
+
+We introduce a novel algorithm to evaluate DXA scans of the hip using quantitative image analysis based on the Minkowski functionals (MF) to identify post-menopausal women with hip-fracture and to compare the results with densitometry.
+
+BMD of 30 women (73.9 +/- 10.3 years), 15 of whom had a recent hip fracture, is obtained by DXA using the "total hip" ROI. The topology of mineral distribution in the scan images is evaluated using the MF-based parameter MF2D. ROC analysis is employed to assess the discriminative potential (fracture/non-fracture).
+
+The area-under-the-curve (AUC) for identification of patients with/without fractures by BMD is .72(p = 0.04), AUC for MF2D is .85(p = 0.001). No statistically significant correlation exists between MF2D and BMD. By discriminant analysis we can show that by combination of MF2D and BMD the outcome increases significantly: using BMD or MF2D alone, 63% and 70% of cases are classified correctly versus 77% of cases in the multivariate model.
+
+The topology-based parameter has a high predictive potential with respect to identification of patients with high risk of hip fracture, performance is superior to densitometry. The new method provides information complementary to BMD. Best classification results are obtained when BMD and MF2D are combined in a multivariate model.
+

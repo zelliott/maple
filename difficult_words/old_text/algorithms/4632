@@ -1,0 +1,7 @@
+
+Human endogenous retroviruses (HERVs) are surviving traces of ancient retrovirus infections and now reside within the human DNA. Recently HERV expression has been detected in both normal tissues and diseased patients. However, the activities (expression levels) of individual HERV sequences are mostly unknown.
+
+We introduce a generative mixture model, based on Hidden Markov Models, for estimating the activities of the individual HERV sequences from EST (expressed sequence tag) databases. We use the model to estimate the relative activities of 181 HERVs. We also empirically justify a faster heuristic method for HERV activity estimation and use it to estimate the activities of 2450 HERVs. The majority of the HERV activities were previously unknown.
+
+(i) Our methods estimate activity accurately based on experiments on simulated data. (ii) Our estimate on real data shows that 7% of the HERVs are active. The active ones are spread unevenly into HERV groups and relatively uniformly in terms of estimated age. HERVs with the retroviral env gene are more often active than HERVs without env. Few of the active HERVs have open reading frames for retroviral proteins.
+

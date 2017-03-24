@@ -1,0 +1,3 @@
+
+In order to segment the blurred image with large noise, the authors propose a new Bayesian image segmentation method based on generalized fuzzy Gibbs random field. Based on the generalized fuzzy set, the new method introduces generalized fuzzy membership into Gibbs potential function and the potential function is redefined to obtain the new segmentation model. The optimal processing is executed through iterative conditional modes (ICM). The experiment results showed that the new approach could effectively segment the degenerated images.
+

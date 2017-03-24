@@ -1,0 +1,5 @@
+
+Authors of several recent papers have independently introduced a family of transformations (the generalized-log family), which stabilizes the variance of microarray data up to the first order. However, for data from two-color arrays, tests for differential expression may require that the variance of the difference of transformed observations be constant, rather than that of the transformed observations themselves.
+
+We introduce a transformation within the generalized-log family which stabilizes, to the first order, the variance of the difference of transformed observations. We also introduce transformations from the 'started-log' and log-linear-hybrid families which provide good approximate variance stabilization of differences. Examples using control-control data show that any of these transformations may provide sufficient variance stabilization for practical applications, and all perform well compared to log ratios.
+

@@ -1,0 +1,3 @@
+
+Based on the dopamine hypotheses of cocaine addiction and the assumption of decrement of brain reward system sensitivity after long-term drug exposure, we propose a computational model for cocaine addiction. Utilizing average reward temporal difference reinforcement learning, we incorporate the elevation of basal reward threshold after long-term drug exposure into the model of drug addiction proposed by Redish. Our model is consistent with the animal models of drug seeking under punishment. In the case of nondrug reward, the model explains increased impulsivity after long-term drug exposure. Furthermore, the existence of a blocking effect for cocaine is predicted by our model.
+

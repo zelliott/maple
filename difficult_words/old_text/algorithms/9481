@@ -1,0 +1,3 @@
+
+This paper presents a novel approach to the problem of splice site prediction, by applying stochastic grammar inference. We used four grammar inference algorithms to infer 1465 grammars, and used 10-fold cross-validation to select the best grammar for each algorithm. The corresponding grammars were embedded into a classifier and used to run splice site prediction and compare the results with those of NNSPLICE, the predictor used by the Genie gene finder. We indicate possible paths to improve this performance by using Sakakibara's windowing technique to find probability thresholds that will lower false-positive predictions.
+

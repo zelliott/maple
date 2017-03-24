@@ -1,0 +1,3 @@
+
+Computerized anatomical atlas systems enable interactive investigation of digital body models. Here we present a three-dimensional atlas of the human heart, based on image data provided in the Visible Human Project. This heart atlas consists of multiple kinds of cardiac tissues and offers unlimited possibilities for its visual exploration. A temporal dimension is added to the underlying heart model by simulation of cardiac excitation spreading. For this purpose a second generation cellular automata algorithm is adapted to the excitation kinetics of cardiac tissue. The presented system is shown as a successful method for the visualization-based investigation of cardiac excitation.
+

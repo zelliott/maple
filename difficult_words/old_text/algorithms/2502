@@ -1,0 +1,9 @@
+
+To introduce and validate an unsupervised muscle and fat quantification algorithm based on joint analysis of water-suppressed (WS), fat-suppressed (FS), and water and fat (nonsuppressed) volumetric magnetic resonance imaging (MRI) of the mid-thigh region.
+
+We first segmented the subcutaneous fat by use of a parametric deformable model, then applied centroid clustering in the feature domain defined by the voxel intensities in WS and FS images to identify the intermuscular fat and muscle. In the final step we computed volumetric and area measures of fat and muscle. We applied this algorithm on datasets of water-, fat-, and nonsuppressed volumetric MR images acquired from 28 participants.
+
+We validated our tissue composition analysis against fat and muscle area measurements obtained from semimanual analysis of single-slice mid-thigh computed tomography (CT) images of the same participants and found very good agreement between the two methods. Furthermore, we compared the proposed approach with a variant that uses nonsuppressed images only and observed that joint analysis of WS and FS images is more accurate than the nonsuppressed only variant.
+
+Our MRI algorithm produces accurate tissue quantification, is less labor-intensive, and more reproducible than the original CT-based workflow and can address interparticipant anatomic variability and intensity inhomogeneity effects.
+

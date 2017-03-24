@@ -1,0 +1,7 @@
+
+One-dimensional protein structures such as secondary structures or contact numbers are useful for three-dimensional structure prediction and helpful for intuitive understanding of the sequence-structure relationship. Accurate prediction methods will serve as a basis for these and other purposes.
+
+We implemented a program CRNPRED which predicts secondary structures, contact numbers and residue-wise contact orders. This program is based on a novel machine learning scheme called critical random networks. Unlike most conventional one-dimensional structure prediction methods which are based on local windows of an amino acid sequence, CRNPRED takes into account the whole sequence. CRNPRED achieves, on average per chain, Q3 = 81% for secondary structure prediction, and correlation coefficients of 0.75 and 0.61 for contact number and residue-wise contact order predictions, respectively.
+
+CRNPRED will be a useful tool for computational as well as experimental biologists who need accurate one-dimensional protein structure predictions.
+

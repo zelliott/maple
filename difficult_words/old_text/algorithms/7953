@@ -1,0 +1,3 @@
+
+Efficient post-process suppression is demonstrated of spurious Fabry-Pérot oscillations, introduced by multiple cavity effects in transmission spectra measurements of various Bragg grating devices. These devices were fabricated within access waveguides and terminated with cleaved facets. The tool, based on a curve-fitting to an equivalent scattering matrix model, is shown to extract transmission spectra of devices, without a-priori knowledge of their properties. Simple and complex grating structure spectra are successfully extracted and compare well with simulated results. The technique exhibits robust behaviour for varying facet conditions and device geometries, outperforming classical averaging techniques.
+

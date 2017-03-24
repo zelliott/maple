@@ -1,0 +1,9 @@
+
+This study examines the data from single loop detectors on northbound (NB) US-101 in San Jose, California to estimate real-time crash risk assessment models.
+
+The classification tree and neural network based crash risk assessment models developed with data from NB US-101 are applied to data from the same freeway, as well as to the data from nearby segments of the SB US-101, NB I-880, and SB I-880 corridors. The performance of crash risk assessment models on these nearby segments is the focus of this research.
+
+The model applications show that it is in fact possible to use the same model for multiple freeways, as the underlying relationships between traffic data and crash risk remain similar.
+
+The framework provided here may be helpful to authorities for freeway segments with newly installed traffic surveillance apparatuses, since the real-time crash risk assessment models from nearby freeways with existing infrastructure would be able to provide a reasonable estimate of crash risk. The robustness of the model output is also assessed by location, time of day, and day of week. The analysis shows that on some locations the models may require further learning due to higher than expected false positive (e.g., the I-680/I-280 interchange on US-101 NB) or false negative rates. The approach for post-processing the results from the model provides ideas to refine the model prior to or during the implementation.
+

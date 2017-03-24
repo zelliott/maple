@@ -1,0 +1,3 @@
+
+In this article we present a quantitative evaluation of the convergence of the conformational coordinates of proteins, obtained by the Essential Dynamics method. Using a detailed analysis of long molecular dynamics trajectories in combination with a statistical assessment of the significance of the measured convergence, we obtained that simulations of a few hundreds of picoseconds are in general sufficient to provide a stable and statistically reliable definition of the essential and near constraints subspaces, at least within the nanoseconds time range. Proteins 1999;36:419-424.
+

@@ -1,0 +1,9 @@
+
+To segment the fetal heart in order to facilitate the 3D assessment of the cardiac function and structure.
+
+Ultrasound acquisition typically results in drop-out artifacts of the chamber walls. The authors outline a level set deformable model to automatically delineate the small fetal cardiac chambers. The level set is penalized from growing into an adjacent cardiac compartment using a novel collision detection term. The region based model allows simultaneous segmentation of all four cardiac chambers from a user defined seed point placed in each chamber.
+
+The segmented boundaries are automatically penalized from intersecting at walls with signal dropout. Root mean square errors of the perpendicular distances between the algorithm's delineation and manual tracings are within 2 mm which is less than 10% of the length of a typical fetal heart. The ejection fractions were determined from the 3D datasets. We validate the algorithm using a physical phantom and obtain volumes that are comparable to those from physically determined means. The algorithm segments volumes with an error of within 13% as determined using a physical phantom.
+
+Our original work in fetal cardiac segmentation compares automatic and manual tracings to a physical phantom and also measures inter observer variation.
+

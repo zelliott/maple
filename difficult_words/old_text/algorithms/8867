@@ -1,0 +1,3 @@
+
+The scale of local structure is a key parameter in medical image registration. Unfortunately, no much attention has been paid to the scale selection for the local structures in the images. This paper proposes a data-driven scale selection method for local structures in the image. By using minimal description length criterion to maximize the posterior probability of local structure region with coherence constraint based on the Markov random field model, an optimal scale for each local structure, which is segmented with super-pixel representation, is assigned in terms of variance in a discrete anisotropic scale space. Therefore, the local structure's scale can be selected for further non-rigid medical image registration.
+

@@ -1,0 +1,9 @@
+
+Tumor absorbed dose calculations in radionuclide therapy are presently based on the assumption of static tumor mass. This work examines the effect of dynamic tumor mass (growth and/or shrinkage) on the absorbed dose.
+
+Tumor mass kinetic characteristics were modeled with the Gompertz equation to simulate tumor growth and an additional exponential term to accommodate tumor shrinkage that may result as a consequence of therapy.
+
+Correction factors, defined as the ratio of the absorbed dose, which was calculated by considering tumor mass dynamics, to the absorbed dose, which was calculated by assuming static mass, are presented for 1- and 100-g tumors with different tumor mass kinetics. The dependence of the correction factor on the effective half-life Te of the radioactivity in the tumor and the tumor shrinkage half-time Ts was examined. The correction factors for the 1-g tumor were &gt; 1 for short Ts and Te. In contrast, the correction factor was less than 1 for long Ts ( &gt; 9 days). The dose correction factors for the 100-g tumor were &gt; 1 for all Ts and Te. Finally, the dosimetric method for dynamic masses is illustrated with experimental data on Chinese hamster V79 multicellular spheroids that were treated with 3H.
+
+Correction factors as high as about 10 are likely when Te and Ts are short. As Ts increases beyond 20 days, the importance of dynamic mass diminishes because most of the activity decays before the mass changes appreciably. In some cases, mass dynamics should be taken into account when the absorbed dose to tumors is estimated.
+

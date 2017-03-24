@@ -1,0 +1,5 @@
+
+PCCA (phylogenetic canonical correlation analysis) is a new program for canonical correlation analysis of multivariate, continuously valued data from biological species. Canonical correlation analysis is a technique in which derived variables are obtained from two sets of original variables whereby the correlations between corresponding derived variables are maximized. It is a very useful multivariate statistical method for the calculation and analysis of correlations between character sets. The program controls for species non-independence due to phylogenetic history and computes canonical coefficients, correlations and scores; and conducts hypothesis tests on the canonical correlations. It can also compute a multivariate version of Pagel's lambda, which can then be used in the phylogenetic transformation.
+
+PCCA is distributed as DOS/Windows, Mac OS X and Linux/Unix executables with a detailed program manual and is freely available on the World Wide Web at: http://anolis.oeb.harvard.edu/~liam/programs/.
+

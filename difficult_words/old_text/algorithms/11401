@@ -1,0 +1,3 @@
+
+The linear canonical transform (LCT) describes the effect of quadratic phase systems on a wavefield and generalizes many optical transforms. In this paper, the computation method for the discrete LCT using the adaptive least-mean-square (LMS) algorithm is presented. The computation approaches of the block-based discrete LCT and the stream-based discrete LCT using the LMS algorithm are derived, and the implementation structures of these approaches by the adaptive filter system are considered. The proposed computation approaches have the inherent parallel structures which make them suitable for efficient VLSI implementations, and are robust to the propagation of possible errors in the computation process.
+

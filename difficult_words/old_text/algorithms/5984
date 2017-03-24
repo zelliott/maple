@@ -1,0 +1,3 @@
+
+This paper considers the problem of exponential stability analysis of neural networks with time-varying delays. The activation functions are assumed to be globally Lipschitz continuous. A linear matrix inequality (LMI) approach is developed to derive sufficient conditions ensuring the delayed neural network to have a unique equilibrium point, which is globally exponentially stable. The proposed LMI conditions can be checked easily by recently developed algorithms solving LMIs. Examples are provided to demonstrate the reduced conservativeness of the proposed results.
+

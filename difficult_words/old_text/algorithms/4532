@@ -1,0 +1,9 @@
+
+Genetic association studies are widely used in biomedical research and yet only a minority of positive findings stand the test of replication. I explored the capacity of association studies to produce false positive findings and the impact of various definitions of replication.
+
+Genetically realistic simulation data of a typical genotyping/analytic approach for 10 single nucleotide polymorphisms (SNPs) in COMT, a commonly studied candidate gene.
+
+Candidate gene studies like those simulated here are highly likely to produce one or more false positive findings at alpha < or = .05, the pattern of findings can often be "compelling" or "intriguing," and false positive findings propagate and confuse the literature unless the definition of replication is precise.
+
+Findings from single association studies constitute "tentative knowledge" and must be interpreted with exceptional caution. For the association method to function as intended, every statistical comparison must be tracked and reported, and integrated replication is essential. Precise replication (the same SNPs, phenotype, and direction of association) is required in the interpretation of multiple association studies.
+

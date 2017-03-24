@@ -1,0 +1,7 @@
+
+A method is presented for estimating relative survival of cancer patients at the national level from survival data provided by cancer registries covering only a subset of the general population and referring to different, and not necessarily overlapping, incidence periods.
+
+Relative survival rates are estimated as a function of the covariates sex, age, epoch of diagnosis, and registry area by means of a multiple regression model. National estimates are then computed by appropriate weighting of the sex-, age-, time- and registry-specific expected relative survival values.
+
+The method is illustrated by a sample application to survival data of female breast cancer patients in Italy. The national estimates of breast cancer survival pattern show a mild decrease of survival with age and a marked increase with period of diagnosis.
+

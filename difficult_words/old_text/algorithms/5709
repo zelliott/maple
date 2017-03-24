@@ -1,0 +1,3 @@
+
+We describe a web tool ENZO (Enzyme Kinetics), a graphical interface for building kinetic models of enzyme catalyzed reactions. ENZO automatically generates the corresponding differential equations from a stipulated enzyme reaction scheme. These differential equations are processed by a numerical solver and a regression algorithm which fits the coefficients of differential equations to experimentally observed time course curves. ENZO allows rapid evaluation of rival reaction schemes and can be used for routine tests in enzyme kinetics. It is freely available as a web tool, at http://enzo.cmm.ki.si.
+

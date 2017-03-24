@@ -1,0 +1,3 @@
+
+An error analysis on the Poisson-type linear reconstruction algorithms is performed. Three types of error are discussed and it is found that re-scaling error is dominant in most cases. It is also found that the commonly used small perturbation assumption in obtaining the Poisson's equation often fails but, due to the dominance of the re-scaling error, the reconstruction of the relative impedance distribution is still feasible by using the linear algorithms. The error analysis leads to a useful understanding of the mechanism of linear reconstruction approaches.
+

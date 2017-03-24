@@ -1,0 +1,3 @@
+
+The method of constructing low-energy conformations using template joining can provide an efficient means of searching the conformational space of molecules. The simplest algorithm to perform this task would construct each potential conformation from scratch. However, new algorithms, some of which use techniques from Artificial Intelligence, have been developed which can greatly improve the efficiency of this approach.
+

@@ -1,0 +1,3 @@
+
+We present a numerical deconvolution scheme for estimating regional blood flow and tissue retention functions by dynamic functional imaging. The present approach implements the Tikhonov-Miller regularization in general form, which allows for prior knowledge or assumptions to be incorporated during the deconvolution process, so as to stabilize the solution against variations due to noise. Appropriate approximations and simplifications in the context of functional imaging, were also introduced to ease numerical computations. Monte Carlo simulation experiments were carried out to study the applicability of the present approach and to compare with other deconvolution techniques previously studied.
+

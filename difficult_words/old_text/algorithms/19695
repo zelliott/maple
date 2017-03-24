@@ -1,0 +1,3 @@
+
+This paper provides a new medical image segmentation algorithm using a deformable contour model, which integrates Fuzzy C-Means(FCM) Clustering technique and deformable contour model. An external fuzzy constrain is defined from the membership function value of FCM, which joins the external constrain of the deformable model and drives the deformable model towards the contour ideal edge of the object. Examples are presented to demonstrate the efficiency and feasibility of the approach on spinal MRI images and the results are encouraging.
+

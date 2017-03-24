@@ -1,0 +1,3 @@
+
+Alignment-free sequence comparison is widely used for comparing gene regulatory regions and for identifying horizontally transferred genes. Recent studies on the power of a widely used alignment-free comparison statistic D2 and its variants D*2 and D(s)2 showed that their power approximates a limit smaller than 1 as the sequence length tends to infinity under a pattern transfer model. We develop new alignment-free statistics based on D2, D*2 and D(s)2 by comparing local sequence pairs and then summing over all the local sequence pairs of certain length. We show that the new statistics are much more powerful than the corresponding statistics and the power tends to 1 as the sequence length tends to infinity under the pattern transfer model.
+

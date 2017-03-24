@@ -1,0 +1,7 @@
+
+High-throughput protein interaction detection methods are strongly affected by false positive and false negative results. Focused experiments are needed to complement the large-scale methods by validating previously detected interactions but it is often difficult to decide which proteins to probe as interaction partners. Developing reliable computational methods assisting this decision process is a pressing need in bioinformatics.
+
+We show that we can use the conserved properties of the protein network to identify and validate interaction candidates. We apply a number of machine learning algorithms to the protein connectivity information and achieve a surprisingly good overall performance in predicting interacting proteins. Using a 'leave-one-out' approach we find average success rates between 20 and 40% for predicting the correct interaction partner of a protein. We demonstrate that the success of these methods is based on the presence of conserved interaction motifs within the network.
+
+A reference implementation and a table with candidate interacting partners for each yeast protein are available at http://www.protsuggest.org.
+

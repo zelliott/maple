@@ -1,0 +1,9 @@
+
+Vessel lumen centerline extraction is important for intraoperative tracking of abdominal vessels and guidance of endovascular instruments. Three-dimensional ultrasound has gained increasing acceptance as a safe and convenient surgical image guidance modality. We aimed to optimize vascular centerline detection and tracking in 3D ultrasound.
+
+To overcome the intrinsic limitation of low ultrasound image quality, an active contour method (snake) was used to track changes in vessel geometry. We tested two variants of a classic snake using the image gradient and gradient vector field (GVF) as external forces. We validated these methods in liver ultrasound images of 10 healthy volunteers, acquired at three breath-holding instances during the exhalation phase. We calculated the distances between the vessel centerlines as detected by algorithms and a gold standard consisting of manual annotations performed by an expert.
+
+Both methods (GVF and image gradient) can accurately estimate the actual centerlines with average Euclidean distances of 0.77 and 1.24 mm for GVF and gradient, respectively. Both methods can automatically follow vessel morphology and position changes.
+
+The proposed approach is feasible for liver vessel centerline extraction from 3D ultrasound images. The algorithm can follow the movement of the vessels during respiration; further improvements of hardware components are needed for a real-time implementation.
+

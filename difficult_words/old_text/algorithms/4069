@@ -1,0 +1,3 @@
+
+Dynamic contrast-enhanced ultrasound (DCEUS) has been used in radiology for many years for lesion detection and characterization. In recent years, more emphasis has been placed on tumor perfusion quantification with DCEUS. To ensure accuracy in both quantitative and qualitative evaluation of liver tumors with DCEUS, sources of noise in clinical data must be identified and, if possible, removed. One of the major sources of such noise is respiratory motion. A new automatic respiratory gating (ARG) algorithm is presented and evaluated with clinical data. The results of the evaluation demonstrate the potential of the ARG algorithm for clinical use as a fast and easy-to-implement method for removing respiratory motion from DCEUS loops.
+

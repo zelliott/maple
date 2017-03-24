@@ -1,0 +1,7 @@
+
+The prediction of protein domains is a crucial task for functional classification, homology-based structure prediction and structural genomics. In this paper, we present the SSEP-Domain protein domain prediction approach, which is based on the application of secondary structure element alignment (SSEA) and profile-profile alignment (PPA) in combination with InterPro pattern searches. SSEA allows rapid screening for potential domain regions while PPA provides us with the necessary specificity for selecting significant hits. The combination with InterPro patterns allows finding domain regions without solved structural templates if sequence family definitions exist.
+
+A preliminary version of SSEP-Domain was ranked among the top-performing domain prediction servers in the CASP 6 and CAFASP 4 experiments. Evaluation of the final version shows further improvement over these results together with a significant speed-up.
+
+The server is available at http://www.bio.ifi.lmu.de/SSEP/
+

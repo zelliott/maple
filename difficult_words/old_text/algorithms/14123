@@ -1,0 +1,9 @@
+
+The foveal avascular zone (FAZ) is known to enlarge in diabetic retinopathy. In a preliminary study, the authors applied a region growing algorithm to fluorescein angiograms to detect the FAZ in a semi-automated fashion.
+
+The FAZ in 44 fluorescein angiograms of 44 eyes of 41 patients with diabetic retinopathy underwent manual outlining, then analysis with the region growing function of the ENVI image analysis software. The same algorithm was applied after median filtering of the images.
+
+Correlation coefficient was 0.98 between the first two authors, 0.89 between the first author and semi-automated detection before median filtering and 0.91 after median filtering. Average surface areas however, were smaller with semi-automated detection (1951 pixels before and 2226 pixels after median filtering) than with manual detection (3032 pixels).
+
+Semi-automated detection of the FAZ is possible, but refinements need to be made in angiogram quality and/or image pretreatment to improve results.
+

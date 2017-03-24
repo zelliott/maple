@@ -1,0 +1,3 @@
+
+Linear scan cone-beam Computed Tomography (CT) is useful to fixed pipeline inspection. We extend Simultaneous Algebraic Reconstruction Technique (SART) to linear scan cone-beam CT and focus on reducing its reconstruction time through cluster computing. In order to reduce communication overhead, we investigate a trapeziform image space decomposition scheme and a subsets-reduce communication technique. The performance of proposed parallel algorithm is analyzed theoretically and verified through experiment. The results show that the proposed parallel algorithm can generate approving CT images and its performance is mainly influenced by load imbalance and network bandwidth.
+

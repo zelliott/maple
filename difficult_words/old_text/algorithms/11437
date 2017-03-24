@@ -1,0 +1,9 @@
+
+Prostate cancer is one of the leading causes of cancer death in the male population. Fortunately, the prognosis is excellent if detected at an early stage. Hence, the detection and localization of prostate cancer is crucial for diagnosis, as well as treatment via targeted focal therapy. New imaging techniques can potentially be invaluable tools for improving prostate cancer detection and localization.
+
+In this study, we introduce a new form of diffusion magnetic resonance imaging called correlated diffusion imaging, where the tissue being imaged is characterized by the joint correlation of diffusion signal attenuation across multiple gradient pulse strengths and timings. By taking into account signal attenuation at different water diffusion motion sensitivities, correlated diffusion imaging can provide improved delineation between cancerous tissue and healthy tissue when compared to existing diffusion imaging modalities.
+
+Quantitative evaluation using receiver operating characteristic (ROC) curve analysis, tissue class separability analysis, and visual assessment by an expert radiologist were performed to study correlated diffusion imaging for the task of prostate cancer diagnosis. These results are compared with that obtained using T2-weighted imaging and standard diffusion imaging (via the apparent diffusion coefficient (ADC)). Experimental results suggest that correlated diffusion imaging provide improved delineation between healthy and cancerous tissue and may have potential as a diagnostic tool for cancer detection and localization in the prostate gland.
+
+A new form of diffusion magnetic resonance imaging called correlated diffusion imaging (CDI) was developed for the purpose of aiding radiologists in cancer detection and localization in the prostate gland. Preliminary results show CDI shows considerable promise as a diagnostic aid for radiologists in the detection and localization of prostate cancer.
+

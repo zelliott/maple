@@ -1,0 +1,3 @@
+
+The GAPLS (GA based PLS) program has been developed for variable selection in QSAR studies. The modified GA was employed to obtain a PLS model with high internal predictivity using a small number of variables. In order to show the performance of GAPLS for variable selection, the program was applied to the inhibitor activity of calcium channel antagonists. As a result, variables largely contributing to the inhibitory activity could be selected, and the structural requirements for the inhibitory activity could be estimated in an effective manner.
+

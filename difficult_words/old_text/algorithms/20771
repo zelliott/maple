@@ -1,0 +1,9 @@
+
+The purposes of this study were to validate a natural language processing program for extraction of recommendation features, such as recommended time frames and imaging technique, from electronic radiology reports and to assess patterns of recommendation features in a large database of radiology reports.
+
+This study was performed on a radiology reports database covering the years 1995-2004. From this database, 120 reports with and without recommendations were selected and randomized. Two radiologists independently classified these reports according to presence of recommendations, time frame, and imaging technique suggested for follow-up or repeated examinations. The natural language processing program then was used to classify the reports according to the same criteria used by the radiologists. The accuracy of classification of recommendation features was determined. The program then was used to determine the patterns of recommendation features for different patients and imaging features in the entire database of 4,211,503 reports.
+
+The natural language processing program had an accuracy of 93.2% (82/88) for identifying the imaging technique recommended by the radiologists for further evaluation. Categorization of recommended time frames in the reports with the 88 recommendations obtained with the program resulted in 83 (94.3%) accurate classifications and five (5.7%) inaccurate classifications. Recommendations of CT were most common (27.9%, 105,076 of 376,918 reports) followed by those for MRI (17.8%). In most (85.4%, 322,074/376,918) of the reports with imaging recommendations, however, radiologists did not specify the time frame.
+
+Accurate determination of recommended imaging techniques and time frames in a large database of radiology reports is possible with a natural language processing program. Most imaging recommendations are for high-cost but more accurate radiologic studies.
+

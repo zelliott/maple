@@ -1,0 +1,3 @@
+
+This note discusses the use of capture-mark-recapture methods and log-linear, linear, product models for incomplete tables (Espeland, 1986, Communications in Statistics--Simulation and Computing 15, 405-424) to estimate completeness of reporting in a disease registry and to estimate incompleteness-adjusted incidence rates. The method had several desirable features, including the ability to handle complex experimental designs, to incorporate auxiliary data (that may be related to the likelihood of reporting), to test the contribution of model terms, and to generate point estimates and associated standard errors.
+

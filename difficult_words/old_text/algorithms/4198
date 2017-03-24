@@ -1,0 +1,3 @@
+
+This paper deals with the problem of forbidden states in discrete event systems based on Petri net models. So, a method is presented to prevent the system from entering these states by constructing a small number of generalized mutual exclusion constraints. This goal is achieved by solving three types of Integer Linear Programming problems. The problems are designed to verify the constraints that some of them are related to verifying authorized states and the others are related to avoiding forbidden states. The obtained constraints can be enforced on the system using a small number of control places. Moreover, the number of arcs related to these places is small, and the controller after connecting them is maximally permissive.
+

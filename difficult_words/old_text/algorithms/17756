@@ -1,0 +1,3 @@
+
+Suppose [(i), i>or=1] and [Y(i), i>or=1] are two independent sequences with distribution functions F(X)(x) and F(Y)(x), respectively. Z(i,n) is the combination of X(i) and Y(i) with a probability p(n) for each i with 1<or=i<or=n. The extreme value distribution G(Z)(x) of this particular triangular array of the i.i.d. random variables Z(1,n), Z(2,n), ..., Z(n,n) is discussed. We found a new form of the extreme value distributions i) Phi(alpha(1))(A)(x)Phi(alpha(2))(x) and ii) Psi(alpha(1))(A)(x)Psi(alpha(2))(x) (alpha(1)<alpha(2)), which are not max-stable. It occurs if F(X) and F(Y) belong to the same MDA(Phi) or MDA(Psi).
+

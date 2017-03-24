@@ -1,0 +1,3 @@
+
+Understanding of the organization of animal societies often requires knowledge of the identity of group members and their spatial location. We propose an original experimental design to track automatically the position of individuals using radio frequency identification technology (RFID). Ants equipped with passive transponders were detected by a reader mounted on a mobile arm moving across the nest surface. We developed an algorithm to accurately extract the positions of individuals moving in two dimensions. Our method was validated on synthetic test cases and then used for characterization of the spatial distribution of ants within nests. This approach provides an amenable system for monitoring large populations of individuals over long periods of time.
+

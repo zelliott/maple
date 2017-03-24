@@ -1,0 +1,3 @@
+
+The normalized auto- and cross-covariance functions of discrete-time stochastic point process, used for quantitatively analyzing neuronal spike trains, were derived from the corresponding functions of general stochastic process using Kronecker delta functions. The auto-correlation and cross-correlation properties can be described as numerical differences on a monotonic scale ranging from -1 -1 to +1. A segmental integration method and a significance test for the normalized cross-covariance function estimate are suggested. Examples from real spike trains are illustrated, and Monte Carlo methods are used for controls and for testing the algorithms and computer programs.
+

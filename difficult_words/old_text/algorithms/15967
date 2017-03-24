@@ -1,0 +1,3 @@
+
+Electron detection characteristics are summarized for the slow scan CCD (SSC) camera, imaging plates, and film. The advantage of each detector is demonstrated with the selected examples of electron diffraction and imaging. The Richardson-Lucy algorithm for image restoration is described and tested for images recorded with the SSC camera. The effectiveness of image restoration is demonstrated for the recorded high-resolution lattice image, energy-loss spectrum, and convergent beam electron diffraction (CBED) pattern.
+

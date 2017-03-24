@@ -1,0 +1,3 @@
+
+In this paper, several algorithms that allow for quantitative photoacoustic reconstruction of tissue optical, acoustic and physiological properties are described in a finite-element method based framework. These quantitative reconstruction algorithms are compared, and the merits and limitations associated with these methods are discussed. In addition, a multispectral approach is presented for concurrent reconstructions of multiple parameters including deoxyhaemoglobin, oxyhaemoglobin and water concentrations as well as acoustic speed. Simulation and in vivo experiments are used to demonstrate the effectiveness of the reconstruction algorithms presented.
+

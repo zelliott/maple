@@ -1,0 +1,9 @@
+
+Critical mechanical conditions, such as stress within the structure and shear stress due to blood flow, predicted from in-vivo magnetic resonance image (MRI)-based computational simulations have shown to be potential in assessing carotid plaque vulnerability. Plaque contours obtained from in-vivo MRI are a result of a pressurized configuration due to physiological loading. However, in order to make accurate predictions, the computational model must be based on the loading-free geometry. A shrinkage procedure can be used to obtain the computational start shape.
+
+In this study, electrocardiograph (ECG)-gated MR-images of carotid plaques were obtained from 28 patients. The contours of each plaque were segmented manually. Additional to a uniform shrinkage procedure, a non-uniform shrinkage refinement procedure was used. This procedure was repeated until the pressurized lumen contour and fibrous cap thickness had the best match with the in-vivo image.
+
+Compared to the uniform shrinkage procedure, the non-uniform shrinkage significantly reduced the difference in lumen shape and in cap thickness at the thinnest site. Results indicate that uniform shrinkage would underestimate the critical stress in the structure by 20.5±10.7%.
+
+For slices with an irregular lumen shape (the ratio of the maximum width to the minimum width is more than 1.05), the non-uniform shrinkage procedure is needed to get an accurate stress profile for mechanics and MRI-based carotid plaque vulnerability assessment.
+

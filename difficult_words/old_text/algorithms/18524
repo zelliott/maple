@@ -1,0 +1,5 @@
+
+Scrambled genes are surprisingly common in some species of ciliates. Until now there was no software available to analyze automatically these genes. We present here a program that can automatically align the macronuclear and micronuclear forms of a gene, outputting the location of the macronuclear destined segments and pointer sequences.
+
+A web version of the program is available free of charge and can be accessed at http://oxytricha.princeton.edu/GeneUnscrambler.htm
+

@@ -1,0 +1,3 @@
+
+The ability of the GROMOS96 force field to reproduce partition constants between water and two less polar solvents (cyclohexane and chloroform) for analogs of 18 of the 20 naturally occurring amino acids has been investigated. The estimations of the solvation free energies in water, in cyclohexane solution, and chloroform solution are based on thermodynamic integration free energy calculations using molecular dynamics simulations. The calculations show that while the force field reproduces the experimental solvation free energies of nonpolar analogs with reasonable accuracy the solvation free energies of polar analogs in water are systematically overestimated (too positive). The dependence of the calculated free energies on the atomic partial charges was also studied.
+

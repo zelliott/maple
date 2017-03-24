@@ -1,0 +1,3 @@
+
+The conductor-like screening model for realistic solvation (COSMO-RS) method has been established as a novel way to predict thermophysical data for liquid systems and has become a frequently used alternative to force field-based molecular simulation methods on one side and group contribution methods on the other. Through its unique combination of a quantum chemical treatment of solutes and solvents with an efficient statistical thermodynamics procedure for the molecular surface interactions, it enables the efficient calculation of many properties that other methods can barely predict. This review presents a short delineation of the theory, the application potential and limitations of COSMO-RS, and its most important application areas.
+

@@ -1,0 +1,3 @@
+
+Recording fetal magnetoencephalographic (fMEG) signals in-utero is a demanding task due to biological interference, especially maternal and fetal magnetocardiographic (MCG) signals. A method based on orthogonal projection of MCG signal space vectors (OP) was evaluated and compared with independent component analysis (ICA). The evaluation was based on MCG amplitude reduction and signal-to-noise ratio of fetal brain signals using exemplary datasets recorded during ongoing studies related to auditory evoked fields. The results indicate that the OP method is the preferable approach for attenuation of MCG and for preserving the fetal brain signals in fMEG recordings.
+

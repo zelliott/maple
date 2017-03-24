@@ -1,0 +1,11 @@
+
+We recently introduced a multivariate approach that selects a subset of predictive genes jointly for sample classification based on expression data. We tested the algorithm on colon and leukemia data sets. As an extension to our earlier work, we systematically examine the sensitivity, reproducibility and stability of gene selection/sample classification to the choice of parameters of the algorithm.
+
+Our approach combines a Genetic Algorithm (GA) and the k-Nearest Neighbor (KNN) method to identify genes that can jointly discriminate between different classes of samples (e.g. normal versus tumor). The GA/KNN method is a stochastic supervised pattern recognition method. The genes identified are subsequently used to classify independent test set samples.
+
+The GA/KNN method is capable of selecting a subset of predictive genes from a large noisy data set for sample classification. It is a multivariate approach that can capture the correlated structure in the data. We find that for a given data set gene selection is highly repeatable in independent runs using the GA/KNN method. In general, however, gene selection may be less robust than classification.
+
+The method is available at http://dir.niehs.nih.gov/microarray/datamining
+
+LI3@niehs.nih.gov
+

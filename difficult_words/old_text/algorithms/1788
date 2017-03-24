@@ -1,0 +1,3 @@
+
+Existing optimal control protocols for mitigating the effects of relaxation and/or RF inhomogeneity on broadband pulse performance are extended to the more difficult problem of designing robust, refocused, frequency selective excitation pulses. For the demanding case of T(1) and T(2) equal to the pulse length, anticipated signal losses can be significantly reduced while achieving nearly ideal frequency selectivity. Improvements in performance are the result of allowing residual unrefocused magnetization after applying relaxation-compensated selective excitation by optimized pulses (RC-SEBOPs). We demonstrate simple pulse sequence elements for eliminating this unwanted residual signal.
+

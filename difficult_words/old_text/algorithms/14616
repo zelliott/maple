@@ -1,0 +1,9 @@
+
+To quantify the dosimetric impact of four-dimensional computed tomography (4D-CT) pulmonary ventilation imaging-based functional treatment planning that avoids high-functional lung regions.
+
+4D-CT ventilation images were created from 15 non-small-cell lung cancer patients using deformable image registration and quantitative analysis of the resultant displacement vector field. For each patient, anatomic and functional plans were created for intensity-modulated radiotherapy (IMRT) and volumetric modulated arc therapy (VMAT). Consistent beam angles and dose-volume constraints were used for all cases. The plans with Radiation Therapy Oncology Group (RTOG) 0617-defined major deviations were modified until clinically acceptable. Functional planning spared the high-functional lung, and anatomic planning treated the lungs as uniformly functional. We quantified the impact of functional planning compared with anatomic planning using the two- or one-tailed t test.
+
+Functional planning led to significant reductions in the high-functional lung dose, without significantly increasing other critical organ doses, but at the expense of significantly degraded the planning target volume (PTV) conformity and homogeneity. The average reduction in the high-functional lung mean dose was 1.8 Gy for IMRT (p < .001) and 2.0 Gy for VMAT (p < .001). Significantly larger changes occurred in the metrics for patients with a larger amount of high-functional lung adjacent to the PTV.
+
+The results of the present study have demonstrated the impact of 4D-CT ventilation imaging-based functional planning for IMRT and VMAT for the first time. Our findings indicate the potential of functional planning in lung functional avoidance for both IMRT and VMAT, particularly for patients who have high-functional lung adjacent to the PTV.
+

@@ -1,0 +1,3 @@
+
+The main theme of this paper is to present robust fuzzy controllers for a class of discrete fuzzy bilinear systems. First, the parallel distributed compensation method is utilized to design a fuzzy controller, which ensures the robust asymptotic stability of the closed-loop system and guarantees an H(infinity) norm-bound constraint on disturbance attenuation for all admissible uncertainties. Second, based on the Schur complement and some variable transformations, the stability conditions of the overall fuzzy control system are formulated by linear matrix inequalities. Finally, the validity and applicability of the proposed schemes are demonstrated by a numerical simulation and the Van de Vusse example.
+

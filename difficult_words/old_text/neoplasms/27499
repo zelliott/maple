@@ -1,0 +1,3 @@
+
+A new linear programming model used to aid in the design of radiotherapy plans is introduced. This model incorporates elastic constraints, and when solved with a path following interior point method, produces favorable plans. A sound mathematical analysis shows how to interpret the solution, and hence, the treatment planner receives meaningful knowledge about the radiotherapy plan being developed. Preliminary experiments are conducted.
+

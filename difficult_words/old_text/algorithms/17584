@@ -1,0 +1,5 @@
+
+Homology Gene List (HOMGL) is a web-based tool for comparing gene lists with different accession numbers and identifiers and between different organisms. UniGene, LocusLink, HomoloGene and Ensembl databases are utilized to map between these lists and to retrieve upstream or transcribed sequences for genes in these lists. We illustrate the use of HOMGL with respect to microarray studies and promoter analysis.
+
+http://homgl.biologie.hu-berlin.de/
+

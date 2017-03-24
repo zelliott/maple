@@ -1,0 +1,9 @@
+
+To study the method for dose calculation and beam weight optimization of intensity-modulated radiation therapy (IMRT).
+
+The IMRT dose calculation model based on two-dimensional convolution was constructed, the program of dose calculation and beam weight optimization with genetic algorithm was written with Visual c#.Net, and the optimization results were analyzed.
+
+Genetic algorithm optimization of beam weights can produce highly conformal dose distributions within a clinically acceptable computation time.
+
+Genetic algorithm is valid and efficient in IMRT beam weight optimization, which may facilitate IMRT treatment planning.
+

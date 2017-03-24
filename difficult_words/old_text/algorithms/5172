@@ -1,0 +1,7 @@
+
+Calculation of conversion coefficients for the reconstruction of organ doses from entrance doses for abdomen radiographs of 0, 1, 5, 10, 15, and 30-year-old patients in conventional pediatric radiology for the radiographic settings recommended by the German and European guidelines for quality management in diagnostic radiology. MATERIALS UND METHOD: Using the commercially available personal computer program PCXMC developed by the Finnish Center for Radiation and Nuclear Safety (Säteilyturvakeskus STUK), conversion coefficients for conventional abdomen radiographs were calculated performing Monte Carlo simulations in mathematical hermaphrodite phantom models describing patients of different ages. The possible clinical variation of beam collimation was taken into consideration by defining optimal and suboptimal radiation fields on the phantoms' surfaces.
+
+Conversion coefficients for the reconstruction of organ doses in about 40 organs and tissues of the human body from measured entrance doses during abdomen radiographs for 0, 1, 5, 10, 15, and 30-year-old pediatric patients were calculated for the standard sagittal and lateral beam projections and the standard focus film distances of 100 cm and 115 cm.
+
+The conversion coefficients presented in this paper may be used for organ dose assessments from entrance doses measured during abdomen radiographs of patients of all age groups and all beam collimations within the optimal and suboptimal standard beam collimations.
+

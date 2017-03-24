@@ -1,0 +1,7 @@
+
+The development and improvement of reliable computational methods designed to evaluate the quality of protein models is relevant in the context of protein structure refinement, which has been recently identified as one of the bottlenecks limiting the quality and usefulness of protein structure prediction.
+
+In this contribution, we present a computational method (Artificial Intelligence Decoys Evaluator: AIDE) which is able to consistently discriminate between correct and incorrect protein models. In particular, the method is based on neural networks that use as input 15 structural parameters, which include energy, solvent accessible surface, hydrophobic contacts and secondary structure content. The results obtained with AIDE on a set of decoy structures were evaluated using statistical indicators such as Pearson correlation coefficients, Znat, fraction enrichment, as well as ROC plots. It turned out that AIDE performances are comparable and often complementary to available state-of-the-art learning-based methods.
+
+In light of the results obtained with AIDE, as well as its comparison with available learning-based methods, it can be concluded that AIDE can be successfully used to evaluate the quality of protein structures. The use of AIDE in combination with other evaluation tools is expected to further enhance protein refinement efforts.
+

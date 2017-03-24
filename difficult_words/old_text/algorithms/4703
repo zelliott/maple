@@ -1,0 +1,3 @@
+
+Those motion parameters that cannot be recovered from image measurements are unobservable in the visual dynamic system. This paper studies this important issue of singularity in the context of kernel-based tracking and presents a novel approach that is based on a motion field representation which employs redundant but sparsely correlated local motion parameters instead of compact but uncorrelated global ones. This approach makes it easy to design fully observable kernel-based motion estimators. This paper shows that these high-dimensional motion fields can be estimated efficiently by the collaboration among a set of simpler local kernel-based motion estimators, which makes the new approach very practical.
+

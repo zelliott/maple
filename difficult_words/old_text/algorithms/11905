@@ -1,0 +1,3 @@
+
+This article compares three penalty terms with respect to the efficiency of supervised learning, by using first- and second-order off-line learning algorithms and a first-order on-line algorithm. Our experiments showed that for a reasonably adequate penalty factor, the combination of the squared penalty term and the second-order learning algorithm drastically improves the convergence performance in comparison to the other combinations, at the same time bringing about excellent generalization performance. Moreover, in order to understand how differently each penalty term works, a function surface evaluation is described. Finally, we show how cross validation can be applied to find an optimal penalty factor.
+

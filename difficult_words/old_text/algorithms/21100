@@ -1,0 +1,3 @@
+
+Optimal parameterizations of surface meshes are useful in the mapping and visualization of the cerebral cortex, the outer layer of the human brain. We propose two new methods to compute approximations of the optimal parameterizations, and apply these methods to human cortical surface meshes extracted from magnetic resonance images. Our methods approximate the parameterizations in a low-dimensional subspace spanned by the coordinate vectors of an initial parameterization and the low-frequency eigenvectors of a mesh Laplacian. This low-dimensional approximation reduces the computational complexity while minimizing the error.
+

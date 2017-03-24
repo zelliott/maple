@@ -1,0 +1,7 @@
+
+Various experimental techniques yield peptides that are biologically active but have unfavourable pharmacological properties. The design of structurally similar organic compounds, i.e. peptide mimetics, is a challenging field in medicinal chemistry.
+
+SuperMimic identifies compounds that mimic parts of a protein, or positions in proteins that are suitable for inserting mimetics. The application provides libraries that contain peptidomimetic building blocks on the one hand and protein structures on the other. The search for promising peptidomimetic linkers for a given peptide is based on the superposition of the peptide with several conformers of the mimetic. New synthetic elements or proteins can be imported and used for searching.
+
+We present a graphical user interface for finding peptide mimetics that can be inserted into a protein or for fitting small molecules into a protein. Using SuperMimic, promising locations in proteins for the insertion of mimetics can be found quickly and conveniently.
+

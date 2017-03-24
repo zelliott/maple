@@ -1,0 +1,9 @@
+
+The aim of this study was to examine whether a linkage of data sets of the Epidemiological Cancer Registry North Rhine-Westphalia (EKR-NRW) and the Medical Service of the Health Insurances (MDK WL) is feasible, which problems may occur during execution and what could be a solution strategy.
+
+Data of the EKR-NRW were used to identify all cancer cases in the district of Munster, for which an expert opinion regarding nursing needs from the period 2004-2008 was available at the MDK WL. For this purpose factually anonymised data of the EKR-NRW and the MDK WL were linked by means of a semi-automatic probabilistic record linkage.
+
+Data linkage yielded 18 877 cancer cases but required great technical and temporal input. The processing of management data and the use of "routine channels" (ISDN connection), which provide the necessary safety for data transfer, but are designed for a considerably smaller amount of data, accounted for this. The interface problem (converting data from text format to a hierarchical XML format) can be solved with Excel or SAS.
+
+A record linkage with factually anonymised data from the MDK WL and the EKR-NRW is feasible. This allows, among other things, quantifying the needs for nursing care in persons with a cancer diagnosis.
+

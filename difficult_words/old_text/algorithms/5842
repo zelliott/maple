@@ -1,0 +1,3 @@
+
+We address the global stability issue for some discrete population models with delayed-density dependence. Applying a new approach based on the concept of the generalized Yorke conditions, we establish several criteria for the convergence of all solutions to the unique positive steady state. Our results support the conjecture stated by Levin and May in 1976 affirming that the local asymptotic stability of the equilibrium of some delay difference equations (including Ricker's and Pielou's equations) implies its global stability. We also discuss the robustness of the obtained results with respect to perturbations of the model.
+

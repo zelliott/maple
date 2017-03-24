@@ -1,0 +1,3 @@
+
+A three-dimensional boundary element model of the human eye is developed to investigate the thermal effects of eye tumor on the ocular temperature distribution. The human eye is modeled as comprising several regions which have different thermal properties. The tumor is one of these regions. The thermal effects of the tumor are simulated by taking it to have a very high metabolic heat generation and blood perfusion rate. Inside the tumor, the steady state temperature is governed by the Pennes bioheat equation. Elsewhere, in normal tissues of the eye, the temperature satisfies the Laplace's equation. To compute the temperature on the corneal surface, the surface boundary of each region is divided into triangular elements.
+

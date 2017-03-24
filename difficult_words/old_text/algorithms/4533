@@ -1,0 +1,3 @@
+
+In this paper, a quadratic boundary element formulation for prediction of hardness of dentin from punch-nano-indentation test is presented. BE contact formulation is given. The initial strain formulation and von Mises yield criteria are employed to cover plastic deformation. The dentin is assumed to be isotropic, homogenous and elastic-perfectly plastic material. The load versus displacement is obtained during loading-unloading sequence for different yield strength and elastic modulus. Hardness and equivalent residual stresses are plotted for different elastic modulus depending on yield strength. BE method is shown to be an alternative accurate computational tool for simulated nano-indentation tests.
+

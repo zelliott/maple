@@ -1,0 +1,9 @@
+
+Carboxyfluorescein diacetate succinimidyl ester (CFSE) is currently used to investigate migration and proliferation of hemopoietic cells. In principle, CFSE is retained by the cells and is shared by the daughter cells at each division, resulting in multimodal flow cytometric CFSE histograms, with each cell generation clustering around half the fluorescence intensity of the previous one. However, intercell variability of CFSE loading results in overlapping peaks, thereby limiting its use with cancer cell lines.
+
+We used IGROV1 ovarian cancer cells loaded with CFSE at the time of seeding; 24 h later cells were treated with an anticancer drug (topotecan). Potential pitfalls of the analysis were examined, and a procedure of evaluation of CFSE efflux was applied to fix the peak positions with good approximation in advance. Histograms were fitted by a series of gaussians, with each representing cells in a given generation.
+
+Effects of topotecan on IGROV1 cells were analyzed in terms of the time course of the percentage of cells that remained undivided or entered the second, third, and subsequent division cycles. A simple algorithm, which combined flow cytometric data with the absolute cell number independently measured by Coulter counter, provided an estimate of the 96-h outcome of the starting cell population by quantifying cells that remained undivided, those able to divide at least once, or those that had died.
+
+We assessed experimental and data analytic procedures for a CFSE-based measurement of antiproliferative activity of drugs in cancer cell lines. A quantitative level was achievable but required a strict procedure for control of the experimental data, which was not straightforward.
+

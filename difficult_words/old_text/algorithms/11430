@@ -1,0 +1,9 @@
+
+Fourier Transform Ion Cyclotron Resonance mass spectra exhibit improved resolving power, mass accuracy and signal-to-noise ratio when presented in absorption mode; a process which requires calculation of a phase correction function. Mass spectrometric images can contain many thousands of pixels; hence methods of decreasing the time required to solve for a phase correction function will result in significant improvements in this application.
+
+A genetic algorithm approach for optimizing the phase correction function has been developed and compared with a previously described convergent iteration technique.
+
+The genetic algorithm method has been shown to offer a five-fold improvement in processing speed compared with the previous iterative approach used in the Autophaser algorithm, while maintaining the levels of accuracy. This translates to an 11 hour improvement in processing for a 20 000 pixel mass spectrometric image.
+
+The genetic algorithm method described in this manuscript offers significant processing speed advantages over the previously described convergent iteration technique. This improvement is key to allowing the future routine use of absorption mode mass spectrometric images.
+

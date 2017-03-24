@@ -1,0 +1,3 @@
+
+This paper deals with the problem of improved delay-dependent stability analysis of neutral type neural networks with distributed delays. These conditions are in terms of linear matrix inequality (LMI), easily checked by recently developed algorithms in solving linear matrix inequalities (LMIs). Finally, numerical examples demonstrate effectiveness of the proposed method.
+

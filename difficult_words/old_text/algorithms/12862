@@ -1,0 +1,3 @@
+
+Breast cancer throughout the world is a significant health problem for women. Small clusters of microcalcifications appearing as collection of white spots on mammograms indicate an early warning of breast cancer. In present work we have initiated computer-aided analysis of mammograms to automate the diagnostic procedures for breast cancer screening using multiresolution and FCM based clustering algorithms. Further region growing approach has been applied to segment considerably larger calcifications and the masses. The advantage of the proposed method is its ability to detect both tiny and comparatively larger calcifications in a single image and to reduce the false-positive appearance of microcalcifications in breast.
+

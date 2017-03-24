@@ -1,0 +1,3 @@
+
+Often in imaging systems, the bandpass of the system is not uniform. In temporal coherence imaging methods such as optical coherence tomography, one would like to achieve the most spatially confined impulse response possible with a given source spectrum, minimizing sidelobes that blur adjacent features together. Typically the spectrum of the source is controlled in order to remove sidelobes from the measured interferogram. However, the measured interferogram is not necessarily the best estimate of the scattering density of the object. In this work, a sidelobe supression method is proposed and demonstrated to achieve low sidelobes even with highly nonuniform, non-Gaussian spectra.
+

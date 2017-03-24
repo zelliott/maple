@@ -1,0 +1,3 @@
+
+In this paper we propose a robust watermarking algorithm for 3D mesh. The algorithm is based on spherical wavelet transform. Our basic idea is to decompose the original mesh into a series of details at different scales by using spherical wavelet transform; the watermark is then embedded into the different levels of details. The embedding process includes: global sphere parameterization, spherical uniform sampling, spherical wavelet forward transform, embedding watermark, spherical wavelet inverse transform, and at last resampling the mesh watermarked to recover the topological connectivity of the original model. Experiments showed that our algorithm can improve the capacity of the watermark and the robustness of watermarking against attacks.
+

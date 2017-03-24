@@ -1,0 +1,9 @@
+
+To develop and evaluate a semiautomatic algorithm for segmentation and morphological assessment of the dimensions of the ciliary muscle in Visante Anterior Segment Optical Coherence Tomography images.
+
+Geometric distortions in Visante images analyzed as binary files were assessed by imaging an optical flat and human donor tissue. The appropriate pixel/mm conversion factor to use for air (n = 1) was estimated by imaging calibration spheres. A semiautomatic algorithm was developed to extract the dimensions of the ciliary muscle from Visante images. Measurements were also made manually using Visante software calipers. Interclass correlation coefficients and Bland-Altman analyses were used to compare the methods. A multilevel model was fitted to estimate the variance of algorithm measurements that was due to differences within- and between-examiners in scleral spur selection vs. biological variability.
+
+The optical flat and the human donor tissue were imaged and appeared without geometric distortions in binary file format. Bland-Altman analyses revealed that caliper measurements tended to underestimate ciliary muscle thickness at 3 mm posterior to the scleral spur in subjects with the thickest ciliary muscles (t = 3.6, p < 0.001). The percent variance due to within- or between-examiner differences in scleral spur selection was found to be small (6%) when compared with the variance because of biological difference across subjects (80%). Using the mean of measurements from three images, achieved an estimated interclass correlation coefficient of 0.85.
+
+The semiautomatic algorithm successfully segmented the ciliary muscle for further measurement. Using the algorithm to follow the scleral curvature to locate more posterior measurements is critical to avoid underestimating thickness measurements. This semiautomatic algorithm will allow for repeatable, efficient, and masked ciliary muscle measurements in large datasets.
+

@@ -1,0 +1,3 @@
+
+The combined simulated annealing (CSA) algorithm was developed for the discrete facility location problem (DFLP) in the paper. The method is a two-layer algorithm, in which the external subalgorithm optimizes the decision of the facility location decision while the internal subalgorithm optimizes the decision of the allocation of customer's demand under the determined location decision. The performance of the CSA is tested by 30 instances with different sizes. The computational results show that CSA works much better than the previous algorithm on DFLP and offers a new reasonable alternative solution method to it.
+

@@ -1,0 +1,9 @@
+
+This study was designed to test the hypothesis that the detection of non-blood-pool localization due to deep venous thrombosis uptake can be enhanced by computer processing.
+
+Immediate blood-pool and 90-min delay images from 25 patient studies obtained with 99mTc T2G1s antifibrin were paired into 125 image sets (5/pt, including A, P knees, A, P calves and A thighs). After spatially aligning the image pairs, the blood-pool activity obtained from the immediate image was removed from the delayed image to produce a "clot only" image. Unprocessed data (UnP) and computer processed images (CmP) were presented to novice readers as part of a receiver operator characteristic (ROC) comparison study. The image interpreters were asked to provide independent diagnostic assessment at 250 limb sites using both datasets. Image intensity and color scale mappings were freely adjustable. Three readers were presented with images adjusted with optimal image contrast as judged by an observer with knowledge of the correct response.
+
+The area under the ROC curve (Az), a measure of the method's accuracy, for these readers was 88.5% (UnP) and 88.8% (CmP) (p = ns). Four readers whose images were not optimized showed Az of 79.1% (UnP) and 90.7% (CmP) (p < 0.05). Average diagnostic decision time for all readers, per limb site, was 18.2 +/- 7.8 sec, m +/- s.e.m., (UnP) and 7.6 +/- 4.6 sec (CmP).
+
+Novice reader accuracy is improved with computer processed images when image intensity and contrast factors are important. Computer processing can provide "clot" images that minimize nonspecific blood background activity and allow greater interpreter decision speed/confidence.
+

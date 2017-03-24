@@ -1,0 +1,3 @@
+
+A multiple alignment methodology that can produce high-quality alignment is extremely important for predicting the structure of unknown proteins. Nearly all the methodologies developed so far have employed two-way alignment only. Although these methods are fast, the alignments they produce lose reliability as the similarity of sequences reduces. We developed the MASCOT multiple alignment system. MASCOT can sustain the reliability of alignment even when the similarity of sequences is low. MASCOT achieves high-quality alignment by employing three-way alignment in addition to two-way alignment. The resultant alignments are refined by simulated annealing to higher quality. We also use a cluster analysis of sequences to produce highly reliable alignments.
+

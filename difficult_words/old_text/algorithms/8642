@@ -1,0 +1,3 @@
+
+An algorithm from the pattern recognition theory 'generalized portrait' was used to find a distinguishing vector (scoring matrix) for E. coli promoters. We have attempted to solve three closely linked problems: (i) the selection of significant features of the signal; (ii) subsequent multiple alignment and (iii) calculation of the vector coordinates. Promoters with known strength have been successfully ranked in the correct order using this vector. We demonstrate the use of this method in predicting the location of promoters. A revised consensus promoter sequence is also presented.
+

@@ -1,0 +1,3 @@
+
+This paper explores relationships between classical and parametric measures of graph (or network) complexity. Classical measures are based on vertex decompositions induced by equivalence relations. Parametric measures, on the other hand, are constructed by using information functions to assign probabilities to the vertices. The inequalities established in this paper relating classical and parametric measures lay a foundation for systematic classification of entropy-based measures of graph complexity.
+

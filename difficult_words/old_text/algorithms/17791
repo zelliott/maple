@@ -1,0 +1,5 @@
+
+There is a general scientific need to be able to identify and evaluate what any given set of 'objects' (e.g. genes, phenotypes, chemicals, diseases) has in common. Whether it is to classify, expand upon or identify commonalities and functional groupings, informational needs can be diverse and the best source to identify relationships among a potentially heterogeneous set of objects is the scientific literature.
+
+We first establish a network of related objects by their co-occurrence within MEDLINE records. A set of objects within this network can then be queried to identify shared relationships, and a method is presented to score their statistical relevance by comparing observed frequencies with what would be expected in a random network model. Using Gene Ontology (GO) categories, we demonstrate that this method enables a quantitative ranking of the 'cohesiveness' of a set of objects and, importantly, allows other objects related to this set to be identified and evaluated for their 'cohesion' to it. Supplemental information: A list of ranked genes related to each GO category analyzed can be found at http://innovation.swmed.edu/IRIDESCENT/GO_relationships.htm
+

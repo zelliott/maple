@@ -1,0 +1,3 @@
+
+This paper develops a method for semi-automatic detection of breast lesion boundaries by combining the snake evolution techniques with statistical texture information of images. We propose an efficient image energy function in segmentation based on image features, first-order textural features and four n×n masks. The segmentation results were evaluated by using area error rate. The image features were evaluated qualitatively by using the contrast-to-noise ratio and fractal dimension analysis. In our study, standard deviation, skewness and entropy are indicated as being the most relevant image features.
+

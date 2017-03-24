@@ -1,0 +1,9 @@
+
+Classical expressions for the tumor control probability (TCP) are based on models for the survival fraction of cancer cells after radiation treatment. We focus on the derivation of expressions for TCP from dynamic cell population models. In particular, we derive a TCP formula for a generalized cell population model that includes the cell cycle by considering a compartment of actively proliferating cells and a compartment of quiescent cells, with the quiescent cells being less sensitive to radiation than the actively proliferating cells.
+
+We generalize previously derived TCP formulas of Zaider and Minerbo and of Dawson and Hillen to derive a TCP formula from our cell population model. We then use six prostate cancer treatment protocols as a case study to show how our TCP formula works and how the cell cycle affects the tumor treatment.
+
+The TCP formulas of Zaider-Minerbo and of Dawson-Hillen are special cases of the TCP formula presented here. The former one represents the case with no quiescent cells while the latter one assumes that all newly born cells enter a quiescent cell phase before becoming active. From our case study, we observe that inclusion of the cell cycle lowers the TCP.
+
+The cell cycle can be understood as the sequestration of cells in the quiescent compartment, where they are less sensitive to radiation. We suggest that our model can be used in combination with synchronization methods to optimize treatment timing.
+

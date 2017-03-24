@@ -1,0 +1,3 @@
+
+As basic electrophysiology signals of a human being, electroencephalogram (EEG) has been widely used in researches and clinics. The paper proposes a method for extracting rhythms of EEG, based on wavelet analysis. By using Daubechies mother wavelet, raw EEG is decomposed, and then we extract basic rhythms of EEG after interference is eliminated insome scales. This method not only eliminates interference well, but also extracts rhythms perfectly.
+

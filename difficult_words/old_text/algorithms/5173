@@ -1,0 +1,9 @@
+
+To test whether image processing methods are suitable for detecting differences in the image quality of digital mammography units and whether the methods are more sensitive than visual test methods like the evaluation of CDMAM test images.
+
+Test images according to PAS 1054 were acquired with CR and DR systems and analyzed automatically. Only parameters were used that are obligatory for calculating the detective quantum efficiency (DQE), the noise power spectrum (NPS), the spatial resolution (MTF, modulation transfer function), and the averaged glandular dose (AGD). The derived value, the NEQ index, is linked to the noise equivalent quanta (NEQ). Additionally CDMAM test images were acquired and evaluated at one CR and one DR system.
+
+The accuracy of the evaluated values is in the range below of 2 %. The accuracy requirements are fulfilled to establish values for detecting changes in image quality related to changes in dose no greater than one exposure value. If a visual evaluation of test images is used, a significant difference in image quality can only be detected when the dose is doubled.
+
+A method is proposed for establishing dose-correlated tolerances for values used in constancy and acceptance tests independently of the type of mammography unit (CR and DR systems). A method which abstains from visual tests for establishing the performance of digital mammography units could be used in acceptance tests.
+

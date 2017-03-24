@@ -1,0 +1,9 @@
+
+In phase II clinical trials in oncology, the potential efficacy of a new treatment regimen is assessed in terms of anticancer activity. The standard approach consists of a single-arm two-stage design where a single binary endpoint is compared to a specified target value. However, a new drug would still be considered promising if it showed a lower tumor response rate than the target level but would lead, for example, to disease stabilization.
+
+We present an analytical solution for the calculation of the type I and type II error rate for a two-stage design where the hypothesis test considers two endpoints and provide optimal and minimax solutions. Furthermore, the problem of inference about the two single endpoints following rejection of the global null hypothesis is addressed by deriving a multiple test procedure that controls the experimentwise type I error rate in the strong sense.
+
+The proposed methods are illustrated with a real data example, and the new design is tabulated for a wide range of parameter values. Similar to two-stage designs with a single endpoint, the characteristics of optimal and minimax designs with two endpoints with respect to expected and maximum sample size can be quite different. Therefore, the choice of an admissible design may be a valuable compromise.
+
+The new procedure extends Simon's two-stage design to two endpoints. This approach allows a more comprehensive assessment of the overall picture of anti-tumor efficacy of a new treatment than restriction to a single outcome.
+

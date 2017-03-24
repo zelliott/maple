@@ -1,0 +1,3 @@
+
+This article describes the abrupt and sustained shortening of the sensed AV delay in a patient with an Intermedics Marathon DDDR pacemaker programmed to the SmarTracking function, which prevents tracking of inappropriate atrial rates. The AV delay remained extended and stable when the sinus cycle became equal to the prevailing upper rate interval determined by sensor input. When the sinus rate remained stable, the AV delay returned abruptly to its shorter programmed duration at the end of the tachycardia terminating algorithm and remained constant afterwards. This behavior is caused by a pacemaker Wenckebach upper rate response related to the slow prevailing upper rate at rest provided by sensor input to the SmarTracking function of the pulse generator.
+

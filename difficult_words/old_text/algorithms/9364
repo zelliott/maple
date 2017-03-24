@@ -1,0 +1,9 @@
+
+Phylogenomics integrates the vast amount of phylogenetic information contained in complete genome sequences, and is rapidly becoming the standard for reliably inferring species phylogenies. There are, however, fundamental differences between the ways in which phylogenomic approaches like gene content, superalignment, superdistance and supertree integrate the phylogenetic information from separate orthologous groups. Furthermore, they all depend on the method by which the orthologous groups are initially determined. Here, we systematically compare these four phylogenomic approaches, in parallel with three approaches for large-scale orthology determination: pairwise orthology, cluster orthology and tree-based orthology.
+
+Including various phylogenetic methods, we apply a total of 54 fully automated phylogenomic procedures to the fungi, the eukaryotic clade with the largest number of sequenced genomes, for which we retrieved a golden standard phylogeny from the literature. Phylogenomic trees based on gene content show, relative to the other methods, a bias in the tree topology that parallels convergence in lifestyle among the species compared, indicating convergence in gene content.
+
+Complete genomes are no guarantee for good or even consistent phylogenies. However, the large amounts of data in genomes enable us to carefully select the data most suitable for phylogenomic inference. In terms of performance, the superalignment approach, combined with restrictive orthology, is the most successful in recovering a fungal phylogeny that agrees with current taxonomic views, and allows us to obtain a high-resolution phylogeny. We provide solid support for what has grown to be a common practice in phylogenomics during its advance in recent years.
+
+Supplementary data are available at Bioinformatics online.
+

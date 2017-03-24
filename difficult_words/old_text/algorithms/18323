@@ -1,0 +1,3 @@
+
+An algorithm for assisting medical diagnosis is designed; this algorithm is highly reliable and can be given general use. The method is based on the comparison of the column vector of the symptoms of a given patient with each of the columns of disease symptoms which appear on a matrix. On this matrix, the symptoms have been arranged according to the hierarchic order of each of the symptoms, which facilitates the creation of a file. Moreover, this system undertakes a simultaneous comparison of all the diseases considered in the differential diagnosis, in comparison to the alternate procedures in which the patient's symptoms are compared in separate succession with each of the vectors of the disease under study.
+

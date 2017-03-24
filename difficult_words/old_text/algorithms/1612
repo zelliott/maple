@@ -1,0 +1,7 @@
+
+We introduce a method for quickly determining the rate of implicit learning.
+
+The task involves making a binary prediction for a probabilistic sequence over 10 minutes; from this it is possible to determine the influence of events of a different number of trials in the past on the current decision. This profile directly reflects the learning rate parameter of a large class of learning algorithms including the delta and Rescorla-Wagner rules. To illustrate the use of the method, we compare a person with amnesia with normal controls and we compare people with induced happy and sad moods.
+
+Learning on the task is likely both associative and implicit. We argue theoretically and demonstrate empirically that both amnesia and also transient negative moods can be associated with an especially large learning rate: People with amnesia can learn quickly and happy people slowly.
+

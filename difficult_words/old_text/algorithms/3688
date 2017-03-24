@@ -1,0 +1,3 @@
+
+A method for estimating the orientated rose of normal directions of a three-dimensional (3D) set Z from a digitization of Z, i.e. a voxel image, is presented. It is based on counts of informative configurations in n x n x n voxel cubes. An algorithm for finding all informative configurations is proposed and an estimation procedure is described in detail for the case n= 2. The presented method is a 3D version of a method of estimating the orientated rose of binary planar images using n x n configurations. A new feature is the design-based approach, being more appropriate for biomedical image analysis than the formerly applied model-based approach.
+

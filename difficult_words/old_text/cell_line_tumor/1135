@@ -1,0 +1,7 @@
+
+DNA microarrays using long oligonucleotide probes are widely used to evaluate gene expression in biological samples. These oligonucleotides are pre-synthesized and sequence-optimized to represent specific genes with minimal cross-hybridization to homologous genes. Probe length and concentration are critical factors for signal sensitivity, particularly when genes with various expression levels are being tested. We evaluated the effects of oligonucleotide probe length and concentration on signal intensity measurements of the expression levels of genes in a target sample.
+
+Selected genes of various expression levels in a single cell line were hybridized to oligonucleotide arrays of four lengths and four concentrations of probes to determine how these critical parameters affected the intensity of the signal representing their expression. We found that oligonucleotides of longer length significantly increased the signals of genes with low-expression in the target. High-expressing gene signals were also boosted but to a lesser degree. Increasing the probe concentration, however, did not linearly increase the signal intensity for either low- or high-expressing genes.
+
+We conclude that the longer the oligonuclotide probe the better the signal intensities of low expressing genes on oligonucleotide arrays.
+

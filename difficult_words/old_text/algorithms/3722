@@ -1,0 +1,11 @@
+
+The goal of this analysis was to test an algorithm that identifies implantable cardioverter-defibrillator (ICD) lead problems before clinical failure and/or inappropriate therapy.
+
+The ICD lead failures typically present as inappropriate shock therapy. Identifying lead failures before their clinical presentation may prevent patient discomfort, improve device longevity, and avoid device-induced proarrhythmia.
+
+We tested an algorithm that uses two measures of oversensing and one measure of abnormal impedance to detect a lead failure. The oversensing measures consisted of a counter for RR intervals <140 ms and nonsustained ventricular tachycardia episodes with mean RR interval <200 ms. The impedance measure tracked lead impedances every day and each week. Abnormal impedance was defined as a decrease in impedances or an outlier value compared with baseline. Lead failures were identified when both oversensing measures were met or abnormal impedance and one oversensing measure occurred. The stored data from 696 patients with an ICD were analyzed to determine the sensitivity and specificity of the algorithm to detect lead failures.
+
+Twenty-nine patients demonstrated clinical lead failures with an average of 6 +/- 9 inappropriate shocks per patient. The two oversensing measures used in the algorithm predicted 72% (21 of 29) of the lead failures. Fulfilling at least two of the three impedance and oversensing measures, the sensitivity of our algorithm was 83% (24 of 29) with a 100% (667 of 667) specificity.
+
+Oversensing combined with abnormal impedance trends may be used to identify ICD lead failures with high sensitivity and very high specificity.
+

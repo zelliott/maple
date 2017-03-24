@@ -1,0 +1,9 @@
+
+In this paper we are concerned with elastic image registration. Usually, elastic approaches assume constant material parameters and result in a smooth displacement field. However, a constant choice has its shortcomings for images with varying elastic properties, like bones and soft tissue. The proposed method allows for spatially varying material properties.
+
+The proposed variational registration scheme is based on a segmentation of the template image. Individual material properties can be assigned to each segmented region. The proposed variable elastic regulariser leads to a displacement field which is adapted to the locally chosen material properties.
+
+The capability of this approach is demonstrated by a synthetic and by real-life examples in two dimensions. For all examples the proposed method is compared to a conventional scheme where the material parameters are constants in the entire image domain.
+
+A method for non-parametric registration which supports spatially varying elastic properties such as (in)compressibility or Young's modulus in certain image regions is proposed. It allows for registration results to be more realistic compared to conventional approaches. Also, for a particular structure, an approximated preservation of volume or shape can be achieved.
+

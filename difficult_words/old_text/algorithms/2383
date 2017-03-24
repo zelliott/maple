@@ -1,0 +1,3 @@
+
+The usage of tree-structured or recursive partitioning methods has grown steadily in the decade since the appearance of the definitive monograph 'Classification and Regression Trees'. Accompanying this growth have been many methodologic and software extensions that have served to give the tree-structured approach even wider applicability. This overview highlights some of these developments, emphasizing the regression setting. An illustrative example describes how tree-structured regression, modified to handle right-censored, left-truncated survival data with time-dependent covariates, can be used to assess whether rates of progression from HIV to AIDS have changed over time.
+

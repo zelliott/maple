@@ -1,0 +1,3 @@
+
+We study the signal propagation in a feed-forward motif consisting of three bistable neurons: Two input neurons receive input signals and the third output neuron generates the output. We find that a weak input signal can be propagated from the input neurons to the output neuron without amplitude attenuation. We further reveal that the initial states of the input neurons and the coupling strength act as signal gates and determine whether the propagation is enhanced or not. We also investigate the effect of the input signal frequency on enhanced signal propagation. 
+

@@ -1,0 +1,9 @@
+
+Hemodynamic properties of vascular beds are of great interest in a variety of clinical and laboratory settings. However, there presently exists no automated, accurate, technically simple method for generating blood velocity maps of complex microvessel networks.
+
+Here, we present a novel algorithm that addresses the problem of acquiring quantitative maps by applying pixel-by-pixel cross-correlation to video data. Temporal signals at every spatial coordinate are compared with signals at neighboring points, generating a series of correlation maps from which speed and direction are calculated. User-assisted definition of vessel geometries is not required, and sequential data are analyzed automatically, without user bias.
+
+Velocity measurements were validated against the dual-slit method and against in vitro capillary flow with known velocities. The algorithm was tested in three different biological models in order to demonstrate its versatility.
+
+The hemodynamic maps presented here demonstrate an accurate, quantitative method of analyzing dynamic vascular systems.
+

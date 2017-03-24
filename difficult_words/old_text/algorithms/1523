@@ -1,0 +1,9 @@
+
+The water component dominates in in vivo proton (1H) spectroscopy. This consists of a prominent central peak with large "wings," and consequently metabolites that lie on the "wings" become difficult to quantitate. A method has been developed to deconvolve the water component in in vivo 1H spectroscopy, hence highlighting the metabolite information.
+
+Spectra were acquired from volunteers and patients using 4D chemical shift imaging. The water deconvolution procedure employed knowledge-based data processing in the frequency domain and was fully automated. This involved describing the water component as a coarse function consisting of a "bulk" region and "wing" areas. Points were identified in the spectrum that fit this description and then linked together to produce the water component. The latter was smoothed and then subtracted from the original spectra to produce good water deconvolution.
+
+Over 2,000 in vivo 1H spectra have been subjected to this algorithm. The method took approximately 5 s to execute per spectrum consisting of 2,048 data points.
+
+Knowledge-based data processing has provided a fast, efficient, and robust procedure to deconvolve the water component.
+

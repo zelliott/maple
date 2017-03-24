@@ -1,0 +1,3 @@
+
+We develop a novel method of asserting the similarity between two biological sequences without the need for alignment. The proposed method uses free energy of nearest-neighbor interactions as a simple measure of dissimilarity. It is used to perform a search for similarities of a query sequence against three complex datasets. The sensitivity and selectivity are computed and evaluated and the performance of the proposed distance measure is compared. Real data analysis shows that is a very efficient, sensitive and high-selective algorithm in comparing large dataset of DNA sequences.
+

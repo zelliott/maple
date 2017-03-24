@@ -1,0 +1,13 @@
+
+To develop an algorithm for predicting passive transfer status of lambs of various ages, using the lamb's age and serum gamma-glutamyltransferase (GGT) activity.
+
+Prospective study.
+
+51 Suffolk, Columbia, and crossbred lambs from 1 to 16 days old.
+
+Serum was obtained from all lambs. Serum GGT activity was measured, using a commercially available kit. Serum IgG concentration was determined by use of radial immunodiffusion. Day-1 serum IgG concentration was estimated from sample IgG concentration, lamb age, and the published 14-day half-life of IgG in lambs. Stepwise multivariate regression models were developed to estimate day-1 serum IgG concentration as a function of the natural logarithm of serum GGT activity (In[GGT]) and natural logarithm of lamb age (In[age]) at the time of sampling. These regression models were then used to calculate serum GGT activities that were equivalent to various day-1 IgG concentrations in lambs of various ages.
+
+In(GGT) and In(age) were significantly associated with estimated day-1 IgG concentration. Day-1 serum IgG concentration could be predicted using the formula: IgG = -7,686 + 1,366(In[GGT]) + 1,199(In[age]). The model was moderately accurate in predicting serum IgG concentration (R2 = 0.52).
+
+Serum GGT activity can be used to assess passive transfer status of lambs.
+

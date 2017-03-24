@@ -1,0 +1,9 @@
+
+To develop a clinical decision rule to predict the presence of interstitial lung disease (ILD) in systemic sclerosis (SSc; scleroderma) and to estimate the prevalence of SSc-ILD.
+
+Patient data were extracted from the Canadian Scleroderma Research Group registry. Three algorithms for the clinical decision rule were considered based on lung auscultation, chest radiography (CXR), and % predicted forced vital capacity (FVC). High-resolution computed tomography (HRCT) scans were used as the gold standard to determine the diagnostic properties of the 3 algorithms. Multiple imputation was used to impute HRCT data when missing, thereby avoiding bias due to differential referral for HRCT.
+
+This study included 1,168 patients. Of the patients with HRCT scans, 65% had evidence of ILD, compared to 26% by physical examination and 22% by CXR. The FVC of those who did not have HRCT was 8.8% greater than those who did (95% confidence interval [95% CI] 6.0-11.6%). Algorithm A, which identified the presence of ILD based on crackles on lung auscultation and/or findings on CXR, had a likelihood ratio of 3.9, compared to 3.2 for Algorithm B (which included patients with FVC <70%) and 2.2 for Algorithm C (which included patients with FVC <80%). The prevalence of ILD in the cohort was estimated to be 52% (95% CI 46-59%).
+
+We developed a simple clinical decision rule to predict SSc-ILD with good test characteristics. The prevalence of ILD in a large, unselected SSc cohort was estimated to be 52%.
+

@@ -1,0 +1,3 @@
+
+This paper is concerned with networked estimation, where sensor data are transmitted over a network of limited transmission rate. The transmission rate depends on the sampling periods and the quantization bit lengths. To investigate how the sampling periods and the quantization bit lengths affect the estimation performance, an equation to compute the estimation performance is provided. An algorithm is proposed to find sampling periods and quantization bit lengths combination, which gives good estimation performance while satisfying the transmission rate constraint. Through the numerical example, the proposed algorithm is verified.
+

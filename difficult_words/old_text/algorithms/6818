@@ -1,0 +1,9 @@
+
+Assessment of protein subcellular location is crucial to proteomics efforts since localization information provides a context for a protein's sequence, structure, and function. The work described below is the first to address the subcellular localization of proteins in a quantitative, comprehensive manner.
+
+Images for ten different subcellular patterns (including all major organelles) were collected using fluorescence microscopy. The patterns were described using a variety of numeric features, including Zernike moments, Haralick texture features, and a set of new features developed specifically for this purpose. To test the usefulness of these features, they were used to train a neural network classifier. The classifier was able to correctly recognize an average of 83% of previously unseen cells showing one of the ten patterns. The same classifier was then used to recognize previously unseen sets of homogeneously prepared cells with 98% accuracy.
+
+Algorithms were implemented using the commercial products Matlab, S-Plus, and SAS, as well as some functions written in C. The scripts and source code generated for this work are available at http://murphylab.web.cmu.edu/software.
+
+murphy@cmu.edu
+

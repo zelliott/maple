@@ -1,0 +1,9 @@
+
+Prior genome-scans of bipolar disorder have revealed chromosome 6q22 as a promising candidate region. However, linkage disequilibrium (LD) mapping studies have yet to identify replicated susceptibility loci.
+
+We analyzed 1,422 LD-tagging single nucleotide polymorphisms (SNPs) in 83 genes to test single-marker and locus-wide evidence of association with bipolar disorder in the NIMH Genetics Initiative bipolar pedigrees and the Portuguese Island Collection (PIC) (N = 1,093 in 528 informative pairs). Both studies previously demonstrated significant evidence of linkage to 6q. SNPs were genotyped using an Illumina iSelect genotyping array which employs the Infinium assay. Evidence of single-marker association was assessed using the generalized disequilibrium test (GDT). Empirical estimates of gene-wide significance were obtained by permutation (via 100,000 gene-dropping simulations) of Fisher's combined test of P-values for each locus.
+
+No single variant yielded significant experiment-wide evidence of association, for either the combined sample or in each subsample. Our gene-dropping simulations identified nominally significant gene-wide associations with multiple loci, of which NT5DC1 in the NIMH subsample and CCNC in the PIC were the strongest candidates. However, no one gene consistently exceeded empirical significance criteria in both independent samples or survived Bonferroni correction for the number of genes tested.
+
+Using a gene-based approach to family-based association, we identified gene-wide associations with several genes, though no single locus was significantly associated with bipolar disorder in both cohorts. This suggests that chromosome 6q may harbor multiple susceptibility loci or that complex patterns of LD in this region may confound approaches based on common SNPs. Published 2013. This article is a U.S. Government work and is in the public domain in the USA.
+

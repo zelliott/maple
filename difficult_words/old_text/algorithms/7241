@@ -1,0 +1,3 @@
+
+A model is considered for a neural network that is a stochastic process on a random graph. The neurons are represented by "integrate-and-fire" processes. The structure of the graph is determined by the probabilities of the connections, and it depends on the activity in the network. The dependence between the initial level of sparseness of the connections and the dynamics of activation in the network was investigated. A balanced regime was found between activity, i.e., the level of excitation in the network, and inhibition, that allows formation of synfire chains.
+

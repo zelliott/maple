@@ -1,0 +1,3 @@
+
+Fast mode decision algorithms have been widely used in the video encoder implementation to reduce encoding complexity yet without much sacrifice in the coding performance. Optimal stopping theory, which addresses early termination for a generic class of decision problems, is adopted in this paper to achieve fast mode decision for the H.264/Scalable Video Coding standard. A constrained model is developed with optimal stopping, and the solutions to this model are employed to initialize the candidate mode list and predict the early termination. Comprehensive simulation results are conducted to demonstrate that the proposed method strikes a good balance between low encoding complexity and high coding efficiency.
+

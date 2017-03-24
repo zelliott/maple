@@ -1,0 +1,3 @@
+
+The simulation of biological systems is often plagued by a high level of noise in the data, as well as by models containing a large number of correlated parameters. As a result, the parameters are poorly identified by the data, and the reliability of the model predictions may be questionable. Bayesian sampling methods provide an avenue for proper statistical analysis in such situations. Nevertheless, simulations should employ models that, on the one hand, are reduced as much as possible, and, on the other hand, are still able to capture the essential features of the phenomena studied. Here, in the case of algae growth modeling, we show how a systematic model reduction can be done. The simplified model is analyzed from both theoretical and statistical points of view.
+

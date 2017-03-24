@@ -1,0 +1,11 @@
+
+To develop a prediction model for breast cancer based on common mammographic findings on screening mammograms aiming to reduce reader variability in assigning BI-RADS.
+
+We retrospectively reviewed 352 positive screening mammograms of women participating in the Dutch screening programme (Nijmegen region, 2006-2008). The following mammographic findings were assessed by consensus reading of three expert radiologists: masses and mass density, calcifications, architectural distortion, focal asymmetry and mammographic density, and BI-RADS. Data on age, diagnostic workup and final diagnosis were collected from patient records. Multivariate logistic regression analyses were used to build a breast cancer prediction model, presented as a nomogram.
+
+Breast cancer was diagnosed in 108 cases (31 %). The highest positive predictive value (PPV) was found for spiculated masses (96 %) and the lowest for well-defined masses (10 %). Characteristics included in the nomogram are age, mass, calcifications, architectural distortion and focal asymmetry.
+
+With our nomogram we developed a tool assisting screening radiologists in determining the chance of malignancy based on mammographic findings. We propose cutoff values for assigning BI-RADS in the Dutch programme based on our nomogram, which will need to be validated in future research. These values can easily be adapted for use in other screening programmes.
+
+• There is substantial reader variability in assigning BI-RADS in mammographic screening. • There are no strict guidelines linking mammographic findings to BI-RADS categories. • We developed a model (nomogram) predicting the presence of breast cancer. • Our nomogram is based on common findings on positive screening mammograms. • The nomogram aims to assist screening radiologists in assigning BI-RADS categories.
+

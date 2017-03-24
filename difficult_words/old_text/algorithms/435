@@ -1,0 +1,3 @@
+
+In this paper, adaptive variable structure neural control is investigated for a class of nonlinear systems under the effects of time-varying state delays and uncertain hysteresis inputs. The unknown time-varying delay uncertainties are compensated for using appropriate Lyapunov-Krasovskii functionals in the design, and the effect of the uncertain hysteresis with the Prandtl-Ishlinskii (PI) model representation is also mitigated using the proposed control. By utilizing the integral-type Lyapunov function, the closed-loop control system is proved to be semiglobally uniformly ultimately bounded (SGUUB). Extensive simulation results demonstrate the effectiveness of the proposed approach.
+

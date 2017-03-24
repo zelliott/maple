@@ -1,0 +1,3 @@
+
+Recent experiments in hippocampal neurons have demonstrated the existence of compartments with elevated levels of second messenger molecules such as cyclic AMP. This compartmentalization is believed to be necessary to ensure downstream signaling specificity. Here we use analytical and numerical techniques to investigate the diffusion of a second messenger in the soma and in the dendrite of a neuron. We obtain analytical solutions for the diffusion field and examine the limit in which the width of the dendrite is much smaller than the radius of the soma. We find that the concentration profile depends both on the degradation rate and the width of the dendrite and that compartmentalization can be indeed be achieved for small width to soma radius ratio.
+

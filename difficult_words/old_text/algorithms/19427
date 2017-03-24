@@ -1,0 +1,3 @@
+
+After the publication of [1], we were alerted to an error in our data. The error was an one-off miscalculation in the extraction of position information for our set of true negatives. Our data set should have used randomly selected non-edited cytosines (C) as true negatives, but the data generation phase resulted in a set of nucleotides that were each one nucleotide downstream of known, unedited cytosines. The consequences of this error are reflected in changes to our results, although the general conclusions presented in our original publication remain largely unchanged.
+

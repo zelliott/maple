@@ -1,0 +1,9 @@
+
+We aimed to determine the precision of the Laplacian approach for cortical thickness measurement due to changes in computational and acquisition parameters. We compared these results to two other methods widely used in clinical research using brain MRI data.
+
+Brain MRI scans were obtained in 10 healthy adults using three different sets of acquisition parameters. The first and the second acquisitions used different slice thickness but the same head position. The third scan was performed after head repositioning. We measured cerebral cortical thickness in all brain segmentations using three thickness methods: Laplacian, nearest distance, and the orthogonal projection.
+
+The Laplacian method demonstrated the least variability with regard to the effect of interchange of boundaries, slice thickness, and repositioning of the head, compared with the other two methods.
+
+The Laplacian method is the most precise and reliable tool for in vivo cortical thickness measurement using brain MRI data.
+

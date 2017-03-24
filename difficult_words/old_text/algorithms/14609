@@ -1,0 +1,9 @@
+
+This paper introduces the target equivalence range (TEQR) design, a frequentist implementation of the modified toxicity probability interval (mTPI) design, as a competitor to the standard 3+3 design (3+3). The 3+3 is the work horse design in Phase I. It is good at determining if a safe dose exits, but provides poor accuracy and precision in estimating the level of toxicity at the maximum tolerated dose (MTD). Its main competitor, the continual reassessment method (CRM) has not found a true niche in the Phase I armamentarium resulting from statistical and implementation complexities.
+
+We describe the four competing designs (3+3, mTPI, CRM, and TEQR), comparing them based on i) operating characteristics from simulated trials, and ii) ease of implementation.
+
+The TEQR is better than the 3+3 when compared on; 1) number of times the dose at or nearest the target toxicity level was selected as the MTD, 2) number of patients assigned to dose levels at or nearest the MTD, 3) overall trial dose limiting toxicity rate and 4) accuracy and precision of estimates for the rate of toxicity at the MTD. Further it is reasonably comparable to the CRM and mTPI on 1-3.
+
+The TEQR offers trial designers a competitor to the 3+3 for ease of implementation with better operating characteristics and the added attraction of a glimpse of activity at the MTD. The R package TEQR, freely available from the comprehensive R archive network, includes functions to calculate dose escalation guidelines and operating characteristics.
+

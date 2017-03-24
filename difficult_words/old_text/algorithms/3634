@@ -1,0 +1,5 @@
+
+The DNA microarray technology has been increasingly used in cancer research. In the literature, discovery of putative classes and classification to known classes based on gene expression data have been largely treated as separate problems. This paper offers a unified approach to class discovery and classification, which we believe is more appropriate, and has greater applicability, in practical situations.
+
+We model the gene expression profile of a tumor sample as from a finite mixture distribution, with each component characterizing the gene expression levels in a class. The proposed method was applied to a leukemia dataset, and good results are obtained. With appropriate choices of genes and preprocessing method, the number of leukemia types and subtypes is correctly inferred, and all the tumor samples are correctly classified into their respective type/subtype. Further evaluation of the method was carried out on other variants of the leukemia data and a colon dataset.
+

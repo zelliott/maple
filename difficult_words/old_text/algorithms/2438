@@ -1,0 +1,7 @@
+
+Protein interaction networks (PINs) specific within a particular context contain crucial information regarding many cellular biological processes. For example, PINs may include information on the type and directionality of interaction (e.g. phosphorylation), location of interaction (i.e. tissues, cells), and related diseases. Currently, very few tools are capable of deriving context-specific PINs for conducting exploratory analysis.
+
+We developed a literature-based online system, Context-specific Protein Network Miner (CPNM), which derives context-specific PINs in real-time from the PubMed database based on a set of user-input keywords and enhanced PubMed query system. CPNM reports enriched information on protein interactions (with type and directionality), their network topology with summary statistics (e.g. most densely connected proteins in the network; most densely connected protein-pairs; and proteins connected by most inbound/outbound links) that can be explored via a user-friendly interface. Some of the novel features of the CPNM system include PIN generation, ontology-based PubMed query enhancement, real-time, user-queried, up-to-date PubMed document processing, and prediction of PIN directionality.
+
+CPNM provides a tool for biologists to explore PINs. It is freely accessible at http://www.biotextminer.com/CPNM/.
+

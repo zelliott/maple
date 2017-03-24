@@ -1,0 +1,9 @@
+
+The authors propose a novel optimization model for volumetric modulated arc therapy (VMAT) planning that directly optimizes deliverable leaf trajectories in the treatment plan optimization problem, and eliminates the need for a separate arc-sequencing step.
+
+In this model, a 360° arc is divided into a given number of arc segments in which the leaves move unidirectionally. This facilitates an algorithm that determines the optimal piecewise linear leaf trajectories for each arc segment, which are deliverable in a given treatment time. Multileaf collimator constraints, including maximum leaf speed and interdigitation, are accounted for explicitly. The algorithm is customized to allow for VMAT delivery using constant gantry speed and dose rate, however, the algorithm generalizes to variable gantry speed if beneficial.
+
+The authors demonstrate the method for three different tumor sites: a head-and-neck case, a prostate case, and a paraspinal case. The authors first obtain a reference plan for intensity modulated radiotherapy (IMRT) using fluence map optimization and 20 intensity-modulated fields in equally spaced beam directions, which is beyond the standard of care. Modeling the typical clinical setup for the treatment sites considered, IMRT plans using seven or nine beams are also computed. Subsequently, VMAT plans are optimized by dividing the 360° arc into 20 corresponding arc segments. Assuming typical machine parameters (a dose rate of 600 MU/min, and a maximum leaf speed of 3 cm/s), it is demonstrated that the optimized VMAT plans with 2-3 min delivery time are of noticeably better quality than the 7-9 beam IMRT plans. The VMAT plan quality approaches the quality of the 20-beam IMRT benchmark plan for delivery times between 3 and 4 min.
+
+The results indicate that high quality treatments can be delivered in a single arc with 20 arc segments if sufficient time is allowed for modulation in each segment.
+

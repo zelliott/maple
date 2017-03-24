@@ -1,0 +1,7 @@
+
+The sequencing of whole genomes from various species has provided us with a wealth of genetic information. To make use of the vast amounts of data available today it is necessary to devise computer-based analysis techniques.
+
+We propose a Hidden Markov Model (HMM) based algorithm to detect groups of genes functionally similar to a set of input genes from microarray expression data. A subset of experiments from a microarray is selected based on a set of related input genes. HMMs are trained from the input genes and a group of random gene input sets to provide significance estimates. Every gene in the microarray is scored using all HMMs and significant matches with the input genes are retained. We ran this algorithm on the life cycle of Drosophila microarray data set with KEGG pathways for cell cycle and translation factors as input data sets. Results show high functional similarity in resulting gene sets, increasing our biological insight into gene pathways and KEGG annotations. The algorithm performed very well compared to the Signature Algorithm and a purely correlation-based approach.
+
+Java source codes and data sets are available at http://www.ittc.ku.edu/~xwchen/software.htm
+

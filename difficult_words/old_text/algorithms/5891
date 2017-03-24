@@ -1,0 +1,3 @@
+
+In this paper, we propose a method that selects a subset of the training data points to update LVQ prototypes. The main goal is to conduct the prototypes to converge at a more convenient location, diminishing misclassification errors. The method selects an update set composed by a subset of points considered to be at the risk of being captured by another class prototype. We associate the proposed methodology to a weighted norm, instead of the Euclidean, in order to establish different levels of relevance for the input attributes. The technique was implemented on a controlled experiment and on Web available data sets.
+

@@ -1,0 +1,9 @@
+
+Electron paramagnetic resonance imaging has emerged as a promising noninvasive technology to dynamically image tissue oxygenation. Owing to its extremely short spin-spin relaxation times, electron paramagnetic resonance imaging benefits from a single-point imaging scheme where the entire free induction decay signal is captured using pure phase encoding. However, direct T2 (*)/pO2 quantification is inhibited owing to constant magnitude gradients which result in time-decreasing field of view. Therefore, conventional acquisition techniques require repeated imaging experiments with differing gradient amplitudes (typically 3), which results in long acquisition time.
+
+In this study, gridding was evaluated as a method to reconstruct images with equal field of view to enable direct T2 (*)/pO2 quantification within a single imaging experiment. Additionally, an enhanced reconstruction technique that shares high spatial k-space regions throughout different phase-encoding time delays was investigated (k-space extrapolation).
+
+The combined application of gridding and k-space extrapolation enables pixelwise quantification of T2 (*) from a single acquisition with improved image quality across a wide range of phase-encoding time delays. The calculated T2 (*)/pO2 does not vary across this time range.
+
+By utilizing gridding and k-space extrapolation, accurate T2 (*)/pO2 quantification can be achieved within a single data set to allow enhanced temporal resolution (by a factor of 3).
+

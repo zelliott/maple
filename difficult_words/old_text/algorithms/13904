@@ -1,0 +1,3 @@
+
+In this paper we introduce a mixture model in which we combine logistic regression and piecewise proportional hazards models for analysis of duration data. The model allows simultaneous estimation of two sets of effects of covariates: one of the probability of an event and the other of the timing of the event. We illustrate the application of the model through an analysis of the effects of women's characteristics and of the acceptance of a one-child certificate on the birth of second children in China. Both factors affect the probability of having a second child, but only the acceptance of a one-child certificate has a significant and strong effect on the second-birth interval.
+

@@ -1,0 +1,7 @@
+
+Inferring population structures using genetic data sampled from a group of individuals is a challenging task. Many methods either consider a fixed population number or ignore the correlation between populations. As a result, they can lose sensitivity and specificity in detecting subtle stratifications. In addition, when a large number of genetic markers are used, many existing algorithms perform rather inefficiently.
+
+We propose a new Bayesian method to infer population structures using multiple unlinked single nucleotide polymorphisms (SNPs). Our approach explicitly considers the population correlation through a tree hierarchy, and treat the population number as a random variable. Using both simulated and real datasets of worldwide samples, we demonstrate that an incorporated tree can consistently improve the power in detecting subtle population stratifications. A tree-based model often involves a large number of unknown parameters, and the corresponding estimation procedure can be highly inefficient. We further implement a partition method to analytically integrate out all nuisance parameters in the tree. As a result, our method can analyze large SNP datasets with significantly improved convergence rate.
+
+http://www.stat.psu.edu/~yuzhang/tips.tar.
+

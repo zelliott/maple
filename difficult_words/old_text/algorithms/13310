@@ -1,0 +1,3 @@
+
+This paper proposes a statistical voice activity detection method in a high-dimensional kernel feature space by a nonlinear mapping. A Gaussian density model is presented using kernel principal component analysis to represent the nonlinear characteristics of the speech signal. The proposed approach offers a decision rule based on a multiple observation likelihood ratio test in the kernel space.
+

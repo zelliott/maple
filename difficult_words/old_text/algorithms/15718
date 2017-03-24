@@ -1,0 +1,9 @@
+
+The authors evaluated performance changes in the detection of masses on "current" (latest) and "prior" images by computer-aided diagnosis (CAD) schemes that had been optimized with databases of current and prior mammograms.
+
+The authors selected 260 pairs of matched consecutive mammograms. Each current image depicted one or two verified masses. All prior images had been interpreted originally as negative or probably benign. A CAD scheme initially detected 261 mass regions and 465 false-positive regions on the current images, and 252 corresponding mass regions (early signs) and 471 false-positive regions on prior images. These regions were divided into two training and two testing databases. The current and prior training databases were used to optimize two CAD schemes with a genetic algorithm. These schemes were evaluated with two independent testing databases.
+
+The scheme optimized with current images produced areas under the receiver operating characteristic curve of (0.89 +/- 0.01 and 0.65 +/- 0.02 when tested with current images and prior images, respectively. The scheme optimized with prior images produced areas under the receiver operating characteristic curve of 0.81 +/- 0.02 and 0.71 +/- 0.02 when tested with current images and prior images, respectively. Performance changes for both current and prior testing databases were significant (P < .01) for the two schemes.
+
+CAD schemes trained with current images do not perform optimally in detecting masses depicted on prior images. To optimize CAD schemes for early detection, it may be important to include in the training database a large fraction of prior images originally reported as negative and later proven to be positive.
+

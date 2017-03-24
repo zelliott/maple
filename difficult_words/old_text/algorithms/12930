@@ -1,0 +1,3 @@
+
+A novel automated boundary segmentation algorithm is proposed for fast and reliable quantification of nine intra-retinal boundaries in optical coherence tomography (OCT) images. The algorithm employs a two-step segmentation schema based on gradient information in dual scales, utilizing local and complementary global gradient information simultaneously. A shortest path search is applied to optimize the edge selection. The segmentation algorithm was validated with independent manual segmentation and a reproducibility study. It demonstrates high accuracy and reproducibility in segmenting normal 3D OCT volumes. The execution time is about 16 seconds per volume (480x512x128 voxels). The algorithm shows potential for quantifying images from diseased retinas as well.
+

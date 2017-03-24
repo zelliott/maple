@@ -1,0 +1,9 @@
+
+To evaluate the performance of a relative activation amplitude algorithm, versus standard t-value thresholding, for reliably establishing the location, amplitude, and spatial extent of functional magnetic resonance imaging (fMRI) brain activation for presurgical planning.
+
+Diagnostic fMRI maps from 42 neurosurgical patients performing a simple hand movement task were analyzed. Relative activation maps were made by normalizing statistical t-value maps to the local peak activation amplitude within each functional brain region. The spatial distribution of activation was quantified and compared across mapping algorithms, subjects, and scan duration.
+
+Whereas the spatial distribution of blood oxygenation level-dependent (BOLD) t-value statistical activation maps was highly variable across subjects and scan duration, the spatial distribution of relative activation maps was highly reproducible both within individual subjects and across different subjects. In every case the 40% most active voxels in the cortical hand region were consistently localized to the pre- and postcentral gyri of the sensorimotor cortex.
+
+The reproducibility and anatomical specificity of the spatiotemporal pattern of BOLD activation makes relative amplitude fMRI mapping a useful tool for clinical imaging, where accuracy, reproducibility, and quality control are critical concerns.
+

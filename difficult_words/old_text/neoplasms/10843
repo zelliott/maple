@@ -1,0 +1,3 @@
+
+DBCAT (database of CpG islands and analytical tools, http://dbcat.cgm.ntu.edu.tw/ ), developed to characterize comprehensive DNA methylation profiles in human cancers, is a web-based application and methylation database containing several convenient tools for investigating epigenetic regulation in human diseases. To our knowledge, DBCAT is the first online methylation analytical tool, and is composed of three parts: a CpG island finder, a genome query browser, and a tool for analyzing methylation microarray data. The analytical tools can quickly identify genes with methylated regions from microarray data, compare the methylation status changes between different arrays, and provide functional analysis in addition to colocalizing transcription factor binding sites.
+

@@ -1,0 +1,3 @@
+
+We demonstrate a technique to improve structural data obtained from Optical Projection Tomography (OPT) using Image Fusion (IF) and contrast normalization. This enables the visualization of molecular expression patterns in biological specimens with highly variable contrast values. In the approach, termed IF-OPT, different exposures are fused by assigning weighted contrasts to each. When applied to projection images from mouse organs and digital phantoms our results demonstrate the capability of IF-OPT to reveal high and low signal intensity details in challenging specimens. We further provide measurements to highlight the benefits of the new algorithm in comparison to other similar methods.
+

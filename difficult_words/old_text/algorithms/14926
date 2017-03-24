@@ -1,0 +1,3 @@
+
+An advanced integration method for solving reaction-diffusion-type equations for cardiac conduction is suggested. Operator splitting and adaptive time step methods were used in this method, which can significantly speed up integration while preserving accuracy.
+

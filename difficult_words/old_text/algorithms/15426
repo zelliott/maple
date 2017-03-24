@@ -1,0 +1,9 @@
+
+Clear cell renal cell carcinoma (ccRCC) represents the most invasive and common adult kidney neoplasm. Mounting evidence suggests that microRNAs (miRNAs) are important regulators of gene expression. But their function in tumourigenesis in this tumour type remains elusive. With the development of high throughput technologies such as microarrays and NGS, aberrant miRNA expression has been widely observed in ccRCC. Systematic and integrative analysis of multiple microRNA expression datasets may reveal potential mechanisms by which microRNAs contribute to ccRCC pathogenesis.
+
+We collected 5 public microRNA expression datasets in ccRCC versus non-matching normal renal tissues from GEO database and published literatures. We analyzed these data sets with an integrated bioinformatics framework to identify expression signatures. The framework incorporates a novel statistic method for abnormal gene expression detection and an in-house developed predictor to assess the regulatory activity of microRNAs. We then mapped target genes of DE-miRNAs to different databases, such as GO, KEGG, GeneGo etc, for functional enrichment analysis.
+
+Using this framework we identified a consistent panel of eleven deregulated miRNAs shared by five independent datasets that can distinguish normal kidney tissues from ccRCC. After comparison with 3 RNA-seq based microRNA profiling studies, we found that our data correlated well with the results of next generation sequencing. We also discovered 14 novel molecular pathways that are likely to play a role in the tumourigenesis of ccRCC.
+
+The integrative framework described in this paper greatly improves the inter-dataset consistency of microRNA expression signatures. Consensus expression profile should be identified at pathway or network level to address the heterogeneity of cancer. The DE-miRNA signature and novel pathways identified herein could provide potential biomarkers for ccRCC that await further validation.
+

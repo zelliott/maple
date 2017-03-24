@@ -1,0 +1,9 @@
+
+In-treatment fiducial tracking has recently received attention as a method for improving treatment accuracy, dose conformity, and sparing of healthy tissue. 3-D fiducial localization in arc-radiotherapy remains challenging due to the motion of targets and the complexity of arc deliveries. We propose a novel statistical method for estimating 3-D fiducial motion using limited 2-D megavoltage (MV) projections.
+
+3-D fiducial motion was estimated by a maximum a posteriori (MAP) approach to integrating information of fiducial projections with prior knowledge of target motion. To obtain the imaging geometries, short sequences of MV projections were selected in which fiducials were continuously visible. The MAP algorithm estimated the 3-D motion by maximizing the probability of displacement of fiducials in the sequences. Prior knowledge of target motion from a large statistical sample was built into the model to enhance the accuracy of estimation. In the case that a motion prior was unavailable, the algorithm can be simplified to the maximum likelihood (ML) approach. To compare tracking performance, a multiprojection geometric method was also presented by extending the typical two-project ion geometric estimation approach. The algorithms were evaluated using clinical prostate motion traces, and the performance was measured in quality indices and statistical evaluation.
+
+The results showed that the MAP method significantly outperforms the geometric method in all measures. In our simulations, the MAP method achieved an accuracy of less than 1 mm RMS error using only five continuous projections, whereas the geometric method required 15 projections to achieve a similar result.
+
+The approach presented can accurately estimate tumor motion using a limited number of continuous projections. The MAP motion estimation is superior to both the ML and geometric estimation methods.
+

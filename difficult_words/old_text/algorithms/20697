@@ -1,0 +1,9 @@
+
+Investigation has shown that the most useful MRI finding for the detection of breast cancer is enhancement following in travenous contrast. However, many widely different imaging protocols have been used. The purpose of this study is to explicate factors that affect the signal intensity of breast lesions after intravenous gadolinium.
+
+A computer model was developed using equations based on published data. The effect of gadolinium on breast tissues was calculated using the model with appropriate values for baseline tissue relaxation times, relaxivity of gadolinium at the given field strength and concentration of gadolinium based on published data, for the TR, TE, flip angle and field strength of several published sequences used for enhanced breast MRI.
+
+The computer model allows comparison of the performance of different sequences, which can be displayed graphically. These vary in their performance, largely dependent on T1 weighting. Enhancement is also affected by the baseline of the T1 of the lesion and sensitivity of the sequence to gadolinium. Malignant lesions demonstrate greater observed enhancement than predicted when assuming symmetric distribution of contrast, indicating there is greater accumulation of gadolinium, accounting for the differential enhancement between benign and malignant lesions.
+
+MRI sequences vary greatly in their demonstration of enhancement after intravenous gadolinium contrast. Numerical diagnostic criteria such as % signal intensity change must be interpreted with care when using a different sequence than that on which the criterion was developed. There is preferentially greater accumulation of contrast in malignant lesions, whether due to angiogenesis or altered permeability.
+

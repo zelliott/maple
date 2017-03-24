@@ -1,0 +1,3 @@
+
+This brief describes neural modeling fields (NMFs) for object perception, a bio-inspired paradigm. We discuss previous difficulties in object perception algorithms encountered since the 1950s, and describe how NMF overcomes these difficulties. NMF mechanisms are compared to recent experimental neuroimaging observations, which have demonstrated that initial top-down signals are vague and during perception they evolve into crisp representations matching the bottom-up signals from observed objects. Neural and mathematical mechanisms are described and future research directions outlined.
+

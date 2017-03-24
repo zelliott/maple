@@ -1,0 +1,9 @@
+
+Autism spectrum disorders (ASD) are associated with complications of pregnancy that implicate fetal hypoxia (FH); the excess of ASD in male gender is poorly understood. We tested the hypothesis that risk of ASD is related to fetal hypoxia and investigated whether this effect is greater among males.
+
+Provincial delivery records (PDR) identified the cohort of all 218,890 singleton live births in the province of Alberta, Canada, between 01-01-98 and 12-31-04. These were followed-up for ASD via ICD-9 diagnostic codes assigned by physician billing until 03-31-08. Maternal and obstetric risk factors, including FH determined from blood tests of acidity (pH), were extracted from PDR. The binary FH status was missing in approximately half of subjects. Assuming that characteristics of mothers and pregnancies would be correlated with FH, we used an Estimation-Maximization algorithm to estimate HF-ASD association, allowing for both missing-at-random (MAR) and specific not-missing-at-random (NMAR) mechanisms.
+
+Data indicated that there was excess risk of ASD among males who were hypoxic at birth, not materially affected by adjustment for potential confounding due to birth year and socio-economic status: OR 1.13, 95%CI: 0.96, 1.33 (MAR assumption). Limiting analysis to full-term males, the adjusted OR under specific NMAR assumptions spanned 95%CI of 1.0 to 1.6.
+
+Our results are consistent with a weak effect of fetal hypoxia on risk of ASD among males. E-M algorithm is an efficient and flexible tool for modeling missing data in the studied setting.
+

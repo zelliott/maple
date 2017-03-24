@@ -1,0 +1,3 @@
+
+A common question within the context of de novo motif discovery is whether a newly discovered, putative motif resembles any previously discovered motif in an existing database. To answer this question, we define a statistical measure of motif-motif similarity, and we describe an algorithm, called Tomtom, for searching a database of motifs with a given query motif. Experimental simulations demonstrate the accuracy of Tomtom's E values and its effectiveness in finding similar motifs.
+

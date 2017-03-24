@@ -1,0 +1,9 @@
+
+The authors developed and tested automated and semiautomated bowel-lumen tracking and colon-unraveling techniques for determining the central axis of the bowel.
+
+A computer-simulated gastrointestinal tract phantom was used to test the accuracy of an automated algorithm for central axis determination and bowel unraveling. Variations in cross-sectional features between straight and unraveled formats were compared in a canine bowel segment in vitro and a human colon in vivo by using spiral computed tomography. Three readers each performed three semiautomated evaluations.
+
+Accuracy of the automated algorithm was confirmed by the high degree of correlation in the cross-sectional feature measurements (length error, < 1%). For the canine colon segment, accuracy of the semiautomated algorithm was confirmed by comparison with the automated tracing. For the human colon, readings were reproducible with 3.3% (+/- 1.9 standard deviation) mean variation in length.
+
+An automated algorithm for central axis deterioration and unraveling the colon has been validated in a gastrointestinal tract phantom. A semiautomated algorithm has been shown to be reproducible and time-efficient.
+

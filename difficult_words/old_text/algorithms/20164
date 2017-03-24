@@ -1,0 +1,3 @@
+
+Among the six secretion systems identified in Gram-negative bacteria, the type III secretion system (T3SS) plays important roles in the disease development of pathogens. T3SS has attracted a great deal of research interests. However, the secretion mechanism has not been fully understood yet. Especially, the identification of effectors (secreted proteins) is an important and challenging task. This paper adopts machine learning methods to identify type III secreted effectors (T3SEs). We extract features from amino acid sequences and conduct feature reduction based on latent semantic information by using latent Dirichlet allocation model. The experimental results on Pseudomonas syringae data set demonstrate the good performance of the new methods.
+

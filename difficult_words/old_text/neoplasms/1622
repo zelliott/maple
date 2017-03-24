@@ -1,0 +1,15 @@
+
+To evaluate the accuracy of the time series model used to forecast cancer mortality rates in Spain published in Atención Primaria for the year 2000.
+
+Descriptive study.
+
+Spain.
+
+All cancer deaths recorded in Spain during the year 2000.
+
+The forecast for cancer mortality rates in males and females for the year 2000 was obtained from a paper published in 1999 in the journal Atención Primaria. Official data on cancer mortality rates for the year 2000 were obtained from the Spanish Statistical Office (INE) in 2003.
+
+In 2000, 59,212 males and 35,860 females died of cancer. The figures predicted by the time series model were 60,561 for males and 36,183 for females. Thus, the actual cancer mortality figures published by the Statistical Office fell within the confidence intervals of the forecasts for both gross mortality and cancer deaths.
+
+The difference between the true cancer mortality rate and the forecast is very small and not significant for health planning. Time series analysis is highly effective as a basis for decision-taking in cancer health planning. Cancer health policy and management can also benefit from the strength of these models.
+

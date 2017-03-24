@@ -1,0 +1,7 @@
+
+It is understood that clustering genes are useful for exploring scientific knowledge from DNA microarray gene expression data. The explored knowledge can be finally used for annotating biological function for novel genes. Representing the explored knowledge in an efficient manner is then closely related to the classification accuracy. However, this issue has not yet been paid the attention it deserves.
+
+A novel method based on template theory in cognitive psychology and pattern recognition is developed in this study for representing knowledge extracted from cluster analysis effectively. The basic principle is to represent knowledge according to the relationship between genes and a found cluster structure. Based on this novel knowledge representation method, a pattern recognition algorithm (the decision tree algorithm C4.5) is then used to construct a classifier for annotating biological functions of novel genes. The experiments on five published datasets show that this method has improved the classification performance compared with the conventional method. The statistical tests indicate that this improvement is significant.
+
+The software package can be obtained upon request from the author.
+

@@ -1,0 +1,3 @@
+
+As mathematical models are increasingly available for biological/biomedical systems, dynamic optimization can be a useful tool for manipulating systems. Dynamic optimization is a computational tool for finding a sequence of optimal actions to attain desired outcomes from the system. This chapter discusses two dynamic optimization algorithms, model predictive control and dynamic programming, in the context of finding optimal treatment strategy for correcting hypothalamic-pituitary-adrenal (HPA) axis dysfunction. It is shown that dynamic programming approach has the advantage over the model predictive control (MPC) methodology in terms of robustness to error in parameter estimates and flexibility of accommodating clinically relevant objective function.
+

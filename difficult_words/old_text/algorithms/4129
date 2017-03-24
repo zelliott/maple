@@ -1,0 +1,9 @@
+
+For the facilitation of minimally invasive robotically performed direct cochlea access (DCA) procedure, a surgical planning tool which enables the surgeon to define landmarks for patient-to-image registration, identify the necessary anatomical structures and define a safe DCA trajectory using patient image data (typically computed tomography (CT) or cone beam CT) is required. To this end, a dedicated end-to-end software planning system for the planning of DCA procedures that addresses current deficiencies has been developed.
+
+Efficient and robust anatomical segmentation is achieved through the implementation of semiautomatic algorithms; high-accuracy patient-to-image registration is achieved via an automated model-based fiducial detection algorithm and functionality for the interactive definition of a safe drilling trajectory based on case-specific drill positioning uncertainty calculations was developed.
+
+The accuracy and safety of the presented software tool were validated during the conduction of eight DCA procedures performed on cadaver heads. The plan for each ear was completed in less than 20 min, and no damage to vital structures occurred during the procedures. The integrated fiducial detection functionality enabled final positioning accuracies of 0.15 ± 0.08 mm.
+
+Results of this study demonstrated that the proposed software system could aid in the safe planning of a DCA tunnel within an acceptable time.
+

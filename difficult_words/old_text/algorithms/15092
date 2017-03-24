@@ -1,0 +1,7 @@
+
+The purpose of this study was to evaluate the accuracy and limitations of published algorithms using the 12-lead ECG to localize AV accessory pathways (APs).
+
+The 11 relevant algorithms found in the literature (MEDLINE database and major scientific sessions) were tested on a series of 266 consecutive patients who successfully underwent radiofrequency catheter ablation of a single overt AV AP. The positive predictive values (PPV) of the algorithms in applicable patients were significantly lower for algorithms with > 6 accessory location sites (40.6% +/- 10.9% vs 61.2% +/- 8.0%; P < 0.03) and show a tendency for algorithms not relying on delta wave polarity but on QRS polarity only (36.6% +/- 11.2% vs 52.3% +/- 13.1%; P = 0.09). The PPV in applicable patients is related to the AP location (P < 0.001) and ranked from the highest to the lowest as follows: left lateral (mean PPV = 86.3%), posteroseptal (mean PPV = 65.2%), right anteroseptal (mean PPV = 45.2%), and right posterolateral (mean PPV = 23.4%).
+
+Our study suggests that the accuracy of algorithms relying on the 12-lead ECG depends on AP locations as defined in the algorithms and on the number of AP sites. The accuracy tends to be lower when delta wave polarity is not included in the algorithm's architecture. This should be considered when using these algorithms or when building new ones.
+

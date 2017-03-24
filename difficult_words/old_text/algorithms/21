@@ -1,0 +1,3 @@
+
+An algorithm for multiple sequence alignment is given that matches words of length and degree of mismatch chosen by the user. The alignment maximizes an alignment scoring function. The method is based on a novel extension of our consensus sequence methods. The algorithm works for both DNA and protein sequences, and from earlier work on consensus sequences, it is possible to estimate statistical significance.
+

@@ -1,0 +1,7 @@
+
+Most protein sequence alignment algorithms give similar results on closely related proteins, while manual intervention may be needed for distantly related molecules. To correct the alignment, it is often necessary to repeat calculations on selected parts of the alignments and edit the alignment manually. Software implementing such interactive alignment procedures is of significance.
+
+This paper presents a new MS Windows application called ProMSED for both automatic and manual protein sequence alignment. The program reads main sequence formats and has a user-friendly interface. ProMSED performs automatic (ClustalV algorithm) alignments, alignment visualization and editing, and it allows sequences to be aligned interactively leaving previously aligned regions unchanged. Manual alignment and sequence analysis are facilitated by colouring schemes reflecting amino acid similarity of mutational and physicochemical properties. The interactive alignment of a diverged set of reverse transcriptases has located four out of six known conserved motifs.
+
+ProMSED is available on request from the authors. DEMO is available from ftp://ftp.ebi.ac.uk/pub/ software/dos/promsed/ or ftp://iubio.bio.indiana.edu/molbio/ ibmpc/.
+

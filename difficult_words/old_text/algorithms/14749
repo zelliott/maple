@@ -1,0 +1,3 @@
+
+We report on the development of a microelectromechanical systems (MEMS)-scale photoacoustic sensor for the detection of trace gases. A mid-infrared quantum cascade laser (QCL) was used to determine detection limits for acetic acid, acetone, 1,4-dioxane, and vinyl acetate. The source was continuously tunable from 1015 cm(-1) to 1240 cm(-1), allowing for the collection of photoacoustic vibrational spectra for these gases. Exceptional agreement between the measured photoacoustic spectra and the infrared spectra for acetic acid, acetone, 1,4-dioxane, and vinyl acetate was observed. Partial least-squares (PLS) regression was used to develop an algorithm for classification of these compounds based solely on photoacoustic spectra.
+

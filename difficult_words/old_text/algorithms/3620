@@ -1,0 +1,3 @@
+
+Genome-wide disease-association mapping has been heralded as the study design of the next generation, but the lack of analytical methods to use genotype data fully is a large stumbling block. Here we describe an algorithm and statistical method that efficiently and exhaustively exploits haplotype information by subjecting alleles (a marker or contiguous sets of markers) from sliding windows of all sizes to transmission disequilibrium tests. By applying our method to simulated data and to Hirschsprung disease, we show that it can detect both common and rare disease variants of small effect. These results show that the theoretical benefits of genome-wide association studies are at last realizable.
+

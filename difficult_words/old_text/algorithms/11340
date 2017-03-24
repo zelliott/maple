@@ -1,0 +1,9 @@
+
+Exact tests for Hardy-Weinberg equilibrium are widely used in genetic association studies. We evaluate the mid p-value, unknown in the genetics literature, as an alternative for the standard p-value in the exact test.
+
+The type 1 error rate and the power of the exact test are calculated for different sample sizes, significance levels, minor allele counts and degrees of deviation from equilibrium. Three different p-value are considered: the standard two-sided p-value, the doubled one-sided p-value and the mid p-value. Practical implications of using the mid p-value are discussed with HapMap datasets and a data set on colon cancer.
+
+The mid p-value is shown to have a type 1 error rate that is always closer to the nominal level, and to have better power. Differences between the standard p-value and the mid p-value can be large for insignificant results, and are smaller for significant results. The analysis of empirical databases shows that the mid p-value uncovers more significant markers, and that the equilibrium null distribution is not tenable for both databases.
+
+The standard exact p-value is overly conservative, in particular for small minor allele frequencies. The mid p-value ameliorates this problem by bringing the rejection rate closer to the nominal level, at the price of occasionally exceeding the nominal level.
+

@@ -1,0 +1,9 @@
+
+Better predictions of each case's duration would reduce operating room labor costs and patient waiting times. A barrier to using historical case duration data to predict the duration of future cases is the absence for some cases of previous data for the same scheduled procedure from the same facility. The authors examined sample size requirements for pooling case duration data from several facilities to create a 90% chance of having case duration data for almost all procedures.
+
+Four academic medical centers provided data, totaling 200,401 cases classified by the scheduled Current Procedural Terminology codes.
+
+The 12% of cases in which procedures occurred once or twice accounted for 79% of procedures or combinations of procedures. When a procedure was being performed for the first time at a facility, that same procedure had been performed previously at least once at one or more of the other three facilities only 13-25% of the time. More than 1 million cases would be needed to have a 90% chance of having at least 3 cases for each procedure observed in the original 200,401 cases. However, with N = 200,401 cases in our initial data set, we observed less than one third of the estimated total number of possible procedures.
+
+The lack of historical case duration data for scheduled procedures is an important cause of inaccuracy in predicting case durations. However, millions of cases probably would be required to provide historical case duration data for almost all procedures.
+

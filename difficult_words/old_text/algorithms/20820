@@ -1,0 +1,9 @@
+
+Interferon-alpha (IFNalpha) in combination with ribavirin can be used for the treatment of patients with chronic hepatitis C. This therapeutic approach achieves an overall sustained response rate of approximately 40%, but treatment takes 6-12 months and patients often experience significant adverse reactions.
+
+We aim to develop a tool to distinguish potential responders from nonresponders prior to initiation of IFNalpha-ribavirin treatment.
+
+Using single nucleotide polymorphisms (SNPs) and viral genotype, we applied the support vector machine (SVM) algorithm to build a tool to predict responsiveness to IFNalpha-ribavirin combination therapy. Furthermore, we utilized the SVM algorithm with the recursive feature elimination method to identify a subset of factors that are significantly more influential than the others.
+
+The SVM model is a promising method for inferring responsiveness to IFNalpha dealing with the complex nonlinear relationship between factors (such as SNPs and viral genotype) and successful therapy. In this study, we demonstrate that our tool may allow patients and doctors to make more informed decisions by analyzing host SNP and viral genotype information.
+

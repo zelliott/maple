@@ -1,0 +1,11 @@
+
+The aim of this study is to provide an improved method for the automatic classification of the Cyclic Alternating Pattern (CAP) sleep by applying a segmentation technique to the computation of descriptors from the EEG.
+
+A dataset of 16 polysomnographic recordings from healthy subjects was employed, and the EEG traces underwent first an automatic isolation of NREM sleep portions by means of an Artificial Neural Network and then a segmentation process based on the Spectral Error Measure. The information content of the descriptors was evaluated by means of ROC curves and compared with that of descriptors obtained without the use of segmentation. Finally, the descriptors were used to train a discriminant function for the automatic classification of CAP phases A.
+
+A significant improvement with respect to previous scoring methods in terms of both information content carried by the descriptors and accuracy of the classification was obtained.
+
+EEG segmentation proves to be a useful step in the computation of descriptors for CAP scoring.
+
+This study provides a complete method for CAP analysis, which is entirely automatic and allows the recognition of A phases with a high accuracy thanks to EEG segmentation.
+

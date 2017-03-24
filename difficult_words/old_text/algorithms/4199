@@ -1,0 +1,3 @@
+
+In this paper, Viterbi algorithm based on a hidden Markov model is applied to recognize activity sequences from observed sensors events. Alternative features selections of time feature values of sensors events and activity length size feature values are tested, respectively, and then the results of activity sequences recognition performances of Viterbi algorithm are evaluated. The results show that the selection of larger time feature values of sensor events and/or smaller activity length size feature values will generate relatively better results on the activity sequences recognition performances.
+

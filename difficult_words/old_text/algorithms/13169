@@ -1,0 +1,3 @@
+
+We studied the Bouchaud-Mézard (BM) model, which was introduced to explain Pareto's law in a real economy, on a random network. Using "adiabatic and independent" assumptions, we analytically obtained the stationary probability distribution function of wealth. The results show that wealth condensation, indicated by the divergence of the variance of wealth, occurs at a larger J than that obtained by the mean-field theory, where J represents the strength of interaction between agents. We compared our results with numerical simulation results and found that they were in good agreement.
+

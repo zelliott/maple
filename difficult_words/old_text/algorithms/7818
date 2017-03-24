@@ -1,0 +1,3 @@
+
+The biological deoxyribonucleic acid (DNA) strand has been increasingly seen as a promising computing unit. A new algorithm is formulated in this paper to design any DNA Boolean operator with molecular beacons (MBs) as its input. Boolean operators realized using the proposed design methodology is presented. The developed operators adopt a uniform representation for logical 0 and 1 for any Boolean operator. The Boolean operators designed in this work employ only a hybridization operation at each stage. Further, this paper for the first time brings out the realization of a binary adder and subtractor using molecular beacons. Simulation results of the DNA-based binary adder and subtractor are given to validate the design.
+

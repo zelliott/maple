@@ -1,0 +1,9 @@
+
+High-throughput single nucleotide polymorphism (SNP) genotyping generates a huge amount of SNP data in genome-wide association studies. Simultaneous analyses for multiple SNP interactions associated with many diseases and cancers are essential; however, these analyses are still computationally challenging.
+
+In this study, we propose an odds ratio-based binary particle swarm optimization (OR-BPSO) method to evaluate the risk of breast cancer.
+
+BPSO provides the combinational SNPs with their corresponding genotype, called SNP barcodes, with the maximal difference of occurrence between the control and breast cancer groups. A specific SNP barcode with an optimized fitness value was identified among seven SNP combinations within the space of one minute. The identified SNP barcodes with the best performance between control and breast cancer groups were found to be control-dominant, suggesting that these SNP barcodes may prove protective against breast cancer. After statistical analysis, these control-dominant SNP barcodes were processed for odds ratio analysis for quantitative measurement with regard to the risk of breast cancer.
+
+This study proposes an effective high-speed method to analyze the SNP-SNP interactions for breast cancer association study.
+

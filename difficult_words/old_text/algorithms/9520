@@ -1,0 +1,9 @@
+
+The objective of this study was to compare two different schemes for long-T (2) component suppression in ultrashort echo-time (UTE) imaging. The aim was to increase conspicuity of short-T (2) components accessible by the UTE technique.
+
+A "dual-echo" and a magnetization-preparation approach for long-T (2) and fat suppression were implemented on clinical scanners. Both techniques were compared in 3D UTE exams on healthy volunteers regarding short-T (2) Signal-to-noise ratio (SNR), long-T (2) suppression quality, and scan efficiency. A quantitative SNR evaluation was performed using ankle scans of six volunteers. T (2) suppression profiles were simulated for both approaches to facilitate interpretation of the observations.
+
+At 1.5 T, both techniques perform equally well in suppressing long-T (2) components and fat. Magnetization preparation requires more shimming effort due to the use of narrow-band pulses, while the "dual-echo" technique requires a post-processing step to form a subtraction image. For scans with a short repetition time (TR), the "dual-echo" approach is much faster than the magnetization preparation, which depends on slow T (1) recovery between preparation steps. The SNR comparison shows slightly higher short-T (2) SNR for the "dual-echo" approach. At 3.0 T, magnetization preparation becomes more challenging due to stronger off-resonance effects.
+
+Both techniques are well suited for long-T (2) suppression and offer comparable short-T (2) SNR. However, the "dual-echo" approach has strong advantages in terms of scan efficiency and off-resonance behavior.
+

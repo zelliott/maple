@@ -1,0 +1,9 @@
+
+To develop and validate a prognostic index for 1-year mortality of hospitalized older adults using standard administrative data readily available after discharge.
+
+The prognostic index was developed and validated retrospectively in 6382 older adults discharged from general medicine services at an urban teaching hospital over a 4-year period. Potential risk factors for 1-year mortality were obtained from administrative data and examined using logistic regression models. Each risk factor associated independently with mortality was assigned a weight based on the odds ratios, and risk scores were calculated for each patient by adding the points of each independent risk factor present. Patients in the development cohort were divided into quartiles of risk based on their final risk score. A similar analysis was performed on the validation cohort to confirm the original results.
+
+Risk factors independently associated with 1-year mortality included: aged 70 to 74 years (1 point); aged 75 years and greater (2 points); length of stay at least 5 days (1 point); discharge to nursing home (1 point); metastatic cancer (2 points); and other comorbidities (congestive heart failure, peripheral vascular disease, renal disease, hematologic or solid, nonmetastatic malignancy, and dementia, each 1 point). In the derivation cohort, 1-year mortality was 11% in the lowest-risk group (0 or 1 point) and 48% in the highest-risk group (4 or greater points). Similarly, in the validation cohort, 1-year mortality was 11% in the lowest risk group and 45% in the highest-risk group. The area under the receiver operating characteristic curve was 0.70 for the derivation cohort and 0.68 for the validation cohort.
+
+Reasonable prognostic information for 1-year mortality in older patients discharged from general medicine services can be derived from administrative data to identify high-risk groups of persons.
+

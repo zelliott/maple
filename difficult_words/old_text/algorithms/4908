@@ -1,0 +1,9 @@
+
+This study investigates differences in bacterial growth response in broth amended with compost-substrate extracts periodically bypassed during broiler litter composting.
+
+Compost samples, suspended in diluent were mixed with double strength broth into which ampicillin selective (0.3 g l(-1)) Escherichia coli and E. faecalis were separately seeded. Growth was measured by viable cell count. The Levenberg-Marquardt algorithm was applied to obtain a four-parameter sigmoidal function that best described the diminishing height transitions of the curves for extracts of increasing composting age. The time course of the growth rate followed a unimodal bell-shaped curve. The Microfit application was run to generate information of direct microbiological interest: increasing lambda and decreasing mu(max) for both bacteria with time.
+
+More than the curve-fitting process, the Unified model option of the Microfit application has confirmed the significant differences (P < 0.05) in the growth curve behaviour with more stabilized substrate extracts. The study demonstrates further scopes for characterization of the sanitization potential and indirectly, the impact of indigenous microbial competitive exclusion effects on enteric bacteria.
+
+A different outlook to understanding faecal bacterial growth dynamics in compost has been presented, using predictive microbiology concepts. Further structured studies are needed to fine-tune the generality of the findings for model development.
+

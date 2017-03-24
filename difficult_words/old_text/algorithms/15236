@@ -1,0 +1,3 @@
+
+This paper presents a two-step strategy to provide a quality-predictable image reconstruction. A Pre-computed Back Projection based Penalized-Likelihood (PPL) method is proposed in the strategy to generate consistent image quality. To solve PPL efficiently, relaxed Ordered Subsets (OS) is applied. A training sets based evaluation is performed to quantify the effect of the undetermined parameters in OS, which lets the results as consistent as possible with the theoretical one.
+

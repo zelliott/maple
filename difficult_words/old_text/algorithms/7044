@@ -1,0 +1,3 @@
+
+PATHMASTER is an expert system under development to assist in teaching histopathologic differential diagnosis. The system incorporates two "orthogonal" representations of the knowledge required to perform differential diagnosis. One representation groups histopathologic features around the anatomic structures of liver tissue, the second representation groups the features around the diseases in which they occur. Using these two representations, PATHMASTER models the process of diagnosis as a "dynamic competition" between systematic analysis and disease-directed deduction. By varying two parameters of PATHMASTER's underlying mathematical model, the interplay between these factors can be varied.
+

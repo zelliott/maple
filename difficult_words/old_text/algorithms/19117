@@ -1,0 +1,3 @@
+
+Frey and Dueck (Reports, 16 February 2007, p. 972) described an algorithm termed "affinity propagation" (AP) as a promising alternative to traditional data clustering procedures. We demonstrate that a well-established heuristic for the p-median problem often obtains clustering solutions with lower error than AP and produces these solutions in comparable computation time.
+

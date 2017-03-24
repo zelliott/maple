@@ -1,0 +1,3 @@
+
+This study introduces a combination of two registration techniques for respiratory motion removal and the quantification of small bowel motility from free breathing cine MRI. The use of robust data decomposition registration (RDDR) allows for exclusive correction of respiratory motion in order to avoid errors in further analysis of motility due to the effects of breathing. The proposed method is assessed using regions of interest (ROIs) contoured in dynamic MRI of six healthy volunteers. The use of RDDR prior to motility quantification results in reduced errors on motility scores in ROIs, with respect to breath-holds.
+

@@ -1,0 +1,3 @@
+
+The critical adsorption of self-avoiding polymer chain in a simple cubic lattice onto a flat surface is studied with Monte Carlo simulations. The dependence of number of surface contacts M on chain length N and polymer-surface interaction epsilon is investigated by a finite-size scaling approach. We estimate the critical adsorption point epsilon(c)=0.291+/-0.002 and the exponent phi=0.54+/-0.01. The asymptotic behaviors M proportional variant N for epsilon>>epsilon(c) and M proportional variant N(0) for epsilon<<epsilon(c) are also obtained from the finite-size scaling relation. We have also estimated the critical adsorption point by using Binder's cumulant method as well as configurational properties.
+

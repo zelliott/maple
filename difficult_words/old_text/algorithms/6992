@@ -1,0 +1,3 @@
+
+A fast algorithm for localising multiple current dipoles in the human brain by measuring the external magnetic field is presented. A genetic algorithm is used first for rough estimate of locations. To speed up the global optimisation algorithm, an explicit solution for a spherical head model is used for the rough estimation. This rough estimate is then used as a start for a fine search using a gradient-based algorithm, in which a boundary element solution for a realistic brain-shaped head model is used. Numerical simulation indicates that the present algorithm converges three-four times faster than an algorithm using a brain-shaped head model in all the steps.
+

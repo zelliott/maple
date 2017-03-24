@@ -1,0 +1,9 @@
+
+To develop a new pulse sequence called time-resolved angiography with stochastic trajectories (TWIST) Dixon for dynamic contrast enhanced magnetic resonance imaging (DCE-MRI).
+
+The method combines dual-echo Dixon to generate separated water and fat images with a k-space view-sharing scheme developed for 3D TWIST. The performance of TWIST Dixon was compared with a volume interpolated breathhold examination (VIBE) sequence paired with spectrally selective adiabatic inversion Recovery (SPAIR) and quick fat-sat (QFS) fat-suppression techniques at 3.0T using quantitative measurements of fat-suppression accuracy and signal-to-noise ratio (SNR) efficiency, as well as qualitative breast image evaluations.
+
+The water fraction of a uniform phantom was calculated from the following images: 0.66 ± 0.03 for TWIST Dixon; 0.56 ± 0.23 for VIBE-SPAIR, and 0.53 ± 0.14 for VIBE-QFS, while the reference value is 0.70 measured by spectroscopy. For phantoms with contrast (Gd-BOPTA) concentration ranging from 0-6 mM, TWIST Dixon also provides consistently higher SNR efficiency (3.2-18.9) compared with VIBE-SPAIR (2.8-16.8) and VIBE-QFS (2.4-12.5). Breast images acquired with TWIST Dixon at 3.0T show more robust and uniform fat suppression and superior overall image quality compared with VIBE-SPAIR.
+
+The results from phantom and volunteer evaluation suggest that TWIST Dixon outperforms conventional methods in almost every aspect and it is a promising method for DCE-MRI and contrast-enhanced perfusion MRI, especially at higher field strength where fat suppression is challenging.
+

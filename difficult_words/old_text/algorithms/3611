@@ -1,0 +1,9 @@
+
+To investigate the application of time-resolved vastly undersampled isotropic projection reconstruction (VIPR) in contrast-enhanced magnetic resonance angiography of the distal extremity (single station), and peripheral run-off vasculature in the abdomen, thigh, and calf (three stations).
+
+Time-resolved distal extremity imaging was performed using VIPR sequence through the comparison of two acquisition matrix sizes: 256 with TR/TE=3.7/1.4 msec and 320 with TR/TE=4.5/1.8 msec under the same scan time of two minutes. VIPR acquisition was combined with a bolus-chase technique to image the peripheral run-off vasculature. The time-resolved images were reconstructed using a revised sliding window reconstruction filter whose temporal aperture remained narrow for low spatial frequencies and increased quadratically to include all the projection data for high spatial frequencies.
+
+The new temporal filter significantly suppressed the undersampling streak artifacts and venous contamination, while maintaining a high temporal resolution. Both high spatial resolution (ranging from 1.56 x 1.56 x 1.56 mm to 1.25 x 1.25 x 1.25 mm) and high temporal resolution (three seconds per frame) distal extremity images and peripheral run-off images were generated using time-resolved VIPR acquisition, which provides isotropic spatial resolution and isotropic coverage.
+
+Time-resolved VIPR acquisition was demonstrated to be well suited for distal extremity imaging by providing isotropic spatial resolution, isotropic coverage, and high temporal resolution. The combination of time-resolved VIPR and bolus chase technique provided a novel approach for peripheral run-off examinations.
+

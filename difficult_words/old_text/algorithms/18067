@@ -1,0 +1,7 @@
+
+An important method to quantify the effects of recombination on populations is to estimate the minimum number of recombination events, Rmin, in the history of a DNA sample. People have focused on estimating the lower bound of Rmin, because it is also a valid lower bound for the true number of recombination events occurred. Current approaches for estimating the lower bound are under the assumption of the infinite site model and do not allow for recurrent mutations. However, recurrent mutations are relatively common in genes with high mutation rates or mutation hot-spots, such as those in the genomes of bacteria or viruses.
+
+In this paper two new algorithms were proposed for estimating the lower bound of Rmin under the infinite site model. Their performances were compared to other bounds currently in use. The new lower bounds were further extended to allow for recurrent mutations. Application of these methods were demonstrated with two haplotype data sets.
+
+These new algorithms would help to obtain a better estimation of the lower bound of Rmin under the infinite site model. After extension to allow for recurrent mutations, they can produce robust estimations with the existence of high mutation rate or mutation hot-spots. They can also be used to show different combinations of recurrent mutations and recombinations that can produce the same polymorphic pattern in the sample.
+

@@ -1,0 +1,3 @@
+
+In this work, we show a mathematical model for the angiogenesis by endothelial cells. We present the model at the level of partial differential equations, describing the spatiotemporal evolution of the cell population, the extracellular matrix macromolecules, the proteases, the tumor angiogenic factors, and the possible presence of inhibitors. We mainly focus, however, on a complementary, more physiologically realistic, hybrid approach in which the cells are treated as individual particles. We examine the model numerically in two-dimensional settings, discussing its comparison with experimental results.
+

@@ -1,0 +1,5 @@
+
+Group contribution methods are frequently used for estimating physical properties of compounds from their molecular structures. An algorithm for estimating Gibbs energies of formation through group contribution methods has been automated in an object-oriented framework. The algorithm decomposes compound structures according to a basis set of groups. It permits the use of wildcards and is able to distinguish between ring groups and chain groups that use similar search structures. Past methods relied on manual decomposition of compounds into constituent groups.
+
+The software is written in Common LISP and requires < 2 min to estimate Gibbs energies of formation for a database of 780 species of varying size and complexity. The software allows rapid expansion to incorporate different basis sets and to estimate a variety of other physical properties.
+

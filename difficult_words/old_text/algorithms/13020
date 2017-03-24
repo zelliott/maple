@@ -1,0 +1,7 @@
+
+Researchers in systems biology use network visualization to summarize the results of their analysis. Such networks often include unconnected components, which popular network alignment algorithms place arbitrarily with respect to the rest of the network. This can lead to misinterpretations due to the proximity of otherwise unrelated elements.
+
+We propose a new network layout optimization technique called FragViz which can incorporate additional information on relations between unconnected network components. It uses a two-step approach by first arranging the nodes within each of the components and then placing the components so that their proximity in the network corresponds to their relatedness. In the experimental study with the leukemia gene networks we demonstrate that FragViz can obtain network layouts which are more interpretable and hold additional information that could not be exposed using classical network layout optimization algorithms.
+
+Network visualization relies on computational techniques for proper placement of objects under consideration. These algorithms need to be fast so that they can be incorporated in responsive interfaces required by the explorative data analysis environments. Our layout optimization technique FragViz meets these requirements and specifically addresses the visualization of fragmented networks, for which standard algorithms do not consider similarities between unconnected components. The experiments confirmed the claims on speed and accuracy of the proposed solution.
+

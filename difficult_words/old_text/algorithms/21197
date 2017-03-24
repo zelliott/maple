@@ -1,0 +1,3 @@
+
+This paper presents a discrete mixture model as a suitable approach for the analysis of chronic pain data, when they are expressed by means of ordered scores (ratings). The model is developed to allow for covariates effects; parameters estimation by maximum likelihood (using an E-M algorithm) and related inferential issues are discussed. A case-study concerning the assessment of pain (for a given pathology) and the effect of patients' covariates (e.g., gender, depression state) is illustrated. Besides, the same covariates are considered also for explaining the disruption in everyday lifestyle due to the chronic pain condition.
+

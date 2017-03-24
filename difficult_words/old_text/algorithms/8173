@@ -1,0 +1,3 @@
+
+Logistic regression is commonly used to test for treatment effects in observational studies. If the distribution of a continuous covariate differs between treated and control populations, logistic regression yields an invalid hypothesis test even in an uncounfounded study if the link is not logistic. This flaw is not corrected by the commonly used technique of discretizing the covariate into intervals. A valid test can be obtained by discretization followed by regression adjustment within each interval.
+

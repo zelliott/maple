@@ -1,0 +1,11 @@
+
+The Parkinson's Disease Questionnaire (PDQ-39) is the most widely used Parkinson's specific measure of health status. It is increasingly used in treatment trials, sometimes as a primary end-point, where any missing data can potentially cause difficulties in analyses.
+
+The purpose of this article is to evaluate the Expectation Maximisation (EM) algorithm for the imputation of missing dimension scores on the 39-item PDQ-39.
+
+A postal survey of patients diagnosed with Parkinson's disease (PD). A total of 1,372 patients were surveyed and 839 (61.15%) questionnaires returned completed or partially completed. Of these, complete PDQ data were available in 715 (85.22%) cases. Data were deleted from this complete dataset and a sub-set of 200 respondents from this dataset and then imputed using the EM algorithm; results were then compared to the dataset before data deletion.
+
+Results gained from imputation of data closely mirrored that of the complete dataset in each case. Descriptive statistics, mean scores and spread of scores were almost identical between original and imputed datasets. Furthermore, original and imputed datasets were highly correlated [intra-class correlation coefficient (ICC) = 0.93 or greater], and mean differences were small (+/-1.00).
+
+The results suggest that the use of EM for the PDQ-39 provides data that closely mirrors the original when this has been deliberately removed. Consequently, EM is likely to be appropriate for trials using the PDQ that contains missing data points.
+

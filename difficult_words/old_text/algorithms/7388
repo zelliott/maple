@@ -1,0 +1,9 @@
+
+Many biological processes are carried out by proteins interacting with each other in the form of protein complexes. However, large-scale detection of protein complexes has remained constrained by experimental limitations. As such, computational detection of protein complexes by applying clustering algorithms on the abundantly available protein-protein interaction (PPI) networks is an important alternative. However, many current algorithms have overlooked the importance of selecting seeds for expansion into clusters without excluding important proteins and including many noisy ones, while ensuring a high degree of functional homogeneity amongst the proteins detected for the complexes.
+
+We designed a novel method called Probabilistic Local Walks (PLW) which clusters regions in a PPI network with high functional similarity to find protein complex cores with high precision and efficiency in O (|V| log |V| + |E|) time. A seed selection strategy, which prioritises seeds with dense neighbourhoods, was devised. We defined a topological measure, called common neighbour similarity, to estimate the functional similarity of two proteins given the number of their common neighbours.
+
+Our proposed PLW algorithm achieved the highest F-measure (recall and precision) when compared to 11 state-of-the-art methods on yeast protein interaction data, with an improvement of 16.7% over the next highest score. Our experiments also demonstrated that our seed selection strategy is able to increase algorithm precision when applied to three previous protein complex mining techniques.
+
+The software, datasets and predicted complexes are available at http://wonglkd.github.io/PLW.
+

@@ -1,0 +1,7 @@
+
+One of the first steps in metagenomic analysis is the assignment of reads/contigs obtained from various sequencing technologies to their correct taxonomic bins. Similarity-based binning methods assign a read to a taxon/clade, based on the pattern of significant BLAST hits generated against sequence databases. Existing methods, which use bit-score as the sole parameter to ascertain the significance of BLAST hits, have limited specificity and accuracy of binning. A new binning algorithm, called SOrt-ITEMS is introduced, which addresses these limitations. The method uses alignment parameters besides the bit score to first identify an appropriate taxonomic level where the read can be assigned. An orthology-based approach is subsequently used by the method for the final assignment.
+
+The performance of SOrt-ITEMS has been validated with reads simulating sequences from 454 and Sanger sequencing technologies. In addition, the taxonomic composition of the Sargasso Sea data set has been analyzed using SOrt-ITEMS. SOrt-ITEMS shows improved specificity and accuracy of assignments especially in simulated scenarios, wherein sequences corresponding to the source organism of the reads are absent in the reference database.
+
+SOrt-ITEMS software is available for download from: http://metagenomics.atc.tcs.com/binning/SOrt-ITEMS. No license is needed for academic and nonprofit use.
+

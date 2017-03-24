@@ -1,0 +1,7 @@
+
+An algorithm for the analysis of Affymetrix Genechips is presented. This algorithm, referred to as the Inverse Langmuir Method (ILM), estimates the binding of transcripts to complementary probes using DNA/RNA hybridization free energies, and the hybridization between partially complementary transcripts in solution using RNA/RNA free energies. The balance between these two competing reactions allows for the translation of background-subtracted intensities into transcript concentrations.
+
+To validate the ILM, it is applied to publicly available microarray data from a multi-lab comparison study. Here, microarray experiments are performed on samples which deviate only in few genes. The log2 fold change between these two samples, as obtained from RT-PCR experiments, agrees well with the log2 fold change as obtained with the ILM, indicating that the ILM determines changes in the expression level accurately. We also show that the ILM allows for the identification of outlying probes, as it yields independent concentration estimates per probe.
+
+The ILM is robust and offers an interesting alternative to purely statistical algorithms for microarray data analysis.
+

@@ -1,0 +1,5 @@
+
+The aims were to: enable users to deposit complex search profiles against the sequence databases; interface to an independent Sequence Retrieval System (SRS) server through the network to perform these searches on a daily basis through the last day's updates of these databases; mail users the reformatted search results, enabling local usage when loaded by a WWW browser.
+
+The deposition of one to many search profiles by the user leads to a daily search of the EMBL and SWISSPROT databases. The search profile is restricted to entries that were deposited during the last 24 h by using the SRS query manager to combine search sets. If the search is successful, the resulting html page is modified from relative URLs to absolute ones, enabling local usage by loading from disk. The results are sent to the user by e-mail.
+

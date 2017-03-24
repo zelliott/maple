@@ -1,0 +1,3 @@
+
+In the area of medical image analysis, 3D multimodality image registration is an important issue. In the processing of registration, an optimization approach has been applied to estimate the transformation of the reference image and target image. Some local optimization techniques are frequently used, such as the gradient descent method. However, these methods need a good initial value in order to avoid the local resolution. In this paper, we present a new improved global optimization approach named hybrid particle swarm optimization (HPSO) for medical image registration, which includes two concepts of genetic algorithms-subpopulation and crossover.
+

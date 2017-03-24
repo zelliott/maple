@@ -1,0 +1,9 @@
+
+Inter-laboratory experiments are conducted to assess how accurately and reproducibly various laboratories using different methods, instruments, analysts, and/or sample preparation procedures can perform measurements, in this case, the concentration of a chemical. In this work a 3-step methodology is proposed to analyze inter-laboratory experiments.
+
+A simulation study based on 500 simulations was conducted for a cluster of 12 laboratories with different population means and SDs. The sample sizes varied from 10 to 50. Laboratories with too high a variance or too high a mean were recursively identified and removed by analysis of variance techniques. Outliers were identified and removed by a recursive algorithm. The remaining data were used to compute consensus mean, SD, repeatability, reproducibility, and CV for repeatability and reproducibility.
+
+Two laboratories with too high a variance were always identified for removal when the sample size was >/=20. Two laboratories with too high a mean were almost always identified irrespective of sample size. The average observed percent bias was never >+/-3.2% irrespective of the sample size. The average percent imprecision was also within +/-10.4% for all laboratories. The average CV was close to what was expected.
+
+With an optimal sample size of 20, the 3-step methodology presented here will adequately identify laboratories with variances or means that are too high or too low.
+

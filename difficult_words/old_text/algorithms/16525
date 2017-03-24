@@ -1,0 +1,9 @@
+
+To develop a semi-mechanistic population pharmacokinetic model based on gastric emptying function for acetaminophen plasma concentration in critically ill patients tolerant and intolerant to enteral nutrition before and after prokinetic therapy.
+
+Acetaminophen plasma concentrations were available from a study with 10 tolerant and 20 intolerant patients before and after prokinetic therapy with either erythromycin or metoclopramide. Population pharmacokinetic modelling was carried out in a nonlinear mixed effects analysis software, NONMEM.
+
+A four-compartment semi-mechanistic model for stomach, intestine, central and peripheral compartments was described. The rate of emptying of the stomach was described by a first-order rate parameter. The final model has two gastric emptying rate constant parameters: kg1 (1.30 h(-1), RSE=53.84%, T1/2=0.53 h) for the intolerant group before prokinetic therapy and kg2 (27.8 h(-1), RSE=59.35%, T1/2=0.025 h) for both the intolerant group after prokinetic therapy and the tolerant group. Other parameters and estimates (RSE) in the model were ka=5.12 h(-1) (28.13%), CL=13.0 L/h (19.62%), CLD=22.6 L/h (19.78%), V1=63.8 L (12.79%) and V2=69 L (38.70%).
+
+The four-compartment semi-mechanistic population pharmacokinetic model adequately described the data. The gastric emptying half-time is improved by a factor of about 20 in the patients that are intolerant to enteral nutrition after treatment with prokinetic agents.
+

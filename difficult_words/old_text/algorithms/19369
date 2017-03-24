@@ -1,0 +1,7 @@
+
+Membrane proteins are estimated to represent about 25% of open reading frames in fully sequenced genomes. However, the experimental study of proteins remains difficult. Considerable efforts have thus been made to develop prediction methods. Most of these were conceived to detect transmembrane helices in polytopic proteins. Alternatively, a membrane protein can be monotopic and anchored via an amphipathic helix inserted in a parallel way to the membrane interface, so-called in-plane membrane (IPM) anchors. This type of membrane anchor is still poorly understood and no suitable prediction method is currently available.
+
+We report here the "AmphipaSeeK" method developed to predict IPM anchors. It uses a set of 21 reported examples of IPM anchored proteins. The method is based on a pattern recognition Support Vector Machine with a dedicated kernel.
+
+AmphipaSeeK was shown to be highly specific, in contrast with classically used methods (e.g. hydrophobic moment). Additionally, it has been able to retrieve IPM anchors in naively tested sets of transmembrane proteins (e.g. PagP). AmphipaSeek and the list of the 21 IPM anchored proteins is available on NPS@, our protein sequence analysis server.
+

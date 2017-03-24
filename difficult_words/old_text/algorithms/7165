@@ -1,0 +1,3 @@
+
+The discrete-time fractional Gaussian noise (DFGN) has been proven to be a regular process. According to Wold and Kolmogorov theorems, this process can be described as an autoregressive (AR) model of an infinite order. An estimator for the Hurst exponent based on autoregressive power spectrum estimation has been proposed, but without considering order selection. In this paper, six common order selection methods for the AR model were used to select appropriate orders of the AR model in order to raise the accuracy of estimating the Hurst exponent. Experimental results show that these six AR methods with considering order selection are more accurate than the original AR method without considering order selection.
+

@@ -1,0 +1,3 @@
+
+The integration of mathematical modeling with analytical experimentation in an iterative fashion is a powerful approach to advance our understanding of the architecture and regulation of metabolic networks. Ultimately, such knowledge is highly valuable to support efforts aimed at modulating flux through target pathways by molecular breeding and/or metabolic engineering. In this article we describe a kinetic mathematical model of peppermint essential oil biosynthesis, a pathway that has been studied extensively for more than two decades. Modeling assumptions and approximations are described in detail. We provide step-by-step instructions on how to run simulations of dynamic changes in pathway metabolites concentrations.
+

@@ -1,0 +1,9 @@
+
+Use of internal margins to account for respiratory motion of the target volumes is a common strategy in radiotherapy of mobile tumors. Although efficient for tumor coverage, this expansion also risks increased toxicity to nearby healthy organs and therefore requires a careful selection of appropriate margins. In this study, we demonstrate an optimization of the internal margin used to account for respiration motion.
+
+Three-dimensional conformal treatment plans for phantom spherical target volumes as well as clinical treatment plans of 11 patients were evaluated retrospectively for optimum internal margin selection. A software-based simulation of respiration motion was performed for all cases. Moreover, the interplay with treatment setup uncertainties and corresponding margins was investigated in the phantom study.
+
+Optimum internal margins in both phantom and patient studies were found to be substantially smaller than the actual target displacement due to respiration. The optimal internal margin was also observed to be approximately independent of the setup margins. Furthermore, no statistically significant dependence on target size and shape was observed in the group of 11 patients.
+
+These findings present significant implications for treatment planning of mobile targets, such as tumors found in the lung and upper abdomen. We conclude that the full motion amplitude for the internal margin is overly conservative, and optimization of the internal margin provides improved sparing of nearby organs at risk without sacrificing dosimetric coverage for the target.
+

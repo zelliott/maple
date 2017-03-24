@@ -1,0 +1,3 @@
+
+We present a novel enhancement to matrix-assisted laser desorption ionization (MALDI) post-source decay (PSD) analysis whereby fragment ions from multiple precursor ions are acquired into the same spectrum without employing a timed ion gate to preselect each parent ion. Fragment ions are matched to their corresponding precursor ions by comparing spectra acquired at slightly different reflectron electric fields. By measuring the difference in time-of-flight (TOF) between the two spectra for each fragment, it is possible to calculate the mass of the fragment ion and its parent. This new "parallel PSD" technique reduces analysis time and consumes less sample than conventional PSD, which requires an ion gate for serial preselection of precursor ions.
+

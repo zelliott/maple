@@ -1,0 +1,7 @@
+
+Qvality is a C++ program for estimating two types of standard statistical confidence measures: the q-value, which is an analog of the p-value that incorporates multiple testing correction, and the posterior error probability (PEP, also known as the local false discovery rate), which corresponds to the probability that a given observation is drawn from the null distribution. In computing q-values, qvality employs a standard bootstrap procedure to estimate the prior probability of a score being from the null distribution; for PEP estimation, qvality relies upon non-parametric logistic regression. Relative to other tools for estimating statistical confidence measures, qvality is unique in its ability to estimate both types of scores directly from a null distribution, without requiring the user to calculate p-values.
+
+A web server, C++ source code and binaries are available under MIT license at http://noble.gs.washington.edu/proj/qvality.
+
+Supplementary data are available at Bioinformatics online.
+

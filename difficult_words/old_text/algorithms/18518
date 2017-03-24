@@ -1,0 +1,9 @@
+
+To present the preliminary results of a method for semiautomated detection of fat and hematopoietic cells as well as trabecular surfaces in bone marrow biopsies in order to calculate the percentage of each type of tissue or cell area in relation to the whole area.
+
+The results were derived from selected clinical cases. Twenty-six biopsies were used, presenting varied distributions of cellularity and trabecular topography. The approach is based on digital image processing techniques and pattern recognition methods using textural features obtained from biopsy images. The results were improved with mathematical morphology filters.
+
+A low computational cost algorithm is obtained that produces highly satisfactory results. The method is faster and more reproducible than conventional ones, such as region growing, edge detection, splitting and merging.
+
+The results with this computer-assisted technique were compared to those obtained by visual inspection by 2 expert pathologists, and differences of < 9% were observed.
+

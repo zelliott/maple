@@ -1,0 +1,3 @@
+
+Segmentation of CT volume data is important and useful in non-destructive testing and evaluating. To eliminate the artifacts influence, we propose a new approach of 3D defect segmentation using two steps. First of all, an initial segmentation using 3D morphological method is performed. The initial segmentation results include false defects. Secondly, resample in polar coordinates method is performed. The experimental results prove that our method is effective to correctly segment 3D defects and eliminate false segmentation. Some experiments on CT volume data with noise are made, the results show that our method is also useful.
+

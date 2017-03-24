@@ -1,0 +1,9 @@
+
+The objectives of this study were to develop a shape-constraint region-growing algorithm to automatically delineate liver metastases on computed tomography images and to compare automated tumor measurements with those outlined manually by radiologists.
+
+The algorithm starts with a manual selection of a seed lesion region of interest (ROI). Based on intensity distributions of the seed ROI and the liver parenchyma, several parameters are computed and used to adaptively guide the region growing. To prevent the region growing from leaking into surrounding tissues of similar characteristics, specific shape constraints, including a local shape, a global shape, and a gravity-shift index, are developed to jointly control the iteration of the region growing. The algorithm was applied to 59 lesions in 14 patients with liver metastases. The maximal diameter (unidimension), the product of the maximal and maximal perpendicular diameters (bidimension), and the area in the axial plane were calculated for each of the segmented lesions. Three independent radiologists manually measured all the lesions once, and one of the radiologists measured each lesion 3 times. For each measurement, the concordance correlation coefficient (CCC) was used to assess the pairwise agreement between the computer and the different radiologists, and the overall concordance correlation coefficient (OCCC) was used to assess the agreement between the computer and the multiple radiologists and between the one radiologist's 3 readings.
+
+Fifty-three of 59 (89.8%) lesions in 14 patients with liver metastases were successfully segmented using this algorithm. The algorithm achieved a median accuracy of 88.0%. CCCs/OCCCs ranged from 0.943 to 0.999 with 95% confidence intervals.
+
+High accuracy and CCCs/OCCCs suggested that measurements made by the computer were very similar to those made by the radiologists.
+

@@ -1,0 +1,3 @@
+
+Our proposed method combines semi supervised learning (SSL) and active learning (AL) for automatic detection and segmentation of Crohn's disease (CD) from abdominal magnetic resonance (MR) images. Random forest (RF) classifiers are used due to fast SSL classification and capacity to interpret learned knowledge. Query samples for AL are selected by a novel information density weighted approach using context information, semantic knowledge and labeling uncertainty. Experimental results show that our proposed method combines the advantages of SSL and AL, and with fewer samples achieves higher classification and segmentation accuracy over fully supervised methods.
+

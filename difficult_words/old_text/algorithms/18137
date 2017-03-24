@@ -1,0 +1,11 @@
+
+To assess the ability of regression tree boosting to risk-adjust health care cost predictions, using diagnostic groups and demographic variables as inputs. Systems for risk-adjusting health care cost, described in the literature, have consistently employed deterministic models to account for interactions among diagnostic groups, simplifying their statistical representation, but sacrificing potentially useful information. An alternative is to use a statistical learning algorithm such as regression tree boosting that systematically searches the data for consequential interactions, which it automatically incorporates into a risk-adjustment model that is customized to the population under study.
+
+Administrative data for over 2 million enrollees in indemnity, preferred provider organization (PPO), and point-of-service (POS) plans from Thomson Medstat's Commercial Claims and Encounters database.
+
+The Agency for Healthcare Research and Quality's Clinical Classification Software (CCS) was used to sort 2001 diagnoses into 260 diagnosis categories (DCs). For each plan type (indemnity, PPO, and POS), boosted regression trees and main effects linear models were fitted to predict concurrent (2001) and prospective (2002) total health care cost per patient, given DCs and demographic variables.
+
+Regression tree boosting explained 49.7-52.1 percent of concurrent cost variance and 15.2-17.7 percent of prospective cost variance in independent test samples. Corresponding results for main effects linear models were 42.5-47.6 percent and 14.2-16.6 percent.
+
+The combination of regression tree boosting and a diagnostic grouping scheme, such as CCS, represents a competitive alternative to risk-adjustment systems that use complex deterministic models to account for interactions among diagnostic groups.
+

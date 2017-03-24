@@ -1,0 +1,3 @@
+
+An analytical approach is developed for reconstructing site-specific methyl-bearing protein side-chain conformational energy surfaces from NMR methyl axis order parameters (O(axis)(2)). Application of an enhanced sampling algorithm (adaptive biasing force) to molecular dynamics simulation of a protein, calcium-bound calmodulin, reveals a nonlinear correlation between O(axis)(2) and the populations of rotamer states of protein side-chains, permitting the rotamer populations to be extracted directly from O(axis)(2). The analytical approach yields side-chain conformational distributions that are in excellent agreement with those obtained from the enhanced-sampling MD results.
+

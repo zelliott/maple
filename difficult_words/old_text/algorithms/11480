@@ -1,0 +1,9 @@
+
+We developed and validated a heart failure (HF) risk score combining daily measurements of multiple device-derived parameters.
+
+Heart failure patients from clinical studies with implantable devices were used to form two separate data sets. Daily HF scores were estimated by combining changes in intra-thoracic impedance, atrial fibrillation (AF) burden, rapid rate during AF, %CRT pacing, ventricular tachycardia, night heart rate, heart rate variability, and activity using a Bayesian model. Simulated monthly follow-ups consisted of looking back at the maximum daily HF risk score in the preceding 30 days, categorizing the evaluation as high, medium, or low risk, and evaluating the occurrence of HF hospitalizations in the next 30 days. We used an Anderson-Gill model to compare survival free from HF events in the next 30 days based on risk groups.
+
+The development data set consisted of 921 patients with 9790 patient-months of data and 91 months with HF hospitalizations. The validation data set consisted of 1310 patients with 10 655 patient-months of data and 163 months with HF hospitalizations. In the validation data set, 10% of monthly evaluations in 34% of the patients were in the high-risk group. Monthly diagnostic evaluations in the high-risk group were 10 times (adjusted HR: 10.0; 95% CI: 6.4-15.7, P < 0.001) more likely to have an HF hospitalization (event rate of 6.8%) in the next 30 days compared with monthly evaluations in the low-risk group (event rate of 0.6%).
+
+An HF score based on implantable device diagnostics can identify increased risk for HF hospitalization in the next 30 days.
+

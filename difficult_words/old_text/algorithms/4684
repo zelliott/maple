@@ -1,0 +1,5 @@
+
+pcaMethods is a Bioconductor compliant library for computing principal component analysis (PCA) on incomplete data sets. The results can be analyzed directly or used to estimate missing values to enable the use of missing value sensitive statistical methods. The package was mainly developed with microarray and metabolite data sets in mind, but can be applied to any other incomplete data set as well.
+
+http://www.bioconductor.org
+

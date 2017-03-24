@@ -1,0 +1,5 @@
+
+We present a general purpose implementation of variable length Markov models. Contrary to fixed order Markov models, these models are not restricted to a predefined uniform depth. Rather, by examining the training data, a model is constructed that fits higher order Markov dependencies where such contexts exist, while using lower order Markov dependencies elsewhere. As both theoretical and experimental results show, these models are capable of capturing rich signals from a modest amount of training data, without the use of hidden states.
+
+The source code is freely available at http://www.soe.ucsc.edu/~jill/src/
+

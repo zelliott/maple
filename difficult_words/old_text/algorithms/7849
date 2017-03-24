@@ -1,0 +1,3 @@
+
+In epidemiological models of infectious diseases the basic reproduction number 'R(0) is used as a threshold parameter to determine the threshold between disease extinction and outbreak. A graph-theoretic form of Gaussian elimination using digraph reduction is derived and an algorithm given for calculating the basic reproduction number in continuous time epidemiological models. Examples illustrate how this method can be applied to compartmental models of infectious diseases modelled by a system of ordinary differential equations. We also show with these examples how lower bounds for 'R(0) can be obtained from the digraphs in the reduction process.
+

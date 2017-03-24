@@ -1,0 +1,9 @@
+
+A better understanding of the biological phenomena observed in cells requires the creation and analysis of mathematical models of cellular metabolism and physiology. The formulation and study of such models must also be simplified as far as possible to cope with the increasing complexity demanded and exponential accumulation of the metabolic reconstructions computed from sequenced genomes.
+
+A mathematical simulation workbench, DBsolve, has been developed to simplify the derivation and analysis of mathematical models. It combines: (i) derivation of large-scale mathematical models from metabolic reconstructions and other data sources; (ii) solving and parameter continuation of non-linear algebraic equations (NAEs), including metabolic control analysis; (iii) solving the non-linear stiff systems of ordinary differential equations (ODEs); (iv) bifurcation analysis of ODEs; (v) parameter fitting to experimental data or functional criteria based on constrained optimization. The workbench has been successfully used for dynamic metabolic modeling of some typical biochemical networks (Dolgacheva et al., Biochemistry (Moscow), 6, 1063-1068, 1996; Goldstein and Goryanin, Mol. Biol. (Moscow), 30, 976-983, 1996), including microbial glycolytic pathways, signal transduction pathways and receptor-ligand interactions.
+
+DBsolve 5. 00 is freely available from http://websites.ntl.com/ approximately igor.goryanin.
+
+gzz78923@ggr.co.uk
+

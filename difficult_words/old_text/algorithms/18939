@@ -1,0 +1,3 @@
+
+Traditional deterministic approaches for simulation of chemically reacting systems fail to capture the randomness inherent in such systems at scales common in intracellular biochemical processes. In this manuscript, we briefly review the state of the art in discrete stochastic and multiscale algorithms for simulation of biochemical systems and we present the StochKit software toolkit.
+

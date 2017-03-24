@@ -1,0 +1,7 @@
+
+With the popularization of high-throughput techniques, the need for procedures that help in the biological interpretation of results has increased enormously. Recently, new procedures inspired in systems biology criteria have started to be developed.
+
+Here we present FatiScan, a web-based program which implements a threshold-independent test for the functional interpretation of large-scale experiments that does not depend on the pre-selection of genes based on the multiple application of independent tests to each gene. The test implemented aims to directly test the behaviour of blocks of functionally related genes, instead of focusing on single genes. In addition, the test does not depend on the type of the data used for obtaining significance values, and consequently different types of biologically informative terms (gene ontology, pathways, functional motifs, transcription factor binding sites or regulatory sites from CisRed) can be applied to different classes of genome-scale studies. We exemplify its application in microarray gene expression, evolution and interactomics.
+
+Methods for gene set enrichment which, in addition, are independent from the original data and experimental design constitute a promising alternative for the functional profiling of genome-scale experiments. A web server that performs the test described and other similar ones can be found at: http://www.babelomics.org.
+

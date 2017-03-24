@@ -1,0 +1,11 @@
+
+The aim of this study was to compare the accuracy of genetic tables and formal pharmacogenetic algorithms for warfarin dosing.
+
+Pharmacogenetic algorithms based on regression equations can predict warfarin dose, but they require detailed mathematical calculations. A simpler alternative, recently added to the warfarin label by the U.S. Food and Drug Administration, is to use genotype-stratified tables to estimate warfarin dose. This table may potentially increase the use of pharmacogenetic warfarin dosing in clinical practice; however, its accuracy has not been quantified.
+
+A retrospective cohort study of 1,378 patients from 3 anticoagulation centers was conducted. Inclusion criteria were stable therapeutic warfarin dose and complete genetic and clinical data. Five dose prediction methods were compared: 2 methods using only clinical information (empiric 5 mg/day dosing and a formal clinical algorithm), 2 genetic tables (the new warfarin label table and a table based on mean dose stratified by genotype), and 1 formal pharmacogenetic algorithm, using both clinical and genetic information. For each method, the proportion of patients whose predicted doses were within 20% of their actual therapeutic doses was determined. Dosing methods were compared using McNemar's chi-square test.
+
+Warfarin dose prediction was significantly more accurate (all p < 0.001) with the pharmacogenetic algorithm (52%) than with all other methods: empiric dosing (37%; odds ratio [OR]: 2.2), clinical algorithm (39%; OR: 2.2), warfarin label (43%; OR: 1.8), and genotype mean dose table (44%; OR: 1.9).
+
+Although genetic tables predicted warfarin dose better than empiric dosing, formal pharmacogenetic algorithms were the most accurate.
+

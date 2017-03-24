@@ -1,0 +1,3 @@
+
+Complexity of one-hidden-layer networks is studied using tools from nonlinear approximation and integration theory. For functions with suitable integral representations in the form of networks with infinitely many hidden units, upper bounds are derived on the speed of decrease of approximation error as the number of network units increases. These bounds are obtained for various norms using the framework of Bochner integration. Results are applied to perceptron networks.
+

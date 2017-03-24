@@ -1,0 +1,3 @@
+
+A comprehensive understanding of cancer progression may shed light on genetic and molecular mechanisms of oncogenesis, and provide important information for effective diagnosis and prognosis. We propose a multicategory logit model to identify genes that show significant correlations across multiple cancer stages. We have applied the approach on a Prostate Cancer (PCA) progression data and obtained a set of genes that show consistent trends across multiple stages. Further analysis based on multiple evidences demonstrates that our candidate list includes not only some well-known prostate-cancer-related genes, but also novel genes that have been confirmed very recently.
+

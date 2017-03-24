@@ -1,0 +1,7 @@
+
+Array-based comparative genomic hybridization (aCGH) is a high-throughput method for measuring genome-wide DNA copy number changes. Current aCGH methods have limited resolution, sensitivity and reproducibility. Microarrays for aCGH are available only for a few organisms and combination of aCGH data with expression data is cumbersome.
+
+We present a novel method of using commercial oligonucleotide expression microarrays for aCGH, enabling DNA copy number measurements and expression profiles to be combined using the same platform. This method yields aCGH data from genomic DNA without complexity reduction at a median resolution of approximately 17,500 base pairs. Due to the well-defined nature of oligonucleotide probes, DNA amplification and deletion can be defined at the level of individual genes and can easily be combined with gene expression data.
+
+A novel method of gene resolution analysis of copy number variation (graCNV) yields high-resolution maps of DNA copy number changes and is applicable to a broad range of organisms for which commercial oligonucleotide expression microarrays are available. Due to the standardization of oligonucleotide microarrays, graCNV results can reliably be compared between laboratories and can easily be combined with gene expression data using the same platform.
+

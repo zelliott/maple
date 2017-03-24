@@ -1,0 +1,3 @@
+
+In this paper, a class of impulsive interval neural networks with discrete and distributed time-varying delays is discussed. Several new sufficient conditions are obtained ensuring the existence, uniqueness, and global exponential stability of periodic solution (i.e., stationary oscillation) for the addressed models based on inequality analysis techniques. The obtained results can be checked easily by the linear matrix inequality control toolbox in MATLAB. Finally, two numerical examples are given to show the effectiveness of our results.
+

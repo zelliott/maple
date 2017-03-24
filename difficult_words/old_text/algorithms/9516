@@ -1,0 +1,9 @@
+
+To propose a new method to optimize the ordering of gradient directions in diffusion-weighted MRI so that partial scans have the best spherical coverage.
+
+Diffusion-weighted MRI often uses a spherical sampling scheme, which acquires images sequentially with diffusion-weighting gradients in unique directions distributed isotropically on the hemisphere. If not all of the measurements can be completed, the quality of diffusion tensors fitted to the partial scan is sensitive to the order of the gradient directions in the scanner protocol. If the directions are in a random order, then a partial scan may cover some parts of the hemisphere densely but other parts sparsely and thus provide poor spherical coverage. We compare the results of ordering with previously published methods for optimizing the acquisition in simulation.
+
+Results show that all methods produce similar results and all improve the accuracy of the estimated diffusion tensors significantly over unordered acquisitions.
+
+The new ordering method improves the spherical coverage of partial scans and has the advantage of maintaining the optimal coverage of the complete scan.
+

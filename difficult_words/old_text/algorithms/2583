@@ -1,0 +1,3 @@
+
+This review focuses on control strategies for robotic ankle systems in active and semiactive lower-limb orthoses, prostheses, and exoskeletons. Special attention is paid to algorithms for gait phase identification, adaptation to different walking conditions, and motion intention recognition. The relevant aspects of hardware configuration and hardware-level controllers are discussed as well. Control algorithms proposed for other actuated lower-limb joints (knee and/or hip), with potential applicability to the development of ankle devices, are also included.
+

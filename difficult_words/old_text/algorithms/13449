@@ -1,0 +1,3 @@
+
+Large-scale models of neuronal structures are needed to explore emergent properties of mammalian brains. Because these models have trillions of synapses, a major problem in their creation is synapse placement. Here we present a novel method for exploiting consistent fiber orientation in a neural tissue to perform a highly efficient modified plane-sweep algorithm, which identifies all regions of 3D overlaps between dendritic and axonal projection fields. The first step in placing synapses in physiological models is neurite-overlap detection, at large scales a computationally intensive task. We have developed an efficient "Staggered Walk" algorithm that can find all 3D overlaps of neurites where trillions of synapses connect billions of neurons.
+

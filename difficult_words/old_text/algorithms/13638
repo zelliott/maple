@@ -1,0 +1,7 @@
+
+Virtually all existing expectation-maximization (EM) algorithms for quantitative trait locus (QTL) mapping overlook the covariance structure of genetic effects, even though this information can help enhance the robustness of model-based inferences.
+
+Here, we propose fast EM and pseudo-EM-based procedures for Bayesian shrinkage analysis of QTLs, designed to accommodate the posterior covariance structure of genetic effects through a block-updating scheme. That is, updating all genetic effects simultaneously through many cycles of iterations.
+
+Simulation results based on computer-generated and real-world marker data demonstrated the ability of our method to swiftly produce sensible results regarding the phenotype-to-genotype association. Our new method provides a robust and remarkably fast alternative to full Bayesian estimation in high-dimensional models where the computational burden associated with Markov chain Monte Carlo simulation is often unwieldy. The R code used to fit the model to the data is provided in the online supplementary material.
+

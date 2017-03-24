@@ -1,0 +1,9 @@
+
+Nonparametric population modeling algorithms have a theoretical superiority over parametric methods to detect pharmacokinetic and pharmacodynamic subgroups and outliers within a study population.
+
+The authors created "Pmetrics," a new Windows and Unix R software package that updates the older MM-USCPACK software for nonparametric and parametric population modeling and simulation of pharmacokinetic and pharmacodynamic systems. The parametric iterative 2-stage Bayesian and the nonparametric adaptive grid (NPAG) approaches in Pmetrics were used to fit a simulated population with bimodal elimination (Kel) and unimodal volume of distribution (Vd), plus an extreme outlier, for a 1-compartment model of an intravenous drug.
+
+The true means (SD) for Kel and Vd in the population sample were 0.19 (0.17) and 102 (22.3), respectively. Those found by NPAG were 0.19 (0.16) and 104 (22.6). The iterative 2-stage Bayesian estimated them to be 0.18 (0.16) and 104 (24.4). However, given the bimodality of Kel, no subject had a value near the mean for the population. Only NPAG was able to accurately detect the bimodal distribution for Kel and to find the outlier in both the population model and in the Bayesian posterior parameter estimates.
+
+Built on over 3 decades of work, Pmetrics adopts a robust, reliable, and mature nonparametric approach to population modeling, which was better than the parametric method at discovering true pharmacokinetic subgroups and an outlier.
+

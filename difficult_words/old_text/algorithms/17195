@@ -1,0 +1,3 @@
+
+Doppler umbilical artery blood flow velocity waveform measurements are used in perinatal surveillance for the evaluation of fetal condition. There is an ongoing debate on the predictive value of Doppler measurements concerning the critical effect of the selection of parameters for the interpretation of Doppler waveforms. In this paper, we describe how neural network methods can be used both to discover relevant classification features and subsequently to classify Doppler umbilical artery blood flow velocity waveforms. Results obtained from 199 normal and high risk patients' umbilical artery waveforms highlighted a classification concordance varying from 90 to 98% accuracy.
+

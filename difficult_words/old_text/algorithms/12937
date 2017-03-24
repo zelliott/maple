@@ -1,0 +1,3 @@
+
+We extend a simple dipole approximation model to predict nonlinear scattering from small particles. This numerical method is known as Discrete Dipole Approximation (DDA) and has been extensively used to model linear scattering by small particles of various shapes and sizes. We show here that DDA can be used to efficiently model second harmonic scattering by small particles. Our results are compared with experimental data and other computational methods.
+

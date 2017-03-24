@@ -1,0 +1,3 @@
+
+This paper presents an algorithm for data interpolation and approximation used in the whole atria mapping. Multilevel B-splines are introduced to compute the whole atria surface through a set of irregularly spaced points and to draw the 3D isopotential map, which can reflect the conduction process of depolarization in complex arrhythmia such as atrial fibrillation.
+

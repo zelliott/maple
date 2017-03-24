@@ -1,0 +1,3 @@
+
+The paper describes an application of conformal predictors to diagnose breast cancer using proteomic mass spectrometry data provided by Leiden University Medical Center. Unlike many conventional classification systems, this approach allows us not just to classify samples, but add valid measures of confidence in our predictions for individual patients.
+

@@ -1,0 +1,9 @@
+
+This study aimed to identify and validate a gene expression signature for squamous cell carcinoma of the lung (SQCC).
+
+A published microarray dataset from 129 SQCC patients was used as a training set to identify the minimal gene set prognostic signature. This was selected using the MAximizing R Square Algorithm (MARSA), a novel heuristic signature optimization procedure based on goodness-of-fit (R square). The signature was tested internally by leave-one-out-cross-validation (LOOCV), and then externally in three independent public lung cancer microarray datasets: two datasets of non-small cell lung cancer (NSCLC) and one of adenocarcinoma (ADC) only. Quantitative-PCR (qPCR) was used to validate the signature in a fourth independent SQCC cohort.
+
+A 12-gene signature that passed the internal LOOCV validation was identified. The signature was independently prognostic for SQCC in two NSCLC datasets (total n = 223) but not in ADC. The lack of prognostic significance in ADC was confirmed in the Director's Challenge ADC dataset (n = 442). The prognostic significance of the signature was validated further by qPCR in another independent cohort containing 62 SQCC samples (hazard ratio, 3.76; 95% confidence interval, 1.10-12.87; P = 0.035).
+
+We identified a novel 12-gene prognostic signature specific for SQCC and showed the effectiveness of MARSA to identify prognostic gene expression signatures.
+

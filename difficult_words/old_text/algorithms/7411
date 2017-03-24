@@ -1,0 +1,7 @@
+
+De novo protein modeling approaches utilize 3-dimensional (3D) images derived from electron cryomicroscopy (CryoEM) experiments. The skeleton connecting two secondary structures such as α-helices represent the loop in the 3D image. The accuracy of the skeleton and of the detected secondary structures are critical in De novo modeling. It is important to measure the length along the skeleton accurately since the length can be used as a constraint in modeling the protein.
+
+We have developed a novel computational geometric approach to derive a simplified curve in order to estimate the loop length along the skeleton. The method was tested using fifty simulated density images of helix-loop-helix segments of atomic structures and eighteen experimentally derived density data from Electron Microscopy Data Bank (EMDB). The test using simulated density maps shows that it is possible to estimate within 0.5 Å of the expected length for 48 of the 50 cases. The experiments, involving eighteen experimentally derived CryoEM images, show that twelve cases have error within 2 Å.
+
+The tests using both simulated and experimentally derived images show that it is possible for our proposed method to estimate the loop length along the skeleton if the secondary structure elements, such as α-helices, can be detected accurately, and there is a continuous skeleton linking the α-helices.
+

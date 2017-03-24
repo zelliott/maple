@@ -1,0 +1,9 @@
+
+Cluster randomised controlled trials (CRCTs) are frequently used in health service evaluation. Assuming an average cluster size, required sample sizes are readily computed for both binary and continuous outcomes, by estimating a design effect or inflation factor. However, where the number of clusters are fixed in advance, but where it is possible to increase the number of individuals within each cluster, as is frequently the case in health service evaluation, sample size formulae have been less well studied.
+
+We systematically outline sample size formulae (including required number of randomisation units, detectable difference and power) for CRCTs with a fixed number of clusters, to provide a concise summary for both binary and continuous outcomes. Extensions to the case of unequal cluster sizes are provided.
+
+For trials with a fixed number of equal sized clusters (k), the trial will be feasible provided the number of clusters is greater than the product of the number of individuals required under individual randomisation (nI) and the estimated intra-cluster correlation (ρ). So, a simple rule is that the number of clusters (k) will be sufficient provided: [formula in text]. Where this is not the case, investigators can determine the maximum available power to detect the pre-specified difference, or the minimum detectable difference under the pre-specified value for power.
+
+Designing a CRCT with a fixed number of clusters might mean that the study will not be feasible, leading to the notion of a minimum detectable difference (or a maximum achievable power), irrespective of how many individuals are included within each cluster.
+

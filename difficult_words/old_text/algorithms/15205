@@ -1,0 +1,9 @@
+
+Local field potentials (LFPs) that carry information about the subject's motor intention have the potential to serve as a complement or alternative to spike signals for brain-machine interfaces (BMIs). The goal of this study is to assess the utility of LFPs for BMIs by characterizing the largely unknown information coding properties of multichannel LFPs.
+
+Two monkeys were implanted, each with a 16-channel electrode array, in the parietal reach region where both LFPs and spikes are known to encode the subject's intended reach target. We examined how multichannel LFPs recorded during a reach task jointly carry reach target information, and compared the LFP performance to simultaneously recorded multichannel spikes.
+
+LFPs yielded a higher number of channels that were informative about reach targets than spikes. Single channel LFPs provided more accurate target information than single channel spikes. However, LFPs showed significantly larger signal and noise correlations across channels than spikes. Reach target decoders performed worse when using multichannel LFPs than multichannel spikes. The underperformance of multichannel LFPs was mostly due to their larger noise correlation because noise de-correlated multichannel LFPs produced a decoding accuracy comparable to multichannel spikes. Despite the high noise correlation, decoders using LFPs in addition to spikes outperformed decoders using only spikes.
+
+These results demonstrate that multichannel LFPs could effectively complement spikes for BMI applications by yielding more informative channels. The utility of multichannel LFPs may be further augmented if their high noise correlation can be taken into account by decoders.
+

@@ -1,0 +1,3 @@
+
+This work presents an algorithm for collaborative control of an assistive semi-autonomous wheelchair. Our approach is based on a statistical machine learning technique to learn task variability from demonstration examples. The algorithm has been developed in the context of shared-control powered wheelchairs that provide assistance to individuals with impairments that affect their control in challenging driving scenarios, like doorway navigation. We validate our algorithm within a simulation environment, and find that with relatively few demonstrations, our approach allows for safe traversal of the doorway while maintaining a high level of user control.
+

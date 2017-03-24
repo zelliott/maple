@@ -1,0 +1,9 @@
+
+A new algorithm that uses a grid-based technique to solve the linear Boltzmann transport equation (LBTE) has been developed to improve the accuracy and speed of external photon beam treatment planning calculations. The aim of this study was to test the accuracy of this algorithm in both heterogeneous and homogeneous media.
+
+Output factors, depth dose curves and profiles for symmetric fields were measured in water using diamond and ionization chamber detectors. Furthermore, asymmetric fields, fields collimated with the multi-leaf collimator, enhanced dynamic wedge fields as well as fields with different source-skin distances were measured. Various test plans were created on a CIRS thorax phantom including tissue-equivalent inserts and corresponding dose distributions within the phantom were measured with radiochromic films. The new grid-based LBTE solver, Acuros XB (Eclipse version 10.0, Varian Medical Systems, CA, USA) was used to calculate dose distributions for all field configurations and plans, for both 6 MV and 15 MV photons. Calculations were also performed with AAA, a standard convolution algorithm.
+
+Compared to measurements, the output factors were within 1% for Acuros XB. For the depth doses, the average deviations were within 1% in dose and 1 mm in distance to agreement (DTA). For the profiles, the deviations were within 2%/1 mm except near the penumbra. Similar results were obtained for the other field configurations. Good agreement with AAA was also found. For the plans calculated on the CIRS phantom, the number of points meeting the gamma criterion of 3% in dose and 3 mm in DTA was higher with Acuros XB (98% for 6 MV; 100% for 15 MV) than with AAA (94% for 6 MV; 96% for 15 MV).
+
+Dose calculations with the Acuros XB algorithm in homogeneous media are in good agreement with both measurements and the AAA algorithm. In heterogeneous media, the Acuros XB algorithm is superior to AAA in both lung and bony material.
+

@@ -1,0 +1,7 @@
+
+Contigs-Assembly and Annotation Tool-Box (CAAT-Box) is a software package developed for the computational part of a genome project where the sequence is obtained by a shotgun strategy. CAAT-Box contains new tools to predict links between contigs by using similarity searches with other whole genome sequences. Most importantly, it allows annotation of a genome to commence during the finishing phase using a gene-oriented strategy. For this purpose, CAAT-Box creates an Individual Protein file (IPF) for each ORF of an assembly. The nucleotide sequence reported in an IPF corresponds to the sequence of the ORF with 500 additional bases before the ORF and 200 bases after. For annotation, additional information like Blast results can be added or linked to the IPFs as well as automatic and/or manual annotations. When a new assembly is performed, CAAT-Box creates new IPFs according to the old IPF panel. CAAT-Box recognizes the modified IPFs which are the only ones used for a new automatic analysis after each assembly. Using this strategy, the user works with a group of IPFs independently of the closure phase progression. The IPFs are accessible by a web server and can therefore be modified and commented by different groups.
+
+CAAT-Box was used to obtain and to annotate several complete genomes like Listeria monocytogenes or Streptococcus agalactiae.
+
+The program may be obtained from the authors and is freely available to non-profit organisations.
+

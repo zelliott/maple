@@ -1,0 +1,3 @@
+
+Saliency detection has been an attractive topic in recent years. The reliable detection of saliency can help a lot of useful processing without prior knowledge about the scene, such as content-aware image compression, segmentation, etc. Although many efforts have been spent in this subject, the feature expression and model construction are far from perfect. The obtained saliency maps are therefore not satisfying enough. In order to overcome these challenges, this paper presents a new psychologic visual feature based on differential threshold and applies it in a supervised Markov-random-field framework. Experiments on two public data sets and an image retargeting application demonstrate the effectiveness, robustness, and practicability of the proposed method.
+

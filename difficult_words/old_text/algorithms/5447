@@ -1,0 +1,7 @@
+
+Network inference from high-throughput data has become an important means of current analysis of biological systems. For instance, in cancer research, the functional relationships of cancer related proteins, summarised into signalling networks are of central interest for the identification of pathways that influence tumour development. Cancer cell lines can be used as model systems to study the cellular response to drug treatments in a time-resolved way. Based on these kind of data, modelling approaches for the signalling relationships are needed, that allow to generate hypotheses on potential interference points in the networks.
+
+We present the R-package 'ddepn' that implements our recent approach on network reconstruction from longitudinal data generated after external perturbation of network components. We extend our approach by two novel methods: a Markov Chain Monte Carlo method for sampling network structures with two edge types (activation and inhibition) and an extension of a prior model that penalises deviances from a given reference network while incorporating these two types of edges. Further, as alternative prior we include a model that learns signalling networks with the scale-free property.
+
+The package 'ddepn' is freely available on R-Forge and CRAN http://ddepn.r-forge.r-project.org, http://cran.r-project.org. It allows to conveniently perform network inference from longitudinal high-throughput data using two different sampling based network structure search algorithms.
+

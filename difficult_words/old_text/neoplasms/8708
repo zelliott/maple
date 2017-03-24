@@ -1,0 +1,3 @@
+
+We investigate a model of a cancer chemotherapy problem where the aim is to minimize the tumor burden at the end of the treatment period while maintaining a normal cell population above a lower level as a limit of toxicity. The analysis is performed for general classes of growth and loss functions. The optimal drug dose is maximum initially so that the normal cell population is driven down to its lower level, and then the drug level is chosen to maintain the normal cell population there until the end of treatment. During treatment the number of tumor cells is always decreasing.
+

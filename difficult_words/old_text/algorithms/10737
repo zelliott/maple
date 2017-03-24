@@ -1,0 +1,7 @@
+
+Many cutting-edge microarray analysis tools and algorithms, including commonly used limma and affy packages in Bioconductor, need sophisticated knowledge of mathematics, statistics and computer skills for implementation. Commercially available software can provide a user-friendly interface at considerable cost. To facilitate the use of these tools for microarray data analysis on an open platform we developed an online microarray data analysis platform, WebArray, for bench biologists to utilize these tools to explore data from single/dual color microarray experiments.
+
+The currently implemented functions were based on limma and affy package from Bioconductor, the spacings LOESS histogram (SPLOSH) method, PCA-assisted normalization method and genome mapping method. WebArray incorporates these packages and provides a user-friendly interface for accessing a wide range of key functions of limma and others, such as spot quality weight, background correction, graphical plotting, normalization, linear modeling, empirical bayes statistical analysis, false discovery rate (FDR) estimation, chromosomal mapping for genome comparison.
+
+WebArray offers a convenient platform for bench biologists to access several cutting-edge microarray data analysis tools. The website is freely available at http://bioinformatics.skcc.org/webarray/. It runs on a Linux server with Apache and MySQL.
+

@@ -1,0 +1,3 @@
+
+Reference-based methods have dominated the approaches to the particle selection problem, proving fast, and accurate on even the most challenging micrographs. A reference volume, however, is not always available and compiling a set of reference projections from the micrographs themselves requires significant effort to attain the same level of accuracy. We propose a reference-free method to quickly extract particles from the micrograph. The method is augmented with a new semi-supervised machine-learning algorithm to accurately discriminate particles from contaminants and noise.
+

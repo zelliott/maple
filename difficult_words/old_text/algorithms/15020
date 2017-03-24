@@ -1,0 +1,3 @@
+
+We have constructed a thermoacoustic computed tomography scanner for imaging soft tissue in the human body. Thermoacoustic signals are induced in soft tissue by irradiation with 434 MHz rf energy. The thermoacoustic signals are detected by an array of transducers mounted on a hemispherical bowl. A three-dimensional, filtered backprojection algorithm is used to reconstruct rf absorption patterns within soft tissue. We have demonstrated soft tissue differentiation sufficient to delineate the normal internal structures of an excised lamb kidney using safe levels of rf radiation.
+

@@ -1,0 +1,9 @@
+
+It is recommended that duplicate isolates are excluded when reporting resistance rates. The rationale for this is that failing to do so will yield falsely high resistance rates. We analysed a 14 year consecutive database of Escherichia coli (n=62,380) and Staphylococcus aureus (n=28,178) using various cut-off algorithms to determine the importance of excluding duplicates and principal differences between the bacteria.
+
+Susceptibility testing was performed according to the Swedish Reference Group for Antibiotics guidelines. Duplicates were excluded on the basis of species, individual and time (exclusion cut-offs of 7, 14, 30, 45, 90, 180, 270 and 365 days) from the first isolate.
+
+Although 30% of the isolates were excluded using a 365 day exclusion algorithm, the effects on resistance rates of excluding duplicates were small. Irrespective of cut-off, resistance in S. aureus decreased when duplicates were excluded. Using 7-30 days cut-offs, resistance in E. coli decreased or was not affected, whereas higher resistance rates were obtained when exclusion was based on a 365 day cut-off. Fluoroquinolone resistance was a clear exception to this rule.
+
+Although the effect of exclusion of duplicates was minor, we suggest that exclusion cut-offs should match the study timeline. The data presented on E. coli, from urinary tract infections, and S. aureus, from skin and soft tissue infections, suggest that E. coli infection, >90 days after the first culture, is mainly caused by new less-resistant strains. Patients with S. aureus continue to be colonized with the same strain.
+

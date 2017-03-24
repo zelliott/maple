@@ -1,0 +1,5 @@
+
+International sequencing efforts are creating huge nucleotide databases, which are used in searching applications to locate sequences homologous to a query sequence. In such applications, it is desirable that databases are stored compactly, that sequences can be accessed independently of the order in which they were stored, and that data can be rapidly retrieved from secondary storage, since disk costs are often the bottleneck in searching.
+
+We present a purpose-built direct coding scheme for fast retrieval and compression of genomic nucleotide data. The scheme is lossless, readily integrated with sequence search tools, and does not require a model. Direct coding gives good compression and allows faster retrieval than with either uncompressed data or data compressed by other methods, thus yielding significant improvements in search times for high-speed homology search tools.
+

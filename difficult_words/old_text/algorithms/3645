@@ -1,0 +1,7 @@
+
+Retrieval of information on biological processes from large-scale expression data is still a time-consuming task. An automated analysis utilizing all expression information would greatly increase our understanding of the samples under study.
+
+We describe here a novel method to obtain a functional analysis of complex gene expression data. Instead of applying a predefined expression threshold, Gene Ontology (GO) terms are weighted using the actual measured levels of expression of all associated genes. Based on this concept, the application GO-Mapper was developed to quantitatively link gene expression levels to GO-terms for multiple experiments in an automated way. The applicability of GO-Mapper was developed and validated on in house and public human microarray data and mouse SAGE data. We demonstrate that the GO-Mapper allows for interrelating relevant biological functions with the experiments under study.
+
+The GO-Mapper application is free of charge available from our website.
+

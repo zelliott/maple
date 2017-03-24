@@ -1,0 +1,3 @@
+
+Reliable quantitative analysis of white matter connectivity in the brain is an open problem in neuroimaging, with common solutions requiring tools for fiber tracking, tractography segmentation and estimation of intersubject correspondence. This paper proposes a novel, template matching approach to the problem. In the proposed method, a deformable fiber-bundle model is aligned directly with the subject tensor field, skipping the fiber tracking step. Furthermore, the use of a common template eliminates the need for tractography segmentation and defines intersubject shape correspondence. The method is validated using phantom DTI data and applications are presented, including automatic fiber-bundle reconstruction and tract-based morphometry.
+

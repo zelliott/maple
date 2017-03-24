@@ -1,0 +1,9 @@
+
+To evaluate the contribution of iterative reconstruction on image quality of reduced-dose multidetector computed tomography of the thoracic aorta.
+
+A torso phantom was scanned using two tube potentials (80 and 120 kVp) and five different tube currents (110, 75, 40, 20, and 10 mAs). All images were reconstructed with both filtered back projection (FBP) and iterative reconstruction. Aortic attenuation, image noise within the thoracic aorta, signal-to-noise ratio, and sharpness of the aortic wall were quantified in the phantom for the two reconstruction algorithms. Data were analyzed using paired t test. A value of P < 0.05 was considered significant.
+
+The aortic attenuation was similar for FBP and iterative reconstruction (P > 0.05). Image noise level was lower (P < 0.0001), and image sharpness was higher (P = 0.046) with iterative reconstruction. Signal-to-noise ratios were higher with iterative reconstruction compared with those with FBP (P < 0.0001). Signal-to-noise ratio at 80 kVp with iterative reconstruction (9.8 ± 4.4) was similar to the signal-to-noise ratio at 120 kVp with FBP (8.4 ± 3.3) (P = 0.196).
+
+Less image noise and higher image sharpness may be achieved with iterative reconstruction in reduced-dose multidetector computed tomography of the thoracic aorta.
+

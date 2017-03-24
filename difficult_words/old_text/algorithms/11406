@@ -1,0 +1,3 @@
+
+We propose a new method of optically reconstructing binary data formed by nanostructures with an elemental size several tens of nanometers smaller than the diffraction limit, implemented with an interference microscope and a complex-amplitude image pattern matching method. We examine the size dependency of the data reconstruction capacity using a light propagation simulation based on the finite-difference time-domain (FDTD) method and the Fourier spatial frequency filtering method. We demonstrated that the readable size of the binary nanostructure depends on the magnitude of noise.
+

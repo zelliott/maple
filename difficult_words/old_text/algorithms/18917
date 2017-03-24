@@ -1,0 +1,5 @@
+
+We present MutaGeneSys: a system that uses genome-wide genotype data to estimate disease susceptibility. Our system integrates three data sources: the International HapMap project, whole-genome marker correlation data and the Online Mendelian Inheritance in Man (OMIM) database. It accepts SNP data of individuals as query input and delivers disease susceptibility hypotheses even if the original set of typed SNPs is incomplete. Our system is scalable and flexible: it produces population, technology and confidence-specific predictions in interactive time.
+
+Our system is available as an online resource at http://magnet.c2b2.columbia.edu/mutagenesys/. Our findings have also been incorporated into the HapMap Genome Browser as the OMIM_Disease_Associations track.
+

@@ -1,0 +1,3 @@
+
+Bi-cubic parametric spline surface is applied for surface-fitting of the external surface and canal of tooth based on its crown-to-root, cross-sectional data obtained by X-ray scanning. For three-dimensional display of the fitted surfaces, a technique for fast removal of the hidden surfaces is also reported. The selection of the accumulated chord length or coordinate component as parameter make it possible to fit any kind of surface smoothly. For displaying or plotting a well-fitted surface, a method capable of discriminating the grades for sequential removal of the hidden surfaces is developed for substantial reduction of computing time.
+

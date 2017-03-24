@@ -1,0 +1,3 @@
+
+Software and hardware have been developed to create a powerful, inexpensive, compact digital signal processing system which in real-time extracts a low-bit rate linear predictive coding (LPC) speech system model. The model parameters derived include accurate spectral envelope, formant, pitch, and amplitude information. The system is based on the Texas Instruments TMS320 family, and the most compact realization requires only three chips (TMS320E17, A/D-D/A, op-amp), consuming a total of less than 0.5 W. The processor is part of programmable cochlear implant system under development by a multiuniversity Canadian team, but also has other applications in aids to the hearing handicapped.
+

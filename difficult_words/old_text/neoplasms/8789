@@ -1,0 +1,9 @@
+
+In Japan, population-based cancer incidence data are reported several years behind the latest year of cancer mortality data. To bridge this gap, we aimed to determine a short-term projection method for cancer incidence.
+
+Data between 1985 and 2007 were obtained from the population-based cancer registries in four prefectures (Miyagi, Yamagata, Fukui and Nagasaki). Three projection models were examined: generalized linear model with age and period (A + P linear); generalized linear model with age, period and their interactions (A*P linear); and generalized additive model with age, period and their interactions smoothed by spline (A*P spline). We performed a 5-year projection for the years 2000 and 2005, based on the data of 1985-95 and 1985-2000, respectively. Seven cancer sites (stomach, liver, colorectal, lung, female breast, cervix uteri and prostate) and all cancers combined were analyzed. The accuracy of projection was evaluated by whether each observed number fell within the 95% confidence interval of the projected number.
+
+The A*P spline model accurately projected 8 of 13 cancer site-sex combinations, whereas the number of site-sex combinations of accurate projection was 2 and 6 for A + P linear and A*P linear models, respectively. For liver and colorectal cancers, the A*P spline model alone performed accurate projections; the relative differences between projected and observed numbers of cancer incidence ranged between -0.4 and +10.9% for the A*P spline, and between +7.4 and +37.6% for the other two models. All three models failed to project sudden increases in prostate cancer between 2000 and 2005.
+
+The A*P spline model is a candidate method for the projection of cancer incidence in Japan. However, we need a continuous validation for prostate cancer.
+

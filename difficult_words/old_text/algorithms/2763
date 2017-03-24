@@ -1,0 +1,3 @@
+
+The inaccuracy of copy number variation (CNV) detection on single nucleotide polymorphism (SNP) arrays has recently been brought to attention. Such high error rates will undoubtedly have ramifications on downstream association testing. We examined this effect for a wide range of scenarios and found a noticeable decrease in power for error rates typical of CNV calling algorithms. We compared power using CNV calls to the log relative ratio and found the latter to be superior when error rates are moderate to large or when the CNV size is small. It is our recommendation that CNV researchers use intensity measurements as an alternative to CNV calls in these scenarios.
+

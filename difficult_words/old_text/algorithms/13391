@@ -1,0 +1,3 @@
+
+An algorithm was developed to obtain depth-resolved local optical axis in birefringent samples by using conventional polarization-sensitive optical coherence tomography (PSOCT) that uses a single circularly polarized incident light. The round-trip sample Jones matrices were first constructed from the cumulative PSOCT results. An iterative method was then applied to construct the depth-resolved local Jones matrix from which the local optical axis was calculated. The proposed algorithm was validated in samples with homogeneous axis and with depth-varying optical axis. Imaging examples were shown to demonstrate the capability of this method for extracting correct local axis and revealing features not evident in other images.
+

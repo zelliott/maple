@@ -1,0 +1,9 @@
+
+The trend of surgical robotics is to follow the evolution of laparoscopy, which is now moving towards single-incision laparoscopic surgery. The main drawback of this approach is the limited maneuverability of the surgical tools. Promising solutions to improve the surgeon's dexterity are based on bimanual robots. However, since both robot arms are completely inserted into the patient's body, issues related to possible unwanted collisions with structures adjacent to the target organ may arise.
+
+This paper presents a simulator based on patient-specific data for the positioning and workspace evaluation of bimanual surgical robots in the pre-operative planning of single-incision laparoscopic surgery.
+
+The simulator, designed for the pre-operative planning of robotic laparoscopic interventions, was tested by five expert surgeons who evaluated its main functionalities and provided an overall rating for the system.
+
+The proposed system demonstrated good performance and usability, and was designed to integrate both present and future bimanual surgical robots.
+

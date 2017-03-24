@@ -1,0 +1,9 @@
+
+Realisation of a numerical simulation program for the optic system of human eye. Simulation of the refractive errors and their correction with optic system. Calculation of the IOL power with this program.
+
+The program is accomplished in Pascal programming language.
+
+Applying the formulas derived from Abbe's invariant we can calculate all the paraxial characteristics of human eye. With this program we can calculate the power of an air lens, of a contact lens and power of an IOL.
+
+This program simulate the optic system and refractive errors of the human eye. Its necessary to know all the parameters of the optic system of the eye to calculate the power of an IOL. This program can be used in an educational and research purposes.
+

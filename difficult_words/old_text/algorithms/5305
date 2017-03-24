@@ -1,0 +1,11 @@
+
+To prospectively evaluate the accuracy of computed tomographic (CT) perfusion measurements of renal hemodynamics and function obtained by using images acquired with one-tenth the typical radiation dose and postprocessed with a highly constrained back-projection (HYPR)-local reconstruction (LR) noise-reduction technique.
+
+This study was approved by the institutional Animal Care and Use Committee. Two consecutive CT perfusion acquisitions were performed in 10 anesthetized pigs over 180 seconds by using routine (80 kV, 160 mAs) and one-tenth (80 kV, 16 mAs) dose levels. Images obtained with each acquisition were reconstructed with identical parameters, and the one-tenth dose images were also processed with a HYPR-LR algorithm. Attenuation changes in kidneys were determined as a function of time to form time-attenuation curves (TACs). Extended gamma-variate curve-fitting was performed, and regional perfusion, glomerular filtration rate, and renal blood flow were calculated. Image quality was evaluated (in 10 pigs), and the agreement for renal perfusion and function between the routine dose and the one-tenth dose HYPR-LR images was determined (for 20 kidneys) by using statistical methods. Statistical analysis was performed by using the paired t test, linear regression, and Bland-Altman analysis.
+
+TACs obtained with the one-tenth dose were similar to those obtained with the routine dose. Statistical analysis showed that there were no significant differences between the routine dose and the one-tenth dose acquisitions in renal perfusion and hemodynamic values and that there were slight but statistically significant differences in some values with the one-tenth dose HYPR-LR-processed acquisition. The image quality of the one-tenth dose acquisition was improved by using the HYPR-LR algorithm. Linear regression and Bland-Altman plots showed agreement between the images acquired by using the routine dose and those acquired by using the one-tenth dose with HYPR-LR processing.
+
+A 10-fold dose reduction at renal perfusion CT imaging can be achieved in vivo, without loss of accuracy. The image quality of the one-tenth dose images could be improved to be near that of the routine dose images by using the HYPR-LR noise-reduction algorithm.
+
+http://radiology.rsna.org/lookup/suppl/doi:10.1148/radiol.2531081677/-/DC1.
+

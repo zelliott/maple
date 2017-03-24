@@ -1,0 +1,11 @@
+
+According to the International Conference on Harmonisation guideline E11, pharmacokinetic (PK) bridging studies can be applied to support pediatric drug development. However, for PK studies in infants and children the sampling schedule needs to be optimized to minimize the number of blood samples per individual.
+
+The aim of this study was to describe how clinical trial simulations (CTS) based on adult data were used to select an appropriate sparse-sampling schedule for a future pediatric population PK (popPK) study.
+
+A popPK model for gadobutrol (Gadovist®) was developed using data from a phase I study in adults. This model was used for CTS to select the most appropriate sparse-sampling schedule that met predefined acceptance criteria. This sampling schedule was applied in a pediatric clinical phase I/III study. Non-linear mixed-effects modeling was used for PK modeling and simulations.
+
+An appropriate sampling schedule requiring only three blood samples per patient was selected and successfully applied in a pediatric study with a gadobutrol standard dose of 0.1 mmol/kg bodyweight. A popPK analysis was performed to determine individual PK parameters in the pediatric study population.
+
+A priori evaluation of selected sampling schedules by simulation from adult data provides a useful tool for efficient planning of pediatric studies.
+

@@ -1,0 +1,9 @@
+
+The goal of this paper is to extend our recently developed FBP (filtered backprojection) algorithm, which has the same characteristics of an iterative Landweber algorithm, to an FBP algorithm with the same characteristics of an iterative MAP (maximum a posteriori) algorithm. The newly developed FBP algorithm also works when the angular sampling interval is not uniform. The projection noise variance can be modeled using a view-based weighting scheme.
+
+The new objective function contains projection noise model dependent weighting factors and image dependent prior (i.e., a Bayesian term). The noise weighting is view-by-view based. For the first time, the FBP algorithm is able to model the projection noise. Based on the formulation of the iterative Landweber MAP algorithm, a frequency-domain window function is derived for each iteration of the Landweber MAP algorithm. As a result, the ramp filter and the windowing function are both modified by the Bayesian component. This new FBP algorithm can be applied to a projection data set that is not uniformly sampled.
+
+Computer simulations show that the new FBP-MAP algorithm with window function index k and the iterative Landweber MAP algorithm with iteration number k give similar reconstructions in terms of resolution and noise texture. An example of transmission x-ray CT shows that the noise modeling method is able to significantly reduce the streaking artifacts associated with low-dose CT.
+
+View-based noise weighting scheme can be introduced to the FBP algorithm as a weighting factor in the window function. The new FBP algorithm is able to provide similar results to the iterative MAP algorithm if the ramp filter is modified with a additive term. Nonuniform sampling and sensitivity can be accommodated by proper backprojection weighting.
+

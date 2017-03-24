@@ -1,0 +1,3 @@
+
+We report an autocorrelation-based approach that accurately measures fractal organization within arbitrarily shaped (nonrectangular) regions of interest of gray-scale images. It extends fractal analysis beyond what is possible using fast Fourier transforms and improves on a previous autocorrelation algorithm. We illustrate its use in detecting subtle changes in mitochondrial organization within murine fibroblasts expressing the human papillomavirus E7 oncogene.
+

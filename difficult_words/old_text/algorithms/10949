@@ -1,0 +1,3 @@
+
+The method of BP neural network improved by Levenberg-Marquardt algorithm in surface EMG signal classification is proposed. The data reduction and preprocessing operations of the signals are performed by means of the wavelet transform. The classifier can identify four classes of forearm movement: hand extension, hand grasp,forearm pronation and forearm supination with a high accuracy.Experimental result shows that the BP neural netwok improved by LM algorithm has greatly increased the speed and the accuracy of signal classification in practical application of prothesis control.
+

@@ -1,0 +1,9 @@
+
+To define a unified method for the automatic recognition and quantitative description of EEG phasic events of sleep microstructure occurring during NREM sleep, particularly arousals, phase A subtypes of cyclic alternating pattern and spindles.
+
+The NREM sleep EEG of 10 normal young subjects was examined in order to recognize formal phasic events of sleep microstructure. The following 'formal' events (i.e. events defined exclusively on the basis of automatic analysis criteria) were classified: arousals, A1-phases (A-phases not including arousals) and A2- and A3-phases (A-phases including arousals). Spindle bursts, corresponding to visually recognized spindles, were also formally defined. The identification of these events was carried out following a three-step procedure: (1) computation of band-related descriptors derived from the EEG signal, (2) introduction of suitable thresholds and (3) application of simple logical principles, i.e. an exclusion principle and an overlapping principle.
+
+Formal A-phases, arousals and spindle bursts showed spectral characteristics which were consistent with visual inspection. The value of the parameter Correctness for the recognition of the A-phases was 83.5%. In particular, the different physiological distribution of the A-phases in Stage 2 preceding slow wave sleep with respect to Stage 2 preceding REM sleep was confirmed.
+
+The proposed method provides a unified quantitative approach to the study of sleep microstructure. Visually defined events can be reliably identified by means of automatic recognition.
+

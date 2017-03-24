@@ -1,0 +1,7 @@
+
+Copy number variants (CNVs) have been shown to play an important role in genetic diversity of mammals and in the development of many complex phenotypic traits. The aim of this study was to perform a standard comparative evaluation of CNVs in horses using three different CNV detection programs and to identify genomic regions associated with body size in horses.
+
+Analysis was performed using the Illumina Equine SNP50 genotyping beadchip for 854 horses. CNVs were detected by three different algorithms, CNVPartition, PennCNV and QuantiSNP. Comparative analysis revealed 50 CNVs that affected 153 different genes mainly involved in sensory perception, signal transduction and cellular components. Genome-wide association analysis for body size showed highly significant deleted regions on ECA1, ECA8 and ECA9. Homologous regions to the detected CNVs on ECA1 and ECA9 have also been shown to be correlated with human height.
+
+Comparative analysis of CNV detection algorithms was useful to increase the specificity of CNV detection but had certain limitations dependent on the detection tool. GWAS revealed genome-wide associated CNVs for body size in horses.
+

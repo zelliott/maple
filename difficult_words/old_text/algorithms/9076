@@ -1,0 +1,9 @@
+
+Current standard methods of monitoring fetal heart function are mainly based on echocardiography, which provides indirect information (through mechanical assessment) of the fetal heart rhythm. Fetal magnetocardiography (fMCG) allows a reliable quantification of the temporal structure of fetal heart signals. However, its application in clinical studies is difficult because extracting the fetal heart signal for most current applications requires user intervention. To overcome this limitation, we developed a completely automated extraction algorithm.
+
+The fMCG recordings were acquired using a 156-channel biomagnetic system. To perform an automated analysis, a combination of orthogonal projection and independent component analysis was used. fMCG recordings from 69 healthy uncomplicated singleton pregnancies with normally developing fetuses were included in the study.
+
+The normal values achieved by the automated algorithm were comparable to previously published data. The majority of the cardiac time intervals were positively correlated with gestational age (GA). The ST segment, T wave and QT interval did not show any correlation.
+
+The automated detection of fetal heart signals was possible beginning at a GA of 19 weeks. This automated analysis of fMCG recordings might be an objective and easily applicable approach for clinicians to analyze fetal heart signals.
+

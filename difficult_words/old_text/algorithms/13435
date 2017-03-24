@@ -1,0 +1,5 @@
+
+Ever larger phylogenies are being constructed due to the explosion of genetic data and development of high-performance phylogenetic reconstruction algorithms. However, most methods for calculating divergence times are limited to datasets that are orders of magnitude smaller than recently published large phylogenies. Here, we present an algorithm and implementation of a divergence time method using penalized likelihood that can handle datasets of thousands of taxa. We implement a method that combines the standard derivative-based optimization with a stochastic simulated annealing approach to overcome optimization challenges. We compare this approach with existing software including r8s, PATHd8 and BEAST.
+
+Source code, example files, binaries and documentation for treePL are available at https://github.com/blackrim/treePL.
+

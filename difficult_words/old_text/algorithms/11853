@@ -1,0 +1,9 @@
+
+To develop a new automated calibration method for vessel measurements in vascular x-ray images.
+
+Radiopaque marker bands mounted equidistantly on a small catheter were acquired in vitro at five image intensifier (II) sizes in x-ray projection images. The positions of the marker centers were detected by using a Hough transform and were computed at subpixel precision by using either a novel, iterative center-of-gravity approach (CGA) or a symmetry filter. Curve-fitting procedures were used to reject false-positive marker detections and to calculate intermarker distances. The calibration factor was calculated from the true marker distance and the average of the measured distances in pixels. Results were compared statistically with a grid calibration method, which was taken as the gold standard. A simulation study was performed to assess the influence of image noise on the CGA method.
+
+The iterative CGA method was convergent and faster than the symmetry-based technique. For four II sizes (17, 20, 25, and 31 cm), the results from the CGA method were not significantly different from the results obtained with grid calibration. For the II size of 38 cm, a significant difference (0.3% of the grid calibration factor) was found; however, this was caused by the quantification error in the image data and was not clinically relevant. In general, the performance of the CGA method improved with increasing signal-to-noise ratio.
+
+A practical new calibration method for small catheter sizes was developed and validated for quantitative vascular arteriography.
+

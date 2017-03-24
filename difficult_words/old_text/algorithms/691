@@ -1,0 +1,11 @@
+
+Job-exposure matrices (JEMs) applicable to the general population are usually constructed by using only the expertise of specialists.
+
+To construct a population based JEM for chemical agents from data based on a sample of French workers for surveillance purposes.
+
+The SUMEX job-exposure matrix was constructed from data collected via a cross-sectional survey of a sample of French workers representative of the main economic sectors through the SUMER-94 survey: 1205 occupational physicians questioned 48 156 workers, and inventoried exposure to 102 chemicals. The companies' economic activities and the workers' occupations were coded according to the official French nomenclatures. A segmentation method was used to construct job groups that were homogeneous for exposure prevalence to chemical agents. The matrix was constructed in two stages: consolidation of occupations according to exposure prevalence; and establishment of exposure indices based on individual data from all the subjects in the sample.
+
+An agent specific matrix could be constructed for 80 of the chemicals. The quality of the classification obtained for each was variable: globally, the performance of the method was better for less specific and therefore more easy to assess agents, and for exposures specific to certain occupations.
+
+Software has been developed to enable the SUMEX matrix to be used by occupational physicians and other prevention professionals responsible for surveillance of the health of the workforce in France.
+

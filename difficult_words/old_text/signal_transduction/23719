@@ -1,0 +1,9 @@
+
+The mitogen-activated protein kinase (MAPK) pathway is a crucial regulator of cell proliferation, survival, and resistance to apoptosis. MEK inhibitors are being explored as a treatment option for patients with KRAS-mutant colorectal cancer who are not candidates for EGFR-directed therapies. Initial clinical results of MEK inhibitors have yielded limited single-agent activity in colorectal cancer, indicating that rational combination strategies are needed.
+
+In this study, we conducted unbiased gene set enrichment analysis and synthetic lethality screens with selumetinib, which identified the noncanonical Wnt/Ca++ signaling pathway as a potential mediator of resistance to the MEK1/2 inhibitor selumetinib. To test this, we used shRNA constructs against relevant WNT receptors and ligands resulting in increased responsiveness to selumetinib in colorectal cancer cell lines. Further, we evaluated the rational combination of selumetinib and WNT pathway modulators and showed synergistic antiproliferative effects in in vitro and in vivo models of colorectal cancer.
+
+Importantly, this combination not only showed tumor growth inhibition but also tumor regression in the more clinically relevant patient-derived tumor explant (PDTX) models of colorectal cancer. In mechanistic studies, we observed a trend toward increased markers of apoptosis in response to the combination of MEK and WntCa(++) inhibitors, which may explain the observed synergistic antitumor effects.
+
+These results strengthen the hypothesis that targeting both the MEK and Wnt pathways may be a clinically effective rational combination strategy for patients with metastatic colorectal cancer.
+

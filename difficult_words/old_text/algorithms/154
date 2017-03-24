@@ -1,0 +1,9 @@
+
+In a series of recent papers, Tess, a computer program based on the concept of hidden Markov random field, has been proposed to infer the number and locations of panmictic population units from the genotypes and spatial locations of these individuals. The method seems to be of broad appeal as it is conceptually much simpler than other competing methods and it has been reported by its authors to be fast and accurate. However, this methodology is not grounded in a formal statistical inference method and seems to rely to a large extent on arbitrary choices regarding the parameters used. The present article is an investigation of the accuracy of this method and an attempt to assess whether recent results reported on the basis of this method are genuine features of the genetic process or artefacts of the method.
+
+I analyse simulated data consisting of populations at Hardy-Weinberg and linkage equilibrium and also data simulated under a scenario of isolation-by-distance at mutation-migration-drift equilibrium. Arabidopsis thaliana data previously analysed with this method are also reconsidered.
+
+Using the Tess program under the no-admixture model to analyse data consisting of several genuine HWLE populations with individuals of pure ancestries leads to highly inaccurate results; Using the Tess program under the admixture model to analyse data consisting of a continuous isolation-by-distance population leads to the inference of spurious HWLE populations whose number and features depend on the parameters used. Results previously reported about the A.thaliana using Tess seem to a large extent to be artefacts of the statistical methodology used. The findings go beyond population clustering models and can be an help to design more efficient algorithms based on graphs.
+
+The data analysed in the present article are available from http://folk.uio.no/gillesg/Bioinformatics-HMRF.
+

@@ -1,0 +1,3 @@
+
+We adopt a control theory approach to reverse engineer the complexity of a known system--the bacterial heat shock response. Using a computational dynamic model, we explore the organization of the heat shock system and elucidate its various regulation strategies. We show that these strategies are behind much of the complexity of the network. We propose that complexity is a necessary outcome of robustness and performance requirements that are achieved by the heat shock system's exquisite regulation modules. The techniques we use rely on dynamic computational models and principles from the field of control theory.
+

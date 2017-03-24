@@ -1,0 +1,9 @@
+
+To establish and validate a formula to predict spectral domain (SD)-optical coherence tomography (OCT) retinal nerve fiber layer (RNFL) thickness from time domain (TD)-OCT RNFL measurements and other factors.
+
+SD-OCT and TD-OCT scans were obtained on the same day from healthy participants and patients with glaucoma. Univariate and multivariate linear regression relationships were analyzed to convert average Stratus TD-OCT measurements to average Cirrus SD-OCT measurements. Additional baseline characteristics included age, sex, intraocular pressure, central corneal thickness, spherical equivalent, anterior chamber depth, optic disc area, visual field (VF) mean deviation, and pattern standard deviation. The formula was generated using a training set of 220 patients and then evaluated on a validation dataset of 105 patients.
+
+The training set included 71 healthy participants and 149 patients with glaucoma. The validation set included 27 healthy participants and 78 patients with glaucoma. Univariate analysis determined that TD-OCT RNFL thickness, age, optic disc area, VF mean deviation, and pattern standard deviation were significantly associated with SD-OCT RNFL thickness. Multivariate regression analysis using available variables yielded the following equation: SD-OCT RNFL = 0.746 × TD-OCT RNFL + 17.104 (determination coefficient [R(2)] = 0.879). In the validation sample, the multiple regression model explained 85.6% of the variance in the SD-OCT RNFL thickness.
+
+The proposed formula based on TD-OCT RNFL thickness may be useful in predicting SD-OCT RNFL thickness. Other factors associated with SD-OCT RNFL thickness, such as age, disc area, and mean deviation, did not contribute to the accuracy of the final equation.
+

@@ -1,0 +1,7 @@
+
+The transcription of a gene is largely determined by short sequence motifs that serve as binding sites for transcription factors. Recent findings suggest direct relationships between the motifs and gene expression levels. In this work, we present a method for identifying regulatory motifs. Our method makes use of tree-based techniques for recovering the relationships between motifs and gene expression levels.
+
+We treat regulatory motifs and gene expression levels as predictor variables and responses, respectively, and use a regression tree model to identify the structural relationships between them. The regression tree methodology is extended to handle responses from multiple experiments by modifying the split function. The significance of regulatory elements is determined by analyzing tree structures and using a variable importance measure. When applied to two data sets of the yeast Saccharomyces cerevisiae, the method successfully identifies most of the regulatory motifs that are known to control gene transcription under the given experimental conditions, and suggests several new putative motifs. Analysis of the tree structures also reconfirms several pairs of motifs that are known to regulate gene transcription in combination.
+
+http://if.kaist.ac.kr/~phuong/RegTree
+

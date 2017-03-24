@@ -1,0 +1,9 @@
+
+The ideal lens-sparing radiotherapy technique for retinoblastoma calls for 100% dose to the entire retina including the ora serrata and zero dose to the lens. Published techniques, most of which use photons, have not accomplished this ideal treatment. We describe here a technique that approaches this ideal configuration using electron beam therapy.
+
+Dose-modeling calculations were made using a computer program built around a proprietary algorithm. This program calculates 3D dose distribution for electrons and photons and uses the Cimmino feasibility method for the inverse problem of beam weighting to achieve the prescribed dose. The algorithm has been verified in the ocular region by measurements in a RANDO phantom. To search for an ideal lens-sparing beam setup, a stylized phantom of an 8-month-old infant was generated with built-in inhomogeneities, and a phantom of a 5-year-old child was generated from a patient CT series.
+
+Of more than 100 different beam setups tested, two 9 MeV electron beams at gantry angles plus and minus 26 degrees from the optic nerve axis achieved the best distribution. Both fields have a lens block and an isocenter between the globe and origin of the optic nerve. When equal doses are given to both fields, the entire extent of the retina (including ora serrata) received 100%, while the lens received 10% or less.
+
+The two-oblique-electron-beam technique here described appears to meet most of the stringent dosimetry needed to treat retinoblastoma. It is suitable for a range of ages, from infancy to early childhood years.
+

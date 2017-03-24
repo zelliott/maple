@@ -1,0 +1,7 @@
+
+An algorithm that alerts implantable cardioverter-defibrillator (ICD) patients, in case of abnormal lead impedance (Patient Alerttrade mark, Medtronic), may help to recognize lead dysfunction. We aimed to determine the utility of Patient Alert for ICD lead-failure detection in a prospective study.
+
+Three hundred and sixty ICD patients were followed for 22+/-14 months. Patient Alert was active for pacing impedance <200 and >2000-3000 Omega, and high-voltage conductor impedance <10-20 and >200 Omega. Ten alert events and a total of 29 severe system complications occurred. Patient Alert detected three of 10 ICD lead failures, with a positive predictive value (PPV) of 77.8% for any severe system complication. Retrospective analysis identified 23 patients with a sensing integrity counter (SIC) >300 and revealed an additional four prior undetected lead defects. SIC detected ICD lead failure with 92.9% sensitivity and a PPV of 59.1%. Eight of nine patients with a false-positive SIC had an integrated bipolar lead. Patient Alert combined with SIC detected all ICD lead failures and 71.4% of all severe lead complications.
+
+Patient Alert, based on daily lead-impedance measurement, detected one-third of all ICD lead failures. Combined use with continuous lead integrity monitoring (SIC) increased sensitivity to 100%. Integrated bipolar leads may yield a false-positive SIC. Incorporating SIC and automated pace/sense threshold measurement may improve Patient Alert sensitivity for severe lead complications.
+

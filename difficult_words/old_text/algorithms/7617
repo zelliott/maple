@@ -1,0 +1,9 @@
+
+To analyze the effect of B0 field drift on multivoxel MR spectroscopic imaging and to propose an approach for its correction.
+
+It is shown, both theoretically and in a phantom, that for ∼30 min acquisitions a linear B0 drift (∼0.1 ppm/h) will cause localization errors that can reach several voxels (centimeters) in the slower varying phase encoding directions. An efficient and unbiased estimator is proposed for tracking the drift by interleaving short (∼ T2*), nonlocalized acquisitions on the nonsuppressed water each pulse repetition time, as shown in 10 volunteers at 1.5 and 3 T.
+
+The drift is shown to be predominantly linear in both the phantom and volunteers at both fields. The localization errors are observed and quantified in both phantom and volunteers. The unbiased estimator is shown to reliably track the instantaneous frequency in vivo despite only using a small portion of the FID.
+
+Contrary to single-voxel MR spectroscopy, where it leads to line broadening, field drift can lead to localization errors in the longer chemical shift imaging experiments. Fortunately, this drift can be obtained at a negligible cost to sequence timing, and corrected for in post processing.
+

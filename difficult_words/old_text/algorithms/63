@@ -1,0 +1,3 @@
+
+We herein propose the multiple Markov transition matrix method (MMMM), an algorithm by which to estimate the stationary probability distribution from independent multiple molecular dynamics simulations with different Hamiltonians. Applications to the potential of mean force calculation in combination with the umbrella sampling method are presented. First, the performance of the MMMM is examined in the case of butane. Compared with the weighted histogram analysis method (WHAM), the MMMM has an advantage with respect to the reasonable evaluation of the stationary probability distribution even from nonequilibrium trajectories. This method is then applied to Met-enkephalin nonequilibrium simulation.
+

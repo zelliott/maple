@@ -1,0 +1,3 @@
+
+This paper presents a novel algorithm for data compression of single lead Electrocardiogram (ECG) data. The method is based on Parametric modeling of the Discrete Cosine Transformed ECG signal. Improved high frequency reconstruction is achieved by separately modeling the low and the high frequency regions of the transformed signal. Differential Pulse Code Modulation is applied on the model parameters to obtain a further increase in the compression. Compression ratios up to 1:40 were achieved without significant distortion.
+

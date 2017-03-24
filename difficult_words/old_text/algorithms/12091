@@ -1,0 +1,9 @@
+
+To compare methods of evaluating probabilistic predictors in systems that learn from examples.
+
+The performance of four automatic learning algorithms, representing current machine learning technology, were assessed using four methodologies in the task of separating normal squamous intermediate cervical cells from all other segmented objects in digital images. Two of the methodologies were carefully constructed to model sources of variation associated with the choice of training and test sets. These assessments were statistically compared with assessments using both standard and a modified version of cross-validation.
+
+The investigation illustrates the tradeoffs involved in obtaining statistical rigor as compared with the cost of collecting data. While cross-validation makes frugal use of data, it can produce misleading assessments of algorithm performance in terms of both bias and variance. The modified version produces more reliable assessments but in some cases may also be misleading.
+
+We suggest that users of learning algorithms should exercise judicious care in evaluating learning algorithm performance in order to avoid unnecessary bias and large variance in their assessments.
+

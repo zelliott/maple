@@ -1,0 +1,9 @@
+
+Elementary flux mode (EFM) is a fundamental concept as well as a useful tool in metabolic pathway analysis. One important role of EFMs is that every flux distribution can be decomposed into a set of EFMs and a number of methods to study flux distributions originated from it. Yet finding such decompositions requires the complete set of EFMs, which is intractable in genome-scale metabolic networks due to combinatorial explosion.
+
+In this article, we proposed an algorithm to decompose flux distributions into EFMs in genome-scale networks. It is an iterative scheme of a mixed integer linear program. Unlike previous optimization models to find pathways, any feasible solutions can become EFMs in our algorithm. This advantage enables the algorithm to approximate the EFM of largest contribution to an objective reaction in a flux distribution. Our algorithm is able to find EFMs of flux distributions with complex structures, closer to the realistic case in which a cell is subject to various constraints. A case of Escherichia coli growth in the Lysogeny broth (LB) medium containing various carbon sources was studied. Essential metabolites and their syntheses were located. Information on the contribution of each carbon source not obvious from the apparent flux distribution was also revealed. Our work further confirms the utility of finding EFMs by optimization models in genome-scale metabolic networks.
+
+joshua.chan@connect.polyu.hk
+
+Supplementary data are available at Bioinformatics online.
+

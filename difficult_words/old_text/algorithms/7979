@@ -1,0 +1,9 @@
+
+The leader gene approach is a data-mining method based on the systematic search for the genes involved in a specific process and their ranking according to the interconnections with the other genes identified. The application of this algorithm to human periodontitis gave promising results. The present study used this algorithm to formulate new hypotheses about the association between periodontitis and type 2 diabetes.
+
+The genes involved in a given process were identified via interrelated queries of several databases. The interactions among such genes were mapped and given a significance score. The weighted number of links (sum of weighted scores for every interaction in which a gene is involved) was calculated for each gene. Genes were clustered according to this parameter; those in the highest cluster were termed leader genes. This algorithm was applied to diabetes and sinusitis. Sinusitis was chosen as a control because it is an inflammatory infectious disease like periodontitis. The results were compared to those previously calculated for periodontitis.
+
+Periodontitis and diabetes share four leader genes; all leader genes are linked in a complex map of interactions. Periodontitis and sinusitis share no leader genes; no interactions were identified.
+
+Even with the limitations of ab initio analyses, these theoretical results might suggest the existence of some common genomic pathways between periodontitis and type 2 diabetes, despite the different pathogenesis of these diseases. In particular, the shared leader genes could have an important role in this relationship, which may be investigated further with targeted experimentation.
+

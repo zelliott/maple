@@ -1,0 +1,3 @@
+
+A programmable interface is provided to a simulated network of reaction-diffusion neurons. The interface allows special 'learn' and 'decide' syntactic constructs to be intermixed with conventional programming constructs. This hybrid combination allows the power of programmability to be combined with the power of adaptability to provide innovative solutions to complex problems. The network uses reaction-diffusion neurons instead of adaline neurons. A mesh topology is used instead of a feedforward topology. The performance of the mesh reaction-diffusion network compares favorably with that of conventional feedforward adaline networks. Enhancements to incorporate short- and long-term memory are described.
+

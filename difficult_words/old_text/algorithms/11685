@@ -1,0 +1,7 @@
+
+To evaluate incidence and mechanism of a special form of automatic mode switching (MS) failure in patients with atrial flutter.
+
+Retrospectively the charts of 134 patients implanted with dual chamber pacemakers with MS algorithms were reviewed. Seven patients (5.2%) were identified that presented with sustained rapid ventricular pacing resulting from atrial flutter with failure of automatic MS. Since this form of MS failure implies 2:1 tracking of atrial flutter, it was coined '2:1 lock-in'. A theoretical timing model was developed to clarify the mechanism of this special form of MS failure. Prerequisites for the '2:1 lock-in' phenomenon are: (1). the sum of the AV delay and the post ventricular blanking (PVAB) must be longer than the cycle length of the atrial flutter, (2). the tachycardia detection rate must be higher than half the atrial flutter rate and (3). the maximum tracking rate (MTR) must be higher than half the atrial flutter rate. Recommendations for programming in order to avoid this specific form of MS failure are made accordingly and parallel algorithms for flutter detection are discussed.
+
+'2:1 lock-in' is a typical form of MS failure in patients with atrial flutter and the mechanism is closely linked to the typical atrial sensing windows.
+

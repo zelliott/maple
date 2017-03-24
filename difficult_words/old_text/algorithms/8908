@@ -1,0 +1,9 @@
+
+We present a new method for automatic brain extraction on structural magnetic resonance images, based on a multi-atlas registration framework.
+
+Our method addresses fundamental challenges of multi-atlas approaches. To overcome the difficulties arising from the variability of imaging characteristics between studies, we propose a study-specific template selection strategy, by which we select a set of templates that best represent the anatomical variations within the data set. Against the difficulties of registering brain images with skull, we use a particularly adapted registration algorithm that is more robust to large variations between images, as it adaptively aligns different regions of the two images based not only on their similarity but also on the reliability of the matching between images. Finally, a spatially adaptive weighted voting strategy, which uses the ranking of Jacobian determinant values to measure the local similarity between the template and the target images, is applied for combining coregistered template masks.
+
+The method is validated on three different public data sets and obtained a higher accuracy than recent state-of-the-art brain extraction methods. Also, the proposed method is successfully applied on several recent imaging studies, each containing thousands of magnetic resonance images, thus reducing the manual correction time significantly.
+
+The new method, available as a stand-alone software package for public use, provides a robust and accurate brain extraction tool applicable for both clinical use and large population studies.
+

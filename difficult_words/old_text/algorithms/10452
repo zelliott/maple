@@ -1,0 +1,7 @@
+
+Aging is a fundamental biological process. Characterization of genetic and environmental factors that influence lifespan is a crucial step toward understanding the mechanisms of aging at the organism level. To capture the different effects of genetic and environmental factors on lifespan, appropriate statistical analyses are needed.
+
+We developed an online application for survival analysis (OASIS) that helps conduct various novel statistical tasks involved in analyzing survival data in a user-friendly manner. OASIS provides standard survival analysis results including Kaplan-Meier estimates and mean/median survival time by taking censored survival data. OASIS also provides various statistical tests including comparison of mean survival time, overall survival curve, and survival rate at specific time point. To visualize survival data, OASIS generates survival and log cumulative hazard plots that enable researchers to easily interpret their experimental results. Furthermore, we provide statistical methods that can analyze variances among survival datasets. In addition, users can analyze proportional effects of risk factors on survival.
+
+OASIS provides a platform that is essential to facilitate efficient statistical analyses of survival data in the field of aging research. Web application and a detailed description of algorithms are accessible from http://sbi.postech.ac.kr/oasis.
+

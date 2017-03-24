@@ -1,0 +1,3 @@
+
+We introduce the concept of cooperative (COOP) pulses which are designed to compensate each other's imperfections. In multi-scan experiments, COOP pulses can cancel undesired signal contributions, complementing and generalizing phase cycles. COOP pulses can be efficiently optimized using an extended version of the optimal-control-based gradient ascent pulse engineering (GRAPE) algorithm. The advantage of the COOP approach is experimentally demonstrated for broadband and band-selective pulses.
+

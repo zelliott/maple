@@ -1,0 +1,7 @@
+
+Repetitive DNA sequences are abundant in genomes and efficient mining of significant repeats is important as the first step of repetitive sequence research. Although many computational tools for the purpose, either automatic or visualization ones, have been developed, detection and analysis of approximate repeats are still non-trivial task.
+
+Auto Dot PLOT (Adplot), a dotplot-like repetitive pattern visualization program with a window filtering based on iid Bernoulli trials, is developed and applied to yeast chromosomes and human T cell receptor locus sequence. Typical examples found in yeast chromosomes 1 and 10 and a tandem repeat of periods longer than 10,000 bp in human T cell receptor locus are presented. A complex structure composed of both direct and palindromic repeats found in yeast chromosome 10 is also visualized as specific dot pattern. Computational time measured by a Pentium 3 PC for each yeast auto chromosome with a standard parameter setting is linearly scaled and below 10 s per one chromosome, indicating efficiency of the program. From the examples, it is shown that Adplot can visualize approximate local repeat structures and give us a diagnosis power for inferring a duplicational history of repeats.
+
+Adplot can be obtained by an e-mail request.
+

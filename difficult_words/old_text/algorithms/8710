@@ -1,0 +1,3 @@
+
+An algorithm to assist in the computation of routine peripheral nystagmus slow phase velocity (SPV) has been implemented on an Apple based data acquisition system. Waveforms stored by the computer may be output to a dot matrix printer to complement conventional strip-chart recorder output. An estimate of SPV is available after each caloric session. Analysis modes range from a summarized output for inclusion in the clinical report to a detailed beat by beat report comprising waveforms, markers and tabulated results. Problematic signals, beyond the scope of the automatic analysis, may be inspected interactively using a software controlled cursor.
+

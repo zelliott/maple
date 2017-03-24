@@ -1,0 +1,9 @@
+
+Although there have been various proposed methods for positron emission tomography (PET) motion correction, there is not sufficient evidence to answer which method is better in practice. This investigation aims to characterize the behavior of the two main motion-correction approaches in terms of convergence and image properties.
+
+For the first method, reconstruct-transform-average (RTA), reconstructions of each gate are transformed to a reference gate and averaged. In the second method, motion-compensated image reconstruction (MCIR), motion information is incorporated within the reconstruction. Both techniques studied were based on the ordered subsets expectation maximization algorithm. Motion information was obtained from a dynamic MR acquisition performed on a human volunteer and concurrent PET data were simulated from the dynamic MR data. The two approaches were assessed statistically using multiple realizations to accurately define the noise properties of the reconstructed images.
+
+MCIR successfully recovers the true values of all regions, whereas RTA has high bias due to the limited count-statistics and interpolation errors during the transformation step. In addition, RTA noise is very small and stabilized, whereas in MCIR noise becomes progressively greater with the number of iterations and therefore MCIR outperforms RTA in terms of MSE only if noise is treated. For example, MCIR with postfiltering results in MSE up to 42% lower than RTA.
+
+This study indicates that MCIR may provide superior performance overall to RTA if noise is minimized. However, in applications where quantification is not the main objective RTA can be a practical and simple method to correct for motion.
+

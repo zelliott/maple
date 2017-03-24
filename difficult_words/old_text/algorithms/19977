@@ -1,0 +1,9 @@
+
+Mechanical support of a failing heart is typically performed with rotary blood pumps running at constant speed, which results in a limited control on cardiac workload and nonpulsatile hemodynamics. A potential solution to overcome these limitations is to modulate the pump speed to create pulses. This study aims at developing a pulsatile control algorithm for rotary pumps, while investigating its effect on left ventricle unloading and the hemodynamics.
+
+The CentriMag (Levitronix GmbH, Zürich, Switzerland) rotary blood pump was implanted in 5 sheep and cannulated from the ventricular apex to the descending aorta. A modified controller was connected to the pump yielding direct speed control via analog voltage. Pump speed modulation patterns, including sine, saw tooth, triangle, and square waveforms with 2 different phase shifts, were synchronized with heartbeat. Various hemodynamic parameters, such as left ventricular pressure and volume, coronary flow, and arterial pressure, were analyzed to examine the influence of pump support.
+
+The pump speed modulation significantly affected left ventricular pressure and volume and arterial pressure, whereas coronary flow was not influenced by pump support mode. Stroke work in the pulsatile modes varied from 69% to 91% of baseline value and from 74% to 96% of constant speed value. Consequently, cardiac workload can be adjusted to provide relaxation, which may lead to myocardial recovery.
+
+A synchronized pulsing rotary blood pump offers a simple and powerful control modality for heart unloading. This technique provides pulsatile hemodynamics, which is more physiologic than continuous blood flow and may be useful for perfusion of the other organs.
+

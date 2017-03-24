@@ -1,0 +1,3 @@
+
+Through phase plane analysis of a class of two-dimensional spiking and bursting neuron models, covering some of the most popular map-based neuron models, we show that there exists a trade-off between the sensitivity of the neuron to steady external stimulation and its resonance properties, and how this trade-off may be tuned by the neutral or asymptotic character of the slow variable. Implications of the results for the suprathreshold behavior of the neurons, both by themselves and as part of networks, are presented in different regimes of interest, such as the excitable, regular spiking, and bursting regimes. These results establish a consistent link between single-neuron parameters and resulting network dynamics, and will hopefully be useful as a guide for modeling.
+

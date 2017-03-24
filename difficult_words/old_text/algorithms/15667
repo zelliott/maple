@@ -1,0 +1,9 @@
+
+The G1-TOP program is a short automated perimetric strategy which sub-divides the G1 grid of 59 points into four sub-grids. Each point is tested only once, but each patient's response is used to modify that particular point and the surrounding ones from the remaining sub-grids. This study compared the results of the G1-TOP program with the Standard Bracketing strategy.
+
+Eleven participating institutions provided data from 213 patients (406 eyes). The main group consisted of 284 glaucomas and 55 glaucoma suspects. Other groups included 31 eyes with neurological disorders, 20 with chorioretinal lesions and 16 normal eyes. Mean age was 62.7 +/- 15.4 (range 14-88) years. All subjects had previous perimetric experience and visual acuity better than 0.5. Examination included G1-Standard Bracketing and G1-TOP testing, in interchangeable order, with the Octopus 1-2-3 perimeter.
+
+The correlation coefficient for mean defect (MD) was 0.95. Standard error (YX) for MD, square root of loss variance (LV) and individual thresholds were 1.86 dB, 1.29 dB, and 4.72 dB, respectively. Mean sensitivity values were similar (difference 0.04 +/- 1.87 dB) (p>0.05). Mean duration for G1-TOP was 2.19 +/- 0.26 min, while G1-Standard Bracketing took 11.51 +/- 1.52 min (ratio 1/5.1, or a net reduction of 80.4%). The sensitivity of G1-TOP versus G1-Standard Bracketing was: glaucoma 77.1/78.5, glaucoma suspects 38.2/47.3, neurological disorders 87.1/87.1 and chorioretinal lesions 80.0/85.0.
+
+The G1-TOP program gave very similar results to G1-Standard Bracketing in only 20% of the time required by the standard strategy.
+

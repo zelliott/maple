@@ -1,0 +1,9 @@
+
+To investigate the underlying tumor susceptibility mechanisms and reasons for the high risk of cancer in Fanconi anemia (FA).
+
+Gene Set Enrichment Analysis (GSEA) was performed to compare gene expression profiles between 21 FA patients' bone marrow (BM) mononuclear cell (BMNC) and 11 normal controls in cancer related gene sets from NCBI GEO database, then core enriched genes were identified by further investigation. Through enrichment analyzing biological processes of gene ontology sets and structural genomic gene sets between FA expression profiles and control, more details related with its tumor susceptibility had been revealed.
+
+Compared with normal control, gene expression in FA group had significant been enriched in resistance to Bcl-2 inhibitor gene set, fibroblast growth factors signalling pathways, insulin and insulin-like growth factors (IGF) signalling pathways induced cancer genesis gene sets. The high level of D4S234E, SST, FGFs, IGFs, FGFRs and IGFBP expression provided an initiate environment for tumorgenesis and drug resistance. There were significant differences in biogenesis extracellular molecules and cytomembrane structure organizations between FA and control. Genes with promoter regions around transcription start sites containing either motif RRCAGGTGNCV or CCTNTMAGA were enriched and those former genes match annotation for tumorgenic transcription factor 3 (TCF3).
+
+The high tumor susceptibility of FA patients may be closely related with the dramatic changes in cancer related growth factors and hormones environment. This study provides new insights into tumor susceptibility mechanism in FA patients.
+

@@ -1,0 +1,9 @@
+
+The aim of the project was to develop a novel method for diabetic retinopathy screening based on the examination of tear fluid biomarker changes. In order to evaluate the usability of protein biomarkers for pre-screening purposes several different approaches were used, including machine learning algorithms.
+
+All persons involved in the study had diabetes. Diabetic retinopathy (DR) was diagnosed by capturing 7-field fundus images, evaluated by two independent ophthalmologists. 165 eyes were examined (from 119 patients), 55 were diagnosed healthy and 110 images showed signs of DR. Tear samples were taken from all eyes and state-of-the-art nano-HPLC coupled ESI-MS/MS mass spectrometry protein identification was performed on all samples. Applicability of protein biomarkers was evaluated by six different optimally parameterized machine learning algorithms: Support Vector Machine, Recursive Partitioning, Random Forest, Naive Bayes, Logistic Regression, K-Nearest Neighbor.
+
+Out of the six investigated machine learning algorithms the result of Recursive Partitioning proved to be the most accurate. The performance of the system realizing the above algorithm reached 74% sensitivity and 48% specificity.
+
+Protein biomarkers selected and classified with machine learning algorithms alone are at present not recommended for screening purposes because of low specificity and sensitivity values. This tool can be potentially used to improve the results of image processing methods as a complementary tool in automatic or semiautomatic systems.
+

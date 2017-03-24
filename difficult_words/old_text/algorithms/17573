@@ -1,0 +1,7 @@
+
+Protein localization data are a valuable information resource helpful in elucidating protein functions. It is highly desirable to predict a protein's subcellular locations automatically from its sequence.
+
+In this paper, fuzzy k-nearest neighbors (k-NN) algorithm has been introduced to predict proteins' subcellular locations from their dipeptide composition. The prediction is performed with a new data set derived from version 41.0 SWISS-PROT databank, the overall predictive accuracy about 80% has been achieved in a jackknife test. The result demonstrates the applicability of this relative simple method and possible improvement of prediction accuracy for the protein subcellular locations. We also applied this method to annotate six entirely sequenced proteomes, namely Saccharomyces cerevisiae, Caenorhabditis elegans, Drosophila melanogaster, Oryza sativa, Arabidopsis thaliana and a subset of all human proteins.
+
+Supplementary information and subcellular location annotations for eukaryotes are available at http://166.111.30.65/hying/fuzzy_loc.htm
+

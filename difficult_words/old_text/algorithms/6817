@@ -1,0 +1,9 @@
+
+Today, metabolite levels in biological samples can be determined using multiparallel, fast, and precise metabolomic approaches. Correlations between the levels of various metabolites can be searched to gain information about metabolic links. Such correlations are the net result of direct enzymatic conversions and of indirect cellular regulation over transcriptional or biochemical processes. In order to visualize metabolic networks derived from correlation lists graphically, each metabolite pair may be represented as vertices connected by an edge. However, graph complexity rapidly increases with the number of edges and vertices. To gain structural information from metabolite correlation networks, improvements in clarity are needed.
+
+To achieve this clarity, three algorithms are combined. First, a list of linear metabolite correlations is generated that can be regarded as a set of pairs of edges (or as 2-cliques). Next, a branch-and-bound algorithm was developed to find all maximal cliques by combining submaximal cliques. Due to a clique assignment procedure, the generation of unnecessary submaximal cliques is avoided in order to maintain high efficiency. Differences and similarities to the Bron-Kerbosch algorithm are pointed out. Lastly, metabolite correlation networks are visualized by clique-metabolite matrices that are sorted to minimize the length of lines that connect different cliques and metabolites. Examples of biochemical hypotheses are given that can be built from interpretation of such clique matrices.
+
+The algorithms are implemented in Visual Basic and can be downloaded from our web site along with a test data set (http://www.mpimp-golm.mpg.de/fiehn/projekte/data-mining-e.html).
+
+kose@mpimp-golm.mpg.de
+

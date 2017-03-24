@@ -1,0 +1,9 @@
+
+Slit lamp photography is a daily practice in ophthalmic examinations in clinic settings. Images of the ocular integrity enable the clinicians to evaluate the progress of disease. However, the lack of a consistent objective measuring scheme to evaluate the corneal epithelial defects is a concern.
+
+Rabbits were ocularly infected with HSV-1. Fluorescein solution was applied to the rabbit eyes to reveal lesions. Images were taken via a Nikon digital camera equipped with cobalt blue excitation filter. A modified Bayes classifier (MBC) based on two carefully chosen features was applied to analyze images of infected rabbit corneas.
+
+MBC utilizing a feature set comprising green-to-red ratio and green-to-blue ratio could differentiate infected from normal pixels with an error rate as low as 2.2%.
+
+The ability of MBC to measure the percentage of corneal surface suffering from infection makes this approach a valuable tool for investigating the dynamics of corneal-related diseases.
+

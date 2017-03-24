@@ -1,0 +1,3 @@
+
+An efficient technique to achieve isotropic edge enhancement in optics involves applying a radial Hilbert transform on the object spectrum. Here we demonstrate a simple setup for isotropic edge-enhancement in soft-x- ray microscopy, using a single diffractive Laguerre-Gaussian zone plate (LGZP) for radial Hilbert transform. Since the LGZP acts as a beam-splitter, diffraction efficiency problems usually associated with x-ray microscopy optics are not present in this system. As numerically demonstrated, the setup can detect optical path differences as small as lambda/50 with high contrast.
+

@@ -1,0 +1,9 @@
+
+The authors compared the behavior of two calculations of electroencephalographic spectral entropy, state entropy (SE) and response entropy (RE), with the A-Line ARX Index (AAI) and the Bispectral Index (BIS) and as measures of anesthetic drug effect. They compared the measures for baseline variability, burst suppression, and prediction probability. They also developed pharmacodynamic models relating SE, RE, AAI, and BIS to the calculated propofol effect-site concentration (Ceprop).
+
+With institutional review board approval, the authors studied 10 patients. All patients received 50 mg/min propofol until either burst suppression greater than 80% or mean arterial pressure less than 50 mmHg was observed. SE, RE, AAI, and BIS were continuously recorded. Ceprop was calculated from the propofol infusion profile. Baseline variability, prediction of burst suppression, prediction probability, and Spearman rank correlation were calculated for SE, RE, AAI, and BIS. The relations between Ceprop and the electroencephalographic measures of drug effect were estimated using nonlinear mixed effect modeling.
+
+Baseline variability was lowest when using SE and RE. Burst suppression was most accurately detected by spectral entropy. Prediction probability and individualized Spearman rank correlation were highest for BIS and lowest for SE. Nonlinear mixed effect modeling generated reasonable models relating all four measures to Ceprop.
+
+Compared with BIS and AAI, both SE and RE seem to be useful electroencephalographic measures of anesthetic drug effect, with low baseline variability and accurate burst suppression prediction. The ability of the measures to predict Ceprop was best for BIS.
+

@@ -1,0 +1,3 @@
+
+A new algorithm for computing electron microscopy tomograms which combines iterative methods with dual-axis geometry is presented. Initial modelling using test data shows several improvements over both the weighted back-projection and simultaneous iterative reconstruction technique methods, with increased stability and tomogram fidelity under high-noise conditions. Preliminary experimental dual-axis reconstructions confirm the viability of the new algorithm.
+

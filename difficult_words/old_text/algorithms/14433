@@ -1,0 +1,3 @@
+
+The yearly output of scientific papers is constantly rising and makes it often impossible for the individual researcher to keep up. Text mining of scientific publications is, therefore, an interesting method to automate knowledge and data retrieval from the literature. In this chapter, we discuss specific tasks required for text mining, including their problems and limitations. The second half of the chapter demonstrates the various aspects of text mining using a practical example. Publications are transformed into a vector space representation and then support vector machines are used to classify papers depending on their content of kinetic parameters, which are required for model building in systems biology.
+

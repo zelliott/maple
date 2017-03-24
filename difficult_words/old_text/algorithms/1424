@@ -1,0 +1,3 @@
+
+A computer program for automatic particle picking based on textural methods is proposed. The technique relies on the evaluation of certain textural parameters for data windows containing single particles, and those containing undesirable material. These parameters are manipulated by a discriminant analysis routine for determining the rules of classification between the different categories. The effectiveness of the method was demonstrated by application to electron micrographs of 70S Escherichia coli ribosomes.
+

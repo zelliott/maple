@@ -1,0 +1,9 @@
+
+   Freehand tracked ultrasound imaging is an inexpensive non-invasive technique used in several guided interventions. This technique requires spatial calibration between the tracker and the ultrasound image plane. Several calibration devices (a.k.a. phantoms) use N-wires that are convenient for automatic procedures since the segmentation of fiducials in the images and the localization of the middle wires in space are straightforward and can be performed in real time. The procedures reported in literature consider only the spatial position of the middle wire. We investigate if better results can be achieved if the information of all the wires is equally taken into account. We also evaluated the precision and accuracy of the implemented methods to allow comparison with other methods.
+
+   We consider a cost function based on the in-plane errors between the intersection of all the wires with the image plane and their respective segmented points in the image. This cost function is minimized iteratively starting from a seed computed with a closed-form solution based on the middle wires.
+
+   Mean calibration precision achieved with the N-wire phantom was about 0.5 mm using a shallow probe, and mean accuracy was around 1.4 mm with all implemented methods. Precision was about 2.0 mm using a deep probe.
+
+   Precision and accuracy achieved with the N-wire phantom and a shallow probe are at least comparable to that obtained with other methods traditionally considered more precise. Calibration using N-wires can be done more consistently if the parameters are optimized with the proposed cost function.
+

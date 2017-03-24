@@ -1,0 +1,9 @@
+
+Recent experiments have explored effects of activities of kinases other than the well-studied GSK3beta, in wnt pathway signaling, particularly at the level of beta-catenin. It has also been found that the kinase PKA attenuates beta-catenin degradation. However, the effects of these kinases on the level and degradation of beta-catenin and the resulting downstream transcription activity remain to be clarified. Furthermore, the effect of GSK3beta phosphorylation on the beta-catenin level has not been examined computationally. In the present study, the effects of phosphorylation of GSK3beta and of phosphorylations and degradation of beta-catenin on the kinetics of the wnt signaling pathway were examined computationally.
+
+The well-known computational Lee-Heinrich kinetic model of the wnt pathway was modified to include these effects. The rate laws of reactions in the modified model were solved numerically to examine these effects on beta-catenin level.
+
+The computations showed that the beta-catenin level is almost linearly proportional to the phosphorylation activity of GSK3beta. The dependence of beta-catenin level on the phosphorylation and degradation of free beta-catenin and downstream TCF activity can be analyzed with an approximate, simple function of kinetic parameters for added reaction steps associated with effects examined, rationalizing the experimental results.
+
+The phosphorylations of beta-catenin by kinases other than GSK3beta involve free unphorphorylated beta-catenin rather than GSK3beta-phosphorylated beta-catenin*. In order to account for the observed enhancement of TCF activity, the beta-catenin dephosphorylation step is essential, and the kinetic parameters of beta-catenin phosphorylation and degradation need to meet a condition described in the main text. These findings should be useful for future experiments.
+

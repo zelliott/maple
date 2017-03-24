@@ -1,0 +1,3 @@
+
+Microscopy has become a de facto tool for biology. However, it suffers from a fundamental problem of poor contrast with increasing depth, as the illuminating light gets attenuated and scattered and hence can not penetrate through thick samples. The resulting decay of light intensity due to attenuation and scattering varies exponentially across the image. The classical space invariant deconvolution approaches alone are not suitable for the restoration of uneven illumination in microscopy images. In this paper, we present a novel physics-based field theoretical approach to solve the contrast degradation problem of light microscopy images. We have confirmed the effectiveness of our technique through simulations as well as through real field experimentations.
+

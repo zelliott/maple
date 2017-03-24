@@ -1,0 +1,9 @@
+
+To assess the feasibility to generate a confident image of normal breath sounds (BS) based on the quantitative analysis of multichannel sensors and imaging them in three known clinical classes, i.e., tracheal, bronchial and vesicular, identifying their spatial distribution with high resolution on the posterior thoracic surface.
+
+Three parametrization techniques, the percentile frequencies, the univariate AR modeling, and the eigenvalues of the covariance matrix were evaluated when applied to BS. These sounds were acquired in twelve healthy subjects by a 5x5 sensor array on the posterior thoracic surface plus the sound at the tracheal position, to obtain feature vectors that fed a supervised multilayer neural network. Based on BS classification rate, the spatial distribution of each BS class was obtained by constructing an image using deterministic interpolation.
+
+The univariate AR modeling was the best parametrization technique producing a classification performance of 96% during the validation phase and just 4% of not classified feature vectors. Corresponding values for the percentile frequencies were 92% and 7.7%, whereas for the eigenvalues were 91% and 9.0%.
+
+This work shows that it is possible to generate confident images associated with the distribution of normal BS classes. Therefore, a detailed image about the spatial distribution of BS in humans might be helpful for detecting lung diseases.
+

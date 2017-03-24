@@ -1,0 +1,3 @@
+
+A method for deconvolution of the true image of an object from two recorded images is proposed. These two images have to be made by an imaging system with two different but interconnected kernels. The method is formulated as a system of Fredholm equations of the first kind reduced to a single functional equation in Fourier space. The kernels of the system and the true image of an object are found from the same recorded images.
+

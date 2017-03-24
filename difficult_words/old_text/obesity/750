@@ -1,0 +1,11 @@
+
+To determine if the relationship between abdominal visceral fat (AVF) and measures of adiposity are different between Black and White subjects and to develop valid field prediction models that accurately identify those individuals with AVF levels associated with high risk for chronic disease.
+
+Cross-sectional measurements obtained from 91 Black men, 137 Black women, 227 White men, and 237 White women subjects, ages 17-65 y, who were participants in the HERITAGE Family Study, both at baseline and following 20 weeks of endurance training.
+
+AVF, abdominal subcutaneous fat (ASF), abdominal total fat (ATF), and sagittal diameter (SagD) were measured by computed tomography (CT). Body density was determined by hydrostatic weighing and was used to estimate relative body fat. Arm, waist (WC), and hip circumferences and skinfold thickness measures were taken, and BMI was calculated from weight (kg) and height (m(2)). Since CT abdominal fat variables were skewed, a natural log transformation (Ln) was used to produce a normal distribution. The General Linear Model (GLM) procedure was used to test the relationship between AVF and two different groups of variables-CT and anthropometric.
+
+The AVF of White men and women was significantly higher than that of Black men and women, independent of BMI, WHR, WC, and age, and was greater for men than for women. The CT model showed that the combination of SagD, Ln (ASF), age, and race accounted for 84 and 75% of the variance in AVF in men and women, respectively. The anthropometric model provided two valid generalized field AVF prediction equations. The Field-I equation, which included BMI, WHR, age and race, had an r(2) of 0.78 and 0.73 for men and women, respectively. The Field-II equation, which included BMI (women only), WC, age, and race, had an r(2) of 0.78 and 0.72 for men and women, respectively. The field model equations became less accurate as the estimated AVF increased.
+
+(1) At the same age and level of adiposity, Black men and women have less AVF than White men and women. These differences are greater in men than in women. (2) The field regression equations can be generalized to the diverse group of adults studied, both in an untrained and trained state. However, their accuracy decreases with increasing levels of AVF.
+

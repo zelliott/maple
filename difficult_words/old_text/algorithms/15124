@@ -1,0 +1,3 @@
+
+We show that under reasonable conditions the nonparametric maximum likelihood estimate (NPMLE) of the distribution function from left-truncated and case 1 interval-censored data is inconsistent, in contrast to the consistency properties of the NPMLE from only left-truncated data or only interval-censored data. However, the conditional NPMLE is shown to be consistent. Numerical examples are provided to illustrate their finite sample properties.
+

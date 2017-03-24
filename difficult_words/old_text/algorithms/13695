@@ -1,0 +1,3 @@
+
+Oligonucleotide hybridization can be used to sequence short regions of DNA. In this report, I examine the extent to which this method can be used to sequence genomic DNA, using simulation experiments performed on known human genomic DNA sequences, and show that segments of sequence of up to 800-bp length may be unambiguously sequenced using 65,536 mixed 11-mers. Conventional sequencing or hybridization to specific, longer oligonucleotides can extend this limit in a mixed strategy that can sequence 10-kb DNA sequences with 5-7 conventional sequencing reactions and hybridization to a mixed 12-mer probe array.
+

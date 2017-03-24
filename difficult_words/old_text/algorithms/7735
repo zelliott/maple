@@ -1,0 +1,3 @@
+
+A novel algorithm and subroutine is presented for encoding and decoding calendar dates. For encoding a numeric calendar date in the form day, month, year is converted into an integer variable in the range between 2(15) -1 and -2(15). With decoding this integer variable is converted into numeric day, month and year. The algorithm performs very quickly and takes only 7 lines of FORTRAN code for encoding and decoding respectively.
+

@@ -1,0 +1,9 @@
+
+An electronic nose (e-nose), the Cyrano Sciences' Cyranose 320, comprising an array of thirty-two polymer carbon black composite sensors has been used to identify six species of bacteria responsible for eye infections when present at a range of concentrations in saline solutions. Readings were taken from the headspace of the samples by manually introducing the portable e-nose system into a sterile glass containing a fixed volume of bacteria in suspension. Gathered data were a very complex mixture of different chemical compounds.
+
+Linear Principal Component Analysis (PCA) method was able to classify four classes of bacteria out of six classes though in reality other two classes were not better evident from PCA analysis and we got 74% classification accuracy from PCA. An innovative data clustering approach was investigated for these bacteria data by combining the 3-dimensional scatter plot, Fuzzy C Means (FCM) and Self Organizing Map (SOM) network. Using these three data clustering algorithms simultaneously better 'classification' of six eye bacteria classes were represented. Then three supervised classifiers, namely Multi Layer Perceptron (MLP), Probabilistic Neural network (PNN) and Radial basis function network (RBF), were used to classify the six bacteria classes.
+
+A [6 x 1] SOM network gave 96% accuracy for bacteria classification which was best accuracy. A comparative evaluation of the classifiers was conducted for this application. The best results suggest that we are able to predict six classes of bacteria with up to 98% accuracy with the application of the RBF network.
+
+This type of bacteria data analysis and feature extraction is very difficult. But we can conclude that this combined use of three nonlinear methods can solve the feature extraction problem with very complex data and enhance the performance of Cyranose 320.
+

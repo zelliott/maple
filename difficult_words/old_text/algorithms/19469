@@ -1,0 +1,7 @@
+
+Identifying cis-regulatory elements is crucial to understanding gene expression, which highlights the importance of the computational detection of overrepresented transcription factor binding sites (TFBSs) in coexpressed or coregulated genes. However, this is a challenging problem, especially when considering higher eukaryotic organisms.
+
+We have developed a method, named TFM-Explorer, that searches for locally overrepresented TFBSs in a set of coregulated genes, which are modeled by profiles provided by a database of position weight matrices. The novelty of the method is that it takes advantage of spatial conservation in the sequence and supports multiple species. The efficiency of the underlying algorithm and its robustness to noise allow weak regulatory signals to be detected in large heterogeneous data sets.
+
+TFM-Explorer provides an efficient way to predict TFBS overrepresentation in related sequences. Promising results were obtained in a variety of examples in human, mouse, and rat genomes. The software is publicly available at http://bioinfo.lifl.fr/TFM-Explorer.
+

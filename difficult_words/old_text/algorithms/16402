@@ -1,0 +1,7 @@
+
+We investigate methods used to analyse the results of clinical trials with survival outcomes in which some patients switch from their allocated treatment to another trial treatment. These included simple methods which are commonly used in medical literature and may be subject to selection bias if patients switching are not typical of the population as a whole. Methods which attempt to adjust the estimated treatment effect, either through adjustment to the hazard ratio or via accelerated failure time models, were also considered. A simulation study was conducted to assess the performance of each method in a number of different scenarios.
+
+16 different scenarios were identified which differed by the proportion of patients switching, underlying prognosis of switchers and the size of true treatment effect. 1000 datasets were simulated for each of these and all methods applied. Selection bias was observed in simple methods when the difference in survival between switchers and non-switchers were large. A number of methods, particularly the AFT method of Branson and Whitehead were found to give less biased estimates of the true treatment effect in these situations.
+
+Simple methods are often not appropriate to deal with treatment switching. Alternative approaches such as the Branson & Whitehead method to adjust for switching should be considered.
+

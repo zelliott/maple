@@ -1,0 +1,9 @@
+
+To develop and evaluate an algorithm for the automatic screening of electrographic neonatal seizures (ENS) in amplitude-integrated electroencephalography (aEEG) signals.
+
+CFM recordings were recorded in asphyxiated (near)term newborns. ENS of at least 60 sec were detected based on their characteristic pattern in the aEEG signal, an increase of its lower boundary. The algorithm was trained using five CFM recordings (training set) annotated by a neurophysiologist, observer1. The evaluation of the algorithm was based on eight different CFM recordings annotated by observer1 (test set observer 1) and an independent neurophysiologist, observer2 (test set observer 2).
+
+The interobserver agreement between observer1 and 2 in interpreting ENS from the CFM recordings was high (G coefficient: 0.82). After dividing the eight CFM recordings into 1-min segments and classification in ENS or non-ENS, the intraclass correlation coefficient showed high correlations of the algorithm with both test sets (respectively, 0.95 and 0.85 with observer1 and 2). The algorithm showed in five recordings a sensitivity > or = 90% and approximately 1 false positive ENS per hour. However, the algorithm showed in three recordings much lower sensitivities: one recording showed ENSs of extremely high amplitude that were incorrectly classified by the algorithm as artefacts and two recordings suffered from low interobserver agreement.
+
+This study shows the feasibility of automatic ENS screening based on aEEG signals and may facilitate in the bed-side interpretation of aEEG signals in clinical practice.
+

@@ -1,0 +1,9 @@
+
+Being overweight or obese increases risk for cardiometabolic disorders. Although both body mass index (BMI) and waist circumference (WC) measure the level of overweight and obesity, WC may be more important because of its closer relationship to total body fat. Because WC is typically not assessed in clinical practice, this study sought to develop and verify a model to predict WC from BMI and demographic data, and to use the predicted WC to assess cardiometabolic risk.
+
+Data were obtained from the Third National Health and Nutrition Examination Survey (NHANES) and the Atherosclerosis Risk in Communities Study (ARIC). We developed linear regression models for men and women using NHANES data, fitting waist circumference as a function of BMI. For validation, those regressions were applied to ARIC data, assigning a predicted WC to each individual. We used the predicted WC to assess abdominal obesity and cardiometabolic risk.
+
+The model correctly classified 88.4% of NHANES subjects with respect to abdominal obesity. Median differences between actual and predicted WC were -0.07 cm for men and 0.11 cm for women. In ARIC, the model closely estimated the observed WC (median difference: -0.34 cm for men, +3.94 cm for women), correctly classifying 86.1% of ARIC subjects with respect to abdominal obesity and 91.5% to 99.5% as to cardiometabolic risk.The model is generalizable to Caucasian and African-American adult populations because it was constructed from data on a large, population-based sample of men and women in the United States, and then validated in a population with a larger representation of African-Americans.
+
+The model accurately estimates WC and identifies cardiometabolic risk. It should be useful for health care practitioners and public health officials who wish to identify individuals and populations at risk for cardiometabolic disease when WC data are unavailable.
+

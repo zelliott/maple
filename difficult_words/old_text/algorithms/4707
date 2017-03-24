@@ -1,0 +1,3 @@
+
+The problem of object recognition has been considered here. Color descriptions from distinct regions covering multiple segments are considered for object representation. Distinct multicolored regions are detected using edge maps and clustering. Performance of the proposed methodologies has been evaluated on three data sets and the results are found to be better than existing methods when a small number of training views is considered.
+

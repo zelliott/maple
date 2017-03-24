@@ -1,0 +1,3 @@
+
+Spatial-temporal calcium dynamics due to calcium release, buffering, and re-uptaking plays a central role in studying excitation-contraction (E-C) coupling in both healthy and defected cardiac myocytes. In our previous work, partial differential equations (PDEs) had been used to simulate calcium dynamics with realistic geometries extracted from electron microscopic imaging data. However, the computational costs of such simulations are very high on a single processor. To alleviate this problem, we have accelerated the numerical simulations of calcium dynamics by using graphics processing units (GPUs). Computational performance and simulation accuracy are compared with those based on a single CPU and another popular parallel computing technique, OpenMP.
+

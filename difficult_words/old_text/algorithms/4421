@@ -1,0 +1,7 @@
+
+The Sulston score is a well-established, though approximate metric for probabilistically evaluating postulated clone overlaps in DNA fingerprint mapping. It is known to systematically over-predict match probabilities by various orders of magnitude, depending upon project-specific parameters. Although the exact probability distribution is also available for the comparison problem, it is rather difficult to compute and cannot be used directly in most cases. A methodology providing both improved accuracy and computational economy is required.
+
+We propose a straightforward algebraic correction procedure, which takes the Sulston score as a provisional value and applies a power-law equation to obtain an improved result. Numerical comparisons indicate dramatically increased accuracy over the range of parameters typical of traditional agarose fingerprint mapping. Issues with extrapolating the method into parameter ranges characteristic of newer capillary electrophoresis-based projects are also discussed.
+
+Although only marginally more expensive to compute than the raw Sulston score, the correction provides a vastly improved probabilistic description of hypothesized clone overlaps. This will clearly be important in overlap assessment and perhaps for other tasks as well, for example in using the ranking of overlap probabilities to assist in clone ordering.
+

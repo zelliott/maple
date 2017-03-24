@@ -1,0 +1,3 @@
+
+We propose novel algorithms for the timing correlation of streaming sensor data. The sensor data are assumed to have interval timestamps so that they can represent temporal uncertainties. The proposed algorithms can support efficient timing correlation for various timing predicates such as deadline, delay, and within. In addition to the classical techniques, lazy evaluation and result cache are utilized to improve the algorithm performance. The proposed algorithms are implemented and compared under various workloads.
+

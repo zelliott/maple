@@ -1,0 +1,9 @@
+
+During the last few years, the knowledge of drug, disease phenotype and protein has been rapidly accumulated and more and more scientists have been drawn the attention to inferring drug-disease associations by computational method. Development of an integrated approach for systematic discovering drug-disease associations by those informational data is an important issue.
+
+We combine three different networks of drug, genomic and disease phenotype and assign the weights to the edges from available experimental data and knowledge. Given a specific disease, we use our network propagation approach to infer the drug-disease associations.
+
+We apply prostate cancer and colorectal cancer as our test data. We use the manually curated drug-disease associations from comparative toxicogenomics database to be our benchmark. The ranked results show that our proposed method obtains higher specificity and sensitivity and clearly outperforms previous methods. Our result also show that our method with off-targets information gets higher performance than that with only primary drug targets in both test data.
+
+We clearly demonstrate the feasibility and benefits of using network-based analyses of chemical, genomic and phenotype data to reveal drug-disease associations. The potential associations inferred by our method provide new perspectives for toxicogenomics and drug reposition evaluation.
+

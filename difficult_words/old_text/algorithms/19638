@@ -1,0 +1,9 @@
+
+Independent checking of beam monitor units is an essential step in the preparation of any radiotherapy plan. The present work describes a simple model for calculating a point dose from an arbitrary number of irregular, asymmetric fields, typical of beam segments used for IMRT.
+
+Primary and scatter dose contributions were separated using a two-parameter exponential fit to measured beam data, from which differential scatter is determined. A total of 60 IMRT patient plans for a five-field prostate class solution were investigated to validate the model.
+
+The average difference between the model's prediction and direct measurement of reference dose was found to be -0.6% (ranging from -2.9% to +1.6%), with a standard deviation of 1.0%. This compares well with the observed average difference between treatment planning system prediction and direct measurement of +0.8% (SD 0.6%).
+
+The model is shown to provide a reliable and accurate independent check of planning system monitor units for the prostate IMRT plans studied. Implementation of the model could significantly reduce the time needed for point dose verification of IMRT plans currently performed by direct measurement.
+

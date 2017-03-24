@@ -1,0 +1,9 @@
+
+Using mRNA expression-derived signatures as predictors of individual patient outcome has been a goal ever since the introduction of microarrays. Here, we addressed whether analyses of tumour mRNA at the exon level can improve on the predictive power and classification accuracy of gene-based expression profiles using neuroblastoma as a model.
+
+In a patient cohort comprising 113 primary neuroblastoma specimens expression profiling using exon-level analyses was performed to define predictive signatures using various machine-learning techniques. Alternative transcript use was calculated from relative exon expression. Validation of alternative transcripts was achieved using qPCR- and cell-based approaches.
+
+Both predictors derived from the gene or the exon levels resulted in prediction accuracies >80% for both event-free and overall survival and proved as independent prognostic markers in multivariate analyses. Alternative transcript use was most prominently linked to the amplification status of the MYCN oncogene, expression of the TrkA/NTRK1 neurotrophin receptor and survival.
+
+As exon level-based prediction yields comparable, but not significantly better, prediction accuracy than gene expression-based predictors, gene-based assays seem to be sufficiently precise for predicting outcome of neuroblastoma patients. However, exon-level analyses provide added knowledge by identifying alternative transcript use, which should deepen the understanding of neuroblastoma biology.
+

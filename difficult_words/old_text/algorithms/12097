@@ -1,0 +1,3 @@
+
+For linear model analysis of data from multicenter clinical trials, results are presented to assist in comparing commonly used approaches in which individual center results are weighted either equally or according to the amount of information they provide. A measure of center size imbalance directly relating to the relative efficiencies of the two weightings is defined. It is demonstrated that when centers of different sizes are given equal weight, the method by which sample size is conventionally calculated is incorrect. Center weighting resulting from use of random-effect models is also discussed.
+

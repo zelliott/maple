@@ -1,0 +1,3 @@
+
+A previously developed function, the Modelling Power Plot, has been applied to QSARs developed using partial least squares (PLS) following variable selection from a genetic algorithm (GA). Modelling power (Mp) integrates the predictive and descriptive capabilities of a QSAR. With regard to QSARs for narcotic toxic potency, Mp was able to guide the optimal selection of variables using a GA. The results emphasise the importance of Mp to assess the success of the variable selection and that techniques such as PLS are more robust following variable selection.
+

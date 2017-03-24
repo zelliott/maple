@@ -1,0 +1,3 @@
+
+In this paper, the application of Classification And Regression Trees (CART) is presented for the analysis of biological activity of Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs). The data consist of the biological activities, expressed as pIC50, of 208 NNRTIs against wild-type HIV virus (HIV-1) and four mutant strains (181C, 103N, 100I, 188L) and the computed interaction energies with the Reverse Transcriptase (RT) binding pocket. CART explains the observed biological activity of NNRTIs in terms of interactions with individual amino acids in the RT binding pocket, i.e., the original data variables.
+

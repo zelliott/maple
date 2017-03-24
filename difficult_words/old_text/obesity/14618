@@ -1,0 +1,9 @@
+
+To examine the relationship between BMI and patient satisfaction with health care providers using a nationally representative survey.
+
+This analysis examined the 9914 adult patients who completed the 2000 Medical Expenditure Panel Survey and had visited a health care provider within 12 months of the survey. Linear regression models were employed with patient satisfaction as the dependent variable. The patient satisfaction scale was based on ratings from five questions assessing the quality of provider interactions. The independent variable was BMI, with adjustments for the domains of demographics, social-economic status, health attitudes and behavior, health status, and health care use. BMI (weight in kilograms/square of height in meters) was classified as normal weight (18.5 to 24.9), overweight (25.0 to 29.9), or obese &>or=30.0). Hierarchical models were used to evaluate how each domain modified the BMI-satisfaction association.
+
+Obese patients reported significantly greater satisfaction with their health care providers than their normal-weight counterparts did (p &<0.05). There were no significant differences in satisfaction between normal-weight and overweight patients or between overweight and obese patients. The health status domain produced the largest modification in the BMI-satisfaction relationship. Examination of interaction effects revealed that the association between BMI and satisfaction was confined to older persons.
+
+In this nationally representative sample of individuals, obese persons were more satisfied than their normal-weight counterparts. This finding counters those of previous studies. Incomplete adjustments for health care use and insurance status may have led to those conclusions.
+

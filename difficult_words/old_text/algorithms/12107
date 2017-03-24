@@ -1,0 +1,7 @@
+
+Presently available methods that use p-values to estimate or control the false discovery rate (FDR) implicitly assume that p-values are continuously distributed and based on two-sided tests. Therefore, it is difficult to reliably estimate the FDR when p-values are discrete or based on one-sided tests.
+
+A simple and robust method to estimate the FDR is proposed. The proposed method does not rely on implicit assumptions that tests are two-sided or yield continuously distributed p-values. The proposed method is proven to be conservative and have desirable large-sample properties. In addition, the proposed method was among the best performers across a series of 'real data simulations' comparing the performance of five currently available methods.
+
+Libraries of S-plus and R routines to implement the method are freely available from www.stjuderesearch.org/depts/biostats.
+

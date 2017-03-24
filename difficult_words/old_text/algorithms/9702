@@ -1,0 +1,9 @@
+
+Automatic measurement of arterial blood pressure is important, but the available commercial automatic blood pressure meters, mostly based on oscillometry, are of low accuracy.
+
+In this study, we present a cuff-based technique for automatic measurement of systolic blood pressure, based on photoplethysmographic signals measured simultaneously in fingers of both hands. After inflating the pressure cuff to a level above systolic blood pressure in a relatively slow rate, it is slowly deflated. The cuff pressure for which the photoplethysmographic signal reappeared during the deflation of the pressure-cuff was taken as the systolic blood pressure. The algorithm for the detection of the photoplethysmographic signal involves: (1) determination of the time-segments in which the photoplethysmographic signal distal to the cuff is expected to appear, utilizing the photoplethysmographic signal in the free hand, and (2) discrimination between random fluctuations and photoplethysmographic pattern. The detected pulses in the time-segments were identified as photoplethysmographic pulses if they met two criteria, based on the pulse waveform and on the correlation between the signal in each segment and the signal in the two neighboring segments.
+
+Comparison of the photoplethysmographic-based automatic technique to sphygmomanometry, the reference standard, shows that the standard deviation of their differences was 3.7 mmHg. For subjects with systolic blood pressure above 130 mmHg the standard deviation was even lower, 2.9 mmHg. These values are much lower than the 8 mmHg value imposed by AAMI standard for automatic blood pressure meters.
+
+The photoplethysmographic-based technique for automatic measurement of systolic blood pressure, and the algorithm which was presented in this study, seems to be accurate.
+

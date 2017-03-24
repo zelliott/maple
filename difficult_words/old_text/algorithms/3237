@@ -1,0 +1,3 @@
+
+In this paper is proposed a new method to solve the segmentation of the complicated defocusing urinary sediment image. The main points of the method are: (1) using wavelet transforms and morphology to erase the effect of defocusing and realize the first segmentation, (2) using adaptive threshold processing in accordance to the subimages after wavelet processing, and (3) using 'peel off' algorithm to deal with the overlapped cells' segmentations. The experimental results showed that this method was not affected by the defocusing, and it made good use of many kinds of characteristics of the images. So this new mehtod can get very precise segmentation; it is effective for defocusing urinary sediment image segmentation.
+

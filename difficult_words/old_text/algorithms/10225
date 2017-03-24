@@ -1,0 +1,9 @@
+
+To assess the impact of simulating temporal changes in health-care practice patterns when calibrating longitudinal models to cross-sectional data.
+
+A Markov model of cervical cancer was calibrated to recent age-specific US data on the prevalence of cervical abnormalities, cervical cancer incidence, and related mortality. The impact of failing to account for temporal changes in screening practices was assessed by comparing results from 1) a conventional calibration that incorrectly assumed that all women had been exposed to current screening practices in the past and 2) an historically accurate calibration that reflected the fact that US women 65 years of age and older had not received currently available screening practices at younger ages.
+
+The parameter set derived from conventional calibration produced a cervical cancer incidence rate of 13.4 per 100,000 among women aged 65 years and older, which is equal to the target end point. However, when this parameter set was used in the model to simulate the effects of historically correct screening, cervical incidence and related mortality in the 65 years and older age group were overestimated by 18% and 47%, respectively. Finally, when the parameter set was correctly calibrated by assuming historical changes in screening in the calibration process, excellent calibration to both incidence and mortality was obtained.
+
+Calibrating longitudinal models to cross-sectional data without accounting for temporal changes in clinical practice may result in a parameter set that is not as optimized as it appears and may lead to bias in evaluating the effectiveness of interventions.
+

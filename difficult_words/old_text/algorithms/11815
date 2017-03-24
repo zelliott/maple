@@ -1,0 +1,3 @@
+
+The paper presents a 3D Brachytherapy Planning System based on CT/MRI images. Unlike other percutaneous radiotherapy planning systems, it provides doctors with an interactive source layout function, including accurate and quick dosage distribution calculation and dynamical 2D/3D display. A special template library and an integrated planning evaluation/alert subsystem are incorporated in the system. The system successfully has many functions such as data acquisition, registration, segmentation, image processing, 3D reconstruction and planning report output. Various automated procedures, 3-D graphics and a user-friendly interface GUI enable the system to be a powerful and practical one meeting well the chinical therapeutic demands.
+

@@ -1,0 +1,9 @@
+
+Intensity modulated radiotherapy (IMRT) provides better sparing of normal tissue. We investigated the feasibility of inverse treatment planning for IMRT in adjuvant radiotherapy for breast cancer.
+
+In addition to radiotherapy planning in conventional technique with tangential wedged 6-MV-photon beams we performed inversely planned IMRT (KonRad). In the CT scans for treatment planning we defined a 10-mm bolus of -60 HE density. The influence of this bolus on planning optimization was determined by optimization without and dose calculation with and without bolus. Dose calculation after dose optimization with bolus was performed using different bolus thickness to determine the influence of the bolus on dose calculation. The results were compared with dose distribution in conventional technique.
+
+Inverse optimization with a dose algorithm which considers tissue inhomogeneity results in unintended dose increase at the patient surface. With a virtual 10-mm bolus used for inverse optimization the dose increase was reduced. Thus, skin sparing was identical to conventional planning. The relative dose distribution was negligibly affected by the use of a 10-mm bolus. Difference in absolute dose was 3.4% compared to calculation without bolus. Therefore, the bolus must be removed before final dose calculation.
+
+The realization of inverse optimization for IMRT of the breast requires the use of a virtual bolus. Thereby, IMRT in accordance to the consensus recommendations of the EORTC, BCCG and EUSOMA is possible. Especially, the same target definition as in conventional technique may be used. IMRT techniques with a conventional beam arrangement of two tangential fields or multiple beam techniques can be realized.
+

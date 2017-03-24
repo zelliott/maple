@@ -1,0 +1,7 @@
+
+Alignment-free sequence comparison methods are still in the early stages of development compared to those of alignment-based sequence analysis. In this paper, we introduce a probabilistic measure of similarity between two biological sequences without alignment. The method is based on the concept of comparing the similarity/dissimilarity between two constructed Markov models.
+
+The method was tested against six DNA sequences, which are the thrA, thrB and thrC genes of the threonine operons from Escherichia coli K-12 and from Shigella flexneri; and one random sequence having the same base composition as thrA from E.coli. These results were compared with those obtained from CLUSTAL W algorithm (alignment-based) and the chaos game representation (alignment-free). The method was further tested against a more complex set of 40 DNA sequences and compared with other existing sequence similarity measures (alignment-free).
+
+All datasets and computer codes written in MATLAB are available upon request from the first author.
+

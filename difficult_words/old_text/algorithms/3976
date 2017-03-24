@@ -1,0 +1,9 @@
+
+Although local electrograms during atrial fibrillation (AF) are often spectrally analyzed over 8-second (8s) intervals, changes may be common over intervals as short as 2s. We sought to determine whether averaged 2s measurements of electrogram spectral parameters were similar to 8s measurements, and whether the 2s intervals could provide an estimate of the temporal stability of the signal frequency content in paroxysmal versus persistent AF.
+
+Complex fractionated atrial electrograms (CFAEs) were acquired outside the pulmonary vein ostia and from free wall sites in nine paroxysmal and 10 longstanding persistent AF patients. Using a 2s sliding calculation window, a frequency spectrum was computed every 100 ms over an interval of 8.4 seconds (82 spectra in total). The dominant frequency (DF), the dominant amplitude (DA), and the mean spectral profile (MP) were measured. The 2s measurements were compared to single 8.4-second interval measurements. Coefficients of variation (COV) were computed from the 82 spectra for each CFAE recording to determine temporal variability of parameters.
+
+Over the sliding 2s computation intervals, as for fixed 8.4-second computation intervals, mean DA and DF were significantly higher in longstanding persistent AF while MP was significantly higher in paroxysmal AF (P ≤ 0.001). The COV was significantly higher for the DF parameter in paroxysmal AF (P < 0.001) and significantly higher for the MP parameter in persistent AF (P < 0.02).
+
+For both paroxysmal and persistent AF data, the 2s sliding window averages provide similar results to single 8.4-second intervals, and information regarding temporal stability was additionally obtained in the process.
+

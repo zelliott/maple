@@ -1,0 +1,9 @@
+
+The goal of this study was to investigate the impact of reduced k-space sampling rates on the visualization of a moving MR-compatible puncture needle and to demonstrate the feasibility of keyhole imaging in interventional magnetic resonance imaging (MRI).
+
+All experiments were performed in an open 1.0 Tesla MRI. MR images of a moving puncture needle were taken with different keyhole sampling rates from 15-100%, in 10% increments. The needle was submerged in a water-filled basin and was imaged in motion with a T1-weighted gradient-echo sequence with an initial acquisition rate of 1.4 s per image. An apparatus operated by a compressor unit enabled needle rotation and ensured reproducible needle movements. The median forward velocity of the needle tip was 2 cm/s. To evaluate the depiction of the needle, artifact diameter of the needle, contrast-to-noise ratio (CNR), and needle tip profiles (delineation) were measured.
+
+The needle position was determined with an longitudinal error of 3 mm and a transverse error of 0.8 mm with respect to the needle's orientation and the theoretically calculated trajectory. No significant correlation was found between the CNR and velocity. A reduction of k-space update rates caused neither a significant reduction of CNR nor a significant increase in artifact diameter or blurring of the needle profile.
+
+The application of keyhole imaging with update rates of greater than 15% is sufficient for the MR guidance of interventions with an signal-to-noise ratio >9 of the surrounding tissue and a target accuracy of >1 mm. Keyhole imaging can increase temporal resolution while ensuring unimpaired spatial resolution and image quality of the depicted instrument.
+

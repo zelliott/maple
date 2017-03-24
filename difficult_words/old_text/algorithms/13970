@@ -1,0 +1,7 @@
+
+The major signal in coding regions of genomic sequences is a three-base periodicity. Our aim is to use Fourier techniques to analyse this periodicity, and thereby to develop a tool to recognize coding regions in genomic DNA.
+
+The three-base periodicity in the nucleotide arrangement is evidenced as a sharp peak at frequency f = 1/3 in the Fourier (or power) spectrum. From extensive spectral analysis of DNA sequences of total length over 5.5 million base pairs from a wide variety or organisms (including the human genome), and by separately examining coding and non-coding sequences, we find that the relative-height of the peak at f = 1/3 in the Fourier spectrum is a good discriminator of coding potential. This feature is utilized by us to detect probable coding regions in DNA sequences, by examining the local signal-to-noise ratio of the peak within a sliding window. While the overall accuracy is comparable to that of other techniques currently in use, the measure that is presently proposed is independent of training sets or existing database information, and can thus find general application.
+
+A computer program GeneScan which locates coding open reading frames and exonic regions in genomic sequences has been developed, and is available on request.
+

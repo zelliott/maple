@@ -1,0 +1,3 @@
+
+A novel algorithm for fast resolution of multicomponent overlapping nuclear magnetic resonance (NMR) spectrum using the wavelet compression and the immune algorithm (IA) is proposed. Taking advantage of the linear property of the wavelet transform (WT), the overlapping NMR spectrum (antigen) can be compressed by WT before it is input into the immune network, the antibodies are also compressed to the same scheme. After extraction of the compressed information of each component, the resolved NMR spectra can be restored by the WT reconstruction. It was proven that the result is almost the same with the result from an IA, but the calculation speed is much faster.
+

@@ -1,0 +1,11 @@
+
+Accurate volumetric tumor delineation is of increasing importance in radiation treatment planning. Many tumors exhibit only moderate tracer uptake heterogeneity and delineation methods using an adaptive threshold lead to robust results. These methods use a tumor reference value R (e.g., ROI maximum) and the tumor background Bg to compute the volume reproducing threshold. This threshold corresponds to an isocontour which defines the tumor boundary. However, the boundaries of strongly heterogeneous tumors can not be described by an isocontour anymore and therefore conventional threshold methods are not suitable for accurate delineation. The aim of this work is the development and validation of a delineation method for heterogeneous tumors.
+
+The new method (voxel-specific threshold method, VTM) can be considered as an extension of an adaptive threshold method (lesion-specific threshold method, LTM), where instead of a lesion-specific threshold for the whole ROI, a voxel-specific threshold is computed by determining for each voxel Bg and R in the close vicinity of the voxel. The absolute threshold for the considered voxel is then given by Tabs=T×(R-Bg)+Bg, where T=0.39 was determined with phantom measurements.
+
+30 clinical datasets from patients with non-small-cell lung cancer were used to generate 30 realistic anthropomorphic software phantoms of tumors with different heterogeneities and well-known volumes and boundaries. Volume delineation was performed with VTM and LTM and compared with the known lesion volumes and boundaries.
+
+In contrast to LTM, VTM was able to reproduce the true tumor boundaries accurately, independent of the heterogeneity. The deviation of the determined volume from the true volume was (0.8±4.2)% for VTM and (11.0±16.4)% for LTM.
+
+In anthropomorphic software phantoms, the new method leads to promising results and to a clear improvement of volume delineation in comparison to conventional background-corrected thresholding. In the next step, the suitability for clinical routine will be further investigated.
+

@@ -1,0 +1,7 @@
+
+Detecting conserved noncoding sequences (CNSs) across species highlights the functional elements. Alignment procedures combined with computational prediction of transcription factor binding sites (TFBSs) can narrow down key regulatory elements. Repeat masking processes are often performed before alignment to mask insertion sequences such as transposable elements (TEs). However, recently such TEs have been reported to influence the gene regulatory network evolution. Therefore, an alignment approach that is robust to TE insertions is meaningful for finding novel conserved TFBSs in TEs.
+
+We constructed a web server 'ReAlignerV' for complex alignment of genomic sequences. ReAlignerV returns ladder-like schematic alignments that integrate predicted TFBSs and the location of TEs. It also provides pair-wise alignments in which the predicted TFBS sites and their names are shown alongside each sequence. Furthermore, we evaluated false positive aligned sites by focusing on the species-specific TEs (SSTEs), and found that ReAlignerV has a higher specificity and robustness to insertions for sequences having more than 20% TE content, compared to LAGAN, AVID, MAVID and BLASTZ.
+
+ReAlignerV can be applied successfully to TE-insertion-rich sequences without prior repeat masking, and this increases the chances of finding regulatory sequences hidden in TEs, which are important sources of the regulatory network evolution. ReAlignerV can be accessed through and downloaded from http://genet.med.kagawa-u.ac.jp/.
+

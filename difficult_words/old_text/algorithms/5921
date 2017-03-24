@@ -1,0 +1,3 @@
+
+The traditional approach to modeling bending of a thread consists in adding springs connecting non-neighbouring keypoints. An alternative is introduced, starting by articulating an intrinsic bending energy of an arbitrary joint, and deducing the resultant justification forces. Significant visual appeal is thus gained, with negligible computational costs. We further investigate the bending interaction of a spline with a connected rigid body, and mention several generalization directions.
+

@@ -1,0 +1,9 @@
+
+The aim of this study was to develop and validate a risk score algorithm for childhood overweight based on a prediction model in infants.
+
+Analysis was conducted by using the UK Millennium Cohort Study. The cohort was divided randomly by using 80% of the sample for derivation of the risk algorithm and 20% of the sample for validation. Stepwise logistic regression determined a prediction model for childhood overweight at 3 years defined by the International Obesity Task Force criteria. Predictive metrics R(2), area under the receiver operating curve (AUROC), sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were calculated.
+
+Seven predictors were found to be significantly associated with overweight at 3 years in a mutually adjusted predictor model: gender, birth weight, weight gain, maternal prepregnancy BMI, paternal BMI, maternal smoking in pregnancy, and breastfeeding status. Risk scores ranged from 0 to 59 corresponding to a predicted risk from 4.1% to 73.8%. The model revealed moderately good predictive ability in both the derivation cohort (R(2) = 0.92, AUROC = 0.721, sensitivity = 0.699, specificity = 0.679, PPV = 38%, NPV = 87%) and validation cohort (R(2) = 0.84, AUROC = 0.755, sensitivity = 0.769, specificity = 0.665, PPV = 37%, NPV = 89%).
+
+Using a prediction algorithm to identify at-risk infants could reduce levels of child overweight and obesity by enabling health professionals to target prevention more effectively. Further research needs to evaluate the clinical validity, feasibility, and acceptability of communicating this risk.
+

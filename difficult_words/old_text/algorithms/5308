@@ -1,0 +1,3 @@
+
+Multiplexing of discrete chaotic signals in presence of noise is investigated. The existing methods are based on chaotic synchronization, which is susceptible to noise, precision limitations, and requires more iterates. Furthermore, most of these methods fail for multiplexing more than two discrete chaotic signals. We propose novel methods to multiplex multiple discrete chaotic signals based on the principle of symbolic sequence invariance in presence of noise and finite precision implementation of finding the initial condition of an arbitrarily long symbolic sequence of a chaotic map. Our methods work for single precision and as less as 35 iterates. For two signals, our method is robust up to 50% noise level.
+

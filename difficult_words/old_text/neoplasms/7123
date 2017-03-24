@@ -1,0 +1,9 @@
+
+There is experimental evidence from animal models favoring the notion that the disruption of interactions between stroma and epithelium plays an important role in the initiation of carcinogenesis. These disrupted interactions are hypothesized to be mediated by molecules, termed morphostats, which diffuse through the tissue to determine cell phenotype and maintain tissue architecture.
+
+We developed a computer simulation based on simple properties of cell renewal and morphostats.
+
+Under the computer simulation, the disruption of the morphostat gradient in the stroma generated epithelial precursors of cancer without any mutation in the epithelium.
+
+The model is consistent with the possibility that the accumulation of genetic and epigenetic changes found in tumors could arise after the formation of a founder population of aberrant cells, defined as cells that are created by low or insufficient morphostat levels and that no longer respond to morphostat concentrations. Because the model is biologically plausible, we hope that these results will stimulate further experiments.
+

@@ -1,0 +1,9 @@
+
+To develop and validate an optical imaging nanoprobe for the discrimination of epidermal growth factor (EGF) receptor (EGFR)-overexpressing tumors from surrounding normal tissues that also expresses EGFR.
+
+Near-infrared (NIR) quantum dots (QD) were coupled to EGF using thiol-maleimide conjugation to create EGF-QD nanoprobes. In vitro binding affinity of these nanoprobes and unconjugated QDs was evaluated in a panel of cell lines, with and without anti-EGFR antibody pretreatment. Serial optical imaging of HCT116 xenograft tumors was done after systemic injection of QD and EGF-QD.
+
+EGF-QD showed EGFR-specific binding in vitro. In vivo imaging showed three distinct phases, tumor influx ( approximately 3 min), clearance ( approximately 60 min), and accumulation (1-6 h), of EGF-QD nanoprobes. Both QD and EGF-QD showed comparable nonspecific rapid tumor influx and clearance followed by attainment of an apparent dynamic equilibrium at approximately 60 min. Subsequently (1-6 h), whereas QD concentration gradually decreased in tumors, EGF-QDs progressively accumulated in tumors. On delayed imaging at 24 h, tumor fluorescence decreased to near-baseline levels for both QD and EGF-QD. Ex vivo whole-organ fluorescence, tissue homogenate fluorescence, and confocal microscopic analyses confirmed tumor-specific accumulation of EGF-QD at 4 h. Immunofluorescence images showed diffuse colocalization of EGF-QD fluorescence within EGFR-expressing tumor parenchyma compared with patchy perivascular sequestration of QD.
+
+These results represent the first pharmacokinetic characterization of a robust EGFR imaging nanoprobe. The measurable contrast enhancement of tumors 4 h after systemic administration of EGF-QD and its subsequent normalization at 24 h imply that this nanoprobe may permit quantifiable and repetitive imaging of EGFR expression.
+

@@ -1,0 +1,7 @@
+
+Microarray technology emerges as a powerful tool in life science. One major application of microarray technology is to identify differentially expressed genes under various conditions. Currently, the statistical methods to analyze microarray data are generally unsatisfactory, mainly due to the lack of understanding of the distribution and error structure of microarray data.
+
+We develop a generalized likelihood ratio (GLR) test based on the two-component model proposed by Rocke and Durbin to identify differentially expressed genes from microarray data. Simulation studies show that the GLR test is more powerful than commonly used methods, like the fold-change method and the two-sample t-test. When applied to microarray data, the GLR test identifies more differentially expressed genes than the t-test, has a lower false discovery rate and shows more consistency over independently repeated experiments.
+
+The approach is implemented in software called GLR, which is freely available for downloading at http://www.cc.utah.edu/~jw27c60
+

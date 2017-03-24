@@ -1,0 +1,3 @@
+
+This paper reviews computer vision and image analysis studies aiming at automated diagnosis or screening of malaria infection in microscope images of thin blood film smears. Existing works interpret the diagnosis problem differently or propose partial solutions to the problem. A critique of these works is furnished. In addition, a general pattern recognition framework to perform diagnosis, which includes image acquisition, pre-processing, segmentation, and pattern classification components, is described. The open problems are addressed and a perspective of the future work for realization of automated microscopy diagnosis of malaria is provided.
+

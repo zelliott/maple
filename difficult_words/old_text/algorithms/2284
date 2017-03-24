@@ -1,0 +1,3 @@
+
+Matching pursuit (MP), a new technique of time-frequency signal analysis, was applied to simulated signals and the awake and sleep EEG. With the MP algorithm, waveforms from a very large class of functions were fitted to the local signal structures in a recursive procedure. By means of this technique, sleep spindles were localized in the time-frequency plane with high precision, and their intensities and time spans were found. The MP technique makes following the temporal evolution of transients and their propagation in brains possible. It opens up new possibilities in EEG research providing a means of investigation of dynamic processes in brains in a much finer time-frequency scale than any other method available at present.
+

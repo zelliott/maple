@@ -1,0 +1,3 @@
+
+An algorithm for generating CPK images of molecules is presented that uses bitmap operations to solve the hidden-surface problem. The algorithm makes certain assumptions: that the size and shading of each atom are determined only by its type and are unaffected by the atom's position, and that an intersection table comprised of entries for all pairs of atoms whose radii intersect is available. For speed, bitmaps of shaded and colored atom disks are predrawn. The atoms are projected from back to front. Atom intersections are explicitly calculated and used to generate mask bitmaps that are then used to truncate the predrawn disks, leaving the visible portions of the atom disks.
+

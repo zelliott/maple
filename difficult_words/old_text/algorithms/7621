@@ -1,0 +1,9 @@
+
+Myocardial blood flow (MBF) is an important indicator of cardiac tissue health, which can be measured using arterial spin labeling. This study aimed to develop a new method of MBF quantification with blood pool magnetization measurement ("bpMBF quantification") that allows multislice cardiac arterial spin labeling.
+
+A multislice segmented ECG-gated Look-Locker T1 mapping sequence was validated. Quantification of multislice arterial spin labeling is not straightforward due to the large volume of blood inverted following slice-selective inversion. For bpMBF quantification, a direct measurement of the left-ventricle blood pool magnetization was used to approximate the blood input function into the Bloch equations. Simulations and in vivo measurements in the mouse heart were performed to evaluate the bpMBF method.
+
+Measurements indicated that blood pool magnetization requires ∼3 s to return to equilibrium following slice-selective inversion. Simulation and in vivo results show that bpMBF quantification is robust to variations in slice-selective thickness and therefore applicable to multislice acquisition, whereas traditional methods are likely to underestimate multislice perfusion. In vivo, single and multislice perfusion values matched well when quantified using bpMBF.
+
+The first multislice cardiac arterial spin labeling technique has been presented, which can be used for accurate perfusion measurements in studies of cardiac disease.
+

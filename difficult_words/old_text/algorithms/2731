@@ -1,0 +1,13 @@
+
+Pancreatic cancer has the worst survival for any cancer and is often diagnosed late when the cancer is advanced. Chances of survival are more likely if patients can be diagnosed earlier.
+
+To derive and validate an algorithm to estimate absolute risk of having pancreatic cancer in patients with and without symptoms in primary care.
+
+Cohort study using data from 375 UK QResearch® general practices for development and 189 for validation.
+
+Included patients were aged 30-84 years, free at baseline from a diagnosis of pancreatic cancer and had not had dysphagia, abdominal pain, abdominal distension, appetite loss, or weight loss recorded in the preceding 12 months. The primary outcome was incident diagnosis of pancreatic cancer recorded in the following 2 years. Risk factors examined included: age, body mass index, smoking status, alcohol, deprivation, diabetes, pancreatitis, previous diagnosis of cancer apart from pancreatic cancer, dysphagia, abdominal pain, abdominal distension, appetite loss, weight loss, diarrhoea, constipation, tiredness, itching, and anaemia. Cox proportional hazards models were used to develop separate risk equations in males and females. Measures of calibration and discrimination assessed performance in the validation cohort.
+
+There were a total of 1415 incident cases of pancreatic cancer from 4.1 million person-years in the derivation cohort. Independent predictors in both males and females were age, smoking, type 2 diabetes, chronic pancreatitis, abdominal pain, appetite loss, and weight loss. Abdominal distension was a predictor for females only; dysphagia and constipation were predictors for males only. On validation, the algorithms explained 59% of the variation in females and 62% in males. The receiver operating characteristic statistics were 0.84 (females) and 0.87 (males). The D statistic was 2.44 (females) and 2.61 (males). The 10% of patients with the highest predicted risks contained 62% of all pancreatic cancers diagnosed over the following 2 years.
+
+The algorithm has good discrimination and calibration and could potentially be used to help identify those at highest risk of pancreatic cancer to facilitate early referral and investigation.
+

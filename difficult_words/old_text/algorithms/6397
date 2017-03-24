@@ -1,0 +1,9 @@
+
+The ventilation-perfusion lung scan is evolving into an alternative diagnostic test for patients who cannot tolerate contrast computed tomography studies. It is likely that this shift in patient population will result in a larger proportion of patients with abnormal chest radiographs. The purpose of this study was to determine whether a computer based scan analysis could assist clinical interpretation in this diagnostically difficult population.
+
+Radionuclide ventilation-perfusion (V-P) images were obtained from 118 patients with normal chest radiographs and 144 patients with abnormal radiographs who underwent pulmonary angiography within 3 days of the radionuclide study. Artificial neural networks (ANNs) were created using only objective image-derived inputs to diagnose the presence of pulmonary embolism. The ANN predictions were compared with clinical scan interpretations and with the results of angiography.
+
+In both patients with normal and with abnormal chest radiographs, the ANN based method performed comparably to the clinical interpretation of record. An average of the clinical and ANN estimates of the likelihood of embolism was more accurate than was either method alone.
+
+Computer-based V-P scan analysis performs comparably to clinical interpretation for patients with abnormal chest radiographs. The different analytical perspective of the digital method improves test performance when used in conjunction with standard clinical interpretation. This can improve the chances of reaching a diagnosis for patients who lack diagnostic alternatives to the V-P scan.
+

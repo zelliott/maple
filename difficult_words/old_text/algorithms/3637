@@ -1,0 +1,7 @@
+
+With many transgenic proteins introduced today, the ability to predict their potential allergenicity has become an important issue. Previous studies were based on either sequence similarity or the protein motifs identified from known allergen databases. The similarity-based approaches, although being able to produce high recalls, usually have low prediction precisions. Previous motif-based approaches have been shown to be able to improve the precisions on cross-validation experiments. In this study, a system that combines the advantages of similarity-based and motif-based prediction is described.
+
+The new prediction system uses a clustering algorithm that groups the known allergenic proteins into clusters. Proteins within each cluster are assumed to carry one or more common motifs. After a multiple sequence alignment, proteins in each cluster go through a wavelet analysis program whereby conserved motifs will be identified. A hidden Markov model (HMM) profile will then be prepared for each identified motif. The allergens that do not appear to carry detectable allergen motifs will be saved in a small database. The allergenicity of an unknown protein may be predicted by comparing it against the HMM profiles, and, if no matching profiles are found, against the small allergen database by BLASTP. Over 70% of recall and over 90% of precision were observed using cross-validation experiments. Using the entire Swiss-Prot as the query, we predicted about 2000 potential allergens.
+
+The software is available upon request from the authors.
+

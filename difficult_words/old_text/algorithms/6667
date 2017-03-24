@@ -1,0 +1,3 @@
+
+We consider the image reconstruction problem for optical tomography with diffuse light. The associated inverse scattering problem is analyzed by making use of particular symmetries of the scattering data. The effects of sampling and limited data are analyzed for several different experimental modalities, and computationally efficient reconstruction algorithms are obtained. These algorithms are suitable for the reconstruction of images from very large data sets.
+

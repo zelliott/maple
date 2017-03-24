@@ -1,0 +1,3 @@
+
+This paper investigates the synchronization problem for a class of complex delayed dynamical networks by pinning periodically intermittent control. Based on a general model of complex delayed dynamical networks, using the Lyapunov stability theory and periodically intermittent control method, some simple criteria are derived for the synchronization of such dynamical networks. Furthermore, a Barabasi-Albert network consisting of coupled delayed Chua oscillators is finally given as an example to verify the effectiveness of the theoretical results.
+

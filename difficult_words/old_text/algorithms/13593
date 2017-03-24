@@ -1,0 +1,9 @@
+
+The popularity of continuous subcutaneous insulin infusion (CSII), or insulin pump therapy, as a way to deliver insulin more physiologically and achieve better glycemic control in diabetes patients has increased. Despite the substantiated therapeutic advantages of using CSII, its use has also been associated with an increased risk of technical malfunctioning of the device, which leads to an increased risk of acute metabolic complications, such as diabetic ketoacidosis. Current insulin pumps already incorporate systems to detect some types of faults, such as obstructions in the infusion set, but are not able to detect other types of fault such as the disconnection or leakage of the infusion set.
+
+In this article, we propose utilizing a validated robust model-based fault detection technique, based on interval analysis, for detecting disconnections of the insulin infusion set. For this purpose, a previously validated metabolic model of glucose regulation in type 1 diabetes mellitus (T1DM) and a continuous glucose monitoring device were used. As a first step to assess the performance of the presented fault detection system, a Food and Drug Administration-accepted T1DM simulator was employed.
+
+Of the 100 in silico tests (10 scenarios on 10 subjects), only two false negatives and one false positive occurred. All faults were detected before plasma glucose concentration reached 300 mg/dl, with a mean plasma glucose detection value of 163 mg/dl and a mean detection time of 200 min.
+
+Interval model-based fault detection has been proven (in silico) to be an effective tool for detecting disconnection faults in sensor-augmented CSII systems. Proper quantification of the uncertainty associated with the employed model has been observed to be crucial for the good performance of the proposed approach.
+

@@ -1,0 +1,9 @@
+
+To analyse nuclear chromatin texture in non-recurrent and recurrent papillary urothelial neoplasms of low malignant potential (PUNLMPs).
+
+Ninety three karyometric features were analysed on haematoxylin and eosin stained sections from 20 PUNLMP cases: 10 from patients with a solitary PUNLMP lesion, who were disease free during at least eight years' follow up, and 10 from patients with unifocal PUNLMP, one or more recurrences being seen during follow up.
+
+Kruskal-Wallis analysis was used to search for features showing significant differences between recurrent and non-recurrent cases. Significance was better than p<0.005 for more than 20 features. Based on significance, six texture features were selected for discriminant analysis. Stepwise linear discriminant analysis reduced Wilk's lambda to 0.87, indicating a highly significant difference between the two multivariate data sets, but only modest ability to discriminate (70% correct case classification). A box sequential classifier was used based on data derived from discriminant analysis. The classifier took three classification steps and classified 19 of the 20 cases correctly (95% correct case classification). To determine whether significant case grouping could also be obtained based on an objective criterion, the merged data sets of non-recurrent and recurrent cases were submitted to the unsupervised learning algorithm P-index. Two clusters were formed with significant differences. The subsequent application of a Cooley/Lohnes classifier resulted in an overall correct case classification rate of 85%.
+
+Karyometry and multivariate analyses detect subvisual differences in chromatin organisation state between non-recurrent and recurrent PUNLMPs, thus allowing identification of lesions that do or do not recur.
+

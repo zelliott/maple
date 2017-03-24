@@ -1,0 +1,3 @@
+
+In some social and biological networks, the majority of nodes belong to multiple communities. It has recently been shown that a number of the algorithms specifically designed to detect overlapping communities do not perform well in such highly overlapping settings. Here, we consider one class of these algorithms, those which optimize a local fitness measure, typically by using a greedy heuristic to expand a seed into a community. We perform synthetic benchmarks which indicate that an appropriate seeding strategy becomes more important as the extent of community overlap increases. We find that distinct cliques provide the best seeds. We find further support for this seeding strategy with benchmarks on a Facebook network and the yeast interactome.
+

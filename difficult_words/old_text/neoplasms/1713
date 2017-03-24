@@ -1,0 +1,9 @@
+
+Intratumoural micro-vessel density (IMD) has recently been shown to be a valuable prognostic tool in many tumours. Yet, IMD does not take into account the spatial arrangement of the vessels, therefore only partly reflecting the angiogenic situation. In order to describe contextual vascular relationships more accurately, we have used fractal and syntactic structure analysis (SSA) based on computerised image processing to quantify micro-vascular hot spots.
+
+The parametric performance in prediction of patients' outcome was evaluated by univariate analysis and compared with manually obtained IMDs, whereas an automated K-nearest-neighbour (KNN) classifier searched most discriminative parametric combinations. The method is based on analysis of vascular 'hot-spots' of paraffin-embedded tissue sections of invasive cervical carcinoma, colorectal carcinoma and malignant mesothelioma.
+
+For all three cancers, prediction of prognosis based on SSA yielded in general much higher recognition scores compared with IMD or fractal dimension. Survival of cervical carcinoma was mostly correlated with clinical data, with the vascular permeation being the only parameter with independent value. Prognosis of colorectal carcinoma is best described by SSA, completed with IMD, indicating an inverse correlation of survival time with a more irregular pattern and a slight increase in vessel number. For mesothelioma, we found a strong correlation with SSA and patients' outcome, with two SSA-parameters having independent prognostic value.
+
+The more accurate angiogenic description obtained with SSA may be useful for further exploitation as a prognosticator in a general diagnostic pathology service.
+

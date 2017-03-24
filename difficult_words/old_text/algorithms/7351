@@ -1,0 +1,11 @@
+
+Clinicians raise several information needs in the course of care. Most of these needs can be met by online health knowledge resources such as UpToDate. However, finding relevant information in these resources often requires significant time and cognitive effort.
+
+To design and assess algorithms for extracting from UpToDate the sentences that represent the most clinically useful information for patient care decision making.
+
+We developed algorithms based on semantic predications extracted with SemRep, a semantic natural language processing parser. Two algorithms were compared against a gold standard composed of UpToDate sentences rated in terms of clinical usefulness.
+
+Clinically useful sentences were strongly correlated with predication frequency (correlation= 0.95). The two algorithms did not differ in terms of top ten precision (53% vs. 49%; p=0.06).
+
+Semantic predications may serve as the basis for extracting clinically useful sentences. Future research is needed to improve the algorithms.
+

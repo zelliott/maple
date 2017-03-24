@@ -1,0 +1,9 @@
+
+To assess retrospectively the clinical accuracy of an magnetic resonance imaging-guided robotic prostate biopsy system that has been used in the US National Cancer Institute for over 6 years.
+
+Series of 2D transverse volumetric MR image slices of the prostate both pre (high-resolution T2-weighted)- and post (low-resolution)- needle insertions were used to evaluate biopsy accuracy. A three-stage registration algorithm consisting of an initial two-step rigid registration followed by a B-spline deformable alignment was developed to capture prostate motion during biopsy. The target displacement (distance between planned and actual biopsy target), needle placement error (distance from planned biopsy target to needle trajectory), and biopsy error (distance from actual biopsy target to needle trajectory) were calculated as accuracy assessment.
+
+A total of 90 biopsies from 24 patients were studied. The registrations were validated by checking prostate contour alignment using image overlay, and the results were accurate to within 2 mm. The mean target displacement, needle placement error, and clinical biopsy error were 5.2, 2.5, and 4.3 mm, respectively.
+
+The biopsy error reported suggests that quantitative imaging techniques for prostate registration and motion compensation may improve prostate biopsy targeting accuracy.
+

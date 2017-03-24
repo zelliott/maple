@@ -1,0 +1,5 @@
+
+The prediction of significant short functional protein sequences has inherent problems. In predicting phosphorylation sites, problems came from the shortness of phosphorylation sites, the difficulties in maintaining many different predefined models of binding sites, and the difficulties of obtaining highly sensitive predictions and of obtaining predictions with a constant sensitivity and specificity. The algorithm presented in this paper overcomes these problems. The proposed algorithm PHOSITE is based on the case-based sequence analysis. This enables the prediction of phosphorylation sites with constant specificity and sensitivity. Furthermore, this method leads not only to the prediction of phosphorylation sites in general but also predicts the most probable type of kinase involved.
+
+The tool PHOSITE implementing the presented method can be evaluated under the website http://www.phosite.com.
+

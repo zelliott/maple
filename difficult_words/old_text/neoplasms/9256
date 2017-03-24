@@ -1,0 +1,9 @@
+
+To examine whether patients with newly diagnosed cancer respond differently to supplemental coverage than the general Medicare population.
+
+A cohort of newly diagnosed cancer patients (n = 1,799) from the 1997-2007 Medicare Current Beneficiary Survey and a noncancer cohort (n = 9,726) were identified and matched by panel year. Two-year total medical care spending was estimated by using generalized linear models with gamma distribution and log link-including endogeneity-corrected models. Interactions between cancer and type of insurance allowed testing for differential effects of a cancer diagnosis.
+
+The cancer cohort spent an adjusted $15,605 more over 2 years than did the noncancer comparison group. Relative to those without supplemental coverage, beneficiaries with employer-sponsored insurance, other private with prescription drug coverage, and public coverage had significantly higher total spending ($3,510, $2,823, and $4,065, respectively, for main models). For beneficiaries with cancer, supplemental insurance effects were similar in magnitude yet negative, suggesting little net effect of supplemental insurance for cancer patients. The endogeneity-corrected models produced implausibly large main effects of supplemental insurance, but the Cancer × Insurance interactions were similar in both models.
+
+Medicare beneficiaries with cancer are less responsive to the presence and type of supplemental insurance than are beneficiaries without cancer. Proposed restrictions on the availability of supplemental insurance intended to reduce Medicare spending would be unlikely to limit expenditures by beneficiaries with cancer, but would shift the financial burden to those beneficiaries. Policymakers should consider welfare effects associated with coverage restrictions.
+

@@ -1,0 +1,3 @@
+
+Optical coherence tomography (OCT) reconstruction by using frequency measurements in the wavelength domain is presented in this paper. The method directly recovers the axial scan by formulating the frequency domain OCT (FD-OCT) into an algebraic reconstruction problem. In this way, the need for interpolation is removed. Then by solving the problem with ℓ1 optimization, the computational load is significantly reduced. It is demonstrated by experiment and simulation that the proposed method can achieve high resolution and longer imaging depth compared to the FD-OCT method.
+

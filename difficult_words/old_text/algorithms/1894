@@ -1,0 +1,3 @@
+
+This article presents a novel, tightly integrated pipeline for estimating a connectome. The pipeline utilizes magnetic resonance (MR) imaging (MRI) data to produce a high-level estimate of the structural connectivity in the human brain. The MR connectome automated pipeline (MRCAP) is efficient, and its modular construction allows researchers to modify algorithms to meet their specific requirements. The pipeline has been validated, and more than 200 connectomes have been processed and analyzed to date.
+

@@ -1,0 +1,7 @@
+
+The development of ovarian follicles hinges on the timely exposure to the appropriate combination of hormones. Follicle stimulating hormone (FSH) and luteinizing hormone (LH) are both produced in the pituitary gland and are transported via the blood circulation to the thecal layer surrounding the follicle. From there both hormones are transported into the follicle by diffusion. FSH-receptors are expressed mainly in the granulosa while LH-receptors are expressed in a gradient with highest expression in the theca. How this spatial organization is achieved is not known. Equally it is not understood whether LH and FSH trigger distinct signalling programs or whether the distinct spatial localization of their G-protein coupled receptors is sufficient to convey their distinct biological function.
+
+We have developed a data-based computational model of the spatio-temporal signalling processes within the follicle and (i) predict that FSH and LH form a gradient inside the follicle, (ii) show that the spatial distribution of FSH- and LH-receptors can arise from the well known regulatory interactions, and (iii) find that the differential activity of FSH and LH may well result from the distinct spatial localisation of their receptors, even when both receptors respond with the same intracellular signalling cascade to their ligand.
+
+The model integrates the large amount of published data into a consistent framework that can now be used to better understand how observed defects translate into failed follicle maturation.
+

@@ -1,0 +1,7 @@
+
+Statistical methods based on controlling the false discovery rate (FDR) or positive false discovery rate (pFDR) are now well established in identifying differentially expressed genes in DNA microarray. Several authors have recently raised the important issue that FDR or pFDR may give misleading inference when specific genes are of interest because they average the genes under consideration with genes that show stronger evidence for differential expression. The paper proposes a flexible and robust mixture model for estimating the local FDR which quantifies how plausible each specific gene expresses differentially.
+
+We develop a special mixture model tailored to multiple testing by requiring the P-value distribution for the differentially expressed genes to be stochastically smaller than the P-value distribution for the non-differentially expressed genes. A smoothing mechanism is built in. The proposed model gives robust estimation of local FDR for any reasonable underlying P-value distributions. It also provides a single framework for estimating the proportion of differentially expressed genes, pFDR, negative predictive values, sensitivity and specificity. A cervical cancer study shows that the local FDR gives more specific and relevant quantification of the evidence for differential expression that can be substantially different from pFDR.
+
+An R function implementing the proposed model is available at http://www.geocities.com/jg_liao/software
+

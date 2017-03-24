@@ -1,0 +1,3 @@
+
+Researchers often include patient-reported outcomes (PROs) in Phase III clinical trials to demonstrate the value of treatment from the patient's perspective. These data are collected as longitudinal repeated measures and are often censored by occurrence of a clinical event that defines a survival time. Hierarchical Bayesian models having latent individual-level trajectories provide a flexible approach to modeling such multiple outcome types simultaneously. We consider the case of many zeros in the longitudinal data motivating a mixture model, and demonstrate several approaches to modeling multiple longitudinal PROs with survival in a cancer clinical trial. These joint models may enhance Phase III analyses and better inform health care decision makers.
+

@@ -1,0 +1,3 @@
+
+A forward ray tracing (FRT) model is presented to determine the exact image projection in a general corneal topography system. Consequently, the skew ray error in Placido-based topography is demonstrated. A quantitative analysis comparing FRT-based algorithms and Placido-based algorithms in reconstructing the front surface of the cornea shows that arc step algorithms are more sensitive to noise (imprecise). Furthermore, they are less accurate in determining corneal aberrations particularly the quadrafoil aberration. On the other hand, FRT-based algorithms are more accurate and more precise showing that point to point corneal topography is superior compared to its Placido-based counterpart.
+

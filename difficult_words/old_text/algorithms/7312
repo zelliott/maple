@@ -1,0 +1,3 @@
+
+Stimulated Emission Depletion (STED) microscopy enables subdiffraction resolution in the imaging plane. However, STED's lateral improvement in resolution is generally better than the enhancement in the axial direction. Here, we combine conventional STED superresolution imaging with Double Helix Point Spread Function (PSF) modulation for axial localization with a precision better than the classical Rayleigh limit. To demonstrate the capability of the method we resolve in a STED microscope sub-diffraction fluorescent bead assemblies, and localize them axially with better than 25nm precision. We also show that the same setup allows straightforward implementation of wide field phase contrast by imaging larger beads with spiral and dark field phase filtering.
+

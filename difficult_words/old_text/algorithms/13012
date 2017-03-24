@@ -1,0 +1,11 @@
+
+Accurate and early diagnosis of various diseases and pathological conditions require analysis techniques that can capture time-varying (TV) dynamics. In the pursuit of promising TV signal processing methods applicable to real-time clinical monitoring applications, nonstationary spectral techniques are of great significance.
+
+We present two potential practical applications of such techniques in quantifying TV physiological dynamics concealed in photoplethysmography (PPG) signals: early detection of blood-volume loss using a nonparametric approach known as variable frequency complex demodulation (VFCDM), and accurate detection of abrupt changes in respiratory rates using a parametric approach known as combined optimal parameter search and multiple mode particle filtering (COPS-MPF).
+
+The VFCDM technique has been tested using ear-PPG signals in two study models: mechanically ventilated patients undergoing surgery in operating room settings and spontaneously breathing conscious healthy subjects subjected to lower body negative pressure (LBNP) in laboratory settings. Extraction of respiratory rates has been tested using COPS-MPF technique in finger-PPG signals collected from healthy volunteers with abrupt changes in respiratory rate ranging from 0.1 to 0.4 Hz.
+
+VFCDM method showed promise to detect the blood loss noninvasively in mechanical ventilated patients well before blood losses become apparent to the physician. In spontaneously breathing subjects during LBNP experiments, the early detection and quantification of blood loss was possible at 40% of LBNP tolerance. COPS-MPF showed high accuracy in detecting the constant as well as sudden changes in respiratory rates as compared to other time-invariant methods.
+
+Integration of such robust algorithms into pulse oximeter device may have significant impact in real-time clinical monitoring and point-of-care healthcare settings.
+

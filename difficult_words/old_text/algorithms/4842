@@ -1,0 +1,9 @@
+
+(1) To investigate if there exist any discrepancies between the values of vital signs charted by nurses and those recorded by bedside monitors for a group of patients admitted for neurocritical care. (2) To investigate possible interpretations of discrepancies by exploring information in the alarm messages and the raw waveform data from monitors.
+
+Each charted vital sign value was paired with a corresponding value from data collected by an archival program of bedside monitors such that the automatically archived data preceded the charted data and had minimal time lag to the charted value. Next, the absolute differences between the paired values were taken as the discrepancy between charted and automatically-collected data. Archived alarm messages were searched for technical alarms of sensor/lead failure types. Additionally, 7-min waveform data around the place of large discrepancy were analyzed using signal abnormality indices (SAI) for quantifying the quality of recorded signals.
+
+About 31,145 pairs of systolic blood pressure (BP-S) and 67,097 pairs of SpO(2) were investigated. Seven and a half percent of systolic blood pressure pairs had a discrepancy greater than 20 mmHg and less than one percent of the SpO2 pairs had a discrepancy greater than 10. We could not find any technical alarms from the monitors that could explain the large difference. However, SAI calculated for the waveforms associated with this group of cases was significantly larger than the SAI values calculated for the control waveform data of the same patients with small discrepancies.
+
+Charted vital signs reflect in large the raw data as reported by bedside monitors. Poor signal quality could partially explain the existence of cases of large discrepancies.
+

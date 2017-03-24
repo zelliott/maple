@@ -1,0 +1,3 @@
+
+The present work introduces a running discrete Fourier transform (RDFT) for time-frequency analysis (TFA) of nonstationary short-term signals. The RDFT algorithm adapts a window function, which has adjustable time-frequency characteristics. A generalized weighting filter was proposed, which maps the time-dependent signal into the time-frequency plane. As an example the weighting filters were deduced for exponential, gamma and binomial window sequences. Application of the RDFT algorithm to the analysis of biomedical signals is discussed.
+

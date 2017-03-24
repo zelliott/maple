@@ -1,0 +1,9 @@
+
+To identify gene expression profiles specific to radioresistance of human cells.
+
+Global gene expression profiles of a total of 15 tumor and normal fibroblast cell lines were analyzed using DNA microarrays and statistical clustering methods. Initially, six of the cell lines were categorized into radioresistant (RG) or nonradioresistant (NRG) groups according to the radiation dose required to reduce their survival to 10% (D10). Genes for which expression was specific to each group at 1 or 3 h after irradiation were identified using statistical procedures including analysis of variance and a two-dimensional hierarchical clustering method. The remaining nine cell lines were subjected to the k-nearest neighbor pattern classification.
+
+The nine test cell lines were successfully classified by their D10 value using 46 and 44 genes for which transcription levels had significantly changed at 1 and 3 h after irradiation, respectively. Of these genes, 25 showed altered expression at both time points in the NRG or RG, but independently were unable to classify the test cell lines.
+
+Radioresistant cell lines analyzed in this study showed certain radiation-induced changes in gene expression profiles that are different from the profile changes of the more-sensitive cell lines.
+

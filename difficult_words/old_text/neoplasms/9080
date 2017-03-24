@@ -1,0 +1,9 @@
+
+Examining cytotechnologist workflow and how it relates to job performance and patient safety is important in determining guidelines governing allowable workloads. This report discusses the development of a software tool that significantly simplifies the process of analyzing cytotechnologist workload while simultaneously increasing the quantity and resolution of the data collected.
+
+The program runs in Microsoft Excel and minimizes manual data entry and data transcription by automating as many tasks as is feasible.
+
+Data show the cytotechnologists tested were remarkably consistent in the amount of time it took them to screen a cervical cytology (Gyn) or a nongynecologic cytology (Non-Gyn) case and that this amount of time was directly proportional to the number of slides per case. Namely, the time spent per slide did not differ significantly in Gyn versus Non-Gyn cases (216 ± 3.4 seconds and 235 ± 24.6 seconds, respectively; P=.16). There was no significant difference in the amount of time needed to complete a Gyn case between the morning and the evening (314 ± 4.7 seconds and 312 ± 7.1 seconds; P=.39), but a significantly increased time spent screening Non-Gyn cases (slide-adjusted) in the afternoon hours (323 ± 20.1 seconds and 454 ± 67.6 seconds; P=.027), which was largely the result of significantly increased time spent on prescreening activities such as checking the electronic medical record (62 ± 6.9 seconds and 145 ± 36 seconds; P=.006).
+
+This Excel-based data collection tool generates highly detailed data in an unobtrusive manner and is highly customizable to the individual working environment and clinical climate.
+

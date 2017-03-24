@@ -1,0 +1,3 @@
+
+In this paper we study the effect of material dispersion on the performance of a moving-optical-wedge Fourier transform spectrometer. The spectrum is thus evaluated numerically using a test spectrum source. The obtained numerical results show that the classical technique for numerical dispersion compensation, usually used with a Michelson interferometer, cannot be efficiently used with wedge interferometers as it is limited to the cases of weak dispersion. The error in this technique is thus evaluated in different cases and a new numerical technique is proposed to overcome this error. We also notice shrinkage in the interferogram spread in the spatial domain in contradiction with the normal dispersion effect in a Michelson interferometer.
+

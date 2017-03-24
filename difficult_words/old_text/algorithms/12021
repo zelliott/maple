@@ -1,0 +1,3 @@
+
+This paper describes the development of a methodology for performing a mechanical analysis of hair cell ciliary bundles. The cilia were modeled as shear deformable beams, and interconnections were modeled as two-force members. These models were incorporated into software, which performs a finite element analysis of a user-defined bundle. The algorithm incorporates aspects of the bundle such as geometric realignment and buckling of compressed side links. A sample bundle is introduced and results of modeling it are presented.
+

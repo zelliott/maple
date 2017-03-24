@@ -1,0 +1,9 @@
+
+3D turbo field echo with diffusion-sensitized driven-equilibrium preparation is a non-echo-planar technique for DWI, which enables high-resolution DWI without field inhomogeneity-related image distortion. The purpose of this study was to evaluate the feasibility of diffusion-sensitized driven-equilibrium turbo field echo in evaluating diffusivity in the normal pituitary gland.
+
+First, validation of diffusion-sensitized driven-equilibrium turbo field echo was attempted by comparing it with echo-planar DWI. Five healthy volunteers were imaged by using diffusion-sensitized driven-equilibrium turbo field echo and echo-planar DWI. The imaging voxel size was 1.5 × 1.5 × 1.5 mm(3) for diffusion-sensitized driven-equilibrium turbo field echo and 1.5 × 1.9 × 3.0 mm(3) for echo-planar DWI. ADCs measured by the 2 methods in 15 regions of interests (6 in gray matter and 9 in white matter) were compared by using the Pearson correlation coefficient. The ADC in the pituitary anterior lobe was then measured in 10 volunteers by using diffusion-sensitized driven-equilibrium turbo field echo, and the results were compared with those in the pons and vermis by using a paired t test.
+
+The ADCs from the 2 methods showed a strong correlation (r = 0.79; P < .0001), confirming the accuracy of the ADC measurement with the diffusion-sensitized driven-equilibrium sequence. The ADCs in the normal pituitary gland were 1.37 ± 0.13 × 10(-3) mm(2)/s, which were significantly higher than those in the pons (1.01 ± 0.24 × 10(-3) mm(2)/s) and the vermis (0.89 ± 0.25 × 10(-3) mm(2)/s, P < .01).
+
+We demonstrated that diffusion-sensitized driven-equilibrium turbo field echo is feasible in assessing ADC in the pituitary gland.
+

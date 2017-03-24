@@ -1,0 +1,11 @@
+
+To determine if an unsupervised self-organizing neural network could create a clinically meaningful distinction of 'depression' versus 'no depression' based on cardiac time-series data.
+
+A self-organizing map (SOM) was used to separate the time-series of 84 subjects into groups based on characteristics of the data alone.
+
+Analyses included natural log transformations and two types of filtering to enhance characteristics of the data as well as classifications of unprocessed data. A Pearson chi(2) analysis was performed to determine if the SOM groups bore any relation to the binary clinical groups.
+
+Overall correct SOM classifications ranged from 54 to 70.2% with two classifications being clinically meaningful.
+
+SOM classifications of cardiac time-series data with enhanced ultradian variations and cardiac data recorded around the interval when a person was in bed were useful in differentiating clinically meaningful subgroups with and without depression.
+

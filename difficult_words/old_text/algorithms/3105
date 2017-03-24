@@ -1,0 +1,3 @@
+
+Various ECG instruments have addressed a wide variety of clinical and technical issues. However, there is still scope for improvement in them particularly in the area of their susceptibility to noise, lack of universal connectivity and off-line processing. A prototype system has been developed that caters to these limitations. It includes an analog system and a FM transceiver pair interfaced through sound port of the computer. The real time acquired data is viewed and filtered using MATLAB software. The ECG system described captures the bio-signal faithfully in real time wireless mode with minimum noise and has universal connectivity.
+

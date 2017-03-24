@@ -1,0 +1,9 @@
+
+Positron emission tomography (PET) is considered to be the state of the art technique to monitor particle therapy in vivo. To evaluate the beam delivery the measured PET image is compared to a predicted β(+)-distribution. Nowadays the range assessment is performed by a group of experts via visual inspection. This procedure is rather time consuming and requires well trained personnel. In this study an approach is presented to support human decisions in an automated and objective way.
+
+The automated comparison presented uses statistical measures, namely, Pearson's correlation coefficient (PCC), to detect ion beam range deviations. The study is based on 12 in-beam PET patient data sets recorded at GSI and 70 artificial beam range modifications per data set. The range modifications were 0, 4, 6, and 10 mm water equivalent path length (WEPL) in positive and negative beam directions. The reference image to calculate the PCC was both an unmodified simulation of the activity distribution (Test 1) and a measured in-beam PET image (Test 2). Based on the PCCs sensitivity and specificity were calculated. Additionally the difference between modified and unmodified data sets was investigated using the Wilcoxon rank sum test.
+
+In Test 1 a sensitivity and specificity over 90% was reached for detecting modifications of ±10 and ±6 mm WEPL. Regarding Test 2 a sensitivity and specificity above 80% was obtained for modifications of ±10 and -6 mm WEPL. The limitation of the method was around 4 mm WEPL.
+
+The results demonstrate that the automated comparison using PCC provides similar results in terms of sensitivity and specificity compared to visual inspections of in-beam PET data. Hence the method presented in this study is a promising and effective approach to improve the efficiency in the clinical workflow in terms of particle therapy monitoring by means of PET.
+

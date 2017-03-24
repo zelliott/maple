@@ -1,0 +1,3 @@
+
+Given the positions of protein-coding genes along genomic sequence and probability values for protein alignments between genes, DAGchainer identifies chains of gene pairs sharing conserved order between genomic regions, by identifying paths through a directed acyclic graph (DAG). These chains of collinear gene pairs can represent segmentally duplicated regions and genes within a single genome or syntenic regions between related genomes. Automated mining of the Arabidopsis genome for segmental duplications illustrates the use of DAGchainer.
+

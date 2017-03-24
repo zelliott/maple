@@ -1,0 +1,9 @@
+
+Understanding the biological processes of signaling pathways as a whole system requires an integrative software environment that has comprehensive capabilities. The environment should include tools for pathway design, visualization, simulation and a knowledge base concerning signaling pathways as one. In this paper we introduce a new integrative environment for the systematic analysis of signaling pathways.
+
+This system includes environments for pathway design, visualization, simulation and a knowledge base that combines biological and modeling information concerning signaling pathways that provides the basic understanding of the biological system, its structure and functioning. The system is designed with a client-server architecture. It contains a pathway designing environment and a simulation environment as upper layers with a relational knowledge base as the underlying layer.
+
+The TNFa-mediated NF-kB signal trans-duction pathway model was designed and tested using our integrative framework. It was also useful to define the structure of the knowledge base. Sensitivity analysis of this specific pathway was performed providing simulation data. Then the model was extended showing promising initial results.
+
+The proposed system offers a holistic view of pathways containing biological and modeling data. It will help us to perform biological interpretation of the simulation results and thus contribute to a better understanding of the biological system for drug identification.
+

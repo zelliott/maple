@@ -1,0 +1,9 @@
+
+Our work on dose-painting based on the possible risk characteristics for local recurrence in tumor subvolumes and the optimization of treatment plans using biological objective functions that are region-specific are reviewed.
+
+A series of intensity modulated dose-painting techniques are compared to their corresponding intensity modulated plans in which the entire PTV is treated to a single dose level, delivering the same equivalent uniform dose (EUD) to the entire PTV. Iso-TCP and iso-NTCP maps are introduced as a tool to aid the planner in the evaluation of the resulting non-uniform dose distributions. Iso-TCP and iso-NTCP maps are akin to iso-dose maps in 3D conformal radiotherapy. The impact of the currently limited diagnostic accuracy of functional imaging on a series of dose-painting techniques is also discussed.
+
+Utilizing biological parameters (risk-adaptive optimization) in the generation of dose-painting plans results in an increase in the therapeutic ratio as compared to conventional dose-painting plans in which optimization techniques based on physical dose are employed.
+
+Dose-painting employing biological parameters appears to be a promising approach for individualized patient- and disease-specific radiotherapy.
+

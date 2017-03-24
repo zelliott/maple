@@ -1,0 +1,3 @@
+
+Sequence-based domain assignment is one of the most important and challenging problems in structural biology. We have developed a method, CHOP, that chops proteins into domain-like fragments. The basic idea is to cut proteins from entirely sequenced organisms beginning from very reliable experimental information (Protein Data Bank), proceeding to expert annotations of domain-like regions (Pfam-A) and completing through cuts based on termini of native protein ends. The CHOP server takes protein sequences as input and returns the dissections supported by homology transfer. CHOP results are precompiled for many entirely sequenced proteomes. The service is available at http://www.rostlab.org/services/CHOP/.
+

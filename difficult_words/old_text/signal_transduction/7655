@@ -1,0 +1,5 @@
+
+Cerebral (Cell Region-Based Rendering And Layout) is an open-source Java plugin for the Cytoscape biomolecular interaction viewer. Given an interaction network and subcellular localization annotation, Cerebral automatically generates a view of the network in the style of traditional pathway diagrams, providing an intuitive interface for the exploration of a biological pathway or system. The molecules are separated into layers according to their subcellular localization. Potential products or outcomes of the pathway can be shown at the bottom of the view, clustered according to any molecular attribute data-protein function-for example. Cerebral scales well to networks containing thousands of nodes.
+
+http://www.pathogenomics.ca/cerebral
+

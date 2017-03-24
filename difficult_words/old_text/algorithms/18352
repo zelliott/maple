@@ -1,0 +1,3 @@
+
+An algorithm is developed for the computation of the plasma concentration time curve for a drug administration regime involving fast injection (bolus) and/or continuous infusion. The effect of the pharmacokinetic model parameter variations on the plasma concentration time curve is analyzed and efficient algorithms for the computation of the parameter-induced first-order variation and confidence bounds of the plasma concentration time curve are also presented. The application of the method is illustrated with pharmacokinetic data for the etomidate.
+

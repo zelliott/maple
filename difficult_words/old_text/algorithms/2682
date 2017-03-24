@@ -1,0 +1,9 @@
+
+This paper examines the use of Semantic MEDLINE, a natural language processing application enhanced with a statistical algorithm known as Combo, as a potential decision support tool for clinicians. Semantic MEDLINE summarizes text in PubMed citations, transforming it into compact declarations that are filtered according to a user's information need that can be displayed in a graphic interface. Integration of the Combo algorithm enables Semantic MEDLINE to deliver information salient to many diverse needs.
+
+The authors selected three disease topics and crafted PubMed search queries to retrieve citations addressing the prevention of these diseases. They then processed the citations with Semantic MEDLINE, with the Combo algorithm enhancement. To evaluate the results, they constructed a reference standard for each disease topic consisting of preventive interventions recommended by a commercial decision support tool.
+
+Semantic MEDLINE with Combo produced an average recall of 79% in primary and secondary analyses, an average precision of 45%, and a final average F-score of 0.57.
+
+This new approach to point-of-care information delivery holds promise as a decision support tool for clinicians. Health sciences libraries could implement such technologies to deliver tailored information to their users.
+

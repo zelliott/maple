@@ -1,0 +1,9 @@
+
+Cone beam CT (CBCT) requires a two-dimensional X-ray detector. In the several CBCT systems developed for dental imaging, detection has been by the combination of an X-ray image intensifier and charge-coupled device (CCD) camera. In this paper, we propose a new CBCT system in which the detector is of the flat-panel type and evaluate its performance in dental imaging.
+
+We developed a prototype CBCT that has a flat-panel-type detector. The detector consists of a CsI scintillator screen and a photosensor array. First, the flat panel detector and image intensifier detector were compared in terms of the signal-to-noise ratio (SNR) of projected images. We then used these data and a theoretical formula to evaluate noise in reconstructed images. Second, reconstructed images of a bar pattern phantom were obtained as a way of evaluating the spatial resolution. Then, reconstructed images of a skull phantom were obtained.
+
+The SNR of the developed system was 1.6 times as high as that of a system with an image intensifier detector of equal detector pitch. The system was capable of resolving a 0.35 mm pattern and its field of view almost completely encompassed that of an image intensifier detector which is used in dentomaxillofacial imaging. The fine spatial resolution of the detector led to images in which the structural details of a skull phantom were clearly visible.
+
+The system's isotropically fine resolution will lead to improved precision in dental diagnosis and surgery. The next stage of our research will be the development of a flat panel detector system with a high frame acquisition rate.
+

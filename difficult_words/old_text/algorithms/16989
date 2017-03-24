@@ -1,0 +1,3 @@
+
+A general framework is considered for how different features of image parts determine the perceived direction of apparent motion between these parts as a function of their internalized feature weights. It is shown how the compatibility and constraints between pairwise part correspondences also play important roles in the types of perceived motion between parts; this process is modelled via a multivariate constraint-satisfaction procedure.
+

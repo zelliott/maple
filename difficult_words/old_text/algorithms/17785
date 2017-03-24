@@ -1,0 +1,5 @@
+
+Because the bulk of the maize (Zea mays L.) genome consists of repetitive sequences, sequencing efforts are being targeted to its 'gene-rich' fraction. Traditional assembly programs are inadequate for this approach because they are optimized for a uniform sampling of the genome and inherently lack the ability to differentiate highly similar paralogs.
+
+We report the development of bioinformatics tools for the accurate assembly of the maize genome. This software, which is based on innovative parallel algorithms to ensure scalability, assembled 730,974 genomic survey sequences fragments in 4 h using 64 Pentium III 1.26 GHz processors of a commodity cluster. Algorithmic innovations are used to reduce the number of pairwise alignments significantly without sacrificing quality. Clone pair information was used to estimate the error rate for improved differentiation of polymorphisms versus sequencing errors. The assembly was also used to evaluate the effectiveness of various filtering strategies and thereby provide information that can be used to focus subsequent sequencing efforts.
+

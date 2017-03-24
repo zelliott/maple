@@ -1,0 +1,3 @@
+
+A technique is proposed to compensate for the slice dephasing artifact and improve the signal-to-noise ratio (SNR) of gradient-echo images. This method is composed of two components: mapping of the internal gradient and design of the slice-selective radiofrequency (RF) pulse. The RF pulse is designed with its phase response as the negative of the product of a chosen echo time and the intravoxel internal gradient profile in a specified region of interest (ROI). The designed RF pulse can refocus the spin phases at a selected echo time and therefore effectively recover the signal loss due to both linear and nonlinear internal gradients. Principles, implementation, and application of the method are described in this note. Magn Reson Med 42:807-812, 1999.
+

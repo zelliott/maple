@@ -1,0 +1,3 @@
+
+A general method of Bayesian forecasting employing the dynamic linear model has been adapted to the problem of estimating individual pharmacokinetic parameters. The Bayesian forecasting method incorporates an efficient Kalman filter algorithm for updating pharmacokinetic parameter estimates when further observations are made. The Kalman filter is more general and flexible than other Bayesian methods currently used and simulation studies have demonstrated its practicality for three different pharmacokinetic models. The method serves as the basis for a computer program for general clinical use.
+

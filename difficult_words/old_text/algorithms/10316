@@ -1,0 +1,11 @@
+
+To illustrate the use of cluster analysis for identifying sub-populations of complex patients who may benefit from targeted care management strategies.
+
+Retrospective cohort analysis.
+
+We identified a cohort of adult members of an integrated health maintenance organization who had 2 or more of 17 common chronic medical conditions and were categorized in the top 20% of total cost of care for 2 consecutive years (n = 15,480). We used agglomerative hierarchical clustering methods to identify clinically relevant subgroups based on groupings of coexisting conditions. Ward's minimum variance algorithm provided the most parsimonious solution.
+
+Ward's algorithm identified 10 clinically relevant clusters grouped around single or multiple "anchoring conditions." The clusters revealed distinct groups of patients including: coexisting chronic pain and mental illness, obesity and mental illness, frail elderly, cancer, specific surgical procedures, cardiac disease, chronic lung disease, gastrointestinal bleeding, diabetes, and renal disease. These conditions co-occurred with multiple other chronic conditions. Mental health diagnoses were prevalent (range 28% to 100%) in all clusters.
+
+Data mining procedures such as cluster analysis can be used to identify discrete groups of patients with specific combinations of comorbid conditions. These clusters suggest the need for a range of care management strategies. Although several of our clusters lend themselves to existing care and disease management protocols, care management for other subgroups is less well-defined. Cluster analysis methods can be leveraged to develop targeted care management interventions designed to improve health outcomes.
+

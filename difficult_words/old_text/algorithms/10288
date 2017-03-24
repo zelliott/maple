@@ -1,0 +1,7 @@
+
+The main ECG criteria for the diagnosis of long-QT syndrome (LQTS) include abnormal T-wave morphology as well as prolonged QT interval. The T wave in LQTS probably includes additional components of the myocardial repolarization process, which are derived from aberrant ion currents. We investigated whether independent component analysis (ICA) can extract such abnormal repolarization components.
+
+Digital ECG data were obtained as a time series from 10 channels using 20 surface electrodes in 22 patients with genetically confirmed LQTS type 1 (LQT1) and 30 normal subjects. In each case, T-wave area was analyzed by radical ICA after noise reduction by the wavelet thresholding method. Furthermore, inverse ICA was applied to determine the origin of each independent component (IC). Radical ICA revealed that a T-wave consisted of 4 basic ICs in all control subjects, whereas ≥ 5 (mostly 6) ICs were identified in all 22 patients with LQT1. The extra ICs, which were not evident in normal subjects, were assumed to contribute to the formation of abnormal T-wave morphology. The extra ICs were identified even in patients with normal QTc values and in those taking β-blockers. Inverse ICA indicated that the additional ICs originate predominantly from the late phase of the T wave of the left ventricle.
+
+Extra ICs appear during repolarization in all patients with LQT1 but not in normal subjects. ICA is a potentially useful multivariate statistical method to differentiate patients with LQT1 from normal subjects.
+

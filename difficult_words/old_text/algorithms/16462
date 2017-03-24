@@ -1,0 +1,3 @@
+
+A new method for computing the signal attenuation due to restricted diffusion in a linear magnetic field gradient is proposed. A fast random walk (FRW) algorithm for simulating random trajectories of diffusing spin-bearing particles is combined with gradient encoding. As random moves of a FRW are continuously adapted to local geometrical length scales, the method is efficient for simulating pulsed-gradient spin-echo experiments in hierarchical or multiscale porous media such as concrete, sandstones, sedimentary rocks and, potentially, brain or lungs.
+

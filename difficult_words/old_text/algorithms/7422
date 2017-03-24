@@ -1,0 +1,7 @@
+
+High-throughput genomic and proteomic data have important applications in medicine including prevention, diagnosis, treatment, and prognosis of diseases, and molecular biology, for example pathway identification. Many of such applications can be formulated to classification and dimension reduction problems in machine learning. There are computationally challenging issues with regards to accurately classifying such data, and which due to dimensionality, noise and redundancy, to name a few. The principle of sparse representation has been applied to analyzing high-dimensional biological data within the frameworks of clustering, classification, and dimension reduction approaches. However, the existing sparse representation methods are inefficient. The kernel extensions are not well addressed either. Moreover, the sparse representation techniques have not been comprehensively studied yet in bioinformatics.
+
+In this paper, a Bayesian treatment is presented on sparse representations. Various sparse coding and dictionary learning models are discussed. We propose fast parallel active-set optimization algorithm for each model. Kernel versions are devised based on their dimension-free property. These models are applied for classifying high-dimensional biological data.
+
+In our experiment, we compared our models with other methods on both accuracy and computing time. It is shown that our models can achieve satisfactory accuracy, and their performance are very efficient.
+

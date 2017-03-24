@@ -1,0 +1,5 @@
+
+One particular application of microarray data, is to uncover the molecular variation among cancers. One feature of microarray studies is the fact that the number n of samples collected is relatively small compared to the number p of genes per sample which are usually in the thousands. In statistical terms this very large number of predictors compared to a small number of samples or observations makes the classification problem difficult. An efficient way to solve this problem is by using dimension reduction statistical techniques in conjunction with nonparametric discriminant procedures.
+
+We view the classification problem as a regression problem with few observations and many predictor variables. We use an adaptive dimension reduction method for generalized semi-parametric regression models that allows us to solve the 'curse of dimensionality problem' arising in the context of expression data. The predictive performance of the resulting classification rule is illustrated on two well know data sets in the microarray literature: the leukemia data that is known to contain classes that are easy 'separable' and the colon data set.
+

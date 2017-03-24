@@ -1,0 +1,7 @@
+
+An important problem that arises in hospitals is the monitoring and detection of nosocomial or hospital acquired infections (NIs). This paper describes a retrospective analysis of a prevalence survey of NIs done in the Geneva University Hospital. Our goal is to identify patients with one or more NIs on the basis of clinical and other data collected during the survey.
+
+Standard surveillance strategies are time-consuming and cannot be applied hospital-wide; alternative methods are required. In NI detection viewed as a classification task, the main difficulty resides in the significant imbalance between positive or infected (11%) and negative (89%) cases. To remedy class imbalance, we explore two distinct avenues: (1) a new re-sampling approach in which both over-sampling of rare positives and under-sampling of the noninfected majority rely on synthetic cases (prototypes) generated via class-specific sub-clustering, and (2) a support vector algorithm in which asymmetrical margins are tuned to improve recognition of rare positive cases.
+
+Experiments have shown both approaches to be effective for the NI detection problem. Our novel re-sampling strategies perform remarkably better than classical random re-sampling. However, they are outperformed by asymmetrical soft margin support vector machines which attained a sensitivity rate of 92%, significantly better than the highest sensitivity (87%) obtained via prototype-based re-sampling.
+

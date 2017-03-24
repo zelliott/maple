@@ -1,0 +1,3 @@
+
+The rapidity of time-constrained visual identification suggests a feedforward process in which neural activity is propagated through a number of cortical stages. The process is modeled by using a synfire chain, leading to a neural-network model which involves propagating activation waves through a sequence of layers. Theory and analysis of the model's behavior, especially in the presence of noise, predict enhancement of wave propagation for a range of noise intensities. Simulation studies confirm this prediction. The results are discussed in terms of (spatio-temporal) stochastic resonance. It is concluded that feedforward processes such as time-constrained visual identification may benefit from moderate levels of noise.
+

@@ -1,0 +1,3 @@
+
+PoDFluX is a new Monte Carlo ray-tracing program that simulates from first principles x-ray powder diffraction from crystalline materials and x-ray fluorescence from materials with a defined elemental composition. This model has been written primarily for the optimization of miniaturized planetary x-ray diffraction instrumentation but wider applications are certainly possible. A particular strength of the model is the implementation of several variance-reduction techniques for the minimization of execution times. Comparisons of model output with experimental diffraction and fluorescence data show good quantitative agreement.
+

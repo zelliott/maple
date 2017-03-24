@@ -1,0 +1,3 @@
+
+In the last years, 3D-vision systems based on the time-of-flight (ToF) principle have gained more importance in order to obtain 3D information from the workspace. In this paper, an analysis of the use of 3D ToF cameras to guide a robot arm is performed. To do so, an adaptive method to simultaneous visual servo control and camera calibration is presented. Using this method a robot arm is guided by using range information obtained from a ToF camera. Furthermore, the self-calibration method obtains the adequate integration time to be used by the range camera in order to precisely determine the depth information.
+

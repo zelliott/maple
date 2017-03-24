@@ -1,0 +1,3 @@
+
+A simple channel estimator for space-time coded orthogonal frequency division multiplexing (OFDM) systems in rapid fading channels is proposed. The channels at the training bauds are estimated using the EM (expectation-maximization) algorithm, while the channels at the data bauds are estimated based on the method for modelling the time-varying channel as the linear combination of several time-invariant "Doppler channels". Computer simulations showed that this estimator outperforms the decision-directed tracking in rapid fading channels and that the performance of this method can be improved by iteration.
+

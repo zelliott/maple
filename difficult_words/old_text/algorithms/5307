@@ -1,0 +1,3 @@
+
+The standard method used for detecting signals in radar or sonar is cross correlation. The accuracy of the detection with cross correlation is limited by the bandwidth of the signals. We show that by calculating the cross correlation based on points that are nearby in phase space rather than points that are simultaneous in time, the detection accuracy is improved. The phase space correlation technique works for some standard radar signals, but it is especially well suited to chaotic signals because trajectories that are adjacent in phase space move apart from each other at an exponential rate.
+

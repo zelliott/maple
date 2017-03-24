@@ -1,0 +1,9 @@
+
+To evaluate the influence of obesity on pharmacokinetics of amiodarone (AMD) using Non-Linear Mixed Effects Modelling (NONMEM) in Japanese patients treated with oral therapy.
+
+Serum concentrations of AMD were determined by high performance liquid chromatography. One hundred and fifty-one trough concentrations from 23 patients receiving repetitive oral AMD were collected. Body mass index (BMI) and body fat percentage were measured.
+
+Estimates generated using NONMEM indicated that the clearance of AMD was influenced by BMI, age and daily dosage of AMD. The final pharmacokinetic model was CL (L/h) = 0*16 * TBW * 0.53(AGE&>or= 65 ) * 0*78(BMI&>or= 25) * DD(0.51), V(d) (L) = 10*2 * TBW, where CL is total body clearance, TBW is total body weight (kg), DD (mg/kg/day) is daily dosage of AMD, AGE (years)&>or=65 = 1 for patient was 65 years old or over and 0 otherwise, BMI (kg/m(2))&>or=25 = 1 for patient was 25 kg/m(2) or over and 0 otherwise and V(d) is apparent volume of distribution. The clearance of AMD decreased significantly by 22.3% with a BMI higher than 25 kg/m(2). The clearance of AMD also decreased significantly by 46.9% when patient age was more than 65 years.
+
+Population pharmacokinetic analysis confirms that obesity affects the pharmacokinetics of AMD.
+

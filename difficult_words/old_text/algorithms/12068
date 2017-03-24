@@ -1,0 +1,3 @@
+
+Existing neural network models are capable of tracking linear trajectories of moving visual objects. This paper describes an additional neural mechanism, disfacilitation, that enhances the ability of a visual system to track curved trajectories. The added mechanism combines information about an object's trajectory with information about changes in the object's trajectory, to improve the estimates for the object's next probable location. Computational simulations are presented that show how the neural mechanism can learn to track the speed of objects and how the network operates to predict the trajectories of accelerating and decelerating objects.
+

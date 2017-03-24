@@ -1,0 +1,3 @@
+
+Pseudo-spectral approximations are constructed for the model equations describing the population kinetics of human tumor cells in vitro and their responses to radiotherapy or chemotherapy. These approximations are more efficient than finite-difference approximations. The spectral accuracy of the pseudo-spectral method allows us to resolve the model with a much smaller number of spatial grid-points than required for the finite-difference method to achieve comparable accuracy. This is demonstrated by numerical experiments which show a good agreement between predicted and experimental data.
+

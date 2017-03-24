@@ -1,0 +1,9 @@
+
+To test megavolt cone-beam CT (MV-CBCT) in order to evaluate setup errors in prostate radiotherapy.
+
+The setup of 9 patients was verified weekly by electronic portal imaging (EPI) and MV-CBCT, both per-formed in the same treatment session. EPI were compared with digitally reconstructed radiographies (DRRs). MV-CBCTs were matched to simulation CTs by manual registration based on bone markers (BMR), by manual registration based on soft tissues (STR) - rectum, bladder, and seminal vesicles - and by automatic registration (AR) performed by a mutual information algorithm. Shifts were evaluated along the three main axes: anteroposterior (AP), craniocaudal (CC), and laterolateral (LL). Finally, in 4 additional patients showing intraprostatic calcifications, the calcification mismatch error was used to evaluate the three MV-CBCT matching methods.
+
+A total of 50 pairs of orthogonal EPIs and 50 MV-CBCTs were analyzed. Assuming an overall tolerance of 2 mm, no significant differences were observed comparing EPI vs BMR in any axis. A significant difference (p < 0.001) was observed along the AP axis comparing EPI vs AR and EPI vs STR. On the calcification data set (22 measures), the calcification mismatch along the AP direction was significantly lower (p < 0.05) after STR than after BMR or AR.
+
+Bone markers were not an effective surrogate of the target position and significant differences were observed comparing EPI or BMR vs STR, supporting the assessment of soft tissue position by MVCBs to verify and correct patient setup in prostate radiotherapy.
+

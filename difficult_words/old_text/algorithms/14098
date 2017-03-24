@@ -1,0 +1,9 @@
+
+We sought to investigate the influence of heart rate and temporal resolution on the assessment of left-ventricular (LV) function with multislice spiral computed tomography (CT).
+
+A dynamic cardiac phantom was repeatedly scanned with a 64-slice CT scanner using a standardized scan protocol (64 x 0.6 mm, 120kV, 770mAs(eff), 330 milliseconds rotation time) at different simulated heart rates, ranging from 40 to 140 beats per minute. Images were reconstructed with an algorithm utilizing data from 1 to 4 cardiac cycles (RR intervals). Ejection fraction (EF), end-systolic, end-diastolic, and stroke volume as well as cardiac output were calculated. Results of the measurements were compared with the real volumes of the phantom. Interscan and intraobserver variability were calculated.
+
+Using a monosegmental reconstruction algorithm, the temporal resolution was fixed to 165 milliseconds. With bi-, tri-, and quad-segmental image reconstruction, mean temporal resolution was 128.3 +/- 33.2 milliseconds, 103.3 +/- 49.2 milliseconds, and 87.8 +/- 81.5 milliseconds, respectively. Multisegmental image reconstruction resulted in a lower deviation when comparing measured and real volumes. Using mono-, bi-, tri-, and quad-segmental image reconstruction, the percent deviation between measured and real values for EF was 8.2%, 4.5%, 3.3%, and 3.4%, respectively. Applying multisegmental image reconstruction with improved temporal resolution the deviation decreased with increasing heart rate when compared with mono-segmental image reconstruction. Interscan and intraobserver variability for EF were 1.1% and 1.9%, respectively.
+
+Enhanced temporal resolution improves the quantification of LV volumes in cardiac multislice spiral CT, enabling reliable assessment of LV volumes even at increased heart rates.
+

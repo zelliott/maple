@@ -1,0 +1,13 @@
+
+When studying three-dimensional motion of multiple-vertebra spine segments in vitro, it is often desirable to report the kinematics at the individual vertebral levels in terms of each level's local coordinates systems. A novel technique is described for constructing local vertebral coordinate axes using a standard digitizing probe.
+
+To describe a technique that was developed to allow researchers to relate vertebral landmarks to optical markers and to set the local coordinate axes of several vertebrae accurately through a short, simple procedure performed only once at the beginning of a spine testing experiment.
+
+Other researchers have used radiographs and careful marker placement for establishing the coordinate systems of vertebrae and the relationships of anatomic landmarks to optical markers. The authors found no publications giving details of how vertebral coordinate systems are established from anatomic landmarks.
+
+A digitizing probe is used to identify vertebral landmarks and to relate these landmarks to optical markers attached to the vertebrae. An algorithm is described whereby vertebral coordinate axes are constructed from the landmarks.
+
+The method described has been implemented successfully in a computerized in vitro spinal flexibility testing system that plots each individual motion segment's load-deformation curves in real time during experimentation. The proposed technique is less labor intensive and error prone than the earlier methods because landmarks are identified directly.
+
+The described technique quickly, easily, and accurately relates anatomic landmarks to optical markers and constructs local coordinate axes, two steps that are necessary before monitoring the kinematics of individual motion segments during multilevel spine testing.
+

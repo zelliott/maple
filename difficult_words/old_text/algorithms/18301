@@ -1,0 +1,3 @@
+
+Motivated by the existence of highly selective, sparsely firing cells observed in the human medial temporal lobe (MTL), we present an unsupervised method for learning and recognizing object categories from unlabeled images. In our model, a network of nonlinear neurons learns a sparse representation of its inputs through an unsupervised expectation-maximization process. We show that the application of this strategy to an invariant feature-based description of natural images leads to the development of units displaying sparse, invariant selectivity for particular individuals or image categories much like those observed in the MTL data.
+

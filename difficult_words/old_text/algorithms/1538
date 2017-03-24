@@ -1,0 +1,7 @@
+
+Genomic islands play an important role in medical, methylation and biological studies. To explore the region, we propose a CpG islands prediction analysis platform for genome sequence exploration (CpGPAP).
+
+CpGPAP is a web-based application that provides a user-friendly interface for predicting CpG islands in genome sequences or in user input sequences. The prediction algorithms supported in CpGPAP include complementary particle swarm optimization (CPSO), a complementary genetic algorithm (CGA) and other methods (CpGPlot, CpGProD and CpGIS) found in the literature. The CpGPAP platform is easy to use and has three main features (1) selection of the prediction algorithm; (2) graphic visualization of results; and (3) application of related tools and dataset downloads. These features allow the user to easily view CpG island results and download the relevant island data. CpGPAP is freely available at http://bio.kuas.edu.tw/CpGPAP/.
+
+The platform's supported algorithms (CPSO and CGA) provide a higher sensitivity and a higher correlation coefficient when compared to CpGPlot, CpGProD, CpGIS, and CpGcluster over an entire chromosome.
+

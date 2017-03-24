@@ -1,0 +1,3 @@
+
+A method for measuring and correcting the row displacement errors in lattice images acquired using scanning based methods is presented. This type of distortion is apparent in lattice-resolved images acquired using scanning-based techniques such as scanning transmission electron microscopy (STEM) and translates to vertical streaks convolving every feature in Fourier space. This paper presents a method to measure and correct the distortion based on the phase analysis of the streaks in Fourier space. The validity and the precision of the method is demonstrated using a model image and two experimental STEM images of Si <110> thin film and a 5 nm CoPt disordered nanocrystal. The algorithm is implemented in a freely available Digital Micrograph™ script.
+

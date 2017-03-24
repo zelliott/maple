@@ -1,0 +1,9 @@
+
+Genes often regulate multiple traits. Identifying clusters of traits influenced by a common group of genes helps elucidate regulatory networks and can improve linkage mapping.
+
+We show that the Pearson correlation coefficient, rho L, between two LOD score profiles can, with high specificity and sensitivity, identify pairs of genes that have their transcription regulated by shared quantitative trait loci (QTL). Furthermore, using theoretical and/or empirical methods, we can approximate the distribution of rho L under the null hypothesis of no common QTL. Therefore, it is possible to calculate P-values and false discovery rates for testing whether two traits share common QTL. We then examine the properties of rho L through simulation and use rho L to cluster genes in a genetical genomics experiment examining Saccharomyces cerevisiae.
+
+Simulations show that rho L can have more power than the clustering methods currently used in genetical genomics. Combining experimental results with Gene Ontology (GO) annotations show that genes within a purported cluster often share similar function.
+
+R-code included in online Supplementary Material.
+

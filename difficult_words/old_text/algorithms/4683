@@ -1,0 +1,5 @@
+
+Microarray-based expression profiles have become a standard methodology in any high-throughput analysis. Several commercial platforms are available, each with its strengths and weaknesses. The R platform for statistical analysis and graphics is a powerful environment for the analysis of microarray data, because it has many integrated statistical methods available as well as the specialized microarray analysis project Bioconductor. Many packages have been added in the last few years increasing the range of possible analysis. Here, we report the availability of a package for reading and analyzing data from GE Healthcare Gene Expression Bioarrays within the R environment.
+
+The software is implemented in the R language, is open source and available for download free of charge through the Bioconductor (http://www.bioconductor.org) project.
+

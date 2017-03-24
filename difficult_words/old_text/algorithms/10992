@@ -1,0 +1,9 @@
+
+To evaluate the influence of exposure parameters and raw-data based iterative reconstruction (IR) on the measurement variability of computer-aided nodule volumetry on chest multidetector computed tomography (MDCT).
+
+N=7 porcine lung explants were inflated in a dedicated ex vivo phantom and prepared with n=162 artificial nodules. MDCT was performed eight consecutive times (combinations of 120 and 80 kV with 120, 60, 30 and 12 mAs), and reconstructed with filtered back projection (FBP) and IR. Nodule volume and diameter were measured semi-automatically with dedicated software. The absolute percentage measurement error (APE) was computed in relation to the 120 kV 120 mAs acquisition. Noise was recorded for each nodule in every dataset.
+
+Mean nodule volume and diameter were 0.32 ± 0.15 ml and 12.0 ± 2.6mm, respectively. Although IR reduced noise by 24.9% on average compared to FBP (p<0.007), APE with IR was equal to or slightly higher than with FBP. Mean APE for volume increased significantly below a volume computed tomography dose index (CTDI) of 1.0 mGy: for 120 kV 12 mAs APE was 3.8 ± 6.2% (FBP) vs. 4.0 ± 5.2% (IR) (p<0.007); for 80 kV 12 mAs APE was 8.0 ± 13.0% vs. 9.3 ± 15.8% (n.s.), respectively. Correlating APE with image noise revealed that at identical noise APE was higher with IR than with FBP (p<0.05).
+
+Computer-aided volumetry is robust in a wide range of exposure settings, and reproducibility is reduced at a CTDI below 1.0 mGy only, but the error rate remains clinically irrelevant. Noise reduction by IR is not detrimental for measurement error in the setting of semi-automatic nodule volumetry on chest MDCT.
+

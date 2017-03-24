@@ -1,0 +1,15 @@
+
+To validate the utility of a previously reported 3-point limited sampling model (LSM) for determining etoposide area under the curve to infinity (AUC(infinity)).
+
+Secondary analysis of data from two clinical trials of etoposide.
+
+University medical center clinical research center.
+
+Thirty-four patients with different malignancies.
+
+Etoposide was administered as a 2-hour infusion to 34 patients. Serial plasma samples were drawn over 24 hours after the infusion and analyzed for etoposide by high-performance liquid chromatography.
+
+The 3-point LSM AUC was compared with a 14-point actual AUC calculated by the linear trapezoidal rule. Actual and predicted AUC(infinity) by the LSM were highly correlated (r=0.97, p&lt;0.0001). The LSM predictions had a mean absolute error of 10.9% (95% CI -14.1, -5.3) and a mean error of -9.7% (95% CI 6.9, 14.9). Nine patients with poor AUC(infinity) estimations by the LSM (error &gt; 12%) tended to have abnormally low or high peak concentrations.
+
+Our findings suggest the development of more robust LSM using other techniques, such as pharmacostatistical models, that can accommodate a greater degree of pharmacokinetic variability.
+

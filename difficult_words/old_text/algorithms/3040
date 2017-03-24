@@ -1,0 +1,9 @@
+
+Modern systems biology aims at understanding how the different molecular components of a biological cell interact. Often, cellular functions are performed by complexes consisting of many different proteins. The composition of these complexes may change according to the cellular environment, and one protein may be involved in several different processes. The automatic discovery of functional complexes from protein interaction data is challenging. While previous approaches use approximations to extract dense modules, our approach exactly solves the problem of dense module enumeration. Furthermore, constraints from additional information sources such as gene expression and phenotype data can be integrated, so we can systematically mine for dense modules with interesting profiles.
+
+Given a weighted protein interaction network, our method discovers all protein sets that satisfy a user-defined minimum density threshold. We employ a reverse search strategy, which allows us to exploit the density criterion in an efficient way. Our experiments show that the novel approach is feasible and produces biologically meaningful results. In comparative validation studies using yeast data, the method achieved the best overall prediction performance with respect to confirmed complexes. Moreover, by enhancing the yeast network with phenotypic and phylogenetic profiles and the human network with tissue-specific expression data, we identified condition-dependent complex variants.
+
+A C++ implementation of the algorithm is available at http://www.kyb.tuebingen.mpg.de/~georgii/dme.html.
+
+Supplementary data are available at Bioinformatics online.
+

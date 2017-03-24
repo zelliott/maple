@@ -1,0 +1,9 @@
+
+Calibrating a disease simulation model's outputs to existing clinical data is vital to generate confidence in the model's predictive ability. Calibration involves two challenges: 1) defining a total goodness-of-fit (GOF) score for multiple targets if simultaneous fitting is required, and 2) searching for the optimal parameter set that minimizes the total GOF score (i.e., yields the best fit). To address these two prominent challenges, we have applied an engineering approach to calibrate a microsimulation model, the Lung Cancer Policy Model (LCPM).
+
+First, 11 targets derived from clinical and epidemiologic data were combined into a total GOF score by a weighted-sum approach, accounting for the user-defined relative importance of the calibration targets. Second, two automated parameter search algorithms, simulated annealing (SA) and genetic algorithm (GA), were independently applied to a simultaneous search of 28 natural history parameters to minimize the total GOF score. Algorithm performance metrics were defined for speed and model fit.
+
+Both search algorithms obtained total GOF scores below 95 within 1000 search iterations. Our results show that SA outperformed GA in locating a lower GOF. After calibrating our LCPM, the predicted natural history of lung cancer was consistent with other mathematical models of lung cancer development.
+
+An engineering-based calibration method was able to simultaneously fit LCPM output to multiple calibration targets, with the benefits of fast computational speed and reduced the need for human input and its potential bias.
+

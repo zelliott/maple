@@ -1,0 +1,9 @@
+
+Thioridazine, a derivative of phenothiazine, has been reported to have antiproliferative activity on tumor cells. However, the mechanism has not been well defined.
+
+Using in-silico gene signature based approach, we have demonstrated that thioridazine could inhibit phosphatidylinositol-3'-kinase (PI3K)/Akt pathway, and thus exert cytotoxicity in ovarian cancer cells.
+
+The Connectivity Map indicated that thioridazine induces gene signature similar to that of Akt inhibition. Moreover, preexisting inhibitors of PI3K/Akt pathway were also found to reveal similar signature. In SKOV-3 cells, immunoblot using p85 antibody showed that thioridazine could inhibit PI3K signal. In addition, thioridazine was found to inhibit p-Akt (Ser 473) in a dose-dependent manner. Furthermore, thioridazine was found to decrease cell viability and induce apoptosis. Exposure to thioridazine induced G(0)/G(1) arrest and down-regulated the cell cycle regulator, Cyclin D1 and CDK4, and up-regulated p21, p16, and p-CDC25A. Finally, additive cytotoxicity was observed when cisplatin and thioridazine were treated simultaneously.
+
+The current study indicated that in-silico approach, such as Connectivity Map, is a potentially useful method to identify the unknown cellular function among the drugs already in use in clinic. Owing to the property of Akt inhibition and additive cytotoxicity observed with the platinum compound, further research should be focused on this drug.
+

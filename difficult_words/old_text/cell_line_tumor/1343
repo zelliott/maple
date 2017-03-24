@@ -1,0 +1,3 @@
+
+Chromosomal instability is a hallmark of cancer, and genes that display abnormal expression in aberrant chromosomal regions are likely to be key players in tumor progression. Identifying such driver genes reliably requires computational methods that can integrate genome-scale data from several sources. We compared the performance of ten algorithms that integrate copy-number and transcriptomics data from 15 head and neck squamous cell carcinoma cell lines, 129 lung squamous cell carcinoma primary tumors and simulated data. Our results revealed clear differences between the methods in terms of sensitivity and specificity as well as in their performance in small and large sample sizes. Results of the comparison are available at http://csbi.ltdk.helsinki.fi/cn2gealgo/.
+

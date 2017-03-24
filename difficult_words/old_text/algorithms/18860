@@ -1,0 +1,7 @@
+
+Removing cardiopulmonary resuscitation (CPR)-related artifacts from human ventricular fibrillation (VF) electrocardiogram (ECG) signals provides the possibility to continuously detect rhythm changes and estimate the probability of defibrillation success. This could reduce "hands-off" analysis times which diminish the cardiac perfusion and deteriorate the chance for successful defibrillations.
+
+Our approach consists in estimating the CPR part of a corrupted signal by adaptive regression on lagged copies of a reference signal which correlate with the CPR artifact signal. The algorithm is based on a state-space model and the corresponding Kalman recursions. It allows for stochastically changing regression coefficients. The residuals of the Kalman estimation can be identified with the CPR-filtered ECG signal. In comparison with ordinary least-squares regression, the proposed algorithm shows, for low signal-to-noise ratio (SNR) corrupted signals, better SNR improvements and yields better estimates of the mean frequency and mean amplitude of the true VF ECG signal.
+
+The preliminary results from a small pool of human VF and animal asystole CPR data are slightly better than the results of comparable previous studies which, however, not only used different algorithms but also different data pools. The algorithm carries the possibility of further optimization.
+

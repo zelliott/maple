@@ -1,0 +1,7 @@
+
+Modulation of sinus rate may be viewed as the transduction of an input signal (receptor stimulation) into an output signal (cycle length [CL]) by the sinus node. This study analyzes the input/output (I/O) relation of sinoatrial pacemaking elements and tests its impact on cholinergic modulation of heart rate variability.
+
+Spontaneous activity of isolated rabbit sinoatrial myocytes was recorded by patch clamp techniques. CL and all the action potential parameters determining CL were automatically measured from >100 consecutive cycles. Acetylcholine (ACh, 5 to 50 nM) increased CL by decreasing diastolic depolarization rate (DDR) only. This was associated with a substantial increase in the coefficient of variation of CL and minor changes in the coefficient of variation of other parameters. A simple function relating CL to action potential parameters accurately described CL response to ACh (I/O relation). Numerical simulations based on this I/O relation showed that ACh-induced depression of DDR might, by its own, increase CL variability.
+
+Time-domain measurements of CL variability may not necessarily reflect variability of the neural input to the sinoatrial node, but also may be affected by its tonic level. Properties of the I/O relation of sinoatrial myocytes may fully account for the dependency of CL variability on mean heart rate, previously described in humans. Any condition depressing DDR may enhance CL variability, independent of changes in the pattern of neural activity.
+

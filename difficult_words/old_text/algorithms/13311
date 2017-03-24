@@ -1,0 +1,3 @@
+
+This letter introduces an algorithm for automatic detection of minke whale boing sounds. This method searches for frequency features of boings without calculating the continuous spectrogram of the data, thereby reducing computational time. The detector has been tested on 8 h of acoustic data recorded at the Station ALOHA Cabled Observatory in March 2007. This dataset was previously analyzed using the cross-correlation detector of XBAT and was verified by a human listener, as reported in Oswald et al. [(2011). J. Acoust. Soc. Am. 129, 3353-3360]. A comparison of results indicates that the detector introduced here generates fewer false alarms, and it recognizes low-SNR calls that are missed by XBAT.
+

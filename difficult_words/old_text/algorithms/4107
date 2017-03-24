@@ -1,0 +1,9 @@
+
+The purpose of this study was to investigate the effects of point-spread function (PSF) and time-of-flight (TOF) on the standardized uptake value (SUV) of lymph node metastasis in FDG-PET/CT.
+
+This study evaluated 41 lymph node metastases in 15 patients who had undergone (18)F-FDG PET/CT. The lesion diameters were 2.5 cm or less. The mean short-axis diameter of the lymph nodes was 10.5 ± 3.7 mm (range 4.6-22.8mm). The PET data were reconstructed with baseline OSEM algorithm, with OSEM+PSF, with OSEM+TOF and with OSEM+PSF+TOF. A semi-quantitative analysis was performed using the maximum and mean SUV of lymph node metastases (SUVmax and SUVmean) and mean SUV of normal lung tissue (SUVlung). We also evaluated image quality using the signal-to-noise ratio in the liver (SNRliver).
+
+Both PSF and TOF increased the SUV of lymph node metastases. The combination of PSF and TOF increased the SUVmax by 43.3% and the SUVmean by 31.6% compared with conventional OSEM. By contrast, the SUVlung was not influenced by PSF and TOF. TOF significantly improved the SNRliver.
+
+PSF and TOF both increased the SUV of lymph node metastases. Although PSF and TOF are considered to improve small-lesion detectability, it is important to be aware that PSF and TOF influence the accuracy of quantitative measurements.
+

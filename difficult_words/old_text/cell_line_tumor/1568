@@ -1,0 +1,3 @@
+
+A rapid echo planar imaging sequence for dynamic imaging of [1-(13)C] lactate and [1-(13)C] pyruvate simultaneously was developed. Frequency-based separation of these metabolites was achieved by spatial shifting in the phase-encoded direction with the appropriate choice of echo spacing. Suppression of the pyruvate-hydrate and alanine resonances is achieved through an optimized spectral-spatial RF waveform. Signal sampling efficiency as a function of pyruvate and lactate excitation angle was simulated using two site exchange models. Dynamic imaging is demonstrated in a transgenic mouse model, and phantom validations of the RF pulse frequency selectivity were performed.
+

@@ -1,0 +1,3 @@
+
+An automatic buffer capacity model building algorithm was developed. The objective of this algorithm is to characterize multiple buffer systems from experimental titration curves. Starting from a simple mathematical model that incorporates the available prior knowledge on the buffer system, the model is sequentially extended by incorporating additional monoprotic buffer equations. To select the most appropriate model from the resulting set of automatically built models, a model structure selection technique was constructed from existing methods.
+

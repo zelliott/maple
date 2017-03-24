@@ -1,0 +1,3 @@
+
+The paper deals with the nonparametric identification of population models, that is models that explain jointly the behavior of different subjects drawn from a population, e.g., responses of different patients to a drug. The average response of the population and the individual responses are modeled as continuous-time Gaussian processes with unknown hyperparameters. Within a Bayesian paradigm, the posterior expectation and variance of both the average and individual curves are computed by means of a Markov Chain Monte Carlo scheme. The model and the estimation procedure are tested on both simulated and experimental pharmacokinetic data.
+

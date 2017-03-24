@@ -1,0 +1,9 @@
+
+Hypofractionated radiotherapy (hRT) is being explored for a number of malignancies. The potential benefit of giving concurrent chemotherapy with hRT is not known. We sought to predict the effects of combined modality treatments by using mathematical models derived from laboratory data.
+
+Data from 26 published clonogenic survival assays for cancer cell lines with and without the use of radiosensitizing chemotherapy were collected. The first three data points of the RT arm of each assay were used to derive parameters for the linear quadratic (LQ) model, the multitarget (MT) model, and the generalized linear quadratic (gLQ) model. For each assay and model, the difference between the predicted and observed surviving fractions at the highest tested RT dose was calculated. The gLQ model was fitted to all the data from each RT cell survival assay, and the biologically equivalent doses in 2-Gy fractions (EQD2s) of clinically relevant hRT regimens were calculated. The increase in cell kill conferred by the addition of chemotherapy was used to estimate the EQD2 of hRT along with a radiosensitizing agent. For comparison, this was repeated using conventionally fractionated RT regimens.
+
+At a mean RT dose of 8.0 Gy, the average errors for the LQ, MT, and gLQ models were 1.63, 0.83, and 0.56 log units, respectively, favoring the gLQ model (p &lt; 0.05). Radiosensitizing chemotherapy increased the EQD2 of hRT schedules by an average of 28% to 82%, depending on disease site. This increase was similar to the gains predicted for the addition of chemotherapy to conventionally fractionated RT.
+
+Based on published in vitro assays, the gLQ equation is superior to the LQ and MT models in predicting cell kill at high doses of RT. Modeling exercises demonstrate that significant increases in biologically equivalent dose may be achieved with the addition of radiosensitizing agents to hRT. Clinical study of this approach is warranted.
+

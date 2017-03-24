@@ -1,0 +1,9 @@
+
+Prostate cancer is the most common tumor in men. The most commonly used diagnostic and tumor recurrence marker is Prostate Specific Antigen (PSA). After surgical removal or radiation treatment, PSA levels drop (PSA nadir) and subsequent elevated or increased PSA levels are indicative of recurrent disease (PSA recurrence). For clinical follow-up and local care PSA nadir and recurrence is often hand calculated for patients, which can result in the application of heterogeneous criteria. For large datasets of prostate cancer patients used in clinical studies PSA measurements are used as surrogate measures of disease progression. In these datasets a method to measure PSA recurrence is needed for the subsequent analysis of outcomes data and as such need to be applied in a uniform and reproducible manner. This method needs to be simple and reproducible, and based on known aspects of PSA biology.
+
+We have created a simple Perl-based algorithm for the calculation of post-treatment PSA outcomes results based on the initial PSA and multiple PSA values obtained after treatment. The algorithm tracks the post-surgical PSA nadir and if present, subsequent PSA recurrence. Times to PSA recurrence or recurrence free intervals are supplied in months.
+
+Use of the algorithm is demonstrated with a sample dataset from prostate cancer patients. The results are compared with hand-annotated PSA recurrence analysis. The strengths and limitations are discussed.
+
+The use of this simple PSA algorithm allows for the standardized analysis of PSA recurrence in large datasets of patients who have undergone treatment for prostate cancer. The script is freely available, and easily modifiable for desired user parameters and improvements.
+

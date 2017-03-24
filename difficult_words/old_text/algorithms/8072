@@ -1,0 +1,5 @@
+
+Permutation testing is very popular for analyzing microarray data to identify differentially expressed (DE) genes; estimating false discovery rates (FDRs) is a very popular way to address the inherent multiple testing problem. However, combining these approaches may be problematic when sample sizes are unequal.
+
+With unbalanced data, permutation tests may not be suitable because they do not test the hypothesis of interest. In addition, permutation tests can be biased. Using biased P-values to estimate the FDR can produce unacceptable bias in those estimates. Results also show that the approach of pooling permutation null distributions across genes can produce invalid P-values, since even non-DE genes can have different permutation null distributions. We encourage researchers to use statistics that have been shown to reliably discriminate DE genes, but caution that associated P-values may be either invalid, or a less-effective metric for discriminating DE genes.
+

@@ -1,0 +1,3 @@
+
+We present a unified derivation of the photon diffusion coefficient for both steady-state and time-dependent transport in disordered absorbing media. The derivation is based on a modal analysis of the time-dependent radiative transfer equation. This approach confirms that the dynamic diffusion coefficient is given by the random-walk result D = cl(*)/3, where l(*) is the transport mean free path and c is the energy velocity, independent of the level of absorption. It also shows that the diffusion coefficient for steady-state transport, often used in biomedical optics, depends on absorption, in agreement with recent theoretical and experimental works. These two results resolve a recurrent controversy in light propagation and imaging in scattering media.
+

@@ -1,0 +1,11 @@
+
+In biomedical research transcriptomic, proteomic or metabolomic profiles of patient samples are often combined with genomic profiles from experiments in cell lines or animal models. Integrating experimental data with patient data is still a challenging task due to the lack of tailored statistical tools.
+
+Here we introduce guided clustering, a new data integration strategy that combines experimental and clinical high-throughput data. Guided clustering identifies sets of genes that stand out in experimental data while at the same time display coherent expression in clinical data. We report on two potential applications: The integration of clinical microarray data with (i) genome-wide chromatin immunoprecipitation assays and (ii) with cell perturbation assays. Unlike other analysis strategies, guided clustering does not analyze the two datasets sequentially but instead in a single joint analysis. In a simulation study and in several biological applications, guided clustering performs favorably when compared with sequential analysis approaches.
+
+Guided clustering is available as a R-package from http://compdiag.uni-regensburg.de/software/guidedClustering.shtml. Documented R code of all our analysis is included in the Supplementary Materials. All newly generated data are available at the GEO database (GSE29700).
+
+rainer.spang@klinik.uni-regensburg.de
+
+Supplementary data are available at Bioinformatics online.
+

@@ -1,0 +1,9 @@
+
+SWI is an MR technique conventionally implemented with single-echo gradient-echo data. The purpose of this study was to compare single-echo SWI processing and 2 multiecho SWI processing schemes: postaverage, where an SWI image is created for each echo and then averaged to create a single volume; and frequency-based, where a SWI image is generated from an average frequency image. Linear and nonlinear mask functions were investigated for all 3 processing schemes.
+
+Comprehensive optimizations were performed. Single and multigradient-echo data were acquired at 3T in 10 volunteers. Contrast-to-noise ratio was measured in various structures. Visibilities of the same structures were ranked in different SWI images by trained raters.
+
+When image evaluation was based on measurements of contrast-to-noise ratio, the nonlinear mask and frequency-based scheme were superior. However, when image evaluation was based on ranks of qualitative visibility, the linear mask and postaverage scheme were superior. Although the nonlinear mask and frequency-based scheme allow increased contrast of paramagnetic perturbers such as the globus pallidus, periventricular veins, red nucleus, and subthalamic nucleus, they do not necessarily increase the information content of the image; rather, they result in a harsh contrast that is visually unpleasing to radiologists and wherein more subtle structure is relatively less apparent.
+
+Linearly masked postaverage SWI is the recommended implementation of multiecho SWI for radiologic use; however, nonlinearly masked frequency-based SWI may have use in computer-based segmentation or registration.
+

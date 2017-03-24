@@ -1,0 +1,9 @@
+
+To define optimization parameters for limiting esophageal toxicity with concurrent chemoradiation (CRT) for non-small cell lung cancer (NSCLC).
+
+A retrospective analysis of patients treated with concurrent chemoradiation at the Dana-Farber/Brigham and Women's Hospital Cancer Center was done with IRB approval. All patients were treated with concurrent CRT. All patients underwent 3-D conformal radiotherapy planned with ECLIPSE (Varian, Palo Alto, CA) treatment planning system. Patients had their esophagus contoured in two ways: the entire esophagus (Esoph) and esophagus in-field (Esoph(in)). Together with clinical variables, dose volume metrics including mean dose, V5-V60 of both structures (Esoph and Esoph(in)) were analyzed for correlation with acute esophagitis (≥ grade 3) and late esophageal stricture. The analyses and graphics were completed using R (R Development Core Team, 2006). Logistic regression analysis was used to assess the relationships between dosimetric factors and swallowing complications while controlling for non-dosimetric variables.
+
+109 patients were studied between 2000 and 2006. 25% of patients had grade 3 or greater acute esophagitis. 5/109 (5.5%) had late esophageal stricture with a six-month actuarial risk of stricture of 6.5% (95% CI=1-11%). Mean dose and V45-V60 for both Esoph and Esoph(in) significantly correlated with development of acute esophagitis. V55 and V60 for both Esoph and Esoph(in) significantly correlated with development of stricture. On Multivariate analysis V55 of the Esoph and Esoph(in) was most predictive of toxicity. Limiting the V55 Esoph(in) to 50% was the best cut-point for acute esophagitis.
+
+In the setting of concurrent CRT, V55 of the Esoph or Esoph(in) is the best predictor of acute esophagitis.
+

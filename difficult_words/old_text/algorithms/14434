@@ -1,0 +1,3 @@
+
+Peak picking is an early key step in MS data analysis. We compare three commonly used approaches to peak picking and discuss their merits by means of statistical analysis. Methods investigated encompass signal-to-noise ratio, continuous wavelet transform, and a correlation-based approach using a Gaussian template. Functionality of the three methods is illustrated and discussed in a practical context using a mass spectral data set created with MALDI-TOF technology. Sensitivity and specificity are investigated using a manually defined reference set of peaks. As an additional criterion, the robustness of the three methods is assessed by a perturbation analysis and illustrated using ROC curves.
+

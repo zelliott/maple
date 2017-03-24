@@ -1,0 +1,3 @@
+
+The pair-coupled amino acid composition is introduced to predict the secondary structure contents of a protein. Compared with the existing methods all based on singlewise amino acid composition as defined in a 20D (dimensional) space, this represents a step forward to the consideration of the sequence coupling effect. The test results indicate that the introduction of the pair-coupled amino acid composition can significantly improve the prediction quality. It is anticipated that the concept of the pair-coupled amino acid composition can be used to simplify the formulation of sequence coupling (or sequence order) effects and to study many other features of proteins as well.
+

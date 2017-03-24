@@ -1,0 +1,7 @@
+
+The nucleotide sequencing process produces not only the sequence of nucleotides, but also associated quality values. Quality values provide valuable information, but are primarily used only for trimming sequences and generally ignored in subsequent analyses.
+
+This article describes how the scoring schemes of standard alignment algorithms can be modified to take into account quality values to produce improved alignments and statistically more accurate scores. A prototype implementation is also provided, and used to post-process a set of BLAST results. Quality-adjusted alignment is a natural extension of standard alignment methods, and can be implemented with only a small constant factor performance penalty. The method can also be applied to related methods including heuristic search algorithms like BLAST and FASTA.
+
+http://malde.org/~ketil/qaa.
+

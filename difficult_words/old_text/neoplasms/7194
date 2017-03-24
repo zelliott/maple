@@ -1,0 +1,3 @@
+
+"Stochastic survival models which adjust for covariate information have been developed by Beck (1979).  These models can include one or two living states and several competing death states.  The transitions between stages are assumed irreversible and the transition intensity functions are assumed to be independent of time but dependent upon the covariates."  Explicit solutions of the maximum likelihood equations for such models when there are one or two dichotomous covariates are presented.  Applications of these models to the case of heart transplants and lung cancer are discussed, and survival in two or four groups is compared.  (summary in FRE)
+

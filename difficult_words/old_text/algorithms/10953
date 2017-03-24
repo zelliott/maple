@@ -1,0 +1,3 @@
+
+We present a method for performing statistically valid linear regressions on the union of distributed chemical databases that preserves confidentiality of those databases. The method employs secure multi-party computation to share local sufficient statistics necessary to compute least squares estimators of regression coefficients, error variances and other quantities of interest. We illustrate our method with an example containing four companies' rather different databases.
+

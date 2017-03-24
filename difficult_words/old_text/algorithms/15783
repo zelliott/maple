@@ -1,0 +1,5 @@
+
+The desire to compare molecular phylogenies has stimulated the design of numerous tests. Most of these tests are formulated in a frequentist framework, and it is not known how they compare with Bayes procedures. I propose here two new Bayes tests that either compare pairs of trees (Bayes hypothesis test, BHT), or test each tree against an average of the trees included in the analysis (Bayes significance test, BST).
+
+The algorithm, based on a standard Metropolis-Hastings sampler, integrates nuisance parameters out and estimates the probability of the data under each topology. These quantities are used to estimate Bayes factors for composite vs. composite hypotheses. Based on two data sets, the BHT and BST are shown to construct similar confidence sets to the bootstrap and the Shimodaira Hasegawa test, respectively. This suggests that the known difference among previous tests is mainly due to the null hypothesis considered.
+

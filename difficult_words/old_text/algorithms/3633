@@ -1,0 +1,7 @@
+
+Studies of efficient and sensitive sequence comparison methods are driven by a need to find homologous regions of weak similarity between large genomes.
+
+We describe an improved method for finding similar regions between two sets of DNA sequences. The new method generalizes existing methods by locating word matches between sequences under two or more word models and extending word matches into high-scoring segment pairs (HSPs). The method is implemented as a computer program named DDS2. Experimental results show that DDS2 can find more HSPs by using several word models than by using one word model.
+
+The DDS2 program is freely available for academic use in binary code form at http://bioinformatics.iastate.edu/aat/align/align.html and in source code form from the corresponding author.
+

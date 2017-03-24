@@ -1,0 +1,9 @@
+
+To evaluate the performance of a prototype computer-aided diagnosis (CAD) tool using artificial intelligence techniques for the detection of pulmonary embolism (PE) and the possible benefit for general radiologists.
+
+Forty multidetector row computed tomography datasets (16/64- channel scanner) using 100 kVp, 100 mAs effective/slice, and 1-mm axial reformats in a low-frequency reconstruction kernel were evaluated. A total of 80 mL iodinated contrast material was injected at a flow rate of 5 mL/seconds. Primarily, six general radiologists marked any PE using a commercially available lung evaluation software with simultaneous, automatic processing by CAD in the background. An expert panel consisting of two chest radiologists analyzed all PE marks from the readers and CAD, also searching for additional finding primarily missed by both, forming the ground truth.
+
+The ground truth consisted of 212 emboli. Of these, 65 (31%) were centrally and 147 (69%) were peripherally located. The readers detected 157/212 emboli (74%) leading to a sensitivity of 97% (63/65) for central and 70% (103/147) for peripheral emboli with 9 false-positive findings. CAD detected 168/212 emboli (79%), reaching a sensitivity of 74% for central (48/65) and 82%(120/147) for peripheral emboli. A total of 154 CAD candidates were considered as false positives, yielding an average of 3.85 false positives/case.
+
+The CAD software showed a sensitivity comparable to that of the general radiologists, but with more false positives. CAD detection of findings incremental to the radiologists suggests benefit when used as a second reader. Future versions of CAD have the potential to further increase clinical benefit by improving sensitivity and reducing false marks.
+

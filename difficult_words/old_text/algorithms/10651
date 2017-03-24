@@ -1,0 +1,9 @@
+
+Recovering tissue deformation during robotic-assisted minimally invasive surgery (MIS) is an important step towards motion compensation and stabilization. This article presents a practical strategy for dense 3D depth recovery and temporal motion tracking for deformable surfaces.
+
+The method combines image rectification with constrained disparity registration for reliable depth estimation. The accuracy and practical value of the technique are validated using a tissue phantom with known 3D geometry and motion characteristics and in vivo data.
+
+Results from the phantom model correctly follow the motion trend indicated from the ground truth provided by CT scanning, and regression analysis shows the intrinsic accuracy that can be achieved with the proposed technique. Results applied to in vivo robotic-assisted MIS data are also provided, indicating the practical value of the proposed method.
+
+The proposed method presents a practical strategy for dense depth recovery of surface structure in robotic-assisted MIS that incorporates stereo vision. Results on phantom and in vivo data indicate the quality of the method and also highlight the importance of further considering the effects of specular highlights.
+

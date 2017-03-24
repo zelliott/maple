@@ -1,0 +1,3 @@
+
+We review concepts introduced in earlier work, where a neural network mechanism describes some mental processes in neurotic pathology and psychoanalytic working-through, as associative memory functioning, according to the findings of Freud. We developed a complex network model, where modules corresponding to sensorial and symbolic memories interact, representing unconscious and conscious mental processes. The model illustrates Freud's idea that consciousness is related to symbolic and linguistic memory activity in the brain. We have introduced a generalization of the Boltzmann machine to model memory associativity. Model behavior is illustrated with simulations and some of its properties are analyzed with methods from statistical mechanics.
+

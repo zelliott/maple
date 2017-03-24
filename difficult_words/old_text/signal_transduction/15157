@@ -1,0 +1,7 @@
+
+Campylobacter jejuni contains a homologue of the luxS gene shown to be responsible for the production of the signalling molecule autoinducer-2 (AI-2) in Vibrio harveyi and Vibrio cholerae. The aim of this study was to determine whether AI-2 acted as a diffusible quorum sensing signal controlling C. jejuni gene expression when it is produced at high levels during mid exponential growth phase.
+
+AI-2 activity was produced by the parental strain NCTC 11168 when grown in rich Mueller-Hinton broth (MHB) as expected, but interestingly was not present in defined Modified Eagles Medium (MEM-alpha). Consistent with previous studies, the luxS mutant showed comparable growth rates to the parental strain and exhibited decreased motility halos in both MEM-alpha and MHB. Microarray analysis of genes differentially expressed in wild type and luxS mutant strains showed that many effects on mRNA transcript abundance were dependent on the growth medium and linked to metabolic functions including methionine metabolism. Addition of exogenously produced AI-2 to the wild type and the luxS mutant, growing exponentially in either MHB or MEM-alpha did not induce any transcriptional changes as analysed by microarray.
+
+Taken together these results led us to conclude that there is no evidence for the role of AI-2 in cell-to-cell communication in C. jejuni strain NCTC 11168 under the growth conditions used, and that the effects of the luxS mutation on the transcriptome are related to the consequential loss of function in the activated methyl cycle.
+

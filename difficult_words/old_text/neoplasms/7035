@@ -1,0 +1,9 @@
+
+Our objectives were (1) to compare the disposition and in vivo release of paclitaxel between a tocopherol-based Cremophor-free formulation (Tocosol Paclitaxel) and Cremophor EL-formulated paclitaxel (Taxol) in human subjects, and (2) to develop a mechanistic model for unbound and total paclitaxel pharmacokinetics.
+
+A total of 35 patients (average +/- SD age: 59 +/-13 years) with advanced non-hematological malignancies were studied in a randomized two-way crossover trial. Patients received 175 mg/m(2) paclitaxel as 15 min (Tocosol Paclitaxel) or 3 h (Taxol) intravenous infusion in each study period. Paclitaxel concentrations were determined by LC-MS/MS in plasma ultrafiltrate and whole blood. NONMEM VI was used for population pharmacokinetics.
+
+A linear disposition model with three compartments for unbound paclitaxel and a one-compartment model for Cremophor were applied. Total clearance of unbound paclitaxel was 845 L/h (variability: 25% CV). The prolonged release with Tocosol Paclitaxel was explained by the limited solubility of unbound paclitaxel of 405 ng/mL (estimated) in plasma. The 15 min Tocosol Paclitaxel infusion yielded a mean time to 90% cumulative input of 1.14 +/- 0.16 h. Tocosol Paclitaxel was estimated to release 9.8% of the dose directly into the deep peripheral compartment. The model accounted for the presence of drug-containing nanodroplets in blood.
+
+Population pharmacokinetic analysis indicated linear disposition and a potentially higher bioavailability of unbound paclitaxel following Tocosol Paclitaxel administration due to direct release at the target site. The prolonged release of Tocosol Paclitaxel supports 15 min paclitaxel infusions. This mechanistic model may be important for development of prolonged release formulations that distribute in and from the systemic circulation.
+

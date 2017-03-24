@@ -1,0 +1,9 @@
+
+Modern tomographic imaging devices enable the acquisition of spatial and temporal image sequences. But, the spatial and temporal resolution of such devices is limited and therefore image interpolation techniques are needed to represent images at a desired level of discretization. This paper presents a method for structure-preserving interpolation between neighboring slices in temporal or spatial image sequences.
+
+In a first step, the spatiotemporal velocity field between image slices is determined using an optical flow-based registration method in order to establish spatial correspondence between adjacent slices. An iterative algorithm is applied using the spatial and temporal image derivatives and a spatiotemporal smoothing step. Afterwards, the calculated velocity field is used to generate an interpolated image at the desired time by averaging intensities between corresponding points. Three quantitative measures are defined to evaluate the performance of the interpolation method.
+
+The behavior and capability of the algorithm is demonstrated by synthetic images. A population of 17 temporal and spatial image sequences are utilized to compare the optical flow-based interpolation method to linear and shape-based interpolation. The quantitative results show that the optical flow-based method outperforms the linear and shape-based interpolation statistically significantly.
+
+The interpolation method presented is able to generate image sequences with appropriate spatial or temporal resolution needed for image comparison, analysis or visualization tasks. Quantitative and qualitative measures extracted from synthetic phantoms and medical image data show that the new method definitely has advantages over linear and shape-based interpolation.
+

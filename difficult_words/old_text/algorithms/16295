@@ -1,0 +1,3 @@
+
+The main motivation of this paper is to propose a method to extract the output structure and find the input data manifold that best represents that output structure in a multivariate regression problem. A graph similarity viewpoint is used to develop an algorithm based on LDA, and to find out different output models which are learned as an input subspace. The main novelty of the algorithm is related with finding different structured groups and apply different models to fit better those structures. Finally, the proposed method is applied to a real remote sensing retrieval problem where we want to recover the physical parameters from a spectrum of energy.
+

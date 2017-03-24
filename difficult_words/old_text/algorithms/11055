@@ -1,0 +1,9 @@
+
+To establish a new clinical grading scale and objective measurement method to evaluate conjunctival injection.
+
+Photographs of conjunctival injection with variable ocular diseases in 429 eyes were reviewed. Seventy-three images with concordance by three ophthalmologists were classified into a 4-step and 10-step subjective grading scale, and used as standard photographs. Each image was quantified in four ways: the relative magnitude of the redness component of each red-green-blue (RGB) pixel; two different algorithms based on the occupied area by blood vessels (K-means clustering with LAB color model and contrast-limited adaptive histogram equalization [CLAHE] algorithm); and the presence of blood vessel edges, based on the Canny edge-detection algorithm. Area under the receiver operating characteristic curves (AUCs) were calculated to summarize diagnostic accuracies of the four algorithms.
+
+The RGB color model, K-means clustering with LAB color model, and CLAHE algorithm showed good correlation with the clinical 10-step grading scale (R = 0.741, 0.784, 0.919, respectively) and with the clinical 4-step grading scale (R = 0.645, 0.702, 0.838, respectively). The CLAHE method showed the largest AUC, best distinction power (P < 0.001, ANOVA, Bonferroni multiple comparison test), and high reproducibility (R = 0.996).
+
+CLAHE algorithm showed the best correlation with the 10-step and 4-step subjective clinical grading scales together with high distinction power and reproducibility. CLAHE algorithm can be a useful for method for assessment of conjunctival injection.
+

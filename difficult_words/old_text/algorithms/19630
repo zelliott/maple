@@ -1,0 +1,3 @@
+
+Classification of subjects into predefined groups, such as patient vs. control, based on their functional MRI data is a potentially useful procedure for clinical diagnostic purposes. This paper presents an automated method for classifying subjects into groups based on their functional MRI data. The proposed methodology provides general framework using preprocessed time series for the whole brain volume. Using a training set of two groups of subjects, the new methodology identifies spatio-temporal features that distinguish the groups and uses these features to categorize new subjects. We demonstrate the method using simulations and a clinical application that classifies individuals into schizotypy and control groups.
+

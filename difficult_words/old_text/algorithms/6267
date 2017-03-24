@@ -1,0 +1,3 @@
+
+A novel approach toward neural networks modeling is presented in the paper. It is unique in the fact that allows nets' weights to change according to changes of some environmental factors even after completing the learning process. The models of context-dependent (cd) neuron, one- and multilayer feedforward net are presented, with basic learning algorithms and examples of functioning. The Vapnik-Chervonenkis (VC) dimension of a cd neuron is derived, as well as VC dimension of multilayer feedforward nets. Cd nets' properties are discussed and compared with the properties of traditional nets. Possibilities of applications to classification and control problems are also outlined and an example presented.
+

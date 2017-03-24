@@ -1,0 +1,9 @@
+
+Contemporary literature illustrates an abundance of adaptive algorithms for mining association rules. However, most literature is unable to deal with the peculiarities, such as missing values and dynamic data creation, that are frequently encountered in fields like medicine. This paper proposes an uncertainty rule method that uses an adaptive threshold for filling missing values in newly added records. A new approach for mining uncertainty rules and filling missing values is proposed, which is in turn particularly suitable for dynamic databases, like the ones used in home care systems.
+
+In this study, a new data mining method named FiMV (Filling Missing Values) is illustrated based on the mined uncertainty rules. Uncertainty rules have quite a similar structure to association rules and are extracted by an algorithm proposed in previous work, namely AURG (Adaptive Uncertainty Rule Generation). The main target was to implement an appropriate method for recovering missing values in a dynamic database, where new records are continuously added, without needing to specify any kind of thresholds beforehand.
+
+The method was applied to a home care monitoring system database. Randomly, multiple missing values for each record's attributes (rate 5-20% by 5% increments) were introduced in the initial dataset. FiMV demonstrated 100% completion rates with over 90% success in each case, while usual approaches, where all records with missing values are ignored or thresholds are required, experienced significantly reduced completion and success rates.
+
+It is concluded that the proposed method is appropriate for the data-cleaning step of the Knowledge Discovery process in databases. The latter, containing much significance for the output efficiency of any data mining technique, can improve the quality of the mined information.
+

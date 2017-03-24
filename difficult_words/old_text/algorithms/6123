@@ -1,0 +1,3 @@
+
+Using a stochastic framework, we propose two algorithms for the problem of obtaining a single high-resolution image from multiple noisy, blurred, and undersampled images. The first is based on a Bayesian formulation that is implemented via the expectation maximization algorithm. The second is based on a maximum a posteriori formulation. In both of our formulations, the registration, noise, and image statistics are treated as unknown parameters. These unknown parameters and the high-resolution image are estimated jointly based on the available observations. We present an efficient implementation of these algorithms in the frequency domain that allows their application to large images. Simulations are presented that test and compare the proposed algorithms.
+

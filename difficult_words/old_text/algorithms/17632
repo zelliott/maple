@@ -1,0 +1,9 @@
+
+To devise a numerical indicator of image quality for multirow helical cardiac computed tomography (CT) and its relation to temporal resolution.
+
+A pulsatile cardiac assist device was used to simulate cardiac wall motion by mechanically transmitting the device dynamics to a piece of tungsten wire. Wire motion induced by different device rates was captured with an 8-row subsecond helical CT scanner operating with various scanning parameters. Image artifacts were visually assessed and compared with the image point spread function (PSF) using the full width at half maximum (FWHM) area as a numerical estimate of spatial accuracy.
+
+At rest, the FWHM area was determined as 1.3 mm2. At a device rate of 60 bpm, the FWHM area ranged from 1.51 mm2 to 21.62 mm2, depending on the time of image reconstruction. Mean reproducibility of the FWHM area measurements was determined as 0.05, whereas visual estimates of motion artifact were highly variable between different readers (kappa = 0.19). Visually determined image quality correlated closely with the FWHM area metric (Spearman's rank correlation, P = 0.0001, rho = 0.841). At a device rate of 100 bpm, the minimum FWHM area was 2.00 mm2 using a single-sector algorithm, 1.41 mm2 using a 2-segment algorithm, and 1.37 mm2 using a 4-segment algorithm.
+
+Use of a pulsatile cardiac assist device could serve as an in vitro test bed for cardiac CT imaging methods. Area FWHM of the PSF correlates well with visually determined image quality of a dynamic phantom, but provides better reproducibility than visual analysis.
+

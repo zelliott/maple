@@ -1,0 +1,9 @@
+
+Network inference algorithms are powerful computational tools for identifying putative causal interactions among variables from observational data. Bayesian network inference algorithms hold particular promise in that they can capture linear, non-linear, combinatorial, stochastic and other types of relationships among variables across multiple levels of biological organization. However, challenges remain when applying these algorithms to limited quantities of experimental data collected from biological systems. Here, we use a simulation approach to make advances in our dynamic Bayesian network (DBN) inference algorithm, especially in the context of limited quantities of biological data.
+
+We test a range of scoring metrics and search heuristics to find an effective algorithm configuration for evaluating our methodological advances. We also identify sampling intervals and levels of data discretization that allow the best recovery of the simulated networks. We develop a novel influence score for DBNs that attempts to estimate both the sign (activation or repression) and relative magnitude of interactions among variables. When faced with limited quantities of observational data, combining our influence score with moderate data interpolation reduces a significant portion of false positive interactions in the recovered networks. Together, our advances allow DBN inference algorithms to be more effective in recovering biological networks from experimentally collected data.
+
+Source code and simulated data are available upon request.
+
+http://www.jarvislab.net/Bioinformatics/BNAdvances/
+

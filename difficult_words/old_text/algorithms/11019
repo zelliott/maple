@@ -1,0 +1,9 @@
+
+The utility of simulation environments in the development of an artificial pancreas for type 1 diabetes mellitus (T1DM) management is well established. The availability of a simulator that incorporates glucagon as a counterregulatory hormone to insulin would allow more efficient design of bihormonal glucose controllers. Existing models of the glucose regulatory system that incorporates glucagon action are difficult to identify without using tracer data. In this article, we present a novel model of glucagon-glucose dynamics that can be easily identified with standard clinical research data.
+
+The minimal model of plasma glucose and insulin kinetics was extended to account for the action of glucagon on net endogenous glucose production by incorporating a new compartment. An existing subcutaneous insulin absorption model was used to account for subcutaneous insulin delivery. The same model of insulin pharmacokinetics was employed to model the pharmacokinetics of subcutaneous glucagon absorption. Finally, we incorporated an existing gastrointestinal absorption model to account for meal intake. Data from a closed-loop artificial pancreas study using a bihormonal controller on T1DM subjects were employed to identify the composite model. To test the validity of the proposed model, a bihormonal controller was designed using the identified model.
+
+Model parameters were identified with good precision, and an excellent fitting of the model with the experimental data was achieved. The proposed model allowed the design of a bihormonal controller and demonstrated its ability to improve glycemic control over a single-hormone controller.
+
+A novel composite model, which can be easily identified with standard clinical data, is able to account for the effect of exogenous insulin and glucagon infusion on glucose dynamics. This model represents another step toward the development of a bihormonal artificial pancreas.
+

@@ -1,0 +1,9 @@
+
+To describe and present some preliminary results for a novel algorithm for segmentation with gray-scale connectedness as a means to separate arteries and veins in magnetic resonance angiography (MRA).
+
+The proposed algorithm, SeparaSeed, uses the gray-scale degree of connectedness as a tool to find the zone surrounding each vessel, in order to split the original volume into its different vessel components. In contrast to traditional segmentation methods, no gray-scale information is lost in the process. The segmentation is performed in one step, resulting in a partition of the initial volume into a chosen number of regions of interest (ROIs). Finally, visualization is achieved by projecting the 3D vessel trees to 2D using the common maximum intensity projection (MIP). The algorithm was tested in two MRA data sets of the vessels of the pelvis acquired after injection of an intravascular contrast agent and in one data set of the vessels of the neck with gadolinium.
+
+In all data sets, a large proportion of the venous signal was removed while preserving that of the arteries, thus improving visualization of the relevant vessels.
+
+Separation of arteries and veins is feasible with the proposed algorithm with a moderate amount of interaction.
+

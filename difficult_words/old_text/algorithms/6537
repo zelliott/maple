@@ -1,0 +1,3 @@
+
+The generalized estimating equations (GEE) approach has been popular for analyzing longitudinal clinical trials data with missing values. The GEE methodology allows one to obtain unbiased estimates only when the data are missing completely at random. The use of weights into the estimating equations has been proposed as an adjustment for differential probabilities of nonresponse to accomodate more realistic missingness mechanisms. This article addresses the problem of assessing the relative improvement due to weights using simulated data generated around an alcoholic hepatitis trial. We argue that weights yield improved results in terms of bias, coverage rate, and efficiency only when the underlying missingness mechanism is correctly specified.
+

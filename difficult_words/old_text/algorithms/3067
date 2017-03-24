@@ -1,0 +1,9 @@
+
+In virtual reality (VR) systems, the user's finger and hand positions are sensed and used to control the virtual environments. Direct biocontrol of VR environments using surface electromyography (SEMG) signals may be more synergistic and unconstraining to the user. The purpose of the present investigation was to develop a technique to predict the finger joint angle from the surface EMG measurements of the extensor muscle using neural network models.
+
+SEMG together with the actual joint angle measurements were obtained while the subject was performing flexion-extension rotation of the index finger at three speeds. Several neural networks were trained to predict the joint angle from the parameters extracted from the SEMG signals. The best networks were selected to form six committees. The neural network committees were evaluated using data from new subjects.
+
+There was hysteresis in the measured SMEG signals during the flexion-extension cycle. However, neural network committees were able to predict the joint angle with reasonable accuracy. RMS errors ranged from 0.085 +/- 0.036 for fast speed finger-extension to 0.147 +/- 0.026 for slow speed finger extension, and from 0.098 +/- 0.023 for the fast speed finger flexion to 0.163 +/- 0.054 for slow speed finger flexion.
+
+Although hysteresis was observed in the measured SEMG signals, the committees of neural networks were able to predict the finger joint angle from SEMG signals.
+

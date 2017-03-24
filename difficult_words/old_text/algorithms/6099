@@ -1,0 +1,3 @@
+
+This paper shows that canards, which are periodic orbits for which the trajectory follows both the attracting and repelling part of a slow manifold, can exist for a two-dimensional reduction of the Hodgkin-Huxley equations. Such canards are associated with a dramatic change in the properties of the periodic orbit within a very narrow interval of a control parameter. By smoothly connecting stable and unstable manifolds in an asymptotic limit, we predict with great accuracy the parameter value at which the canards exist for this system. This illustrates the power of using singular perturbation theory to understand the dynamical properties of realistic biological systems.
+

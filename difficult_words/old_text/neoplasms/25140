@@ -1,0 +1,9 @@
+
+This ecologic study tested the hypothesis that census tracts with elevated groundwater uranium and more frequent groundwater use have increased cancer incidence.
+
+Data sources included: incident total, leukemia, prostate, breast, colorectal, lung, kidney, and bladder cancers (1996-2005, SC Central Cancer Registry); demographic and groundwater use (1990 US Census); and groundwater uranium concentrations (n = 4,600, from existing federal and state databases). Kriging was used to predict average uranium concentrations within tracts. The relationship between uranium and standardized cancer incidence ratios was modeled among tracts with substantial groundwater use via linear or semiparametric regression, with and without stratification by the proportion of African Americans in each area.
+
+A total of 134,685 cancer cases were evaluated. Tracts with ≥50% groundwater use and uranium concentrations in the upper quartile had increased risks for colorectal, breast, kidney, prostate, and total cancer compared to referent tracts. Some of these relationships were more likely to be observed among tracts populated primarily by African Americans.
+
+SC regions with elevated groundwater uranium and more groundwater use may have an increased incidence of certain cancers, although additional research is needed since the design precluded adjustment for race or other predictive factors at the individual level.
+

@@ -1,0 +1,7 @@
+
+Network reconstruction of biological entities is very important for understanding biological processes and the organizational principles of biological systems. This work focuses on integrating both the literatures and microarray gene-expression data, and a combined literature mining and microarray analysis (LMMA) approach is developed to construct gene networks of a specific biological system.
+
+In the LMMA approach, a global network is first constructed using the literature-based co-occurrence method. It is then refined using microarray data through a multivariate selection procedure. An application of LMMA to the angiogenesis is presented. Our result shows that the LMMA-based network is more reliable than the co-occurrence-based network in dealing with multiple levels of KEGG gene, KEGG Orthology and pathway.
+
+The LMMA program is available upon request.
+

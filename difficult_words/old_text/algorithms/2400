@@ -1,0 +1,9 @@
+
+This paper explores the usefulness of the exposure database MEGA for model validation and evaluates the capability of two Stoffenmanager model equations (i.e. handling of powders/granules and machining) to estimate workers exposure to inhalable dust.
+
+For the task groups, 'handling of powders and granules' (handling) and 'machining of wood and stone' (machining) measurements were selected from MEGA and grouped in scenarios depending on task, product, and control measures. The predictive capability of the model was tested by calculating the relative bias of the single measurements and the correlation between geometric means (GMs) for scenarios. The conservatism of the model was evaluated by checking if the percentage of measurement values above the 90th percentile estimate was ≤10%.
+
+From 22 596 personal measurements on inhalable dust within MEGA, 390 could be selected for handling and 1133 for machining. The relative bias for the task groups was -25 and 68%, respectively, the percentage of measurements with a higher result than the estimated 90th percentile 11 and 7%. Correlations on a scenario level were good for both model equations as well for the GM (handling: r(s) = 0.90, n = 15 scenarios; machining: r(s) = 0.84, n = 22 scenarios) as for the 90th percentile (handling: r(s) = 0.79; machining: r(s) = 0.76).
+
+The MEGA database could be used for model validation, although the presented analyses have learned that improvements in the database are necessary for modelling purposes in the future. For a substantial amount of data, contextual information on exposure determinants in addition to basic core information is stored in this database. The relative low bias, the good correlation, and the level of conservatism of the tested model show that the Stoffenmanager can be regarded as a useful Tier 1 model for the Registration, Evaluation, Authorisation and Restriction of Chemicals legislation.
+

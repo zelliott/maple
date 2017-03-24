@@ -1,0 +1,3 @@
+
+A new algorithm for doing signal averaging of steady-state visual evoked potentials (VEP's) is described. The subspace average is obtained by finding the orthogonal projection of the VEP measurement vector onto the signal subspace, which is based on a sinusoidal VEP signal model. The subspace average is seen to out-perform the conventional average using a new signal-to-noise-ratio-based performance measure on simulated and actual VEP data.
+

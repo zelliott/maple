@@ -1,0 +1,7 @@
+
+Regulation of gene expression is fundamental to the operation of a cell. Revealing the structure and dynamics of a gene regulatory network (GRN) is of great interest and represents a considerably challenging computational problem. The GRN estimation problem is complicated by the fact that the number of gene expression measurements is typically extremely small when compared with the dimension of the biological system. Further, because the gene regulation process is intrinsically complex, commonly used parametric models can provide too simple description of the underlying phenomena and, thus, can be unreliable. In this article, we propose a novel methodology for the inference of GRNs from time-series and steady-state gene expression measurements. The presented framework is based on the use of Bayesian analysis with ordinary differential equations (ODEs) and non-parametric Gaussian process modeling for the transcriptional-level regulation.
+
+The performance of the proposed structure inference method is evaluated using a recently published in vivo dataset. By comparing the obtained results with those of existing ODE- and Bayesian-based inference methods we demonstrate that the proposed method provides more accurate network structure learning. The predictive capabilities of the method are examined by splitting the dataset into a training set and a test set and by predicting the test set based on the training set.
+
+A MATLAB implementation of the method will be available from http://www.cs.tut.fi/~aijo2/gp upon publication.
+

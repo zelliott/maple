@@ -1,0 +1,15 @@
+
+Pharmacovigilance algorithms are used to assess the likelihood of adverse drug reaction (ADR) occurrence. The preferred instrument for use in the intensive care unit (ICU) is not established.
+
+The primary objective of this study was to compare the agreement between the Kramer algorithm, Naranjo criteria and Jones algorithm for the evaluation of ADRs in the ICU. A secondary objective was to compare the agreement between the same pharmacovigilance algorithms for ADR determination when applied in a retrospective versus concurrent fashion in the ICU.
+
+There were two phases in this study. Phase I was the retrospective evaluation (i.e. after the patient was discharged from the hospital) conducted in patients admitted during July 2005 to June 2006. Phase II was the concurrent phase (i.e. while the patient was in the hospital) conducted over 6 weeks in 2008. Both phases were conducted at the University of Pittsburgh Medical Center and included adult patients admitted to the medical ICU.
+
+In phase I, a random sample of 261 medication signals were evaluated individually for potential ADRs using the Kramer algorithm, Naranjo criteria and Jones algorithm. In phase II, an active medication monitoring system was used to detect five abnormal laboratory values, resulting in a random sample of 253 signals that were evaluated using the same three algorithms.
+
+Percentage agreement among the algorithms for all levels of causality was estimated using a kappa statistic for both phases of the study.
+
+For phase I, the kappa values were all >0.7 ranging from 0.721 to 0.855 between instruments, with Naranjo versus Kramer having the highest kappa, which is considered excellent agreement. The kappa statistic between individual instruments for phase II are <0.7 ranging from 0.423 to 0.635, which is considered moderate agreement, with Naranjo versus Jones displaying the lowest kappa while still exhibiting moderate agreement. For phase II, the Kramer algorithm had better agreement with both the Naranjo criteria and the Jones algorithm.
+
+These instruments demonstrated similar results for evaluating ADRs in the ICU retrospectively, suggesting that instrument selection with any of the three instruments is reasonable. For concurrent ADR evaluations, there is greater variability in the level of causality obtained among pharmacovigilance algorithms and Kramer displayed better agreement with its comparators. A suggestion for a more definitive concurrent ADR assessment is to use more than one algorithm. This may be challenging in daily clinical practice; however, it is a reasonable expectation for research.
+

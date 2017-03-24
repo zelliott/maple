@@ -1,0 +1,15 @@
+
+Although risk assessment models for specific adult populations such as the elderly have been developed, little work has focused on developing pediatric-specific models. The lack of pediatric models may result in incorrect estimates of relative disease severity among children, in reduced reimbursement for health plans and providers, and in inadequate health care for chronically ill children.
+
+To develop and to evaluate a pediatric risk assessment model using automated pharmacy data.
+
+Retrospective, case-cohort study using automated data.
+
+All children continuously enrolled in Group Health Cooperative of Puget Sound during 1992 and 1993.
+
+The Pediatric Chronic Disease Score (PCDS), an algorithm that classified children into chronic disease categories by prescription drug fills, was compared with the ICD-9-CM-based Ambulatory Care Groups (ACG) model and a demographic model for prediction of total, ambulatory, or primary care costs and primary care visits. Forecast models were estimated using linear regression and they were evaluated with R2, mean prediction error, mean squared prediction error, and Mincer-Zarnowitz tests.
+
+The pharmacy-based PCDS performed significantly better on each of the four forecasting accuracy tests than did a demographic model (eg, R2s averaging fourfold higher). Compared with the ACG model, the PCDS model performed similarly on mean squared prediction error tests; however, the ACG generally had higher validation R2 values.
+
+A pharmacy-based pediatric risk assessment model performs better than a demographic model and represents a viable alternative to ICD-9-CM-based models. Further research is necessary to determine if children must be considered separately from adults when conducting population-based risk assessments.
+

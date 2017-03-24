@@ -1,0 +1,9 @@
+
+To increase the chance for a cure, cancer must be detected as early as possible. This can be achieved with cytopathological diagnostic methods. For a further increase of the diagnostic accuracy of these methods we introduced the multimodal cell analysis, viz, cells on the slide have to be relocalized to enable successive analysis of identical cells in different stains. For practical reasons the relocalization step must be automated.
+
+For a fully automatic acquisition of successive cell images we use a passive autofocus that is adaptive to the material, i.e., to the cells, followed by a comparison of the scenes, i.e., the cell constellation, of two such obtained images from different stains. In case that no sub-scene match can be found the search is extended to the surrounding area. A set of 1556 scenes from seven specimens have been subject to our algorithm. The automatically relocalized and acquired images from a second stain have been manually compared to the images from a first stain.
+
+An overall relocalization rate of 85.4% is achieved. 14.3% of the images could not be relocalized and are lost for the following diagnostic process, while the critical case of erroneously matched images was observed in only 0.3% of cases.
+
+We could show that it is possible to automatically acquire images of successive stains of identical cells on cytopathological specimens. The method presented achieves acceptable relocalization rates. Wrong image acquisitions are very rare and can mostly be ascribed to images with single cells, i.e., without scene information.
+

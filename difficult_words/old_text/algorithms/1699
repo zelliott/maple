@@ -1,0 +1,3 @@
+
+Sparse methods have a significant advantage to reduce the complexity of genes expression data and to make them more comprehensible and interpretable. In this paper, based on penalized matrix decomposition (PMD), a novel approach is proposed to extract plants core genes, i.e., the characteristic gene set, responding to abiotic stresses. Core genes can capture the changes of the samples. In other words, the features of samples can be caught by the core genes. The experimental results show that the proposed PMD-based method is efficient to extract the core genes closely related to the abiotic stresses.
+

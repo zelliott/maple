@@ -1,0 +1,3 @@
+
+Graph algorithms previously developed by the authors are adapted to simulate pedigrees similar to those used in genetic linkage studies which associate disease phenotypes with specific genomic locations. Pedigrees are chosen uniformly at random from the set of those with specified numbers of individuals and matings and which contain no loops. Summary statistics from pedigrees generated in this way can be used to check real pedigrees for anomalies due to biased sampling or phenotypic effects on the pedigree structure.
+

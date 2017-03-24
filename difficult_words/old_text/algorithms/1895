@@ -1,0 +1,3 @@
+
+The waveform morphology of intracranial pressure (ICP) pulses holds essential information about intracranial and cerebrovascular pathophysiologies. Automatic analysis of the ICP waveforms may help to predict abnormal increase of ICP and thus prevent severe complications in patients treated for traumatic brain injuries (TBIs). This article describes a probabilistic framework to track the ICP waveform morphology in real time. The model represents the correlation between different ICP morphological metrics extracted within a single pulse as well as the temporal dependence of metrics extracted between successive pulses. Morphological tracking is solved using Bayesian inference in a dynamic graphical model that associates a random variable to each morphological metric.
+

@@ -1,0 +1,5 @@
+
+Gene expression is regulated by different kinds of short nucleotide domains. These features can either activate or terminate the transcription process. To predict the signal sites in the 5' and 3' gene regions we applied the Hamming-Clustering network (HC) to the TATA box, to the transcription initiation site and to the poly(A) signal determination in DNA sequences. This approach employs a technique deriving from the synthesis of digital networks in order to generate prototypes, or rules, which can be directly analysed or used for the construction of a final neural network.
+
+More than 1000 poly-A signals have been extracted from EMBL database rel. 42 and used to build the training and the test set. A full set of the eukaryotic genes (1252 entry) from the Eukaryotic Promoter Database (EPD rel. 42) have been used for the TATA-box signal and transcription network approach. The results show the applicability of the Hamming-Clustering method to functional signal prediction.
+

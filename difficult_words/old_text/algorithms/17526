@@ -1,0 +1,3 @@
+
+Here we report a modified pulsed gradient spin-echo (PGSTE) pulse sequence to measure diffusion coefficients. This approach incorporates WATERGATE combined with isotopic filtering into a standard PGSTE experiment. Doing this eliminates much of the disadvantages from the combination of diffusion encoding and heteronuclear selection intervals and allows for facile modification of the diffusion pulse sequence with flexibility of the time period between RF pulses. The new diffusion pulse sequence is demonstrated using an 15N-labeled peptide and an 15N-labeled protein in a mixture with a protein of similar size.
+

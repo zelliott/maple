@@ -1,0 +1,3 @@
+
+Porous systems are investigated using eigendecomposition of the Laplace matrix. Three parameters; tortuosity, surface-to-pore volume ratio and relaxation rate are derived from the eigenvalue spectrum of the Laplace matrix and connected to the parameters in the Padé approximation, an expression often used to describe the time-dependent diffusion coefficient in porous systems. The Padé length is identified for systems with large pore to connector volume ratio. The results are compared with simulations.
+

@@ -1,0 +1,3 @@
+
+A method has been developed to calculate depths of calculation points analytically in patient contours containing internal heterogeneities. In this method, each contour is approximated by a Fourier series comprising five to ten terms. Using this approximation, the intersections of a ray line with each contour are found as the solution of a transcendental equation. Once these intersections have been located, effective depths used in heterogeneity calculations can readily be calculated.
+

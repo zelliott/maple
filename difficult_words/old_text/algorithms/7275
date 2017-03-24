@@ -1,0 +1,3 @@
+
+The reliable estimation of fiber orientation distributions from diffusion-sensitized magnetic resonance imaging is an important processing step for revealing structural connectivity in the human brain. Fiber orientation distributions are usually represented in spherical harmonic (SH) domain, but many modern spatial regularization techniques were not yet formulated in SH-domain such that they cannot benefit from the well known advantages. In this article we propose a novel SH-formulation of the contour enhancement propagator (fiber continuity) which enables to implement a variety of processing steps in SH-domain.
+

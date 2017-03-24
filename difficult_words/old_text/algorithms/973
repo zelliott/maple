@@ -1,0 +1,9 @@
+
+Modern diagnostic methods such as near-infrared Raman spectroscopy (NIRS) allow quantification and evaluation of human atherosclerotic lesions, which can be useful in diagnosing coronary artery disease. The objective of the present study is to obtain feasible diagnostic information to detect atheromatous plaque using NIRS combined with discriminant analysis.
+
+An 830 nm Ti: sapphire laser pumped by an argon laser provides near-infrared excitation. A spectrograph disperses light scattered from arterial tissue and a liquid-nitrogen cooled CCD detects the Raman spectra. A total of 111 arterial fragments were scanned and Raman results were compared with histopathology. Principal components analysis (PCA) and Mahalanobis distance (m-distance) were used to model an algorithm for tissue classification into three categories: non-atherosclerotic (NA), non-calcified (NC), and calcified (C) using Raman spectra. Spectra were randomly separated into training and prospective groups.
+
+It has been found that, for the NA tissue, the algorithm has sensitivity of 84 and 78% and specificity of 91 and 93% for training and prospective groups, respectively. For the NC tissue the algorithm has sensitivity of 88 and 90% and specificity of 88 and 83%. For the C tissue both sensitivity and specificity were maximum, 100%.
+
+An algorithm using PCA and discriminant analysis based on m-distance has been developed and successfully applied to diagnose coronary artery disease by NIRS obtaining good sensitivity and specificity for each tissue category.
+

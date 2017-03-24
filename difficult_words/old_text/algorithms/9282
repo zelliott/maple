@@ -1,0 +1,13 @@
+
+We present a formal approach and methodology for the analysis and generation of user interfaces, with special emphasis on human-automation interaction.
+
+A conceptual approach for modeling, analyzing, and verifying the information content of user interfaces is discussed.
+
+The proposed methodology is based on two criteria: First, the interface must be correct--that is, given the interface indications and all related information (user manuals, training material, etc.), the user must be able to successfully perform the specified tasks. Second, the interface and related information must be succinct--that is, the amount of information (mode indications, mode buttons, parameter settings, etc.) presented to the user must be reduced (abstracted) to the minimum necessary.
+
+A step-by-step procedure for generating the information content of the interface that is both correct and succinct is presented and then explained and illustrated via two examples.
+
+Every user interface is an abstract description of the underlying system. The correspondence between the abstracted information presented to the user and the underlying behavior of a given machine can be analyzed and addressed formally.
+
+The procedure for generating the information content of user interfaces can be automated, and a software tool for its implementation has been developed. Potential application areas include adaptive interface systems and customized/personalized interfaces.
+

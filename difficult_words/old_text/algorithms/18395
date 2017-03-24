@@ -1,0 +1,3 @@
+
+An algorithm for predicting the lowest energy structure of a peptide has been developed. High-energy barriers on an energy surface can be easily overcome by logarithmically transforming the energy space. For efficient optimizations, the energy space is searched using a scale-transformed entropy sampling method, and conformations specific to a primary structure of the peptide are sampled with large weights. The efficiency of the present method is demonstrated by calculations on cholecystokinin octapeptide (CCK-8).
+

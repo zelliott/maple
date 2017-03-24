@@ -1,0 +1,9 @@
+
+Pancreatic cancer is the fourth leading cause of cancer death in the U.S. and the etiology of this highly lethal disease has not been well defined. To identify genetic susceptibility factors for pancreatic cancer, we conducted pathway analysis of genome-wide association study (GWAS) data in 3,141 pancreatic cancer patients and 3,367 controls with European ancestry.
+
+Using the gene set ridge regression in association studies (GRASS) method, we analyzed 197 pathways identified from the Kyoto Encyclopedia of Genes and Genomes database. We used the logistic kernel machine (LKM) test to identify major contributing genes to each pathway. We conducted functional enrichment analysis of the most significant genes (P<0.01) using the Database for Annotation, Visualization, and Integrated Discovery (DAVID).
+
+Two pathways were significantly associated with risk of pancreatic cancer after adjusting for multiple comparisons (P<0.00025) and in replication testing: neuroactive ligand-receptor interaction, (Ps<0.00002), and the olfactory transduction pathway (P = 0.0001). LKM test identified four genes that were significantly associated with risk of pancreatic cancer after Bonferroni correction (P<1×10(-5)): ABO, HNF1A, OR13C4, and SHH. Functional enrichment analysis using DAVID consistently found the G protein-coupled receptor signaling pathway (including both neuroactive ligand-receptor interaction and olfactory transduction pathways) to be the most significant pathway for pancreatic cancer risk in this study population.
+
+These novel findings provide new perspectives on genetic susceptibility to and molecular mechanisms of pancreatic cancer.
+

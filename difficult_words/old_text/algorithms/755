@@ -1,0 +1,3 @@
+
+DIALIGN is a widely used software tool for multiple DNA and protein sequence alignment. The program combines local and global alignment features and can therefore be applied to sequence data that cannot be correctly aligned by more traditional approaches. DIALIGN is available online through Bielefeld Bioinformatics Server (BiBiServ). The downloadable version of the program offers several new program features. To compare the output of different alignment programs, we developed the program AltAVisT. Our software is available at http://bibiserv.TechFak.Uni-Bielefeld.DE/dialign/.
+

@@ -1,0 +1,3 @@
+
+This paper presents novel methods for baseline wander removal and powerline interference removal from electrocardiogram (ECG) signals. Baseline wander and clean ECG have been modeled as 1st and 2nd-order fractional Brownian motion (fBm) processes, respectively. This fractal modeling is utilized to propose projection operator based approach for baseline wander removal. Powerline interference is removed by using a hybrid approach of empirical mode decomposition method (EMD) and wavelet analysis. Simulation results are presented to show the efficacy of both the methods. The proposed methods have been shown to preserve ECG shapes characteristic of heart abnormalities.
+

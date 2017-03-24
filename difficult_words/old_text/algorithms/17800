@@ -1,0 +1,5 @@
+
+The Helmholtz Network for Bioinformatics (HNB) is a joint venture of eleven German bioinformatics research groups that offers convenient access to numerous bioinformatics resources through a single web portal. The 'Guided Solution Finder' which is available through the HNB portal helps users to locate the appropriate resources to answer their queries by employing a detailed, tree-like questionnaire. Furthermore, automated complex tool cascades ('tasks'), involving resources located on different servers, have been implemented, allowing users to perform comprehensive data analyses without the requirement of further manual intervention for data transfer and re-formatting. Currently, automated cascades for the analysis of regulatory DNA segments as well as for the prediction of protein functional properties are provided.
+
+The HNB portal is available at http://www.hnbioinfo.de
+

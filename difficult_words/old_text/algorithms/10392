@@ -1,0 +1,3 @@
+
+Gene-expression microarray is a novel technology that allows the examination of tens of thousands of genes at a time. For this reason, manual observation is not feasible and machine learning methods are progressing to face these new data. Specifically, since the number of genes is very high, feature selection methods have proven valuable to deal with these unbalanced-high dimensionality and low cardinality-data sets. In this work, the FVQIT (Frontier Vector Quantization using Information Theory) classifier is employed to classify twelve DNA gene-expression microarray data sets of different kinds of cancer. A comparative study with other well-known classifiers is performed. The proposed approach shows competitive results outperforming all other classifiers.
+

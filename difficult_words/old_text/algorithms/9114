@@ -1,0 +1,3 @@
+
+Self-organized systems, genetic regulatory systems and other living systems can be modeled as synchronous Boolean networks with stable states, which are also called state-cycle attractors (SCAs). This paper summarizes three classes of SCAs and presents a new efficient binary decision diagram based algorithm to find all SCAs of synchronous Boolean networks. After comparison with the tool BooleNet, empirical experiments with biochemical systems demonstrated the feasibility and efficiency of our approach.
+

@@ -1,0 +1,3 @@
+
+Interferograms from a dual-comb spectrometer are continuously corrected and averaged in real-time. The algorithm is implemented on a field-programmable gate array (FPGA) development board. The chosen approach and the algorithm are described. Measurements with high signal-to-noise ratio, resolution and bandwidth are shown to demonstrate the accuracy of the optical referencing and the processing algorithm with 24 hours of averaging time, reaching a signal to noise ratio of 10,750,000 (>21 bits) in the interferogram and 316,000 in the spectrum at 100 MHz resolution. An interferogram where signal dominates the noise over the full delay range imposed by the 100 MHz repetition rate is reported for the first time.
+

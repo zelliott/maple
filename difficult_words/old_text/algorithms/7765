@@ -1,0 +1,9 @@
+
+Conventional fiberoptic laryngoscope may cause discomfort to the patient and in some cases it can lead to side effects that include perforation, infection and hemorrhage. Virtual laryngoscopy (VL) can overcome this problem and further it may lower the risk of operation failures. Very few virtual endoscope (VE) based investigations of the larynx have been described in the literature.
+
+CT data sets from a healthy subject were used for the VL studies. An algorithm of preprocessing and region-growing for 3-D image segmentation is developed. An octree based approach is applied in our VL system which facilitates a rapid construction of iso-surfaces. Some locating techniques are used for fast rendering and navigation (fly-through).
+
+Our VL visualization system provides for real time and efficient 'fly-through' navigation. The virtual camera can be arranged so that it moves along the airway in either direction. Snap shots were taken during fly-throughs. The system can automatically adjust the direction of the virtual camera and prevent collisions of the camera and the wall of the airway.
+
+A virtual laryngoscope (VL) system using OpenGL (Open Graphics Library) platform for interactive rendering and 3D visualization of the laryngeal framework and upper airway is established. OpenGL is supported on major operating systems and works with every major windowing system. The VL system runs on regular PC workstations and was successfully tested and evaluated using CT data from a normal subject.
+

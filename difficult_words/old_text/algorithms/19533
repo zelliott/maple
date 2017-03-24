@@ -1,0 +1,3 @@
+
+An algorithm is proposed for 3D face recognition in the presence of varied facial expressions. It is based on combining the match scores from matching multiple overlapping regions around the nose. Experimental results are presented using the largest database employed to date in 3D face recognition studies, over 4,000 scans of 449 subjects. Results show substantial improvement over matching the shape of a single larger frontal face region. This is the first approach to use multiple overlapping regions around the nose to handle the problem of expression variation.
+

@@ -1,0 +1,3 @@
+
+A new pulsed-gradient spin-echo NMR protocol for assessing the local self-diffusion coefficient D(0) of water confined within living cells is proposed. Equations for the apparent mean-square displacement <Z(2)> as a function of the effective diffusion time t(d) and the duration of the displacement-encoding gradient pulses delta are derived. The standard method of estimating D(0)--reducing t(d) until the influence of collisions between the water molecules and the plasma membrane can be neglected--often fails because of the small size of typical cells. As demonstrated here, the decrease of the apparent <Z(2)> with increasing delta at constant t(d) can be utilized to measure D(0).
+

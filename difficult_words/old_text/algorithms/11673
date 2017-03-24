@@ -1,0 +1,9 @@
+
+Variability inherent in the duration of surgical procedures complicates surgical scheduling. Modeling the duration and variability of surgeries might improve time estimates. Accurate time estimates are important operationally to improve utilization, reduce costs, and identify surgeries that might be considered outliers. Surgeries with multiple procedures are difficult to model because they are difficult to segment into homogenous groups and because they are performed less frequently than single-procedure surgeries.
+
+The authors studied, retrospectively, 10,740 surgeries each with exactly two CPTs and 46,322 surgical cases with only one CPT from a large teaching hospital to determine if the distribution of dual-procedure surgery times fit more closely a lognormal or a normal model. The authors tested model goodness of fit to their data using Shapiro-Wilk tests, studied factors affecting the variability of time estimates, and examined the impact of coding permutations (ordered combinations) on modeling.
+
+The Shapiro-Wilk tests indicated that the lognormal model is statistically superior to the normal model for modeling dual-procedure surgeries. Permutations of component codes did not appear to differ significantly with respect to total procedure time and surgical time. To improve individual models for infrequent dual-procedure surgeries, permutations may be reduced and estimates may be based on the longest component procedure and type of anesthesia.
+
+The authors recommend use of the lognormal model for estimating surgical times for surgeries with two component procedures. Their results help legitimize the use of log transforms to normalize surgical procedure times prior to hypothesis testing using linear statistical models. Multiple-procedure surgeries may be modeled using the longest (statistically most important) component procedure and type of anesthesia.
+

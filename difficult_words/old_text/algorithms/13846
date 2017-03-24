@@ -1,0 +1,9 @@
+
+The authors assessed the use of a "proper" binormal model and a new algorithm for maximum-likelihood estimation of receiver operating characteristic (ROC) curves from degenerate data.
+
+The proper binormal ROC model uses as its decision variable a monotonic transformation of the likelihood ratio that is associated with a pair of normal distributions, thereby ensuring fitted ROC curves with monotonic slope but maintaining a relationship with the conventional binormal model. A computer program entitled PROPROC was used to fit proper ROC curves to data obtained from computer-simulated and real observer studies.
+
+ROC indexes such as total area were estimated with PROPROC and compared with the corresponding values obtained from the conventional procedures.
+
+The proper binormal ROC model overcomes the problem of degeneracy in ROC curve fitting. PROPROC is highly robust and yields ROC estimates with less bias and greater precision than those obtained with the conventional binormal model.
+

@@ -1,0 +1,5 @@
+
+We address the problem of using expression data and prior biological knowledge to identify differentially expressed pathways or groups of genes. Following an idea of Ideker et al. (2002), we construct a gene interaction network and search for high-scoring subnetworks. We make several improvements in terms of scoring functions and algorithms, resulting in higher speed and accuracy and easier biological interpretation. We also assign significance levels to our results, adjusted for multiple testing. Our methods are successfully applied to three human microarray data sets, related to cancer and the immune system, retrieving several known and potential pathways. The method, denoted by the acronym GXNA (Gene eXpression Network Analysis) is implemented in software that is publicly available and can be used on virtually any microarray data set.
+
+The source code and executable for the software, as well as certain supplemental materials, can be downloaded from http://stat.stanford.edu/~serban/gxna.
+

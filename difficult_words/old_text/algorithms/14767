@@ -1,0 +1,3 @@
+
+We propose a vector tracking loop (VTL) algorithm for an asynchronous pseudolite navigation system. It was implemented in a software receiver and experiments in an indoor navigation system were conducted. Test results show that the VTL successfully tracks signals against the near-far problem, one of the major limitations in pseudolite navigation systems, and could improve positioning availability by extending pseudolite navigation coverage.
+

@@ -1,0 +1,9 @@
+
+To investigate non-contrast-enhanced Fourier decomposition MRI (FD MRI) for assessment of regional lung perfusion in patients with Non-Small-Cell Lung Cancer (NSCLC) in comparison to dynamic contrast-enhanced MRI (DCE MRI).
+
+Time-resolved non-contrast-enhanced images of the lungs were acquired prospectively in 15 patients using a 2D balanced steady-state free precession (b-SSFP) sequence. After non-rigid registration of the native image data, perfusion-weighted images were calculated by separating periodic changes of lung proton density at the cardiac frequency using FD. DCE MRI subtraction datasets were acquired as standard of reference. Both datasets were analyzed visually for perfusion defects. Then segmentation analyses were performed to describe perfusion of pulmonary lobes semi-quantitatively as percentages of total lung perfusion. Overall FD MRI perfusion signal was compared to velocity-encoded flow measurements in the pulmonary trunk as an additional fully quantitative reference.
+
+Image quality ratings of FD MRI were significantly inferior to those of DCE MRI (P<0.0001). Sensitivity, specificity, and accuracy of FD MRI for visual detection of perfusion defects were 84%, 92%, and 91%. Semi-quantitative evaluation of lobar perfusion provided high agreement between FD MRI and DCE MRI for both entire lungs and upper lobes, but less agreement in the lower parts of both lungs. FD perfusion signal showed high linear correlation with pulmonary arterial blood flow.
+
+FD MRI is a promising technique that allows for assessing regional lung perfusion in NSCLC patients without contrast media or ionizing radiation. However, for being applied in clinical routine, image quality and robustness of the technique need to be further improved.
+

@@ -1,0 +1,3 @@
+
+We describe a novel method of drug discovery using MLSD and drug repositioning, with cancer target STAT3 being used as a test case. Multiple drug scaffolds were simultaneously docked into hot spots of STAT3 by MLSD, followed by tethering to generate virtual template compounds. Similarity search of virtual hits on drug database identified celecoxib as a novel inhibitor of STAT3. Furthermore, we designed two novel lead inhibitors based on one of the lead templates and celecoxib.
+

@@ -1,0 +1,7 @@
+
+Preliminary results on the data produced using the Affymetrix large-scale genotyping platforms show that it is necessary to construct improved genotype calling algorithms. There is evidence that some of the existing algorithms lead to an increased error rate in heterozygous genotypes, and a disproportionately large rate of heterozygotes with missing genotypes. Non-random errors and missing data can lead to an increase in the number of false discoveries in genetic association studies. Therefore, the factors that need to be evaluated in assessing the performance of an algorithm are the missing data (call) and error rates, but also the heterozygous proportions in missing data and errors.
+
+We introduce a novel genotype calling algorithm (GEL) for the Affymetrix GeneChip arrays. The algorithm uses likelihood calculations that are based on distributions inferred from the observed data. A key ingredient in accurate genotype calling is weighting the information that comes from each probe quartet according to the quality/reliability of the data in the quartet, and prior information on the performance of the quartet.
+
+The GEL software is implemented in R and is available by request from the corresponding author at nicolae@galton.uchicago.edu.
+

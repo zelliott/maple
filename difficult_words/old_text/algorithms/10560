@@ -1,0 +1,3 @@
+
+The complex-valued backpropagation algorithm has been widely used in fields of dealing with telecommunications, speech recognition and image processing with Fourier transformation. However, the local minima problem usually occurs in the process of learning. To solve this problem and to speed up the learning process, we propose a modified error function by adding a term to the conventional error function, which is corresponding to the hidden layer error. The simulation results show that the proposed algorithm is capable of preventing the learning from sticking into the local minima and of speeding up the learning.
+

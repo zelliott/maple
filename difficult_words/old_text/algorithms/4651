@@ -1,0 +1,9 @@
+
+A particular problem in image registration arises for multi-modal images taken from different imaging devices and/or modalities. Starting in 1995, mutual information has shown to be a very successful distance measure for multi-modal image registration. Therefore, mutual information is considered to be the state-of-the-art approach to multi-modal image registration. However, mutual information has also a number of well-known drawbacks. Its main disadvantage is that it is known to be highly non-convex and has typically many local maxima.
+
+This observation motivates us to seek a different image similarity measure which is better suited for optimization but as well capable to handle multi-modal images.
+
+In this work, we investigate an alternative distance measure which is based on normalized gradients.
+
+As we show, the alternative approach is deterministic, much simpler, easier to interpret, fast and straightforward to implement, faster to compute, and also much more suitable to numerical optimization.
+

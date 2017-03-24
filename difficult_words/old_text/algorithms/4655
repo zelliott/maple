@@ -1,0 +1,9 @@
+
+Integration of multiscale experimental cancer biology through the development of computer simulation models seems to be a necessary step towards the better understanding of cancer and patient- individualized treatment optimization. The integration of a four-dimensional patient-specific model of in vivo tumor response to radiotherapy developed by our group with a model of slowly responding normal tissue based on W. Duechting's approach is presented in this paper. The case of glioblastoma multiforme and its surrounding neural tissue is addressed as a modeling paradigm.
+
+A cubic discretizing mesh is superimposed upon the anatomic region of interest as is reconstructed from pertinent imaging (e.g. MRI) data. On each geometrical cell of the mesh the most crucial biological "laws" e.g. metabolism, cell cycling, tumor geometry changes, cell kill following irradiation etc. are applied. Slowly responding normal neural tissue is modeled by a functional compartment containing indivisible cells and a divisible compartment containing glial cells.
+
+The model code has been executed for a simulated period normally covering the radiotherapy course duration and extending a few days after its completion. The following schemes have been simulated: standard fractionation, hyperfractionation, accelerated fractionation, accelerated hyperfractionation and hypofractionation. The predictions are in agreement with the outcome of the RTOG 83-02 phase I/II trial, the retrospective study conducted by Sugawara et al. and the theoretical predictions of Duechting et al.
+
+The presented model, although oversimplified, may serve as a basis for a refined simulation of the biological mechanisms involved in tumor and normal tissue response to radiotherapy.
+

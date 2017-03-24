@@ -1,0 +1,3 @@
+
+A unique application of regression modeling is described to compare hospital bed occupancy with reported severe adverse events amongst inpatients. The probabilities of the occurrence of adverse events as a function of hospital occupancy are calculated using logistic and multinomial regression models. All models indicate that higher occupancy rates lead to an increase in adverse events. The analysis identified that at an occupancy level of 100%, there is a 22% chance of one severe event occurring and a 28% chance of at least one severe event occurring. This modeling contributes evidence toward the management of hospital occupancy to benefit patient outcomes.
+

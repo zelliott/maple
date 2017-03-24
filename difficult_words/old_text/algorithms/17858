@@ -1,0 +1,3 @@
+
+We performed ab initio folding simulation for a betabetaalpha peptide BBA5 (PDB code 1T8J) with a modified param99 force field using the generalized Born solvation model (param99MOD5/GBSA). For efficient conformational sampling, we extended a previously developed novel Q-replica exchange molecular dynamics (Q-REMD) into a multiplexed Q-REMD. Starting from a fully extended conformation, we were able to locate the nativelike structure in the global free minimum region at 280 K. The current approach, which combines the more balanced force field with the efficient sampling scheme, demonstrates a clear advantage in direct folding simulation at all-atom level.
+

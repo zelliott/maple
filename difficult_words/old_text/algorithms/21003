@@ -1,0 +1,3 @@
+
+Phase space analysis is a powerful approximate scheme for the analysis of complex optical systems. The matrix formalism introduced makes it possible to determine all important beam characteristics as a function of the distance from the source. An algebraic approach comprising matrix transformations and determinants was consistently employed rather than numerical phase space integrations. While the primary application is x-ray and neutron optics, the approach can be used more generally for characterizing finite-size beams near the optical axis.
+

@@ -1,0 +1,3 @@
+
+We propose independent component analysis (ICA) as a pre-process for synthetic aperture magnetometry (SAM) in magnetocardiogram. SAM is a very useful method for source current imaging. However, SAM cannot separate one source from the others when there are time-correlated multi-sources, especially for successively active sources. The proposed method compensates the intrinsic drawback of SAM with ICA, which is feasible for 3-D imaging of the myocardial current distribution of specific temporal features. By using our method, we successfully localized an accessory pathway of a patient suffering from the WPW syndrome.
+

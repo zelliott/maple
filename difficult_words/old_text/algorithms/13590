@@ -1,0 +1,9 @@
+
+Measurement error and transient variability affect vital signs. These issues are inconsistently considered in published reports and clinical practice. We investigated the association between major hemorrhagic injury and vital signs, successively applying analytic techniques that excluded unreliable measurements, reduced transient variation, and then controlled for ambiguity in individual vital signs through multivariate analysis.
+
+Vital sign data from 671 adult prehospital trauma patients were analyzed retrospectively. Computer algorithms were used to identify and exclude unreliable data and to apply time averaging. An ensemble classifier was developed and tested by cross-validation. Primary outcome was hemorrhagic injury plus red cell transfusion. Areas under receiver operating characteristic curves (ROC AUCs) were compared by the test of DeLong et al.
+
+Of initial vital signs, systolic blood pressure (BP) had the highest ROC AUC of 0.71 (95% confidence interval, 0.64-0.78). The ROC AUCs improved after excluding unreliable data, significantly for heart rate and respiratory rate but not significantly for BP. Time averaging to reduce temporal variability further increased AUCs, significantly for BP and not significantly for heart rate and respiratory rate. The ensemble classifier yielded a final ROC AUC of 0.84 (95% confidence interval, 0.80-0.89) in cross-validation.
+
+Techniques to reduce variability in vital sign data can lead to significantly improved diagnostic performance. Failure to consider such variability could significantly reduce clinical effectiveness or confound research investigations.
+

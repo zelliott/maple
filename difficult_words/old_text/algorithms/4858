@@ -1,0 +1,3 @@
+
+Magic angle spinning (MAS) is used in solid-state NMR to remove the broadening effects of the chemical shift anisotropy (CSA). In this work we investigate a technique that can reintroduce the CSA in order to selectively invert transverse magnetization. The technique involves an amplitude sweep of the radio frequency field through a multiple of the spinning frequency. The selectivity of this inversion mechanism is determined by the size of the CSA. We develop a theoretical framework to describe this process and demonstrate the CSA selective inversion with numerical simulations and experimental data. We combine this approach with cross-polarization (CP) for potential applications in multi-dimensional MAS NMR.
+

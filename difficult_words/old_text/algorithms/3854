@@ -1,0 +1,3 @@
+
+The problem of detecting symmetry has been studied by using digitally generated images with random pixel values. The statistical efficiency of humans and a computerized observer, the cross correlator of the image halves, has been evaluated. The efficiency of humans is approximately 100% when the image comprises only a few pixels and is notably better than that of the cross correlator. When the number of pixels in the image is increased, the detectability of symmetry gets better. For human observers detectability saturates, however, on a level corresponding to a modest number of pixels. Human efficiency in detecting symmetry is thus low when the image matrix size is large.
+

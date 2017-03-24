@@ -1,0 +1,3 @@
+
+To deal with the data flood of current mass spectrometry methods, standard data formats are needed. The Proteomics Standards Initiative (PSI) of the Human Proteome Organisation (HUPO) develops open storage and transfer standards for and with the community. The Proteomics Informatics work group of the PSI has recently released an XML-based format to store the parameters and results of spectrum identification algorithms (the so-called search engines), which identify peptides and/or proteins from mass spectra. Here, this format called "mzIdentML" is described by giving principle design concepts and presenting examples of important use cases.
+

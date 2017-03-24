@@ -1,0 +1,3 @@
+
+The development of a large noncoding fraction in eukaryotic DNA and the phenomenon of the code bloat in the field of evolutionary computations show a striking similarity. This seems to suggest that (in the presence of mechanisms of code growth) the evolution of a complex code cannot be attained without maintaining a large inactive fraction. To test this hypothesis we performed computer simulations of an evolutionary toy model for Turing machines, studying the relations among fitness and coding versus noncoding ratio while varying mutation and code growth rates. The results suggest that, in our model, having a large reservoir of noncoding states constitutes a great (long term) evolutionary advantage.
+

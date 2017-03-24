@@ -1,0 +1,3 @@
+
+The lognormal model can be fitted to survival data using a stable linear algorithm. When tested on 800 sets of mathematically generated data, this method proved more stable and efficient than the iterative method of maximum likelihood, which requires initial estimates of model parameters and failed to fit a substantial fraction of data sets. Though maximum likelihood yielded more consistent estimates of proportion cured, mean, and standard deviation of log(survival time), the linear normal algorithm may nevertheless prove useful for these purposes: (i) computing initial estimates of model parameters for the maximum likelihood method; (ii) fitting data sets that cannot be fit by this method; and (iii) deriving the lognormal model directly from cumulative mortality.
+

@@ -1,0 +1,7 @@
+
+Image analysis is the first crucial step to obtain reliable results from microarray experiments. First, areas in the image belonging to single spots have to be identified. Then, those target areas have to be partitioned into foreground and background. Finally, two scalar values for the intensities have to be extracted. These goals have been tackled either by spot shape methods or intensity histogram methods, but it would be desirable to have hybrid algorithms which combine the advantages of both approaches.
+
+A new robust and adaptive histogram type method is pixel clustering, which has been successfully applied for detecting and quantifying microarray spots. This paper demonstrates how the spot shape can be effectively integrated in this approach. Based on the clustering results, a bivalence mask is constructed. It estimates the expected spot shape and is used to filter the data, improving the results of the cluster algorithm. The quality measure 'stability' is defined and evaluated on a real data set. The improved clustering method is compared with the established Spot software on a data set with replicates.
+
+The new method presents a successful hybrid microarray image analysis solution. It incorporates both shape and histogram features and is specifically adapted to deal with typical microarray image characteristics. As a consequence of the filtering step pixels are divided into three groups, namely foreground, background and deletions. This allows a separate treatment of artifacts and their elimination from the further analysis.
+

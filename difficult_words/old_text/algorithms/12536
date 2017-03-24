@@ -1,0 +1,9 @@
+
+To combine the specific advantages of the generalized autocalibrating partially parallel acquisitions (GRAPPA) technique and sensitivity encoding (SENSE) with two-dimensional (2D) undersampling.
+
+By splitting the 2D reconstruction process into multiple one-dimensional (1D) reconstructions, the normal 1D GRAPPA method can be used for image reconstruction. Due to this data-handling process, a GRAPPA reconstruction is performed along the phase-encoding (PE) direction and effectively a SENSE reconstruction is performed along the partition-encoding (PAE) direction.
+
+In vivo experiments demonstrate the successful implementation of the SENSE/GRAPPA combination. Experimental results with up to 9.6-fold acceleration using a prototype 32-channel receiver head coil array are presented.
+
+The proposed SENSE/GRAPPA combination for 3D imaging allows the GRAPPA method to be applied in combination with 2D undersampling. Because the SENSE/GRAPPA combination is not based on knowledge of spatial coil sensitivities, it should be the method of choice whenever it is difficult to extract the sensitivity information.
+

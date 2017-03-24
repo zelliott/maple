@@ -1,0 +1,3 @@
+
+The structural and dynamical properties of a hydrated proton near the surface of DMPC membrane were studied using a molecular dynamics simulation. The proton transport between water molecules was modeled using the second generation multistate empirical valence bond model. The proton diffusion was found to be inhibited at the membrane surface. The potential of mean force for the proton adsorption to the membrane surface and its release back into the bulk water was also determined, yielding a small barrier in each direction. An efficient algorithm for Ewald summation calculations for the multistate empirical valence bond model is also introduced.
+

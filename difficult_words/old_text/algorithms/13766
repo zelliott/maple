@@ -1,0 +1,3 @@
+
+FT3D is a self-contained package of tools for three-dimensional Fourier analysis, written in the C language for Unix workstations. It can evaluate direct transforms of three-dimensional real functions, inverse transforms, auto- and cross-correlations and spectra. The library has been developed to support three-dimensional reconstructions of biological structures from projections obtained in the electron microscope. This paper discusses some features of the library, which has been implemented in such a way as to profit from the resources of modern workstations. A table of elapsed times for jobs of different dimensions with different RAM buffers is reported for the particular hardware used in the authors' laboratory.
+

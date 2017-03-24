@@ -1,0 +1,7 @@
+
+The remarkable advance of metagenomics presents significant new challenges in data analysis. Metagenomic datasets (metagenomes) are large collections of sequencing reads from anonymous species within particular environments. Computational analyses for very large metagenomes are extremely time-consuming, and there are often many novel sequences in these metagenomes that are not fully utilized. The number of available metagenomes is rapidly increasing, so fast and efficient metagenome comparison methods are in great demand.
+
+The new metagenomic data analysis method Rapid Analysis of Multiple Metagenomes with a Clustering and Annotation Pipeline (RAMMCAP) was developed using an ultra-fast sequence clustering algorithm, fast protein family annotation tools, and a novel statistical metagenome comparison method that employs a unique graphic interface. RAMMCAP processes extremely large datasets with only moderate computational effort. It identifies raw read clusters and protein clusters that may include novel gene families, and compares metagenomes using clusters or functional annotations calculated by RAMMCAP. In this study, RAMMCAP was applied to the two largest available metagenomic collections, the "Global Ocean Sampling" and the "Metagenomic Profiling of Nine Biomes".
+
+RAMMCAP is a very fast method that can cluster and annotate one million metagenomic reads in only hundreds of CPU hours. It is available from http://tools.camera.calit2.net/camera/rammcap/.
+

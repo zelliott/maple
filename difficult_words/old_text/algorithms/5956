@@ -1,0 +1,3 @@
+
+A technique that involves minimal operator intervention was developed and implemented for identification and quantification of black holes on T1-weighted magnetic resonance images (T1 images) in multiple sclerosis (MS). Black holes were segmented on T1 images based on grayscale morphological operations. False classification of black holes was minimized by masking the segmented images with images obtained from the orthogonalization of T2-weighted and T1 images. Enhancing lesion voxels on postcontrast images were automatically identified and eliminated from being included in the black hole volume. Fuzzy connectivity was used for the delineation of black holes. The performance of this algorithm was quantitatively evaluated on 14 MS patients.
+

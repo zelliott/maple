@@ -1,0 +1,3 @@
+
+Researchers use constructs from the field of electrical engineering for the modelling and analysis of biological systems, but few exploit parallels between electrical and biological circuits for simulation purposes. The authors discuss the development of BioXyce, a circuit-based biological simulation platform that uses Xyce, a large-scale electrical circuit simulator, as its simulation engine. BioXyce is capable of simulating whole-cell and multicellular systems. Simulation results for the central metabolism in Escherichia coli K12 and cellular differentiation in Drosophila sp. are presented.
+

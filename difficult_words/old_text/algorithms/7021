@@ -1,0 +1,3 @@
+
+A new method for estimating audiograms using behavioral responses is presented. The method is based upon a modification of the Bayesian probability formula in which an outcome is predicted from a static set of events. In the new method, classification of audiograms by sequential testing (CAST), the probabilities of occurrence of audiogram patterns are dynamically updated according to the outcome of each test trial. Computer simulation using an infant response model suggests that the procedure is efficient, sensitive, and specific.
+

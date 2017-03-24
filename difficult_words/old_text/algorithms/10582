@@ -1,0 +1,3 @@
+
+One of the main obstacles to the wider use of the modern error-correction codes is that, due to the complex behavior of their decoding algorithms, no systematic method which would allow characterization of the bit-error-rate (BER) is known. This is especially true at the weak noise where many systems operate and where coding performance is difficult to estimate because of the diminishingly small number of errors. We show how the instanton method of physics allows one to solve the problem of BER analysis in the weak noise range by recasting it as a computationally tractable minimization problem.
+

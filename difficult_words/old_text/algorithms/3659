@@ -1,0 +1,7 @@
+
+Several genes involved in the cellular import of copper and its subsequent incorporation into the high-affinity iron transport complex in Saccharomyces cerevisiae are known to be conserved between eukaryotes and prokaryotes. However, the degree to which these genes share their functional context as members of the same pathway in the prokaryotic domain is less clear.
+
+The co-occurrence of gene families involved in Atx1p-mediated copper transport in the genomes and operon structures of 80 non-redundant prokaryotes was investigated. For this purpose, we developed a Web tool (SHOPS) to display the operon context for a given set of proteins. In total, a set of 43 putative operons was identified. These were found to be involved in a variety of pathways and indicate a large diversity in the functional context of the individual gene family members.
+
+The SHOPS tool can be found at http://www.bioinformatics.med.uu.nl/shops supplemental data are available at http://humgen.med.uu.nl/publications/vanbakel/pathway/
+

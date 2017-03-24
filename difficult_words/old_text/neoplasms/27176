@@ -1,0 +1,3 @@
+
+Oncolytic viruses specifically infect cancer cells, replicate in them, kill them, and spread to further tumor cells. They represent a targeted treatment approach that is promising in principle, but consistent success has yet to be observed. Mathematical models can play an important role in analyzing the dynamics between oncolytic viruses and a growing tumor cell population, providing insights that can be useful for the further development of this therapy approach. This article reviews different mathematical modeling approaches ranging from ordinary differential equations to spatially explicit agent-based models. Problems of model robustness are discussed and so are some clinically important insight derived from the models.
+

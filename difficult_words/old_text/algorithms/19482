@@ -1,0 +1,3 @@
+
+Tag loss in mark-recapture experiments is a violation of one of the Jolly-Seber model assumptions. It causes bias in parameter estimates and has only been dealt with in an ad hoc manner. We develop methodology to estimate tag retention and abundance in double-tagging mark-recapture experiments. We apply this methodology to walleyes (Stizostedion vitreum) in Mille Lacs, Minnesota.
+

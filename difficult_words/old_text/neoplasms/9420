@@ -1,0 +1,3 @@
+
+Linear discrimination, from the point of view of numerical linear algebra, can be treated as solving an ill-posed system of linear equations. In order to generate a solution that is robust in the presence of noise, these problems require regularization. Here, we examine the ill-posedness involved in the linear discrimination of cancer gene expression data with respect to outcome and tumor subclasses. We show that a filter factor representation, based upon Singular Value Decomposition, yields insight into the numerical ill-posedness of the hyperplane-based separation when applied to gene expression data. We also show that this representation yields useful diagnostic tools for guiding the selection of classifier parameters, thus leading to improved performance.
+

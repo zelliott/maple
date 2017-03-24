@@ -1,0 +1,3 @@
+
+We study the dynamics of networks of inhibitory map-based bursting neurons. Linear analysis allows us to understand how the patterns of bursting are determined by network topology and how they depend on the strength of synaptic connections, when inhibition is balanced. Two kinds of patterns are found depending on the symmetry of the network: slow cyclic patterns riding on subthreshold oscillations where almost all neurons contribute bursts in a sparse manner and fast patterns of bursts in which only one of two mutually exclusive groups of neurons take part. We also discuss the properties of the neuron model that underlie the described phenomena, comment on the limitations of the technique of analysis, and point to some possible ways to overcome them.
+

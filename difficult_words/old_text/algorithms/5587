@@ -1,0 +1,9 @@
+
+To establish an early diagnostic system for hypoxic ischemic encephalopathy (HIE) in newborns based on artificial neural networks and to determine its feasibility.
+
+Based on published research as well as preliminary studies in our laboratory, multiple noninvasive indicators with high sensitivity and specificity were selected for the early diagnosis of HIE and employed in the present study, which incorporates fuzzy logic with artificial neural networks.
+
+The analysis of the diagnostic results from the fuzzy neural network experiments with 140 cases of HIE showed a correct recognition rate of 100% in all training samples and a correct recognition rate of 95% in all the test samples, indicating a misdiagnosis rate of 5%.
+
+A preliminary model using fuzzy backpropagation neural networks based on a composite index of clinical indicators was established and its accuracy for the early diagnosis of HIE was validated. Therefore, this method provides a convenient tool for the early clinical diagnosis of HIE.
+

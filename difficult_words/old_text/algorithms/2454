@@ -1,0 +1,9 @@
+
+Mixing low- and high-voltage acquisitions of dual-energy CT (DECT) scan using different weighting factors leads to differences in attenuation values and image quality. The aim of this work was to evaluate whether average weighting of DECT acquisitions could improve delineation of head and neck cancer and image quality.
+
+Among 60 consecutive patients who underwent DECT scan of the head and neck, 35 patients had positive findings and were included in the study. Images were reconstructed as pure 80 kVp, pure Sn140 kVp, and weighted-average (WA) image datasets from low- and high-voltage acquisitions using 3 different weighting factors (0.3, 0.6, 0.8) incorporating 30%, 60%, 80% from the 80 kVp data, respectively. Lesion contrast-to-noise ratio (CNR), attenuation measurements, and objective noise were compared between different image datasets. Two independent blinded radiologists subjectively rated the overall image quality of each image dataset on a 5-point grading scale comprising lesion delineation, image sharpness, and subjective noise.
+
+Mean venous and tumor enhancement and muscle attenuation increased stepwise with decreasing tube voltage from Sn140 kVp through 80 kVp. CNR increased significantly from Sn140 kVp to weighting factor 0.3 then to weighting factor 0.6 (P < 0.0001). The increase in CNR from weighting factor 0.6 to 0.8 then to 80 kVp was nonsignificant (P = 1.00). The 0.6 weighted-average image dataset received the best image quality score by the 2 readers.
+
+Mixing the DE data from the 80 kVp and Sn140 kVp tubes using weighting factor 0.6 (60% from 80 kVp data) could improve lesion CNR and subjective overall image quality (including lesion delineation). This weighting factor was significantly superior to the 0.3 weighting factor which simulates standard 120 kVp acquisition.
+

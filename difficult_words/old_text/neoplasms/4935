@@ -1,0 +1,3 @@
+
+We combine diffuse optical tomography for detecting and localizing an inhomogeneity in a two-layered tissue and diffuse optical spectroscopy (DOS) for characterizing the spectrum of that inhomogeneity. For detecting and localizing an inhomogeneity, we reduce the number of unknowns substantially by seeking only the location and size of the inhomogeneity. Then, we seek to recover an unknown specific tumor component of that inhomogeneity from spectral data. In doing so, we develop a method for distinguishing between healthy and tumorous lesions. We demonstrate the utility of this theory with numerical simulations.
+

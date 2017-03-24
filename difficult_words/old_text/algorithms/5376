@@ -1,0 +1,9 @@
+
+Critical appraisal, one of the most crucial steps in the practice of evidence-based medicine, is expertise-dependent and time-consuming. The objective of this study was to develop and evaluate an automated text-mining system that could determine the evidence level provided by a medical article.
+
+A text processor was designed and built to interpret the abstracts of medical literature. The system extracted information about: (1) the impact factor of the journal; (2) study design; (3) human subject involvement; (4) number of subjects; (5) P-value; and (6) confidence intervals. We used a classification tree algorithm (C4.5) to create a decision tree using supervised classification. Each article was categorized into evidence level A, B or C, and the output was compared to that determined by domain experts (the reference standard).
+
+We used a corpus of 3180 cardiovascular disease original research articles, of which 1108 were previously assigned evidence level A, 1705 level B and 367 level C by domain experts. The abstracts were analysed by our automated system and an evidence level was assigned. The algorithm accurately classified 85% of the articles. The agreement between computer and domain experts was substantial (κ-value: 0.78). Cross-validation showed consistent results across repeated tests.
+
+The automated engine accurately classified the evidence level. Misclassification might have resulted from incomplete information retrieval and inaccurate data extraction. Further efforts will focus on assessing relevance and using additional study design features to refine evidence level classification.
+

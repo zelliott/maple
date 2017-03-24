@@ -1,0 +1,9 @@
+
+Identify the lexical content of a large corpus of ordinary medical records to assess the feasibility of large-scale natural language processing.
+
+A corpus of 560 megabytes of medical record text from an academic medical center was broken into individual words and compared with the words in six medical vocabularies, a common word list, and a database of patient names. Unrecognized words were assessed for algorithmic and contextual approaches to identifying more words, while the remainder were analyzed for spelling correctness.
+
+About 60% of the words occurred in the medical vocabularies, common word list, or names database. Of the remainder, one-third were recognizable by other means. Of the remaining unrecognizable words, over three-fourths represented correctly spelled real words and the rest were misspellings.
+
+Large-scale generalized natural language processing methods for the medical record will require expansion of existing vocabularies, spelling error correction, and other algorithmic approaches to map words into those from clinical vocabularies.
+

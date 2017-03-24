@@ -1,0 +1,9 @@
+
+To describe and evaluate the performance of an algorithm that automatically classifies images with pathologic features commonly found in diabetic retinopathy (DR) and age-related macular degeneration (AMD).
+
+Retinal digital photographs (N = 2247) of three fields of view (FOV) were obtained of the eyes of 822 patients at two centers: The Retina Institute of South Texas (RIST, San Antonio, TX) and The University of Texas Health Science Center San Antonio (UTHSCSA). Ground truth was provided for the presence of pathologic conditions, including microaneurysms, hemorrhages, exudates, neovascularization in the optic disc and elsewhere, drusen, abnormal pigmentation, and geographic atrophy. The algorithm was used to report on the presence or absence of disease. A detection threshold was applied to obtain different values of sensitivity and specificity with respect to ground truth and to construct a receiver operating characteristic (ROC) curve.
+
+The system achieved an average area under the ROC curve (AUC) of 0.89 for detection of DR and of 0.92 for detection of sight-threatening DR (STDR). With a fixed specificity of 0.50, the system's sensitivity ranged from 0.92 for all DR cases to 1.00 for clinically significant macular edema (CSME).
+
+A computer-aided algorithm was trained to detect different types of pathologic retinal conditions. The cases of hard exudates within 1 disc diameter (DD) of the fovea (surrogate for CSME) were detected with very high accuracy (sensitivity = 1, specificity = 0.50), whereas mild nonproliferative DR was the most challenging condition (sensitivity = 0.92, specificity = 0.50). The algorithm was also tested on images with signs of AMD, achieving a performance of AUC of 0.84 (sensitivity = 0.94, specificity = 0.50).
+

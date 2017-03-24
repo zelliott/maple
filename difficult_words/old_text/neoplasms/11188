@@ -1,0 +1,9 @@
+
+The objectives of these population pharmacokinetic analyses were to (1) assess the overall disposition of pemetrexed, (2) characterize between-patient and within-patient variability and identify influential covariates with respect to pemetrexed pharmacokinetics; and, (3) provide individual empirical Bayesian estimates of pharmacokinetic parameters for use in a subsequent pharmacokinetic/pharmacodynamic evaluation of neutropenia following pemetrexed administration.
+
+Data from 287 patients who received 441 cycles without folic acid or vitamin B12 supplementation during participation in one of ten phase II cancer trials were evaluated by population pharmacokinetic analysis using NONMEM. Starting doses were 500 or 600 mg pemetrexed per m2 body surface area, administered as 10-min intravenous infusions every 21 days (1 cycle). The model was developed using data from eight of the ten studies. Predictive performance was evaluated using data from the other two studies.
+
+The population pharmacokinetics of pemetrexed administered as a 10-min intravenous infusion are well characterized by a two-compartment model. Typical values of total systemic clearance, central volume of distribution, distributional clearance, and peripheral volume of distribution were 91.6 ml/min, 12.9 l, 14.4 ml/min, and 3.38 l, respectively. Based on these parameter estimates, the terminal elimination half-life of pemetrexed was approximately 3.5 h. Renal function was identified as a covariate with respect to total systemic clearance, and body surface area as a covariate with respect to the central volume of distribution.
+
+Total systemic exposure (AUC) for a given dose of pemetrexed increases as renal function decreases. Since pharmacodynamic analyses have shown that AUC and not C (max) is the primary determinant of neutropenic response to pemetrexed, this suggests that dose adjustments based on renal function, rather than body surface area, might be considered for pemetrexed.
+

@@ -1,0 +1,9 @@
+
+To explore the role of nucleosomal binding protein 1 (NSBP1) in the proliferation of human hormone-dependent prostate cancer cells by inhibiting its mRNA expression.
+
+Four well-designed short-hairpin RNA (shRNA) targeting NSBP1, including a negative control shRNA, were synthesized and inserted into the pSilencer 2.1-U6 neo plasmid. The pSilencer-81 plasmid was identified as the most efficient. The 4 recombinant plasmids, pSilencer-58, 81, 126, and Neg, were then transfected to human hormone-dependent prostate cancer cells of the line LNCaP, i.e., LNCap/81, LNCap/58, LNCap/126, and LNCap/Neg cells. RT-PCR and Western blotting were used to detect the inhibitory efficiency of different plasmids. MTT method was used to detect cell viability and flow cytometry was used to observe cell cycle distribution.
+
+Western blotting showed that the protein expression of NSBP1 in the LNCap/81 cells was lower by 85% compared to that in the LNCap/Neg cells. Compared with the control cells, the A values of the LNCap/81 cells 60, 84, 108, and 132 hours after transfection were all significantly lower than those of the LNCap/Neg cells (t = 4.501, 4.282, 5.229, and 4.759, all P < 0.05), showing that the cell viability was reduced. The proportions of cells in the G(2)M and S phases 60, 84, and 108 hours after transfection of the LNCap/81 cells were all significantly lower than those of the LNCap/Neg cells (t = 3.705, 3.887, and 8.220, all P < 0.05).
+
+The suppressed expression of NSBP1 in prostate cancer cells mediated by shRNA inhibits cell proliferation significantly, which indicates that NSBP1 may play an important role in the proliferation of prostate cancer cells.
+

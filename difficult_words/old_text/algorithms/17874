@@ -1,0 +1,3 @@
+
+A probabilistic wavelet system (PWS) is proposed to model the unknown dynamic system with stochastic and incomplete data. When compared with the traditional wavelet system, the PWS uses a novel three-domain wavelet function to make a balance among the probability, time, and frequency domains, which achieves a robust modeling performance with poor data information. The definition, transformation, multiple-resolution analysis, and implementation of the PWS are presented to construct the whole theoretical framework. Simulation studies show that the performance of the proposed PWS is superior to the traditional one in a stochastic and incomplete data environment.
+

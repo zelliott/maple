@@ -1,0 +1,3 @@
+
+We introduce a replica exchange (parallel tempering) method in which attempted configuration swaps are generated using nonequilibrium work simulations. By effectively increasing phase space overlap, this approach mitigates the need for many replicas. We illustrate our method by using a model system and show that it is able to achieve the computational efficiency of ordinary replica exchange, using fewer replicas.
+

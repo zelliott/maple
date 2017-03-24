@@ -1,0 +1,3 @@
+
+Correlation between the sequential, structural, and functional features of proteins is one of the most important open questions in the field of molecular biology. To this problem, we apply a technique known as data mining for discovering associations across protein sequence, structure, and function. We were able to find various association rules on the substructures essential to some protein functions. Moreover, structure-structure associations were found between proteins having different functions. The results suggest that data mining might be a powerful tool in protein analysis.
+

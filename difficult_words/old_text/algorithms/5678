@@ -1,0 +1,9 @@
+
+In high-throughput screens (HTS) of small molecules for activity in an in vitro assay, it is common to search for active scaffolds, with at least one example successfully confirmed as an active. The number of active scaffolds better reflects the success of the screen than the number of active molecules. Many existing algorithms for deciding which hits should be sent for confirmatory testing neglect this concern.
+
+We derived a new extension of a recently proposed economic framework, diversity-oriented prioritization (DOP), that aims-by changing which hits are sent for confirmatory testing-to maximize the number of scaffolds with at least one confirmed active. In both retrospective and prospective experiments, DOP accurately predicted the number of scaffold discoveries in a batch of confirmatory experiments, improved the rate of scaffold discovery by 8-17%, and was surprisingly robust to the size of the confirmatory test batches. As an extension of our previously reported economic framework, DOP can be used to decide the optimal number of hits to send for confirmatory testing by iteratively computing the cost of discovering an additional scaffold, the marginal cost of discovery.
+
+swamidass@wustl.edu
+
+Supplementary data are available at Bioinformatics online.
+

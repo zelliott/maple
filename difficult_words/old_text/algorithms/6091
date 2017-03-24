@@ -1,0 +1,9 @@
+
+Venous thromboembolism (VTE) is a complex disorder influenced by numerous risk factors, and occurs frequently in at-risk hospitalized patients. Because appropriate prevention with thromboprophylaxis is underused, we wanted to create an electronic tool to provide a simple risk assessment and suggest appropriate prophylaxis.
+
+To develop the risk matrix, iterative rating of odds ratios was performed for 60 predisposing VTE risk factors, using analytical methods that account for multiple risk factors in a single patient and their non-independence. For exposing risk factors, a single score was assigned to each set of factors, both medical (25 items) and surgical conditions (144 items). A CART regression model was used to integrate the risk scales into a 4-level measure of overall risk. The validity of the level of risk and the appropriateness of 11 different prophylactic approaches was assessed using the RAND/UCLA appropriateness method and validated by expert opinion ratings (n=1998) on sample case scenarios (n=108).
+
+Correlation between the level of risk calculated by the risk matrix and that offered by expert opinion for individual surgical and medical clinical cases was high (65% and 70%, respectively). The matrix over-estimated the level of risk, compared with that offered by expert opinion, in 28% and 20% of surgical and medical cases, respectively, but the appropriate prophylaxis suggested was no different. Between-expert agreement on the appropriateness of the prophylaxis recommendations was high (90-94% of indications).
+
+This computer-based electronic tool for individualized assessment of venous thromboembolic risk successfully identified both the perceived risk of thrombosis and the appropriate prophylactic approach for medical and surgical patients.
+

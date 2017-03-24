@@ -1,0 +1,3 @@
+
+The simple cosine function used in the formulation of the traditional minimal principle and the related Shake-and-Bake algorithm is here replaced by a function of exponential type and its expected value and variance are derived. These lead to the corresponding exponential minimal principle and its associated Exponential Shake-and-Bake algorithm. Recent applications of the exponential function to several protein structures within the Shake-and-Bake framework suggest that this function leads, in general, to significant improvements in the success rate (percentage of trial structures yielding solution) of the Shake-and-Bake procedure. However, only in space group P1 is it presently possible to assign optimal values a priori for the exponential-function parameters.
+

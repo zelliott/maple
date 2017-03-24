@@ -1,0 +1,7 @@
+
+Chromatin immunoprecipitation followed by hybridization to a genomic tiling microarray (ChIP-chip) is a routinely used protocol for localizing the genomic targets of DNA-binding proteins. The resolution to which binding sites in this assay can be identified is commonly considered to be limited by two factors: (1) the resolution at which the genomic targets are tiled in the microarray and (2) the large and variable lengths of the immunoprecipitated DNA fragments.
+
+We have developed a generative model of binding sites in ChIP-chip data and an approach, MeDiChI, for efficiently and robustly learning that model from diverse data sets. We have evaluated MeDiChI's performance using simulated data, as well as on several diverse ChIP-chip data sets collected on widely different tiling array platforms for two different organisms (Saccharomyces cerevisiae and Halobacterium salinarium NRC-1). We find that MeDiChI accurately predicts binding locations to a resolution greater than that of the probe spacing, even for overlapping peaks, and can increase the effective resolution of tiling array data by a factor of 5x or better. Moreover, the method's performance on simulated data provides insights into effectively optimizing the experimental design for increased binding site localization accuracy and efficacy.
+
+MeDiChI is available as an open-source R package, including all data, from http://baliga.systemsbiology.net/medichi.
+
