@@ -9,6 +9,7 @@ var app = require('../app');
 var debug = require('debug')('maple-api:server');
 var http = require('http');
 // var https = require('https');
+// var ps = require('python-shell');
 
 /**
  * Set up certificate stuff.
@@ -58,3 +59,9 @@ function normalizePort(val) {
 
   return false;
 }
+
+/**
+ * Run python script
+ */
+
+// ps.run('app.py');
