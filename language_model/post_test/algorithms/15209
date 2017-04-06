@@ -1,0 +1,7 @@
+
+zzso the times of sequences of action zzso zzso zzso zzso from zzso data is a key problem in zzso zzso The detection of zzso from zzso imaging of calcium signals offers certain advantages over traditional zzso approaches, as up to thousands of zzso and zzso defined zzso can be recorded zzso However, due to noise, dye zzso and the limited sampling rates in common zzso zzso accurate detection of zzso from calcium time series has proved to be a difficult zzso 
+
+Here we introduce a novel approach to the problem making use of finite rate of innovation zzso theory zzso et al 2002 zzso zzso zzso zzso 50 zzso For calcium zzso well fit by a single zzso the problem is reduced to reconstructing a stream of zzso zzso zzso made of a combination of zzso zzso functions with different onset times are a zzso of zzso signals, for which much theory has recently been developed by the signal processing zzso Main zzso We demonstrate for the first time the use of zzso theory to retrieve the timing of zzso from calcium transient time zzso The final zzso is fast, zzso and zzso Spike zzso can be performed in real-time for a population of zzso and does not require any training phase or learning to zzso zzso 
+
+The zzso has been tested with both real data zzso by simultaneous zzso and zzso imaging of calcium signals in zzso zzso cell zzso and surrogate data, and zzso several recently proposed methods for spike train zzso from calcium imaging zzso 
+

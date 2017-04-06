@@ -1,0 +1,7 @@
+
+zzso gene expression profiles measured in gene deletion zzso are invaluable sources for identifying gene regulatory zzso Signed directed graph zzso is the most common representation of gene networks in zzso and cell zzso However, no practical procedure that zzso zzso consistent with such profiles has been zzso 
+
+We developed the zzso zzso regulation zzso equivalent gene zzso method in which an zzso zzso the most zzso zzso consistent with expression profiles of gene deletion zzso Positive (or zzso directed edges representing positive (or zzso gene regulations are deduced by comparing the gene expression level between the zzso and zzso The most zzso zzso are deduced using graph theoretical zzso zzso for excess removal of edges by restoring a minimum number of edges makes the method zzso to zzso gene zzso Use of independent groups of edges greatly reduces the zzso cost, thus making the method zzso to large-scale expression zzso We confirmed the zzso of our method by applying it to the gene expression profiles of 265 zzso zzso deletion zzso and we confirmed our zzso zzso by comparing the zzso response pathway, general zzso acid control system, and copper and iron zzso system deduced by our method with those reported in the zzso zzso of the gene network deduced from the zzso zzso expression profiles by using our method led to the prediction of 132 zzso targets and zzso of zzso activity of 18 zzso zzso 
+
+The software is available on zzso 
+

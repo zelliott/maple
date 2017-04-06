@@ -1,0 +1,9 @@
+
+Small radiation fields are increasingly applied in clinical zzso In particular, they are necessary for the treatment of eye zzso However, available treatment planning systems do not calculate the absorbed dose with the desired accuracy in the presence of small zzso zzso dose zzso obtained with zzso Carlo methods have the required accuracy for clinical applications, but the zzso long zzso times associated with them hinder their routine zzso In this article, a code for automatic zzso Carlo simulation of zzso and an application in the treatment of zzso zzso are zzso 
+
+zzso of clinical linear zzso were performed with the zzso radiation transport zzso Carlo code zzso Accelerator geometry files, in electron mode, were generated with the program zzso 
+
+The zzso Carlo simulation of an zzso electron 6 zzso field used for the treatment of the zzso zzso yielded absorbed dose results statistically compatible with experimental zzso In this zzso zzso standard statistical uncertainty was reached in the same time employed by a hybrid zzso Carlo commercial code zzso however, zzso showed discrepancies of up to zzso on the absorbed dose with respect to experimental zzso zzso obtained with the zzso zzso zzso zzso zzso differed from experimental data by zzso for this zzso 
+
+zzso to the systematic application of zzso techniques, it is possible to accurately estimate the absorbed dose in patient images, using zzso Carlo methods, in times within clinical routine zzso The program zzso allows systematic use of these zzso techniques within the code zzso 
+

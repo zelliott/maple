@@ -1,0 +1,9 @@
+
+To evaluate the common characteristics and differences in contrast behavior of short-TI-inversion-recovery (STIR) and short-TI-inversion-recovery fast spin-echo (TurboSTIR) sequences.
+
+Phantoms doped with increasing doses of Gd-DTPA and a pork-fat phantom were used to evaluate the dependence of the STIR and TurboSTIR signals on the T1 relaxation time. Clinical TurboSTIR images were obtained from 30 patients with musculoskeletal abnormalities and compared to conventional STIR images in 15 cases and to postcontrast TurboSTIR images in another 15 cases.
+
+In the phantom measurements, a significantly shorter inversion time (TI) was needed to achieve fat suppression on TurboSTIR images, and, with an identical number of signal averages, contrast-to-noise ratios were lower on TurboSTIR images. These differences between STIR and TurboSTIR can be attributed to the contribution of stimulated echoes to overall TurboSTIR signal and can be compensated by a shorter TI and a higher number of signal averages for TurboSTIR, respectively. With these adaptations, clinical TurboSTIR and STIR images showed an identical contrast behavior with fat suppression and a high sensitivity to pathological lesions but TurboSTIR saved a significant amount of scan time and reduced some types of artifacts. Contrast uptake impaired lesion conspicuity on TurboSTIR images.
+
+TurboSTIR sequences should replace conventional STIR sequences and should be performed before contrast administration.
+

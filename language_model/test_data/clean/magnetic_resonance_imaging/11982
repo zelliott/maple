@@ -1,0 +1,3 @@
+
+Tissue contrast in MR images is a strong function of spin-lattice (T1) and spin-spin (T2) relaxation times. However, the T1 relaxation time is rarely quantified because of the long scan time required to produce an accurate T1 map of the subject. In a standard 2D FT technique, this procedure may take up to 30 min. Modifications of the echo-planar imaging (EPI) technique which incorporate the principle of inversion recovery (IR) enable multislice T1 maps to be produced in total scan times varying from a few seconds up to a minute. Using IR-EPI, rapid quantification of T1 values may thus lead to better discrimination between tissue types in an acceptable scan time.
+

@@ -1,0 +1,3 @@
+
+There is a growing interest in using Kalman filter models in brain zzso The question arises whether Kalman filter models can be used zzso not only for zzso but for zzso The usual method of optimal control of Kalman filter makes use of zzso backward zzso which is not satisfactory for this zzso Here, it is shown that a slight modification of the zzso Kalman filter model allows the zzso zzso of optimal control by using reinforcement learning and overcomes this zzso Moreover, the emerging learning rule for value zzso exhibits a zzso form, which is weighted by the error of the value zzso 
+

@@ -1,0 +1,11 @@
+
+This study discusses an appropriate framework to measure system performance for the task of zzso seizure detection using zzso The framework is used to present an extended overview of a zzso zzso zzso seizure detection system based on the Support zzso zzso zzso zzso 
+
+The appropriate framework for performance assessment of zzso seizure detectors is discussed in terms of zzso experimental zzso and testing zzso The zzso seizure detection system is evaluated in this zzso Several zzso and zzso metrics are calculated and zzso of performance are zzso A new metric to measure the average duration of a false detection is proposed to accompany the zzso zzso A machine learning zzso zzso is used as a zzso to discriminate between seizure and zzso zzso zzso Two zzso steps proposed to increase zzso precision and zzso of the system are investigated and their influence on various metrics is zzso The resulting system is validated on a large clinical zzso of zzso 
+
+In this paper, it is shown how a complete set of metrics and a specific testing protocol are necessary to extensively describe zzso seizure detection systems, zzso assess their performance and enable comparison with existing zzso The developed system currently represents the best published performance to date with an zzso area of zzso The sensitivity and specificity were zzso at the equal error rate zzso The system was able to achieve an average good detection rate of zzso at a cost of 1 false detection per hour with an average false detection duration of zzso zzso 
+
+It is shown that to accurately assess the performance of zzso zzso seizure detectors and to facilitate comparison with existing alternatives, several metrics should be reported and a specific testing protocol should be zzso It is also shown that reporting only zzso metrics can be misleading as they do not always reflect the true performance of the zzso 
+
+This is the first study to present a thorough method for performance assessment of zzso seizure detection zzso The evaluated zzso seizure detection system can greatly assist clinical staff, in a zzso intensive care unit, to interpret the zzso 
+

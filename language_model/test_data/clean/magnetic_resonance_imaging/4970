@@ -1,0 +1,9 @@
+
+To develop a magnetic resonance imaging (MRI) sequence (fluid and white matter suppression, FLAWS) for generating two sets of images from a single acquisition: one with contrast similar to a T1-weighted magnetization-prepared rapid gradient-echo sequence (MPRAGE) for structural definition; the other with nulled white matter (WM) signal intensity, similar to the fast gray matter T1 inversion recovery (FGATIR) sequence, for improved delineation of subcortical brain structures.
+
+The recently proposed MP2RAGE, which is a modification of the MPRAGE and generates two image sets at different inversion times, was employed to generate the FGATIR-like contrast (FLAWS1) and MPRAGE-like contrast (FLAWS2). Five healthy volunteers were scanned at 3T and brain tissue contrast and contrast-to-noise were compared.
+
+FLAWS1 and FLAWS2 exhibited similar tissue contrast and contrast-to-noise as the "reference" sequences, FGATIR and MPRAGE, respectively. Synthetic minimum value images generated from FLAWS1 and FLAWS2 provided a gray matter-dominant image.
+
+FLAWS provides two coregistered 3D volumes, one with nulled WM signal intensity and another with nulled cerebrospinal fluid. The coregistered nature of the two datasets allows for generating images that might be helpful in segmentation algorithms and clinical diagnosis.
+

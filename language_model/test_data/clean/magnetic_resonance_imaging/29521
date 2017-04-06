@@ -1,0 +1,9 @@
+
+To examine new sequences that restrict acquisition of spins to those excited by both of the RF pulses in missing pulse steady state free precession (MP-SSFP) MRI.
+
+New MP-SSFP sequences were created by replacing one of the slice selective pulses (SSPs) with an orthogonal SSP for inner volume imaging, and with a chemical shift selective (CHESS) pulse for chemical shift imaging. The inner volume sequence was applied to a reduced field of view at the center of a resolution phantom; resulting images were evaluated for differences in the aliased signal. The CHESS sequence was applied to volunteers, as well as to and fat, water, and acetic acid phantoms. Results were evaluated with SNR measurements.
+
+The inner volume sequence eliminated the aliased signal, while nonselected fat and water levels were suppressed to that of noise by the CHESS sequence.
+
+Results suggest a novel steady state technique for rapid inner volume or chemical shift imaging.
+

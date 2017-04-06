@@ -1,0 +1,9 @@
+
+zzso zzso tracking has recently received attention as a method for improving treatment zzso dose zzso and sparing of healthy zzso 3-D zzso zzso in zzso remains challenging due to the motion of targets and the complexity of arc zzso We propose a novel statistical method for zzso 3-D zzso motion using limited zzso zzso zzso zzso 
+
+3-D zzso motion was estimated by a maximum a zzso zzso approach to zzso information of zzso projections with prior knowledge of target zzso To obtain the imaging zzso short sequences of zzso projections were selected in which zzso were continuously zzso The zzso zzso estimated the 3-D motion by maximizing the probability of displacement of zzso in the zzso Prior knowledge of target motion from a large statistical sample was built into the model to enhance the accuracy of zzso In the case that a motion prior was zzso the zzso can be simplified to the maximum likelihood zzso zzso To compare tracking performance, a zzso geometric method was also presented by extending the typical zzso zzso geometric zzso zzso The zzso were evaluated using clinical prostate motion zzso and the performance was measured in quality zzso and statistical zzso 
+
+The results showed that the zzso method significantly zzso the geometric method in all zzso In our simulations, the zzso method achieved an accuracy of less than 1 zzso zzso error using only five continuous projections, whereas the geometric method required 15 projections to achieve a similar zzso 
+
+The approach presented can accurately estimate tumor motion using a limited number of continuous zzso The zzso motion zzso is superior to both the zzso and geometric zzso zzso 
+

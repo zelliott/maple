@@ -1,0 +1,9 @@
+
+Surgical navigation systems using an optical position sensor have the occlusion problem due to a person or instrument in the line of sight of the camera. In this study, occlusion-free real-time magnetic resonance (MR) scanning with a passive electromagnetic locator is proposed.
+
+A newly developed converter transforms the data of an electromagnetic locator into that of an optical sensor. Registration between the two different coordinate systems is performed for the electromagnetic locator to substitute the optical sensor without modifying the MRI system.
+
+An oil marker attached to the electromagnetic locator was identified in real-time MR images. Preliminary results demonstrated the high usability of the electromagnetic locator as an alternative position tracking method in the MR gantry.
+
+The occlusion problem of optical sensors is resolved by the proposed method.
+

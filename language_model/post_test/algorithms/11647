@@ -1,0 +1,9 @@
+
+An important challenge in the use of large-scale gene expression data for biological zzso occurs when the expression zzso being analyzed involves multiple zzso Key issues that need to be addressed under such circumstances are the efficient selection of good zzso gene groups from zzso that are inherently zzso and the development of new zzso that can enhance the successful zzso of these complex zzso 
+
+We have applied genetic zzso zzso to the problem of zzso zzso A zzso gene selection scheme is described that automatically determines the members of a zzso gene group, as well as the optimal group size, that zzso zzso success using a maximum likelihood zzso zzso zzso 
+
+The zzso approach achieves higher zzso zzso than other published zzso methods on the same zzso test zzso It also permits substantial feature reduction in zzso zzso without compromising zzso zzso We propose that zzso zzso may represent a powerful new tool in the analysis and exploration of complex zzso gene expression zzso 
+
+zzso information, data sets and source codes are available at zzso 
+

@@ -1,0 +1,11 @@
+
+Stroke is one of the most common disorders among the zzso A practical problem in stroke rehabilitation systems is that how to separate motor imagery patterns from zzso zzso zzso There is a sharp decline in performance of these systems when classical zzso such as Common zzso zzso zzso are directly applied on stroke zzso 
+
+We propose a zzso scheme to detect motor imagery zzso patterns in zzso domain directly from zzso zzso constructed by zzso transform zzso zzso motor imagery zzso patterns are obtained by Fisher score zzso Furthermore, the most contributed channel groups and frequency bands are selected from these patterns and zzso as prior knowledge for the following motor imagery zzso 
+
+We evaluate our scheme based on zzso zzso recorded from stroke zzso The results show that our method zzso five other traditional methods in both online and zzso recognition zzso 
+
+Unlike the existing methods, motor imagery zzso patterns in zzso domain are simultaneously obtained by our method, preserving the structural information of the zzso zzso zzso 
+
+Our scheme is encouraged to be transferred to some other practical rehabilitation applications for its better zzso 
+

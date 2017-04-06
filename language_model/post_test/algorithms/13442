@@ -1,0 +1,7 @@
+
+It is well recognized that the effects of drugs are far beyond targeting individual zzso but rather influencing the complex interactions among many relevant biological zzso zzso expression profiling before and after drug treatment has become a powerful approach for capturing a global snapshot of cellular response to drugs, as well as to understand drugs' mechanism of zzso zzso it is of great interest to analyze this type of zzso profiling data for the identification of pathways responsive to different zzso However, few zzso tools exist for this zzso 
+
+We have developed zzso a zzso sparse factor model, for the zzso of pathways responsive to drug zzso This model represents biological pathways as zzso factors and aims to describe the variation among drug-induced gene expression zzso in terms of a much smaller number of zzso zzso We applied this model to the zzso zzso data set zzso zzso and demonstrated that zzso is able to identify many zzso associations, some of which have been validated in the zzso Although this method was originally designed for the analysis of drug-induced zzso zzso data, it can be naturally applied to many other settings beyond zzso 
+
+The R package zzso is zzso available at: zzso 
+

@@ -1,0 +1,9 @@
+
+Combining multiple databases with zzso or additional information on the same person is occurring increasingly throughout zzso If unique identification numbers for these individuals are not available, zzso record linkage is used for the identification of matching record zzso In many applications, identifiers have to be encrypted due to privacy zzso 
+
+A new protocol for zzso record linkage with encrypted identifiers allowing for errors in identifiers has been zzso The protocol is based on Bloom filters on zzso of zzso 
+
+Tests on simulated and actual databases yield linkage results comparable to zzso identifiers and superior to results from phonetic zzso 
+
+We proposed a protocol for zzso record linkage with encrypted identifiers allowing for errors in zzso Since the protocol can be easily enhanced and has a low zzso burden, the protocol might be useful for many applications requiring zzso record zzso 
+

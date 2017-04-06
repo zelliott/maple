@@ -1,0 +1,9 @@
+
+To develop a 3D computer model of the anterior vaginal wall and its supports, validate that model, and then use it to determine the combinations of muscle and connective tissue impairments that result in cystocele formation, as observed on dynamic magnetic resonance imaging (MRI).
+
+A subject-specific 3D model of the anterior vaginal wall and its supports were developed based on MRI geometry from a healthy nulliparous woman. It included simplified representations of the anterior vaginal wall, levator muscle, cardinal and uterosacral ligaments, arcus tendineus fascia pelvis and levator ani, paravaginal attachments, and the posterior compartment. This model was then imported into ABAQUS and tissue properties were assigned from the literature. An iterative process was used to refine anatomical assumptions until convergence was obtained between model behavior under increases of abdominal pressure up to 168 cm H(2)O and deformations observed on dynamic MRI.
+
+Cystocele size was sensitive to abdominal pressure and impairment of connective tissue and muscle. Larger cystocele formed in the presence of impairments in muscular and apical connective tissue support compared to either support element alone. Apical impairment resulted in a larger cystocele than paravaginal impairment. Levator ani muscle impairment caused a larger urogenital hiatus size, longer length of the distal vagina exposed to a pressure differential, larger apical descent, and resulted in a larger cystocele size.
+
+Development of a cystocele requires a levator muscle impairment, an increase in abdominal pressure, and apical and paravaginal support defects.
+

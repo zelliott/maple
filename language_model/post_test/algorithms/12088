@@ -1,0 +1,9 @@
+
+To describe a fuzzy logic controller that adjust zzso infusion during surgery based on changes in mean zzso pressure zzso and heart rate zzso 
+
+We designed a fuzzy logic controller using if zzso then zzso conditions written in C language, to be executed by a zzso PC with a 66 zzso zzso The controller was used with eight zzso zzso patients undergoing zzso surgery under zzso with zzso zzso and zzso with zzso zzso and zzso were input every three minutes, after which the controller generated an infusion based on those zzso We performed a statistical study of zzso consumption time until zzso and time of zzso zzso Relative error of zzso was zzso 
+
+The controller was used for a total of zzso zzso with the eight zzso zzso was zzso below the desired level for zzso (18 zzso of that time and was zzso over the desired level for zzso (21 zzso of the zzso zzso held steady within the range of stability for the remaining zzso zzso zzso of the time the controller was zzso The relative error of zzso was zzso zzso zzso Mean time until zzso was 7 zzso and 2 zzso 
+
+We believe the controller can be used to automate zzso executed by zzso The controller was useful for stabilizing zzso and zzso 
+

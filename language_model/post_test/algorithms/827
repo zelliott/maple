@@ -1,0 +1,7 @@
+
+zzso sequence alignment zzso assume that similarities between DNA or zzso acid sequences are zzso zzso That is, stretches of similar zzso or zzso acids are in the same order in both zzso zzso zzso this zzso An zzso that can reconstruct sequence similarity despite zzso would be helpful for reconstructing the evolutionary history of zzso zzso 
+
+We propose a zzso zzso for combining multiple local alignments to a query sequence into the single combination of alignments that either covers the zzso portion of the query or results in the single highest alignment score to the zzso This zzso can help study the process of zzso zzso improve functional gene zzso and reconstruct the evolutionary history of zzso zzso The zzso takes zzso time, where zzso is the number of local alignments zzso 
+
+We discuss two example applications of the zzso The zzso is able to provide useful reconstructions of the zzso zzso zzso It is also able to increase the percentage of a query zzso zzso acid zzso for which similar stretches of zzso acids can be found in sequence zzso 
+

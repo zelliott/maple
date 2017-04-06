@@ -1,0 +1,7 @@
+
+DNA copy number aberration zzso is one of the key characteristics of cancer zzso Recent studies demonstrated the feasibility of utilizing high density single zzso zzso zzso zzso zzso to detect zzso Compared with the zzso zzso comparative zzso zzso zzso the zzso zzso offer much higher probe density and lower zzso ratio at the single zzso zzso To accurately identify small segments of zzso from zzso array data, zzso methods that are sensitive to zzso while resistant to noise are zzso 
+
+We have developed a highly sensitive zzso for the edge detection of copy number data which is especially suitable for the zzso zzso copy number zzso The method consists of an zzso zzso step and a zzso zzso edge selection zzso 
+
+Using simulations constructed from real experimental data, the method shows high sensitivity and specificity in detecting small copy number changes in focused zzso The method is implemented in an R package zzso which includes data processing and zzso utilities, as well as libraries for processing zzso zzso array zzso 
+

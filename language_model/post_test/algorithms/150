@@ -1,0 +1,7 @@
+
+There has been an increasing interest in expressing a survival zzso zzso time to cancer recurrence or zzso or its distribution in terms of a subset of the expression data of a subset of zzso Due to high zzso of gene expression data, however, there is a serious problem of zzso in fitting a prediction model, zzso Cox's zzso hazards zzso To avoid the zzso problem, several methods based on penalized Cox zzso hazards models have been zzso However, those methods suffer from severe zzso problems, such as slow or even failed zzso because of zzso zzso zzso required for model zzso We propose to implement the penalized Cox zzso with a lasso penalty via the zzso lasso zzso that yields faster convergence to the global optimum than do other zzso zzso the zzso lasso zzso is guaranteed to zzso to the optimum under mild zzso zzso zzso our zzso lasso zzso can be a useful tool in developing a prediction model based on zzso zzso including gene expression zzso 
+
+zzso from simulation studies showed that the prediction model by zzso lasso recovers the zzso zzso Also results from diffuse large zzso zzso zzso and zzso breast cancer zzso indicate that our method is very competitive compared with popular existing methods by Park and zzso and zzso in its zzso time, prediction and zzso 
+
+R package zzso is available at zzso 
+

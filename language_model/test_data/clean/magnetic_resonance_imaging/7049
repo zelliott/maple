@@ -1,0 +1,9 @@
+
+This article presents the evaluation of an interactive multiscale watershed segmentation algorithm for segmenting tumors in magnetic resonance brain images of patients scheduled for neuronavigational procedures.
+
+The watershed method is compared with manual delineation with respect to accuracy, repeatability, and efficiency.
+
+In the 20 patients included in this study, the measured volume of the tumors ranged from 2.7 to 81.9 cm(3). A comparison of the tumor volumes measured with watershed segmentation to the volumes measured with manual delineation shows that the two methods are interchangeable according to the Bland and Altman criterion, and thus equally accurate. The repeatability of the watershed method and the manual method are compared by looking at the similarity of the segmented volumes. The similarity for intraobserver and interobserver variability for watershed segmentation is 96.4% and 95.3%, respectively, compared with 93.5% and 90.0% for manual outlining, from which it may be concluded that the watershed method is more repeatable. Moreover, the watershed algorithm is on average three times faster than manual outlining.
+
+The watershed method has an accuracy comparable to that of manual delineation and outperforms manual outlining on the criteria of repeatability and efficiency.
+

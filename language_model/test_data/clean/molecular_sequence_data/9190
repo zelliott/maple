@@ -1,0 +1,9 @@
+
+The analysis of proteins by mass spectrometry imaging is an important biomedical application as spatial distributions can be used to identify markers for pathological processes. The direct detection and identification of proteins on tissue can be hindered by a number of factors including limited mass range and fragmentation efficiency as well as incompatibility with formalin-fixed samples.
+
+To overcome some of these limitations, on-tissue digestion of proteins was followed by detection of the resulting peptides. Trypsin was applied by a spraying device. Matrix-assisted laser desorption/ionization (MALDI) imaging experiments were performed with a home-built atmospheric-pressure imaging source attached to a LTQ Orbitrap mass spectrometer. The mass accuracy under imaging conditions was better than 3 ppm RMS. This allowed for confident identification of tryptic peptides by comparison with liquid chromatography/electrospray ionization tandem mass spectrometry (LC/ESI-MS/MS) measurements of an adjacent mouse brain section.
+
+A spatial resolution of 50 µm was obtained for tryptic peptides on tissue. Several tryptic peptides of myelin showed matching spatial distributions, and numerous tryptic peptides of other proteins were identified. MS images were generated with a bin size (mass range used for image generation) of Δm/z = 0.01 u. Examples demonstrate that MS images with lower selectivity can result in misleading information about the spatial distribution of tryptic peptides.
+
+The presented method combines a significantly improved spatial resolution for tryptic peptides with low-ppm mass accuracy in a single experiment and thus provides highly reliable and specific information.
+

@@ -1,0 +1,7 @@
+
+zzso repeats consist in approximate and adjacent repetitions of a DNA zzso Such repeats account for large portions of zzso zzso and have also been found in other life zzso zzso to their zzso tandem repeats have proven useful in zzso zzso forensic and population studies, zzso Nevertheless, they are not systematically detected nor zzso in zzso zzso zzso because of this lack of data, their evolution is still poorly zzso 
+
+In this work, we design an exact zzso to locate approximate tandem repeats zzso of a motif in a DNA zzso Given a motif and a DNA zzso our method named STAR, identifies all segments of the sequence that zzso to significant approximate tandem repetitions of the zzso In our model, an zzso zzso Repeat zzso comes from the tandem zzso of the motif and an zzso derives from an zzso by a series of point zzso An zzso can then be zzso as a number of zzso of the motif together with a list of zzso zzso any sequence that is not an zzso cannot be zzso efficiently by this description, while a true zzso zzso Our method uses the minimum description length criterion to identify which sequence segments are zzso Our zzso procedure guarantees that zzso finds a combination of zzso that zzso this zzso 
+
+for use at zzso 
+

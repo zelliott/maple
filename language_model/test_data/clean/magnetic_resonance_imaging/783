@@ -1,0 +1,7 @@
+
+The goal of this study was to describe the authors' technique for three-dimensional (3D) visualization of neurovascular relationships in the posterior fossa at the surface of the brainstem. This technique is based on the processing of high-resolution magnetic resonance (MR) imaging data. The principles and technical details involved in the accurate simultaneous visualization of vessels and cranial nerves as tiny structures are presented using explicit and implicit segmentation as well as volume rendering.
+
+In this approach 3D MR constructive interference in steady state imaging data served as the source for image processing, which was performed using the Linux-based software tools SegMed for segmentation and Qvis for volume rendering. A sequence of filtering operations (including noise reduction and closing) and other software tools such as volume growing are used for a semiautomatic coarse segmentation. The subsequent 3D visualization in which implicit segmentation is used for the differentiation of cranial nerves, vessels, and brainstem is achieved by allocating opacity and color values and adjusting the related transfer functions. This method was applied to the presurgical evaluation in a consecutive series of 55 patients with neurovascular compression syndromes and the results were correlated to surgical findings. The potential for its use, further developments, and remaining problems are discussed.
+
+This method provides an excellent intraoperative real-time virtual view of difficult anatomical relationships.
+

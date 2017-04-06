@@ -1,0 +1,5 @@
+
+NucPred analyzes patterns in eukaryotic protein sequences and predicts if a protein spends at least some time in the nucleus or no time at all. Subcellular location of proteins represents functional information, which is important for understanding protein interactions, for the diagnosis of human diseases and for drug discovery. NucPred is a novel web tool based on regular expression matching and multiple program classifiers induced by genetic programming. A likelihood score is derived from the programs for each input sequence and each residue position. Different forms of visualization are provided to assist the detection of nuclear localization signals (NLSs). The NucPred server also provides access to additional sources of biological information (real and predicted) for a better validation and interpretation of results.
+
+The web interface to the NucPred tool is provided at http://www.sbc.su.se/~maccallr/nucpred. In addition, the Perl code is made freely available under the GNU Public Licence (GPL) for simple incorporation into other tools and web servers.
+

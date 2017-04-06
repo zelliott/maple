@@ -1,0 +1,7 @@
+
+For analyzing zzso zzso data with competing risks, tailored modeling techniques are required that consider the event of interest and the competing events at the same time, while also dealing with zzso For zzso settings, zzso hazards models for the zzso hazard have been proposed, but an adaptation for zzso settings is zzso In addition, tools for judging the prediction performance of fitted models have to be zzso 
+
+We propose a boosting approach for fitting zzso zzso hazards models for zzso data, that can zzso incorporate a large number of zzso features, while also taking clinical zzso into zzso zzso performance is evaluated using zzso estimates of prediction error curves, adapted for the competing risks zzso This is illustrated with zzso cancer zzso data, where simultaneous consideration of both, the event of interest and competing events, allows for judging the additional zzso power gained from incorporating zzso zzso 
+
+The proposed boosting approach is implemented in the R package zzso and prediction error zzso in the package zzso both available from zzso 
+

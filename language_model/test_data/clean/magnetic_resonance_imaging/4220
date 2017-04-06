@@ -1,0 +1,11 @@
+
+The most common fat-suppressed sequence used to study skeletal conditions is the STIR sequence which has shown high sensitivity in the detection of skeletal lesions and whose main drawback is its long acquisition time. Currently, Turbo-STIR (T-STIR) sequences can shorten the acquisition time. The purpose of this study was therefore to compare the conventional STIR sequence with the new T-STIR sequence in the study of skeletal conditions to compare their diagnostic yield.
+
+Twenty patients with different types of skeletal lesions were examined. MR examinations were performed with a Philips Gyroscan S15/ACS II unit (1.5 T). All the patients underwent a STIR sequence (TR/TE = 1500/20, TI = 180 ms, matrix = 204 x 256, NEX = 2, slice thickness = 5 mm, acquisition time = 9 min 24 s) and a T-STIR sequence (TR/TE = 1500/20, TI = 180 ms, matrix = 204 x 256, NEX = 2, slice thickness = 5 mm, TFL = 3, acquisition time = 3 min 33 s). The images were evaluated by measuring both quantitative parameters--percent contrast (%C), contrast to noise ratio (C/N), signal to noise ratio (S/N)--and qualitative parameters--lesion conspicuity, margins and extension, motion artifacts, image quality.
+
+The only statistically significant difference between the two sequences was image quality, which was superior in the conventional STIR sequence (p < .05). No statistically significant difference was demonstrated with the quantitative evaluation.
+
+In this study, T-STIR sequences were performed with low-high acquisition profile to acquire an actual echo time of 20 ms which permits to obtain optimal S/N with good spatial resolution. Therefore, T-STIR sequences with low-high acquisition profile provides better results than T-STIR sequences with linear acquisition profile which permits to obtain an actual echo time of 40 ms.
+
+This work shows that T-STIR sequences can replace conventional STIR sequences in the study of skeletal conditions reducing the acquisition time by 60%. This result can be obtained only by an accurate optimization of acquisition parameters.
+

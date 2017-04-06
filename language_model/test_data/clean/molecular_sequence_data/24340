@@ -1,0 +1,3 @@
+
+Information agents integrate multiple distributed heterogeneous information sources. The challenging yet unsolved problem that remains, is to ensure the semantic consistency of the integrated data. In this paper we set out to develop a general approach to inconsistency management for information agents. It is implemented as part of the EDITtoTrEMBL system and applied on a large real-world problem in the domain of bioinformatics.
+

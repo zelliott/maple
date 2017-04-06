@@ -1,0 +1,309 @@
+# fe_03_04165.sph
+# Transcribed by BBN/WordWave
+
+0.30 2.06 A: uh my name is mike 
+
+1.75 3.32 B: hi i'm john 
+
+3.37 4.35 A: hi 
+
+4.40 5.31 B: how're you 
+
+5.04 9.16 A: not bad uh this is my first time is this your first time 
+
+8.15 10.04 B: yeah this is my first 
+
+9.61 14.08 A: right um well i guess uh do you wanna start 
+
+14.16 18.53 B: um sure i mean if i could open a business i'd probably 
+
+18.98 24.77 B: um i would probably do something like internet related uh 
+
+24.15 25.17 A: okay 
+
+25.33 40.06 B: i'm not entirely sure what but um i know that you know in order to establish a web presence you have to like get you know a whole bunch of servers and um have them on the internet and um so you know whatever 
+
+34.76 36.33 A: right 
+
+39.20 45.83 A: which would require like quite a bit of money and as they say money's being no object then you could do that right 
+
+43.38 44.40 B: right 
+
+44.66 47.04 B: well but the other thing is that um 
+
+47.07 53.46 B: they u- they do have you know larger companies which you know basically lease servers to you because 
+
+53.49 57.34 B: you know trying to put your own on the internet would be you know 
+
+57.56 64.09 B: very difficult because you'd have to find like you know very stable network and things like that and those can be costly so 
+
+63.28 64.68 A: (( [mn] right )) 
+
+64.11 74.86 B: i mean i know money's not an object but ev- if it even if it were you you could actually save by not doing it all on your own you could just go and you know um 
+
+71.67 78.00 A: right it's like subletting so to speak from yeah right uh 
+
+75.13 76.61 B: yeah exactly 
+
+76.95 82.43 B: exactly leasing some server and network you know from from a larger company and then 
+
+80.23 82.34 A: (( right )) 
+
+83.20 86.45 B: and then you know establishing your presence that way 
+
+86.02 94.51 A: right well my my uh what i would do would be to open an liquor store [laughter] a liquor store 
+
+92.26 93.94 B: so a liquor store oh yeah 
+
+94.11 96.07 B: well i'd come visit [laughter] okay 
+
+95.10 103.18 A: [laughter] well i no longer drink but uh i remember wh- when i was a little boy um 
+
+103.27 107.33 A: that um that's what i wanted to do i wanted to open a liquor store 
+
+106.81 107.95 B: (( uh-huh right right )) 
+
+107.34 108.80 A: and because i 
+
+109.31 122.57 A: it it looked to me like uh he would uh he was making money and he was uh uh had a nice car and everything and uh its it's and we we weren't we were rather poor at that time so 
+
+121.99 123.06 B: right 
+
+122.78 134.63 A: uh but you know in order to do that i'd i'd have to get a liquor license uh i'd have to get uh uh uh buy the stock i'd have to buy uh the um 
+
+134.74 147.75 A: uh i'd have to have employees uh i'd have to location location location uh and uh advertising budget um and uh a business plan 
+
+140.53 141.67 B: (( right right )) 
+
+147.96 151.52 A: that's what you'd need too right and uh 
+
+149.27 150.17 B: right 
+
+151.56 155.23 A: uh then um uh backers uh 
+
+155.62 159.02 A: uh possibly um and um 
+
+159.64 173.49 A: so i mean [sigh] i think everybody you know especially when you get you know that spam you that they make it sound like it's so easy to to open up a businesses but it but in reality i think you 
+
+170.32 171.08 B: right 
+
+173.48 178.49 A: you're more realistic you know the because this it can be quite 
+
+179.24 180.70 A: complicated 
+
+180.23 193.62 B: right yeah i mean definitely like i mean i was thinking you know kind of avoiding the brick and mortar story you know just because that in itself um like you said location matters but also 
+
+188.37 189.56 A: right 
+
+192.92 194.21 A: right 
+
+193.79 198.32 B: the physical space you have to rent and then all the utilities that go with it you know 
+
+197.79 200.48 A: truly yeah 
+
+199.12 205.45 B: so but i mean it's not a bad idea i mean i'm i'm sure you know liquor stores will never run out of business right 
+
+204.62 213.78 A: oh definitely not [laughter] that's for sure [laughter] i think they even had them during the depression so yeah so 
+
+211.79 212.88 B: right 
+
+213.90 217.52 A: but uh you know going with what you were 
+
+217.70 220.44 A: you were talking about a little bit 
+
+219.97 222.64 B: actually well the thing is the main 
+
+222.71 226.03 B: you know i mean this is mostly off the top of my head obviously i'm not 
+
+225.58 228.17 A: sure yeah yeah 
+
+226.15 226.99 B: (( a business )) 
+
+227.48 230.62 B: the one thing i'm trying to figure out was what you know 
+
+230.93 234.56 B: it's kinda funny because i was trying to figure out what i was gonna do 
+
+234.73 239.63 B: like wh- okay fine you wanted some sort of internet based business but what is it you know 
+
+234.76 235.62 A: (( yeah )) 
+
+239.18 240.41 A: right 
+
+239.69 253.46 B: and i was thinking like you know do you try to sell something do you try to provide some sort of service and i was just thinking you know because you had mentioned the liquor store that you know i could sell liquor over the internet [laughter] well i don't know if they actually i don't know if it's legal 
+
+249.57 251.29 A: oh sure yeah 
+
+252.12 266.29 A: well they do that now right well they they're kind of now now they've come to some kind of a situation where young uh kids are are ordering it and uh they're being shipped to 
+
+266.24 274.98 A: to them and um so uh uh they're um kind of um coming down on those kinds of um 
+
+273.70 274.69 B: right 
+
+275.20 276.72 A: of um 
+
+277.15 278.98 A: uh businesses [sigh] 
+
+278.48 289.29 B: right and it probably i mean i said it kinda tongue in cheek i think it's probably mm you know would be difficult because i think it's one of those things where 
+
+289.46 303.56 B: you know people kind of like even me like you know i you know i would never buy liquor over the internet i would just go to a liquor store so it's not one of those things that people think about when they think of oh i'm gonna buy something over the internet you know 
+
+296.74 300.12 A: right true yeah and not only what 
+
+303.56 305.96 A: it's just not one of those things right 
+
+306.04 310.59 A: (( it it isn't on amazon dot com [laughter] but )) 
+
+308.53 309.46 B: right 
+
+310.83 312.18 A: but um 
+
+312.37 318.96 B: it'd be interesting though but it'd be i think it'd be very difficult especially with all these laws and things like that right 
+
+313.51 314.72 A: (( [lipsmack] sure )) 
+
+318.30 320.31 A: sure and um 
+
+320.32 329.39 A: uh especially with drunken driving and so on and so forth and yeah it it could be kind of complicated but um 
+
+322.86 323.67 B: (( right )) 
+
+329.50 331.31 A: i don't know um 
+
+331.35 333.62 A: [lipsmack] i probably 
+
+334.00 341.31 A: and the other thing i'd probably find a location where i'd really enjoy it you know i'd probably find it i uh i live in the northeast so 
+
+341.32 347.10 A: uh i'd probably find a place you know maybe in arizona or uh probably 
+
+347.85 361.56 A: if money's no option what the hell uh honolulu or maui yeah right [laughter] [laughter] i mean if you're gonna dream dream big right [laughter] right 
+
+350.77 352.54 B: yeah exactly [laughter] 
+
+354.20 354.97 B: (( right right )) 
+
+358.47 361.94 B: yeah you definitely wanna be in a urban area too 
+
+361.69 363.91 A: uh right there you go 
+
+362.60 363.79 B: (( and you know well )) 
+
+364.05 367.34 A: (( but uh yeah w- )) 
+
+366.47 371.51 B: you gotta be in a big city honolu- honolulu's better than new york city [laughter] 
+
+368.41 370.36 A: honolulu would do it 
+
+370.72 374.26 A: sure [laughter] right uh 
+
+374.57 376.02 A: and uh 
+
+376.04 378.22 A: let's see i could um [mn] 
+
+379.38 386.18 A: i'm also wondering how did it well they must have liquor distributorships you know there too as well 
+
+386.33 393.20 A: and where is the liquor coming from it's probably coming from japan as well as uh from the u- the u._s. 
+
+392.96 395.77 B: right right i mean you're centrally located so 
+
+395.45 397.76 A: oh definitely right 
+
+397.90 401.03 A: but uh yeah that'd be that'd be 
+
+399.88 405.08 B: and there's constant flights you know across the pacific and stopping in hawaii so 
+
+404.52 407.09 A: right and then uh 
+
+405.71 408.55 B: you're never gonna have to worry about you know 
+
+408.82 413.58 A: and there're quite a few servicemen too and servicemen are noted for drinking so 
+
+408.92 409.87 B: (( right [laughter] right )) 
+
+413.59 415.89 A: they shouldn't have any problem with that 
+
+416.16 417.35 A: (( um [lipsmack] )) 
+
+417.38 418.88 A: (( but um )) 
+
+418.33 420.12 B: i mean is it something 
+
+420.15 422.05 B: like you know like 
+
+422.06 425.30 B: a store you'd have open twenty four seven or just 
+
+424.71 434.93 A: well it you know the laws with alcohol are you know i mean they've just started i mean on a ver- uh advertising on uh 
+
+434.91 447.07 A: on t._v. you know and it's still very difficult to to uh other than wine and um and beer that's the only thing they've been advertising i think they tried it for a little while and then they stopped you know 
+
+447.14 453.39 A: you know like whiskey and scotch and stuff like that but 
+
+454.33 455.21 A: uh 
+
+455.59 461.61 A: [sigh] then then finding the it's so difficult finding the market in and your niche in it 
+
+461.07 462.54 B: (( right right )) 
+
+461.86 463.72 A: you know so 
+
+463.85 473.25 A: um i think in you were talking about okay um they have uh things like wine dot com 
+
+472.57 473.56 B: right 
+
+473.56 479.24 A: and what they have is not only uh the various kinds of wine 
+
+479.26 486.91 A: but they also have uh the um uh information on them and the you know 
+
+486.94 490.37 A: how to uh smelling the bouquet 
+
+488.86 491.14 B: right kinda like a guide to 
+
+490.67 499.30 A: guide right and uh if you're a novice and you know loads of information on that and uh 
+
+497.13 498.18 B: right 
+
+499.56 509.84 A: but that's a niche market so i mean in all likelihood you know a kid is not gonna order any anything like that he wants you know 
+
+501.51 502.49 B: right 
+
+507.12 507.83 B: (( yeah right )) 
+
+510.01 514.03 A: hundred proof or a hundred and fifty one proof or something like that 
+
+514.38 515.63 A: but 
+
+514.43 527.53 B: yeah that's probably the yeah i think you you hit it on the head i mean with these internet based services you really have to carve out a sort of something that makes you different from uh any- anything else because 
+
+528.20 542.58 B: i mean like a liquor store's different because you know p- you know it doesn't matter wh- in some ways it doesn't matter where you are although certain places are definitely better than others but you know there's gonna be people who drink and there're people who are gonna wanna you know stop by the liquor store pick up you know 
+
+534.88 537.35 A: sure right 
+
+542.67 548.50 B: whatever it is that they can't get in like the supermarket and all that and so you know with that 
+
+542.96 544.22 A: right 
+
+544.75 546.93 A: (( yeah )) 
+
+548.61 556.05 B: um yeah if you found something that you'd be great but you don't even really need one because it's its own kind of you know self sustaining 
+
+555.99 558.59 A: right right 
+
+556.64 559.96 B: area wi- with the internet it's a little bit dif- 
+
+558.93 560.60 A: it's it's it's alm- 
+
+560.65 570.20 A: yeah i would think that that would be your best way to go i mean i don't think i i would i wouldn't like the idea of of um 
+
+564.36 565.11 B: yeah 
+
+570.16 583.38 A: a liquor store in the inner city because number you know number one it's you know it just seems to me like it's it just isn't right you know and number two that it's very dangerous 
+
+573.41 574.09 B: (( right )) 
+
+578.97 579.96 B: right 
+
+583.69 586.37 A: you know they it's you know there's some 
+
+586.38 599.95 A: there's some place you know in the inner city where you know there's like ten liquor stores and you know with daggers with [laughter] with loads of loads of beer and all of this and cigarettes and you know and that's 
+
+596.63 597.63 B: right 
+

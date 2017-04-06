@@ -1,0 +1,9 @@
+
+We hypothesized that a treatment planning technique that incorporates predicted lung tumor zzso into zzso zzso treatment planning zzso could allow dose escalation to the residual tumor while maintaining coverage of the initial target without increasing dose to surrounding zzso at risk zzso 
+
+We created a model to estimate the geometric presence of residual tumors after radiation therapy using planning zzso zzso zzso and weekly cone beam CT scans of 5 lung cancer zzso For planning purposes, we modeled the dynamic process of tumor shrinkage by morphing the original planning target volume zzso in 3 zzso steps to the predicted zzso zzso Patients were treated with a uniform prescription dose to zzso By contrast, zzso zzso started with the same prescription dose to zzso but zzso increased the dose at each step, until reaching the highest dose achievable to zzso consistent with zzso zzso This method is compared with zzso zzso zzso 
+
+zzso zzso gross tumor volume zzso ranged from zzso to zzso zzso On average, the primary zzso and zzso decreased by zzso and zzso respectively, at the end of zzso The zzso approach gave zzso at least the prescription dose, and it increased the mean dose of the true residual tumor by an average of zzso zzso above the zzso zzso 
+
+zzso incorporating a tumor zzso model from the start, represents a new approach to increase tumor dose without increasing zzso and reduce clinical workload compared with the zzso approach, although model zzso using zzso zzso imaging would be zzso 
+

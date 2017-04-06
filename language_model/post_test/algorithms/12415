@@ -1,0 +1,7 @@
+
+Finding zzso expressed genes is a fundamental objective of a zzso zzso Numerous methods have been proposed to perform this zzso zzso methods are based on point estimates of gene expression level obtained from each zzso zzso This approach zzso potentially useful information about measurement error that can be obtained from an appropriate zzso zzso zzso zzso models can be used to measure gene expression and also provide a level of uncertainty in this zzso This zzso measurement error provides useful information which can help in the identification of zzso expressed zzso 
+
+We propose a zzso method to include zzso measurement error into the detection of zzso expressed genes from zzso zzso A zzso approximation is used for efficient zzso zzso We compare this approximation with zzso and zzso zzso zzso in terms of zzso efficiency and zzso The method is used to calculate the probability of positive zzso zzso of expression levels between zzso Using the zzso from a recently developed zzso zzso model, zzso we test zzso on a zzso zzso and a mouse zzso zzso zzso show that the inclusion of zzso measurement error improves accuracy in detecting differential gene zzso 
+
+The zzso approximation and zzso zzso described in this paper have been implemented in an R package zzso The zzso method is implemented in zzso Both software are available from zzso 
+

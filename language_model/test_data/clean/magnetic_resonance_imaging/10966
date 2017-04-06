@@ -1,0 +1,11 @@
+
+In a series of in vitro and in vivo experiments, we evaluated the feasibility of integrating three-dimensional (3D) magnetic resonance imaging (MRI) and electroanatomic mapping (EAM) data to guide real-time left ventricular (LV) catheter manipulation.
+
+Substrate-based catheter ablation of post-myocardial infarction ventricular tachycardia requires delineation of the scarred myocardium, typically using an EAM system. Cardiac MRI might facilitate this procedure by localizing this myocardial scar.
+
+A custom program was employed to integrate 3D MRI datasets with real-time EAM. Initially, a plastic model of the LV was used to determine the optimal alignment/registration strategy. To determine the in vivo accuracy of the registration process, ablation lesions were directed at iatrogenic MRI-visible "targets" (iron oxide injections) within normal porcine LVs (n = 5). Finally, this image integration strategy was assessed in a porcine infarction model (n = 6) by targeting ablation lesions to the scar border.
+
+The in vitro experiments revealed that registration of the LV alone results in inaccurate alignment due primarily to rotation along the chamber's long axis. Inclusion of the aorta in the registration process rectified this error. In the iron oxide injection experiments, the ablation lesions were 1.8 +/- 0.5 mm from the targets. In the porcine infarct model, the catheter could be reliably navigated to the mitral valve annulus, and the ablation lesions were uniformly situated at the scar borders.
+
+These data suggest that registration of pre-acquired magnetic resonance images with real-time mapping is sufficiently accurate to guide LV catheter manipulation in a reliable and clinically relevant manner.
+

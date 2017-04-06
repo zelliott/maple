@@ -1,0 +1,11 @@
+
+In biomedical research zzso zzso or zzso profiles of patient samples are often combined with zzso profiles from experiments in cell lines or animal zzso zzso experimental data with patient data is still a challenging task due to the lack of tailored statistical zzso 
+
+Here we introduce guided zzso a new data integration strategy that combines experimental and clinical zzso zzso zzso zzso identifies sets of genes that stand out in experimental data while at the same time display coherent expression in clinical zzso We report on two potential zzso The integration of clinical zzso data with zzso zzso zzso zzso zzso and zzso with cell zzso zzso Unlike other analysis strategies, guided zzso does not analyze the two zzso zzso but instead in a single joint zzso In a simulation study and in several biological applications, guided zzso performs favorably when compared with sequential analysis zzso 
+
+zzso zzso is available as a zzso from zzso zzso R code of all our analysis is included in the zzso zzso All newly generated data are available at the zzso database zzso 
+
+zzso 
+
+zzso data are available at zzso zzso 
+

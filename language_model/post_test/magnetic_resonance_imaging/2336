@@ -1,0 +1,3 @@
+
+This paper deals with the use of fuzzy logic and dynamic programming in the detection of cardiac contours in MR zzso The definition of two parameters for each zzso allows the construction of the fuzzy set of the cardiac zzso zzso The first zzso takes into account the zzso level, and the second the presence of an zzso A corresponding fuzzy zzso is derived from the initial zzso Finally, a dynamic programming with graph searching is performed on this fuzzy zzso The method has been tested on several MR images and the results of the zzso were validated by an expert in the zzso This preliminary work clearly demonstrates the interest of this method, although a formal evaluation has to be zzso 
+

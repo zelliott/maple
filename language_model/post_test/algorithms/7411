@@ -1,0 +1,7 @@
+
+De zzso protein modeling approaches zzso zzso zzso images derived from electron zzso zzso zzso The skeleton connecting two secondary structures such as zzso represent the loop in the zzso zzso The accuracy of the skeleton and of the detected secondary structures are critical in De zzso zzso It is important to measure the length along the skeleton accurately since the length can be used as a constraint in modeling the zzso 
+
+We have developed a novel zzso geometric approach to derive a simplified curve in order to estimate the loop length along the zzso The method was tested using fifty simulated density images of zzso segments of atomic structures and zzso zzso derived density data from zzso zzso Data Bank zzso The test using simulated density maps shows that it is possible to estimate within zzso zzso of the expected length for 48 of the 50 zzso The experiments, involving zzso zzso derived zzso images, show that twelve cases have error within 2 zzso 
+
+The tests using both simulated and zzso derived images show that it is possible for our proposed method to estimate the loop length along the skeleton if the secondary structure zzso such as zzso can be detected accurately, and there is a continuous skeleton linking the zzso 
+

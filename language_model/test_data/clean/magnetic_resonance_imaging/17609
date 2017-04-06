@@ -1,0 +1,3 @@
+
+Imaging objects are spatially encoded by gradient magnetic fields in magnetic resonance imaging systems. The eddy current caused by rapid switches of gradient fields will result in artifacts in the images. A method of eddy current compensation based on pre-emphasis of gradient current is presented in this thesis. The compensation parameters are acquired rapidly utilizing Faraday's induction theorem and data fitting method. The experiments prove that the method is efficient for reduction of the debugging time and for the improvement of the image quality.
+

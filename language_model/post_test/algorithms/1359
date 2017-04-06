@@ -1,0 +1,7 @@
+
+There are many pairs and groups of proteins with similar folds and interaction patterns, but whose sequence similarity is below the threshold of easily recognizable sequence zzso The existence of multiple sequence solutions for a given fold has inspired fold prediction methods in which structural information from one protein is used to estimate the energy of another, zzso similar, zzso 
+
+A set of 68 pairs of proteins with similar folds and sequence identity in the zzso range is identified from the zzso for each pair, the energy of one zzso calculated using zzso statistical zzso is compared to the estimated energy, calculated with the same zzso but using the structural information zzso status and interaction zzso of another protein with the same zzso Different energy estimates, corresponding to approximations used in various fold recognition zzso are calculated and compared to each other, as well as to the correct zzso It is shown that the local energy terms, based on burial and secondary structure preferences, can be reliably estimated with an accuracy close to zzso At the same time, the zzso zzso energy loses over zzso of its value due to the zzso of the zzso Further zzso such as the zzso zzso can bring it to an essentially random zzso 
+
+Local energy terms could be used safely to improve fold recognition zzso To zzso pair interaction information, specially designed pair zzso and/or a zzso description of pair interactions is zzso 
+

@@ -1,0 +1,3 @@
+
+We describe the third generation of the zzso sequence assembly zzso The zzso program includes a number of improvements and new zzso The program has a capability to clip zzso and 3' low-quality regions of zzso It uses base quality values in zzso of zzso between reads, construction of multiple sequence alignments of reads, and generation of consensus zzso The program also uses zzso constraints to correct assembly errors and link zzso zzso of zzso on four zzso data sets are zzso The performance of zzso was compared with that of zzso on a number of zzso data zzso zzso often produces longer zzso than zzso whereas zzso often produces fewer errors in consensus sequences than zzso It is easier to construct scaffolds with zzso than with zzso on zzso data with zzso zzso 
+

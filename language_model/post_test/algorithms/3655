@@ -1,0 +1,7 @@
+
+zzso methods based on controlling the false discovery rate zzso or positive false discovery rate zzso are now well established in identifying zzso expressed genes in DNA zzso Several authors have recently raised the important issue that zzso or zzso may give misleading zzso when specific genes are of interest because they average the genes under consideration with genes that show stronger evidence for differential zzso The paper proposes a flexible and robust mixture model for zzso the local zzso which zzso how plausible each specific gene expresses zzso 
+
+We develop a special mixture model tailored to multiple testing by requiring the zzso distribution for the zzso expressed genes to be zzso smaller than the zzso distribution for the zzso expressed zzso A smoothing mechanism is built zzso The proposed model gives robust zzso of local zzso for any reasonable underlying zzso zzso It also provides a single framework for zzso the proportion of zzso expressed zzso zzso negative zzso values, sensitivity and zzso A cervical cancer study shows that the local zzso gives more specific and relevant zzso of the evidence for differential expression that can be substantially different from zzso 
+
+An R function implementing the proposed model is available at zzso 
+

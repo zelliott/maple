@@ -1,0 +1,3 @@
+
+A multiple alignment methodology that can produce high-quality alignment is extremely important for predicting the structure of unknown zzso Nearly all the zzso developed so far have employed zzso alignment zzso Although these methods are fast, the alignments they produce lose reliability as the similarity of sequences zzso We developed the MASCOT multiple alignment zzso MASCOT can sustain the reliability of alignment even when the similarity of sequences is zzso MASCOT achieves high-quality alignment by employing three-way alignment in addition to zzso zzso The zzso alignments are refined by simulated zzso to higher zzso We also use a cluster analysis of sequences to produce highly reliable zzso 
+

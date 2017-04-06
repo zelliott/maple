@@ -1,0 +1,7 @@
+
+zzso signaling pathways and genetic circuits often involve very small numbers of key signaling zzso zzso expensive zzso methods are necessary to simulate such chemical zzso zzso chemical events often co-exist with much larger numbers of signaling molecules where zzso zzso is a reasonable zzso Here, we describe an zzso zzso method that zzso chooses between deterministic and zzso calculations depending on molecular count and propensity of forward zzso The method is fixed zzso and has first order zzso We compare the efficiency of this method with exact zzso zzso 
+
+We have implemented an zzso zzso approximate simulation method for chemical zzso With an error margin of zzso the method zzso typical biologically constrained reaction schemes more rapidly than exact zzso methods for reaction volumes zzso zzso zzso We have developed a test suite of reaction cases to test the accuracy of mixed simulation zzso 
+
+zzso software used in the paper is freely available from zzso 
+

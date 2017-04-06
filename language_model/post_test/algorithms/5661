@@ -1,0 +1,9 @@
+
+The goal of this study is to investigate the advantages of large scale zzso methods vs conventional zzso techniques in predicting acute toxicity for urinary zzso and zzso due to prostate zzso 
+
+Clinical and zzso data of 321 patients undergoing prostate zzso zzso were zzso zzso and zzso acute zzso were scored according to the zzso zzso Oncology zzso Organization for Research and Treatment of Cancer zzso zzso Patients were classified in two categories to separate mild zzso zzso 2) from severe toxicity levels zzso zzso zzso zzso learning methods at different complexity were implemented to predict toxicity as a function of multiple zzso The first approach consisted of a large scale zzso method, based on genetic zzso zzso and artificial neural networks zzso The second approach was a zzso zzso based on support zzso machines zzso 
+
+The ANN and zzso solutions showed comparable prediction zzso exhibiting an area under the receiver operating characteristic zzso curve of zzso Different sensitivity and specificity features were measured for the two zzso The ANN zzso showed enhanced sensitivity if combined with appropriate zzso zzso 
+
+The results demonstrate that high sensitivity in toxicity prediction can be achieved with zzso zzso that are put forward to represent a valuable support in medical zzso Future studies will be focused on enlarging the available patient database to increase the reliability of toxicity prediction zzso and to define optimal zzso zzso 
+

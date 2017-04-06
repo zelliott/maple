@@ -1,0 +1,7 @@
+
+An important step in zzso the zzso regulatory network of an zzso is to zzso for each zzso factor, all of its DNA binding zzso Several approaches are commonly used in searching for a zzso zzso binding sites, including consensus sequences and zzso scoring zzso In addition, methods that zzso the average number of zzso matches between a putative site and all known sites can be zzso Such basic approaches can all be naturally extended by incorporating zzso zzso zzso and zzso information zzso In this paper, we evaluate the effectiveness of these basic approaches and their extensions in finding binding sites for a zzso factor of interest without erroneously identifying other zzso zzso 
+
+In zzso testing on a zzso of zzso coli zzso factors and their binding sites, we show that there are statistically significant differences in how well various methods identify zzso factor binding zzso The use of zzso information content improves the performance of all basic zzso Furthermore, including local zzso zzso zzso within binding site models results in statistically significant performance improvements for approaches based on zzso zzso Based on our analysis, the best results when searching for DNA binding sites of a particular zzso factor are obtained by methods that incorporate both information content and local zzso zzso 
+
+The software is available at zzso 
+

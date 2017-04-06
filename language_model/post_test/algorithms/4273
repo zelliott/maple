@@ -1,0 +1,7 @@
+
+zzso are commonly taken from two zzso to build a zzso where the number of data points from each class is predetermined, not zzso In this zzso zzso scenario, the data cannot be used to estimate the class prior zzso Moreover, predetermined class sizes can severely degrade zzso performance, even for large zzso 
+
+We employ simulations using both synthetic and real data to show the zzso effect of separate sampling on a variety of zzso zzso We establish zzso related to the effect on the expected zzso error zzso to a sampling ratio different from the population class zzso From these we derive a zzso zzso sampling ratio and provide an zzso for zzso it from the zzso We also extend to arbitrary zzso the classical zzso Anderson linear zzso analysis zzso sampling ratio derived from the zzso form of the zzso zzso 
+
+All the codes for synthetic data and real data examples are written in zzso A function called zzso whose output is an approximation of the zzso sampling ratio of a given zzso is also written in zzso All the codes are available at: zzso 
+

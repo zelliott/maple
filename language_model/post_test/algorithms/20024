@@ -1,0 +1,9 @@
+
+We present a zzso method for linkage analysis of quantitative zzso The method provides a test for linkage as well as an estimate of different zzso zzso We have implemented our new method in the program zzso and evaluated its properties by performing zzso 
+
+The zzso is modeled as a normally distributed zzso with a separate distribution for each zzso zzso estimates are obtained by maximizing the zzso score over the normal distribution parameters with a zzso zzso called zzso zzso 
+
+The zzso method has lower power to detect linkage than the zzso components analysis zzso in case of a normal distribution and small zzso However, it zzso the zzso and zzso zzso for extended zzso zzso zzso data and zzso distributed zzso Here, the higher power even goes along with zzso while the zzso has an inflated type I zzso zzso zzso tends to underestimate residual zzso but performs better for expectation values of the zzso zzso 
+
+With zzso a powerful new tool is provided to explicitly model quantitative zzso in the context of linkage zzso It is freely available at zzso 
+

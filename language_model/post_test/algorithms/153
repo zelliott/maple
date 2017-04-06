@@ -1,0 +1,5 @@
+
+There is a growing interest in improving the cluster analysis of expression data by incorporating into it prior knowledge, such as the Gene zzso zzso zzso of zzso in order to improve the biological relevance of the clusters that are subjected to subsequent zzso The structure of the GO is another source of background knowledge that can be exploited through the use of semantic zzso 
+
+We propose here a novel zzso that zzso semantic similarities zzso from the zzso zzso into the procedure of zzso clusters from the zzso constructed during zzso zzso zzso Our approach can handle the multiple zzso from different levels of the GO zzso which most genes zzso Moreover, it treats zzso and zzso genes in a uniform zzso zzso the clusters obtained by our zzso are characterized by significantly enriched zzso In both zzso tests and when using an external index such as zzso zzso our zzso performs better than previous zzso When applied to human cancer expression data, our zzso zzso among others, clusters of genes related to immune response and zzso zzso These clusters are also supported by zzso interaction zzso 
+

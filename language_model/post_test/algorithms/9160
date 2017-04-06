@@ -1,0 +1,7 @@
+
+zzso protein zzso contacts is an important zzso prediction zzso It is useful for zzso zzso structure prediction and understanding protein zzso In spite of steady progress over the past decade, contact prediction remains still largely zzso 
+
+Here we develop a new contact map predictor zzso that uses support zzso machines to predict zzso and long-range zzso zzso zzso profiles, secondary structure, relative zzso accessibility, contact zzso and other useful zzso On the same test data set, zzso accuracy is zzso higher than the latest version of the zzso contact map zzso zzso recently participated in the seventh edition of the Critical Assessment of zzso for zzso zzso zzso zzso experiment and was evaluated along with seven other contact map zzso zzso was ranked as one of the top zzso yielding the second best coverage and accuracy for contacts with sequence separation zzso or zzso 12 on 13 de zzso zzso 
+
+We describe zzso a new contact map predictor that uses zzso and a large set of zzso zzso zzso yields good performance on zzso to long-range contact predictions and can be zzso incorporated into a structure prediction zzso 
+

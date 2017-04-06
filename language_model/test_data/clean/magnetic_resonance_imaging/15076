@@ -1,0 +1,9 @@
+
+To investigate the impact of an adaptive statistical iterative reconstruction (ASiR) algorithm on diagnostic accuracy and confidence for the diagnosis of hypervascular liver tumours, as well as the reader's perception of image quality, using a low tube voltage (80 kVp), high tube current computed tomography (CT) technique.
+
+Forty patients (29 men, 11 women) with 65 hypervascular liver tumours underwent dual energy CT. The 80 kV set of the dual energy acquisition was reconstructed with standard filtered backprojection (FBP) and ASiR at different blending levels. Lesion contrast-to-noise ratio (CNR), reader's confidence for lesion detection and characterisation, and reader's evaluation of image quality were recorded.
+
+ASiR yielded significantly higher CNR values compared with FBP (P < 0.0001 for all comparisons). Reader's perception of lesion conspicuity and confidence in the diagnosis of malignancy were also higher with 60 % and 80 % ASiR, compared with FBP (P = 0.01 and < 0.001, respectively). Compared with FBP, ASiR yielded nearly significantly lower specificity for lesion detection and a substantial decrease in the reader's perception of image quality.
+
+Compared with the standard FBP algorithm, ASiR significantly improves conspicuity of hypervascular liver lesions. This improvement may come at the cost of decreased specificity and reader's perception of image quality.
+

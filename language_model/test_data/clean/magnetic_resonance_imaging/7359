@@ -1,0 +1,9 @@
+
+To investigate the improvement in dose distribution in tangential breast radiotherapy using a reversible transverse magnetic field that maintains the same direction of Lorentz force between two fields. The investigation has a potential application in future Linac-MR units.
+
+Computed tomography images of four patients and magnetic fields of 0.25-1.5 Tesla (T) were used for Monte Carlo simulation. Two patients had intact breast while the other two had mastectomy. Simulations of planning and chest wall irradiation were similar to the actual clinical process. The direction of superior-inferior magnetic field for the medial treatment beam was reversed for the lateral beam.
+
+For the ipsilateral lung and heart mean doses were reduced by a mean (range) of 45.8% (27.6%-58.6%) and 26.0% (20.2%-38.9%), respectively, depending on various treatment plan setups. The mean V20 for ipsilateral lung was reduced by 55.0% (43.6%-77.3%). In addition acceptable results were shown after simulation of 0.25 T magnetic field demonstrated in dose-volume reductions of the heart, ipsilateral lung, and noninvolved skin.
+
+Applying a reversible magnetic field during breast radiotherapy, not only reduces the dose to the lung and heart but also produces a sharp drop dose volume histogram for planning target volume, because of bending of the path of secondary charged particles toward the chest wall by the Lorentz force. The simulations have shown that use of the magnetic field at 1.5 T is not feasible for clinical applications due to the increase of ipsilateral chest wall skin dose in comparison to the conventional planning while 0.25 T is suitable for all patients due to dose reduction to the chest wall skin.
+

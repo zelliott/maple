@@ -1,0 +1,5 @@
+
+zzso is a software package for computing radiation hybrid zzso maps and for zzso physical and genetic zzso It zzso the central mapping instances by reducing them to the traveling salesman problem zzso and using a modification of the zzso package to solve the zzso zzso We present some of the features added between the initial zzso version zzso and the current version zzso emphasizing the automation of many steps and addition of various checks designed to find problems with the input zzso zzso of improved input data followed by fast zzso of the maps improves the quality of the final zzso 
+
+zzso source code and documentation including a tutorial is available at zzso zzso modified for zzso mapping is available in the directory zzso The zzso library needed for zzso is available at zzso 
+

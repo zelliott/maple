@@ -1,0 +1,5 @@
+
+The zzso zzso zzso format is a generic alignment format for storing read alignments against reference zzso supporting short and long reads (up to 128 zzso produced by different sequencing zzso It is flexible in style, compact in size, efficient in random access and is the format in which alignments from the 1000 zzso Project are zzso zzso zzso various utilities for zzso alignments in the SAM format, such as indexing, zzso zzso and alignment viewer, and thus provides universal tools for processing read zzso 
+
+zzso 
+

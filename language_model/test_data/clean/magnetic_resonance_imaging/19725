@@ -1,0 +1,9 @@
+
+Quantitative markers of Alzheimer disease (AD), particularly in the early stages, are needed for clinical assessment and monitoring. We have evaluated a novel method to segment and visualize the ventricular system and obtain volumetric measures thereof. The temporal horn volume (THV) and index in patients with mild cognitive impairment (MCI) and in those with AD were evaluated.
+
+High-resolution T1-weighted volume imaging was performed in 52 subjects (21 patients with MCI, 10 with AD, and 21 healthy control subjects). An interactive watershed transformation and semiautomated histogram analysis were implemented to produce segmented THV and temporal horn indices (THI) (ratio of THV to lateral ventricular volume).
+
+Cerebral ventricular and temporal horn size could be semiautomatically quantified from all 52 datasets. The method was fast and rater-independent. Qualitative ventricular inspections using surface rendering shading could uncover atrophic process with enlargement of the whole and especially temporal horn volume. Both THV and THI of patients with AD were significantly larger than those of patients with MCI or control subjects (P < .005). There was no significant difference in THV and THI between patients with MCI or control subjects (P > .05). There was a significant correlation between the neuropsychologic performance and both THI and THV across groups (P < .01).
+
+THV and THI could be used as markers of AD in the clinical environment and are expected to be helpful in monitoring therapeutic intervention.
+

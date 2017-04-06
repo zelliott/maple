@@ -1,0 +1,11 @@
+
+Simultaneous integrated boost (SIB) for prostate cancer allows increases in tumor control probability while respecting normal tissue dose constraints. Biological optimization functions that optimize based on treatment outcome can be used to create SIB prostate plans. This study investigates the feasibility of biologically optimized volumetric modulated arc therapy (VMAT) for SIB prostate radiotherapy.
+
+Five prostate cancer patients with diffusion-weighted MR images were selected for analysis. A two-step VMAT optimization was performed, which consisted of an initial biological optimization of a static gantry angle delivery followed by conversion of the static delivery to a single arc VMAT plan. A dosimetric analysis was performed on the resulting plans.
+
+The VMAT plans resulted in a ΔEUD between the prostate and the boost volume of between 15.1 Gy and 20.3 Gy. Rectal volumes receiving 75.6 Gy ranged from 4.5 to 9.9%. Expected rectal normal tissue complication probabilities were between 8.6% and 21.4%. Maximum bladder doses ranged from 73.6 Gy to 75.8 Gy. Estimated treatment time was 120 s or less.
+
+The presented biological optimization method resulted in deliverable VMAT plans that achieved sufficient modulation for SIB without violating rectal and bladder dose constraints.
+
+This study presents a method for creating simultaneous integrated boost VMAT treatments using biological outcome objective functions.
+

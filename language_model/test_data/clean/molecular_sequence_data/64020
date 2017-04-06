@@ -1,0 +1,3 @@
+
+In this chapter, we describe a procedure for identification of efficient hammerhead ribozyme (hRz) cleavage sites in target RNAs. An active hRz library, containing randomized recognition sequences flanked by fixed 5' and 3' regions, is designed to generate enormous diversity. The library is incubated with target RNA at an elevated temperature in the absence of magnesium, and bound library pools are isolated, reamplified, and rebound to target RNA. After two rounds, the active preselected library pool is incubated at 37 degrees C with target RNA in the presence of magnesium, and cleavage products are directly identified on sequencing gels. The protocol identifies highly active hRz, which typically have Kms of 20-80 nM, and kcat/Km values of 10(6).
+

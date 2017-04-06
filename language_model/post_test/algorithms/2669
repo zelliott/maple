@@ -1,0 +1,3 @@
+
+Mostly, zzso zzso use local averaging using a fixed rectangle window to enhance the initial focus zzso In this linear zzso the window size affects the accuracy of the depth zzso A small window is unable to suppress the noise properly, whereas a large window zzso the object zzso Moreover, the use of any window size zzso focus values zzso zzso an erroneous depth map is zzso In this paper, we suggest the use of zzso 3-D zzso zzso diffusion filtering zzso to enhance the image focus zzso In contrast to linear zzso zzso zzso the local structure of the focus values to suppress the noise while preserving zzso The proposed scheme is tested using image sequences of synthetic and real objects, and results have demonstrated its zzso 
+

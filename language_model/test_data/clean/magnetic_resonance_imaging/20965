@@ -1,0 +1,9 @@
+
+Breast density is considered a significant risk factor and an important biomarker influencing the later risk of breast cancer. Prior breast segmentation is required when quantifying breast density with MRI in order to calculate the total breast volume and exclude nonbreast surrounding tissues. This paper describes an automatic 3D breast volume segmentation approach.
+
+The method is based on 3D local edge detection using phase congruency and Poisson surface reconstruction to extract the total breast volume. The boundary localization framework is integrated to a subsequent shape atlas-based segmentation using a Laplacian framework.
+
+The 3D segmentation achieves breast-air and breast-chest wall boundary localization errors with a median of 1.36 mm and 2.68 mm, respectively, and an average volume error of 153.8 cm(3) when tested on 409 MRI datasets. Furthermore, the breast volume assessment technique will produce a 5.3% variability in the estimation of breast density in the tested population.
+
+The fully automated segmentation approach of the breast in MRI allows the computation of total breast volume, a step required for breast density assessment. The use of features invariant to image intensity and a shape atlas to reinforce shape consistency are attractive characteristics of the method. Error analysis demonstrates that 5.3% variability in the estimation of breast density incurred by the method is an acceptable trade-off.
+

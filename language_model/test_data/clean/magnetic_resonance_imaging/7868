@@ -1,0 +1,9 @@
+
+To evaluate the effect of flip angle (FA) on accuracy and within-examination repeatability of hepatic proton-density fat fraction (PDFF) estimation with complex data-based magnetic resonance imaging (MRI).
+
+PDFF was estimated at 3T in 30 subjects using two sets of five MRI sequences with FA from 1° to 5° in each set. One set used 7 msec repetition time and acquired 6 echoes (TR7/E6); the other used 14 msec and acquired 12 echoes (TR14/E12). For each FA in both sets the accuracy of MRI-PDFF was assessed relative to MR spectroscopy (MRS)-PDFF using four regression parameters (slope, intercept, average bias, R(2) ). Each subject had four random sequences repeated; within-examination repeatability of MRI-PDFF for each FA was assessed with intraclass correlation coefficient (ICC). Pairwise comparisons were made using bootstrap-based tests.
+
+Most FAs provided high MRI-PDFF estimation accuracy (intercept range -1.25 to 0.84, slope 0.89-1.06, average bias 0.24-1.65, R(2) 0.85-0.97). Most comparisons of regression parameters between FAs were not significant. Informally, in the TR7/E6 set, FAs of 2° and 3° provided the highest accuracy, while FAs of 1° and 5° provided the lowest. In the TR14/E12 set, accuracy parameters did not differ consistently between FAs. FAs in both sets provided high within-examination repeatability (ICC range 0.981-0.998).
+
+MRI-PDFF was repeatable and, for most FAs, accurate in both sequence sets. In the TR7/E6 sequence set, FAs of 2° and 3° informally provided the highest accuracy. In the TR14/E12 sequence set, all FAs provided similar accuracy.
+

@@ -1,0 +1,7 @@
+
+zzso available for the zzso of genetic regulatory networks strive to produce a single network, usually by zzso some quantity to fit the experimental zzso In this article we investigate the possibility that multiple networks can be zzso all resulting in similar zzso This idea is motivated by theoretical work which suggests that biological networks are robust and adaptable to change, and that the overall behavior of a genetic regulatory network might be captured in terms of zzso zzso of zzso 
+
+We have developed and implemented a method for zzso genetic regulatory networks for time series zzso zzso Our method first clusters and zzso the gene expression data using zzso and support zzso zzso We then zzso zzso zzso networks to match the zzso zzso Finally, the dynamics of the zzso networks are zzso We have tested our method on two zzso zzso zzso an zzso T cell response zzso and a zzso zzso response zzso In both cases, we discovered that many networks matched the data, and that most of these networks had similar zzso 
+
+zzso data are available at zzso zzso 
+

@@ -1,0 +1,7 @@
+
+Studies of efficient and sensitive sequence comparison methods are driven by a need to find zzso regions of weak similarity between large zzso 
+
+We describe an improved method for finding similar regions between two sets of DNA zzso The new method zzso existing methods by locating word matches between sequences under two or more word models and extending word matches into zzso segment pairs zzso The method is implemented as a computer program named zzso Experimental results show that zzso can find more zzso by using several word models than by using one word zzso 
+
+The zzso program is freely available for academic use in zzso code form at zzso and in source code form from the corresponding zzso 
+

@@ -1,0 +1,3 @@
+
+MR-encephalography is a technique that allows real-time observation of functional changes in the brain with a time-resolution of 100 ms. The high sampling rate is enabled by the use of undersampled image acquisition with regularized reconstruction. The article describes a novel imaging method for fast three-dimensional-MR-encephalography whole brain coverage based on undersampled, single-shot concentric shells trajectories and the use of multiple small receiver coils. The technique allows the observation of changes in blood oxygenation level dependent signal as a measure of brain physiology at very high temporal resolution.
+

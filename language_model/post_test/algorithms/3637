@@ -1,0 +1,7 @@
+
+With many transgenic proteins introduced today, the ability to predict their potential zzso has become an important zzso Previous studies were based on either sequence similarity or the protein motifs identified from known zzso zzso The zzso approaches, although being able to produce high zzso usually have low prediction zzso Previous zzso approaches have been shown to be able to improve the zzso on zzso zzso In this study, a system that combines the advantages of zzso and zzso prediction is zzso 
+
+The new prediction system uses a zzso zzso that groups the known zzso proteins into zzso zzso within each cluster are assumed to carry one or more common zzso After a multiple sequence zzso proteins in each cluster go through a zzso analysis program zzso zzso motifs will be zzso A hidden zzso model zzso profile will then be prepared for each identified zzso The zzso that do not appear to carry zzso zzso motifs will be saved in a small zzso The zzso of an unknown protein may be predicted by comparing it against the zzso profiles, and, if no matching profiles are found, against the small zzso database by zzso Over zzso of recall and over zzso of precision were observed using zzso zzso Using the entire zzso as the zzso we predicted about 2000 potential zzso 
+
+The software is available upon request from the zzso 
+

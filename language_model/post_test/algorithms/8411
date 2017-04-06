@@ -1,0 +1,3 @@
+
+An important problem addressed using zzso zzso data is the detection of genes zzso expressed in two zzso of zzso Currently used approaches ignore the zzso structure of the zzso However it is well known that correlation among zzso can enhance the ability to detect less pronounced zzso We use the zzso distance between zzso of gene expressions as a criterion for simultaneously comparing a set of genes and develop an zzso for maximizing zzso To overcome the problem of instability of zzso zzso we propose a new method of combining data from small-scale random search zzso We show that by utilizing the correlation structure the zzso method, in addition to the genes found by the one-dimensional criteria, finds genes whose differential expression is not zzso zzso 
+

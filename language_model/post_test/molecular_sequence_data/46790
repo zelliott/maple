@@ -1,0 +1,7 @@
+
+zzso of gene structure in newly zzso DNA becomes very important in large zzso sequencing zzso This problem is complicated due to the zzso structure of zzso genes and because gene expression is regulated by many different short zzso zzso In order to be able to zzso the full gene structure in different organisms, it is necessary to combine information about potential functional signals zzso region, zzso sites, start and stop zzso 3' untranslated zzso together with the statistical properties of coding sequences zzso zzso information about zzso zzso zzso and repeated zzso 
+
+We have developed the zzso system which is based on prediction of functional signals and coding regions by different approaches in combination with similarity searches in proteins and zzso zzso The potential gene structure models are obtained by using a dynamic programming zzso The program permits the use of several parameters for gene structure prediction and zzso During gene model construction, selecting different zzso zzso levels with a protein sequence selected from a list of zzso proteins can improve the accuracy of the gene structure zzso In the case of low zzso zzso is still able to predict the gene zzso The zzso system has been tested by using the standard set zzso and zzso zzso 34, zzso zzso and the performances are: zzso sensitivity and zzso specificity at the zzso zzso The total correlation zzso is zzso 
+
+The zzso system is implemented as a part of the zzso a the zzso zzso zzso and zzso zzso Database and Analysis zzso launcher zzso zzso 
+

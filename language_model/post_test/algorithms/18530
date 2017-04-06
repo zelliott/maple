@@ -1,0 +1,7 @@
+
+The zzso of a gene is largely determined by short sequence motifs that serve as binding sites for zzso zzso Recent findings suggest direct relationships between the motifs and gene expression zzso In this work, we present a method for identifying regulatory zzso Our method makes use of zzso techniques for recovering the relationships between motifs and gene expression zzso 
+
+We treat regulatory motifs and gene expression levels as predictor variables and responses, respectively, and use a zzso tree model to identify the structural relationships between zzso The zzso tree methodology is extended to handle responses from multiple experiments by zzso the split zzso The significance of regulatory elements is determined by analyzing tree structures and using a variable importance zzso When applied to two data sets of the zzso zzso zzso the method successfully identifies most of the regulatory motifs that are known to control gene zzso under the given experimental conditions, and suggests several new putative zzso Analysis of the tree structures also zzso several pairs of motifs that are known to regulate gene zzso in zzso 
+
+zzso 
+

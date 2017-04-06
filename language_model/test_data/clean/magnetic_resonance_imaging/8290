@@ -1,0 +1,9 @@
+
+Validation of a new fast software technique to segment the cartilage on knee magnetic resonance (MR) acquisitions. Large studies of knee osteoarthritis (OA) will require fast and reproducible methods to quantify cartilage changes for knee MR data. In this report we document and measure the reproducibility and reader time of a software-based technique to quantify the volume and thickness of articular cartilage on knee MR images.
+
+The software was tested on a set of duplicate sagittal three-dimensional (3D) dual echo steady state (DESS) acquisitions from 15 (8 OA, 7 normal) subjects. The repositioning, inter-reader, and intra-reader reproducibility of the cartilage volume (VC) and thickness (ThC) were measured independently as well as the reader time for each cartilage plate. The root-mean square coefficient of variation (RMSCoV) was used as metric to quantify the reproducibility of VC and mean ThC.
+
+The repositioning RMSCoV was as follows: VC=2.0% and ThC=1.2% (femur), VC=2.9% and ThC=1.6% (medial tibial plateau), VC=5.5% and ThC=2.4% (lateral tibial plateau), and VC=4.6% and ThC=2.3% (patella). RMSCoV values were higher for the inter-reader reproducibility (VC: 2.5-8.6%) (ThC: 1.9-5.2%) and lower for the intra-reader reproducibility (VC: 1.6-2.5%) (ThC: 1.2-1.9%). The method required an average of 75.4min per knee.
+
+We have documented a fast reproducible semi-automated software method to segment articular cartilage on knee MR acquisitions.
+

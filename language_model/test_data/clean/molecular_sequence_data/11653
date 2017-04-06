@@ -1,0 +1,3 @@
+
+We present a computer-aided approach for identifying and aligning consensus secondary structure within a set of functionally related oligonucleotide sequences aligned by sequence. The method relies on visualization of secondary structure using a generalization of the dot matrix representation appropriate for consensus sequence data sets. An interactive computer program implementing such a visualization of consensus structure has been developed. The program allows for alignment editing, data and display filtering and various modes of base pair representation, including co-variation. The utility of this approach is demonstrated with four sample data sets derived from in vitro selection experiments and one data set comprising tRNA sequences.
+

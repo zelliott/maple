@@ -1,0 +1,7 @@
+
+The structural zzso centers provide hundreds of protein structures of unknown zzso zzso developing methods enabling the determination of a protein function automatically is zzso The determination of a protein function can be achieved by studying the network of its physical zzso In this context, identifying a potential binding site between proteins is of primary zzso In the literature, methods for predicting a potential binding site location generally are based on zzso zzso The aim of this paper is to show that zzso tools are more efficient than zzso tools for patches based binding site zzso For this purpose, we developed a patches based binding site zzso method usable with either zzso or zzso zzso 
+
+We compared zzso performances of zzso tools with performances of machine learning zzso Using zzso zzso we showed that zzso tools provide better predictions than zzso zzso Among zzso tools, zzso zzso ranked highest in the quality of zzso We compared also the zzso performance of our patches based method using zzso zzso with the performance of three other methods usable through a web zzso Our method performed similarly to the other zzso 
+
+zzso is more efficient than zzso when applied to our binding site zzso zzso When it is possible, using zzso instead of zzso for other existing binding site zzso will probably improve zzso Furthermore, the method presented in this work is flexible because the size of the predicted binding site is zzso This zzso is useful when either false positive or negative rates have to be zzso 
+

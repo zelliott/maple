@@ -1,0 +1,5 @@
+
+We propose a statistical model for zzso gene expression using data from multiple laser scans at different settings of zzso zzso A functional zzso model is used, based on a zzso relationship with both additive and zzso error zzso The function is derived as the expected value of a zzso given that values are censored at 65 zzso the maximum zzso intensity for double precision scanning zzso zzso likelihood zzso based on a zzso distribution is used to fit the model, which is able to estimate gene expressions taking account of zzso and the systematic bias caused by signal zzso of highly expressed zzso We have applied the method to experimental zzso zzso studies suggest that the model can estimate the true gene expression with negligible zzso 
+
+zzso 90 code for implementing the method can be obtained from the zzso 
+

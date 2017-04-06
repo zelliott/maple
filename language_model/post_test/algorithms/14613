@@ -1,0 +1,3 @@
+
+We present a novel approach to direct and control virtual crowds using navigation zzso Our method guides one or more agents toward desired goals based on guidance zzso The system allows the user to specify these fields by either zzso paths directly in the scene via an intuitive zzso interface or by importing motion flow fields extracted from crowd video zzso We propose a novel zzso to blend input guidance fields to create zzso zzso navigation zzso Our method can be easily combined with the most current local collision avoidance methods and we use two such methods as examples to highlight the potential of our zzso We illustrate its performance on several simulation zzso 
+

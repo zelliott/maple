@@ -1,0 +1,443 @@
+# fe_03_03640.sph
+# Transcribed by BBN/WordWave
+
+0.40 3.37 B: um hi this is will 
+
+0.46 1.93 A: i'm ari 
+
+2.55 4.18 A: hi will my name is ari 
+
+4.60 7.00 B: uh hi um 
+
+6.07 6.86 A: (( how're you )) 
+
+7.61 9.06 B: (( [noise] what )) 
+
+8.50 9.25 A: hi 
+
+9.59 12.65 B: sorry was the topic was if we're affected by it 
+
+12.77 16.25 A: i think it was whether we think it's sufficient no i don't remember 
+
+16.22 17.51 B: uh 
+
+17.14 21.80 A: we could answer both eh ten we have ten minutes so [laughter] 
+
+19.93 21.33 B: yeah um 
+
+21.46 25.72 B: yeah i think uh from [laughter] from what to five fifteen 
+
+26.59 31.37 A: i i don't think he just said it went to five fifteen which i thought i think it's higher than that now actually 
+
+28.94 29.74 B: (( oh )) 
+
+30.58 40.52 B: well it depends on where you are i know that in like fresno it's uh or in parts of california it's i think eight dollars eight fifty or something like that yeah 
+
+32.41 33.15 A: right 
+
+38.95 45.57 A: real- and i is seven dollars but i i think texas is like two dollars so i think but i if federal government supersedes 
+
+46.01 47.27 A: the state 
+
+46.95 48.64 B: okay um 
+
+49.10 59.07 B: so whether or not it's sufficient uh i mean there's all sorts of issues there with uh minimum wage laws i mean they say if i mean ac- actually no i remember [noise] the question in california there's this uh 
+
+58.87 67.91 B: [noise] in san francisco like a the minimum wage was raised to eight fifty or something and uh i mean but one of the huge effects was that a lot of the 
+
+63.21 64.07 A: really 
+
+67.84 75.97 B: neighboring well lot of the industry in san francisco just outsourced a lot of um jobs to neighboring areas 
+
+75.86 84.86 B: which is i mean really bad for san francisco because they did lose a lot of their high paying jobs in like the recent dot com bust so that is something that i mean it's you know 
+
+85.19 88.58 B: [noise] hard to say if it's good or bad but um 
+
+87.21 92.18 A: yeah well it's probably good for me if i'm gonna be moving out there soon so housing prices probably have come down [laughter] 
+
+92.02 100.14 B: yeah that's true um yeah actually sorry my friend just bought an apartment there and yeah says it's definitely good timing right now 
+
+94.47 95.32 A: yeah i mean 
+
+100.22 113.03 A: really uh that's good to know yeah i mean you know i think you're talking five fifteen on a nationwide level i mean it might be appropriate in some place like iowa or somewhere like that but you know in a large metropolitan area do you figure if somebody works forty hours a week at five fifteen 
+
+101.02 101.77 B: (( yeah )) 
+
+110.20 110.90 B: (( [noise] )) 
+
+110.93 113.27 B: (( [noise] [noise] [noise] )) 
+
+113.24 116.78 A: is making about two hundred and twenty dollars a week 
+
+115.62 117.79 B: (( mhm mhm [noise] )) 
+
+117.04 119.41 A: (( i mean it's really not you know )) 
+
+118.55 119.52 B: (( yeah [noise] )) 
+
+119.81 122.25 A: i don't pay rent in san francisco 
+
+121.69 123.52 B: [noise] no i don't think so 
+
+122.52 124.40 A: for ha- for half a month you know 
+
+124.49 127.69 A: from that regard it's probably little bit too low 
+
+124.52 125.30 B: (( [noise] nope [noise] )) 
+
+127.80 128.62 B: (( uh-huh )) 
+
+129.10 130.28 B: but i mean 
+
+129.24 131.47 A: but at the same time there's the jobs 
+
+131.22 132.21 B: yeah [noise] 
+
+132.94 134.11 B: 'cause i mean some peop- 
+
+133.98 139.21 B: uh i mean there's also the question of you know sufficient for who you know like some people 
+
+139.18 150.84 B: you know work a job supplement a- another income well i mean not necessarily for that but i mean like part i'm thinking of you know students who work part time and stuff like that things like that so it's hard to say 
+
+147.52 148.67 A: right 
+
+151.23 152.35 B: um 
+
+151.78 155.62 A: yeah i mean also maybe the market doesn't really you know maybe they're doing 
+
+155.94 159.46 A: french fry making at mcdonald's and that's really wh- all the market's willing to pay 
+
+156.08 157.10 B: mhm 
+
+159.17 160.98 B: (( [noise] yeah )) 
+
+160.38 162.35 A: in that regard it's sorta interesting 
+
+162.48 165.80 A: quandary as to whether it's really appropriate for them 
+
+165.21 166.81 B: (( mhm mhm )) 
+
+167.17 168.72 B: (( [lipsmack] um [lipsmack] )) 
+
+169.94 171.09 B: what else 
+
+172.70 177.40 A: [laughter] i don't know i mean it's a lot of time to talk about a very narrow topic 
+
+176.94 178.65 B: yeah 
+
+177.90 179.51 A: which is sort of itching 
+
+179.97 186.43 A: but i i i found out the actual reason why they're doing this [noise] it's for um speech recognition soft- software is what they're trying to figure out 
+
+180.01 180.95 B: (( mm )) 
+
+186.40 188.74 B: oh yeah i really [noise] 
+
+187.09 188.38 A: or speech patter 
+
+189.05 197.06 B: yeah i was wondering about that in the 'cause like the last guy i did one before and the guy like had a really accent so i'd be curious about that 
+
+190.98 191.69 A: (( [noise] )) 
+
+197.77 203.38 A: yeah and th- it's the actual users behind it i actually called and a girl started talking to me for like twenty minutes 
+
+203.52 216.93 A: and she was tell me the girl who who answered the phone when i called to ask a question kept talking for like twenty minutes and she was like rec- they're trying to develop speech recognition software patterns and things like that and understand sort of you know how to better do that 
+
+203.68 204.48 B: huh 
+
+208.62 210.51 B: (( oh yeah [noise] )) 
+
+216.41 219.41 B: well we're probably messing it up then [laughter] 
+
+218.61 222.12 A: no i mean i think we're just talking i think it's more their trying to 
+
+220.67 226.60 B: oh oh okay i thought it meant it would try to l- locate the topic you know based upon what people said [noise] oh 
+
+225.52 230.14 A: no i think it's more just like i'm getting like the software to like recognize human voice better 
+
+230.39 233.14 B: oh and that's fine i don't feel bad then [laughter] 
+
+232.38 235.69 A: no [laughter] which is sorta interesting 
+
+233.19 234.84 B: um [noise] 
+
+235.57 237.34 B: yeah uh 
+
+236.41 239.66 A: i mean it is it's a really narrow topic 
+
+239.58 241.33 B: yeah um 
+
+241.98 244.53 B: but i did one before and it was on uh 
+
+246.58 248.74 B: [lipsmack] uh it was on um 
+
+249.42 251.38 B: like life partners or something hello 
+
+251.31 252.53 A: yep 
+
+252.36 257.18 B: okay i couldn't hear some- so i thought that you got cut off it's a pretty good deal though 
+
+254.19 254.87 A: (( oh )) 
+
+255.65 256.43 A: (( no )) 
+
+257.35 260.64 A: (( yeah no it is life partners yeah i did one the other day that was on pets )) 
+
+260.83 262.00 B: oh that's pretty good 
+
+260.94 266.30 A: which was thrilling yeah w- the woman i was talking to had like eight birds and a cat 
+
+262.71 263.96 B: yeah 
+
+266.96 268.71 B: okay [laughter] 
+
+267.27 275.31 A: [laughter] i was like oh that's very fitting she was telling me how she lets her birds out and stuff like that i was like well it's thrilling stuff 
+
+269.39 270.13 B: yeah 
+
+272.16 274.00 B: (( mhm )) 
+
+275.60 282.27 A: yeah no they're actually not bad i mean minimum wage let's see what else yeah it really has never affected me i mean 
+
+275.66 276.70 B: yep yep 
+
+281.58 283.41 B: it's a i guess it's interesting 
+
+283.43 288.78 B: here because i mean [laughter] these uh speech things we're making way more than that 
+
+288.50 292.00 A: [laughter] that's actually an interesting point 
+
+288.93 291.24 B: [laughter] i mean this is to 
+
+291.45 294.27 B: me that's a viable job market thing 
+
+293.89 297.53 A: yeah no i mean it's a shame you can only do three of these otherwise you know sign me up for 
+
+296.20 297.53 B: (( yeah )) 
+
+297.54 298.87 A: every day you know 
+
+298.32 300.24 B: yeah i know you'd be making what 
+
+299.31 304.22 A: you'd be enough well they said they use twelve thousand people or more by the end of the summer 
+
+304.50 305.34 B: (( oh yeah )) 
+
+305.23 307.77 A: (( yeah i )) 
+
+306.22 312.82 B: and i i saw posted something new like more male voices or something that i guess they had a lot of female voices already maybe 
+
+312.14 315.05 A: yes she said that they needed more mostly males now 
+
+315.05 316.27 B: (( yeah [lipsmack] )) 
+
+316.01 317.35 A: which is sorta interesting 
+
+316.30 317.30 B: cool 
+
+317.47 318.33 B: (( mhm )) 
+
+317.79 320.28 A: yeah no it works how did you hear about this stuff 
+
+320.34 329.21 B: uh there's a message board online at wallet dot com they do all they they list all sorts of like deals and like uh you know any sort of thing like this so 
+
+329.02 334.07 A: yeah no i've heard of it yeah a friend told me he saw it on craig list so i checked it out 
+
+329.31 330.39 B: that's cool 
+
+333.80 336.54 B: mm okay wa- so where are you where do you live 
+
+336.50 337.61 A: right near boston 
+
+337.64 341.03 B: oh okay i thought craig hills was bay area 
+
+340.60 345.26 A: i think it is he answers on to craig list d. c. but i i think 
+
+343.81 351.31 B: oh i didn't realize i didn't realize they other place 'cause i'm in new york right now but there's this uh craigs list for um 
+
+351.85 352.41 B: (( [lipsmack] )) 
+
+352.77 356.69 B: there's this craigs list for san francisco that like i know most of my friends use so 
+
+356.59 361.11 A: right now i think that that was the first one and i think it's expanded out to other cities also 
+
+361.05 361.97 B: oh 
+
+362.18 369.63 A: which is interesting but h- he saw it posted there and he asked me whether he whether i thought it was legit and i'm like well you know i'll try and find out [noise] 
+
+369.25 372.02 B: well the reason why i i mean 'cause there's there 
+
+371.88 386.54 B: must be all the time it's just like you know people post like if there's you know usually like online deals and stuff like that but they also post like things like this and like you know most of the people there you know had said they'd done it before and i figured they couldn't all be you know [laughter] on the toke so i figured anyone else 
+
+382.33 383.09 A: yeah 
+
+386.72 389.82 A: hey even if it is you know it's thirty minutes of your time 
+
+389.53 391.16 B: (( yeah yeah )) 
+
+390.49 392.25 A: so which is really not that 
+
+392.14 393.43 B: mhm 
+
+392.70 394.41 A: significant especially 
+
+394.45 395.85 B: (( yep yep yep )) 
+
+394.70 405.93 A: i i got hit with it 'cause i i check all the times said i was available and so of course they call me the next day like at two o'clock p._m. which is the first time on the list and i was just like okay whatever and then 
+
+405.85 410.21 A: i was on i'm using my cell phone used like fifteen minutes of my minutes talking to this woman in 
+
+409.74 412.93 B: [noise] oh i didn't think about that yeah well actually though 
+
+413.17 417.22 B: for me after uh i think seven o'clock it's uh it's free 
+
+417.41 418.32 A: really 
+
+417.54 419.79 B: or maybe maybe after i don't know 
+
+419.89 424.96 B: so i didn't even think about that when i signed up for this luckily i did my last call on a landline but 
+
+424.41 425.32 A: oh okay 
+
+425.84 427.77 A: (( yeah and it was )) 
+
+425.90 426.80 B: so 
+
+426.90 428.20 B: what do you do in boston 
+
+428.42 429.33 A: i'm sorry 
+
+429.13 430.75 B: what are you doing in boston 
+
+430.28 431.61 A: i'm actually studying 
+
+432.35 433.37 B: (( oh yeah )) 
+
+432.40 434.36 A: here so at b. u. 
+
+434.52 437.73 B: oh that's cool uh i've well whatever [laughter] 
+
+437.77 442.54 B: uh i have a cousin that went there but [laughter] yep yeah 
+
+440.38 441.17 A: really 
+
+442.75 444.21 B: and uh 
+
+444.28 447.01 B: [laughter] yep 
+
+447.06 449.55 A: and or do you live in san francisco 
+
+448.53 451.10 B: new york no i live in new york 
+
+450.56 451.77 A: oh you do okay 
+
+451.31 453.74 B: i have family and friends in san francisco though 
+
+453.96 454.83 A: ah 
+
+455.00 455.91 B: (( mhm )) 
+
+455.04 456.58 A: were you originally from out there 
+
+456.66 458.79 B: yeah yeah from sacramento actually 
+
+459.68 461.38 A: (( yeah that's pretty exciting )) 
+
+459.85 460.68 B: (( so )) 
+
+461.56 463.27 A: how long you been on the east coast for 
+
+463.41 467.89 B: uh well i went to college in uh columbia and then 
+
+467.95 471.75 B: uh actually before that i went to private school in new hampshire 
+
+470.70 471.49 A: mhm 
+
+472.03 476.17 B: and um then now i'm working here 
+
+472.06 472.75 A: (( yep )) 
+
+476.07 476.95 A: mhm 
+
+476.31 478.68 B: (( and then [noise] [lipsmack] )) 
+
+478.72 480.46 B: (( um )) 
+
+479.09 480.60 A: man- manhattan 
+
+480.64 485.02 B: yeah yeah and so that's pretty much it 
+
+484.89 485.90 A: well that's 
+
+485.93 489.35 A: exciting do you like it better out here than out west 
+
+489.80 491.21 B: um 
+
+491.49 495.20 B: [lipsmack] yeah i'd say so i think at some point i wouldn't wanna go back though [noise] 
+
+496.54 498.38 A: (( it's interesting see i )) 
+
+498.45 507.48 A: really spent that much time out west but you know i'm sorta like um i don't really know if i wanna stay out there [laughter] or come back east so i guess it's different perceptions based on your upbringing things like that 
+
+504.49 505.30 B: yeah 
+
+506.60 508.49 B: yeah yeah definitely 
+
+510.23 512.44 B: [sigh] i mean i have a lot of friends out there so 
+
+512.52 514.72 A: (( yeah no that would mean a lot )) 
+
+516.03 517.44 A: through our ten minutes 
+
+517.66 520.57 A: are they i wished they'd pick like topics you could talk more about 
+
+520.31 521.49 B: (( what did you say )) 
+
+521.05 523.78 A: i wish they'd pick topics you could talk more about 
+
+523.07 536.32 B: yeah yeah the last topic i was on also kind of ended up like this [laughter] uh yeah well it was about like what you look for in like they picking a life partner and there's kinda just like uh yeah that's 
+
+527.10 528.15 A: oh did 
+
+528.43 529.24 A: (( it who )) 
+
+534.48 536.11 A: were you paired with like 
+
+536.46 538.10 B: uh so it was like this 
+
+538.07 547.50 B: like i said it's this guy with this really thick accent [laughter] i couldn't understand him so i mean i could kind of understand but i'm it was i mean i it wasn't h- that hard to understand but i don't think he 
+
+547.40 555.58 B: i don't know it's like we there's a lot of like confusion over language and stuff like that so that was most of the conversation actually [laughter] 
+
+554.83 564.28 A: yeah i i mean imag- um the one i had on pets you know the woman was like eighty seven years old i can imagine having that kind of conversation with her she's like somebody that's gonna be alive for the next five years 
+
+561.26 562.13 B: (( yeah )) 
+
+563.45 565.42 B: (( yep hm )) 
+
+564.30 578.52 A: [laughter] something like that if she fortunately kept talking about pets i was not even listening to her actually for a while she was talking about her birds and how she feeds them and things like that and what what they eat and i was just like okay i kept i was like okay how much longer i have to listen to someone talk about birds 
+
+566.14 566.97 B: yeah 
+
+570.62 571.74 B: (( mm )) 
+
+572.30 573.53 B: [laughter] 
+
+574.99 576.31 B: (( yeah mm )) 
+
+578.79 579.85 B: yep 
+
+580.06 589.70 A: [laughter] it was i didn't know somebody could talk that much about birds she goes to bird shoes she travels to bird conventions now and stuff like that i think well like it sounds like an interesting life 
+
+583.65 584.37 B: (( mm )) 
+
+590.03 595.43 B: [lipsmack] [lipsmack] yep yep so uh [laughter] did you see x. two 
+
+592.84 593.91 A: [laughter] 
+
+595.59 597.19 A: (( uh no not yet )) 
+
+596.64 599.95 B: uh you have to see it it's really good [laughter] uh 
+
+598.15 599.09 A: is it 
+

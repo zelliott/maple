@@ -1,0 +1,3 @@
+
+An automatic segmentation method has been developed for cardiovascular multimodality imaging. A "snake" model based on a curve shaping and an energy-minimizing process is used to detect blood-wall interfaces on Cine-CT, MRI and ultrasound images. Deformation of a reduced set of contour points was made according to a discretized global, regional and local minimum energy criterion. A continuous regional optimization process was also integrated into the deformation model, it takes into account a cubic spline interpolation and adaptive regularity constraints. The constraints provided rapid convergence toward a final contour position by successively stopping spline segments.
+

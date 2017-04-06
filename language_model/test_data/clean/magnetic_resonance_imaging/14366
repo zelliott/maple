@@ -1,0 +1,3 @@
+
+In the past, flow artifacts and inconsistent depiction of vascular anatomy have represented significant problems in clinical MRI. These difficulties are now generally well addressed by the techniques of gradient moment nulling and spatial presaturation. Gradient moment nulling (GMN) is an effective method for eliminating flow artifacts in gradient echo images, while presaturation is more applicable to the same task in spin echo acquisitions. The GMN technique also has useful applications in spin echo imaging such as combating the effects of tissue and CSF motion in long TE sequences. In contrast to presaturation, however, GMN is not suitable for suppressing artifacts due to pulsatile blood flow in spin echo images.
+

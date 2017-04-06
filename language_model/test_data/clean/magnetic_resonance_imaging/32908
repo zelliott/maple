@@ -1,0 +1,9 @@
+
+The aim of this overview study is to translate the technical terminology regarding structural Magnetic Resonance Imaging (sMRI) post-processing analysis into a clinical clear description.
+
+We resumed and explained the most popular post-processing methods for structural MRI (sMRI) data applied in psychiatry and their main contributions to the comprehension of the biological basis of schizophrenia.
+
+The region-of-interest (ROI) technique allows to investigate specific brain region size by manual tracing; it is anatomically precise and requires a priori hypothesis, but also it is time-consuming and operator-dependent. The voxel-based morphometry (VBM) detects gray matter density across the whole brain by comparing voxel to voxel; it is operator-independent, does not require a priori hypothesis, and is relatively fast; however, it is limited by multiple comparisons and poor anatomical definition. Finally, computational neuroanatomical analyses have recently been applied to automatically discriminate subjects with schizophrenia from healthy subjects on the basis of MRI images.
+
+Structural MRI represents a useful tool in understanding the biological underpinnings of schizophrenia and in planning focused interventions, thus assisting clinicians especially in the early phases of the illness.
+

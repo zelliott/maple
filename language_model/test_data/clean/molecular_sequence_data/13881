@@ -1,0 +1,3 @@
+
+A new method is described for identifying short regions of sequence similarity in a group of selected sequences. These regions have been used for the design of both specific and degenerate PCR primers for the detection of groups of plant viruses, but the method has wider applications. The method is an extension of the GCG programs COMPARE and DOTPLOT, so the name "dot primers" is suggested as a generic term for primers designed in this way. The method described is more direct and more efficient than current methods that use sequence alignment algorithms.
+

@@ -1,0 +1,5 @@
+
+We propose a zzso method for the problem of multiple hypothesis testing that is routinely encountered in zzso research, such as the differential gene expression zzso Our zzso is based on modeling the zzso of test statistics under both zzso and alternative zzso We substantially reduce the complexity of the process of defining zzso model probabilities by modeling the test statistics directly instead of modeling the full zzso zzso we apply a zzso zzso approach to control the number of rejections of zzso zzso To check if our model assumptions for the test statistics are valid for various zzso experiments, we also propose a simple zzso zzso zzso 
+
+Using extensive simulations, we demonstrate the performance of our models and the utility of the zzso zzso In the end, we apply the proposed methodology to an zzso screening and a gene expression zzso 
+

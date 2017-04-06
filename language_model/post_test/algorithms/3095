@@ -1,0 +1,7 @@
+
+With the growing availability of zzso articles online, scientists and other consumers of the life sciences literature now have the ability to go beyond searching zzso records zzso abstract, zzso to directly access zzso zzso zzso by this emerging trend, I posed the following question: is searching full text more effective than searching zzso This question is answered by comparing text retrieval zzso on zzso zzso zzso articles, and spans zzso within zzso articles using data from the zzso 2007 zzso track zzso Two retrieval models are zzso zzso and the ranking zzso implemented in the zzso zzso search zzso 
+
+zzso show that treating an entire article as an indexing unit does not consistently yield higher effectiveness compared to zzso zzso However, retrieval based on zzso or zzso segments of zzso articles, consistently zzso zzso zzso zzso suggest that highest overall effectiveness may be achieved by combining evidence from spans and full zzso 
+
+Users searching full text are more likely to find relevant articles than searching only zzso This finding affirms the value of full text collections for text retrieval and provides a starting point for future work in exploring zzso that take advantage of zzso digital zzso Experimental results also highlight the need to develop distributed text retrieval zzso since zzso articles are significantly longer than abstracts and may require the zzso resources of multiple machines in a zzso The zzso programming model provides a convenient framework for organizing such zzso 
+

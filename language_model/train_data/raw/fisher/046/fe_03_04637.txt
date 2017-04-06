@@ -1,0 +1,463 @@
+# fe_03_04637.sph
+# Transcribed by BBN/WordWave
+
+0.19 1.33 A: hello 
+
+0.99 3.04 B: hi this is christie 
+
+3.03 4.33 A: hi this is brian 
+
+4.05 5.10 B: hello 
+
+5.11 6.08 B: how are you 
+
+5.97 7.21 A: (( pretty good i yeah um i sometimes )) 
+
+6.77 7.84 B: good 
+
+8.38 10.10 B: okay do you want to start 
+
+9.90 23.41 A: ((  )) 
+
+11.64 12.41 B: okay 
+
+22.92 23.79 B: (( mhm )) 
+
+23.38 32.54 A: ((  )) 
+
+26.64 27.60 B: uh-huh 
+
+31.99 32.96 B: uh-huh 
+
+33.49 36.36 B: (( well sometimes i do but )) 
+
+35.94 44.92 A: ((  )) 
+
+45.30 46.40 A: (( the computer )) 
+
+47.83 50.72 A: (( not playing games oh mhm yeah yeah )) 
+
+52.18 59.15 A: ((  )) 
+
+58.78 64.14 B: (( i was actually in a phase where i really liked this game um called rainbow six )) 
+
+64.59 66.57 B: (( it's like a uh it's like )) 
+
+66.87 71.94 B: (( a [mn] where )) 
+
+71.82 73.48 A: (( huh are you on )) 
+
+73.04 73.93 B: (( you )) 
+
+74.33 75.18 B: (( play )) 
+
+77.04 78.47 A: (( the computer )) 
+
+77.90 82.59 B: (( strategy and everything like that )) 
+
+83.48 84.48 B: but 
+
+84.56 86.07 B: (( other times i )) 
+
+86.96 87.64 B: (( just )) 
+
+87.71 91.04 B: (( like to play little games like )) 
+
+89.96 91.27 A: (( a lot mhm yeah )) 
+
+91.64 94.51 B: (( online and everything )) 
+
+95.90 97.87 B: like solitaire and stuff 
+
+98.19 102.89 B: (( like that how about yourself oh i've never heard of that one excellent oh [laughter] )) 
+
+102.76 104.45 A: ((  )) 
+
+103.25 107.95 B: (( uh i see [laughter] yeah i don't like to like gamble i like well unless it's unless they give you like )) 
+
+108.14 110.25 A: (( kind of a life )) 
+
+110.19 111.19 B: (( fake money )) 
+
+111.28 112.55 B: or whatever [laughter] 
+
+112.72 116.94 B: (( yeah i am in in chester new jersey and you michigan )) 
+
+117.15 118.18 B: (( uh )) 
+
+118.28 124.66 B: ((  )) 
+
+124.74 127.72 A: (( [laughter] yeah are you at college you )) 
+
+127.93 131.33 A: (( said mhm uh-huh uh-huh and do you do like the computer stuff at home too or is it )) 
+
+130.83 132.71 B: (( rom because i got it for like three )) 
+
+132.74 137.37 B: (( dollars [laughter] so and i was like you )) 
+
+132.94 133.93 A: (( just at )) 
+
+137.71 140.54 A: (( college mhm yeah exactly yeah but that's my i'm usually )) 
+
+139.97 141.49 B: (( know what i )) 
+
+141.42 142.62 A: (( working on here and for some )) 
+
+142.22 143.27 B: (( might )) 
+
+143.25 144.36 A: (( reason there's always )) 
+
+143.97 145.32 B: (( as )) 
+
+145.33 147.02 A: (( that little one little spot i'm like oh can )) 
+
+146.80 149.16 B: (( well just try it and )) 
+
+149.82 151.54 B: (( i got hooked on it )) 
+
+151.91 153.00 A: i 
+
+152.74 154.33 B: (( yeah )) 
+
+154.53 159.11 B: (( but most of the time i do play like games )) 
+
+159.83 165.32 B: (( online i go to uh k- kewl box dot com and that's that's a they got a whole bunch of different stuff )) 
+
+165.70 173.62 A: (( play a game [laughter] you know when you're and then when you get on it you're always hooked and you're like you play forever it seems like you know it's like i should be getting off or you )) 
+
+174.53 175.42 B: (( a- )) 
+
+174.85 179.60 A: (( know like one more game one more game [laughter] you're always saying it but you shouldn't get on there but )) 
+
+179.02 182.19 B: (( and especially around christmas there's this game like santa balls where )) 
+
+182.12 183.40 A: (( you do [laughter] )) 
+
+182.60 183.75 B: (( it has like )) 
+
+184.08 187.85 A: (( do you have any other c._d. roms that you play mhm oh really mhm it can go right on to online )) 
+
+188.09 189.48 A: (( mhm well )) 
+
+189.84 191.54 B: (( little like uh )) 
+
+189.86 190.95 A: (( that's cool have you )) 
+
+191.57 194.76 A: (( ever had other any other c._d. rom games oh really mhm mhm uh-huh )) 
+
+194.72 195.70 B: (( ornaments )) 
+
+195.03 205.65 A: (( oh and what which ones were they that you had uh-huh uh-huh mhm huh i had that i had like a golf game once and it did like a whole bunch of stuff to my computer and it was like okay then i )) 
+
+199.30 200.29 B: (( type thing )) 
+
+205.64 211.84 A: (( just kind of threw it in the trash [laughter] you know it was like you don't wanna mess with stuff like that because )) 
+
+211.89 214.74 A: ((  )) 
+
+214.16 215.13 B: (( or like )) 
+
+215.21 216.10 A: (( know )) 
+
+215.42 217.44 B: (( little like balls that )) 
+
+216.73 222.14 A: (( if that's why i don't like the online g- or the c._d. rom games and just only )) 
+
+221.30 224.27 B: (( come down and you have to try to find )) 
+
+224.95 226.17 B: (( ones that )) 
+
+224.99 228.01 A: (( do the you know the online but i know i had uh who wants )) 
+
+227.44 230.65 B: (( match each other but they you have to like move 'em to different places )) 
+
+231.04 232.47 A: (( to be a millionaire game )) 
+
+232.53 240.57 A: ((  )) 
+
+239.97 248.27 B: ((  )) 
+
+245.01 245.90 A: (( game you know )) 
+
+248.79 253.54 A: ((  )) 
+
+252.87 253.47 B: (( site )) 
+
+253.94 256.57 A: (( was the same stuff over and over )) 
+
+256.32 257.22 B: (( a lot )) 
+
+257.70 260.87 A: (( and you'd lose and you'd have to start all over so mhm )) 
+
+260.55 264.97 B: (( uh yes i am but but since it's the summer now i i have a job )) 
+
+264.86 272.66 A: (( oh yeah mhm yeah [laughter] i used to play that like just like even on regular disk you know like in the earlier days when it wasn't even on c._d. rom i remember )) 
+
+272.14 273.61 B: (( and everything and i )) 
+
+272.95 274.72 A: (( playing that was it like more than like one player or )) 
+
+274.45 284.65 B: (( can't get on as much as i would like to yeah i was at college at st joseph's university in philadelphia but i am back home for the summer and i i i did pretty )) 
+
+284.81 287.01 A: (( can you play against the computer or oh right )) 
+
+284.81 287.90 B: (( well in school so that's good i actually )) 
+
+288.37 294.04 B: (( whenever i have some time like i go on check my check my email and if i want to i'll i'll play games online )) 
+
+293.72 296.06 A: (( uh-huh uh-huh yeah [laughter] exactly )) 
+
+295.40 296.90 B: (( too only if )) 
+
+297.54 299.36 B: (( there's nothing else to do )) 
+
+299.48 300.63 A: (( yeah that's )) 
+
+301.94 304.85 B: (( exactly i know that feeling exact- yep exactly )) 
+
+305.55 307.72 A: (( kinda like how all )) 
+
+309.36 311.49 A: (( the like online )) 
+
+311.38 314.17 B: (( exactly um actually no i )) 
+
+312.39 313.16 A: (( games )) 
+
+314.16 315.09 A: (( happening you )) 
+
+315.80 318.77 B: (( don't just that one and )) 
+
+318.62 319.48 A: (( know )) 
+
+319.49 324.29 A: (( they happen too you start playing them and then it's like okay this is kinda boring let's )) 
+
+324.55 325.67 B: (( i usually )) 
+
+325.47 328.65 A: (( get onto another game you know and then you hooked )) 
+
+328.44 329.12 B: (( just )) 
+
+328.70 333.65 A: (( and then you you know it's like okay another one [laughter] mhm i know )) 
+
+333.31 334.32 B: (( play it )) 
+
+335.25 336.28 B: (( on )) 
+
+337.26 339.68 B: (( like online yeah yep )) 
+
+340.42 342.79 A: (( there's one on um )) 
+
+343.58 346.56 A: (( the pogo dot com that i go onto and )) 
+
+345.84 346.85 B: (( um )) 
+
+346.95 350.92 A: (( it's like uh it's like some bee game or something you have to )) 
+
+350.39 351.30 B: (( i )) 
+
+351.14 352.96 A: (( have honey and you have )) 
+
+353.13 356.69 A: (( to spell words like you pop bubbles )) 
+
+357.91 362.59 A: (( to get the words out or whatever it's pogo dot com yep yeah )) 
+
+363.10 365.07 B: (( did but they kind of )) 
+
+366.42 370.67 B: (( like worked my computer yeah so i didn't i was kind )) 
+
+371.18 373.15 A: (( yes it's very nice it's )) 
+
+371.34 373.14 B: (( of hesitant on whether )) 
+
+373.30 374.74 B: (( i should uh be playing )) 
+
+374.84 375.54 B: (( this )) 
+
+375.70 377.51 B: (( one or not but it )) 
+
+377.42 378.69 A: (( like tons )) 
+
+377.58 379.48 B: (( hasn't done it so so )) 
+
+378.91 380.45 A: (( and tons of games )) 
+
+379.95 385.58 B: (( it's pretty good i had this one it was called uh balls of steel and it's like a )) 
+
+386.15 389.04 B: (( pinball game and uh )) 
+
+389.30 393.28 B: (( i actually got it from a friend who burned it from )) 
+
+393.33 395.11 A: (( yeah but there's the )) 
+
+393.83 394.69 B: (( it )) 
+
+394.71 399.05 B: (( and it uh it kind of was shutting down my computer )) 
+
+399.15 403.67 B: (( and scrambling the screen and everything so )) 
+
+401.44 402.55 A: (( one )) 
+
+403.73 405.41 B: (( i just had to )) 
+
+405.51 409.49 B: (( take it off and everything so yeah )) 
+
+409.50 410.63 A: (( that i was )) 
+
+409.50 412.15 B: (( exactly oh yes it definitely is oh )) 
+
+412.11 417.71 A: (( talking about is like i've gotten to the point where i'm like okay i'm not spelling anymore i'm done playing that game [laughter] you )) 
+
+417.82 419.00 B: (( yeah )) 
+
+419.39 432.86 B: (( yeah i used to play that mhm yeah yeah but oh and i just remembered one of the other uh c._d. rom games we used to play it's family feud yeah uh you can play against the computer )) 
+
+432.59 436.53 A: (( know it's like you're thinking too hard to )) 
+
+436.69 437.93 A: (( play a )) 
+
+438.34 442.95 A: (( game [laughter] but um the chinese game is what i'm hooked on right now i can't even say )) 
+
+442.35 443.86 B: (( and )) 
+
+443.21 446.26 A: (( the the name of it i don't even know what )) 
+
+445.94 447.03 B: (( uh )) 
+
+446.67 448.73 A: (( it's called [laughter] um but it's like )) 
+
+448.41 449.22 B: (( you )) 
+
+449.53 451.63 B: (( can also be against another )) 
+
+451.82 458.68 B: (( player and anything and you can have up to four i guess no no )) 
+
+458.53 459.42 A: (( you )) 
+
+458.88 462.30 B: (( two player sorry yeah and it it was it was )) 
+
+462.65 464.63 A: (( can tell it's a chinese you )) 
+
+465.38 468.92 B: (( interesting for a while and then it kinda lost )) 
+
+470.08 474.53 B: (( its charm yeah yep exactly oh and what's this site )) 
+
+474.73 476.69 B: (( called p. o. )) 
+
+476.70 477.65 A: (( know )) 
+
+477.70 478.78 A: (( it's like uh )) 
+
+478.94 480.80 B: (( g. o. all right i gotta )) 
+
+480.70 482.14 A: (( the weird you know )) 
+
+483.74 485.69 A: (( names or whatever but there's a )) 
+
+485.14 486.74 B: (( check it )) 
+
+487.00 488.08 B: (( out awesome )) 
+
+488.58 489.67 A: (( lot of )) 
+
+489.22 490.32 B: (( yeah )) 
+
+491.03 491.85 B: (( i )) 
+
+491.88 492.77 B: (( know uh )) 
+
+492.89 494.82 B: (( [laughter] yes oh that's cool )) 
+
+494.97 498.16 B: (( um sometimes when i get a )) 
+
+499.35 500.46 B: (( free chance )) 
+
+501.17 502.06 A: (( games )) 
+
+501.97 503.98 B: (( but not as much as )) 
+
+505.72 507.07 A: (( on )) 
+
+505.79 509.61 B: (( i was at school )) 
+
+509.79 511.66 A: (( there and they pay )) 
+
+511.56 513.47 B: (( i used to )) 
+
+517.52 518.55 A: (( you )) 
+
+517.97 518.83 B: (( be )) 
+
+519.43 521.88 B: (( online a )) 
+
+522.20 523.64 B: (( lot at )) 
+
+523.71 525.53 B: (( school but )) 
+
+525.86 526.60 B: (( not )) 
+
+526.80 528.50 A: (( like reward )) 
+
+530.00 530.87 B: (( not )) 
+
+530.89 532.16 B: (( that )) 
+
+533.04 533.97 B: (( much )) 
+
+534.41 540.87 A: ((  )) 
+
+537.19 537.92 B: (( here )) 
+
+540.97 544.75 A: (( online like a lot mhm mhm uh-huh )) 
+
+546.20 548.27 B: do you have a job there then or 
+
+548.26 549.68 A: nope not 
+
+548.56 550.79 B: you're just taking the summer off 
+
+550.96 556.35 A: well i'm i have a i have a job right now working at a candy shop actually 
+
+555.69 557.32 B: (( oh really mhm )) 
+
+556.68 566.29 A: yep and uh but during the school year i don't i don't work during it but in the summer i do just to get some extra cash 
+
+562.51 563.72 B: (( mhm )) 
+
+565.87 570.20 B: mhm do you have a job during school or not up there 
+
+569.97 571.12 A: (( no )) 
+
+570.68 571.43 B: no 
+
+571.31 575.28 A: no i want to try to concentrate on my school work 
+
+574.66 578.13 B: yeah exactly yeah how many more years 
+
+576.40 577.38 A: yeah 
+
+578.55 580.73 A: i actually have two more years 
+
+580.21 582.47 B: mhm that's cool 
+
+582.25 585.62 A: mhm my brother just graduated this year 
+
+584.67 585.49 B: (( mhm )) 
+
+585.54 587.53 B: oh college or high school 
+
+586.95 588.39 A: yep college 
+
+587.59 591.00 B: college oh that's cool mhm the same school 
+
+589.11 590.21 A: mhm 
+
+590.94 595.29 A: no he graduated out of uh clarkson in upstate new york 
+
+594.86 595.79 B: uh-huh 
+
+595.45 598.34 A: like about twenty miles from canada 
+
+597.91 599.18 B: (( mhm )) 
+
+598.89 599.89 A: so that's pretty 
+

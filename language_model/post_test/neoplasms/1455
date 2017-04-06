@@ -1,0 +1,3 @@
+
+This paper investigates the design and analysis of zzso trials with two zzso The set of doses for each agent is fixed in zzso The goal of the trial is to find the set of dose combinations with probability of toxicity closest to a zzso zzso For each of the two agents we assume that the probability of toxicity of an agent is zzso with dose when the dose of the other agent is zzso Using this assumption we construct a new zzso design that operates on a two-dimensional grid of all possible dose zzso A zzso zzso zzso zzso of the maximum tolerated combinations is zzso We conclude that the new design and the zzso zzso zzso are superior to the procedure where several independent zzso trials are zzso 
+

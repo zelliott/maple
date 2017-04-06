@@ -1,0 +1,9 @@
+
+Target-volume and organ-at-risk delineation is a time-consuming task in radiotherapy planning. The development of automated segmentation tools remains problematic, because of pelvic organ shape variability. We evaluate a three-dimensional (3D), deformable-model approach and a seeded region-growing algorithm for automatic delineation of the prostate and organs-at-risk on magnetic resonance images.
+
+Manual and automatic delineation were compared in 24 patients using a sagittal T2-weighted (T2-w) turbo spin echo (TSE) sequence and an axial T1-weighted (T1-w) 3D fast-field echo (FFE) or TSE sequence. For automatic prostate delineation, an organ model-based method was used. Prostates without seminal vesicles were delineated as the clinical target volume (CTV). For automatic bladder and rectum delineation, a seeded region-growing method was used. Manual contouring was considered the reference method. The following parameters were measured: volume ratio (Vr) (automatic/manual), volume overlap (Vo) (ratio of the volume of intersection to the volume of union; optimal value = 1), and correctly delineated volume (Vc) (percent ratio of the volume of intersection to the manually defined volume; optimal value = 100).
+
+For the CTV, the Vr, Vo, and Vc were 1.13 (+/-0.1 SD), 0.78 (+/-0.05 SD), and 94.75 (+/-3.3 SD), respectively. For the rectum, the Vr, Vo, and Vc were 0.97 (+/-0.1 SD), 0.78 (+/-0.06 SD), and 86.52 (+/-5 SD), respectively. For the bladder, the Vr, Vo, and Vc were 0.95 (+/-0.03 SD), 0.88 (+/-0.03 SD), and 91.29 (+/-3.1 SD), respectively.
+
+Our results show that the organ-model method is robust, and results in reproducible prostate segmentation with minor interactive corrections. For automatic bladder and rectum delineation, magnetic resonance imaging soft-tissue contrast enables the use of region-growing methods.
+

@@ -1,0 +1,9 @@
+
+To present a novel fully automated method for assessing the quality of magnetic resonance imaging (MRI) data acquired in a clinical trials environment.
+
+This work was performed in the context of clinical trials for multiple sclerosis. Quality control (QC) procedures included were: (i) patient brain identity verification, (ii) alphanumeric parameter matching, (iii) signal-to-noise ratio estimation, (iv) gadolinium-enhancement verification, and (v) detection of ghosting due to head motion. Each QC procedure produces a quantitative measurement which is compared against an acceptance threshold that was determined based on receiver operating characteristic analysis of traditional manual and visual QC performed by trained experts.
+
+The automated QC results have high sensitivity and specificity when compared with the visual QC.
+
+Our automated objective QC procedure can replace many manual subjective procedures to provide increased data throughput while reducing reader variability.
+

@@ -1,0 +1,5 @@
+
+BAli-Phy is a Bayesian posterior sampler that employs Markov chain Monte Carlo to explore the joint space of alignment and phylogeny given molecular sequence data. Simultaneous estimation eliminates bias toward inaccurate alignment guide-trees, employs more sophisticated substitution models during alignment and automatically utilizes information in shared insertion/deletions to help infer phylogenies.
+
+Software is available for download at http://www.biomath.ucla.edu/msuchard/bali-phy.
+

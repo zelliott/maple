@@ -1,0 +1,11 @@
+
+zzso zzso zzso lead failures often present as inappropriate shock zzso An zzso that can reliably discriminate between zzso zzso and noise due to lead failure may prevent patient discomfort and anxiety and avoid zzso zzso by preventing inappropriate zzso zzso 
+
+The goal of this analysis was to test an zzso zzso detection zzso that zzso noise due to lead failure from zzso zzso 
+
+We tested an zzso that uses a measure of the zzso zzso zzso baseline to discriminate the zzso rhythm zzso line from the right zzso zzso zzso zzso zzso during zzso of noise caused by a lead zzso The baseline measure was defined as the product of the sum zzso and standard zzso zzso of the zzso samples for a zzso window centered on each sensed zzso If the minimum baseline measure of the last 12 beats was zzso zzso then the detected rhythm was considered noise due to a lead zzso The first zzso episode of lead failure and inappropriate detection from 24 zzso patients with a zzso lead failure and all zzso zzso from 56 zzso patients without a lead failure were zzso The stored data were analyzed to determine the sensitivity and specificity of the zzso to detect lead zzso 
+
+The minimum baseline measure for the 24 lead failure episodes zzso zzso zzso zzso was smaller than the 135 zzso zzso zzso zzso zzso zzso P zzso and 55 zzso zzso episodes zzso zzso zzso zzso P zzso A minimum baseline zzso zzso threshold had a sensitivity of zzso zzso with a zzso zzso zzso 
+
+A baseline measure of the zzso zzso had a high sensitivity and specificity to detect lead failure noise compared with zzso zzso or zzso 
+

@@ -1,0 +1,9 @@
+
+A reduction in cartilage volume is characteristic of osteoarthritis and hence there exists a need for an accurate and reproducible method to measure in vivo cartilage volume. Quantification of cartilage volume from magnetic resonance (MR) images requires a segmentation technique such as the user-driven "Live Wire" strategy that can reliably delineate object volumes in a time-efficient manner. In the present work, the accuracy and reproducibility of the Live Wire method for the quantification of cartilage volume in MR images is evaluated.
+
+The accuracy of the Live Wire method was assessed by comparing the MR-based volume measurement of a patellar cartilage-shaped phantom versus data calculated via water displacement. The inter- and intra-operator reproducibility of the technique was evaluated from Live Wire segmentation of the patellar cartilage volume from fat-suppressed 3-dimensional spoiled-gradient-echo images of five healthy human volunteers performed by three operators. To provide data for analysis of inter-scan reproducibility, the human scans were repeated five times with the aid of a leg-restraining jig to minimize repositioning error.
+
+The volume of the patellar cartilage-shaped phantom measured via Live Wire segmentation of MR images was within 97.8% of its true volume. The average inter- and intra-operator coefficients of variation of three operators were 3.0% and 0.4%, respectively. The average inter-scan coefficient of variation of five repeated scans of each volunteer was 2.7%.
+
+The data suggest that the Live Wire strategy is an accurate, reproducible, and efficient technique to measure cartilage volume in vivo in a feasible amount of operator time.
+

@@ -1,0 +1,9 @@
+
+zzso within the brain space zzso involves the brain zzso and zzso systems, and is associated with high morbidity and zzso zzso zzso zzso head scans are the recommended zzso for diagnosis and treatment for zzso However, zzso detection may be difficult when the zzso is zzso while zzso is hard as zzso can have very variable intensity that zzso with normal brain zzso An zzso is proposed to detect and zzso zzso 
+
+zzso zzso and zzso reasoning zzso were applied to zzso in four steps: zzso to extract the brain, zzso zzso based on local contrast with varied window sizes to derive candidate zzso regions, case representation to represent each candidate zzso region by parameters on context as well as intensity and geometrical zzso and zzso of zzso by taking each candidate zzso region as a case and applying zzso Additionally, case base indexing and weights zzso were used to increase retrieval speed and improve zzso zzso of each recognized zzso was performed for zzso zzso 
+
+zzso on zzso clinical CT data indicates that the proposed zzso achieved a detection rate of zzso and recall of zzso for detecting zzso zzso zzso the zzso regions calculated from zzso zzso plus refinement agreed well with expert zzso For 10 representative data with small to large zzso the zzso zzso yielded a zzso accuracy of zzso see zzso Case base indexing increased the retrieval speed by zzso times at the expense of decreasing detection rate of zzso and recall of zzso zzso zzso zzso enhanced the detection rate and recall to, respectively, zzso and zzso 
+
+We developed and tested an zzso that combined zzso zzso and zzso for detecting and zzso zzso zzso showed that zzso zzso could provide suitable candidates, while zzso was able to identify zzso zzso The proposed method has potential as a new tool for accurately detecting and zzso zzso 
+

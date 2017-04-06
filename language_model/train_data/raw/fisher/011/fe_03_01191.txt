@@ -1,0 +1,493 @@
+# fe_03_01191.sph
+# Transcribed by BBN/WordWave
+
+0.00 1.67 B: (( [noise] )) 
+
+2.53 3.83 B: (( [mn] hello )) 
+
+3.36 4.80 A: hello 
+
+4.92 6.89 B: hi my name is nick 
+
+6.92 8.92 A: hi my name is jean 
+
+8.59 10.24 B: (( oh how're doing jean )) 
+
+9.87 11.21 A: how are you nick 
+
+11.09 12.58 B: very good you 
+
+15.22 16.25 B: hello 
+
+15.81 17.18 A: yes i'm here 
+
+16.88 17.67 B: oh 
+
+17.68 18.81 B: how do you feel 
+
+18.86 22.01 A: i feel w- i feel good how do you feel 
+
+20.57 21.78 B: that's good 
+
+21.80 23.67 B: uh i'm i'm okay 
+
+23.46 26.13 A: all right is this your first time 
+
+25.92 27.23 B: yeah 
+
+26.68 31.55 A: mine too [laughter] okay and the subject is 
+
+27.84 29.04 B: (( oh [laughter] )) 
+
+32.71 34.18 A: you heard the subject 
+
+33.76 36.73 B: yeah i guess if somebody gives you a million dollars for 
+
+37.15 40.52 A: to not speak to your good best friend again 
+
+40.35 41.41 B: uh-huh 
+
+42.02 43.11 A: well 
+
+43.73 47.42 B: so would [laughter] would you give it to your best friend 
+
+46.99 50.05 A: would i give it to my best friend the money 
+
+48.35 49.12 B: (( uh )) 
+
+49.65 50.60 B: (( yeah oh )) 
+
+50.79 53.96 A: oh i thought they said would you not speak to your b- 
+
+54.04 56.51 A: best friend i have a lot of hearing problems 
+
+54.70 59.78 B: oh i i oh i didn't hear the question so good i was i was watching 
+
+58.81 61.41 A: if i received a million dollars 
+
+60.77 62.17 B: yeah 
+
+61.95 63.95 A: would i give it to my best friend 
+
+64.80 66.54 A: that's the question isn't 
+
+65.85 67.29 B: that's the question 
+
+67.44 69.03 A: it i'm asking you 
+
+68.52 71.77 B: (( oh [mn] um i )) 
+
+70.93 81.53 A: i thought i understood it to say if you if would you be willing to take a million dollars if you were told that you could never talk to your best friend again is that right 
+
+72.74 73.91 B: oh maybe 
+
+80.93 88.21 B: i don't know i i i didn't understand the question i i well is that what they say i didn't um 
+
+86.93 88.65 A: how did you understand 
+
+88.44 90.49 B: i thought they um 
+
+91.40 92.88 B: um 
+
+93.41 97.81 B: they said if they give you a million dollars would you give it to your best friend i i 
+
+98.09 99.11 B: no 
+
+98.19 103.30 A: well i i think we sort of got i thought they said would you 
+
+100.40 101.28 B: okay 
+
+103.65 110.04 A: take take the million dollars if you were told you couldn't speak to your best friend [mn] any more 
+
+110.20 111.62 B: so what would you do 
+
+111.71 117.13 A: well i wouldn't take the million dollars i have um two very good friends 
+
+116.83 117.89 B: uh-huh 
+
+117.40 121.45 A: and they have [sigh] been with me through thick and thin 
+
+121.73 127.07 A: and you know you can always get money but it's hard to find a best friend 
+
+124.44 125.14 B: (( uh-huh )) 
+
+126.73 128.67 B: you're absolutely right 
+
+127.39 129.47 A: and i consider these [mn] 
+
+129.50 134.65 A: this young woman there's two of 'em as a matter of fact to be my best friends 
+
+133.93 135.03 B: uh-huh 
+
+134.62 147.17 A: and i've heard people say i don't have a best friend so when you don't have a best friend you you have to search yourself and see what's going on because i believe everyone has a good friend best friend 
+
+145.69 148.16 B: that's true yeah that's true 
+
+147.48 153.75 A: i have friends i have thousands of friends but i only have two best friends 
+
+150.78 151.78 B: (( uh-huh [mn] )) 
+
+154.39 158.57 A: that have gone beyond the the call of duty for me 
+
+158.15 159.18 B: uh-huh 
+
+158.58 165.29 A: when i i i you know i needed them and i didn't ask them they just stepped in and took charge 
+
+160.94 162.08 B: yeah 
+
+165.50 167.97 B: that's good you're lucky you're lucky 
+
+166.22 167.30 A: and 
+
+167.78 168.91 A: beg pardon 
+
+168.87 170.76 B: i say you're very lucky 
+
+170.48 171.90 A: i'm blessed 
+
+171.83 174.13 B: (( uh-huh yeah uh-huh )) 
+
+172.30 173.70 A: i'm blessed 
+
+173.83 176.27 A: that's the term i use i am blessed 
+
+176.04 177.87 B: uh where are you from jean 
+
+177.73 188.63 A: i'm fr- originally i am from salisbury marilyn in the early sixties i moved to new york with my five [mn] children which are all men boys 
+
+188.76 196.93 A: i raised them in brooklyn i worked in new york until the early eighties i got sick i moved back to marilyn 
+
+197.03 205.67 A: to be with my mum because she was sick and i thought we could take care of each other what happened i got well in eighty three i moved to 
+
+201.18 202.14 B: (( uh-huh uh-huh )) 
+
+205.80 207.16 A: baltimore 
+
+207.23 214.81 A: and i went to work for the mayor in employment and training and that's my thirty years of employment training 
+
+209.77 210.68 B: oh 
+
+214.66 215.58 B: (( uh-huh [mn] )) 
+
+214.79 223.52 A: finding people jobs training programs putting them to work i retired in nineteen ninety six and i moved here to 
+
+221.16 222.31 B: (( that's good )) 
+
+223.58 224.96 A: (( atlanta )) 
+
+224.94 226.12 B: (( atlanta )) 
+
+225.06 228.70 A: with my [mn] yes i lived in decatur 
+
+226.65 227.52 B: uh-huh 
+
+228.66 242.65 A: but i moved with my son and my daughter in law they moved from brooklyn new york because her job transferred her to m._t._v. they had a baby boy so i came to take care of the baby in nineteen 
+
+233.49 234.59 B: uh-huh 
+
+238.52 239.44 B: uh-huh 
+
+243.08 254.27 A: uh may nineteen ninety seven and i went back to baltimore and packed up my things and moved to georgia [laughter] [laughter] and it's good for me it allows me to retire 
+
+248.93 251.53 B: oh that's good [laughter] 
+
+254.22 261.81 A: they take care of people here they're very respectable for elders and it's wonderful i don't know any other place i would want to be 
+
+257.65 258.88 B: (( mhm )) 
+
+261.60 262.58 B: well 
+
+261.70 270.38 A: but i do have good friends i have best friends i know i can pick up the phone any time and call them [mn] they would just come here 
+
+264.62 265.40 B: that's 
+
+269.80 272.32 B: (( [noise] that's very nice )) 
+
+271.64 274.82 A: so what about you do you have a best friend 
+
+272.85 274.09 B: (( [mn] well )) 
+
+274.87 283.82 B: well i don't know if i have a best friend i really don't i got a few friends but i don't know if i have a what you ma call it best friend best friends with my wife 
+
+283.86 285.47 A: your best friend is your wife 
+
+284.94 286.05 B: (( yeah [laughter] )) 
+
+285.48 289.15 A: well that's wonderful then that's wonderful 
+
+286.06 288.10 B: [laughter] 
+
+288.69 289.86 B: so [laughter] 
+
+289.56 294.66 A: that's wonderful you do have a best friend your soulmate so to speak 
+
+290.96 291.52 B: (( [mn] )) 
+
+292.80 293.87 B: yeah 
+
+294.50 296.26 B: right and uh 
+
+295.44 299.35 A: that's wonderful you do have one and 
+
+297.90 301.36 B: and i i got lots of brothers and they're my best friends 
+
+301.31 302.44 A: i beg your pardon 
+
+302.09 305.53 B: i got lots of brothers they're they're my best friends too 
+
+304.80 306.17 A: you have brothers 
+
+305.67 306.86 B: yeah 
+
+306.26 307.79 A: like my family 
+
+307.88 308.75 B: uh 
+
+307.99 310.91 A: i have five sons [laughter] eight grandsons 
+
+310.68 316.64 B: oh i have i have four kids also and um uh seven grandkids and [mn] one on the way 
+
+316.33 317.66 A: where do you live 
+
+317.28 319.08 B: i live in florida 
+
+318.51 321.54 A: oh in florida oh not too far from me 
+
+319.33 320.25 B: yeah 
+
+320.87 323.37 B: yeah i retired 
+
+322.07 324.84 A: are you from flor- were you born in florida 
+
+324.40 327.32 B: no i was in statton island new york 
+
+327.34 328.49 A: in where 
+
+328.14 329.88 B: statton island new york 
+
+329.58 330.97 A: in new york 
+
+330.25 331.57 B: yes 
+
+330.98 336.59 A: there's no place like new york [laughter] if you can make it there you can make it anywhere 
+
+332.44 334.53 B: no it's not but [mn] 
+
+335.94 338.94 B: absolutely that's where i made my living 
+
+337.23 338.03 A: and 
+
+338.56 341.40 A: yes i still have friends in new york 
+
+341.83 347.22 B: yeah well we got some friends there but i um i don't like the cold i love it here 
+
+342.67 343.24 A: (( [mn] )) 
+
+346.48 358.60 A: oh oh i do too [laughter] and it's not the same any more as it [mn] where did all these people come from in new york that's what i say when i go to visit it's not the new york it used to be but 
+
+348.00 349.56 B: uh-huh [laughter] 
+
+350.76 351.81 B: no 
+
+355.26 356.79 B: (( yeah i know )) 
+
+357.76 358.63 B: no 
+
+358.90 362.48 A: it's still new york there's no place like new york 
+
+360.47 361.53 B: right 
+
+362.02 363.30 B: (( no well )) 
+
+362.67 364.57 A: the people there um 
+
+364.41 367.21 B: they're very friendly there uh you know [mn] 
+
+366.67 368.60 A: were your children born in new york 
+
+368.16 369.34 B: oh yes 
+
+368.93 369.90 A: yes 
+
+369.74 370.73 B: uh-huh 
+
+371.23 376.12 A: they have everything there if you want to make it you can make it you can be anything you want to be 
+
+374.20 375.10 B: but 
+
+375.74 387.62 B: nobody lives in new york no more of my kids i got a a daughter in washington d._c. and a daughter in uh denver and i got a daughter here and i got a son in connecticut 
+
+387.50 388.87 A: in connecticut 
+
+388.44 389.60 B: uh-huh 
+
+389.01 389.99 A: uh-huh 
+
+389.81 391.70 B: they're all spread around 
+
+391.76 393.57 A: oh that's great my 
+
+393.59 398.40 A: two my three oldest grandsons who graduated from college one from boston 
+
+398.44 411.02 A: uh college and one from te- uh college of music in long island and they all they are still there in new york [laughter] it's for young people i say not for older people [laughter] 
+
+402.93 403.93 B: uh-huh 
+
+406.55 407.86 B: oh really [mn] 
+
+410.19 417.17 B: yeah well i got nobody in new york except a few people that i used to know that's it no one i love lives in new york 
+
+416.89 419.53 A: yes what did you do when you were there 
+
+420.02 422.20 B: w- what i did when i was there 
+
+421.81 423.06 A: uh-huh i meant 
+
+422.23 424.02 B: i was a painting contractor 
+
+423.86 425.15 A: you were what 
+
+424.83 426.49 B: paint contractor 
+
+426.66 428.19 A: oh a contractor 
+
+427.88 429.57 B: (( yeah )) 
+
+428.52 429.95 A: oh okay 
+
+430.13 434.70 A: that's one of the largest industries now e- even when times are bad construction 
+
+434.67 440.01 B: yeah yeah i i retired when i was fifty years old i said let me get outta here 
+
+435.27 436.25 A: yes 
+
+439.72 441.65 A: yes [laughter] i did too 
+
+440.47 443.22 B: and i'm i'm over here [mn] now about 
+
+443.23 445.10 B: twelve thirteen years 
+
+444.69 446.32 A: well you're retired 
+
+445.72 447.18 B: yep uh-huh 
+
+446.33 451.23 A: so wonderful [laughter] i think we paid our dues 
+
+447.98 449.43 B: (( yeah [mn] )) 
+
+450.69 452.72 B: oh we sure did 
+
+452.22 454.37 A: i but i volunteer 
+
+454.38 459.22 A: for a wonderful group of young men from africa called the lost boys of sudan 
+
+459.08 460.41 B: oh yeah 
+
+459.88 461.29 A: you heard of them 
+
+460.96 462.67 B: yeah yeah 
+
+461.74 464.18 A: because they're in jacksonville florida 
+
+464.92 472.32 B: well i think my daughter has something like this in denver they came as refugees and um 
+
+465.14 465.70 A: (( [mn] )) 
+
+473.00 480.10 B: she for a while she um invited them to the house and [mn] they lived there for a little while 
+
+479.51 481.66 A: what if where were they from sudan 
+
+481.38 484.72 B: i i think [mn] they were from sudan yeah 
+
+484.10 485.82 A: are they from jacksonville 
+
+485.47 487.06 B: (( yeah yeah [mn] )) 
+
+486.55 501.14 A: that's great i'm gonna have to tell them mama cho is the lady that um has ninety of them but we here in atlanta we have a foundation we have the only foundation in the new y- in the in the united states 
+
+487.52 488.46 B: (( yeah )) 
+
+500.77 501.81 B: (( uh-huh )) 
+
+501.24 503.62 A: we have a foundation um 
+
+502.77 504.21 B: yeah 
+
+503.70 511.80 A: and jane fonda is our co chairperson but it was found by an african american a young lady in her thirties mary wims so 
+
+506.01 507.17 B: oh 
+
+510.56 511.58 B: uh-huh 
+
+511.67 525.37 A: uh some of the lost boys from other states are coming here because they can get more services here education health i head up the employment committee so i'm still working [laughter] i'm still as a volunteer 
+
+517.92 519.07 B: (( [mn] uh-huh )) 
+
+521.97 524.35 B: oh you're still working volunteer 
+
+524.81 526.43 B: (( oh that's good )) 
+
+525.49 533.75 A: i head up the employment co- and they're on a website too you just look for w. w. w. dot lost boys foundation 
+
+531.20 532.29 B: (( [mn] uh-huh )) 
+
+533.40 534.58 B: yeah 
+
+533.97 538.63 A: we have a website oh that's wonderful and your daughter had the chance to meet them 
+
+535.32 536.32 B: uh-huh 
+
+538.23 544.87 B: yeah yeah she met uh they they lived there uh how long did they live with uh [noise] with th- those people from sudan 
+
+544.85 546.93 A: they're very smart 
+
+546.55 547.11 B: (( [mn] )) 
+
+547.16 549.77 B: uh-huh about i think they lived there about a month 
+
+549.99 550.93 B: (( in [mn] )) 
+
+550.00 551.25 A: they lived where 
+
+550.94 551.90 B: they lived [mn] 
+
+551.92 555.84 B: with my daughter [mn] in uh th- they lived there for a month 
+
+556.01 557.35 A: (( well she lives in )) 
+
+556.07 558.06 B: (( in in denver denver )) 
+
+558.77 562.15 A: let me see they live in las palmas 
+
+563.05 564.18 B: oh 
+
+563.80 564.76 A: (( um )) 
+
+564.95 567.12 B: no no in denver 
+
+566.20 567.29 A: they lived 
+
+567.63 569.06 B: colorado 
+
+569.19 575.84 A: oh in co- oh yes they're all over but in jacksonville florida they live at las palmas way 
+
+570.93 572.31 B: (( yeah yeah )) 
+
+575.56 576.94 B: oh 
+
+576.07 581.91 A: and [mn] they're all over what happened the federal government sent thirty five hundred of them to the united states 
+
+581.44 582.48 B: (( oh uh-huh )) 
+
+582.16 586.87 A: and we have a hundred and fifty they came through president jimmy carter's office 
+
+586.43 587.68 B: yeah 
+
+587.11 598.36 A: and that's when the foundation started so um this may we will have a fund raiser where we invite lost boys all over the united states to come 
+
+589.54 590.80 B: yeah 
+
+598.13 599.21 B: uh-huh 
+
+598.49 599.89 A: it's gonna be in may [mn] 
+

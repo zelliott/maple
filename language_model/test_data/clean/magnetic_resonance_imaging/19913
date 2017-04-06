@@ -1,0 +1,9 @@
+
+We developed a new model for in vivo placental perfusion measurements based on dynamic MRI in mice. As noradrenaline has been implicated in the pathogenesis of preeclampsia, we examined whether it reduced placental perfusion in mice, and whether such a reduction could be detected with our MRI model.
+
+Mice at 16 days of gestation were injected intramuscularly with saline or noradrenaline solution. A conventional gadolinium chelate was then injected IV, and a single-slice T1-weighed 2D Fast SPGR sequence was acquired for 200 s. Signal intensity was measured on all the images and converted into contrast agent tissue concentrations in the maternal left ventricle (input function) and placentas. A one-compartment model was developed using compartmental and numerical modeling software. Mean blood flow (F) was calculated from a transfer constant.
+
+Twenty-six mice were studied, yielding a total of 55 MRI measurements of placental perfusion (29 in the control group and 26 in the noradrenaline group). Mean placental blood flow (F) was significantly lower in the noradrenaline group (0.72+/-0.84 ml/min/g of placenta) than in the control group (1.26+/-0.54 ml/min/g of placenta).
+
+Noradrenaline reduces placental perfusion in mice. Our MRI dynamic model might be useful for detecting and investigating abnormal placental blood flow, thereby avoiding the need for invasive procedures and animal sacrifice.
+

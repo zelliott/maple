@@ -1,0 +1,3 @@
+
+zzso filtering is required for the removal of background field zzso in magnetic resonance phase zzso This zzso filtering zzso across boundaries between areas with large differences in zzso The most prominent boundary is the surface of the brain where areas with large phase values inside the brain are located close to areas outside the brain where the phase is, on average, zzso zzso areas, which are of great interest in brain zzso are therefore often zzso by zzso zzso Here, we propose the use of the bilateral filter for the zzso filtering zzso The bilateral filter is essentially a zzso filter that stops smoothing at zzso We show that the bilateral filter improves image quality at the zzso surface, without sacrificing contrast within the zzso 
+

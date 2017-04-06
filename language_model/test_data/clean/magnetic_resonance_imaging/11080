@@ -1,0 +1,9 @@
+
+To study the effect of voxel size on the detection of lateral geniculate nucleus (LGN) activation during visual stimulation using functional magnetic resonance imaging (fMRI) at 1.5 T.
+
+Ten normal subjects were scanned during visual stimulation with flashing goggles, four times, with four different voxel sizes. The data were spatially normalized, and LGN activation was identified in the standard coordinates in each subject.
+
+When the statistical analysis was performed without global normalization, activation of LGN was detected in both hemispheres in all subjects. However, when global normalization was used, activation of LGN was found in only six subjects in whom the activation could be most frequently detected at the smallest voxel size.
+
+Our results suggest that LGN activation can be observed within the range of spatial resolution commonly used in conventional fMRI studies, although postprocessing may affect the detectability of LGN activation in fMRI. These findings may be useful in studying LGN activity in patients with visual disturbance.
+

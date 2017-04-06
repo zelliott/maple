@@ -1,0 +1,7 @@
+
+With the emerging success of protein secondary structure prediction through the applications of various statistical and machine learning techniques, similar techniques have been applied to protein zzso zzso In this study, we perform protein zzso prediction using a zzso neighbor method, which is combined with a filter that uses predicted protein secondary structure zzso Traditional zzso prediction from zzso neighbor method is modified to account for the unbalanced ratio of the natural occurrence of zzso and zzso 
+
+Our prediction scheme is tested on a set of zzso zzso protein zzso The prediction scheme consists of two zzso zzso neighbor method stage and filtering zzso Variations of the zzso neighbor method were used to take property of zzso into zzso Our filtering method uses zzso estimates from the zzso neighbor method stage and predicted protein secondary structure information from zzso in order to get new zzso zzso Our result is compared with the previously best known zzso prediction method on the zzso of zzso zzso protein sequences and is shown to give slightly superior performance at significantly lower zzso zzso 
+
+zzso the author for information on the source code of the programs zzso 
+

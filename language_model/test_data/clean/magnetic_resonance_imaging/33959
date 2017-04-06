@@ -1,0 +1,3 @@
+
+Wavelet-transform compression creates high-quality images of small file size by tuning its compression ratio between 10:1 and 80:1. We applied the wavelet-based compression technique to radiologic brain images on the Internet for image display purposes. Wavelet transform compression reduces file size up to 50%. Wavelet transform compression offers the advantage of retaining complete color information in digital images and faster Internet transmission than traditional Joint Photography Experts Group (JPEG) files of equivalent file size. The application of wavelet-based compression technique decreases storage requirements for images on Internet servers.
+

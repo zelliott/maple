@@ -1,0 +1,9 @@
+
+On MRI, focal cortical dysplasia (FCD) is characterized by a combination of increased cortical thickness, hyperintense signal within the dysplastic lesion, and blurred transition between gray and white matter (GM-WM). The visual identification of these abnormal characteristics may be difficult, and it is unclear to what degree these features occur among different FCD lesions. Our purpose was to investigate the pattern of occurrence of abnormal MRI characteristics in FCD by using a set of computational models and to generate quantitative lesion profiling.
+
+A set of voxel-wise operators was applied to high-resolution 3D T1-weighted MRI in 23 patients with histologically proven FCD and 39 healthy controls, creating maps of GM thickness, maps of relative intensity highlighting areas with hyperintense signal, and maps of gradient magnitude modeling the GM-WM transition. All FCD lesions were segmented manually on the T1-weighted MRI.
+
+FCD volumes ranged from 734 mm3 to 80,726 mm3 (mean, 8,629 mm3 +/- 16,238). The manually segmented FCD lesions were used to estimate features in the lesional area and to determine possible local variations of each feature by means of a histogram. In 78% of the patients, FCD lesions were characterized by simultaneous GM thickening, hyperintense signal, and blurring of the GM-WM transition. Moreover, in all patients, the FCD lesion had at least two of these three characteristics.
+
+The three features occurred regardless of the lesion volume, and they characterized not only large FCD lesions, but also subtle ones that had been overlooked by conventional radiologic inspection before surgery.
+

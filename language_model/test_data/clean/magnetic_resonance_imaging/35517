@@ -1,0 +1,9 @@
+
+To derive reproducibility assessments of ejection fraction (EF) and left ventricular mass (LVM) from short-axis cardiac MR images acquired at single and multiple time-points on different 1.5T scanner models.
+
+Images of 15 healthy volunteers were acquired twice using a Magnetom Avanto scanner (Siemens, Erlangen, Germany) and once using a Signa Excite scanner (General Electric, Milwaukee, WI, USA) over four months, and analyzed using ARGUS and MASS Analysis+ software, respectively. Two physicists independently segmented the myocardial borders in order to derive intra- and interobserver assessments of EF and LVM for single and multiple time-points on the same and different scanners.
+
+For EF, the coefficient of repeatability (CoR) increased as different observers, multiple time-points, and different scanners were introduced. The CoR ranged from 2.8% (intraobserver measurements, single time-point, same scanner) to 10.0% (interobserver measurements, different time-points, different scanners). For LVM, intraobserver CoR parameters were consistently smaller than interobserver values. The CoR ranged from 7.8 g (intraobserver measurements, single time-point, same scanner) to 39.5 g (interobserver measurements, different time-points, different scanners).
+
+Reproducible EF data can be obtained at single or multiple time-points using different scanners. However, LVM is notably susceptible to interobserver variation, and this should be carefully considered if similar evaluations are planned as part of multicenter or longitudinal investigations.
+

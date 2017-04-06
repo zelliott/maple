@@ -1,0 +1,3 @@
+
+The electrical activity of the brain can be monitored using ElectroEncephaloGraphy (EEG). From the positions of the EEG electrodes, it is possible to localize focal brain activity. Thereby, the accuracy of the localization strongly depends on the accuracy with which the positions of the electrodes can be determined. In this work, we present an automatic, simple, and accurate scheme that detects EEG electrode markers from 3D MR data of the human head.
+

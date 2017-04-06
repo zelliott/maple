@@ -1,0 +1,3 @@
+
+Rotational-Echo Double Resonance (REDOR) is a widely used experiment for distance measurements in solids. The conventional REDOR experiment measures the signal dephasing from hetero-nuclear recoupling under magic-angle spinning (MAS) in a point by point manner. A modified Carr-Purcell Meiboom-Gill (CPMG) multiple-echo scheme is introduced for fast REDOR measurement. REDOR curves are measured from the CPMG echo amplitude modulation under dipolar recoupling. The real time CPMG-REDOR experiment can speed up the measurement by an order of magnitude. The effects from hetero-nuclear recoupling, the Bloch-Siegert shift and echo truncation to the signal acquisition are discussed and demonstrated.
+

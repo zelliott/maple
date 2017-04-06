@@ -1,0 +1,11 @@
+
+During sleep deprivation (SD), failures to respond (FR) increase across a variety of tasks. This is the first systematic investigation of neural correlates of FR during SD. We use multivariate analysis to model neural activation separately for FR and responses (R) at each trial phase.
+
+In two experiments a delayed letter recognition task was performed in a 1.5T scanner at 9:30 am after two nights of total SD. Participants were continuously monitored in the laboratory.
+
+Healthy young adults from two SD experiments (combined n=37; aged 25.55 ± 3.86 years).
+
+Multivariate linear modeling (MLM) was used to find networks of activation that differed between FR and R. At each of three trial phases-encoding, retention, and test-two networks were expressed. In the encoding phase, the second network was seen during FR and was not seen during R. This network constituted widespread deactivations (∼26,000 voxels) of fronto-parietal and thalamic areas concomitant with activation of extrastriate cortex and hippocampus. In a multiple regression including activation during FR and R from all networks and all trial phases, expression of this encoding-phase network during FR was the key predictor of SD-related performance impairment, operationalized as greater %FR (η(p)(2)=0.33), lower d' and larger median RT (η(p)(2)=0.17).
+
+FR were most associated with neural disruptions occurring at the encoding phase when subjects must attend to and encode items. Further, expression of this FR-related encoding-phase network made the largest independent contribution to predicting vulnerability to overall SD-related impairment.
+

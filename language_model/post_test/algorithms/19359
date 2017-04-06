@@ -1,0 +1,9 @@
+
+zzso reconstruction methods allow resolution recovery in zzso zzso Even though resolution recovery has the potential to improve overall image quality, pinhole zzso images are still often reconstructed using simplified models of the acquisition geometry in order to reduce reconstruction zzso This paper investigates the benefits of two resolution recovery methods, zzso and zzso function based, in pinhole zzso by comparing them to zzso zzso 
+
+Resolution recovery was incorporated into ordered zzso expectation zzso reconstruction zzso The first of the correction methods used a simple but very fast multiple projection ray approach, whereas the second, much zzso method zzso the acquisition geometry more accurately using the zzso zzso function of the pinhole zzso Line source, zzso and contrast phantom studies were performed and used for zzso 
+
+Resolution recovery improved resolution, contrast and visual quality of the images when compared to reconstructions without zzso The method based on the zzso function performed slightly better, but was almost 50 times slower than the much simpler zzso zzso 
+
+The multiple projection ray approach is a promising method for very fast and easy resolution recovery in pinhole zzso It has a profound effect on image quality and can markedly improve the zzso zzso 
+

@@ -1,0 +1,9 @@
+
+To assess the reproducibility of computed tomographic (CT) perfusion measurements in liver tumors and normal liver and effects of motion and data acquisition time on parameters.
+
+Institutional review board approval and written informed consent were obtained for this prospective study. The study complied with HIPAA regulations. Two CT perfusion scans were obtained 2-7 days apart in seven patients with liver tumors with two scanning phases (phase 1: 30-second breath-hold cine; phase 2: six intermittent free-breathing cines) spanning 135 seconds. Blood flow (BF), blood volume (BV), mean transit time (MTT), and permeability-surface area product (PS) for tumors and normal liver were calculated from phase 1 with and without rigid registration and, for combined phases 1 and 2, with manually and rigid-registered phase 2 images, by using deconvolution modeling. Variability was assessed with within-patient coefficients of variation (CVs) and Bland-Altman analyses.
+
+For tumors, BF, BV, MTT, and PS values and reproducibility varied by analytical method, the former by up to 11%, 23%, 21%, and 138%, respectively. Median PS values doubled with the addition of phase 2 data to phase 1 data. The best overall reproducibility was obtained with rigidly registered phase 1 and phase 2 images, with within-patient CVs for BF, BV, MTT, and PS of 11.2%, 14.4%, 5.5% and 12.1%, respectively. Normal liver evaluations were similar, except with marginally lower variability.
+
+Absolute values and reproducibility of CT perfusion parameters were markedly influenced by motion and data acquisition time. PS, in particular, probably requires data acquisition beyond a single breath hold, for which motion-correction techniques are likely necessary.
+

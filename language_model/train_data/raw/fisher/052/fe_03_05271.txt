@@ -1,0 +1,387 @@
+# fe_03_05271.sph
+# Transcribed by BBN/WordWave
+
+0.58 1.65 A: (( [noise] )) 
+
+1.74 2.86 B: hello 
+
+2.01 2.98 A: (( hi )) 
+
+3.18 3.93 A: (( hello )) 
+
+3.91 4.80 B: (( go ahead [mn] )) 
+
+5.48 6.92 A: (( hey this is brian )) 
+
+7.57 9.80 B: [mn] brian hi this is rob how're you doing 
+
+9.62 10.93 A: great how are you 
+
+10.79 13.10 B: [mn] wonderful where are you from 
+
+13.50 15.94 A: (( ah california )) 
+
+15.02 16.25 B: whereabouts [mn] [mn] 
+
+17.06 18.42 A: (( los angeles )) 
+
+18.84 21.13 B: gordon bennett i'm in van nuys 
+
+21.42 23.37 A: (( what's that )) 
+
+22.33 24.19 B: i'm in van nuys huh 
+
+23.79 26.55 A: oh perfect that's cool 
+
+27.31 31.51 A: (( so how did you get introduced to this )) 
+
+32.11 34.46 A: this survey thing 
+
+34.20 36.98 B: (( [mn] a girl from work turned me on to it )) 
+
+36.79 40.49 A: okay does it actually pay money 
+
+37.54 38.32 B: she 
+
+39.77 42.50 B: i believe so i don't know i haven't gotten anything yet 
+
+42.29 43.62 A: (( oh okay )) 
+
+43.00 44.82 B: [mn] maybe she gets paid 
+
+45.82 50.85 A: [mn] anyway so i guess we're supposed to talk about iraq 
+
+45.83 46.39 B: (( [mn] )) 
+
+49.39 50.40 B: (( ya )) 
+
+51.07 54.53 A: okay what do you think about disarming iraq 
+
+54.77 56.51 B: [noise] about disarming iraq 
+
+56.62 58.08 B: we already did [mn] 
+
+59.17 61.09 B: i think we already did didn't we 
+
+61.48 63.11 A: no i don't think so 
+
+63.39 64.44 B: (( how do you mean )) 
+
+65.11 70.07 A: well i think there there are still a lot of terrorist groups there 
+
+69.74 72.62 B: [mn] oh that's what they mean by disarming [mn] 
+
+72.64 75.66 B: you mean civil unrest and yeah 
+
+72.92 79.68 A: that's what i thought yeah that's what i just had a lot of terrorist groups still there i think just the other 
+
+82.87 86.39 A: i think just the other day they found a lot of terrorist camps 
+
+87.65 89.70 B: they could have had a hundred of 'em yesterday 
+
+89.86 102.29 A: yeah and then they have the weapons of mass destruction i still think they have those too and i think that we'll find 'em some day yeah what do you think 
+
+98.18 99.24 B: really 
+
+101.44 103.80 B: i don't think there are weapons of mass destruction 
+
+103.93 105.31 A: why don't you think so 
+
+104.02 107.74 B: i think it was a i think it was just well we could have found them by now 
+
+108.35 111.91 B: you know if there's radioactivity it's pretty easy to find a 
+
+112.16 114.81 B: to do a scanner for radioactivity 
+
+114.98 120.40 A: yeah there's a lot of chemical weapons though that you wouldn't be able to find out biological weapons 
+
+121.14 130.45 A: i mean you have a a country the size of california it'd be like trying to find that in california just take forever 
+
+130.37 136.12 B: well i would say in that case our intelligence is severely lacking to the point of being morons 
+
+136.63 137.83 A: you think so 
+
+137.58 141.47 B: yeah 'cause we have what hundreds of those people in in ah capture 
+
+141.57 145.95 B: you don't think they could point down one or two ah places where they think they had ah 
+
+146.63 149.03 B: some kind of ah storage for that kind of stuff 
+
+149.43 156.15 A: well it's like well that that might be true but then i think about why they have all those chemical biological weapons too 
+
+159.09 160.77 B: why they have them 
+
+160.52 170.55 A: yeah exactly they have them they just they yeah they found a lot of that ah when they first operation iraqi freedom when it first started 
+
+161.83 163.84 B: i don't even know that they do have them 
+
+169.78 172.28 B: oh i heard the brits sold them to them 
+
+172.56 175.64 A: oh really 
+
+173.27 175.87 B: maybe they were afraid of chemical attacks themselves 
+
+176.77 178.27 A: (( yeah i don't know )) 
+
+178.56 184.49 A: i just think that saddam is such a sly guy i'm sure he has stuff hidden away 
+
+186.87 187.75 B: (( saddam )) 
+
+188.35 190.31 A: saddam hussain 
+
+190.06 191.24 B: yeah 
+
+191.24 192.84 A: yeah 
+
+192.03 198.57 B: oh i think we went in there ah on the rationalization for ah weapons of mass destruction but the real reason was because we wanted the oil 
+
+199.62 202.65 A: i i don't think that's true 
+
+202.67 214.86 A: i think that i think that maybe if it's not the real reason is the weapons of mass destruction the only thing is we want saddam out of power because he is funding all the terrorist groups 
+
+215.85 219.74 B: well there was a report in the newspaper this week that he had no connection with them 
+
+219.81 223.30 A: oh really i don't i just don't buy that 
+
+223.44 236.64 A: i i would be a hundred percent sure that he has connections with those people i mean it with all the training camps that they had in his country he's such a militant guy 
+
+229.50 230.94 B: based on what facts 
+
+236.54 239.46 A: (( you would have to know that they have these )) 
+
+240.13 242.04 A: they have these camps for 
+
+244.08 244.88 B: huh 
+
+245.69 250.78 A: that yeah so what do you think we should do instead 
+
+250.42 253.09 B: interesting instead i think we should take the oil fields 
+
+253.98 257.24 A: take the oil fields for how do you 
+
+257.24 259.02 B: to support our ah 
+
+259.12 262.26 B: our economy which is going to take a downturn in a couple of years' time 
+
+262.79 264.49 A: mean do what i'm sorry i 
+
+265.07 269.04 B: to support our economy which is going to take a downturn in a couple of years' time 
+
+265.36 266.04 A: (( say it )) 
+
+267.11 275.58 A: again yeah so you think we should take all their oil for 
+
+272.84 275.46 B: well it's it's ours by now by um 
+
+275.85 277.24 B: by right 
+
+276.22 280.61 A: that yeah because we bailed them out you 
+
+280.78 283.63 B: well we've taken over the country i mean that's just a classic 
+
+281.87 293.02 A: mean yeah do you think that we helped the people over there 
+
+283.78 285.20 B: form of ah 
+
+285.29 286.91 B: of imperialism 
+
+291.56 299.89 B: um i don't know i think they're baking in a hundred and twenty degrees heat right now and they're not very happy with it if you ask them i guess that's the important question 
+
+299.95 302.05 B: for the most part they're not happy with us 
+
+300.02 301.61 A: yeah 
+
+302.22 303.76 A: you don't think so 
+
+303.40 306.33 B: [cough] they have no electricity and won't have electricity for the next ah 
+
+307.23 312.79 B: what is it three months or a year i can't remember there's some time they're gonna be without juice 
+
+310.32 311.55 A: (( yeah i don't know )) 
+
+313.24 315.11 A: yeah 
+
+314.81 317.31 B: so what we're getting into huh 
+
+315.33 318.78 A: (( how about what's that )) 
+
+318.29 322.65 B: what we're getting in in terms of news coverage does not reflect apparently what's going on there 
+
+323.44 325.42 A: yeah not if yeah that's true 
+
+326.21 327.40 A: just depends 
+
+327.94 331.87 A: i think they're better off without saddam i mean how 
+
+330.75 334.12 B: [mn] well yeah there's no doubt about that he was a scoundrel 
+
+334.04 338.20 A: yeah where are you originally from 
+
+337.55 339.28 B: i'm from dear old england 
+
+339.49 341.54 A: oh really 
+
+340.42 342.12 B: mhm 
+
+341.61 346.98 A: so what did how did you feel about the english going in and helping out the americans 
+
+346.45 347.64 B: i think it's great 
+
+348.23 351.00 A: yeah you supported that 
+
+349.00 349.76 B: yeah 
+
+350.47 351.32 B: huh 
+
+351.32 354.58 A: you were in support of that 
+
+353.42 357.16 B: well in so far that it was going to happen and it was going to be inevitable sure 
+
+357.09 358.03 A: (( ahah )) 
+
+357.54 362.30 B: i'm not so sure we did the right thing to begin with and i'm not sure i'm i'm pretty sure went for all the right reasons 
+
+362.32 366.09 B: and that's the question about weapons of mass destruction again i don't think there ever were any 
+
+366.33 368.12 A: yeah 
+
+366.58 371.22 B: i th- ah there's i there's plenty of room for the intelligence people our intelligence people 
+
+371.38 375.44 B: to bring in experts quote unquote experts from ah iraq 
+
+375.64 378.25 B: who are fleeing the coun- country quote unquote 
+
+378.28 380.09 A: yeah 
+
+378.63 383.45 B: who are who are are basically in the service of the united states as agents 
+
+383.66 388.02 B: and they'll give their their story to support our theories and probabilities 
+
+383.91 385.95 A: yeah 
+
+388.27 389.96 A: yeah 
+
+388.83 393.02 B: there's plenty of room for that that's just that's just common sense in terms of covert action 
+
+393.35 396.18 A: so would you have wanted more talking 
+
+397.07 399.53 B: no i d- you know i'm not ah 
+
+399.79 404.49 B: i'm not against what happened i just think that we're being sold a bill of goods in terms of 
+
+404.89 406.34 B: the rationale for it 
+
+407.38 408.49 B: um 
+
+409.65 414.82 A: i think that happens with anything though any type of war there's a little bit of you know 
+
+415.26 416.25 A: ah 
+
+417.29 420.82 A: (( what's it called propaganda )) 
+
+420.83 430.78 A: (( with anything ah from from both sides yeah )) 
+
+422.15 423.14 B: right 
+
+426.87 427.73 B: yeah 
+
+427.78 434.91 B: but ah i think it's it's a form of brainwashing and and i don't like as an american to be brainwashed by my own government i mean we stand for freedom 
+
+435.62 438.82 B: um let's not try and pull the wool over our own people 
+
+439.69 445.83 B: does our government really know that they're doing the best thing i think in this case they might i don't think it's always going to be that way though 
+
+446.40 448.24 A: yeah 
+
+447.48 451.12 B: i'm not in favor of paying more taxes for higher security for what 
+
+451.94 453.75 A: for our country 
+
+452.97 454.13 B: (( yeah [mn] )) 
+
+454.29 456.97 A: (( oh you're not in favor of that )) 
+
+455.91 456.95 B: no 
+
+457.36 459.33 A: why not 
+
+457.57 461.78 B: mainly well because once it's there it's never going to go away it's another tax 
+
+462.43 467.57 A: yeah but don't you think that our security is really important 
+
+463.59 465.04 B: and you know i mean 
+
+467.21 477.25 B: it's very important and i think that we're right to protect it but i don't think that they're that we're doing it the right way and i think there's an overkill and a psychological brainwashing that goes along with it which i'm not comfortable with 
+
+477.59 481.66 A: what do you think would be a better way to protect our security 
+
+481.39 488.42 B: well right now i would drop all the guards i would i would revert to the pre nine eleven security that we had i would just cancel everything 
+
+488.53 492.40 B: and say you know what this really is a free country go ahead and try it again 
+
+493.09 495.58 B: we got your oil go ahead and try it again 
+
+496.52 498.85 A: yeah what do you think that'll do 
+
+499.49 501.01 B: i think um [mn] 
+
+502.03 508.67 B: i think it would it would encourage us if we were serious about it to spend more money on intelligence and have real intelligence 
+
+509.01 509.89 A: (( ahah )) 
+
+511.06 512.53 B: rather than ah 
+
+513.09 524.75 B: rather than just put up a wall rather than ah you know having more more personnel ah being paid five five dollars and seventy five cents an hour to to secure this country or whatever it is 
+
+524.99 526.02 B: um 
+
+527.13 530.27 B: i just think it would be a free country and that's what that's what we're here for 
+
+530.68 537.34 A: yeah well you what would you say then if we had another big attack and 
+
+537.14 541.49 B: i'd say i'd say use our intelligence to find who it is and bomb them out of existence 
+
+542.33 544.08 A: (( what )) 
+
+543.21 544.95 B: bomb them out of existence 
+
+545.40 547.69 A: yeah so you're not 
+
+545.83 549.91 B: the message the message has to go out that you cannot get away with it 
+
+549.88 551.37 A: yeah 
+
+550.28 557.71 B: the fact that there are crazy people in the world is something we're gonna live with and you know one way or another we're gonna control it i just think the way we're controlling it is the wrong way 
+
+558.12 563.05 A: yeah but if we can gather intelligence and then protect ourselves as best we can 
+
+563.50 567.94 A: and then hopefully ward off another attack like that 
+
+570.61 572.32 B: (( [mn] [mn] well that's wishful thinking [mn] )) 
+
+573.16 574.81 A: yeah 
+
+573.39 575.77 B: i think i think we're gonna get another attack anyway 
+
+576.31 580.53 A: (( yeah i don't know i hope not )) 
+
+581.40 585.47 A: hope not how long does this thing last 
+
+584.61 586.65 B: (( [mn] [laughter] have you had enough )) 
+
+586.88 589.55 A: well i thought it would last ten minutes 
+
+589.71 591.48 B: yeah you've probably been on five 
+
+592.24 594.18 A: oh really my timer s- 
+
+593.08 594.06 B: i'm not 
+
+594.22 596.31 A: my timer says twelve minutes now 
+
+596.41 597.45 B: oh really 
+
+597.52 598.53 A: yeah 
+
+598.71 599.89 B: (( how did who go who )) 
+

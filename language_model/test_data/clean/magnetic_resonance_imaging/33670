@@ -1,0 +1,3 @@
+
+Analytical calculations using the Bloch formalism were performed to assess the dependence on T1 of the echo amplitudes for the Phase-Alternating Phase-Shift (PHAPS) multiple spin-echo protocol. Measurements in a 0.5 T MR imaging unit were performed to ratify the analytical results. Especially for low T2 values, the echo amplitudes were erroneous, with an increasing contribution from stimulated echo components with increasing T1. Apart from affecting T2 estimates, stimulated echoes generated a non-monoexponential signal decay of the echo trains. The results confirmed previous simulation studies as regards the dependence on T1 of T2 estimates from PHAPS.
+

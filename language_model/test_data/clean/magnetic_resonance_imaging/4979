@@ -1,0 +1,9 @@
+
+To develop a robust T(2) -weighted volumetric imaging technique with uniform water-silicone separation and simultaneous fat suppression for rapid assessment of breast implants in a single acquisition.
+
+A three-dimensional (3D) fast spin echo sequence that uses variable refocusing flip angles was combined with a three-point chemical-shift technique (IDEAL) and short tau inversion recovery (STIR). Phase shifts of -π/6, +π/2, and +7π/6 between water and silicone were used for IDEAL processing. For comparison, two-dimensional images using 2D-FSE-IDEAL with STIR were also acquired in axial, coronal, and sagittal orientations.
+
+Near-isotropic (true spatial resolution-0.9 × 1.3 × 2.0 mm(3) ) volumetric breast images with uniform water-silicone separation and simultaneous fat suppression were acquired successfully in clinically feasible scan times (7:00-10:00 min). The 2D images were acquired with the same in-plane resolution (0.9 × 1.3 mm(2) ), but the slice thickness was increased to 6 mm with a slice gap of 1 mm for complete coverage of the implants in a reasonable scan time, which varied between 18:00 and 22:30 min.
+
+The single volumetric acquisition with uniform water and silicone separation enables images to be reformatted into any orientation. This allows comprehensive assessment of breast implant integrity in less than 10 min of total examination time.
+

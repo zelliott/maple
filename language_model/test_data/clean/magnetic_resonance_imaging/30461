@@ -1,0 +1,9 @@
+
+To determine the impact of prostate motion on dose coverage in proton therapy.
+
+A total of 120 prostate positions were analyzed on 10 treatment plans for 10 prostate patients treated using our low-risk proton therapy prostate protocol (University of Florida Proton Therapy Institute 001). Computed tomography and magnetic resonance imaging T(2)-weighted turbo spin-echo scans were registered for all cases. The planning target volume included the prostate with a 5-mm axial and 8-mm superoinferior expansion. The prostate was repositioned using 5- and 10-mm one-dimensional vectors and 10-mm multidimensional vectors (Points A-D). The beam was realigned for the 5- and 10-mm displacements. The prescription dose was 78 Gy equivalent (GE).
+
+The mean percentage of rectum receiving 70 Gy (V(70)) was 7.9%, the bladder V(70) was 14.0%, and the femoral head/neck V(50) was 0.1%, and the mean pelvic dose was 4.6 GE. The percentage of prostate receiving 78 Gy (V(78)) with the 5-mm movements changed by -0.2% (range, 0.006-0.5%, p > 0.7). However, the prostate V(78) after a 10-mm displacement changed significantly (p < 0.003) with different movements: 3.4% (superior), -5.6% (inferior), and -10.2% (posterior). The corresponding minimal doses were also reduced: 4.5 GE, -4.7 GE, and -11.7 GE (p < or = 0.003). For displacement points A-D, the clinical target volume V(78) coverage had a large and significant reduction of 17.4% (range, 13.5-17.4%, p < 0.001) in V(78) coverage of the clinical target volume. The minimal prostate dose was reduced 33% (25.8 GE), on average, for Points A-D. The prostate minimal dose improved from 69.3 GE to 78.2 GE (p < 0.001) with realignment for 10-mm movements.
+
+The good dose coverage and low normal doses achieved for the initial plan was maintained with movements of < or = 5 mm. Beam realignment improved coverage for 10-mm displacements.
+

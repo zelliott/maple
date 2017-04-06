@@ -1,0 +1,9 @@
+
+Classical expressions for the tumor control probability zzso are based on models for the survival fraction of cancer cells after radiation zzso We focus on the derivation of expressions for zzso from dynamic cell population zzso In particular, we derive a zzso formula for a generalized cell population model that includes the cell cycle by considering a compartment of actively zzso cells and a compartment of zzso cells, with the zzso cells being less sensitive to radiation than the actively zzso zzso 
+
+We zzso previously derived zzso formulas of zzso and zzso and of Dawson and zzso to derive a zzso formula from our cell population zzso We then use six prostate cancer treatment protocols as a case study to show how our zzso formula works and how the cell cycle affects the tumor zzso 
+
+The zzso formulas of zzso and of zzso are special cases of the zzso formula presented zzso The former one represents the case with no zzso cells while the latter one assumes that all newly born cells enter a zzso cell phase before becoming zzso From our case study, we observe that inclusion of the cell cycle lowers the zzso 
+
+The cell cycle can be understood as the zzso of cells in the zzso zzso where they are less sensitive to zzso We suggest that our model can be used in combination with synchronization methods to zzso treatment zzso 
+

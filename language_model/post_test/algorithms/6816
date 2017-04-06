@@ -1,0 +1,9 @@
+
+The reconstruction of genetic networks is the holy zzso of functional zzso Its core task is to identify the zzso structure of a gene network, that is, to distinguish direct from indirect regulatory interactions among gene zzso In other words, to reconstruct a genetic network is to zzso for each network zzso which other genes and their activity the gene influences zzso zzso to this task are zzso of gene zzso zzso technology permits large-scale experiments zzso the activity of many genes and assessing the effect of each zzso on all other genes in a zzso However, such experiments cannot distinguish between direct and indirect effects of a genetic zzso 
+
+I present an zzso to reconstruct direct regulatory interactions in gene networks from the results of gene zzso zzso The zzso is based on a graph representation of genetic networks and applies to networks of arbitrary size and zzso zzso complexity in both storage and time is low, less than zzso In practice, the zzso can reconstruct networks of several thousand genes in mere CPU seconds on a zzso zzso 
+
+A zzso zzso of the zzso is given in the zzso 
+
+zzso 
+

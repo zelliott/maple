@@ -1,0 +1,3 @@
+
+We report a new method for predicting protein zzso structure from sequence and secondary structure zzso The predictions result from global zzso of a potential energy function, including van der zzso zzso and excluded volume zzso The zzso algorithm, which is based on the zzso method developed by zzso and zzso zzso and zzso J zzso zzso zzso uses a reduced model of the protein and is implemented in both distance and zzso angle space, enabling a side-by-side comparison of zzso For a set of eight small zzso representing the three basic zzso zzso all zzso and mixed zzso zzso locates low-energy zzso structures (less than zzso root mean square zzso from the native zzso starting from an unfolded zzso zzso and parallel zzso of this methodology are zzso 
+

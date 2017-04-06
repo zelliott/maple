@@ -1,0 +1,9 @@
+
+We introduce a new zzso approach for elastic medical image registration using zzso zzso In order to obtain the dense deformation field, we employ zzso elastic body zzso zzso that incorporate zzso landmark errors and rotation zzso Since the zzso approach is based on a physical model in form of zzso solutions of the zzso zzso it can very well cope with the local as well as global zzso present in the images by varying the standard zzso of the zzso zzso 
+
+The proposed zzso zzso model is integrated into the elastic zzso image registration zzso which zzso a zzso registration problem into numerous local rigid zzso The zzso zzso registration scheme incorporates zzso landmark errors as well as rotation zzso The zzso landmark zzso uncertainties can be estimated directly from the image data, and in this case, they represent the minimal zzso zzso error, zzso the zzso zzso The rotation information of each landmark obtained from the zzso procedure is zzso in an additional angular landmark, doubling the number of landmarks in the zzso zzso 
+
+The modified zzso registration using the zzso zzso model is applied to register 161 image pairs from a digital mammogram zzso The obtained results are very encouraging, and the proposed approach significantly improved all registrations comparing the zzso error in relation to zzso zzso with the rotation zzso On artificially zzso breast images, the newly proposed method performed better than the state-of-the-art registration zzso introduced by zzso et zzso zzso zzso zzso Imaging zzso zzso The average error per breast tissue zzso was less than zzso zzso compared to zzso zzso for zzso zzso 
+
+The proposed zzso elastic image registration approach incorporates the zzso approximation scheme extended with zzso landmark zzso uncertainties as well as rotation zzso Our experimental results show that the proposed scheme improved the registration result zzso 
+

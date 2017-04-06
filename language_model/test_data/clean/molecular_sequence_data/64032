@@ -1,0 +1,3 @@
+
+RNA interference (RNAi) is a recently developed technique for gene silencing by introducing dsRNA into cells, and it is shown to work in mammalian cells when siRNAs are used. Several groups have developed vector-based siRNA expression systems that can induce RNAi in living cells. These vector systems use a pol III promoter, such as U6 or H1, and are classified into two groups based on the form of expressed RNAs: tandem-type and hairpin-type. Here, we describe how to generate these siRNA expression vectors and outline the experimental procedure for suppressing the expression of a reporter gene by transient transfection of a siRNA expression vector.
+

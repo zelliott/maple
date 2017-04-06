@@ -1,0 +1,9 @@
+
+Most sequence comparison methods assume that the data being compared are zzso but this is not the case with raw DNA sequences obtained from automatic sequencing zzso Nevertheless, sequence comparisons need to be done on them in order to remove zzso zzso sites and zzso This step is necessary before other zzso data processing stages can be carried out, such as zzso assembly or zzso zzso A specialized tool is therefore needed to solve this apparent zzso 
+
+We have designed and implemented a program that specifically addresses the zzso This program, called zzso has been in use since 1998 at The Institute for zzso Research zzso During this period, many rounds of zzso modifications were made to zzso to improve its accuracy and its ability to deal with extremely difficult input zzso We believe we have finally obtained a useful program which strikes a delicate balance among the many issues involved in the raw sequence cleaning problem, and we wish to share it with the research zzso 
+
+zzso is available directly from zzso zzso Academic users can download zzso after accepting a free academic use zzso Business users may need to pay a license fee to use zzso for commercial zzso 
+
+Questions regarding the quality assessment module of zzso should be directed to Michael Holmes zzso Questions regarding other aspects of zzso should be directed to zzso zzso zzso 
+

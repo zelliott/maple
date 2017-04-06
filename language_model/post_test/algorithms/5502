@@ -1,0 +1,9 @@
+
+Access to the vast body of research literature that is available in zzso and related fields may be improved by automatic zzso This paper presents a method for zzso biomedical scientific literature that takes into consideration the characteristics of the domain and the type of zzso 
+
+To address the problem of identifying salient sentences in biomedical texts, concepts and relations derived from the zzso Medical Language System zzso are arranged to construct a semantic graph that represents the zzso A zzso zzso zzso is then used to identify different themes or topics within the zzso Different zzso for sentence selection, intended to generate different types of zzso are zzso A real document case is drawn up to illustrate how the method zzso 
+
+A large-scale evaluation is performed using the zzso understudy for zzso zzso zzso The results are compared with those achieved by three well-known zzso zzso research prototypes and a commercial zzso and two zzso Our method significantly zzso all zzso and zzso The best of our zzso achieves an improvement in performance of almost zzso percentage units in the zzso score over the zzso zzso zzso versus zzso A qualitative analysis of the zzso also shows that our method succeeds in identifying sentences that cover the main topic of the document and also considers other secondary or zzso information that might be relevant to the zzso 
+
+The method proposed is proved to be an efficient approach to biomedical literature zzso which confirms that the use of concepts rather than terms can be very useful in automatic zzso especially when dealing with highly zzso zzso 
+

@@ -1,0 +1,3 @@
+
+A new "wireless" method of cardiac imaging is introduced, which, unlike ECG triggering, allows imaging the heart at end-diastole, and greatly reduces smearing artifacts in the phase-encoding direction. It is an improvement over ECG-driven retrospective gating, in that patients with poor ECGs can be imaged. This method extends the applicability of cardiac imaging, and since it requires no physiological monitoring hardware, can be implemented easily on any MR imager. The images produced by this method are superior to those from ECG triggering, especially when viewed in a "cine" loop. The technique described herein is, furthermore, extendable to any area where periodic or quasi-periodic motion is a problem.
+

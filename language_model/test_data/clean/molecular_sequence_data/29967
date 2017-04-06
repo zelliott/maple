@@ -1,0 +1,3 @@
+
+Recent advances in the understanding of eukaryotic gene regulation have produced an extensive body of transcriptionally-related sequence information in the biological literature, and have created a need for computing structures that organize and manage this information. The 'relational model' represents an approach that is finding increasing application in the design of biological databases. This report describes the compilation of information regarding eukaryotic transcription factors, the organization of this information into five tables, the computational applications of the resultant relational database that are of theoretical as well as experimental interest, and possible avenues of further development.
+

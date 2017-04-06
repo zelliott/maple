@@ -1,0 +1,3 @@
+
+This paper presents a novel zzso method for zzso zzso zzso an approximate zzso rather than a precise zzso zzso The significant difference from previous zzso methods is that the latter use the skeleton to control movement of zzso whereas we use it to control the zzso defining the zzso By doing so, errors that occur near zzso in other methods can be spread over the whole mesh, using an zzso process, resulting in smooth transitions near zzso of the zzso By controlling zzso our method has the advantage that no zzso weights need to be defined on the bones, which is a tedious requirement in previous zzso zzso Our method can also easily be extended to control deformation by moving a few chosen line segments or zzso embedded in the object, rather than a zzso 
+

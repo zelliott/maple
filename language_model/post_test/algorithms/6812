@@ -1,0 +1,9 @@
+
+zzso analysis allows detection and zzso of genes that are zzso under various biological zzso Under the assumption that zzso genes share zzso regulatory zzso it is important to investigate the upstream sequences controlling the zzso of these zzso To improve the zzso of the Gibbs sampling zzso to noisy data sets we propose an extension of this zzso for motif finding with a zzso background zzso 
+
+zzso data and real biological data sets with zzso regulatory elements are used to test the influence of the different background models on the performance of the motif detection zzso We show that the use of a zzso model considerably enhances the performance of our motif finding zzso in the presence of noisy zzso For zzso zzso a reliable background model based on a set of carefully selected zzso sequences was zzso 
+
+Our zzso of the Gibbs zzso called the zzso zzso can be used through a web zzso zzso 
+
+zzso zzso 
+

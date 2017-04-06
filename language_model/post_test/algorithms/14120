@@ -1,0 +1,9 @@
+
+A near real-time and fully automatic method for calculation of the zzso plane zzso for magnetic resonance zzso diffusion and zzso images is zzso 
+
+The method is based on the zzso zzso measure zzso the difference between two intensity zzso The MSP is a zzso plane with the highest zzso zzso The method was validated zzso for 61 zzso imaging zzso cerebral blood flow zzso cerebral blood volume zzso mean transit time zzso peak height zzso and time to peak zzso data sets of 11 stroke patients based on the ground truth provided by two zzso 
+
+Average angular errors are less than 1 degrees for zzso and less than 2 degrees for zzso and zzso Average distance errors measured in the worst case (on the zzso zzso zzso are less than zzso zzso for zzso and less than 5 zzso for zzso and zzso This zzso accuracy is at the level of zzso zzso zzso obtained for the other zzso maps zzso zzso zzso were zzso therefore, processing of zzso or zzso is preferred for accurate and robust calculation of the MSP from zzso zzso zzso of the MSP takes about half a second on a standard zzso 
+
+The proposed method is near real-time and fully zzso and neither user interaction nor zzso setting is zzso It does not require zzso of zzso The method potentially is useful in rapid and automated processing of MR stroke diffusion and zzso zzso 
+

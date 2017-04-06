@@ -1,0 +1,3 @@
+
+The conformation and dynamics of a protein chain with hydrophobic and polar nodes are examined by the bond-fluctuation model using Monte Carlo simulations on a cubic lattice. The minimal (nearest neighbor) interaction leads to standard (self-avoiding walk) conformation, i.e., the scaling of the radius of gyration R(g) with the molecular weight N R(g) proportional, variant Ngamma with gamma approximately 3/5 . Specific interactions with longer range and higher strength are needed to approach the native globular conformations with gamma<3/5 . Relaxation into the globular ground state shows a weak power-law decay, i.e., R(g) proportional, variant t(-alpha) , alpha approximately 0.06-0.12 .
+

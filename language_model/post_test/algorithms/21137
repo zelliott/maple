@@ -1,0 +1,9 @@
+
+To propose and to evaluate a novel method for the automatic zzso of the heart's two zzso from dynamic zzso zzso zzso state free zzso zzso MR zzso This zzso task is of significant clinical zzso Previously published automated methods have various disadvantages for routine clinical zzso 
+
+The proposed method is primarily zzso it exploits the zzso information provided by modern zzso zzso cardiac zzso and makes only few and plausible assumptions about the image acquisition and about the zzso zzso Specifically, the method does not require previously trained statistical shape models or zzso appearance models, as often used by other zzso 
+
+The performance of the zzso method was demonstrated through a qualitative visual validation on 32 clinical zzso no gross failures for the zzso zzso on 31 zzso of the exams were zzso A validation of resulting quantitative cardiac functional parameters showed good agreement with a manual zzso of 19 clinical zzso 
+
+The proposed method is zzso fast, and robust against anatomical zzso and image contrast zzso 
+

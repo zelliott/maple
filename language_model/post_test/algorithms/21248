@@ -1,0 +1,7 @@
+
+A primary reason for using zzso zzso is that the use of two samples labeled with different zzso on the same slide, that bind to zzso on the same spot, is supposed to adjust for many factors that introduce noise and errors into the zzso Most users assume that any differences between the zzso can be adjusted out by standard methods of zzso so that measures such as log ratios on the same slide are reliable measures of comparative zzso However, even after the zzso there are still probe specific dye and slide variation among the zzso We define a method to zzso the amount of the zzso and zzso zzso This serves as a zzso both visual and zzso of the existence of zzso dye zzso We show how this improved the performance of zzso array analysis for zzso for zzso analysis of biological samples ranging from rice to human zzso 
+
+We develop a procedure for zzso the extent of zzso dye and slide bias in zzso zzso The primary output is a zzso diagnostic of the extent of the bias which called zzso zzso zzso Distribution zzso though zzso results are also zzso 
+
+We show that the dye and slide biases were high for human and rice zzso zzso in two gene expression facilities, even after the standard zzso zzso and describe how this diagnostic allowed the problems causing the zzso bias to be zzso and resulted in important improvements in zzso The R package zzso which contains the method described in this paper has been available to download from zzso 
+

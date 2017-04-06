@@ -1,0 +1,9 @@
+
+To develop an interpretation model, based on repeatedly acquired images, aimed at improving assessments of technical efficacy and diagnostic accuracy in the detection of small lesions.
+
+A theoretical model is proposed. The studied population consists of subjects that develop focal lesions which increase in size in organs of interest during the study period. The imaging modality produces images that can be re-interpreted with high precision, e.g. conventional radiography, computed tomography, and magnetic resonance imaging. At least four repeat examinations are carried out.
+
+The interpretation is performed in four or five steps: 1. Independent readers interpret the examinations chronologically without access to previous or subsequent films. 2. Lesions found on images at the last examination are included in the analysis, with interpretation in consensus. 3. By concurrent back-reading in consensus, the lesions are identified on previous images until they are so small that even in retrospect they are undetectable. The earliest examination at which included lesions appear is recorded, and the lesions are verified by their growth (imaging reference standard). Lesion size and other characteristics may be recorded. 4. Records made at step 1 are corrected to those of steps 2 and 3. False positives are recorded. 5. (Optional) Lesion type is confirmed by another diagnostic test.
+
+Applied on subjects with progressive disease, the proposed image interpretation model may improve assessments of technical efficacy and diagnostic accuracy in the detection of small focal lesions. The model may provide an accurate imaging reference standard as well as repeated detection rates and false-positive rates for tested imaging modalities. However, potential review bias necessitates a strict protocol.
+

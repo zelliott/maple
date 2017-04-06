@@ -1,0 +1,3 @@
+
+Hannenhalli and Pevzner developed the first polynomial-time algorithm for the combinatorial problem of sorting signed genomic data. Their algorithm determines the minimum number of reversals required for rearranging a genome to another -but only in the absence of gene duplicates. However, duplicates often account for 40% of a genome. In this paper, we show how to extend Hannenhalli and Pevzner's approach to deal with genomes with multi-gene families. We propose a new heuristic algorithm to compute the nearest reversal distance between two genomes with multi-gene families via binary integer programming. The experimental results on both synthetic and real biological data demonstrate that the proposed algorithm is able to find the reversal distance with high accuracy.
+

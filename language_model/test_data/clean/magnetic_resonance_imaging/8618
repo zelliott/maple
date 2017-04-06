@@ -1,0 +1,13 @@
+
+Investigation of method.
+
+This study presents a novel method of accurately determining relative bone position in vivo using magnetic resonance imaging (MRI).
+
+Biomechanical modeling of the human body requires measurement of the relative positions of skeletal elements. Spinal orientation is particularly difficult to measure due to small joint movements, relative inaccessibility of the bones to direct measurement, and joint complexity.
+
+A process incorporating both positional and conventional MRI was used to measure the skeletal positions of the lumbar spine and pelvis. The method uses higher quality conventional MRI to determine bone geometries and then registers these with lower resolution, positional MRI images of various postures to determine the relative locations of the bones. Flexion/extension, lateral bend, and axial twist rotations were measured for each joint.
+
+The results indicate good intrameasurer reliability, with a maximum rotational difference for all vertebral registrations of less than 1 degrees and a maximum translational difference of less than 3 mm. While there did not appear to be significant patterns between the 2 Subjects, there were trends within each Subject as well as identifiable postural characteristics.
+
+Although processing times are currently lengthy, the data collected are 3-dimensional, and represent the anatomy and movement of a specific individual.
+

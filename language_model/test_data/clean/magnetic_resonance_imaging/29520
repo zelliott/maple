@@ -1,0 +1,9 @@
+
+To improve the performance of fat/water separation and reduce the sensitivity to susceptibility variation in balanced SSFP sequences.
+
+Decreasing the repetition time (TR) reduces susceptibility artifacts in SSFP imaging. A shorter TR may also improve the spectral selectivity obtained when linearly combining data acquired using different radiofrequency phase cycling schedules. The desired short TR is achieved by using an angularly undersampled three-dimensional radial acquisition sequence that achieves a near zero echo time (TE) and also a short TR.
+
+Images from human volunteers demonstrate broad coverage of the cervical spine and knee with isotropic resolution. Excellent fat/water separation is achieved in these studies.
+
+The short TR capability of the proposed sequence greatly improves the fat suppression in SSFP imaging. High-resolution volumetric T2-like contrast imaged with reduced susceptibility artifacts can be obtained from a single acquisition using this technique.
+

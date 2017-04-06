@@ -1,0 +1,9 @@
+
+Around zzso of the world's population is affected by zzso and nearly zzso of patients cannot be treated effectively by available zzso The presence of zzso zzso stimulation provides a promising solution for these zzso zzso of fast, accurate, and energy-efficient seizure detection is the key to such zzso In this study, we propose a zzso zzso seizure detection zzso with low-energy consumption for zzso lobe zzso zzso 
+
+zzso signals are processed through independent component analysis and the most representative independent component zzso is automatically selected to eliminate zzso zzso zzso electroencephalogram zzso segments are fast detected in the first stage of the proposed method and these zzso are confirmed in the second zzso The conditional zzso of the second-stage signal processing reduces the zzso effort, and hence energy, since most of the zzso events are filtered out in the first zzso 
+
+zzso zzso recordings of 11 patients who suffered from zzso were analyzed via zzso cross zzso The proposed method has a detection accuracy of zzso a false alarm rate of zzso and an average detection delay time of zzso zzso For the six patients with zzso zzso a detection accuracy of zzso a false alarm rate of zzso and an average detection delay time of zzso s can be zzso The zzso approach provides a zzso energy reduction, yielding effective and energy-efficient zzso for real-time zzso seizure zzso 
+
+An zzso seizure detection method that can be applied to monitor continuous zzso signals of patients who suffered from zzso was zzso An zzso selection strategy to automatically determine the most zzso zzso for seizure detection was also zzso The system has advantages of zzso high detection zzso zzso low false zzso zzso short detection zzso and zzso energy-efficient design for hardware zzso 
+

@@ -1,0 +1,7 @@
+
+Gene trees that arise in the context of reconstructing the evolutionary history of zzso species are often zzso that is, the same leaf label can occur several times in a single zzso This property considerably zzso the task of forming a consensus of a collection of such trees compared to usual zzso zzso 
+
+We present a method for computing a consensus tree of zzso zzso As with the well-known greedy consensus tree approach for zzso trees, our method first breaks the given collection of gene trees into a set of zzso It then aims to insert these clusters one at a time into a tree, starting with the clusters that are supported by most of the gene zzso As the problem to decide whether a cluster can be inserted into a zzso tree is zzso hard, we have developed a zzso method for solving this zzso 
+
+We illustrate the zzso of our method using two collections of trees for plants of the zzso zzso that involve several zzso at different zzso 
+

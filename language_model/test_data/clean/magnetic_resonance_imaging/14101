@@ -1,0 +1,9 @@
+
+Reproducible measurements of brain tumor volume are helpful in evaluating the response to therapy and the need for changing treatment plans. Our purpose was to adapt the fuzzy-connectedness segmentation technique to measure tumor volume. This technique requires only limited operator interaction.
+
+Routine postoperative brain MR imaging was performed in 19 patients with primary malignant gliomas of the brain. Segmentation was performed on axial and coronal gadolinium-enhanced and axial fluid-attenuated inversion recovery (FLAIR) images by using a fuzzy-connectedness algorithm, and tumor volumes were generated. Operator interaction was limited to selecting representative seed points within the tumor and, if necessary, editing the segmented image to include or exclude improperly classified regions.
+
+Measurements of tumor volume were highly reproducible when they were obtained with no editing; intraobserver coefficients of variation were 0.15-0.37% and 0.29-0.38%, respectively, for enhanced images and FLAIR images. Editing consistently produced smaller volumes, at the cost of greater variability in volume measurements. Coefficients of variation for volumes with editing ranged from 0.2% to 1.3%.
+
+Fuzzy-connected segmentation permits rapid, reliable, consistent and highly reproducible measurement of tumor volume from MR images with limited operator interaction.
+

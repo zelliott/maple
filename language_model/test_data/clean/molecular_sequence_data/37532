@@ -1,0 +1,3 @@
+
+Consensus sequences are widely used in molecular biology but they have many flaws. As a result, binding sites of proteins and other molecules are missed during studies of genetic sequences and important biological effects cannot be seen. Information theory provides a mathematically robust way to avoid consensus sequences. Instead of using consensus sequences, sequence conservation can be quantitatively presented in bits of information by using sequence logo graphics to represent the average of a set of sites, and sequence walker graphics to represent individual sites.
+

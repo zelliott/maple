@@ -1,0 +1,7 @@
+
+When analyzing zzso gene expression data, missing values are often zzso Most zzso statistical methods proposed for zzso data analysis cannot be applied when the data have missing zzso Numerous zzso zzso have been proposed to estimate the missing zzso In this study, we develop a robust least squares zzso with principal components zzso method by extending the local least square zzso zzso zzso The basic idea of our method is to employ zzso zzso to estimate the missing values, using the estimated principal components of a selected set of similar zzso 
+
+Using the zzso root mean squares error, the performance of the proposed method was evaluated and compared with other previously proposed zzso zzso The proposed zzso method clearly outperformed the weighted zzso neighbors zzso zzso method and zzso method, and showed competitive results with zzso principal component analysis zzso zzso 
+
+zzso the principal components of the selected genes and employing the zzso zzso model improved the zzso and accuracy of missing value zzso Thus, the proposed zzso method is, according to our empirical studies, more robust and accurate than the widely used zzso and zzso zzso 
+

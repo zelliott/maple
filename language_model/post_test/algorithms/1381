@@ -1,0 +1,3 @@
+
+zzso transformations of zzso zzso zzso data for aligning images or transforming to standard anatomical space are usually performed with reconstructed zzso However, they can also be performed during the reconstruction process, thereby zzso the raw data fewer zzso We investigated the performance of spatial transformations during zzso implemented it in a standard zzso reconstruction algorithm, and tested it on phantom and patient zzso zzso studies for the application of aligning both transmission and zzso zzso Performing the transformations during reconstruction was shown to be equivalent to performing the transformations with reconstructed images for this particular zzso 
+

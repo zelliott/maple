@@ -1,0 +1,7 @@
+
+The development of collections of quantitatively characterized standard biological parts should facilitate the engineering of increasingly complex and novel biological systems. The existing enzymatic and fluorescent reporters that are used to characterize biological part functions exhibit strengths and limitations. Combining both enzymatic and fluorescence activities within a single reporter protein would provide a useful tool for biological part characterization.
+
+Here, we describe the construction and quantitative characterization of Gemini, a fusion between the beta-galactosidase (beta-gal) alpha-fragment and the N-terminus of full-length green fluorescent protein (GFP). We show that Gemini exhibits functional beta-gal activity, which we assay with plates and fluorometry, and functional GFP activity, which we assay with fluorometry and microscopy. We show that the protein fusion increases the sensitivity of beta-gal activity and decreases the sensitivity of GFP.
+
+Gemini is therefore a bifunctional reporter with a wider dynamic range than the beta-gal alpha-fragment or GFP alone. Gemini enables the characterization of gene expression, screening assays via enzymatic activity, and quantitative single-cell microscopy or FACS via fluorescence activity. The analytical flexibility afforded by Gemini will likely increase the efficiency of research, particularly for screening and characterization of libraries of standard biological parts.
+

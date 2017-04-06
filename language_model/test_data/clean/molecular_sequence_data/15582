@@ -1,0 +1,3 @@
+
+Searching a spectral library for the identification of protein MS/MS data has proven to be a fast and accurate method, while yielding a high identification rate. We investigated the potential to increase peptide discovery rate, with little increase in computational time, by constructing a workflow based on a sequence search with Phenyx followed by a library search with SpectraST. Searching a consensus library compiled from the search results of the prior Phenyx search increased the number of confidently matched spectra by up to 156%. Additionally matched spectra by SpectraST included noisy spectra, spectra representing missed cleaved peptides as well as spectra from post-translationally modified peptides.
+

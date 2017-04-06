@@ -1,0 +1,9 @@
+
+zzso border detection is an important and challenging task in the computerized analysis of zzso zzso However, zzso images often contain artifacts such as zzso zzso zzso and outline zzso skin lines, ruler zzso and blood zzso As a result, there is a need for robust methods to remove artifacts and detect zzso borders in zzso zzso 
+
+This automated method consists of three main steps: zzso zzso zzso edge candidate point zzso and zzso tumor outline zzso First, zzso to reduce artifacts were zzso Second, a zzso method zzso was performed to acquire edge zzso Third, dynamic programming zzso technique was used to find the optimal boundary of the zzso zzso measures based on zzso borders were zzso as zzso to evaluate the performance of the proposed zzso 
+
+The method is tested on a total of 240 zzso zzso 30 benign zzso 50 zzso zzso 50 zzso cell zzso 20 Merkel cell zzso 60 zzso zzso and 30 zzso zzso We obtained mean border detection error of zzso zzso zzso zzso zzso and zzso zzso 
+
+The results demonstrate that border detection combined with artifact removal increases sensitivity and specificity for zzso of zzso in zzso zzso 
+

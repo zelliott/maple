@@ -1,0 +1,9 @@
+
+To develop a numerical approach for estimation of vascular permeability from dynamic T2*-weighted imaging, a technique routinely used to measure cerebral blood volume (CBV) and flow in gliomas.
+
+This study describes a process for estimating both the gadolinium diethylenetriamine pentaacetic acid (Gd-DTPA) transvascular transfer constant and CBV from dynamic T2*-weighted images. The algorithm was applied to data from the brains of 12 patients with grade IV gliomas. The stability of the method was assessed. Estimates of CBV by this technique were compared to those of the conventional method.
+
+The algorithm was found to be insensitive to noise and to generate stable voxel-by-voxel estimates of permeability and CBV.
+
+Using a single imaging acquisition, the three most important vascular properties, CBV, cerebral blood flow (CBF), and permeability, can be estimated. This approach may have potential in clinical evaluation of patients with brain tumor or acute ischemic stroke.
+

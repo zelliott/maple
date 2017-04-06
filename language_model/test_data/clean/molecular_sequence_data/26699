@@ -1,0 +1,7 @@
+
+With the advent of Next Generation Sequencing (NGS) technologies, the ability to generate large amounts of sequence data has revolutionized the genomics field. Most RNA viruses have relatively small genomes in comparison to other organisms and as such, would appear to be an obvious success story for the use of NGS technologies. However, due to the relatively low abundance of viral RNA in relation to host RNA, RNA viruses have proved relatively difficult to sequence using NGS technologies. Here we detail a simple, robust methodology, without the use of ultra-centrifugation, filtration or viral enrichment protocols, to prepare RNA from diagnostic clinical tissue samples, cell monolayers and tissue culture supernatant, for subsequent sequencing on the Roche 454 platform.
+
+As representative RNA viruses, full genome sequence was successfully obtained from known lyssaviruses belonging to recognized species and a novel lyssavirus species using these protocols and assembling the reads using de novo algorithms. Furthermore, genome sequences were generated from considerably less than 200 ng RNA, indicating that manufacturers' minimum template guidance is conservative. In addition to obtaining genome consensus sequence, a high proportion of SNPs (Single Nucleotide Polymorphisms) were identified in the majority of samples analyzed.
+
+The approaches reported clearly facilitate successful full genome lyssavirus sequencing and can be universally applied to discovering and obtaining consensus genome sequences of RNA viruses from a variety of sources.
+

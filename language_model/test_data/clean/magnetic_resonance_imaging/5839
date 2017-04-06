@@ -1,0 +1,9 @@
+
+To estimate magnetic field variations induced from air-tissue interface geometry and remove their effects from susceptibility-weighted imaging (SWI) data.
+
+A Fourier transform-based field estimation method is used to calculate the field deviation arising from air-tissue interface geometry. This is accomplished by manually drawing or automatically detecting the sinuses, the mastoid cavity, and the head geometry. The difference in susceptibility, Deltachi, between brain tissue and air spaces is then calculated using a residual-phase minimization approach. SWI data are corrected by subtracting the predicted phase from the original phase images. Resultant phase images are then used to perform the SWI postprocessing.
+
+Significant improvement in the postprocessed SWI data is demonstrated, most notably in the frontal and midbrain regions and to a lesser extent at the boundary of the brain. Specifically, there is much less dropout of signal after phase correction near air-tissue interfaces, making it possible to see vessels and structures that were often incorrectly removed by the conventional SWI postprocessing.
+
+The Fourier transform-based field estimation method is a powerful 3D background phase removal method for improving SWI images, providing clearer images of the forebrain and the midbrain regions.
+

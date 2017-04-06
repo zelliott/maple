@@ -1,0 +1,9 @@
+
+Evaluation of lung perfusion by contrast-enhanced 3D MRI using partial parallel imaging techniques.
+
+Eight healthy volunteers were examined using a contrast-enhanced dynamic FLASH 3D sequence with partial parallel imaging technique at 1.5 T MRI with a TA of 1.5 sec. The whole lung was covered by 36 coronal slices. A ventral, middle and dorsal slice of each lung was manually segmented and signal-to-time curves were computed. For absolute quantification of blood flow through the right and left pulmonary artery, phase-contrast flow measurements were performed.
+
+No significant difference was found between the signal intensity in the right (8.9 +/- 2.6) and left (8.0 +/- 3.5) lung, corresponding to a left-to-right signal intensity ratio of 0.9. A significantly higher signal intensity was found in the dorsal regions of the lungs (p = 0.01) compared to the ventral regions. The time to peak of the signal intensity was significantly shorter in the dorsal (15.3 sec) and middle (15.7 sec) regions of the lungs (p = 0.03 and p = 0.04, respectively) than in the ventral regions (16.3 sec). The ratio between blood flow through the left (2.2 L/min) and right (2.7 L/min) lung was 0.84.
+
+Partial parallel image acquisition can assess the perfusion of the lungs at high temporal resolution. The perfusion is slightly higher on the right than on the left. The signal increases faster and has a higher peak in the dorsal lung regions.
+

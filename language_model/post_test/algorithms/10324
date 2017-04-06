@@ -1,0 +1,9 @@
+
+zzso discovery is now routinely used in zzso studies including large-scale sequencing and zzso These zzso present new zzso The first is zzso Many motif discovery methods do not scale well to large zzso Another issue is identifying zzso rather than zzso zzso Such zzso motifs are important for identifying zzso and for explaining changes in behavior between different zzso 
+
+To address these issues we developed a method for zzso zzso motif discovery zzso zzso uses a zzso count table and so its running time is independent of the size of the input zzso By zzso the zzso zzso considers context information without using the sequences zzso zzso zzso previous methods both in speed and in accuracy when using simulated and real biological benchmark zzso We performed new binding experiments for zzso zzso and used zzso to identify zzso zzso suggesting new mechanisms for zzso zzso 
+
+The source code and zzso for zzso are available at zzso zzso zzso 
+
+zzso data are available at zzso zzso 
+

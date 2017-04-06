@@ -1,0 +1,9 @@
+
+To demonstrate the feasibility of registering hyperpolarized helium-3 magnetic resonance images ((3)He-MRI) to X-ray computed tomography (CT) for functionally weighted intensity-modulated radiotherapy (IMRT) planning.
+
+Six patients with non-small-cell lung cancer underwent (3)He ventilation MRI, which was fused with radiotherapy planning CT using rigid registration. Registration accuracy was assessed using an overlap coefficient, calculated as the proportion of the segmented (3)He-MR volume (V(MRI)) that intersects the segmented CT lung volume expressed as a percentage of V(MRI). For each patient, an IMRT plan that minimized the volume of total lung receiving a dose > or = 20 Gy (V(20)) was compared with a plan that minimized the V(20) to well-ventilated lung defined by the registered (3)He-MRI.
+
+The (3)He-MRI and CT were registered with sufficient accuracy to enable functionally guided IMRT planning (median overlap, 89%; range, 72-97%). In comparison with the total lung IMRT plans, IMRT constrained with (3)He-MRI reduced the V(20) not only for the well-ventilated lung (median reduction, 3.1%; range, 0.4-5.1%; p = 0.028) but also for the total lung volume (median reduction, 1.6%; range, 0.2-3.7%; p = 0.028).
+
+Statistically significant improvements to IMRT plans are possible using functional information provided by (3)He-MRI that has been registered to radiotherapy planning CT.
+

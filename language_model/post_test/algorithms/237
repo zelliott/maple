@@ -1,0 +1,7 @@
+
+The aim of this study was to develop an zzso for scheduling zzso and delivery tasks in zzso The number of jobs and the dynamic nature of the problem, in having jobs arriving over time, makes the use of information technology zzso An zzso scheduling for all types of transportation tasks occurring in a hospital zzso medical procedures, and reduces the patient's waiting time and zzso 
+
+In the design of the zzso we use techniques from classical scheduling zzso In addition, due to some special properties and constraints, we model the problem using methods from graph zzso The resulting zzso combines both approaches in a transparent zzso 
+
+To zzso the schedules, we define the average weighted flow time as an objective function that zzso to a measure for the task zzso An evaluation of the zzso at the zzso State Hospital in Austria shows that it has a superior performance than the current scheduling zzso 
+

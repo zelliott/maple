@@ -1,0 +1,11 @@
+
+Muc1-H23 is a cell surface mucin that is expressed on normal breast luminal epithelial cells and over-expressed in most breast tumors. In addition, Muc-1 expressed by malignant cells is glycosylated differently than Muc-1 expressed by normal cells. This difference in glycosylation exposes a peptide epitope on malignant cells which is not exposed on normal cells. Murine monoclonal antibody H23 recognizes this epitope and stains 91% of breast cancers, but only 1/56 non-malignant breast tissue samples.
+
+To create a human antibody that was equivalent to H23 for potential uses in imaging and/or the therapy of breast cancer.
+
+We decided to humanize H23 by CDR-grafting using overlap PCR, and to this end, designed and constructed a bacterial expression vector that would allow V-regions, cloned via unique restriction sites, to be expressed as Fab fragments. In this way, we hoped to be able to rapidly evaluate Fab constructs for binding to Muc-1 and to cells and tissue sections that expressed the antigen.
+
+A fully humanized Fab fragment was able to bind Muc-1 peptide, as well as breast cancer cells known to express the epitope and tissue sections, generally showing the same reactivity as the native antibody. In addition, an analysis of sFab expressed with a [His]6 tag preceded by a factor Xa proteolytic cleavage site suggested that E. coli periplasmic signal peptidase was able to cleave the factor Xa site, thereby removing the [His]6 tag.
+
+We have generated a human antibody that is capable of recognizing a tumor specific epitope expressed by 91% of breast cancers.
+

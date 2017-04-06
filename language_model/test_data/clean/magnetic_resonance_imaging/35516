@@ -1,0 +1,9 @@
+
+To identify and quantify structural changes in the maturing brain between childhood and adolescence.
+
+Two three-dimensional T1-weighted MR volumes of the brain were acquired from eight subjects, 6 to 7 years apart. The subjects were 9 to 12 years old on the first scan and 15 to 19 years old on the second scan. The MR scans were converted to one millimeter isotropic volumes, globally aligned with a rigid transform, inhomogeneity corrected, and nonrigid deformation fields between the aligned volumes were calculated. Masks for brain regions were automatically warped with the deformation fields and volumes of brain regions calculated. Color overlays based on the nonrigid deformation fields were generated to identify local volume changes.
+
+Gray matter decreased as much as 60% and white matter increased as much as 250%. The biggest gray matter changes were in the head of the caudates, areas of the putamens, and areas of the thalamus. Some of the biggest white matter changes were in the forceps minor, forceps major, and internal capsule.
+
+Deformation based morphometry with serial scans provides a method to study regional structural changes with brain growth and maturation.
+

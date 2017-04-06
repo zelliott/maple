@@ -1,0 +1,7 @@
+
+zzso DNA regions are frequently lost or gained during tumor zzso zzso Comparative zzso zzso zzso zzso technology makes it possible to assess these changes in DNA in zzso by comparison with a normal zzso The identification of systematically deleted or amplified zzso regions in a set of tumors enables biologists to identify genes involved in cancer progression because tumor zzso genes are thought to be located in lost zzso regions and zzso in gained zzso zzso zzso profiles should also improve the zzso of zzso The achievement of these goals requires a methodology for detecting the zzso zzso altered regions in zzso patterns and assigning a status zzso gained or zzso to each zzso zzso 
+
+We have developed a methodology for the automatic detection of zzso from array zzso profile, and the assignment of a status to each zzso zzso The zzso detection step is based on the zzso zzso zzso zzso procedure and provides highly convincing zzso our zzso detects 97, 100 and zzso of zzso in simulated data, zzso results and manually analyzed profiles, zzso The percentage of correctly assigned zzso ranges from zzso to zzso for simulated data and is zzso for zzso zzso Our zzso also zzso other solutions on a public reference zzso 
+
+The R package zzso zzso and Loss Analysis of zzso is available upon zzso 
+

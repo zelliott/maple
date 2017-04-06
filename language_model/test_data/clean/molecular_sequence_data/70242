@@ -1,0 +1,3 @@
+
+pUC18 and pUC19 vectors were remodeled by replacement of their EcoO109I-NdeI portion with a "buffer sequence" of approximately 2.3 kilobase pairs derived from human genomic DNA. By use of the resulting plasmids, one can delete a target DNA that has been inserted into the polycloning site, deleting the buffer sequence at the same time, after linearization with an appropriate restriction enzyme that cleaves at the polycloning site. After the undeleted portion of the buffer sequence is cleaved off at the unique EcoRV site existing at its end, the plasmid can be recircularized for nucleotide sequencing from the deleted end of the target DNA. Thus the remodeled vectors enable deletion of DNAs by this simple method.
+

@@ -1,0 +1,9 @@
+
+zzso zzso zzso is an important component of overall zzso control for patients with diabetes zzso Physicians are able to recognize excessive zzso from continuous zzso monitoring zzso zzso however, there is currently no universally agreed upon zzso zzso The objective of this study was to develop a consensus perceived zzso zzso zzso metric that could be routinely applied to zzso data to assess diabetes zzso zzso 
+
+Twelve physicians actively managing patients with type 1 diabetes zzso rated a total of 250 24 h zzso plots as exhibiting low, zzso high, or extremely high zzso Ratings were averaged to obtain a consensus and then input into two machine learning zzso zzso zzso zzso and support zzso machines for zzso zzso In zzso experiments were run using each zzso with different combinations of 12 descriptive input zzso zzso cross validation was used to evaluate the performance of each zzso 
+
+The zzso models zzso the physician consensus ratings of unseen zzso plots better than the zzso zzso When judged by the root mean square error, the best zzso model performed comparably to individual physicians at matching consensus zzso When applied to 262 different zzso plots as a screen for excessive zzso this model had zzso sensitivity, and specificity of zzso zzso and zzso zzso It significantly outperformed mean zzso of zzso zzso standard zzso distance zzso and excursion zzso 
+
+This new zzso metric could be used as a routine measure of overall zzso control to supplement zzso zzso in clinical zzso 
+

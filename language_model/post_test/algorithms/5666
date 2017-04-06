@@ -1,0 +1,9 @@
+
+We present a novel zzso for computer simulation of breast anatomy for generation of zzso software breast zzso A realistic breast simulation is necessary for zzso validation of zzso imaging zzso 
+
+The zzso software breast phantom simulates the skin, regions of zzso and zzso zzso and the zzso of Cooper's ligaments and zzso zzso The zzso compartments are simulated using a seeded zzso zzso compartments are grown from a set of seed points with specific orientation and growing zzso The resulting zzso compartments vary in shape and size similar to real zzso the zzso region has a compact coverage by zzso compartments of various sizes, while the zzso region has fewer, more widely separated zzso zzso zzso parameters can be selected to cover the breadth of variations in breast anatomy observed zzso 
+
+When simulating breasts of the same zzso with different numbers of zzso zzso the average compartment volume was zzso to the phantom size and zzso zzso to the number of simulated zzso The use of the software phantom in clinical image simulation is illustrated by synthetic digital breast zzso images of the zzso The proposed phantom design was capable of simulating breasts of different size, zzso and zzso compartment zzso The zzso approach allowed us to simulate zzso compartments with various size and zzso zzso simulated zzso projections of the zzso generated using the proposed algorithm, have a more realistic appearance compared to previous versions of the zzso 
+
+A new zzso for computer simulation of breast anatomy has been proposed that improved the realism of the zzso software breast zzso 
+

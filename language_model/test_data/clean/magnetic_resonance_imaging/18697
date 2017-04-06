@@ -1,0 +1,9 @@
+
+Our purpose was to define thresholds below which trained reviewers cannot detect changes in the size of T2-hyperintense brain lesions.
+
+We generated T2-weighted brain MR images (TR/TE, 4000/80) with simulated hyperintense lesions derived from a real multiple sclerosis plaque. The size of the original multiple sclerosis lesion was varied by scaling up or down the lesion using a bicubic interpolation method. Three hundred seventy-eight composite images, in which two T2-weighted images containing lesions were paired, were presented to three equally trained neuroradiologists to define thresholds below which changes in original lesion size could not be detected. Stepwise logistic regression was used to evaluate the dependency of size thresholds on the original size of the lesion.
+
+Thresholds ranged from a 5% to 15% increase in the original lesion diameter. For increases greater than 15%, all three reviewers detected the change in lesion size irrespective of the diameter of the original lesion. There was a dependency of the threshold on the diameter of the original lesion (p = 0.02).
+
+Using an MR simulator, we can define thresholds below which changes in original lesion size cannot be reliably detected. These results may guide the design of clinical trials that rely on trained reviewers to assess change in lesion burden.
+

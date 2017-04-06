@@ -1,0 +1,7 @@
+
+The sequencing of whole zzso from various species has provided us with a wealth of genetic zzso To make use of the vast amounts of data available today it is necessary to devise computer-based analysis zzso 
+
+We propose a Hidden zzso Model zzso based zzso to detect groups of genes functionally similar to a set of input genes from zzso expression zzso A subset of experiments from a zzso is selected based on a set of related input zzso zzso are trained from the input genes and a group of random gene input sets to provide significance zzso Every gene in the zzso is scored using all zzso and significant matches with the input genes are zzso We ran this zzso on the life cycle of zzso zzso data set with zzso pathways for cell cycle and translation factors as input data zzso zzso show high functional similarity in resulting gene sets, increasing our biological insight into gene pathways and zzso zzso The zzso performed very well compared to the Signature Algorithm and a purely zzso zzso 
+
+zzso source codes and data sets are available at zzso 
+

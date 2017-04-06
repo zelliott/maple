@@ -1,0 +1,7 @@
+
+The SCF ubiquitin-ligase complex targets the ubiquitin-mediated degradation of proteins in multiple dynamic cellular processes. A key SCF component is the Skp1 protein that functions within the complex to link the substrate-recognition subunit to a cullin that in turn binds the ubiquitin-conjugating enzyme. In contrast to yeast and humans, Caenorhabditis elegans contains multiple expressed Skp1-related (skr) genes.
+
+The 21 Skp1-related (skr) genes in C. elegans form one phylogenetic clade, suggesting that a single ancestral Skp1 gene underwent independent expansion in C. elegans. The cellular and developmental functions of the 21 C. elegans skr genes were probed by dsRNA-mediated gene inactivation (RNAi). The RNAi phenotypes of the skr genes fall into two classes. First, the highly similar skr-7, -8, -9, and -10 genes are required for posterior body morphogenesis, embryonic and larval development, and cell proliferation. Second, the related skr-1 and -2 genes are required for the restraint of cell proliferation, progression through the pachytene stage of meiosis, and the formation of bivalent chromosomes at diakinesis. CUL-1 was found to interact with SKR-1, -2, -3, -7, -8, and -10 in the yeast two-hybrid system. Interestingly, SKR-3 could interact with both CUL-1 and its close paralog CUL-6.
+
+Members of the expanded skr gene family in C. elegans perform critical functions in regulating cell proliferation, meiosis, and morphogenesis. The finding that multiple SKRs are able to bind cullins suggests an extensive set of combinatorial SCF complexes.
+

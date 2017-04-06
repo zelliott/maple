@@ -1,0 +1,9 @@
+
+Dynamic zzso magnetic resonance imaging zzso is a zzso tool for the detection and discrimination of breast zzso The aim of this study is to evaluate a zzso diagnosis zzso system for discriminating zzso from benign breast zzso at zzso by the combined use of zzso zzso and zzso zzso zzso 
+
+zzso zzso and 19 benign breast zzso in 51 patients were zzso zzso Images were acquired at two centers at zzso zzso zzso were automatically segmented after image zzso and elastic zzso of zzso zzso For each zzso a set of 28 zzso features were zzso ten zzso zzso to shape, margins, and internal enhancement zzso nine kinetic zzso from zzso zzso and nine zzso zzso to the variation of the signal between adjacent zzso A support zzso machine zzso was trained with feature zzso selected by a genetic zzso Best zzso were composed of the most frequent features selected by majority zzso The performance was measured by receiver operator characteristics analysis with a zzso tenfold zzso and zzso method for confidence zzso 
+
+zzso training by the three separated classes of features resulted in an area under the curve zzso of zzso zzso zzso zzso zzso standard zzso zzso zzso zzso and zzso zzso zzso for zzso zzso and zzso feature, zzso Combined training with all 28 features resulted in zzso of zzso zzso zzso obtained with a selected feature subset composed by two zzso one zzso and two zzso zzso 
+
+zzso combination of zzso zzso and zzso features is feasible and provides a higher discriminating power than using the three different classes of features zzso 
+

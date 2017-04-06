@@ -1,0 +1,3 @@
+
+The simplest dynamic zzso for zzso zzso folding searches for the maximum number of base zzso The zzso uses zzso zzso The more general case, where different weights zzso are assigned to stacked base pairs and to the various types of zzso region zzso requires a considerably longer zzso time because of the partial backtracking zzso zzso the loop size reduces the running time back to zzso Reduction in the number of steps in the calculations of the various zzso zzso has recently been suggested, thereby improving the time zzso Here we show how a zzso procedure can be used to speed up the computation, not only for the zzso number of base pairs algorithm, but for the minimal energy zzso as zzso 
+

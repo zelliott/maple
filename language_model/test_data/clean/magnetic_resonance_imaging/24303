@@ -1,0 +1,9 @@
+
+A novel quantitative susceptibility mapping (QSM) processing technology has been developed to map tissue susceptibility property without blooming artifacts. We hypothesize that hematoma volume measurement on QSM is independent of imaging parameters, eliminating its echo time dependence on gradient echo MRI.
+
+Gradient echo MRI of 16 patients with intracerebral hemorrhage was processed with susceptibility-weighted imaging, R2* (=1/T2*) mapping, and QSM at various echo times. Hematoma volumes were measured from these images.
+
+Linear regression of hematoma volume versus echo time showed substantial slopes for gradient echo magnitude (0.45±0.31 L/s), susceptibility-weighted imaging (0.52±0.46), and R2* (0.39±0.30) but nearly zero slope for QSM (0.01±0.05). At echo time=20 ms, hematoma volume on QSM was 0.80× that on gradient echo magnitude image (R2=0.99).
+
+QSM can provide reliable measurement of hematoma volume, which can be performed rapidly and accurately using a semiautomated segmentation tool.
+

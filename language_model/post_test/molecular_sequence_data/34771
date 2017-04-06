@@ -1,0 +1,3 @@
+
+We present zzso a tool for refining multiple alignments of biological zzso Given a multiple zzso a zzso tree, and scoring parameters as zzso zzso zzso the zzso function in a restricted three-dimensional space around the zzso At each internal zzso of the zzso tree, the multiple alignment is projected to the zzso corresponding to the three neighboring zzso and three-dimensional dynamic programming is performed within a zzso radius r around the original zzso We test zzso on simulated sequences aligned by several popular tools, and demonstrate substantial improvements in the percentage of correctly aligned zzso 
+

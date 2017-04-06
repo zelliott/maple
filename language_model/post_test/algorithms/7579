@@ -1,0 +1,3 @@
+
+This paper addresses the problem of detecting and zzso abnormal activities in crowded zzso A zzso zzso zzso method is proposed to extract different crowd activities from zzso This is achieved by learning the spatial and zzso variations of local motions in an embedded zzso We employ representatives of different activities to construct the model which characterizes the regular behavior of a zzso This model of regular crowd behavior allows the detection of abnormal crowd activities both in local and global contexts and the zzso of regions which show abnormal zzso zzso on the recently published data sets show that the proposed method achieves comparable results with the state-of-the-art methods without sacrificing zzso zzso 
+

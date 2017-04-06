@@ -1,0 +1,3 @@
+
+To allow the efficient construction of ordered clone libraries, we have been investigating the use of 'oligonucleotide fingerprinting' as an approach to identify overlapping clones, and ultimately restore the linear order of the clone set. To test the effectiveness of the procedure, we have constructed a cosmid library from the genome of the human DNA virus HSV-I and used hybridisation to multiple oligonucleotides selected from the nucleotide sequence to reconstruct the order of clones and oligonucleotides on the genome.
+

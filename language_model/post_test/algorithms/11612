@@ -1,0 +1,3 @@
+
+A common approach to the analysis of gene expression data is to define clusters of genes that have similar zzso A critical step in cluster analysis is the determination of similarity between the expression levels of two zzso We introduce a neural network-based similarity index as a zzso similarity index and compare the results with other proximity measures for zzso zzso gene expression zzso We show that the clusters obtained using zzso distance, correlation zzso and mutual information were not significantly zzso The clusters formed with the neural network-based index were more in agreement with those defined by functional categories and common regulatory zzso 
+

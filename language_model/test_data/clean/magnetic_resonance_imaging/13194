@@ -1,0 +1,9 @@
+
+There is a clinical need to be able to assess graft loss of transplanted pancreatic islets (PI) non-invasively with clear-cut quantification of islet survival. We tracked transplanted PI in diabetic mice during the early post-transplant period by magnetic resonance imaging (MRI) and quantified the islet loss using automatic segmentation technique.
+
+Magnetically labeled islet iso-, allo- and xenografts were injected into the right liver lobes. Animals underwent MRI scanning during 14 days after PI transplantation. MR images were processed using custom-made software, which automatically detects hypointense regions representing PI. It is based on morphological top-hat and bottom-hat transforms.
+
+Manually and automatically detected areas, corresponding to PI, differed by 4% in phantoms. Signal loss regions due to PI decreased comparably in all groups during the first week post transplant. Throughout the second week post-transplant, the signal loss area continued in a steep decline in case of allografts and xenografts, whereas the decline in case of isografts slowed down.
+
+Automatic segmentation allows for the more reproducible, objective assessment of transplanted PI. Quantification confirms the assumption that a significant number of islets are destroyed in the first week following transplantation irrespective of allografts, xenografts or isografts.
+

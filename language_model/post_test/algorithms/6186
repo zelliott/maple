@@ -1,0 +1,9 @@
+
+zzso to repetitive sequences are usually zzso in the output of DNA database zzso zzso sequences need not be matched to a zzso if they can be masked in the zzso zzso zzso currently the most widely used software for DNA sequence zzso is slow and requires a library of repetitive template zzso such as a manually curated zzso library, that may not exist for newly zzso zzso 
+
+We have developed a software tool called zzso zzso that identifies and masks highly repetitive DNA sequences in a zzso using only the sequence of the zzso zzso zzso is orders of magnitude faster than zzso because zzso uses a few zzso scans of the zzso zzso rather than local alignment methods that compare each library sequence with each piece of the zzso We validate zzso by comparing zzso zzso from large sets of queries applied to two versions of the same zzso one masked by zzso and the other masked by zzso Even for zzso such as the human zzso where a good zzso library is available, searching the database as masked with zzso yields more matches that are apparently zzso and fewer matches to repetitive zzso We show that these results hold for transcribed regions as zzso zzso also performs well on zzso for which much of the sequence was in draft form at the time of the zzso 
+
+zzso is included in the zzso zzso zzso The source code for the entire zzso is available at zzso Once the zzso source is zzso the instructions for building zzso application in the zzso environment can be found in file zzso 
+
+zzso data are available at zzso 
+

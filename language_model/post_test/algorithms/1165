@@ -1,0 +1,3 @@
+
+We describe a fast zzso zzso method for modeling local segments in protein zzso The zzso is based on a divide and zzso approach and uses a database of zzso zzso tables, which represent a large set of possible zzso for loop segments of variable zzso The target loop is zzso zzso until the resulting zzso are small enough to be compiled zzso The algorithm, which is not restricted to any specific loop zzso generates a ranked set of loop zzso in zzso s on a zzso zzso The prediction quality is evaluated in terms of global zzso Depending on loop length the top prediction varies between zzso A zzso for zzso zzso and zzso A zzso for zzso zzso Due to its speed the method may also be useful to generate alternative starting zzso for complex zzso 
+

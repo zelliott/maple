@@ -1,0 +1,9 @@
+
+In current PET/MR systems, the data acquisition paradigm is based on a multistation examination, imaging the patient from hip to head. This strategy has potential limitations, especially in terms of workflow and PET acquisition efficiency. In this work, the technical implementation of simultaneous PET and MR data acquisition with continuous table motion (CTM) is presented. PET and MR data acquired with CTM are evaluated in terms of image quality with respect to table motion speed.
+
+Phantom, volunteer, and patient data were acquired on an integrated whole-body PET/MR system. Phantom experiments were used to systematically quantify image quality parameters including signal-to-noise ratio, geometric distortions, and artifacts in PET and MR scans as a function of different table speeds. Volunteer scans (n = 4) allowed evaluation of CTM MR protocols in a realistic setting, and patient scans (n = 3) were obtained to validate the technique in a clinical workflow.
+
+In phantoms, PET image quality, signal-to-noise ratio, geometry, and artifact behavior were found not to be influenced by continuous table motion over the evaluated table motion speeds from 0.8 to 4.6 mm/s. This also holds true for PET patient data where acquisitions were performed with varying table speeds of up to 46 mm/s. For MR, in most scans image quality of CTM scans was found to be comparable to the identical sequence acquired in multistation mode; however, some sequence features (e.g., signal intensity normalization) with impact on MR contrast are currently missing for CTM MR sequences.
+
+Data acquisition with continuous table motion in the PET/MR versus multistation acquisition scheme provides data of comparable quality in both PET and MR. This new acquisition paradigm potentially can provide a higher flexibility in simultaneous PET and MR whole-body data acquisition and facilitate examination planning and PET/MR hybrid imaging workflow.
+

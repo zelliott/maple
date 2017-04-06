@@ -1,0 +1,9 @@
+
+The primary aim of this study is to investigate the performance difference of rigid and zzso registration schemes in matching corresponding pulmonary zzso depicted on sequential chest zzso zzso zzso zzso 
+
+A zzso descent based rigid registration zzso with zzso was developed and it handled the involved geometric transformations zzso translation, zzso zzso and zzso separately instead of zzso them in a single zzso Given two lung CT zzso the zzso and translation parameters were simply estimated from the lung volume dimensions zzso size and mass zzso while the rotation parameters were zzso progressively using zzso zzso To investigate the performance difference of rigid and zzso schemes in pulmonary zzso zzso the well-known zzso Demons zzso was implemented and tested along with the developed schemes against 60 diverse zzso clinical lung CT examinations with average zzso follow-up zzso A verified cancer and its correspondence in the follow-up scan as well as their spatial locations zzso zzso were identified in each zzso In addition to the zzso efficiency, the accuracy of these registration procedures was assessed by computing the zzso distances between the corresponding zzso after the zzso To demonstrate the advantage of the developed algorithm, the authors also implemented a fast zzso closest point zzso based rigid zzso and compared their zzso 
+
+Our experiments on the collected chest CT examinations showed that the zzso registration errors in zzso zzso distance for the developed rigid zzso approach, the traditional zzso algorithm, and the refining zzso Demons zzso were zzso zzso and zzso zzso respectively, and the corresponding zzso costs in time were 5, zzso and 55 zzso zzso 
+
+A rigid solution may be preferred in practice for the pulmonary zzso registration in zzso studies because of its relatively high efficiency and sufficient accuracy for the clinical zzso 
+

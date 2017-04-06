@@ -1,0 +1,9 @@
+
+Due to the high cost of manual zzso of key aspects from the scientific literature, automated methods for assisting this process are greatly zzso Here, we report a novel approach to facilitate zzso indexing, a challenging task of assigning zzso terms to zzso citations for their zzso and zzso 
+
+Unlike previous methods for automatic zzso term assignment, we zzso the indexing task as a ranking problem such that relevant zzso zzso are ranked higher than those irrelevant zzso Specifically, for each document we retrieve 20 neighbor documents, obtain a list of zzso main zzso from neighbors, and rank the zzso main zzso using zzso zzso zzso We trained our zzso on 200 documents and tested on a previously used benchmark set of 200 documents and a larger zzso of 1000 zzso 
+
+Tested on the benchmark zzso our method achieved a precision of zzso recall of zzso and mean average precision zzso of zzso In comparison to the state of the art, we observe statistically significant improvements as large as zzso in zzso zzso zzso Similar significant improvements were also obtained on the larger document zzso 
+
+Experimental results show that our approach makes the most accurate zzso predictions to date, which suggests its great potential in making a practical impact on zzso zzso Furthermore, as discussed the proposed learning framework is robust and can be adapted to many other similar tasks beyond zzso indexing in the biomedical zzso All data sets are available at: zzso 
+

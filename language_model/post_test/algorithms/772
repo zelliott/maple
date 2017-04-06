@@ -1,0 +1,3 @@
+
+The identification of regulatory motifs is important for the study of gene zzso Here we present a suite of programs that we have developed to search for regulatory sequence zzso zzso zzso a zzso program for predicting regulatory motifs from zzso genes in zzso or lower zzso zzso zzso an extension to zzso which incorporates comparative zzso features to be used for higher zzso zzso zzso a program for finding zzso interaction sites from zzso zzso All three programs examine a group of sequences that may share common regulatory motifs and output a list of putative motifs as zzso probability zzso the individual sites used to construct the motifs and the location of each site on the input zzso The web servers and zzso can be zzso at zzso 
+

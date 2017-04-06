@@ -1,0 +1,9 @@
+
+In pulsed arterial spin labelling (ASL), Q2TIPS saturation pulses are used to actively control the temporal width of the labelled bolus. However, these Q2TIPS pulses also induce magnetisation transfer (MT) effects in the adjacent tissue. In this work, we investigated how Q2TIPS-related MT alters tissue signal in pulsed ASL and, consequently, CBF quantification.
+
+Seven volunteers were studied at 3 tesla using a multi-TI FAIR sequence and 3D-GRASE readout with background suppression. Q2TIPS pulses were used and the spacing between RF pulses was varied to modulate MT effects. Computer simulations were designed to mimic in-vivo signals at multiple TI values.
+
+Q2TIPS-associated MT was found to reduce tissue T1 and M0 values by up to 42 and 50% respectively; leading to a reduction of up to 40% in the effectiveness of background suppression and, therefore, increased sensitivity to motion for the longest TI values. In addition, greater MT effects were associated with reduced grey matter CBF estimates of up to 15%.
+
+The MT effect associated with the Q2TIPS pulse train has a significant effect on tissue signal. It is recommended that MT effects are characterised and both background suppression and Q2TIPS schemes are accordingly optimised to reduce the effects of MT on accuracy and precision of CBF estimation.
+

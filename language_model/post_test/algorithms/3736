@@ -1,0 +1,3 @@
+
+We propose a method for zzso depth from images captured with a real zzso camera by fusing zzso and stereo zzso The idea is to use zzso constraints in conjunction with zzso to obtain improved estimates of depth over those of stereo or zzso zzso The depth map as well as the original image of the scene are modeled as zzso random fields with a zzso zzso and their estimates are obtained by minimizing a suitable energy function using simulated zzso The main advantage of the proposed method, despite being zzso less efficient than the standard stereo or zzso method, is simultaneous recovery of depth as well as zzso restoration of the original focused image of the zzso 
+

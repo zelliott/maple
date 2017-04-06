@@ -1,0 +1,7 @@
+
+zzso technology emerges as a powerful tool in life zzso One major application of zzso technology is to identify zzso expressed genes under various zzso Currently, the statistical methods to analyze zzso data are generally zzso mainly due to the lack of understanding of the distribution and error structure of zzso zzso 
+
+We develop a generalized likelihood ratio zzso test based on the zzso model proposed by zzso and Durbin to identify zzso expressed genes from zzso zzso zzso studies show that the zzso test is more powerful than commonly used methods, like the zzso method and the zzso zzso When applied to zzso data, the zzso test identifies more zzso expressed genes than the zzso has a lower false discovery rate and shows more consistency over independently repeated zzso 
+
+The approach is implemented in software called zzso which is freely available for downloading at zzso 
+

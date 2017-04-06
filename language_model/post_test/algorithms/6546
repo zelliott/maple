@@ -1,0 +1,7 @@
+
+In zzso experiments investigators sometimes wish to pool zzso samples before labeling and zzso due to insufficient zzso from each individual sample or to reduce the number of zzso for the purpose of saving zzso The basic assumption of pooling is that the expression of an zzso zzso in the pool is close to the average expression from individual zzso Recently, a method for studying the effect of pooling zzso on statistical power in detecting zzso expressed genes between classes has been proposed, but the different sources of variation arising in zzso experiments were not zzso Another paper recently did take different sources of variation into account, but did not address power and sample size for class zzso In this paper, we study the implication of pooling in detecting differential gene expression taking into account different sources of variation and check the basic assumption of pooling using data from both the zzso and zzso zzso zzso zzso 
+
+We present formulas for the required number of subjects and zzso to achieve a desired power at a specified significance zzso We show that due to the loss of degrees of freedom for a pooled design, a large increase in the number of subjects may be required to achieve a power comparable to that of a zzso zzso The added expense of additional samples for the pooled design may outweigh the benefit of saving on zzso zzso The zzso data from both platforms show that the major assumption of pooling may not zzso 
+
+zzso material referenced in the text is available at zzso 
+

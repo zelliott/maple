@@ -1,0 +1,3 @@
+
+Linear scan zzso zzso zzso zzso is useful to fixed pipeline zzso We extend zzso zzso Reconstruction zzso zzso to linear scan zzso CT and focus on reducing its reconstruction time through cluster zzso In order to reduce communication overhead, we investigate a zzso image space decomposition scheme and a zzso communication zzso The performance of proposed parallel zzso is analyzed theoretically and verified through zzso The results show that the proposed parallel zzso can generate approving CT images and its performance is mainly influenced by load imbalance and network zzso 
+

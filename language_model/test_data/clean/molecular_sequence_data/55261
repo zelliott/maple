@@ -1,0 +1,3 @@
+
+The subcellular localization of proteins is closely related to their functions. In this work, we propose a novel approach based on localization motifs to improve the accuracy of predicting subcellular localization of Gram-positive bacterial proteins. Our approach performed well on a five-fold cross validation with an overall success rate of 89.5%. Besides, the overall success rate of an independent testing dataset was 97.7%. Moreover, our approach was tested using a new experimentally-determined set of Gram-positive bacteria proteins and achieved an overall success rate of 96.3%.
+

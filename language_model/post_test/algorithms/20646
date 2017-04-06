@@ -1,0 +1,5 @@
+
+zzso alignment is the problem of finding the optimal zzso correspondence between two zzso It can be readily solved in zzso time and zzso space on a serial machine, or in zzso time with zzso space per zzso processing elements on a parallel zzso zzso zzso approach for finding the single best path reduces space use by a factor of zzso while inducing only a small constant slowdown to the serial zzso 
+
+This paper presents a family of methods for computing sequence alignments with reduced memory that are well suited to serial or parallel zzso Unlike the zzso approach, they can be used in the zzso zzso training of linear hidden zzso models, and they avoid zzso zzso making them easier to zzso The zzso feature, for an arbitrary zzso zzso a factor zzso to L slowdown in exchange for reducing space requirement from zzso to zzso square root of zzso A single best path member of this zzso family matches the zzso time and linear space of the zzso zzso zzso the zzso member of the family is zzso faster than the zzso zzso zzso 
+

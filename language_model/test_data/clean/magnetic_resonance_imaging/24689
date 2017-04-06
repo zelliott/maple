@@ -1,0 +1,9 @@
+
+Fifteen percent to 25% of patients with refractory epilepsy require invasive video-electroencephalography (EEG) monitoring (IVEM) to precisely delineate the ictal-onset zone. This delineation based on the recorded intracranial EEG (iEEG) signals occurs visually by the epileptologist and is therefore prone to human mistakes. The purpose of this study is to investigate whether effective connectivity analysis of intracranially recorded EEG during seizures provides an objective method to localize the ictal-onset zone.
+
+In this study data were analyzed from eight patients who underwent IVEM at Ghent University Hospital in Belgium. All patients had a focal ictal onset and were seizure-free following resective surgery. The effective connectivity pattern was calculated during the first 20 s of ictal rhythmic iEEG activity. The out-degree, which is reflective of the number of outgoing connections, was calculated for each electrode contact for every single seizure during these 20 s. The seizure specific out-degrees were summed per patient to obtain the total out-degree. The electrode contact with the highest total out-degree was considered indicative of localization of the ictal-onset zone. This result was compared to the conclusion of the visual analysis of the epileptologist and the resected brain region segmented from postoperative magnetic resonance imaging (MRI).
+
+In all eight patients the electrode contact with the highest total out-degree was among the contacts identified by the epileptologist as the ictal onset. This contact, that we named "the driver," always laid within the resected brain region. Furthermore, the patient-specific connectivity patterns were consistent over the majority of seizures.
+
+In this study we demonstrated the feasibility of correctly localizing the ictal-onset zone from iEEG recordings by using effective connectivity analysis during the first 20 s of ictal rhythmic iEEG activity.
+

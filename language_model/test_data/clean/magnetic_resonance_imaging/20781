@@ -1,0 +1,9 @@
+
+The at-risk mental state for psychosis (ARMS) has been associated with abnormal structural brain dynamics underlying disease transition or non-transition. To date, it is unknown whether these dynamic brain changes can be predicted at the single-subject level prior to disease transition using MRI-based machine-learning techniques.
+
+First, deformation-based morphometry and partial-least-squares (PLS) was used to investigate patterns of volumetric changes over time in 25 ARMS individuals versus 28 healthy controls (HC) (1) irrespective of the clinical outcome and (2) according to illness transition or non-transition. Then, the baseline MRI data were employed to predict the expression of these volumetric changes at the individual level using support-vector regression (SVR).
+
+PLS revealed a pattern of pronounced morphometric changes in ARMS versus HC that affected predominantly the right prefrontal, as well as the perisylvian, parietal and periventricular structures (p<0.011), and that was more pronounced in the converters versus the non-converters (p<0.010). The SVR analysis facilitated a reliable prediction of these longitudinal brain changes in individual out-of training cases (HC vs ARMS: r=0.83, p<0.001; HC vs converters vs non-converters: r=0.83, p<0.001) by relying on baseline patterns that involved ventricular enlargements, as well as prefrontal, perisylvian, limbic, parietal and subcortical volume reductions.
+
+Abnormal brain changes over time may underlie an elevated vulnerability for psychosis and may be most pronounced in subsequent converters to psychosis. Pattern regression techniques may facilitate an accurate prediction of these structural brain dynamics, potentially allowing for an early recognition of individuals at risk of developing psychosis-associated neuroanatomical changes over time.
+

@@ -1,0 +1,9 @@
+
+We present a new method for automatic brain extraction on structural magnetic resonance images, based on a zzso registration zzso 
+
+Our method addresses fundamental challenges of zzso zzso To overcome the difficulties arising from the zzso of imaging characteristics between studies, we propose a zzso template selection strategy, by which we select a set of templates that best represent the anatomical variations within the data zzso Against the difficulties of registering brain images with skull, we use a particularly adapted registration zzso that is more robust to large variations between images, as it zzso zzso different regions of the two images based not only on their similarity but also on the reliability of the matching between zzso Finally, a zzso zzso weighted voting strategy, which uses the ranking of zzso zzso values to measure the local similarity between the template and the target images, is applied for combining zzso template zzso 
+
+The method is validated on three different public data sets and obtained a higher accuracy than recent state-of-the-art brain extraction zzso Also, the proposed method is successfully applied on several recent imaging studies, each containing thousands of magnetic resonance images, thus reducing the manual correction time zzso 
+
+The new method, available as a zzso software package for public use, provides a robust and accurate brain extraction tool zzso for both clinical use and large population zzso 
+

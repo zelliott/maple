@@ -1,0 +1,7 @@
+
+Modern proteomes evolved by modification of pre-existing ones. It is extremely important to comparative biology that related proteins be identified as members of the same cognate group, since a characterized putative homolog could be used to find clues about the function of uncharacterized proteins from the same group. Typically, databases of related proteins focus on those from completely-sequenced genomes. Unfortunately, relatively few organisms have had their genomes fully sequenced; accordingly, many proteins are ignored by the currently available databases of cognate proteins, despite the high amount of important genes that are functionally described only for these incomplete proteomes.
+
+We have developed a method to cluster cognate proteins from multiple organisms beginning with only one sequence, through connectivity saturation with that Seed sequence. We show that the generated clusters are in agreement with some other approaches based on full genome comparison.
+
+The method produced results that are as reliable as those produced by conventional clustering approaches. Generating clusters based only on individual proteins of interest is less time consuming than generating clusters for whole proteomes.
+

@@ -1,0 +1,3 @@
+
+Estimation of the source of activity in the brain from electro- and magneto-encephalographic measurements is becoming increasingly common. Structural information could assist in improving the calculation of the sources as well as providing the context of the source location. Magnetic resonance images are very useful for this purpose, but they still need to undergo various processing steps. The paper describes in detail a practical method for full automatic processing of MRI images of a head, including segmentation of the images and triangulation of the surfaces.
+

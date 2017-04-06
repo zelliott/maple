@@ -1,0 +1,403 @@
+# fe_03_04468.sph
+# Transcribed by BBN/WordWave
+
+0.79 2.73 A: hi i'm linda 
+
+3.39 4.55 B: hello 
+
+4.42 5.42 A: yes 
+
+5.18 7.50 B: oh hi hi linda i'm charles 
+
+7.56 8.82 A: hey charles 
+
+8.54 11.53 B: sorry this is this is my first time doing this um 
+
+10.93 12.34 A: oh me too 
+
+11.71 13.69 B: (( kind of a oh okay )) 
+
+12.95 20.01 A: yeah we're we can do this though we we got a good topic and my son's name is charles 
+
+15.06 16.12 B: okay 
+
+19.88 20.93 B: oh nice 
+
+20.12 23.24 A: so yeah that's uh a name i can relate to 
+
+23.88 25.31 A: well let's see 
+
+24.08 26.78 B: so this is the the topic is 
+
+26.88 33.86 B: is there a problem with u._s. public schools and if so what can we do be done to solve it is that is that correct 
+
+33.50 37.70 A: i think that that's pretty good yes is there something frightfully wrong or 
+
+35.42 36.30 B: okay 
+
+37.81 40.71 A: yes that's that's how i understood it 
+
+40.75 43.37 B: okay what do you think linda 
+
+44.74 46.45 A: yes it's in a mess 
+
+46.09 48.59 B: [laughter] okay i i'm actually in 
+
+48.99 50.61 B: agreement i guess 
+
+50.93 52.33 A: well i i 
+
+50.99 53.59 B: what what do you think is wrong 
+
+52.60 54.07 A: i can back it up 
+
+53.75 54.64 B: okay 
+
+54.52 55.44 A: um 
+
+55.72 57.27 A: oh let's see where to start 
+
+56.90 58.82 B: you don't work in the public schools do you 
+
+59.69 66.42 A: uh on the fringes let me explain [laughter] i was uh a high school maths teacher for 
+
+61.92 62.79 B: okay 
+
+66.62 68.10 A: twelve years 
+
+67.73 68.76 B: oh wow 
+
+68.34 78.09 A: a long time ago and i got my masters degree in mathematics education and never went back to teaching because i couldn't afford 
+
+73.71 74.58 B: uh-huh 
+
+78.28 80.24 A: the low salary at the time 
+
+79.89 81.14 B: yes 
+
+80.47 86.30 A: so i got a different job in in uh information processing and became a systems engineer 
+
+86.12 86.98 B: uh-huh 
+
+87.10 92.63 A: so i retired and and now i'm doing part time jobs 
+
+93.64 97.68 A: and i've been hired and this is my second week grading 
+
+97.99 100.28 A: comprehensive tests you know the 
+
+100.55 107.20 A: the tests that are mandated now in many states for third eight and tenth graders whatever 
+
+106.86 111.97 B: is this to see if they have basic english and science and math or 
+
+108.99 109.88 A: skills 
+
+111.32 113.06 A: mhm mhm 
+
+112.68 116.84 B: and you you teach all the disciplines or you just grade all the disciplines 
+
+114.33 115.93 A: no no i'm 
+
+116.35 119.82 A: i'm grading them the the state of illinois 
+
+119.93 121.41 B: that's where you are right now 
+
+121.12 123.63 A: no i'm in tampa florida 
+
+123.15 125.19 B: hey i'm from tampa florida 
+
+124.71 127.80 A: [laughter] 
+
+125.76 127.72 B: i'm i'm in new york city right now 
+
+127.93 134.20 A: [laughter] that's weird weird so how long ago did you leave tampa and why 
+
+133.77 137.53 B: ah i went to college uh at fordham ten years ago 
+
+137.22 139.16 A: oh that's a 
+
+138.00 140.39 B: so where where do you live in tampa 
+
+140.17 142.15 A: uh temple terrace 
+
+141.85 145.51 B: oh temple terrace and where do you which school do you work at 
+
+144.81 145.99 A: well 
+
+146.23 151.60 A: that's what i'm saying i i became a systems engineer and i haven't taught in a school 
+
+151.64 154.81 A: for twenty three years 
+
+154.33 156.78 B: did you teach in tampa 
+
+155.82 158.79 A: i taught at h._c._c. part time 
+
+157.80 159.50 B: oh h._c._c. okay 
+
+158.80 160.99 A: but i never taught in any of the high schools 
+
+161.70 171.19 B: well i went i i've never been to public school i always went to catholic school actually when i was in preschool i went to ah 
+
+166.07 166.94 A: oh 
+
+168.16 169.35 A: okay 
+
+171.58 177.17 B: a lutheran or presbyterian uh not that i noticed at the age of three 
+
+176.51 177.96 A: right right 
+
+177.42 179.83 B: but uh i went to jesuit high school 
+
+179.84 181.83 B: so i can't speak with 
+
+182.01 190.45 B: experience from the public school system other than the experience of my friends or what i read but you worked for twenty years you said 
+
+190.39 192.62 A: no but i taught school for twelve years 
+
+192.21 193.58 B: twelve years 
+
+192.94 196.00 A: and then i went to work for verise and data services 
+
+195.59 196.59 B: (( oh okay )) 
+
+196.46 198.98 A: um for twenty one years so 
+
+198.47 200.84 B: so what do you think is wrong with the public schools 
+
+203.88 206.65 A: [sigh] the culture the culture from 
+
+207.06 208.12 A: which 
+
+208.34 209.92 A: the child comes 
+
+211.05 213.63 A: and i the broader culture 
+
+213.98 217.56 A: and the culture of the support system 
+
+217.76 218.98 B: (( [noise] )) 
+
+217.94 220.22 A: that that child has whether it's um 
+
+220.28 222.91 A: a family or he's living with his grandmother 
+
+223.47 224.38 A: or 
+
+224.97 228.72 A: [sigh] whatever home situation he has 
+
+228.26 229.03 B: uh-huh 
+
+228.80 234.42 A: and then the wider culture where we all want things now 
+
+234.65 241.78 A: and and we want them to be colorful and have lots of um special effects 
+
+241.36 244.07 B: right the fast paced stuff 
+
+243.08 246.23 A: and lots of graphics and 
+
+246.40 248.92 A: there are some children now that 
+
+250.56 260.97 A: have been playing i guess video games and wh- which i think are great and computer games and watching t._v. and going to lots of great animated movies 
+
+260.04 262.06 B: mhm 
+
+261.28 262.82 A: and 
+
+264.02 266.11 A: [sigh] sometimes education 
+
+266.13 267.39 A: is not 
+
+268.20 274.40 A: fast and colorful and and immediate and attention grabbing so 
+
+269.19 271.26 B: (( no [laughter] )) 
+
+274.03 275.91 B: that's true it's hard to compete 
+
+275.67 279.90 A: it's hard for teachers and the school system to compete with that culture 
+
+280.13 283.65 A: and then if if a child comes from a home where 
+
+284.15 289.64 A: education isn't part of the culture in in the home isn't valued 
+
+290.56 293.21 A: or in many cases the parents 
+
+294.29 301.40 A: have no patience with the child and won't help and won't support and won't participate 
+
+302.60 304.02 A: and i think there's 
+
+304.18 305.97 A: so much of that 
+
+306.48 309.35 A: that it's a miracle if some children 
+
+311.73 314.31 A: [sigh] can make it through at all 
+
+313.97 315.06 B: that's true 
+
+315.10 317.22 B: well what what do you think a solution would be 
+
+319.25 325.75 A: well i hate to say it and i don't know that this is right so let me just talk it out loud for a while i'm not sure i think this 
+
+324.13 324.97 B: sure 
+
+327.81 330.58 A: [sigh] what your family decided to do for you 
+
+331.17 336.22 A: what twenty years ago was to have you educated privately 
+
+337.82 338.87 A: and 
+
+338.76 341.07 B: (( right )) 
+
+340.40 344.98 A: i'm wondering if even then they didn't see a problem 
+
+345.20 348.89 A: with the school system and decided they wanted more for you 
+
+348.97 358.77 B: part of it was a problem my father he grew up in florida and he and he went to oh well he also grew up in new york he went to partly public school and partly private 
+
+358.60 362.99 B: and they did things there was something wrong with the florida public school system 
+
+362.09 362.99 A: uh-huh 
+
+362.88 375.18 B: that and religion were the reasons why they sent me to private catholic school but they also they're they're in favor of something that i'm not sure i'm in favor of which is they think that the remedy for the problem is that 
+
+367.66 368.65 A: (( right 'cause )) 
+
+375.32 378.48 B: people who send their children to private school should be given 
+
+378.64 382.68 B: either money or some kind of tax break incentive 
+
+382.07 383.99 A: yeah vouchers that kind of thing 
+
+383.81 397.02 B: i mean i i think that that would help overall that would help the system that would improve the system but i think that would destroy the public schools by taking the remaining money away from them and and ruining them so i don't know if that would be a solution 
+
+390.86 391.66 A: (( oh yeah )) 
+
+393.96 394.74 A: (( it's )) 
+
+397.38 400.52 A: it's a solution for the people that can afford the solution 
+
+400.54 405.67 B: yeah and and to me it seems like a measure that gives free money to people who already have the money 
+
+401.33 402.61 A: but not for the 
+
+406.10 409.24 B: to send them their children to private school 
+
+409.67 411.92 B: or if if you really think that if 
+
+409.73 410.46 A: (( yeah )) 
+
+412.00 415.95 B: if you could just give everyone a blank check to go whichever school they want to 
+
+415.96 425.27 B: then everyone would sign up for the fanciest private school and what ten thousand people would go to one school so i don't know if that would be a solution 
+
+416.16 416.90 A: right 
+
+424.91 426.42 A: it doesn't uh 
+
+426.80 429.50 A: on the surface it doesn't seem right but 
+
+428.94 431.52 B: higher salaries you said you were paid 
+
+432.21 436.17 A: i'm not i'm not higher salaries will not correct the problem i 
+
+432.31 433.78 B: too low 
+
+435.58 437.02 B: no you don't think so 
+
+436.64 437.60 A: um 
+
+437.19 438.90 B: you don't think that would help 
+
+440.57 451.54 B: i i was uh after college i taught i taught some college classes at my old college and for a semester for two classes that i taught i was paid fifteen hundred dollars 
+
+441.32 442.35 A: no 
+
+448.99 449.83 A: uh-huh 
+
+451.67 452.90 A: oh lordy 
+
+452.73 455.40 B: after taxes that was a thousand dollars 
+
+455.27 456.49 A: yes and there's 
+
+455.42 458.02 B: to teach an entire semester of two classes 
+
+457.72 459.41 A: there's no incentive then 
+
+458.60 463.02 B: i mean there's no yeah there's no incentive you can't even live on that 
+
+464.37 465.14 A: (( uh )) 
+
+464.44 465.36 B: so 
+
+466.04 467.37 A: i i 
+
+468.04 472.78 B: it is a cultural thing it it and what what will change the culture is the question 
+
+473.60 475.64 B: what is going to change that culture 
+
+475.83 477.10 B: that you describe 
+
+477.16 478.92 A: oh it's too late now honey 
+
+478.67 480.26 B: [laughter] 
+
+479.94 482.92 A: the pendulum has swung so far 
+
+483.25 487.07 A: my dad used to say that and and i think he's right that 
+
+488.77 489.98 A: uh we live 
+
+490.47 498.78 A: through maybe a period of fifty a hundred years pendulums will swing and when too much of an extreme is reached 
+
+499.32 502.45 A: it'll start backing down and and i think 
+
+503.06 506.02 A: liberalism in politics 
+
+506.09 507.55 A: and i am liberal 
+
+507.29 508.25 B: mhm 
+
+508.12 509.43 A: for a while 
+
+509.48 519.53 A: took hold and people rebelled and there's a lot of fundamentalist thinking and and christian based thinking which is conservative by nature 
+
+519.49 526.98 A: and and and mr bush president bush is an example of a product of that environment 
+
+519.76 520.99 B: right 
+
+527.47 533.52 A: but uh so maybe we're coming down from so much liberalism into conservatism 
+
+534.19 537.49 A: (( but how is that going to affect i )) 
+
+537.54 542.41 A: i just i'm so worried that i'm thinking that we've gone so far 
+
+542.78 544.03 A: with um 
+
+544.65 553.05 A: the games and the immediate gratification and i want it now and i have no patience if it's going to take a long time for me to get this 
+
+553.41 558.99 A: uh i don't know that we can back down i don't know if the pendulum can swing back uh 
+
+558.82 561.17 B: do you think that if it does that it'll swing 
+
+561.30 563.86 B: very far to the right 
+
+564.52 565.78 B: like right wing 
+
+566.55 568.31 B: like what do you think about um 
+
+569.01 572.27 B: uh religion in in public schools 
+
+572.40 574.76 A: i think they need to remain separate 
+
+574.52 575.76 B: i think so too 
+
+576.49 580.11 A: and and that and there's this question that you raised earlier 
+
+580.67 582.45 A: about giving money 
+
+583.18 586.50 A: for a religiously based school 
+
+586.22 589.48 B: they already do that and they're increasing that under bush 
+
+589.63 594.05 B: uh there's always exceptions to the general rule 
+
+594.40 599.95 B: like uh i i went to a catholic university and they got they got money from the federal 
+

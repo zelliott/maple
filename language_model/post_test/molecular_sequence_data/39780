@@ -1,0 +1,7 @@
+
+Multiple zzso zzso zzso provides valuable information for solving problems such as fold zzso The zzso approach tries to find zzso zzso of alignments from a zzso zzso zzso zzso Library zzso If large proportions of conflicts exist in the library, consistency can be hard to zzso On the other hand, multiple structural zzso has been used in many zzso methods to refine zzso However, multiple structural zzso is dependent on zzso and a zzso generated based on erroneous alignments is not guaranteed to be the optimal zzso zzso errors after making errors is not as good as avoiding errors from the zzso Hence it is important to refine the zzso library to reduce the number of conflicts before any zzso zzso 
+
+We present an algorithm, zzso zzso of zzso zzso alignment zzso to refine the zzso A new measurement for the consistency of a library is also zzso zzso show that our zzso can greatly improve zzso performance for less consistent zzso alignment zzso The final multiple alignment zzso most state-of-the-art zzso zzso at assembling 15 zzso zzso on three other benchmarks showed that the zzso consistently improves multiple alignment zzso 
+
+The zzso code of the zzso is available upon zzso 
+

@@ -1,0 +1,9 @@
+
+The availability of large-scale curated protein interaction zzso has given rise to the opportunity to investigate higher level organization and zzso within the zzso interaction zzso network using graph zzso zzso Despite the recent progress, systems level analysis of zzso zzso remains a daunting task because of the amount of data they zzso In this article, we propose a novel zzso network decomposition zzso called zzso in order to make sense of the deluge of interaction data using Gene zzso zzso zzso zzso finds not just a single functional decomposition of the zzso network, but a zzso zzso of functional zzso that portray alternative perspectives of the functional landscape of the underlying zzso zzso Each facet in the zzso represents a distinct interpretation of how the network can be functionally zzso and zzso Our zzso zzso zzso value of the zzso by zzso zzso zzso and zzso cluster zzso 
+
+We tested our zzso on the global networks from zzso and compared it with gold standard zzso from zzso and zzso We demonstrated the performance of zzso We also performed a case study that illustrates the utility of our zzso 
+
+zzso data are available at the zzso zzso 
+
+Our software is available freely for zzso purposes zzso zzso 
+

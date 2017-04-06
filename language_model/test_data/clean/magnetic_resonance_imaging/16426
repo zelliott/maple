@@ -1,0 +1,9 @@
+
+To evaluate the sensitivity and specificity of magnetic resonance imaging (MRI) computer-aided detection (CAD) for breast MRI screen-detected lesions recommended for biopsy in a high-risk population.
+
+Fifty-six consecutive Breast Imaging Reporting and Data System (BI-RADS) 3-5 lesions with histopathological correlation [nine invasive cancers, 13 ductal carcinoma in situ (DCIS) and 34 benign] were retrospectively evaluated using a breast MRI CAD prototype (CAD-Gaea). CAD evaluation was performed separately and in consensus by two radiologists specializing in breast imaging, blinded to the histopathology. Thresholds of 50, 80, and 100% and delayed enhancement were independently assessed with CAD. Lesions were rated as malignant or benign according to threshold and delayed enhancement only and in combination. Sensitivities, specificities, and negative predictive values (NPV) were determined for CAD assessments versus pathology. Initial MRI BI-RADS interpretation without CAD versus CAD assessments were compared using paired binary diagnostic tests.
+
+Threshold levels for lesion enhancement were: 50% to include all malignant (and all benign) lesions; and 100% for all invasive cancer and high-grade DCIS. Combined use of threshold and enhancement patterns for CAD assessment was best (73% sensitivity, 56% specificity and 76% NPV for all cancer). Sensitivities and NPV were better for invasive cancer (100%/100%) than for all malignancies (54%/76%). Radiologists' MRI interpretation was more sensitive than CAD (p=0.05), but less specific (p=0.001) for cancer detection.
+
+The breast MRI CAD system used could not improve the radiologists' accuracy for distinguishing all malignant from benign lesions, due to the poor sensitivity for DCIS detection.
+

@@ -1,0 +1,9 @@
+
+To propose a new method to zzso the ordering of zzso directions in zzso zzso so that partial scans have the best zzso zzso 
+
+zzso zzso often uses a zzso sampling zzso which acquires images zzso with zzso zzso in unique directions distributed zzso on the zzso If not all of the zzso can be completed, the quality of diffusion zzso fitted to the partial scan is sensitive to the order of the zzso directions in the scanner zzso If the directions are in a random order, then a partial scan may cover some parts of the zzso densely but other parts sparsely and thus provide poor zzso zzso We compare the results of ordering with previously published methods for zzso the acquisition in zzso 
+
+zzso show that all methods produce similar results and all improve the accuracy of the estimated diffusion zzso significantly over zzso zzso 
+
+The new ordering method improves the zzso coverage of partial scans and has the advantage of maintaining the optimal coverage of the complete zzso 
+

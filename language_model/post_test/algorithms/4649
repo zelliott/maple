@@ -1,0 +1,9 @@
+
+The filtered zzso is not able to cope with zzso inconsistencies in the zzso space which leads to artifacts in reconstructed CT zzso A new zzso is presented that reduces the drawbacks of existing artifact reduction zzso 
+
+zzso projection data are bridged by directed zzso These projections are reconstructed using a weighted maximum likelihood zzso zzso The correlation zzso between images of a torso phantom marked with steel markers reconstructed with zzso and images of the same torso slice without markers zzso the quality zzso For clinical data, zzso zzso is presented to obtain appropriate zzso 
+
+Different zzso strategies have been zzso The quality of reconstruction sensitively depends on the complexity of zzso A directional zzso gives best zzso However, the quality of the images can be further improved by an appropriate weighing within zzso This has been demonstrated with data from a torso zzso a jaw with amalgam zzso and a hip zzso 
+
+zzso image reconstruction using data from directional zzso space zzso is a new approach for metal artifact zzso The weighting in this statistical approach is used to reduce the influence of residual inconsistencies in a way that optimal artifact suppression is obtained by zzso a compromise between residual inconsistencies and void zzso The image quality is superior compared with other artifact reduction zzso 
+

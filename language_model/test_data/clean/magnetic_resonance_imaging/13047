@@ -1,0 +1,9 @@
+
+The left dorsolateral prefrontal cortex (DLPFC) is the most commonly used target for transcranial magnetic stimulation (TMS) in the treatment of depression. The "5-cm rule" is an empiric method used for probabilistic targeting of the DLPFC in most clinical trials. This rule may be suboptimal, as it does not account for differences in skull size or variations in prefrontal anatomy relative to motor cortex location. This study is a post hoc analysis of data from a large repetitive TMS (rTMS) trial in which we examined the variability of coil placement and how it affects antidepressant efficacy.
+
+Fifty-four depressed subjects enrolled in a randomized, single-site trial received either active rTMS or sham for 3 weeks. Prior to treatment initiation, investigators placed vitamin E capsules at the point of stimulation and used a high-resolution magnetic resonance imaging (MRI) scan to image these fiducials relative to anatomy. We employed a semiautomated imaging-processing algorithm to localize the cortical region stimulated.
+
+Active TMS significantly reduced Hamilton Depression Rating Scale (HDRS) scores. A linear model for this improvement involving the coordinates of the stimulated cortex location, age, and treatment condition was highly significant. Specifically, individuals with more anterior and lateral stimulation sites were more likely to respond.
+
+These results suggest that within the general anatomical area targeted by the 5-cm rule, placing the TMS coil more laterally and anteriorly is associated with improved response rates in TMS depression studies. Controlled studies testing this anatomical hypothesis are needed.
+

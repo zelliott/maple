@@ -1,0 +1,7 @@
+
+Multiple zzso zzso zzso has always been an active area of research in zzso zzso is mainly focused on discovering biologically meaningful relationships among different sequences or proteins in order to investigate the underlying main zzso This information is also used to generate zzso zzso 
+
+This paper presents a novel approach, namely zzso to solve the zzso problem using a hybrid solution methodology combining the zzso Band zzso zzso and the zzso Algorithm zzso zzso zzso is inspired by the behavior of an elastic zzso Band zzso on a plate with several zzso which is zzso to locations in the input sequences that could potentially be biologically zzso A zzso attempts to mimic the evolutionary processes of life in order to locate optimal solutions in an often very complex zzso zzso is a population based zzso zzso designed to find the optimal alignment for a set of input protein zzso In this novel technique, each alignment answer is modeled as a zzso consisting of several poles in the zzso zzso These poles resemble locations in the input sequences that are most likely to be correlated and/or biologically zzso A zzso zzso process improves these zzso gradually yielding a set of mostly optimal answers for the zzso zzso 
+
+zzso is tested with one of the well-known benchmarks suites zzso zzso in this zzso The obtained results show that the superiority of the proposed technique even in the case of formidable zzso 
+

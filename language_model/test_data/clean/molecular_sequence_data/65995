@@ -1,0 +1,9 @@
+
+To construct a recombinant lentivirus RNA interference (RNAi) vector carrying hTERT gene, and to obtain the titer of the lentiviral stock for investigating the expression in the eukaryotic cells and the effect on the hTERT gene silencing in the eukaryotic cells.
+
+Two complimentary oligos of small interference RNA (siRNA) with hairpin structures targeting the hTERT gene and a negative control were synthesized, then ligated with pLVTHM vector and sequenced. The recombinant vectors were then transfected with viral packaging mix into T293 cells, viral supernatant was harvested to determine the titer. U87 cells infected by virus were harvested and the expression of hTERT, telomerase activity and apoptosis were detected by reverse transcription-PCR(RT-PCR), TRAP assay and flow cytometry separately.
+
+Sequencing data showed that the constructed plasmids contained the correct sequences of hTERT siRNA transcript templates. A vector producing cell line T293 was established, and the titer for transfection was obtained. RT-PCR and TRAP flow cytometry analyses demonstrated that hTERT shRNA expression construct could suppress the expression of hTERT and telomerase activity and induce apoptosis.
+
+A lentivirus RNAi vector targeting hTERT gene was successfully constructed, which decreased the expression of hTERT and telomerase activity effectively and induced apoptosis. It has set up a research platform for the gene therapy of tumors which take hTERT as the target.
+

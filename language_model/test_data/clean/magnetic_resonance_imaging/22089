@@ -1,0 +1,3 @@
+
+The signals in NMR spin echoes which are refocused by 90 degrees pulses are spatially modulated. The spatial modulation is not normally observed in images or profiles obtained using Hahn or stimulated echoes, but may cause errors if the sample structure varies on the distance scale of the modulation. Localized spectra measured using stimulated echoes will also show errors under these conditions. Simple Fourier-transform arguments show that conditions which allow the modulation to become visible in an image or profile have the effect of introducing a second echo into the time-domain acquisition window. Phase cycling may be used to remove the spatial dependence of the signals.
+

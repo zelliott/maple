@@ -1,0 +1,7 @@
+
+Although most of the current disease candidate gene identification and zzso methods depend on functional zzso the coverage of the gene functional zzso is a limiting zzso In the current study, we describe a candidate gene zzso method that is entirely based on zzso interaction network zzso zzso 
+
+For the first time, extended versions of the zzso and zzso zzso and the zzso zzso method are applied to prioritize disease candidate genes in a zzso zzso Using a list of known zzso genes from our earlier study as a training set zzso and the rest of the known genes as a test list, we perform large-scale cross validation to rank the candidate genes and also evaluate and compare the performance of our zzso Under appropriate settings - for example, a back probability of zzso for zzso with zzso and zzso with zzso and step size 6 for zzso zzso method - the three methods achieved a comparable zzso value, suggesting a similar zzso 
+
+Even though network-based methods are generally not as effective as integrated functional zzso methods for disease candidate gene zzso in a zzso comparison, zzso candidate gene zzso performs better than all other gene features or zzso Additionally, we demonstrate that methods used for studying both social and Web networks can be successfully used for disease candidate gene zzso 
+

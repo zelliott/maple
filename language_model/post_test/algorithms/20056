@@ -1,0 +1,9 @@
+
+To develop and implement a clinical zzso technique suitable for the pediatric setting that zzso zzso for large motion without the need for zzso and/or zzso strategies, and to deliver high-quality zzso images (both in the presence and absence of large zzso using procedures that reduce image noise and zzso 
+
+We implemented an in-house built generalized zzso partially parallel acquisitions zzso diffusion zzso zzso zzso imaging zzso sequence at zzso and zzso on 1600 patients between 1 month and 18 years zzso To reconstruct the data, we developed a fully automated tailored reconstruction software that selects the best zzso and ghost zzso zzso does zzso zzso realignment with importance zzso and employs phase correction and complex averaging to lower zzso noise and reduce phase zzso For select cases we investigated the use of an additional volume rejection criterion and zzso correction for large zzso 
+
+The zzso image reconstruction procedures developed here were extremely robust in correcting for motion, failing on only three subjects, while providing the zzso high-quality data for routine zzso 
+
+This work suggests that, apart from the rare instance of continuous motion throughout the zzso high-quality zzso brain data can be acquired using our proposed integrated sequence and reconstruction that uses a retrospective approach to motion zzso In addition, we demonstrate a substantial improvement in overall image quality by combining phase correction with complex zzso which reduces the zzso noise that biases noisy zzso 
+

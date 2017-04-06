@@ -1,0 +1,9 @@
+
+A novel zzso zzso accurate positioning confirmation system based on image zzso zzso is introduced and evaluated using a mannequin zzso 
+
+The system comprises a miniature complementary metal oxide silicon sensor zzso attached to the tip of a zzso rigid zzso and connected to a digital signal zzso zzso with an integrated video acquisition zzso Video signals acquired and processed by an zzso implemented on the zzso During mannequin zzso video signals were continuously zzso A total of 10 videos were zzso From each video, 7 images of zzso zzso and 8 images of zzso zzso (in which the zzso could be clearly zzso were zzso yielding a total of 150 images taken from arbitrary positions and angles which were processed by the confirmation zzso 
+
+The performance of the confirmation zzso was evaluated using a zzso method: in each zzso 149 images were used to train the system and estimate the models, and the remaining image was used to test the zzso This process was repeated 150 times such that each image participated once in zzso The system correctly identified 80 out of 80 zzso zzso and 70 out of 70 zzso zzso 
+
+This fully automatic image recognition system was used successfully to discriminate airway zzso and zzso zzso tube zzso The system had a zzso success rate using a mannequin model and therefore further investigation including live tissue model and human research should zzso 
+

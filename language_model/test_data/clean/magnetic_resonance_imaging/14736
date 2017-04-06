@@ -1,0 +1,9 @@
+
+To segment veins from brain susceptibility weighted images with inhomogeneous background and veins, noises and complex structures.
+
+Based on vessel enhancing filtering, an adaptive threshold segmenting method and an adaptive threshold region growing method were proposed. The former method was used to exactly segment part of veins from the original images. Taking the veins segmented by the former method as seeds, the later method was used to extract nearly all the veins.
+
+For simulation data with serious noises and interferences, correct rate above 90% was achieved. And for clinical data, the veins were extracted accurately and the structures of veins were displayed clearly.
+
+The methods can extract veins from the brain susceptibility weighted images exactly and avoid false segmentation of the other structures effectively. The methods are very robust and stable.
+

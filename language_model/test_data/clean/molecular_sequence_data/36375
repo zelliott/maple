@@ -1,0 +1,3 @@
+
+A novel approach to tailored selective excitation for the measurement of NMR spectra in non-deuterated aqueous solutions (WATERGATE, WATER suppression by GrAdient-Tailored Excitation) is described. The gradient echo sequence, which effectively combines one selective 180 degrees radiofrequency pulse and two field gradient pulses, achieves highly selective and effective water suppression. This technique is ideally suited for the rapid collection of multi-dimensional data since a single-scan acquisition produces a pure phase NMR spectrum with a perfectly flat baseline, at the highest possible sensitivity. Application to the fast measurement of 2D NOE data of a 2.2 mM solution of a double-stranded DNA fragment in 90% H2O at 5 degrees C is presented.
+

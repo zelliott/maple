@@ -1,0 +1,9 @@
+
+The objectives of this study were to develop a zzso zzso zzso to automatically delineate liver zzso on zzso zzso images and to compare automated tumor zzso with those outlined manually by zzso 
+
+The zzso starts with a manual selection of a seed zzso region of interest zzso Based on intensity zzso of the seed zzso and the liver zzso several parameters are zzso and used to zzso guide the region zzso To prevent the region growing from leaking into surrounding zzso of similar zzso specific shape constraints, including a local shape, a global shape, and a zzso index, are developed to jointly control the iteration of the region zzso The zzso was applied to 59 zzso in 14 patients with liver zzso The zzso diameter zzso the product of the zzso and zzso perpendicular diameters zzso and the area in the zzso plane were calculated for each of the segmented zzso Three independent zzso manually measured all the zzso once, and one of the zzso measured each zzso 3 zzso For each zzso the zzso correlation zzso zzso was used to assess the zzso agreement between the computer and the different zzso and the overall zzso correlation zzso zzso was used to assess the agreement between the computer and the multiple zzso and between the one zzso 3 zzso 
+
+zzso of 59 zzso zzso in 14 patients with liver zzso were successfully segmented using this zzso The zzso achieved a median accuracy of zzso zzso ranged from zzso to zzso with zzso confidence zzso 
+
+High accuracy and zzso suggested that zzso made by the computer were very similar to those made by the zzso 
+

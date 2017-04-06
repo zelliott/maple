@@ -1,0 +1,7 @@
+
+One of the major problems in DNA sequencing is assembling the fragments obtained by shotgun zzso Most existing zzso assembly techniques follow the zzso zzso This framework requires extensive zzso in each phase and becomes inefficient with increasing number of zzso 
+
+We propose a new zzso which zzso the zzso layout, and consensus zzso zzso The fragments are clustered with respect to their Average Mutual Information zzso profiles using the zzso zzso This removes the unnecessary burden of considering the collection of fragments as a zzso Instead, the orientation and overlap detection are solved zzso within the zzso The zzso has successfully reconstructed both artificial and real zzso 
+
+Available on request from the zzso 
+

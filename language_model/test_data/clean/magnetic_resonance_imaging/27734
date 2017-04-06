@@ -1,0 +1,9 @@
+
+To investigate the feasibility of measuring motion in the abdomen using a continuously tagged magnetic resonance imaging sequence.
+
+To assess (nonperiodic) motion in the abdomen, a nontriggered, continuously tagged transient field echo (TFE) sequence was implemented that acquires one complete 3D dataset per prepulse after a fixed delay. In postprocessing, a frequency analysis approach was developed for compact reviewing of the data and noise suppression. For proof of principle, a simulation was made and one free-breathing dynamic in vivo scan was acquired in a healthy volunteer. During the dynamic scan the volunteer received glucagon intravenously.
+
+The simulation showed that this frequency analysis enables the extraction of motion at low signal-to-noise ratio levels. Motion information was successfully gathered from the in vivo scan. The decline in bowel motion caused by the administration of glucagon could be quantitatively measured using the continuously tagged sequence.
+
+Continuously tagged imaging in the abdomen for the purpose of automated gathering of motion information is feasible and could aid the study of bowel motion.
+

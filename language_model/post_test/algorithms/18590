@@ -1,0 +1,9 @@
+
+In this study, we developed a zzso zzso computer aided detection zzso system designed to automatically detect both solid and zzso pulmonary zzso in zzso zzso zzso zzso By using this zzso algorithm, along with the zzso initial zzso we aim to improve the sensitivity of zzso readings of CT lung zzso 
+
+We have developed a zzso zzso zzso through the use of precise zzso models that capture scanner physics and zzso zzso Our zzso zzso zzso uses multiple zzso zzso to extract noteworthy structures in the lungs and a zzso statistical model selection framework to determine the probability of various anatomical events throughout the zzso We tested this zzso on 50 zzso CT lung cancer screening cases in which ground truth was produced through readings by three expert chest zzso 
+
+Using this zzso zzso zzso on 50 zzso CT cases, we measured potential sensitivity improvements of zzso and zzso in two zzso with respect to all zzso zzso solid and zzso greater than 5 zzso in zzso The third zzso did not miss any zzso in the ground truth zzso The zzso zzso produced zzso false zzso per zzso 
+
+Our zzso zzso system demonstrates promising results as a tool to improve the quality of zzso readings by increasing zzso zzso A significant advantage of this zzso approach is that it can be easily extended to support additional zzso models as clinical understanding and scanning practices zzso 
+

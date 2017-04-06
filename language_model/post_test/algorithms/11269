@@ -1,0 +1,11 @@
+
+An accurate zzso representation of food and drug zzso is essential for safe zzso Our goal was to develop a zzso easily maintained zzso to identify medication and food zzso and sensitivities from zzso zzso entries in electronic health record zzso zzso 
+
+An zzso was developed in zzso to identify ingredients to which patients had zzso in a zzso information management zzso The zzso used zzso and natural language processing techniques developed on a training set of 24 zzso entries from zzso zzso zzso zzso precision, recall, and zzso were determined for the training zzso and repeated for the testing zzso (24 zzso entries from zzso zzso 
+
+zzso precision, recall, and zzso for medication zzso matches were all above zzso in the training zzso and above zzso in the testing zzso for all zzso zzso zzso values for food zzso matches were above zzso and above zzso zzso zzso of the zzso were zzso and zzso for drug matches and zzso and zzso for food matches in the training and testing zzso zzso 
+
+The zzso had high performance for identification of medication and food zzso Maintenance is practical, as updates are managed through upload of new zzso versions and additions to companion database zzso However, direct entry of codified zzso information by providers (through zzso or drop zzso is still preferred to zzso zzso of the zzso Data tables used in the zzso are available for zzso 
+
+A high zzso easily maintained zzso can successfully identify medication and food zzso from free text entries in zzso zzso 
+

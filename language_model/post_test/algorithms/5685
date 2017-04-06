@@ -1,0 +1,11 @@
+
+zzso reconstruction of consecutive zzso transmission electron zzso zzso images of neural tissue currently requires many hours of manual tracing and zzso Several zzso techniques have already been applied to zzso images to facilitate zzso reconstruction and ease this zzso 
+
+Here, we present an alternative zzso approach for zzso image zzso We have used biologically inspired receptive fields as a basis for a zzso detection zzso to identify cell zzso synaptic contacts and zzso zzso line segments are used to improve alignment between consecutive images and we have joined small segments of membrane into cell surfaces using a dynamic programming zzso similar to the zzso and zzso DNA sequence alignment zzso A shortest zzso approach has been used to close edges and achieve image zzso zzso reconstructions were automatically generated and used as a basis for zzso reconstruction of neural zzso The accuracy of partial reconstructions was evaluated and zzso of membrane could be identified at the cost of zzso false positive zzso 
+
+An zzso reference zzso is available in the zzso zzso 
+
+zzso zzso 
+
+zzso data are available at zzso zzso 
+

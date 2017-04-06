@@ -1,0 +1,9 @@
+
+The aim of this study was to develop a preoperative risk prediction model for lymph node metastasis in patients with endometrial cancer and to identify a low-risk group before surgery.
+
+The medical records of 360 patients with endometrial cancer who underwent surgical staging were collected from four institutions and were retrospectively reviewed. By using serum CA-125 levels, preoperative biopsy data, and magnetic resonance imaging (MRI) data, a multivariate logistic model was created. Patients whose predicted probability was less than 4% were defined as low risk. The developed model was externally validated in 180 patients from two independent institutions.
+
+Serum CA-125 levels and three MRI parameters (deep myometrial invasion, lymph node enlargement, and extension beyond uterine corpus) were found to be independent risk factors for nodal metastasis. The model classified 53% of patients as part of a low-risk group, and the false negative rate was 1.7%. In the validation cohort, the model classified 43% of patients as low-risk, and the false negative rate was 1.4%. The model showed good discrimination (area under the receiver operator characteristic curve = 0.85) and was calibrated well. The negative likelihood ratio of our low-risk criteria was 0.11 (95% CI, 0.04 to 0.29), which was equivalent to the false-negative rate of 1.3% (95% CI, 0.5% to 3.3%) at the assumed prevalence of nodal metastasis of 10%.
+
+Using serum CA-125 and MRI as criteria resulted in the accurate identification of a low-risk group for lymph node metastasis among patients with endometrial cancer.
+

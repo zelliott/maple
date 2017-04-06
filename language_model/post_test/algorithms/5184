@@ -1,0 +1,7 @@
+
+zzso are small zzso expressed zzso zzso molecules that regulate target gene expression through translation repression or zzso zzso zzso zzso regulation is performed through pairing of the zzso to sites in the zzso zzso of protein coding zzso Since experimental identification of zzso target genes poses difficulties, zzso zzso target prediction is one of the key means in deciphering the role of zzso in development and zzso 
+
+zzso zzso is an zzso for zzso target prediction which is based on several parameters calculated individually for each zzso and combines zzso and zzso zzso recognition elements into a final prediction score, which zzso with protein production fold zzso Specifically, for each predicted interaction the program reports a signal to noise ratio and a precision score which can be used as an indication of the false positive rate of the zzso 
+
+Recently, several zzso target prediction programs were zzso based on a set of zzso target genes identified by the zzso zzso In this assessment zzso zzso was found to achieve the highest precision among the most widely used zzso target prediction programs reaching approximately zzso The zzso zzso prediction results are available online in a user friendly web server at zzso 
+

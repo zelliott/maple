@@ -1,0 +1,9 @@
+
+An artificial neural network (ANN)-based segmentation method was developed for dynamic contrast-enhanced magnetic resonance (MR) imaging of the breast and compared with quantitative and empiric parameter mapping techniques.
+
+The study population was composed of 10 patients with seven malignant and three benign lesions undergoing dynamic MR imaging of the breast. All lesions were biopsied or surgically excised, and examined by means of histopathology. A T1-weighted 3D FLASH (fast low angle shot sequence) was acquired before and seven times after the intravenous administration of gadopentetate dimeglumine at a dose of 0.1 mmol/kg body weight. Motion artifacts on MR images were eliminated by voxel-based affine and nonrigid registration techniques. A two-layered feed-forward back-propagation network was created for pixel-by-pixel classification of signal intensity-time curves into benign/malignant tissue types. ANN output was statistically compared with percent-enhancement (E), signal enhancement ratio (SER), time-to-peak, subtracted signal intensity (SUB), pharmacokinetic parameter rate constant (k(ep)), and correlation coefficient to a predefined reference washout curve.
+
+ANN was successfully applied to the classification of breast MR images identifying structures with benign or malignant enhancement kinetics. Correlation coefficient (logistic regression, odds ratio [OR] = 12.9; 95% CI: 7.7-21.8), k(ep) (OR = 1.8; 95% CI: 1.2-2.6), and time-to-peak (OR = 0.45; 95% CI: 0.3-0.7) were independently associated to ANN output classes. SER, E, and SUB were nonsignificant covariates.
+
+ANN is capable of classifying breast lesions on MR images. Mapping correlation coefficient, k(ep) and time-to-peak showed the highest association with the ANN result.
+

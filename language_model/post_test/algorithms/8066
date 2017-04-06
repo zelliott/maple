@@ -1,0 +1,7 @@
+
+zzso zzso regulation is one of the main challenges in zzso zzso An important problem is the identification of zzso factor zzso binding sites in promoter regions of potential zzso target zzso It is typically approached by position weight zzso motif identification zzso using Gibbs zzso or zzso to extend seed zzso Such zzso succeed in identifying single, relatively zzso binding sites, but tend to fail when it comes to the identification of combinations of several zzso binding sites, as those often found in zzso zzso 
+
+We propose a new zzso that combines the benefits of existing motif finding with the ones of support zzso machines zzso to find zzso motifs in order to improve the modeling of regulatory zzso In experiments on zzso data from zzso zzso we were able to show that the newly developed strategy significantly improves the recognition of zzso zzso 
+
+The python source code zzso zzso under zzso the data for the experiments and a zzso web service are available at zzso 
+

@@ -1,0 +1,3 @@
+
+The modeling of biomolecular complexes by computational docking using the known structures of their constituents is developing rapidly to become a powerful tool in structural biology. It is especially useful in combination with even limited experimental information describing the interface. Here we demonstrate for the first time the use of diffusion anisotropy in combination with chemical shift perturbation data to drive protein-protein docking. For validation purposes we make use of simulated diffusion anisotropy data. Inclusion of this information, which can be derived from NMR relaxation rates and reports on the orientation of the components of a complex with respect to the rotational diffusion tensor, substantially improves the docking results.
+

@@ -1,0 +1,3 @@
+
+The scale of local structure is a key zzso in medical image zzso Unfortunately, no much attention has been paid to the scale selection for the local structures in the zzso This paper proposes a zzso scale selection method for local structures in the zzso By using minimal description length criterion to maximize the zzso probability of local structure region with zzso constraint based on the zzso random field model, an optimal scale for each local structure, which is segmented with zzso zzso is assigned in terms of zzso in a discrete zzso scale zzso zzso the local zzso scale can be selected for further zzso medical image zzso 
+

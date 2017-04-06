@@ -1,0 +1,11 @@
+
+A zzso analysis of the biomedical grid literature shows that most projects emphasize data sharing and the development of new applications for the grid zzso Much less is known about the best practices for the migration of existing zzso tools into the grid zzso 
+
+To make zzso available as a grid service and to evaluate the effort and best practices needed to enable a legacy application as a grid service when addressing semantic integration and using the zzso zzso 
+
+We used the tools available in the zzso environment because these tools are quite general and they may be used to deploy services in similar biomedical zzso that are zzso 
+
+We achieved semantic integration of zzso within the zzso by creating a new zzso model, zzso for the zzso data zzso The zzso zzso model has been published in the zzso and it is zzso available for usage with zzso or any other program using this data zzso 
+
+While achieving semantic zzso is still a time-consuming task, the tools available in zzso can greatly enhance productivity and decrease zzso 
+

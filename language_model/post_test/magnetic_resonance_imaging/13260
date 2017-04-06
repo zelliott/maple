@@ -1,0 +1,9 @@
+
+We evaluate the feasibility of applying dynamic zzso zzso zzso an image analysis technique, to perform zzso zzso We apply zzso to detect and characterize zzso zzso characteristics between anatomical brain structures from different groups of zzso Our method reduces the number of statistical tests, commonly required by zzso statistics, alleviating the effect of the multiple comparison zzso 
+
+The main idea of zzso is to partition the two-dimensional zzso image zzso into progressively smaller zzso until statistically significant zzso regions are zzso The zzso process is guided by statistical tests applied on groups of zzso By performing statistical tests on groups of zzso rather than on individual zzso the number of statistical tests is effectively zzso This reduction of statistical tests restricts the effect of the multiple comparison problem zzso zzso zzso We demonstrate an application of zzso for detecting zzso zzso differentiation of the corpus zzso zzso was applied to template deformation fields zzso from registered magnetic resonance images of the corpus zzso to detect regions of significant expansion or contraction between female and male zzso 
+
+zzso was able to detect regions comparable to those of zzso analysis, while reducing the number of required statistical tests up to almost zzso The detected regions were in agreement with findings previously reported in the zzso zzso significant zzso zzso zzso was detected in the zzso corpus zzso region, the zzso and the anterior corpus zzso In addition, by operating on groups of zzso zzso appears to be less prone to detecting zzso diffused and isolated zzso zzso as zzso 
+
+zzso can be a viable approach for detecting zzso zzso characteristics among groups of subjects, having the potential to alleviate the multiple zzso effect by significantly reducing the number of required statistical zzso 
+

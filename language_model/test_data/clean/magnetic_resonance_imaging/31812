@@ -1,0 +1,9 @@
+
+To assess the effect on target delineation of using magnetic resonance simulation for planning of glioblastoma multiforme (GBM). Dose calculations derived from computed tomography- and magnetic resonance-derived plans were computed. The accuracy of set-up verification using magnetic resonance imaging (MRI)-based digital reconstructed radiographs (DRRs) was assessed.
+
+Ten patients with GBM were simulated using computed tomography and MRI. MRI was acquired with a low-field (0.23 T) MRI unit (SimMRI). Gross tumour volumes (GTVs) were delineated by two radiation oncologists on computed tomography and MRI. In total, 30 plans were generated using both the computed tomography, with (planbathoCT) and without (planCT) heterogeneity correction, and MRI data sets (planSimMRI). The minimum dose delivered (Dmin) to the GTV between computed tomography- and MRI-based plans was compared. The accuracy of set-up positioning using MRI DRRs was assessed by four radiation oncologists.
+
+The mean GTVs delineated on computed tomography were significantly (P<0.001) larger than those contoured on MRI. The mean (+/-standard deviation) Dmin difference percentage was 0.3+/-0.8, 0.1+/-0.6 and -0.2+/-1.0% for the planCT/planbathoCT-, planCT/planSimMRI- and planbathoCT/planSimMRI-derived plans, respectively. The set-up differences observed with the computed tomography and MRI DRRs ranged from 1.0 to 4.0 mm (mean 1.5 mm; standard deviation+/-1.4).
+
+GTVs defined on computed tomography were significantly larger than those delineated on MRI. Compared with computed tomography-derived plans, MRI-based dose calculations were accurate. The precision of set-up verifications based on computed tomography- and MRI-derived DRRs seemed similar. The use of MRI only for the planning of GBM should be further assessed.
+

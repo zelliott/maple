@@ -1,0 +1,5 @@
+
+Various multiple sequence zzso methods have been proposed to detect functional surfaces in zzso such as active sites or protein zzso The effect that the choice of sequences has on the conclusions of such analysis has seldom been zzso In particular, no method has been discussed in terms of its ability to zzso the sequence selection for the reliable detection of functional zzso 
+
+Here we zzso for the case of proteins with known structure, a zzso zzso zzso Carlo strategy to select sequences from a large set of zzso in order to improve detection of functional zzso The quantity guiding the zzso is the zzso of zzso which are under increased evolutionary pressure, according to the sample of sequences under zzso We show that we can either improve the overlap of our prediction with known functional surfaces in comparison with the sequence similarity criteria of selection or match the quality of prediction obtained through more elaborate zzso zzso of sequence zzso For the purpose of demonstration we use a set of 50 zzso zzso which were zzso with their zzso and zzso 
+

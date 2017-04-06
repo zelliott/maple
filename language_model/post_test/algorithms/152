@@ -1,0 +1,7 @@
+
+There is a significant ongoing research to identify the number and types of repetitive DNA zzso As more zzso are zzso efficiency and zzso in zzso tools become zzso zzso tools fail to find distant repeats because they cannot accommodate whole zzso but zzso Also, a quantitative framework for repetitive elements inside a zzso or across zzso is still zzso 
+
+We present a new efficient zzso and its zzso as a software tool to zzso all perfect repeats in zzso of up to 500 million zzso zzso possibly containing many zzso Our zzso is based on a zzso array construction and a novel procedure to extract all perfect repeats in the entire zzso that can be arbitrarily distant, and with no bound on the repeat zzso We tested the software on the Homo sapiens DNA zzso zzso zzso We zzso all perfect repeats of at least 40 bases occurring in any two zzso with exact zzso We found that each zzso zzso shares approximately zzso of its full sequence with every other human zzso distributed more or less evenly among the zzso zzso We give statistics including a zzso of repeats by diversity, length and number of zzso We compared the zzso repeats against all biological repeats currently zzso from zzso enlarged with the output of the dust program and all elements identified by zzso and zzso zzso We report novel repeats as well as new zzso of repeats matching with known biological zzso 
+
+The source code, results and zzso of some statistics are accessible from zzso 
+

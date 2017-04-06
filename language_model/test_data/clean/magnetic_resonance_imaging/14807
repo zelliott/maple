@@ -1,0 +1,11 @@
+
+Previous studies using hierarchical clustering approach to analyze resting-state fMRI data were limited to a few slices or regions-of-interest (ROIs) after substantial data reduction.
+
+To develop a framework that can perform voxel-wise hierarchical clustering of whole-brain resting-state fMRI data from a group of subjects.
+
+Resting-state fMRI measurements were conducted for 86 adult subjects using a single-shot echo-planar imaging (EPI) technique. After pre-processing and co-registration to a standard template, pair-wise cross-correlation coefficients (CC) were calculated for all voxels inside the brain and translated into absolute Pearson's distances after imposing a threshold CC≥0.3. The group averages of the Pearson's distances were then used to perform hierarchical clustering with the developed framework, which entails gray matter masking and an iterative scheme to analyze the dendrogram.
+
+With the hierarchical clustering framework, we identified most of the functional connectivity networks reported previously in the literature, such as the motor, sensory, visual, memory, and the default-mode functional networks (DMN). Furthermore, the DMN and visual system were split into their corresponding hierarchical sub-networks.
+
+It is feasible to use the proposed hierarchical clustering scheme for voxel-wise analysis of whole-brain resting-state fMRI data. The hierarchical clustering result not only confirmed generally the finding in functional connectivity networks identified previously using other data processing techniques, such as ICA, but also revealed directly the hierarchical structure within the functional connectivity networks.
+

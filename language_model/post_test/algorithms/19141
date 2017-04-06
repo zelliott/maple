@@ -1,0 +1,3 @@
+
+We propose an efficient zzso to zzso the smoothed zzso for the detection of zzso relationship between two spike zzso Unlike the conventional zzso zzso zzso the proposed zzso operates on continuous time and does not bin either the spike train nor the zzso Hence it can be more precise in detecting the effective delay between two recording zzso Moreover, it can take advantage of the higher zzso resolution of the spike times provided by the current recording zzso The zzso kernel for smoothing enables efficient zzso of the zzso We also provide the basic statistics of the zzso and a zzso for choosing the kernel zzso This new technique is demonstrated by zzso the effective delays in a zzso network from synthetic data and recordings of zzso cortical zzso 
+

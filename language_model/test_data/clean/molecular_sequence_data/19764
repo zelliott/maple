@@ -1,0 +1,3 @@
+
+This paper describes a parallel algorithm and its needed architecture for solving exact string matching problem on DNA molecules. The parallel algorithm is considered much more faster than sequential algorithms used to perform exact string matching; the whole matching process between a given string and a pattern is performed in only one clock cycle by activating a number of processing elements and grouping them into clusters that perform the comparison operation between the Pattern and the string simultaneously. A simple parallel architecture is also presented as the algorithms is performed using this parallel architecture. The system is considered a step towards a complete parallel processing architecture to solve computationally intensive applications of DNA.
+

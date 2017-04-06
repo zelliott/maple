@@ -1,0 +1,9 @@
+
+Automatically identifying carotid plaque composition using MR imaging remains a challenging task in vivo. The purpose of our study was to compare the detection and quantification of carotid artery atherosclerotic plaque components based on in vivo MR imaging data using manual and automated segmentation.
+
+Sixty patients from a multicenter study were split into a training group (20 patients) and a study group (40 patients). Each MR imaging study consisted of 4 high-resolution carotid wall sequences (T1, T2, PDw, TOF). Manual segmentation was performed by delineation of the vessel wall and different plaque components. Automated segmentation was performed in the study group by a supervised classifier trained on images from the training group of patients.
+
+For the detection of plaque components, the agreement between the visual and automated analysis was moderate for calcifications (κ = 0.59, CI 95% [0.36-0.82]) and good for hemorrhage (0.65 [0.42-0.88]) and lipids (0.65 [0.03-1.27]). For quantification of plaque volumes, the intraclass correlation was high for hemorrhage (0.80 [0.54-0.92]) and fibrous tissue (0.80 [0.65-0.89]), good for lipids (0.65 [0.43-0.80]), and poor for calcifications.
+
+In 40 patients with carotid stenosis, our results indicated that it was possible to automatically detect carotid plaque components with substantial or good agreement with visual identification, and that the volumes obtained manually and automatically were reasonably consistent for hemorrhage and lipids but not for calcium.
+

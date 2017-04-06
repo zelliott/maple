@@ -1,0 +1,7 @@
+
+The modeling of dynamic systems requires zzso kinetic parameters from zzso measured zzso Conventional global zzso methods used for zzso zzso zzso genetic zzso zzso consume enormous zzso time because they require zzso zzso zzso for differential zzso When the target model is stiff, the zzso time for reaching a solution increases zzso 
+
+In an attempt to solve this problem, we explored a learning technique that uses zzso basis function networks zzso to achieve a zzso zzso for zzso zzso zzso reduce the number of zzso zzso by replacing derivatives with slopes derived from the distribution of searching zzso To introduce a slight search bias, we implemented additional data selection using a zzso that searches zzso areas at low zzso zzso In addition, we adopted zzso transformation that zzso the fitness surface to obtain a solution zzso We conducted zzso experiments to validate our methods and compared the results with those obtained by zzso We found that the calculation time decreased by more than 50% and the convergence rate increased from zzso to zzso 
+
+In this work, our zzso technique was effective for zzso zzso of stiff zzso zzso 
+

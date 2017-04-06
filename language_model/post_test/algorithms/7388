@@ -1,0 +1,9 @@
+
+Many biological processes are carried out by proteins interacting with each other in the form of protein zzso However, large-scale detection of protein complexes has remained constrained by experimental zzso As such, zzso detection of protein complexes by applying zzso zzso on the abundantly available zzso interaction zzso networks is an important zzso However, many current zzso have overlooked the importance of selecting seeds for expansion into clusters without excluding important proteins and including many noisy ones, while ensuring a high degree of functional zzso amongst the proteins detected for the zzso 
+
+We designed a novel method called zzso Local zzso zzso which clusters regions in a zzso network with high functional similarity to find protein complex zzso with high precision and efficiency in zzso log zzso + zzso zzso A seed selection strategy, which zzso seeds with dense zzso was zzso We defined a zzso measure, called common zzso zzso to estimate the functional similarity of two proteins given the number of their common zzso 
+
+Our proposed zzso zzso achieved the highest zzso zzso and zzso when compared to 11 state-of-the-art methods on zzso protein interaction data, with an improvement of zzso over the next highest zzso Our experiments also demonstrated that our seed selection strategy is able to increase zzso precision when applied to three previous protein complex mining zzso 
+
+The software, zzso and predicted complexes are available at zzso 
+

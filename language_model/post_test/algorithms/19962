@@ -1,0 +1,3 @@
+
+This paper proposes an zzso second order sliding mode zzso controller with a zzso sliding zzso The zzso sliding surface consists of a gain zzso having a variable zzso zzso zzso the sliding surface uses a low value of zzso ratio to get a quick system zzso As the closed loop system approaches the desired reference, the value of the zzso ratio gets increased with an aim to reducing the zzso and the settling zzso The time zzso of the control signal is used to design the zzso The actual control input obtained by zzso the zzso control signal is smooth and chattering zzso The zzso tuning law used by the proposed controller eliminates the need of prior knowledge about the upper bound of system zzso zzso results demonstrate the effectiveness of the proposed control zzso 
+

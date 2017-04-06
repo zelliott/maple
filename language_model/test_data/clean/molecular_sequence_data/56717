@@ -1,0 +1,3 @@
+
+Here we report a striking effect displayed by "modular primers," which consist of hexamer or pentamer oligonucleotide modules base-stacked to each other upon annealing to a DNA template. Such a combination of modules is found to prime DNA sequencing reactions uniquely, unlike either of the modules alone. We attribute this effect in part to the increase in the affinity of an oligonucleotide for the template in the presence of an adjacent module. All possible pentamer (or hexamer) sequences total 1024 (or 4096) samples, a manageable size for a presynthesized library. This approach can replace the synthesis of primers, which is the current bottleneck in time and cost of the primer walking sequencing, and can allow full automation of the closed cycle of walking.
+

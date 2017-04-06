@@ -1,0 +1,9 @@
+
+The aim of this study was to examine the potential of accurate image registration for detecting subtle changes in the brain.
+
+Isotropic T1-weighted volume images were obtained in 10 normal subjects and five patients on two or more occasions (including pre- and postcontrast studies). The images were segmented and a 3D rigid body translation and rotation technique was used with sinc interpolation to precisely match the images using a chi 2-test. The registered images and the subtraction images produced from them were used to detect changes in signal intensity, sit, shape, and size of the brain.
+
+Small changes due to differences in orientation of the head, growth, and development as well as inhalation of oxygen and carbogen (95% O2/5% CO2) were observed in normal subjects. Changes were also observed in patients with minor head trauma, a meningioma, an astrocytoma, and multiple sclerosis. Differences due to contrast enhancement and surgery and/or anesthesia were also seen.
+
+With use of subvoxel registration, subtle changes in the brain were detected in a variety of physiological and clinical situations where differences have hitherto been difficult or impossible to detect.
+

@@ -1,0 +1,13 @@
+
+A challenge in the diagnosis of prostate cancer (PCa) is the accurate assessment of aggressiveness.
+
+To validate the performance of dynamic contrast-enhanced (DCE) magnetic resonance imaging (MRI) of the prostate at 3 tesla (T) for the assessment of PCa aggressiveness, with prostatectomy specimens as the reference standard.
+
+A total of 45 patients with PCa scheduled for prostatectomy were included. This study was approved by the institutional review board; the need for informed consent was waived.
+
+Subjects underwent a clinical MRI protocol including DCE-MRI. Blinded to DCE-images, PCa was indicated on T2-weighted images based on histopathology results from prostatectomy specimens with the use of anatomical landmarks for the precise localization of the tumor. PCa was classified as low-, intermediate-, or high-grade, according to Gleason score. DCE-images were used as an overlay on T2-weighted images; mean and quartile values from semi-quantitative and pharmacokinetic model parameters were extracted per tumor region. Statistical analysis included Spearman's ρ, the Kruskal-Wallis test, and a receiver operating characteristics (ROC) analysis.
+
+Significant differences were seen for the mean and 75th percentile (p75) values of wash-in (p = 0.024 and p = 0.017, respectively), mean wash-out (p = 0.044), and p75 of transfer constant (K(trans)) (p = 0.035), all between low-grade and high-grade PCa in the peripheral zone. ROC analysis revealed the best discriminating performance between low-grade versus intermediate-grade plus high-grade PCa in the peripheral zone for p75 of wash-in, K(trans), and rate constant (Kep) (area under the curve: 0.72). Due to a limited number of tumors in the transition zone, a definitive conclusion for this region of the prostate could not be drawn.
+
+Quantitative parameters (K(trans) and Kep) and semi-quantitative parameters (wash-in and wash-out) derived from DCE-MRI at 3 T have the potential to assess the aggressiveness of PCa in the peripheral zone. P75 of wash-in, K(trans), and Kep offer the best possibility to discriminate low-grade from intermediate-grade plus high-grade PCa.
+

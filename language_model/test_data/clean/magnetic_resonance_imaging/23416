@@ -1,0 +1,9 @@
+
+Prediction of long term clinical outcome in patients with primary progressive multiple sclerosis (PPMS) using imaging has important clinical implications, but remains challenging. We aimed to determine whether spatial location of T2 and T1 brain lesions predicts clinical progression during a 10-year follow-up in PPMS.
+
+Lesion probability maps of the T2 and T1 brain lesions were generated using the baseline scans of 80 patients with PPMS who were clinically assessed at baseline and then after 1, 2, 5 and 10 years. For each patient, the time (in years) taken before bilateral support was required to walk (time to event (TTE)) was used as a measure of progression rate. The probability of each voxel being 'lesional' was correlated with TTE, adjusting for age, gender, disease duration, centre and spinal cord cross sectional area, using a multiple linear regression model. To identify the best, independent predictor of progression, a Cox regression model was used.
+
+A significant correlation between a shorter TTE and a higher probability of a voxel being lesional on T2 scans was found in the bilateral corticospinal tract and superior longitudinal fasciculus, and in the right inferior fronto-occipital fasciculus (p<0.05). The best predictor of progression rate was the T2 lesion load measured along the right inferior fronto-occipital fasciculus (p=0.016, hazard ratio 1.00652, 95% CI 1.00121 to 1.01186).
+
+Our results suggest that the location of T2 brain lesions in the motor and associative tracts is an important contributor to the progression of disability in PPMS, and is independent of spinal cord involvement.
+

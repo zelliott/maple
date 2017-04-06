@@ -1,0 +1,9 @@
+
+Most in vivo knee kinematic analyses are based on external markers attached to the shank and the thigh. Literature data show that markers positioning and soft tissues artifacts affect the kinematic parameters of the bones true movement. Most of the techniques of quantification used were invasive. The aim of the present study was to develop and apply a non-invasive methodology to compute the relative movement between the bones and the markers.
+
+Magnetic resonance imaging acquisitions were performed on the right knee of eleven volunteers without knee injury. The subjects were equipped with external magnetic resonance imaging-compatible marker sets. A foot drive device allowed the subjects to perform an actively loaded knee extension. The whole volume of the subject's knee was processed for four sequentially held knee flexion positions during the knee movement. The bones and external marker sets geometry were reconstructed from magnetic resonance imaging images. Then a registration algorithm was applied to the bones and the relative movement of the thigh and shank marker sets with respect to their underlying bones was computed.
+
+The protocol resulted in a good geometrical accuracy and reproducibility. Marker sets movement differ from that of the bones with a maximum of 22 mm in translation and 15 degrees in rotation and it affects the knee kinematics.
+
+Marker sets relative movement modify the knee movement finite helical axes direction (range 10-35 degrees ) and localization (range 0-40 mm). The methodology developed can evaluate external marker set system to be used for kinematic analysis in a clinical environment.
+

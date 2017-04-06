@@ -1,0 +1,3 @@
+
+In this paper, we explore methods for learning local image zzso from training zzso We describe a set of building blocks for constructing zzso which can be combined together and jointly zzso so as to minimize the error of a zzso zzso We consider both linear and zzso zzso with zzso reduction, and make use of zzso learning techniques such as Linear zzso Analysis zzso and Powell zzso to solve for the zzso Using these techniques, we obtain zzso that exceed state-of-the-art performance with low zzso In addition to new experiments and recommendations for zzso learning, we are also making available a new and realistic ground truth data set based on zzso stereo zzso 
+

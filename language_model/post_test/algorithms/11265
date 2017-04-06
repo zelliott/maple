@@ -1,0 +1,9 @@
+
+To build an effective zzso resolution system tailored to the biomedical zzso 
+
+Experimental materials used in this study were provided by the 2011 zzso Natural Language zzso zzso The 2011 zzso challenge involves zzso resolution in medical zzso Concept mentions have been zzso in clinical texts, and the mentions that zzso in each document are linked by zzso zzso Normally, there are two ways of constructing a system to automatically zzso zzso One is to manually build rules zzso zzso the other is to use machine learning systems to learn automatically from training zzso and then perform the resolution task on testing zzso 
+
+The existing zzso resolution systems are able to find some of the zzso zzso our rule based system performs well, finding the majority of the zzso zzso Our system achieved zzso overall performance on multiple medical zzso 
+
+zzso crafted rules based on observation of training data is a valid way to accomplish high performance in this zzso resolution task for the critical biomedical zzso 
+

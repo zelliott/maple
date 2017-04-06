@@ -1,0 +1,9 @@
+
+To evaluate an adaptive-motion-correction technique to reduce global motion in shoulder magnetic resonance (MR) images.
+
+In the adaptive-motion-correction technique, interleaved navigator echoes are used to provide a measure of view-to-view displacement along the craniocaudal direction for each image echo in the acquisition. The information is then retrospectively applied to the k-space data to correct for global shoulder motion. This algorithm was evaluated in a series of 143 consecutive patient shoulder examinations by comparing the original image set for each patient with the same image set after retrospective correction by means of this algorithm.
+
+The average amplitude of craniocaudal motion was 1.4 mm. Image degradation due to motion was apparent in 100 (70%) of the 143 examinations. Application of the adaptive-motion-correction technique improved image quality in 73 (73%) of these 100 examinations or 51% of all 143 examinations.
+
+Adaptive motion correction improved image quality in approximately three-quarters of the examinations in which motion was present.
+

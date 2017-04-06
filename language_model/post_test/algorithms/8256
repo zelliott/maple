@@ -1,0 +1,9 @@
+
+One of the toughest challenges in medical diagnosis is uncertainty zzso The detection of zzso bacteria such as zzso and zzso which cause typhoid fever and zzso respectively, is one such challenging problem for zzso They detect the bacteria by the comparison with zzso classes to find the most similar zzso zzso we observe uncertainty in determining the similarity degrees, and therefore, in the bacteria zzso In this paper, we take an intelligent approach towards the bacteria zzso problem by using five similarity measures of fuzzy sets zzso and zzso fuzzy sets zzso to examine their capabilities in encountering uncertainty in the medical pattern zzso 
+
+zzso and zzso are two strong zzso for uncertainty zzso The membership degree in zzso and both membership and zzso degrees in zzso are the operators that these zzso use to represent the degree of which a member of the universe of discourse belongs to a subset of zzso In this paper, the similarity measures, which both zzso provide are used, so as the zzso bacteria are detected and classified through uncertainty zzso in feature zzso Also, the experimental results of using the measures are illustrated and zzso 
+
+We obtained 263 unknown bacteria from zzso section of zzso laboratory in Tehran to examine the similarity measures in zzso Finally, the detection rates of the measures were calculated between which zzso zzso and Mitchel similarity measures scored the best results with zzso and zzso detection rates, zzso On the other hand, zzso zzso distance yielded only zzso detection zzso 
+
+Our investigation shows that both zzso have powerful capabilities to cope with the uncertainty in the medical pattern recognition zzso But, zzso yield better detection rate as a result of more accurate modeling which is involved with incurring more zzso zzso Our research also shows that among different zzso similarity measures, zzso zzso and Mitchel ones score the best zzso 
+

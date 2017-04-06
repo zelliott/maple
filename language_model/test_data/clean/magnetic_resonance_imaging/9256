@@ -1,0 +1,9 @@
+
+During radiation delivery, target volumes change their position and shape due to intrafraction motion. The extent of these changes and the capability to correct for them will contribute to the benefit of an MRI-accelerator in terms of PTV margin reduction. Therefore, we investigated the primary CTV motion within a typical IMRT delivery time for cervical cancer patients for various correction techniques: no registration, rigid bony anatomy registration, and rigid soft tissue registration.
+
+Twenty-two patients underwent 2-3 offline MRI exams before and during their radiation treatment. Each MRI exam included four sagittal and four axial MRI scans alternately within 16min. We addressed the CTV motion by comparing subsequent midsagittal CTV delineations and investigated the correlation with intrafraction bladder filling.
+
+The maximum (residual) motions within 16min for all points on the CTV contour for 90% of the MRI exams without registration, with rigid bony anatomy registration, and with rigid soft tissue registration were 10.6, 9.9, and 4.0mm. A significant but weak correlation was found between intrafraction bladder filling and CTV motion.
+
+Considerable intrafraction CTV motion is observed in cervical cancer patients. Intrafraction MRI-guided soft tissue registration using an MRI-accelerator will correct for this motion.
+

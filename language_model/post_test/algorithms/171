@@ -1,0 +1,3 @@
+
+We study the problem of automatic visual speech recognition zzso using dynamic zzso network zzso models consisting of multiple sequences of hidden states, each corresponding to an zzso feature zzso such as lip opening zzso or lip zzso zzso A bank of zzso zzso feature zzso provides input to the zzso in the form of either virtual evidence zzso zzso zzso or raw zzso margin zzso We present experiments on two tasks, a zzso zzso task and a zzso phrase recognition zzso We show that zzso zzso models outperform baseline models, and we study several aspects of the models, such as the effects of allowing zzso zzso of using zzso versus zzso models, and of incorporating zzso zzso via virtual evidence versus alternative observation zzso 
+

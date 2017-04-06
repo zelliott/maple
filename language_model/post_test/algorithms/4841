@@ -1,0 +1,11 @@
+
+Each zzso Medical Language System zzso concept is assigned one or more semantic types zzso A dynamic methodology for aiding an auditor in finding concepts that are missing the assignment of a given zzso S is zzso 
+
+The first part of the methodology exploits the previously introduced zzso zzso Network and accompanying refined semantic types zzso to help narrow the search space for offending zzso The auditing is focused in a neighborhood surrounding the extent of an zzso T (of zzso called an zzso consisting of parents and children of concepts in the zzso The audit moves outward as long as missing assignments are zzso In the second part, concepts not reached previously are processed and reassigned T as needed during the processing of zzso other zzso The set of such concepts is expanded in a similar way to that in the first zzso 
+
+The number of errors discovered is zzso To measure the zzso efficiency, zzso hit zzso zzso errors found in concepts zzso are zzso 
+
+The methodology was applied to three zzso Experimental Model of Disease zzso Environmental Effect of zzso and zzso or Regulatory zzso The zzso experienced the most drastic zzso For its zzso zzso intersection zzso zzso zzso zzso with only 33 zzso original concepts, zzso zzso concepts were found by the first zzso part to be missing the zzso zzso Changes to the other two zzso were zzso 
+
+The results show that the proposed auditing methodology can help to effectively and efficiently identify concepts lacking the assignment of a particular semantic zzso 
+

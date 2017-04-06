@@ -1,0 +1,9 @@
+
+Typically detected via zzso zzso zzso zzso zzso is a known risk factor for sudden cardiac zzso Since medications can promote or exacerbate the condition, detection of zzso zzso zzso is important for clinical decision zzso We investigated the accuracy of natural language processing zzso for identifying zzso zzso from zzso zzso zzso impressions compared to corrected zzso zzso thresholds reported by zzso zzso 
+
+After zzso zzso detection to a locally developed natural language processor, the zzso concept zzso we evaluated zzso detection of zzso zzso compared to the calculated zzso on a set of zzso zzso obtained from hospitalized zzso We also created a string query using regular expressions to identify zzso zzso We calculated sensitivity and specificity of the methods using manual physician review of the zzso reports as the gold zzso To investigate causes of zzso zzso calculated zzso we manually reviewed randomly selected zzso with a long calculated zzso but no mention of zzso zzso Separately, we validated the performance of the zzso detection zzso on zzso manually zzso zzso phrases for any medical concept (not limited to zzso zzso prior to developing the zzso query for zzso zzso 
+
+The zzso query for zzso zzso correctly identified zzso of zzso zzso with zzso zzso with a sensitivity of zzso and a positive zzso value of zzso There were no false zzso The regular expression query had a sensitivity of zzso and positive zzso value of zzso In contrast, the positive zzso value of common zzso thresholds derived from zzso machines was zzso with corresponding sensitivities of zzso The zzso detection zzso had a recall of zzso and precision of zzso for zzso concepts found within zzso zzso 
+
+zzso and regular expression queries of zzso zzso interpretations can more effectively identify zzso zzso than the automated zzso intervals reported by zzso zzso Future clinical decision support could employ zzso queries to detect zzso zzso and other reported zzso zzso 
+

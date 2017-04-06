@@ -1,0 +1,3 @@
+
+Generation of the list of zzso pairs of atoms not bonded to each other is a key feature of many programs for calculating the energy and energy derivatives for large zzso Because this step can take a significant amount of CPU time, more efficient zzso list generation can speed up the energy zzso In this article, a novel zzso list generation algorithm, zzso is zzso It combines certain features of other zzso and achieves more rapid zzso list zzso a factor of approximately zzso for a zzso of zzso atoms with a zzso in the 10 A range is obtained on Hewlett-Packard zzso and Alpha processors, without greatly increasing memory zzso 
+

@@ -1,0 +1,9 @@
+
+We describe a technique for functional MR imaging (fMRI) with high spatial and temporal resolution using a long intravascular half-life gadolinium-based contrast agent, MS-325.
+
+All fMRI measurements used a rat model of sensory cortex activation with forepaw electrical stimulation under alpha-chloralose anesthesia. Standard blood oxygen level-dependent (BOLD) fMRI measurement was initially performed. MS-325 was then intravenously administered and a MS-325 fMRI measurement was performed by using a 3D gradient-echo sequence.
+
+We found that a dose of 0.1 mmol/kg MS-325 produced adequate signal intensity changes in rat sensory cortex to demonstrate activations. Using a boxcar stimulation pattern with a standard correlation analysis, the locations of the most significantly activated voxels (ie, highest Z score) in the MS-325 and BOLD fMRI measurements were not significantly different.
+
+MS-325 fMRI has the advantage of using a T1-weighted sequence, rather than the highly T2*-weighted sequences used in other common fMRI techniques. This could reduce the susceptibility artifacts associated with fMRI.
+

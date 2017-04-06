@@ -1,0 +1,9 @@
+
+To design a multislice double inversion-recovery fast spin-echo (FSE) sequence, with k-space reordered by inversion time at slice position (KRISP) technique, to produce black-blood vessel wall magnetic resonance imaging (MRI).
+
+In this sequence, central k-space sampling for each slice is required at inversion time (TI) of the blood signal. To fill the entire k-space, the peripheral lines are obtained less or greater the TI and using a rotating slice order. Blood flow signal suppression was first evaluated using a phantom. Simulation studies were used to investigate FSE image quality. The final sequence was then applied to the rabbit abdominal aorta MRI at 4.7 T.
+
+In the flow phantom study, artifacts from slow-flowing water were substantially reduced by the KRISP technique; residual water spins were dephased by the strong phase-encoding gradient required for peripheral k-space. These dephased spins flowed into the slice plane where the center of k-space was being acquired at the TI of the flowing water signal. Multislice black-blood MR images were successfully obtained in the rabbit abdomen using the sequence with the k-trajectory optimized by the simulation study.
+
+The KRISP technique was effective both in multislice double inversion-recovery FSE and in blood signal suppression.
+

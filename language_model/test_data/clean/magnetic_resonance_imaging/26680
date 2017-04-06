@@ -1,0 +1,9 @@
+
+A substantial number of clinical fMRI examinations inadequately assess language localization or lateralization, usually due to patient movement and suboptimal participation. We hypothesized that a prescan interview of the patient by the radiologist would reduce the fraction of nondiagnostic scans.
+
+A single noise score for each acquisition was produced from time-series data on the basis of a weighted sum of 22 factors. Scores were recorded as the following quartiles: 0-5 = excellent, 5-10 = adequate, 10-15= marginal, and >15 = unacceptable. This measure was evaluated for 202 consecutive fMRI patients: 96 without and 106 with a physician prescan interview. The data were analyzed to compute the fraction of all nondiagnostic sequences and entire studies and were compared between the 2 groups. Image-noise characteristics included the SDs of linear and angular displacements of the head and the number of time-series outliers caused by focal motion.
+
+Of 999 sequences acquired, 539 had a prescan interview. The mean noise score significantly decreased for both individual sequence (from 7.9 to 6.3, P = <.001) and study-based (from 7.7 to 6.2, P = .05) methods. The fraction of sequences or studies scored as unacceptable decreased for sequence-based (from 15.2% to 10.9%, P = .04) and study-based (from 9.4% to 1.9%, P = .02) analyses. SDs of head motion decreased for linear (by 12%-14%, P < .01) and angular displacement (by 38%-48%, P < .001). The number of time-series spikes decreased by 10% (P = .004).
+
+We report that a prescan physician-patient interview modestly but significantly reduces fMRI noise scores. These results support the newly added billable costs of professional intervention before fMRI scans.
+

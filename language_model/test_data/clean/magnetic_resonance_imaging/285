@@ -1,0 +1,17 @@
+
+Identification of individuals at high risk of developing psychosis has relied on prodromal symptomatology. Recently, machine learning algorithms have been successfully used for magnetic resonance imaging-based diagnostic classification of neuropsychiatric patient populations.
+
+To determine whether multivariate neuroanatomical pattern classification facilitates identification of individuals in different at-risk mental states (ARMS) of psychosis and enables the prediction of disease transition at the individual level.
+
+Multivariate neuroanatomical pattern classification was performed on the structural magnetic resonance imaging data of individuals in early or late ARMS vs healthy controls (HCs). The predictive power of the method was then evaluated by categorizing the baseline imaging data of individuals with transition to psychosis vs those without transition vs HCs after 4 years of clinical follow-up. Classification generalizability was estimated by cross-validation and by categorizing an independent cohort of 45 new HCs.
+
+Departments of Psychiatry and Psychotherapy, Ludwig-Maximilians-University, Munich, Germany.
+
+The first classification analysis included 20 early and 25 late at-risk individuals and 25 matched HCs. The second analysis consisted of 15 individuals with transition, 18 without transition, and 17 matched HCs.
+
+Specificity, sensitivity, and accuracy of classification.
+
+The 3-group, cross-validated classification accuracies of the first analysis were 86% (HCs vs the rest), 91% (early at-risk individuals vs the rest), and 86% (late at-risk individuals vs the rest). The accuracies in the second analysis were 90% (HCs vs the rest), 88% (individuals with transition vs the rest), and 86% (individuals without transition vs the rest). Independent HCs were correctly classified in 96% (first analysis) and 93% (second analysis) of cases.
+
+Different ARMSs and their clinical outcomes may be reliably identified on an individual basis by assessing patterns of whole-brain neuroanatomical abnormalities. These patterns may serve as valuable biomarkers for the clinician to guide early detection in the prodromal phase of psychosis.
+

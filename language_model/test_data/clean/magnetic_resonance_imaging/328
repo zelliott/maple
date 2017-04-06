@@ -1,0 +1,9 @@
+
+Cardiac magnetic resonance imaging (MRI) is a noninvasive technique used to accurately and reproducibly measure biological parameters such as left ventricular mass. However, some subjects either refuse or are unable to complete testing, and the impact of excluding these missing data from predictive models is unknown.
+
+Multiple imputation was applied to cardiac MRI data that were previously analyzed using a complete case approach. The model variables - 10 traditional cardiovascular risk factors and five sociodemographic variables - were used as a basis for imputation. Men and women were imputed separately. The primary focus was assessing the change in the cardiovascular predictors of left ventricular geometry and systolic function.
+
+Although 27% of participants were missing cardiac MRI data, multiple imputation returned results similar to those of a complete case analysis. These results were robust to the point of including additional variables in the imputation analysis above and beyond the model variables. The degree of variance explained by the models increased marginally but the statistical inference was altered for only two predictors out of 53 cardiovascular risk factors using multiple imputation.
+
+The results suggest that the cardiac MRI data in the Multi-Ethnic Study of Atherosclerosis (MESA) do not substantively change when missing data are handled using multiple imputation. Future analyses of cardiac MRI data may consider the complete case approach to be adequate despite the high rate of missing data in this population.
+

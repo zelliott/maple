@@ -1,0 +1,3 @@
+
+This paper describes a multiple alignment method using a workstation and supercomputer. The method is based on the alignment of a set of aligned sequences with the new sequence, and uses a recursive procedure of such alignment. The alignment is executed in a reasonable computation time on diverse levels from a workstation to a supercomputer, from the viewpoint of alignment results and computational speed by parallel processing. The application of the algorithm is illustrated by several examples of multiple alignment of 12 amino acid and DNA sequences of HIV (human immunodeficiency virus) env genes. Colour graphic programs on a workstation and parallel processing on a supercomputer are discussed.
+

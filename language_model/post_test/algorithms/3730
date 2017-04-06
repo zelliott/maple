@@ -1,0 +1,3 @@
+
+In this paper, we derive a technique for analysis of local zzso which affect data in real-world zzso In the paper, we focus on image data, specifically handwritten zzso Given a reference image and a distorted copy of it, the method is able to efficiently determine the zzso zzso zzso and any other zzso that have been zzso Because the method is zzso it is also able to estimate zzso for two unrelated images, thus determining the zzso that would be required to cause the two images to resemble each zzso The approach is based on a zzso series expansion using zzso powers of linear transformation zzso The technique has applications in pattern recognition in the presence of zzso 
+

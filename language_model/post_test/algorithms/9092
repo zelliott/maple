@@ -1,0 +1,3 @@
+
+zzso captured from optical devices are usually zzso by zzso media such as zzso smoke, fog, rain and zzso zzso is the most common problem in outdoor scenes because of the atmosphere zzso This paper proposes a novel single zzso zzso framework to remove zzso artifacts from images, where we propose two novel image zzso called the zzso dark channel prior and the zzso bright channel zzso Based on the two zzso with the zzso optical model, we propose to estimate atmospheric light via zzso density zzso We can then estimate transmission map, followed by refining it via the bilateral zzso As a result, high-quality zzso images can be recovered with lower zzso complexity compared with the state-of-the-art approach based on zzso dark channel zzso 
+

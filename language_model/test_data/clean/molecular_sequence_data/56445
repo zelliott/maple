@@ -1,0 +1,3 @@
+
+The purpose of this paper is to introduce a new method for analyzing the amino acid sequences of proteins using the hidden Markov model (HMM), which is a type of stochastic model. Secondary structures such as helix, sheet and turn are learned by HMMs, and these HMMs are applied to new sequences whose structures are unknown. The output probabilities from the HMMs are used to predict the secondary structures of the sequences. The authors tested this prediction system on approximately 100 sequences from a public database (Brookhaven PDB). Although the implementation is 'without grammar' (no rule for the appearance patterns of secondary structure) the result was reasonable.
+

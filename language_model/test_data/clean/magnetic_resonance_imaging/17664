@@ -1,0 +1,9 @@
+
+Investigating the discriminative brain map for patients with attention-deficit/hyperactivity disorder (ADHD) based on feature selection and classifier; and identifying patients with ADHD based on the discriminative model.
+
+A dataset of resting state fMRI contains 23 patients with ADHD and 23 healthy subjects were analyzed. Regional homogeneity (ReHo) was extracted from resting state fMRI signals and used as model inputs. Raw ReHo features were ranked and selected in a loop according to their p values. Selected features were trained and tested by support vector machines (SVM) in a cross validation procedure. Cross validation was repeated in feature selection loop to produce optimized model.
+
+Optimized discriminative map indicated that the ADHD brains exhibit more increased activities than normal controls in bilateral occipital lobes and left front lobe. The altered brain regions included portions of basal ganglia, insula, precuneus, anterior cingulate cortex (ACC), posterior cingulate cortex (PCC), thalamus, and cerebellum. Correlation coefficients indicated significant positive correlation of inattentive scores with bilateral cuneus and precuneus, and significant negative correlation of hyperactive/impulsive scores with bilateral insula and claustrum. Additionally, the optimized model produced total accuracy of 80% and sensitivity of 87%.
+
+ADHD brain regions were more activated than normal controls during resting state. Linear support vector classifier can provide useful discriminative information of altered ReHo patterns for ADHD; and feature selection can improve the performances of classification.
+

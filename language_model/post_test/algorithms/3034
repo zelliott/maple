@@ -1,0 +1,7 @@
+
+In current databases, there are many genes with inconsistent mapping positions between their zzso zzso and sequence map zzso However, not all inconsistencies are the zzso Some of them may be problematic which should be corrected in the zzso while others may result from the imprecise nature of zzso zzso which may be zzso It is important to zzso the zzso position information into different confidence groups with the recognition of the zzso of zzso zzso 
+
+When plotting their zzso zzso against sequence map positions on a zzso plane, the consistent genes tend to have a compact linear zzso while genes with inconsistent positions are more zzso The overlapping areas between these two groups are defined as the tolerable zzso zones by linear zzso and distance zzso The system was implemented using sequence information from zzso zzso zzso Build zzso and zzso zzso from zzso zzso zzso The zzso position information is classified into five confidence groups: zzso zzso zzso zzso and zzso Using information from zzso zzso zzso Build zzso and zzso zzso zzso the percentages of these confidence groups are zzso zzso zzso zzso and zzso zzso Using information from zzso zzso zzso Build zzso and zzso online zzso inheritance in man zzso the percentages are zzso zzso zzso zzso and zzso zzso Combining these two results, a confidence table of zzso position information was zzso 
+
+The detailed results are accessible over the Internet at zzso 
+

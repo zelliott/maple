@@ -1,0 +1,9 @@
+
+To assess the performance of a nonlinear microfinite element model on predicting trabecular bone yield and post-yield behavior based on high-resolution in vivo magnetic resonance images via the serial reproducibility.
+
+The nonlinear model captures material nonlinearity by iteratively adjusting tissue-level modulus based on tissue-level effective strain. It enables simulations of trabecular bone yield and post-yield behavior from micro magnetic resonance images at in vivo resolution by solving a series of nonlinear systems via an iterative algorithm on a desktop computer. Measures of mechanical competence (yield strain/strength, ultimate strain/strength, modulus of resilience, and toughness) were estimated at the distal radius of premenopausal and postmenopausal women (N = 20, age range 50-75) in whom osteoporotic fractures typically occur. Each subject underwent three scans (20.2 ± 14.5 days). Serial reproducibility was evaluated via coefficient of variation (CV) and intraclass correlation coefficient (ICC).
+
+Nonlinear simulations were completed in an average of 14 minutes per three-dimensional image data set involving analysis of 61 strain levels. The predicted yield strain/strength, ultimate strain/strength, modulus of resilience, and toughness had a mean value of 0.78%, 3.09 MPa, 1.35%, 3.48 MPa, 14.30 kPa, and 32.66 kPa, respectively, covering a substantial range by a factor of up to 4. Intraclass correlation coefficient ranged from 0.986 to 0.994 (average 0.991); CV ranged from 1.01% to 5.62% (average 3.6%), with yield strain and toughness having the lowest and highest CV values, respectively.
+
+The data suggest that the yield and post-yield parameters have adequate reproducibility to evaluate treatment effects in interventional studies within short follow-up periods.
+

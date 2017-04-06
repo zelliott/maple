@@ -1,0 +1,291 @@
+# fe_03_02011.sph
+# Transcribed by BBN/WordWave
+
+1.44 3.14 A: hello i'm kevin bach 
+
+3.19 4.64 B: hi i'm roy 
+
+4.81 5.60 A: (( hi roy )) 
+
+6.01 7.02 B: (( how's it going )) 
+
+6.96 10.15 A: all right [laughter] have you done this before with these 
+
+10.25 12.50 B: ah yeah i've done it once before 
+
+12.33 18.22 A: okay this is the first time i guess we're just supposed to discuss in general the the topic at hand eh 
+
+18.38 20.77 B: right and the topic was ah 
+
+21.49 22.79 B: illegal 
+
+22.86 25.57 B: business practices in the u._s. 
+
+26.73 32.83 B: i'm thinking that that they want to know about you know like the enron and corporate scandals and stuff like that 
+
+31.97 35.37 A: yeah yeah definitely ah 
+
+37.55 39.77 A: i was also thinking too is like even 
+
+40.13 41.66 A: (( you know just how )) 
+
+41.93 44.77 A: you know responsible um 
+
+45.72 53.04 A: ah people who run these companies ah need to be and not only just to the shareholders but really to you know employees as well 
+
+52.98 55.92 B: yeah it's ah basically it's ethics 
+
+56.43 57.85 A: i agree 
+
+58.58 69.44 B: well yeah i mean really like those guys who are doing all the bad stuff are ruining it for all the people that are staying good now that they're going to have more rules and regulations they have to com- 
+
+69.57 71.65 B: comply with 
+
+72.33 78.90 B: and it's really hurting the market for like all the college graduates right now i'm a college senior and i'm graduating in may 
+
+79.46 81.29 B: hoping that i get a job 
+
+81.74 87.05 B: soon so i have friends who are sitting around and sitting around because they don't have any jobs 
+
+86.98 89.62 A: well i've been unemployed for two two years 
+
+90.69 92.00 B: oh really 
+
+91.40 92.59 A: yeah 
+
+92.25 93.96 B: oh what ah what ah 
+
+94.18 95.36 B: area are you 
+
+95.21 98.69 A: well i was a i was a unix system administrator 
+
+95.70 96.39 B: (( in )) 
+
+98.77 105.35 B: really i'm gonna graduate with a m._i._f. degree in about a month less than a month 
+
+99.44 100.63 A: yeah 
+
+105.19 109.48 A: right but you you probably know programing and stuff right 
+
+109.00 110.75 B: right 
+
+109.57 112.93 A: yeah there's still room for that the 
+
+113.05 119.70 A: administration job on unix is kind of it's gotten so much more automated you know what i mean that only the top 
+
+121.33 123.66 A: yeah only the best the real gurus 
+
+124.16 133.83 A: you know kept their jobs during the dotcom bust and then there was also the y2k thing i mean basically if you could spell the word unix you could get a job 
+
+127.27 128.36 B: yeah 
+
+133.90 135.90 A: you know in nineteen ninety nine 
+
+136.30 138.14 B: yeah 
+
+137.73 140.66 A: and companies had outrageous budgets 
+
+140.88 143.03 A: [laughter] but ah 
+
+142.07 146.30 B: yeah lots of companies were willing to spend a lot of money 
+
+145.22 148.26 A: yeah um so anyway with um 
+
+148.43 151.70 A: this thing here i mean like even most recently where ah 
+
+151.85 154.44 A: getting back to where i kind of think that 
+
+154.47 160.28 A: a very recent example of just where these guys are like out of touch is like what happened with american airlines 
+
+160.82 161.71 A: (( ah )) 
+
+162.16 165.08 A: this they negotiated with the unions 
+
+165.19 167.75 A: the three different unions to all to take pay cuts 
+
+167.78 175.80 A: so they don't have to go into bankruptcy when they achieve that they turn around and give million dollar bonuses to all the executives 
+
+176.22 178.27 B: yeah see that's the problem 
+
+178.31 181.26 B: that money should trickle back down to the employees 
+
+181.88 183.32 A: right 
+
+182.55 185.68 B: it's all like how other airlines do it 
+
+185.97 196.57 B: but american airlines is so big they have to like i don't know why like i know airlines there the employees take a active role in the company 
+
+197.75 208.19 B: basically i think every single one of them has stock in the company so if they're not happy with their jobs then they're not happy with their stock so that promotes 
+
+208.33 211.65 A: right well i think also a part of it too is 
+
+211.77 213.31 A: you know we're 
+
+213.82 215.42 A: so many people who 
+
+216.14 224.10 A: um you know that the what i think might be a good sh- short of having the government really starting to get involved here if 
+
+224.24 227.55 A: ah managers of mutual funds 
+
+227.92 239.48 A: would start taking responsibility for the shares that they control you know 'cause they don't have to just proxy it over to these people and let them run the company any way they want 
+
+241.39 242.98 B: the that's true 
+
+242.90 251.76 A: you know and and they should start doing things like that too because i think part of the reason a lot of this stuff happens is just that ah the board of directors 
+
+252.17 262.67 A: of most of these corporations are really not independent boards you know they're just you know they're easy buddies or political payback people you know like like retired senators and stuff 
+
+262.47 263.93 B: yeah somehow 
+
+264.80 267.89 B: they're related they have a connection to each other 
+
+267.90 271.93 A: right and so they just give these executives any time they want you know and the 
+
+272.47 280.94 A: you know like ah i just saw on c._n._n. about this thing ah with with ah ah american airlines and they were just talking about the executives in general you know 
+
+282.01 283.55 A: the past two years 
+
+283.87 293.40 A: the average person's wage in this country has gone up like three per cent but among executives in corporations it's gone up fourteen per cent 
+
+292.73 296.77 B: yeah that's all about the rich getting richer basically 
+
+297.01 302.19 B: (( the i was recently watching the news and have you ever heard of health south )) 
+
+302.52 303.82 A: of what 
+
+303.40 306.42 B: health south it's a ah rehab 
+
+306.63 308.89 B: and hospital company 
+
+308.78 309.68 A: (( ah )) 
+
+309.47 313.84 B: they do ah three qu- i believe three quarters of the rehab in the u._s. 
+
+314.24 322.32 B: like their owner created a separate account and funneled twelve million dollars out into his own private account 
+
+322.26 323.43 A: (( so he stole )) 
+
+323.36 330.37 B: yeah basically he stole that money and then he spent company money on private jets and things like that 
+
+329.16 339.37 A: yeah well you know one thing i do what i wish that the government would change is i wish is when they'd catch these guys who do these white collar crimes they stick them in jail 
+
+339.65 340.52 A: with 
+
+341.10 342.55 A: (( where you know )) 
+
+342.91 345.67 B: they should have harsher punishment 
+
+344.75 347.11 A: well they should also go to real jails too 
+
+347.61 348.54 A: (( you know )) 
+
+350.16 351.93 A: [laughter] they should go to real jails 
+
+351.85 354.41 B: yeah what kind of jails do these guys go to 
+
+354.71 356.43 A: well a lot of these in the federa- 
+
+356.48 360.34 A: the white collar guys on these federal things they go into those real light duty ah 
+
+360.40 361.67 A: type prisons 
+
+361.67 362.96 B: oh okay 
+
+363.96 369.60 B: yeah i mean they they should go to like a real jail i always thought they did go to a real jail 
+
+373.59 374.60 A: and then 
+
+374.69 377.81 A: you know and you're right and they ought to start putting some real serious 
+
+378.03 379.08 A: um 
+
+379.40 381.49 A: kinds of penalties on these guys too 
+
+383.40 385.10 A: they really don't do that 
+
+385.35 393.53 B: yeah because one bad person can ruin a whole company that's what's really sad and everyone else could be a good employee too 
+
+394.70 403.84 B: the way the economy is right now i mean if you depending on which field you're in if you lose your job it'll take a while to get back on your feet 
+
+403.77 405.64 A: oh right right 
+
+405.30 406.12 B: (( i )) 
+
+405.83 408.40 A: you know just the the um 
+
+409.20 410.07 A: (( ah )) 
+
+411.80 417.41 A: i i think that's part of what i was trying to say there too was and i agree with what you're saying is that 
+
+417.52 419.07 A: you know you get a guy who 
+
+419.64 421.32 A: (( [noise] you know ah )) 
+
+421.85 429.18 A: you know robbed a store or something like that and he's getting so many years and it's a larceny kind of thing but when you know you get a guy who 
+
+429.38 432.29 A: you know these people who's like screwed up like in enron 
+
+432.45 436.22 A: the impact the social impact is far greater 
+
+437.21 439.29 A: you know than any one thief 
+
+439.33 449.72 B: yeah because it impacts not only the employees but the community too because enron or that was such a big company 
+
+450.65 451.78 B: like they 
+
+451.81 459.11 B: like i figured out which company was it there's this one oil company somewhere in the midwest 
+
+458.01 458.93 A: uh-huh 
+
+459.20 470.89 B: and they somehow were corrupted and they had to go out of business and this town basically this company fed the town and after that the town went bankrupt 
+
+471.89 475.96 B: it was actually pretty sad this happened when i think in the early nineties 
+
+476.82 478.59 A: oh right 'cause i mean 
+
+478.70 480.81 A: they're paying taxes and 
+
+480.73 495.26 B: and all their workers and employees work live in this in the surrounding areas so this company's just putting so much money into businesses and the community and everything once that ah oil company was gone there's nothing there 
+
+481.53 483.15 A: on their property 
+
+495.67 501.64 B: for all the people i mean they still had little restaurants and shops and everything but nothing really big 
+
+503.87 505.05 A: (( hm )) 
+
+504.05 509.76 B: but yeah it's really crazy what's going on and like all of a sudden all these scandals are occurring 
+
+511.26 521.68 B: and many of the companies from what i saw on ah m._s._n._b._c. or c._n._n. or something many of these companies are trying to cover up their actions now 
+
+521.71 524.61 B: and turning over a new leaf so noone can find out 
+
+529.56 532.26 B: it's really alarming how many companies are 
+
+532.92 537.21 B: just stealing money from the company 
+
+539.16 546.58 A: yeah i know and it's i think stealing is the right word too they they always use fancy words though when it comes to all these corporate crimes you know 
+
+546.34 550.22 B: or ah borrowing without repaying 
+
+549.44 551.74 A: [laughter] 
+
+551.85 558.40 B: i think ah i somebody said something like that on ah m._s._n._b._c. or c._n._n. one of the two 
+
+558.49 566.81 B: one of the execs were borrowing they loaned the company loaned they money to them but they didn't have to pay it back 
+
+566.17 575.67 A: right they do that kind of thing all the time those companies a lot of those executives that's what they do they get that you know they get interest free loans that they never even have to repay 
+
+569.74 570.58 B: yeah 
+
+575.84 584.99 B: yeah it's all about how you word it you could borrow the money but you know they're not actually borrowing it they know they're not going to pay it back i mean 
+
+587.44 590.35 B: yeah it's it's just crazy what's going on 
+
+590.79 594.08 B: oh well i'm just wondering where are you located at 
+
+593.44 597.24 A: ah ah ferndale michigan it's north of detroit 
+
+595.94 596.98 B: oh okay 
+
+598.14 599.89 B: i'm from dallas texas 
+

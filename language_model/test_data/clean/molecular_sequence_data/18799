@@ -1,0 +1,9 @@
+
+To clone and express functional, recombinant full-length human antibodies in partial N-glycoengineered Pichia pastoris yeast.
+
+We constructed double promoter series expressing the constant regions of the light and heavy chain genes using the secretory expression vector pPICZαA; the obtained vector was named pPICZαA-CH;-CL;. Human peripheral blood mononuclear cells (PBMCs) were isolated and RT-PCR was performed using 44 pairs of degenerate primers to generate variable region genes of the heavy and light chains (VH; and VL;). Then, they were inserted into the pPICZαA-CH;-CL; vector. The full-length human antibody library pPICZαA-VH;-CH;-VL;-CL; was transformed into partial N-glycoengineered Pichia pastoris, GS115Y, by electroporation. Sequencing analysis of 20 clones was carried out and the Results were submitted to the IgBLAST-imgt website to determine accuracy and diversity of the antibody library.
+
+The pPICZαA-CH;-CL; vector was sequenced and the expressions of CH; and CL; were determined by immunoblotting. The full-length human antibody library pPICZαA-VH;-CH;-VL;-CL; was constructed with a library capability of 10(5);. The IgBLAST-imgt analysis showed that the antibodies were functional as predicted.
+
+We successfully constructed a full-length human secretory antibody library in N-glycoengineered Pichia pastoris, which allows the screening of functional antibodies.
+

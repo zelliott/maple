@@ -1,0 +1,7 @@
+
+The imprint of natural selection on gene sequences is often difficult to zzso A plethora of methods have been devised to detect genetic changes due to selective zzso However, many of those methods depend heavily on underlying assumptions regarding the mode of change of DNA sequences and often require sophisticated mathematical treatments that made them zzso zzso The development of fast and effective methods to detect modifications in the selective constraints of genes is therefore of great zzso 
+
+We describe zzso a program designed to quickly test for changes in the functional constraints of duplicate zzso Starting with alignments of the proteins zzso by couples of duplicate genes in two different species, zzso detects the regions in which modifications of the functional constraints in the zzso occurred since both species zzso zzso can be analyzed with zzso in just a few minutes on a standard PC zzso To demonstrate the power of the program, we first show how the results obtained with zzso compare to those based on other approaches, using data for zzso zzso zzso We then describe a comprehensive study of the zzso family of zzso zzso in which we have performed 529 analyses involving 14 duplicate genes in seven model zzso A significant increase in the number of functional shifts was observed for the species zzso zzso and for the gene zzso 
+
+These results show that zzso can be used to generate sensitive analyses to detect changes in the selection constraints acting on zzso The high speed of the program allows its application to zzso zzso 
+

@@ -1,0 +1,9 @@
+
+To examine the feasibility of using product acquisition software on a 3-T human MRI system to acquire high-resolution structural brain images in the rat.
+
+Three sets of dual spin-echo, high-resolution (0.234 x 0.234 mm in-plane, 0.5 mm thick) images covering the entire rat brain were collected and averaged in 66 min. The images had sufficient signal-to-noise ratio (SNR) and resolution for visual identification and manual outlining of exemplary structures, including the lateral ventricles and dorsal and ventral portions of the hippocampus. Further, the data were adequate for unsupervised, automated segmentation, permitting quantification of the dorsolateral ventricles. The images compared favorably with those collected on a 7-T system.
+
+Interrater reliabilities (intraclass correlations) of manual ventricular scoring were greater than 0.97, and manual vs. automated correlations were 0.97. The variability of lateral ventricular size across animals was substantially higher than that of the hippocampus.
+
+The large variability of some brain structures that can exist across even a highly selected strain of rats can readily be detected with the use of human 3-T systems for the study of small animals.
+

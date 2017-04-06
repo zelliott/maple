@@ -1,0 +1,7 @@
+
+Oligomerization is often necessary for protein activity or regulation and its efficiency is fundamental for the cell. The quaternary structure of a large number of oligomers consists of protomers tightly anchored to each other by exchanged arms or swapped domains. However, nothing is known about how the arms can be kept in a favourable conformation before such an oligomerization.
+
+Upon examination of such quaternary structures, we observe an extremely frequent occurrence of proline residues at the point where the arm leaves the protomer. Sequence alignment and site-directed mutagenesis confirm the importance of these prolines. The conservation of these residues at the hinge regions can be explained by the constraints that they impose on polypeptide conformation and dynamics: by rigidifying the mainchain, prolines favour extended conformations of arms thus favouring oligomerization, and may prevent interaction of the arms with the core of the protomer.
+
+Hinge prolines can be considered as 'quaternary structure helpers'. The presence of a proline should be considered when searching for a determinant of oligomerization with arm exchange and could be used to engineer synthetic oligomers or to displace a monomers to oligomers equilibrium by mutation of this proline residue.
+

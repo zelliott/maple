@@ -1,0 +1,7 @@
+
+This paper proposes a method of implementing parallel gene prediction zzso in zzso The proposed designs are based on either zzso zzso or on zzso and have been implemented using varying amounts of zzso on a central processing unit zzso and on a graphics processing unit zzso 
+
+zzso show that an zzso using a straightforward approach can require over zzso h to process 15 million base pairs zzso whereas a properly designed one could perform the same task in less than five zzso In the best case, a zzso zzso can yield these results in 57 zzso 
+
+The present work shows how zzso can be used in zzso for gene prediction in very large DNA sequences to produce results that are over zzso times faster than a conventional zzso This is significant as zzso is typically overlooked due to its apparent slow processing time even though it offers a convenient environment for zzso From a practical standpoint, this work proposes two strategies for accelerating zzso data processing which rely on different zzso zzso Using a zzso the work shows that direct access to the zzso function increases execution speed and that the zzso construct should be used in order to take full advantage of the zzso zzso zzso When the target is a zzso the work shows that data needs to be segmented into manageable sizes within the zzso construct before processing in order to minimize execution zzso 
+

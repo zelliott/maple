@@ -1,0 +1,9 @@
+
+With continuous zzso sensors zzso it is possible to obtain a zzso signal of the patient's subcutaneous zzso concentration in real zzso How could that information be zzso We suggest a zzso diagnosis system with a twofold zzso real-time state zzso and long-term model zzso zzso 
+
+To obtain a zzso model, zzso zzso minimal model zzso plasma zzso G, insulin I, and zzso insulin zzso is extended by two states describing first and second insulin zzso Furthermore, compartments for oral zzso and subcutaneous insulin zzso as well as for subcutaneous zzso measurement are zzso The zzso of states and external zzso as well as the zzso of model parameters are assessed using the empirical zzso zzso zzso are estimated for different zzso and diabetic scenarios by zzso Kalman zzso 
+
+zzso zzso of different state zzso is zzso zzso from zzso zzso zzso or zzso zzso can be observed and the set zzso I, zzso zzso zzso Model parameters are included, zzso it is possible to estimate the zzso insulin response gain zzso zzso This can be used for model adaptation and as a diagnostic zzso that is almost zero for diabetes zzso zzso External zzso are considered, zzso oral zzso is theoretically zzso for zzso patients, but zzso scenarios show that the time delay of 1 h limits zzso 
+
+A real-time zzso of states (such as plasma insulin I) and parameters (such as zzso is possible, which allows an improved real-time state prediction and a personalized zzso 
+

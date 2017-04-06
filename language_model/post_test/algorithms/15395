@@ -1,0 +1,7 @@
+
+We describe a method for zzso data about how zzso pairs interact from zzso This method relies on zzso determined characteristics of zzso The characteristics are efficient to zzso making this approach to extraction of zzso interactions zzso The results of such interaction mining can support interaction network zzso question zzso database construction, and other zzso 
+
+We constructed a software system to search zzso for sentences likely to describe interactions between given zzso The system extracts a list of the zzso terms appearing in those sentences, then ranks those terms based on their likelihood of correctly characterizing how the zzso zzso The ranking process uses a zzso zzso zzso document zzso based technique using zzso derived knowledge about sentences, and was applied to the zzso literature zzso Software was developed as part of the zzso zzso zzso 
+
+zzso efficiently zzso characteristics of sentences about zzso interactions were analyzed to better understand how to use these characteristics to extract how zzso zzso text zzso method that was investigated, though arising from a classical tradition, has yet to be fully explored for the task of zzso zzso interactions from the zzso The conclusions we reach about the sentence characteristics investigated in this work, as well as the technique itself, could be used by other systems to provide evidence about putative zzso thus supporting efforts to maximize the ability of hybrid systems to support such tasks as zzso and constructing interaction zzso 
+

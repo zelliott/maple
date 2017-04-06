@@ -1,0 +1,7 @@
+
+DNA sequence comparison is based on optimal local alignment of two sequences using a similarity zzso However, some new DNA sequencing technologies do not directly measure the base zzso but rather an zzso form, such as the zzso zzso considered zzso In order to compare such data to a reference zzso the data must be zzso into zzso The decoding is zzso but the possibility of measurement errors requires searching among all possible error modes and resulting alignments to achieve an optimal balance of fewer errors versus greater sequence zzso 
+
+We present an extension of the standard dynamic programming method for local zzso which simultaneously zzso the data and performs the zzso maximizing a similarity score based on a weighted combination of errors and zzso and allowing an zzso gap zzso We also present simulations that demonstrate the performance characteristics of our two base zzso alignment method and contrast those with standard DNA sequence alignment under the same zzso 
+
+The new local alignment zzso for zzso zzso data has substantial power to properly detect and correct measurement errors while identifying underlying sequence zzso and zzso zzso zzso efforts based on this form of sequence zzso 
+

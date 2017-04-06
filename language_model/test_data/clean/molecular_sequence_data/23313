@@ -1,0 +1,9 @@
+
+This study was conducted to determine the feasibility and relevant technique itinerary for the production of hBD-2 with Baculovirus Expression Vector System (BEVS).
+
+The full hBD-2/His cDNA was amplified from rpcDNA3.1/hBD-2/myc-His by using PCR with a pair of primers (hBD2p10 and hBD2p11) and was inserted into the MCS of transfer vector: pAcGHLT-A. AcNPV DNA and rpAcGHLT-A/hBD-2/His were co-transfected into Sf21 cells. Recombination would take place within the Sf21 cells between the homologous regions in the transfer vector and AcNPV DNA. After 5 days of co-transfer, both supernatant of the experimental cells and positive control cells were collected. Sf21 cells were infected with virus rAcNPVhBD-2/His and then determined by end-point dilution assay. The expression of hBD-2/His in both cell lysate and supernatant was analyzed by western blot with specific 6 poly-histamines antibody.
+
+Both enzyme cutting result and sequence analysis showed that recombinant hBD-2 with C terminal of bi-tags of myc and 6xHis had been inserted into the transfer vector of BEVS system correctly, and recombinant transfer vector rpAcGHLT-A/hBD-2/His had been constructed successfully. End-point dilution assay proved that recombinant virus rAcNPVhBD-2/His had been acquired. Western blot revealed that lysate of Sf21 cells transfected by rAcNPVhBD-2/His showed a band of relative moleculal mass about 47.5 x 10(3) which implied that a fuse peptide of hBD-2/His with up-stream of GST tag, 6xHistag, protein kinase A site and thrombin cleavage had expressed. The culture supernatant showed two bands of relative moleculal mass about 40 x 10(3) and 30 x 10(3), which were inferred to be the proceeded products of the fuse peptide during secretion process from cell into culture supernatant.
+
+These results suggested that it may be feasible to use BEVS system as a high efficient biologic reactor for producing recombinant hBD-2.
+

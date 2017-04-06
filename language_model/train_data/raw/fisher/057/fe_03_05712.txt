@@ -1,0 +1,427 @@
+# fe_03_05712.sph
+# Transcribed by BBN/WordWave
+
+0.14 2.06 B: [noise] hello my name's greg 
+
+2.75 4.11 A: (( [noise] hello )) 
+
+3.59 5.75 B: [sigh] hello hi this is greg 
+
+4.79 6.76 A: yeah [noise] i don't know 
+
+7.60 9.13 B: what's your name 
+
+7.66 9.54 A: (( [noise] yeah what tommy )) 
+
+9.97 13.33 B: (( what's your name [sigh] oh nice to meet you )) 
+
+10.93 11.98 A: (( tommy [sigh] y- )) 
+
+13.28 15.74 A: (( yeah where you from i'm from alabama [sigh] )) 
+
+15.68 17.37 B: [noise] no i'm n- new york 
+
+17.33 18.71 A: new york 
+
+18.13 19.05 B: yes 
+
+19.23 22.93 A: i i've got a good understanding like what was topic about [sigh] [noise] 
+
+21.68 29.32 B: [noise] [noise] u- um foreign relations [sigh] is there any country who we consider a threat to the u._s. [noise] and why [noise] 
+
+24.67 25.27 A: (( [noise] [noise] )) 
+
+28.38 30.35 A: (( just just )) 
+
+31.32 34.73 A: o- oh man w- we could get all that nine eleven there governor [sigh] 
+
+32.93 33.69 B: (( [noise] )) 
+
+35.04 36.37 B: yeah that's true 
+
+36.28 38.09 A: yeah 
+
+38.77 40.59 A: (( [sigh] yeah that was really a bummer eh )) 
+
+39.74 43.28 B: [noise] so 
+
+41.65 44.57 A: (( [noise] [noise] )) 
+
+43.59 46.21 B: so what country do you think is a threat to the u._s. 
+
+46.96 48.15 A: (( [noise] [noise] )) 
+
+47.39 48.28 B: (( [noise] )) 
+
+48.28 52.09 A: (( [sigh] a- ah the only the only country we was in war with [noise] )) 
+
+51.81 53.12 B: [sigh] oh iraq [noise] 
+
+53.04 55.17 A: (( yeah [mn] iraq iran )) 
+
+55.33 59.54 B: (( [noise] uh-hum what do what do you think about china )) 
+
+59.98 63.51 A: (( [noise] a- ah i think [noise] china will just [noise] should stay out of it )) 
+
+61.07 62.50 B: (( [sigh] [noise] )) 
+
+63.21 64.23 B: (( uh-huh )) 
+
+63.95 65.41 A: [sigh] [noise] for real [sigh] 
+
+68.40 70.78 B: [noise] any any other country you can think of 
+
+71.44 72.86 A: (( [noise] i don't know [sigh] )) 
+
+71.55 72.90 B: like a- 
+
+73.33 78.66 B: (( ah let me see a- a- ah let me think u- u- um )) 
+
+76.29 76.86 A: (( [noise] )) 
+
+78.73 79.29 B: (( [lipsmack] )) 
+
+82.12 88.18 B: i don't know i i [noise] think some of these countries who we [sigh] who we provide all this aid to 
+
+85.17 86.52 A: (( [noise] [noise] [noise] )) 
+
+88.00 89.67 A: (( [noise] [noise] yeah it's true )) 
+
+89.06 90.17 B: you know 
+
+90.25 92.35 A: (( [noise] [noise] uh-hum )) 
+
+90.48 93.88 B: [sigh] a- ah saudi arabia 
+
+94.10 96.24 B: (( 'cause you know all these a lot of these ah [sigh] )) 
+
+95.71 99.76 A: (( [noise] [noise] [noise] y- )) 
+
+96.78 99.20 B: terrorists came from some of these countries 
+
+100.21 106.02 A: (( yeah [sigh] [noise] do you have it sounds like you know )) 
+
+106.48 107.53 B: say again 
+
+107.30 109.21 A: (( my thoughts what was it )) 
+
+109.74 110.83 A: hello 
+
+110.30 111.29 B: (( [noise] [noise] )) 
+
+111.34 112.68 B: (( yeah i'm still here )) 
+
+112.15 112.91 A: (( [noise] )) 
+
+112.93 114.28 A: (( hello [noise] )) 
+
+113.65 115.41 B: yeah i'm still here 
+
+115.02 116.05 A: hello 
+
+116.21 117.85 B: i'm still here 
+
+117.75 118.81 A: (( [noise] )) 
+
+121.83 123.95 A: (( i'm getting bits and pieces that's about it [noise] )) 
+
+125.09 126.11 A: (( hello [noise] )) 
+
+126.50 128.42 B: [noise] [noise] hello i'm still here [noise] 
+
+127.31 128.91 A: (( [noise] )) 
+
+128.69 130.63 B: how's that 
+
+130.94 132.59 B: is that better [noise] 
+
+134.40 135.56 B: (( [mn] hello hello )) 
+
+138.15 139.34 B: (( can you still hear me )) 
+
+143.50 144.10 A: (( [noise] )) 
+
+144.15 145.27 B: (( hello [sigh] )) 
+
+145.30 147.49 A: (( [noise] [noise] [noise] [noise] )) 
+
+146.73 147.70 B: (( hello )) 
+
+147.51 148.64 A: (( hello [sigh] )) 
+
+148.41 149.59 B: hi are you 
+
+149.35 151.57 A: (( [noise] i'm fine who is this [sigh] )) 
+
+151.36 154.08 B: [sigh] ah this is greg calling from new york [noise] 
+
+154.48 156.65 A: (( oh you're calling from new york )) 
+
+156.10 157.24 B: yep [noise] 
+
+157.41 158.39 A: (( [noise] oh )) 
+
+160.17 161.22 A: (( [noise] [laughter] )) 
+
+162.05 162.65 A: (( [noise] )) 
+
+162.21 166.99 B: [noise] so so we we're supposed to be talking about what countries [sigh] we think are a threat to the u._s. 
+
+167.77 170.39 A: (( [noise] and why are we supposed to be talking about that [sigh] )) 
+
+170.68 172.10 B: say again 
+
+172.25 173.85 A: (( they what )) 
+
+173.33 175.82 B: you said why are we talking about that [noise] a- 
+
+175.26 176.63 A: yeah 
+
+176.20 182.22 B: a- ah well because it's a it's a research study [sigh] and they're paying us ten dollars f- for for a phone call 
+
+177.11 177.68 A: (( [sigh] )) 
+
+177.76 178.32 A: (( [noise] )) 
+
+180.53 181.09 A: (( [sigh] )) 
+
+182.02 183.88 A: (( [noise] [noise] [noise] o- oh [sigh] )) 
+
+182.33 184.67 B: they're doing a research s- study on um 
+
+183.90 185.49 A: (( so [sigh] [noise] )) 
+
+186.76 190.30 B: [noise] th- they're th- they're studying i think men's language or something [noise] 
+
+190.06 191.44 A: (( [noise] [noise] [noise] oh )) 
+
+190.34 194.84 B: [mn] so they p- paying people to talk for ten minutes [sigh] about [sigh] different topics 
+
+197.12 198.52 A: (( [noise] [noise] okay )) 
+
+199.35 201.15 B: [sigh] so a- ah talk 
+
+201.81 203.13 B: [laughter] 
+
+202.22 205.63 A: (( [sigh] i don't know what i'm supposed to be talking about [noise] )) 
+
+205.37 208.25 B: a- ah what country you think is a threat to the u._s. 
+
+208.94 211.69 A: (( [noise] h- heck i don't know i don't care [noise] [laughter] )) 
+
+211.19 212.25 B: (( o- )) 
+
+212.36 215.76 A: (( the u._s. [laughter] c- can blow up for all i care )) 
+
+213.76 218.89 B: (( oh w- well a- well for ten dollars we we can pretend we care )) 
+
+217.98 220.16 A: [sigh] [noise] [laughter] 
+
+219.59 222.26 B: [noise] make make make up a country 
+
+221.72 223.05 A: (( a- a- ah )) 
+
+223.14 224.74 A: (( [mn] hawaii [noise] )) 
+
+223.84 227.63 B: [noise] now now tell me why is hawaii a threat to the u._s. 
+
+227.87 230.17 A: [sigh] well california [sigh] 
+
+230.22 232.75 B: okay why california 
+
+231.87 233.86 A: [noise] 'cause i don't like that state 
+
+234.03 235.36 B: okay 
+
+235.19 238.57 A: (( [laughter] )) 
+
+235.63 237.55 B: (( [noise] so )) 
+
+239.74 240.30 A: (( [noise] )) 
+
+240.11 241.80 B: how's the weather in alabama [noise] 
+
+244.16 244.72 A: (( [noise] )) 
+
+245.46 246.53 B: (( [mn] hello )) 
+
+246.01 247.64 A: (( [noise] hello f- f- )) 
+
+247.62 248.83 B: (( hi how are you )) 
+
+248.93 250.41 A: (( fine [noise] [noise] [noise] )) 
+
+251.17 254.25 B: this is ah greg calling from new york where are you calling from 
+
+254.53 257.13 B: you're in alabama [noise] 
+
+255.78 258.29 A: (( y- yeah [noise] [laughter] )) 
+
+258.40 259.00 A: (( [noise] )) 
+
+259.39 263.41 B: [sigh] okay we're supposed to be talking about what country we think is a threat to the u._s. 
+
+265.73 267.14 B: [mn] got any ideas 
+
+265.80 266.69 A: (( [noise] [noise] )) 
+
+267.37 268.52 A: (( [noise] [noise] )) 
+
+267.71 268.94 B: (( h- hello )) 
+
+269.89 271.18 B: (( [noise] h- hello )) 
+
+272.03 273.27 B: (( [noise] h- hello )) 
+
+275.13 276.21 B: (( [noise] hello )) 
+
+277.21 278.52 B: (( [noise] hello )) 
+
+279.08 282.25 B: [noise] is anyone there [noise] hello 
+
+284.18 285.39 B: [noise] someone here 
+
+287.62 290.40 B: [noise] well i think we should c- consider looking at some of the 
+
+290.48 292.60 B: arab emirate countries 
+
+292.79 294.22 B: these countries 
+
+294.59 299.53 B: are sort of isolated well not really isolated but they 
+
+299.57 304.86 B: have the ability to do whatever they want and they don't [sigh] follow the regular rules or 
+
+305.03 308.67 B: [sigh] protocols they don't even get followed they can they're invisible 
+
+308.70 314.01 B: [noise] they're sort of like a western country [noise] in arab clothing and they can 
+
+314.72 320.02 B: [noise] g- get by [sigh] whatever rules they want to which are different [noise] than other [sigh] arab countries [noise] 
+
+323.27 325.10 B: then on the other hand 
+
+325.29 329.60 B: [mn] they have the ability to seal themselves from the so-called [sigh] 
+
+330.36 338.53 B: islamic laws [mn] but then they don't have to worry about retribution but they e- essentially have a capitalist country within 
+
+338.72 340.55 B: confined [sigh] to their borders 
+
+343.44 346.72 B: [noise] this gives them the ability to do [sigh] all sorts of things 
+
+348.16 354.33 B: lending money which is against um [noise] the ah [sigh] islamic laws 
+
+354.45 361.84 B: and and they can lend money to get a profit which is something apparently is against ah what mohammed 
+
+361.95 363.05 B: teaches 
+
+363.72 364.81 B: um 
+
+365.79 369.39 B: [noise] also we have the russian republic [noise] 
+
+370.92 372.30 B: now these republics 
+
+372.80 378.65 B: are [noise] um [mn] are essentially 
+
+381.01 383.03 B: [noise] war torn machines 
+
+384.83 387.09 B: [noise] that are angry at capital angry at ah 
+
+388.47 391.35 B: [noise] capitalism but um 
+
+391.52 393.22 B: [sigh] that's all they know 
+
+394.03 395.62 B: so that's all they know 
+
+396.44 400.50 B: um it's like they it's all they know but the enemy 
+
+401.43 406.77 B: and hate the united states envy and love the united states all at the same same time [noise] 
+
+407.84 412.16 B: [mn] everybody wants coca cola and hamburgers s- so 
+
+412.76 413.66 B: (( i think [noise] )) 
+
+414.36 419.91 B: they are a b- big threat the arab and not the arab emirate countries [sigh] but russian republics [mn] 
+
+419.93 421.45 B: (( because [sigh] because )) 
+
+421.96 426.60 B: there's no ah control over them there's no or certainly don't know what's going on 
+
+427.38 429.30 B: [noise] so you know you have to be [noise] 
+
+429.35 430.86 B: very careful in those 
+
+431.30 432.81 B: instances 
+
+433.15 435.72 B: [sigh] other countries [noise] that might be a threat [noise] 
+
+436.00 441.21 B: to the united states well we have the country of haiti 
+
+442.01 445.28 B: (( and we have the country of ah [noise] )) 
+
+447.29 450.76 B: of south africa which could be a threat 
+
+451.07 458.55 B: and a- ah mozambique these countries are a threat because [noise] there in the midst of sort of revolution 
+
+458.92 460.22 B: [noise] and um 
+
+460.56 463.28 B: they see the united states as sort of 
+
+463.80 465.86 B: (( supportive of these regimes that ah [mn] )) 
+
+467.72 472.46 B: helped m- maintain their strength throughout the years so 
+
+473.09 479.88 B: if the united states is attacked [noise] the attackers may have the ability to ah 
+
+480.47 483.98 B: go to these countries mozambique south africa 
+
+484.83 490.26 B: [noise] and ah get f- for safety and no one will know and because of the terrain 
+
+490.58 497.57 B: [noise] lack of development ah development no one will know [noise] also let's not forget ah ah indonesian countries [noise] 
+
+498.81 499.81 B: (( which ah )) 
+
+500.52 507.15 B: have a lot of fundamentalists and will definitely [sigh] accept and allow a lot of aberrant behavior 
+
+508.63 511.88 B: and you know we provide [noise] aid to these countries 
+
+513.66 518.64 B: (( [noise] and the largest suppliers of aid as well as liberia )) 
+
+518.75 524.98 B: because in liberia there's strong links to the united states [noise] and in many ways it's considered [noise] anti 
+
+525.24 526.94 B: (( themselves anti )) 
+
+527.45 528.64 B: so um 
+
+529.27 531.43 B: because of that 
+
+531.68 533.20 B: we don't know um 
+
+533.79 536.57 B: [noise] where they fit in respect we don't know if they're ah 
+
+536.80 538.21 B: anti again 
+
+541.81 542.98 B: for all we know 
+
+543.99 551.78 B: [noise] they provide safe haven [noise] for persons like osama bin laden [noise] so with that being the case 
+
+552.63 556.92 B: [noise] we're not really sure what we should be doing 
+
+559.80 560.90 B: (( [noise] so um )) 
+
+563.73 567.43 B: [noise] we have to look at [sigh] countries like japan also [noise] 
+
+567.83 572.23 B: and how f- far can you [noise] how well can you really trust japan [noise] 
+
+574.87 577.48 B: what well ah won't japan do do we know 
+
+577.72 579.41 B: [noise] no we really don't know 
+
+580.46 581.51 B: i mean 
+
+582.16 584.61 B: [sigh] is it possible that we could have day when japan 
+
+585.12 586.81 B: [noise] attacks the united states 
+
+586.85 594.39 B: i mean if their economy gets off the ground [sigh] then they they're definitely going to [sigh] reassess the situation and not allow 
+
+595.17 599.71 B: [noise] not take orders from the u._s. even though [sigh] we helped rebuild their country 
+

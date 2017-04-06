@@ -1,0 +1,9 @@
+
+zzso zzso of an expressive language for zzso of zzso patterns in clinical zzso zzso Development of a zzso zzso tool allowing expert physicians to define meaningful zzso patterns, zzso Implementation of an interpreter capable of detecting such patterns in clinical databases, and zzso zzso of the tools in the zzso of diabetes and zzso 
+
+We describe a zzso language, named zzso for zzso of zzso zzso We implemented a zzso tool and a zzso interpreter within zzso a larger zzso zzso We evaluated the zzso process with the help of domain zzso In collaboration with the Rush zzso Luke's Medical Center, we analyzed data of bone-marrow transplantation zzso The expert compared the detected patterns to a manual inspection of the data, with the help of an experimental zzso tool we are developing in a related zzso 
+
+The zzso language was expressive enough during the zzso process to capture almost all of the patterns that the experts found zzso The patterns detected in the data by the pattern interpreter were all verified as zzso zzso zzso all correct patterns were zzso was difficult to zzso due to the size of the zzso 
+
+The zzso language enables medical experts to express zzso patterns involving multiple levels of abstraction of clinical zzso The ability to zzso both zzso and abstract constraints seems highly zzso The zzso interpreter, zzso by the zzso zzso finds the complex patterns within a clinical zzso database in a sound zzso 
+

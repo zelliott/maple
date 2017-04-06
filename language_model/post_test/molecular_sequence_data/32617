@@ -1,0 +1,9 @@
+
+zzso multiple sequence alignments are essential in protein structure zzso functional prediction and efficient planning of zzso Although the alignment problem has attracted considerable attention, preparation of high-quality alignments for zzso related sequences remains a difficult zzso 
+
+We developed zzso a multiple alignment method that shows promising results for protein zzso with sequence identity below zzso aligning close to half of the zzso acid zzso correctly on zzso This is about three times more accurate than traditional zzso sequence alignment zzso zzso zzso derives its strength from several zzso zzso sequence database searches to retrieve additional zzso zzso accurate secondary structure zzso zzso a hidden zzso model that uses a novel combined scoring of zzso acids and secondary zzso zzso zzso zzso scoring applied to progressive alignment of zzso Compared to the best alignment methods that do not use secondary structure prediction and database searches zzso zzso zzso and zzso zzso is up to zzso more accurate, with improvement being most prominent for highly divergent zzso Compared to zzso and zzso which also employ database searches and secondary structure zzso zzso shows an accuracy improvement of several zzso 
+
+The zzso web server is available at: zzso 
+
+zzso data are available at zzso zzso 
+

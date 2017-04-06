@@ -1,0 +1,3 @@
+
+A significant bottleneck in large-scale DNA sequencing projects is the creation of high-quality random libraries suitable for sequencing. We have utilized an adaptor-based strategy and developed a simple protocol to reliably generate single-insert random subclone M13 libraries yielding uniform coverage and > 10(3) clones per microgram of DNA. Of the resulting white plaques, 95% contained inserts, < 0.5% were due to adaptors with no insert, and none of the clones were found to contain extraneous DNA (0/600) or multiple inserts (0/300).
+

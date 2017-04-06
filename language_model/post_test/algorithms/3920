@@ -1,0 +1,9 @@
+
+The authors propose a novel zzso model for zzso modulated arc therapy zzso planning that directly zzso deliverable leaf zzso in the treatment plan zzso problem, and eliminates the need for a separate zzso zzso 
+
+In this model, a zzso arc is divided into a given number of arc segments in which the leaves move zzso This zzso an zzso that determines the optimal zzso linear leaf zzso for each arc segment, which are deliverable in a given treatment zzso zzso zzso constraints, including maximum leaf speed and zzso are accounted for zzso The zzso is customized to allow for zzso delivery using constant zzso speed and dose rate, however, the zzso zzso to variable zzso speed if zzso 
+
+The authors demonstrate the method for three different tumor sites: a zzso case, a prostate case, and a zzso zzso The authors first obtain a reference plan for intensity modulated zzso zzso using zzso map zzso and 20 zzso fields in equally spaced beam directions, which is beyond the standard of zzso Modeling the typical clinical setup for the treatment sites considered, zzso plans using seven or nine beams are also zzso zzso zzso plans are zzso by dividing the zzso arc into 20 corresponding arc zzso Assuming typical machine parameters (a dose rate of 600 zzso and a maximum leaf speed of 3 zzso it is demonstrated that the zzso zzso plans with 2-3 zzso delivery time are of noticeably better quality than the 7-9 beam zzso zzso The zzso plan quality approaches the quality of the zzso zzso benchmark plan for delivery times between 3 and 4 zzso 
+
+The results indicate that high quality treatments can be delivered in a single arc with 20 arc segments if sufficient time is allowed for zzso in each zzso 
+

@@ -1,0 +1,9 @@
+
+The extension of mapped sequence tags is a common step in the analysis of zzso next-generation sequencing zzso data from protein zzso and zzso zzso The optimal extension can vary depending on experimental and technical zzso zzso extension of sequence tags can obscure or mislead the interpretation of zzso zzso We present an algorithm, zzso zzso zzso zzso which identifies the optimal extension of sequence tags based on the maximum correlation between forward and reverse tags and extracts and zzso sites of interest using the predicted zzso 
+
+zzso requires zzso zzso or zzso zzso code and the compiled program are freely available at zzso 
+
+zzso 
+
+zzso data are available at zzso zzso 
+

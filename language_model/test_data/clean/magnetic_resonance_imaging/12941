@@ -1,0 +1,9 @@
+
+The efficacy of stereotactic neurosurgery procedures is critically dependent on the accuracy of the device placement procedure. The first step in this process involves correctly identifying the target location in three-dimensional brain space. In some clinical applications, this targeting process cannot be accomplished using MRI images of gross anatomical structures alone. The amygdala complex is a case in point, in that it consists of multiple histologically defined subnuclei with different functional characteristics.
+
+In this report, we describe an elastic atlas brain-morphing method that projects amygdala subnuclear anatomical information onto the MRI volumes of individual subjects.
+
+The accuracy of this method was tested in 5 representative subjects using quantitative image-matching analytical techniques. The results demonstrate a high degree of intersubject variability in medial temporal lobe anatomy, and markedly superior anatomical matching performance by the elastic morphing method compared to Affine transformation.
+
+Nonlinear elastic morphing technique provides superior performance on fitting atlas templates to individual brain. The strengths and limitations of this and other atlas morphing methods are discussed in the context of emerging functional neurosurgery applications.
+

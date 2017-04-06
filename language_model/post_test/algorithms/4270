@@ -1,0 +1,7 @@
+
+zzso mass zzso has become a standard tool for identifying zzso modifications zzso of zzso zzso searches for zzso from tandem mass spectrum data zzso tend to be hampered by noisy data as well as by a zzso explosion of search zzso This leads to high uncertainty and long zzso zzso 
+
+To address this issue, we present zzso a new zzso that uses a large database of known zzso to identify zzso from zzso zzso For a given zzso zzso zzso builds a zzso tree wherein each path from the root to the leaves is labeled with the zzso acids of a zzso zzso zzso then represent zzso Various empirical tree pruning rules have been designed to decrease the zzso time by eliminating biologically unlikely zzso zzso first identifies a relatively small set of high confidence zzso types, and in a second stage, performs a more exhaustive search on this restricted set using relaxed search zzso zzso An analysis of experimental data shows that using the same criteria for false discovery, zzso zzso more peptides than the current state-of-the-art methods and zzso identification zzso and achieves this at roughly the same execution zzso zzso is implemented as a zzso scoring function in the zzso search zzso 
+
+The source code of zzso and a demo server application can be found at zzso 
+

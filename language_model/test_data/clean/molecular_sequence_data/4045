@@ -1,0 +1,3 @@
+
+In this communication, we have demonstrated that molecular dynamics simulations using a GB implicit solvation model with the all-atom based force field (CHARMM19) can describe the spontaneous folding of small peptides in aqueous solution. The native structures of peptides with various structural motifs (beta-hairpin, beta-sheet, and betabetaalpha-moiety) were successfully predicted within reasonable time scales by MD simulations at moderately elevated temperatures. It is expected that the present simulations provide further insight into mechanism/pathways of the peptide folding.
+

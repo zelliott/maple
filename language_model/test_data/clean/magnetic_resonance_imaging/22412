@@ -1,0 +1,9 @@
+
+The spatial arrangement of myocardial fiber structure affects the mechanical and electrical properties of the heart. Therefore, information on the structure and dynamics of the orientation of the muscle fibers in the human heart might provide significant insight into principles of the mechanics of normal ventricular contraction and electrical propagation and may subsequently aid pre- and postsurgical evaluation of patients. Fiber orientation is inherently linked to cardiac wall motion, which can be measured with phase contrast magnetic resonance imaging (MRI), also termed tissue phase mapping (TPM).
+
+This study provides initial results of the visualization of velocity data with fiber tracking algorithms and discusses implications for the fiber orientations. In order to generate datasets with sufficient volume coverage and resolution TPM measurements with three-dimensional (3D) velocity encoding were executed during breath-hold periods and free breathing. Subsequent postprocessing evaluation with a tracking algorithm for acceleration fields derived from the velocity data was performed.
+
+Myocardial acceleration tracking illustrated the dynamics of fiber structure during four different phases of left ventricular performance, that include isovolumetric contraction (IVC), mid-systole, isovolumetric relaxation (IVR), and mid-diastole. Exact reconstruction of the myocardial fiber structure from velocity data requires mathematical modeling of spatiotemporal evolution of the velocity fields.
+
+'Acceleration fibers' were reconstructed at these four phases during the cardiac cycle, and these findings may become (a) surrogate parameters in the normal ventricle, (b) baseline markers for subsequent clinical studies of abnormal hearts with altered architecture, and (c) may help to explain and illustrate functional features of cardiac performance in structural models like the helical ventricular myocardial band.
+

@@ -1,0 +1,7 @@
+
+The ability to construct biologically meaningful gene networks and zzso is critical for contemporary systems zzso Though recent studies have demonstrated the power of using gene zzso to shed light on the functioning of complex biological systems, most zzso in these networks have shown little association with meaningful biological zzso We have devised a method which directly incorporates gene zzso zzso zzso in construction of gene zzso in order to gain better functional zzso 
+
+We have devised a method, zzso zzso approach for zzso zzso that zzso various zzso zzso similarity values, including information obtained from gene zzso zzso interactions and GO zzso in the construction of zzso using affinity propagation zzso We demonstrated the performance of the proposed method using data from two complex biological zzso zzso the zzso shock response in zzso zzso and zzso the zzso zzso mouse zzso In comparison with two previously reported zzso zzso identified by zzso showed significantly stronger association with biological zzso 
+
+The incorporation of semantic similarity based on GO zzso with gene expression and zzso interaction data can greatly enhance the functional relevance of zzso gene zzso In addition, the zzso approach can also reveal the zzso structure of gene zzso to gain a broader functional view of the biological zzso zzso the proposed method can facilitate comprehensive and in-depth analysis of high zzso experimental data at the gene network zzso 
+

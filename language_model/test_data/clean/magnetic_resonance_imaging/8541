@@ -1,0 +1,9 @@
+
+To compare the contours and dose-volume histograms (DVH) of the tumor and organs at risk (OAR) with computed tomography (CT) vs. magnetic resonance imaging (MRI) in cervical cancer brachytherapy.
+
+Ten patients underwent both MRI and CT after applicator insertion. The dose received by at least 90% of the volume (D(90)), the minimal target dose (D(100)), the volume treated to the prescription dose or greater for tumor for the high-risk (HR) and intermediate-risk (IR) clinical target volume (CTV) and the dose to 0.1 cm3, 1 cm3, and 2 cm3 for the OARs were evaluated. A standardized approach to contouring on CT (CT(Std)) was developed, implemented (HR- and IR-CTV(CTStd)), and compared with the MRI contours.
+
+Tumor height, thickness, and total volume measurements, as determined by either CT or CT(Std) were not significantly different compared with the MRI volumes. In contrast, the width measurements differed in HR-CTV(CTStd) (p = 0.05) and IR-CTV(CTStd) (p = 0.01). For the HR-CTV(CTStd), this resulted in statistically significant differences in the volume treated to the prescription dose or greater (MRI, 96% vs. CT(Std), 86%, p = 0.01), D(100) (MRI, 5.4 vs. CT(Std), 3.4, p <0.01), and D(90) (MRI, 8.7 vs. CT(Std), 6.7, p <0.01). Correspondingly, the IR-CTV DVH values on MRI vs. CT(Std), differed in the D(100) (MRI, 3.0 vs. CT(Std), 2.2, p = 0.01) and D(90) (MRI, 5.6 vs. CT(Std), 4.6, p = 0.02). The MRI and CT DVH values of the dose to 0.1 cm3, 1 cm3, and 2 cm3 for the OARs were similar.
+
+Computed tomography-based or MRI-based scans at brachytherapy are adequate for OAR DVH analysis. However, CT tumor contours can significantly overestimate the tumor width, resulting in significant differences in the D(90), D(100), and volume treated to the prescription dose or greater for the HR-CTV compared with that using MRI. MRI remains the standard for CTV definition.
+

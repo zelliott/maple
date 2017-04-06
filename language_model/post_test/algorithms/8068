@@ -1,0 +1,7 @@
+
+Recent advances in zzso technologies have made it possible to investigate not only individual protein zzso but also the association of these proteins in zzso So far the focus has been on the prediction of complexes as sets of proteins from the experimental zzso The modular zzso and the physical interactions within the protein complexes have been mostly zzso 
+
+We present an approach for identifying the direct physical interactions and the zzso structure of protein complexes predicted from affinity zzso zzso Our zzso zzso the union of all maximum spanning trees from scoring networks for each protein complex to extract relevant zzso In a subsequent step this network is extended to interactions which are not accounted for by alternative indirect zzso We show that the interactions identified with this approach are more accurate in predicting zzso derived physical interactions than baseline zzso Based on these networks, the zzso structure of the complexes can be resolved more zzso and zzso can be zzso The usefulness of our method is illustrated on the zzso zzso for which the modular zzso can be successfully zzso 
+
+A zzso zzso of the prediction methods and supplementary material are available at zzso 
+

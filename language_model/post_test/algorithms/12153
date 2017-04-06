@@ -1,0 +1,3 @@
+
+This paper presents a stereo vision system for the detection and distance zzso of a preceding zzso It is divided in two major zzso Initially, a stereo zzso zzso is used to extract relevant three-dimensional zzso features in the scene, these features are investigated further in order to select the ones that belong to vertical objects only and not to the road or zzso These 3-D vertical features are then used as a starting point for preceding vehicle zzso by using a symmetry operator, a match against a simplified model of a rear zzso shape is performed using a zzso zzso approach that allows the identification of a preceding zzso In addition, using the 3-D information previously zzso an accurate distance zzso is zzso 
+

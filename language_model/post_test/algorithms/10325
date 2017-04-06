@@ -1,0 +1,11 @@
+
+zzso evolutionary conservation is a routine step in the identification of functional elements in zzso zzso Although a number of studies have proposed methods that use the continuous time zzso models zzso to find zzso constrained zzso their zzso structures have been less frequently zzso 
+
+In this article, we investigate a sufficient statistic for zzso The statistic is composed of the fractional duration of zzso characters over evolutionary time, zzso and the number of zzso occurring in zzso trees, zzso We first derive basic properties of the sufficient zzso Then, we derive an expectation zzso zzso zzso for zzso the parameters of a zzso model, which zzso zzso the expectation values of the sufficient zzso We show that the zzso zzso exhibits much faster convergence than other zzso methods that use zzso zzso descent zzso Finally, we investigate the zzso distribution of fractional duration time zzso which, unlike the number of zzso zzso has rarely been zzso We show that zzso has evolutionary information that is distinct from that in zzso which may be useful for detecting novel types of evolutionary constraints existing in the human zzso 
+
+The zzso source code of the zzso software is available at zzso 
+
+zzso 
+
+zzso data are available at zzso zzso 
+

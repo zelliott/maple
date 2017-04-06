@@ -1,0 +1,3 @@
+
+According to indicator dilution theory tissue time-concentration curves have to be deconvolved with arterial input curves in order to get valid perfusion results. Our aim was to adapt and validate a deconvolution method originating from magnetic resonance techniques and apply it to the calculation of dynamic contrast enhanced computed tomography perfusion imaging. The application of a block-circulant matrix approach for singular value decomposition renders the analysis independent of tracer arrival time to improve the results.
+

@@ -1,0 +1,7 @@
+
+zzso protein interactions is one of the most challenging problems in functional zzso Given two proteins known to zzso current zzso methods evaluate billions of zzso zzso by simple scoring functions, and in addition to zzso structures yield many false zzso zzso structures with good surface zzso but far from the zzso 
+
+We have developed a fast zzso for filtering zzso zzso with good surface zzso and ranking them based on their zzso zzso The free energy filters select complexes with lowest zzso and zzso zzso zzso is then used to smooth the local zzso and to select the ones with the broadest energy zzso property associated with the free energy at the binding zzso The zzso of the method was tested on sets of 2000 zzso zzso generated for 48 pairs of interacting zzso In 31 of these cases, the top 10 predictions include at least one zzso complex, with an average zzso of 5 A from the native zzso The zzso and discrimination method also provides good results for a number of complexes that were used as targets in the Critical Assessment of zzso of zzso zzso 
+
+The fully automated zzso and discrimination server zzso can be found at zzso 
+

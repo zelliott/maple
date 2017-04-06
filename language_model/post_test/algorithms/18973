@@ -1,0 +1,3 @@
+
+In the last year, zzso sequencing technologies have progressed from zzso to production zzso While these methods produce high-quality reads, they have yet to produce reads comparable in length to zzso zzso Current zzso assembly zzso have been implemented and zzso for zzso zzso reads, and thus do not perform well on short reads produced by short read zzso We present a new zzso assembler that generates nearly optimal short read zzso of bacterial zzso and describe an approach to assemble reads in the case of the popular hybrid protocol when short and long zzso reads are zzso 
+

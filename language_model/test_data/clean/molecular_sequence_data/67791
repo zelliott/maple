@@ -1,0 +1,9 @@
+
+To determine the complete nucleotide sequence of the multidrug resistance IncA/C plasmid pR55 from a clinical Klebsiella pneumoniae strain that was isolated from a urinary tract infection in 1969 in a French hospital and compare it with those of contemporary emerging IncA/C plasmids.
+
+The plasmid was purified and sequenced using a 454 sequencing approach. After draft assembly, additional PCRs and walking reads were performed for gap closure. Sequence comparisons and multiple alignments with other IncA/C plasmids were done using the BLAST algorithm and CLUSTAL W, respectively.
+
+Plasmid pR55 (170 810 bp) revealed a shared plasmid backbone (>99% nucleotide identity) with current members of the IncA/C(2) multidrug resistance plasmid family that are widely disseminating antibiotic resistance genes. Nevertheless, two specific multidrug resistance gene arrays probably acquired from other genetic elements were identified inserted at conserved hotspot insertion sites in the IncA/C backbone. A novel transposon named Tn6187 showed an atypical mixed transposon configuration composed of two mercury resistance operons and two transposition modules that are related to Tn21 and Tn1696, respectively, and an In0-type integron.
+
+IncA/C(2) multidrug resistance plasmids have a broad host range and have been implicated in the dissemination of antibiotic resistance among Enterobacteriaceae from humans and animals. This typical IncA/C(2) genetic scaffold appears to carry various multidrug resistance gene arrays and is now also a successful vehicle for spreading AmpC-like cephalosporinase and metallo-β-lactamase genes, such as bla(CMY) and bla(NDM), respectively.
+

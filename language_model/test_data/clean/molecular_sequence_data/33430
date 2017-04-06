@@ -1,0 +1,9 @@
+
+To construct a lentiviral vector of RNA interference (RNAi) of murine triggering receptor expressed on myeloid cells-1(TREM-1) gene and to explore the effect of TREM-1 on the inflammatory response caused by Bacteroides fragilis.
+
+Four target sequences were selected according to murine TREM-1 mRNA sequence, and then 4 pairs of double-strand DNA oligo according to these target sequences and one pair of negative control double-strand DNA oligo were designed and synthesized. These fragments were subcloned into pGCSIL-GFP/Lenti plasmid. After being identified by PCR and sequencing, these plasmids were cotransfected into 293T cells to package lentiviral particles. The lentiviral vector particles were transfected into Raw 264.7 cells and TREM-1 expression in the transfected cells was assayed by real-time PCR and ELISA. Different concentrations of Bacteroides fragilis lipopolysaccharide (LPS) were administered in the Raw264.7 cells, and the cells were stimulated with LPS for 12 h. TREM-1 expression was determined by real-time PCR and ELISA at the time points.
+
+PCR and sequencing confirmed that lentiviral vectors had the correct structure and could express high titer of virus. After being transfected into Raw264.7 cells, TREM-1 expression was knocked down significantly by all of these lentiviral vectors at both protein and mRNA levels, and the pGCSIL-GFP/Lenti-1 had the most efficient interference. TREM-1 was upregulated in the presence of Bacteroides fragilis LPS, and this increase was partly abrogated in the TREM-1 siRNA-treated cell models of endotoxemia, depending on the sequence.
+
+The lentivirus RNAi vector of TREM-1 was constructed successfully. The lentivirus RNAi vector of TREM-1 can inhibit the expression of TREM-1 in the murine endotoxemia model caused by Bacteroides fragilis LPS.
+

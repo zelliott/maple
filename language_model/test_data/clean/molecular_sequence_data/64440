@@ -1,0 +1,9 @@
+
+This paper proposes a greedy algorithm for learning a mixture of motifs model through likelihood maximization, in order to discover common substrings, known as motifs, from a given collection of related biosequences.
+
+The approach sequentially adds a new motif component to a mixture model by performing a combined scheme of global and local search for appropriately initializing the component parameters. A hierarchical clustering scheme is also applied initially which leads to the identification of candidate motif models and speeds up the global searching procedure.
+
+The performance of the proposed algorithm has been studied in both artificial and real biological datasets. In comparison with the well-known MEME approach, the algorithm is advantageous since it identifies motifs with significant conservation and produces larger protein fingerprints.
+
+The proposed greedy algorithm constitutes a promising approach for discovering multiple probabilistic motifs in biological sequences. By using an effective incremental mixture modeling strategy, our technique manages to successfully overcome the limitation of the MEME scheme which erases motif occurrences each time a new motif is discovered.
+

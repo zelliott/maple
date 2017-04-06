@@ -1,0 +1,5 @@
+
+The Evolutionary Trace Viewer (ETV) provides a one-stop environment in which to run, visualize and interpret Evolutionary Trace (ET) predictions of functional sites in protein structures. ETV is implemented using Java to run across different operating systems using Java Web Start technology.
+
+The ETV is available for download from our website at http://mammoth.bcm.tmc.edu/traceview/index.html. This webpage also links to sample trace results and a user manual that describes ET Viewer functions in detail.
+

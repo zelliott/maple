@@ -1,0 +1,3 @@
+
+zzso techniques based on graph cuts have become a standard tool for many vision zzso These techniques allow to minimize efficiently certain energy functions corresponding to zzso zzso Random Fields zzso Currently, there is an accepted view within the computer vision community that graph cuts can only be used for zzso a limited class of zzso energies zzso zzso zzso In this survey, we review some results that show that graph cuts can be applied to a much larger class of energy functions (in particular, zzso zzso While these results are well-known in the zzso community, to our knowledge they were not used in the context of computer vision and zzso zzso We demonstrate the relevance of these results to vision on the problem of zzso texture zzso 
+

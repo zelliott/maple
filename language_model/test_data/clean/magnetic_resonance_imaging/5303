@@ -1,0 +1,3 @@
+
+We compare several nonparametric and parametric weighting methods for the adjustment of the effect of strata. In particular, we focus on the adjustment methods in the context of receiver-operating characteristic (ROC) analysis. Nonparametrically, rank-based van Elteren's test and inverse-variance (IV) weighting using the area under the ROC curve (AUC) are examined. Parametrically, the stratified t-test and IV AUC weighted method are applied based on a binormal monotone transformation model. Stratum-specific, pooled, and adjusted estimates are obtained. The pooled and adjusted AUCs are estimated. We illustrate and compare these weighting methods on a multi-center diagnostic trial and through extensive Monte-Carlo simulations.
+

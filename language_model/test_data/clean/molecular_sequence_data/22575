@@ -1,0 +1,7 @@
+
+Short hairpin RNA (shRNA) encoded within an expression vector has proven an effective means of harnessing the RNA interference (RNAi) pathway in mammalian cells. A survey of the literature revealed that shRNA vector construction can be hindered by high mutation rates and the ensuing sequencing is often problematic. Current options for constructing shRNA vectors include the use of annealed complementary oligonucleotides (74 % of surveyed studies), a PCR approach using hairpin containing primers (22 %) and primer extension of hairpin templates (4 %).
+
+We considered primer extension the most attractive method in terms of cost. However, in initial experiments we encountered a mutation frequency of 50 % compared to a reported 20-40 % for other strategies. By modifying the technique to be an isothermal reaction using the DNA polymerase Phi29, we reduced the error rate to 10 %, making primer extension the most efficient and cost-effective approach tested. We also found that inclusion of a restriction site in the loop could be exploited for confirming construct integrity by automated sequencing, while maintaining intended gene suppression.
+
+In this study we detail simple improvements for constructing and sequencing shRNA that overcome current limitations. We also compare the advantages of our solutions against proposed alternatives. Our technical modifications will be of tangible benefit to researchers looking for a more efficient and reliable shRNA construction process.
+

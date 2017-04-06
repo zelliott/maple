@@ -1,0 +1,9 @@
+
+zzso correction is critical to the success of next-generation sequencing applications, such as zzso and de zzso zzso zzso It is especially important for zzso zzso sequencing, where reads are much shorter and more abundant, and errors more frequent than in traditional zzso zzso zzso massive numbers of short reads with existing error correction methods is both zzso and memory zzso yet the results are far from satisfactory when applied to real zzso 
+
+We present a novel approach, termed zzso for error correction in zzso data from next-generation zzso zzso works with the spectrum of zzso from the input reads, and zzso errors by simultaneously zzso zzso zzso zzso correction possibilities for potentially erroneous zzso and zzso neighboring zzso from the same read for correct contextual zzso By not needing to store input data, zzso has the favorable property that it can handle data that does not fit in main zzso In addition to sequence data, zzso can make use of available quality score zzso Our experiments show that zzso zzso previous methods in the percentage of errors removed from the data and the accuracy in true base zzso In addition, a significant reduction in run time and memory usage have been achieved compared with previous methods, making it more practical for zzso error correction when sampling larger zzso 
+
+zzso is implemented in zzso and is available through the zzso zzso 
+
+zzso 
+

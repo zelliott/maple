@@ -1,0 +1,9 @@
+
+To develop a gradient insensitive, generic technique for recording of non-MR signals by use of surplus scanner bandwidth.
+
+Relatively simple battery driven hardware is used to transform one or more signals into radio waves detectable by the MR scanner. Similar to the "magstripe" technique used for encoding of soundtracks in motion pictures, the electrical signals are in this way encoded as artifacts appearing in the MR images or spectra outside the region of interest. The encoded signals are subsequently reconstructed from the signal recorded by the scanner.
+
+Electrophysiological (EP) eye and heart muscular recording (electrooculography [EOG] and electrocardiography [ECG]) during fast echo planar imaging (EPI) is demonstrated with an expandable, modular 8-channel prototype implementation. The gradient artifacts that would normally be dominating EOG are largely eliminated.
+
+The method provides relatively inexpensive sampling with inherent microsecond synchronization and it reduces gradient artifacts in physiological recordings significantly. When oversampling is employed, the method is compatible with all MR reconstruction and postprocessing techniques.
+

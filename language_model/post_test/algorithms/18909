@@ -1,0 +1,3 @@
+
+We propose a training zzso for zzso zzso in order to minimize the zzso zzso The aim is to choose the optimal value of the slack zzso which controls the zzso of a zzso The zzso zzso based on the coordinated clusters representation of images is trained and then used for the zzso of texture zzso As the slack zzso C varies through a range of values, for each C, the zzso rate is zzso using only the training zzso The value of C that yields the minimum zzso rate, estimated over the training set, is taken as the optimal value, zzso Finally, the zzso zzso is tested on the extended database of zzso Experimental results demonstrate the zzso of the proposed zzso In our experiments, zzso efficiency approaches, or is equal to, zzso after the optimal training of the zzso 
+

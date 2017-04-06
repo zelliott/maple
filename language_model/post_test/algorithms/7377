@@ -1,0 +1,7 @@
+
+zzso zzso screens of cellular responses to genetic or chemical zzso generate huge numbers of cell zzso zzso analysis is required to zzso and compare the effects of these zzso However, few of the current zzso zzso analysis software tools are zzso for efficient handling of these zzso Even fewer of them are designed to transform the zzso features measured from these images into zzso profiles that can reveal biologically meaningful associations among the tested zzso 
+
+We present a fast and zzso software platform called zzso to segment cells, measure quantitative features of cellular zzso construct zzso profiles, and zzso the resulting cell masks and feature zzso We have also developed a suite of library functions to load the extracted features for further zzso analysis and zzso under the R computing zzso We systematically compared the processing speed, cell zzso zzso and zzso zzso performance of zzso to other existing zzso analysis software packages or zzso We found that zzso zzso these existing tools on three different zzso zzso We estimate that zzso could finish processing a zzso gene zzso image zzso in less than a day on a modern personal zzso zzso 
+
+The zzso platform is designed to make fast and efficient zzso zzso profiling more accessible to the wider biological research zzso The zzso installation packages for zzso Windows and zzso user manual, installation guide, and zzso used in this analysis can be downloaded freely from zzso 
+

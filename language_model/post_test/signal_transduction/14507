@@ -1,0 +1,7 @@
+
+With the zzso of zzso techniques, the need for procedures that help in the biological interpretation of results has increased zzso Recently, new procedures inspired in systems biology criteria have started to be zzso 
+
+Here we present zzso a zzso program which zzso a zzso test for the functional interpretation of large-scale experiments that does not depend on the zzso of genes based on the multiple application of independent tests to each zzso The test implemented aims to directly test the zzso of blocks of functionally related zzso instead of focusing on single zzso In addition, the test does not depend on the type of the data used for obtaining significance values, and consequently different types of biologically zzso terms zzso zzso zzso functional zzso zzso factor binding sites or regulatory sites from zzso can be applied to different classes of zzso zzso We exemplify its application in zzso gene zzso evolution and zzso 
+
+zzso for gene set enrichment which, in addition, are independent from the original data and experimental design constitute a promising alternative for the functional profiling of zzso zzso A web server that performs the test described and other similar ones can be found at: zzso 
+

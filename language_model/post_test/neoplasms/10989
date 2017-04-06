@@ -1,0 +1,9 @@
+
+To evaluate the effect of target trajectory shape on the optimal treatment zzso 
+
+zzso radiation therapy and zzso modulated arc therapy plans were created for three zzso targets zzso 5, and 7 zzso zzso simulated in exhalation zzso each with margins of 2, 4, 6, 8, and 10 zzso to account for zzso The plans were delivered to a stationary zzso zzso chamber zzso and dose movies were obtained of the delivered zzso The dose movie frames were then displaced to simulate different respiratory zzso Five traces were zzso zzso zzso zzso and two patient zzso The optimal margin was defined as the margin for which the dose delivered to zzso of the target was closest to that obtained with no margin or zzso The equivalent uniform dose was also investigated as an alternative cost zzso 
+
+The optimal margin was always smaller than the zzso zzso When the respiratory trace spent less time in the inhale zzso the optimal margin was consistently smaller than when more time was spent in the inhale zzso The target size and treatment zzso also affected the optimal zzso 
+
+The necessary margin for targets that spend less time in the exhale phase zzso is 2-4 zzso smaller than for targets that spend equal time in the inhale and exhale zzso zzso 
+

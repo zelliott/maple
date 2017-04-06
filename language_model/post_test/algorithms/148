@@ -1,0 +1,7 @@
+
+The continuing exponential zzso of full zzso data, including full zzso human zzso creates new challenges not only for understanding zzso structure, function and evolution, but also for the storage, navigation and privacy of zzso zzso Here, we develop data structures and zzso for the efficient storage of zzso and other sequence data that may also facilitate zzso and protecting the zzso 
+
+The general idea is to zzso only the differences between a zzso sequence and a reference zzso using absolute or relative coordinates for the location of the zzso These locations and the corresponding differential zzso can be zzso into zzso strings using various zzso coding methods, from fixed codes such as zzso and Elias codes, to variables codes, such as Huffman zzso We demonstrate the approach and various tradeoffs using highly variables human zzso zzso sequences as a zzso With only a partial level of zzso zzso zzso sequences occupying 56 zzso in zzso are compressed down to only 167 zzso achieving a zzso zzso rate, using the revised Cambridge zzso zzso as the reference zzso Using the consensus sequence as the reference zzso the data can be stored using only 133 zzso corresponding to a zzso level of zzso roughly a zzso zzso zzso to nuclear zzso and zzso sequencing data are zzso 
+
+Data are publicly available from zzso the zzso web site, and the zzso zzso zzso materials with additional results, statistics, and software zzso are available from zzso 
+

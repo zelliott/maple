@@ -1,0 +1,7 @@
+
+zzso population structures using genetic data sampled from a group of individuals is a challenging zzso Many methods either consider a fixed population number or ignore the correlation between zzso As a result, they can lose sensitivity and specificity in detecting subtle zzso In addition, when a large number of genetic markers are used, many existing zzso perform rather zzso 
+
+We propose a new zzso method to zzso population structures using multiple zzso single zzso zzso zzso Our approach explicitly considers the population correlation through a tree zzso and treat the population number as a random zzso Using both simulated and real zzso of worldwide samples, we demonstrate that an incorporated tree can consistently improve the power in detecting subtle population zzso A zzso model often involves a large number of unknown zzso and the corresponding zzso procedure can be highly zzso We further implement a partition method to zzso integrate out all nuisance parameters in the zzso As a result, our method can analyze large zzso zzso with significantly improved convergence zzso 
+
+zzso 
+

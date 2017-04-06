@@ -1,0 +1,9 @@
+
+To characterize human gliomas using T1-weighted dynamic contrast-enhanced MRI (DCE-MRI), and directly compare three pharmacokinetic analysis techniques: a conventional established technique and two novel techniques that aim to reduce erroneous overestimation of the volume transfer constant between plasma and the extravascular extracellular space (EES) (Ktrans) in areas of high blood volume.
+
+Eighteen patients with high-grade gliomas underwent DCE-MRI. Three kinetic models were applied to estimate Ktrans and fractional blood plasma volume (vp). We applied the Tofts and Kermode (TK) model without arterial input function (AIF) estimation, the TK model modified to include vp and AIF estimation (mTK), and a "first pass" variant of the TK model (FP).
+
+KTK values were considerably higher than KmTK and KFP values (P <0.001). KmTK and KFP were more comparable and closely correlated (rho=0.744), with KmTK generally higher than KFP (P <0.001). Estimates of vp(mTK) and vp(FP) also showed a significant difference (P <0.001); however, these values were very closely correlated (rho=0.901). KTK parameter maps showed "pseudopermeability" effects displaying numerous vessels. These were not visualized on KmTK and KFP maps but appeared on the corresponding vp maps, indicating a failure of the TK model in commonly occurring vascular regions.
+
+Both of the methods that incorporate a measured AIF and an estimate of vp provide similar pathophysiological information and avoid erroneous overestimation of Ktrans in areas of significant vessel density, and thus allow a more accurate estimation of endothelial permeability.
+

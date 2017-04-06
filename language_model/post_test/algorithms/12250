@@ -1,0 +1,7 @@
+
+zzso proteins compose up to zzso of coding sequences within zzso However, their structure determination is lagging behind compared with soluble proteins due to the experimental zzso zzso it is important to develop reliable zzso methods to predict structures of membrane zzso 
+
+We present a method for prediction of the TM zzso orientation, which is an essential step in zzso zzso modeling of membrane zzso Our method is based on a zzso model of the zzso repeat originally developed for coiled zzso We identify the zzso surface patches that interface with zzso molecules at an accuracy of about zzso from the sequence information alone, using an empirical scoring function zzso zzso zzso which combines zzso and conservation of zzso in the zzso We test and discuss results of prediction of zzso zzso on 162 zzso zzso from 18 zzso membrane proteins and present predicted zzso of TM zzso in zzso zzso We also apply our method to two structures of zzso zzso zzso complexes and find zzso in the assignment of TM zzso from zzso zzso zzso and zzso The results of zzso calculations and analysis of packing and zzso interactions support the zzso assignment found in the zzso zzso structure from green zzso but not the assignment of TM zzso in the zzso zzso zzso 
+
+zzso calculations can be used for the prediction of zzso orientation in zzso zzso modeling of zzso membrane zzso We also show with the example of two zzso zzso structures that our method can identify questionable zzso assignments in membrane zzso The zzso server is available online at zzso 
+

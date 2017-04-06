@@ -1,0 +1,9 @@
+
+We tested our ability to approximate the dose (38 Gy), fractionation (four fractions), and distribution of high-dose-rate (HDR) brachytherapy for prostate cancer with CyberKnife (CK) stereotactic body radiotherapy (SBRT) plans. We also report early clinical observations of CK SBRT treatment.
+
+Ten patients were treated with CK. For each CK SBRT plan, an HDR plan was designed using common contour sets and simulated HDR catheters. Planning target volume coverage, intraprostatic dose escalation, and urethra, rectum, and bladder exposure were compared.
+
+Planning target volume coverage by the prescription dose was similar for CK SBRT and HDR plans, whereas percent of volume of interest receiving 125% of prescribed radiation dose (V125) and V150 values were higher for HDR, reflecting higher doses near HDR source dwell positions. Urethra dose comparisons were lower for CK SBRT in 9 of 10 cases, suggesting that CK SBRT may more effectively limit urethra dose. Bladder maximum point doses were higher with HDR, but bladder dose falloff beyond the maximum dose region was more rapid with HDR. Maximum rectal wall doses were similar, but CK SBRT created sharper rectal dose falloff beyond the maximum dose region. Second CK SBRT plans, constructed by equating urethra radiation dose received by point of maximum exposure of volume of interest to the HDR plan, significantly increased V125 and V150. Clinically, 4-month post-CK SBRT median prostate-specific antigen levels decreased 86% from baseline. Acute toxicity was primarily urologic and returned to baseline by 2 months. Acute rectal morbidity was minimal and transient.
+
+It is possible to construct CK SBRT plans that closely recapitulate HDR dosimetry and deliver the plans noninvasively.
+

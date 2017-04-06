@@ -1,0 +1,7 @@
+
+The major signal in coding regions of zzso sequences is a zzso zzso Our aim is to use zzso techniques to zzso this zzso and thereby to develop a tool to recognize coding regions in zzso zzso 
+
+The zzso zzso in the zzso arrangement is evidenced as a sharp peak at frequency f zzso 1/3 in the zzso (or power) zzso From extensive spectral analysis of DNA sequences of total length over zzso million base pairs from a wide variety or organisms (including the human zzso and by separately examining coding and zzso zzso we find that the zzso of the peak at f zzso 1/3 in the zzso spectrum is a good zzso of coding zzso This feature is zzso by us to detect probable coding regions in DNA zzso by examining the local zzso ratio of the peak within a sliding zzso While the overall accuracy is comparable to that of other techniques currently in use, the measure that is presently proposed is independent of training sets or existing database information, and can thus find general zzso 
+
+A computer program zzso which locates coding open reading frames and zzso regions in zzso sequences has been developed, and is available on zzso 
+

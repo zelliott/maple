@@ -1,0 +1,9 @@
+
+Despite improvements, spatial resolution and image quality with routine surface coils are too limited when detailed information about the gastrointestinal layers is requested. The objective of our feasibility study was to evaluate the potential of a dedicated endoluminal coil to depict different layers of the colonic wall in an in vitro small animal model.
+
+A single-loop coil (40 mm length, 5 mm width) was built using IC (printed circuit) technology. The coil was tuned to a frequency of 63.7 MHz and matched at 50 Omega for this frequency. The coil was housed in a biocompatible tube with an outer diameter of 18 F (6 mm). Ten segments of rat colon, surgically excised 5 hours earlier, were completely immersed in an isotonic solution. The coil was introduced through the lumen of colonic specimens. MRI experiments were performed on a 1.5 T MR Symphony system (Siemens, Erlangen, Germany) using imaging protocol combining high-resolution 2D Flash, fast imaging employing steady-state acquisition (TrueFISP), turbo spin echo (TSE), and 3D FastLow-Angle Shot (FLASH) sequences. After a 24-hour period of fixation in 10% formalin, colonic specimens were excised along the longitudinal axis for histologic analysis.
+
+The endoluminal coil provided high SNR allowing for the visualization of different layers of rat colonic walls. All the performed sequences made it possible to identify at least two different layers. On T1-weighted gradient-echo sequences, the mucosa was of high signal intensity, whereas the muscle layers had an intermediate to low signal intensity. The signal intensity of different wall layers was similar in different sequences. Histologic analysis identified three main layers.
+
+These results are well correlated with histologic findings and suggest that endoluminal MR imaging may have potential for accurate staging of colonic tumor or inflammatory process.
+

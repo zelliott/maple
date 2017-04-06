@@ -1,0 +1,9 @@
+
+The efficacy of deep brain stimulation in treating movement disorders depends critically on zzso zzso which is conventionally described by using coordinates relative to the zzso zzso This approach requires manual measurement and lacks spatial zzso of zzso zzso zzso is based on zzso spatial alignment zzso of corresponding brain structures by using different geometric zzso Here, we have devised and evaluated a scheme for automated zzso zzso of zzso zzso which zzso zzso zzso accuracy of zzso structural MR imaging into the standard Montreal zzso Institute zzso space for the zzso zzso 
+
+zzso zzso MR imaging data from 39 patients with Parkinson disease and 32 patients with zzso were globally zzso representing the standard registration zzso The global transformations were regionally refined by 2 successive linear registration stages zzso zzso and zzso focusing progressively on the zzso zzso with 2 zzso selective brain masks, which specify the reference volume (weighted cost zzso zzso of the zzso was zzso by spatial zzso of 16 zzso landmarks and their zzso errors zzso with respect to zzso zzso reference zzso The effects of zzso volume, age, and sex on zzso were zzso 
+
+Mean zzso differed significantly zzso zzso zzso between the global control zzso zzso zzso zzso zzso zzso zzso zzso zzso and zzso zzso zzso zzso zzso 
+
+The present method improves the registration accuracy of zzso structural MR imaging data into zzso space within the zzso zzso allowing automated zzso with increased precision at zzso targets, and enables zzso zzso in zzso coordinates for quantitative group zzso 
+

@@ -1,0 +1,9 @@
+
+Myocardial T1-mapping methods such as MOLLI use SSFP readout and are prone to frequency-dependent error in T1-measurement. A significant error in T1 may result at relatively small off-resonance frequencies that are well within the region without banding artifacts.
+
+The sensitivity of T1-estimates based on the SSFP based MOLLI sequence to errors in center frequency are calculated by means of a Bloch simulation and validated by phantom measurements. Typical off-resonance errors following local cardiac shimming are determined by field mapping at both 1.5 and 3.0T. In vivo examples demonstrate the artifactual appearance of T1-maps in the presence of off-resonance variation.
+
+Off-resonance varied 61.8 ± 15.5 Hz (mean ± SD, n = 18) across the heart at 1.5T and 125.0 ± 40.6 Hz (mean ± SD, n = 18) at 3.0T. For T1 = 1000 ms, the variation in T1 due to off-resonance variation was approximately 20 ms at 62 Hz, and > 50 ms at 125 Hz.
+
+Regional variations due to the inability to completely shim the B0-field variation around the heart appear as regional variation in T1, which is artifactual.
+

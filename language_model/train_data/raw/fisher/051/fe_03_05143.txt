@@ -1,0 +1,473 @@
+# fe_03_05143.sph
+# Transcribed by BBN/WordWave
+
+0.63 1.68 A: hello 
+
+1.33 2.54 B: (( hi )) 
+
+2.47 4.22 A: hi my name is alvin 
+
+4.07 5.07 B: alvin 
+
+4.95 5.67 A: yeah 
+
+5.30 7.24 B: this is stan 
+
+7.26 8.89 A: stan nice to meet you 
+
+8.57 10.90 B: yes where are you from 
+
+10.80 13.48 A: i am from rockville maryland and yourself 
+
+13.35 15.33 B: (( ah iowa )) 
+
+15.30 17.31 A: iowa wow 
+
+16.29 17.37 B: yeah 
+
+17.84 19.82 A: what time is it there at iowa 
+
+19.58 21.20 B: eight o'clock are 
+
+20.90 21.82 A: okay 
+
+21.81 23.02 B: you ten 
+
+23.07 26.19 A: oh just i think it's around nine o'clock 
+
+25.71 29.65 B: nine i wasn't sure if you were an hour or two hours ahead 
+
+29.42 30.94 A: yeah me neither 
+
+30.48 32.34 B: must just be one i guess 
+
+32.17 33.86 A: [laughter] 
+
+32.87 36.37 B: [laughter] ah so 
+
+34.91 35.75 A: so 
+
+36.33 38.25 A: education computers 
+
+37.96 39.21 B: yeah 
+
+39.03 40.73 A: ah what do you do for a living 
+
+39.75 40.32 B: (( [mn] )) 
+
+40.66 42.31 B: i farm 
+
+42.03 44.54 A: you farm okay how long have you been farming 
+
+42.86 44.54 B: yeah 
+
+44.56 48.98 B: too long [laughter] um 
+
+47.79 48.74 A: [laughter] 
+
+50.50 52.74 B: i'd have to think about it a little bit 
+
+52.82 53.73 A: (( okay w- )) 
+
+53.52 55.00 B: i think ah 
+
+58.30 59.84 B: eighty or eighty one 
+
+61.25 62.80 A: eighty or eighty one wow 
+
+62.96 69.73 A: that's been a while i just graduated from college and funny this topic came up because i'm actually a high school math teacher 
+
+69.63 70.64 B: okay 
+
+70.77 76.56 A: um well farming do you do you use a lot of technology or anything oh i'm not sure 
+
+76.21 77.25 B: (( ah )) 
+
+78.77 79.79 B: (( i )) 
+
+81.00 87.11 B: i do i i well i say a lot i i do ah 
+
+87.75 92.10 B: i guess today in farming i think there's a a wide 
+
+93.89 99.03 B: a wide variance in the amount of technology that's used and in indus- 
+
+97.02 98.07 A: oh yeah 
+
+99.16 101.57 B: well just in production agriculture 
+
+101.56 102.37 A: okay 
+
+101.86 112.47 B: um and i'm kinda middle of the road ah [laughter] i [mn] i mean all my record keeping bookwork 
+
+106.43 107.25 A: okay 
+
+112.65 113.86 B: um 
+
+114.50 115.51 B: (( ah )) 
+
+115.59 118.26 B: is done on computer i do a lot 
+
+119.28 123.20 B: of analysis as far as ah 
+
+123.38 126.47 B: profitability and and planning 
+
+125.11 126.27 A: oh great 
+
+126.47 127.51 A: that's cool 
+
+126.61 128.60 B: um programs that i 
+
+129.32 132.30 B: well just spreadsheets i've i've set up 
+
+132.33 134.29 B: ah to make that easier 
+
+134.28 137.55 A: now did you learn that yourself or did you take classes or 
+
+136.75 144.57 B: no it's just stuff i've picked up over the years i've been doing books ah well my first would have been apple two e. 
+
+140.28 141.15 A: oh wow 
+
+144.66 145.51 A: okay 
+
+145.24 153.22 B: that we started with first one most expensive one the slowest one [laughter] and ah 
+
+153.04 155.89 A: [laughter] spreadsheets do you use excel or do you use oracle 
+
+156.93 158.93 B: ah excel or what 
+
+159.66 163.04 B: no we're works 
+
+162.83 163.67 A: okay 
+
+163.29 165.65 B: is is what i started with 
+
+165.81 169.17 B: and then my wife does some stuff ah 
+
+169.27 173.18 B: sh- she start on excel and so i did 
+
+173.45 174.53 B: (( ah )) 
+
+175.78 183.09 B: well usually my time was kinda limited and so i i didn't ah work with excel but i started messing around with one the other day 
+
+183.18 185.03 B: an excel sheet kinda 
+
+183.24 184.03 A: nice 
+
+185.28 187.90 B: familiarized myself with it and [sigh] 
+
+185.48 186.33 A: okay 
+
+188.38 189.58 B: ah 
+
+190.79 193.36 B: you know a lot of just what you learn and 
+
+193.65 194.35 A: (( okay )) 
+
+193.69 196.06 B: and what you have time to learn 
+
+196.24 197.43 B: it seems to me 
+
+198.03 198.92 B: (( oh )) 
+
+199.58 201.83 B: but then i also have ah 
+
+202.02 204.07 B: a yield monitor in my combine 
+
+205.12 208.73 B: that i mean it's basically a computer 
+
+209.25 210.59 B: (( that ah )) 
+
+212.37 214.64 B: keeps track of y- ah it ah 
+
+215.04 217.53 B: it's a g. p. s. 
+
+217.56 219.63 A: oh global positioning okay 
+
+218.75 221.27 B: (( yeah to ah )) 
+
+220.50 221.15 A: d- 
+
+221.42 222.83 B: identify 
+
+222.88 223.75 B: ah 
+
+224.80 228.12 B: good yields and bad yields and where problem areas are and 
+
+228.22 229.89 B: and that kind of stuff 
+
+230.27 232.95 A: so do you have any kids that go to school or anything 
+
+232.82 234.79 B: ah yeah we had a boy 
+
+234.97 237.96 B: we have three boys and one graduated this year 
+
+237.83 239.53 A: oh nice congratulations 
+
+238.91 240.20 B: (( and oh )) 
+
+240.30 250.67 B: yeah it was a challenge [laughter] yeah and ah then we have ah one's going to be a sophomore and one's in eighth grade 
+
+242.23 243.98 A: [laughter] 
+
+250.36 256.27 A: oh wow so one graduated from high school one just grad ah sophomore and one's in eighth grade oh wow 
+
+253.92 256.86 B: right 
+
+256.58 257.72 A: good for you 
+
+258.12 259.61 B: yeah 
+
+259.26 261.42 A: now did you want a daughter or ah 
+
+261.54 264.98 B: ah we were just 
+
+265.58 271.96 B: i guess if we had to have all one or the other we w- we were both glad they were all boys 
+
+271.78 272.64 A: (( okay [noise] )) 
+
+272.24 273.23 B: um 
+
+273.68 274.24 B: (( [mn] )) 
+
+275.82 281.45 B: i guess we weren't disappointed they were boys but you know ah girls are always nice too 
+
+281.41 282.22 A: yeah 
+
+281.58 286.24 B: [laughter] but no we've been we are just 
+
+286.37 287.72 B: pleased with what 
+
+288.12 289.30 B: what we got 
+
+289.85 290.59 A: (( [laughter] good )) 
+
+290.12 291.20 B: so 
+
+292.21 294.79 B: [sigh] oh so have you 
+
+295.09 297.52 B: you're going to teach or have you taught 
+
+297.59 300.34 A: i've been teaching for a year and a half and ah 
+
+299.13 300.23 B: (( year and a half )) 
+
+300.89 302.33 A: since i am a math 
+
+302.38 304.40 A: ah teacher it's kind of 
+
+304.54 305.40 A: (( ah )) 
+
+305.99 309.54 A: i mean i i totally have to use computers all the time i mean i think it's 
+
+309.02 312.97 B: (( mhm )) 
+
+309.72 314.65 A: very important especially especially for these kids these days to use a computer 'cause 
+
+315.19 322.27 A: i mean it's the computer age more and more people are using computers and you know more and more people more and more households now have computers 
+
+319.26 321.81 B: (( yeah but )) 
+
+322.70 329.80 B: do you feel like ah they're learning computers too early and not learning the basics that they should or not 
+
+329.95 332.75 A: you know funny you asked that because i think that ah 
+
+333.16 338.45 A: like ah i would say i have a different story with the calculator because i think more and more kids 
+
+338.51 343.71 A: are becoming so dependent on calculators like they can't add without using a calculator 
+
+341.94 344.56 B: mhm 
+
+343.92 345.03 A: but i don't think that's 
+
+345.35 350.62 A: that's true with computers i mean computers just make information getting just 
+
+350.63 355.54 A: easily easily available and i think that that's that's great because 
+
+354.83 355.84 B: okay 
+
+355.75 357.31 A: it's less hassle 
+
+357.27 360.79 B: yeah yeah they ah 
+
+361.78 366.22 B: well yeah i guess that's the thing i've found with the bookkeeping was 
+
+366.75 369.30 B: every time i did an entry i had a total 
+
+369.65 370.55 A: okay 
+
+369.77 379.30 B: i mean you know you you didn't when we did it by hand we always had to add up at the end of the month add up every column and you know to see what we got 
+
+379.02 379.87 A: okay 
+
+379.57 380.53 B: where as 
+
+380.61 383.15 B: [mn] you know with the computer ah 
+
+384.34 385.33 B: (( i- if )) 
+
+385.64 387.49 B: you can always get a total 
+
+387.81 390.84 B: just by asking for a report and that ah 
+
+392.79 394.91 B: [sigh] ah can be 
+
+395.84 397.89 B: on top of things a lot more 
+
+398.33 401.79 B: if that's your desire [laughter] 
+
+399.86 400.63 A: yeah 
+
+401.99 402.87 B: so 
+
+403.59 405.53 A: do you use email a lot stan 
+
+405.95 407.68 B: (( ah [sigh] )) 
+
+408.59 409.69 B: (( i )) 
+
+411.60 415.17 B: we check it regularly my wife uses it a lot more than i do 
+
+415.23 416.08 A: okay 
+
+415.28 420.37 B: i do some um ah i guess i get some weather stuff on emails and 
+
+420.77 421.61 B: (( ah )) 
+
+422.18 425.88 B: and and ah oh some market stuff 
+
+426.25 427.53 B: i don't 
+
+427.70 430.32 B: as far as me communicating with 
+
+427.82 428.68 A: okay 
+
+430.65 433.04 B: others i don't use it a lot 
+
+433.38 434.23 B: (( ah )) 
+
+434.84 436.64 B: i do occasionally but 
+
+437.13 438.50 B: not a lot 
+
+439.04 442.49 B: i i should i have a couple landlords that i should 
+
+442.77 444.75 B: ah discipline myself to 
+
+445.82 448.80 B: just touch base with a little oftener that way but i 
+
+449.42 450.38 B: i don't 
+
+450.58 452.62 A: okay [laughter] 
+
+452.10 453.88 B: (( [laughter] )) 
+
+454.10 454.88 B: so 
+
+455.19 459.19 A: i mean i use email not as much but ah i use it 
+
+459.56 463.64 A: probably every other day i mean i think it's a different story do- are you 
+
+463.84 467.93 A: talking on a ah at your in your house or are you on a cellphone 
+
+467.82 470.64 B: no i'm in a h- in the house 
+
+470.60 471.72 A: okay 'cause 
+
+472.22 478.33 A: teaching right now in high school it's surprising how how many kids have cellphones now and it's just amazing [mn] 
+
+477.95 480.02 B: yeah yeah they 
+
+480.94 482.97 B: (( ah yeah it's )) 
+
+483.20 483.92 A: [laughter] 
+
+483.20 486.43 B: [mn] the things that ah have become necessities 
+
+486.52 487.67 A: exactly 
+
+487.75 495.75 A: and at first when you think about it we we never had cellphones or computers maybe like ten years ago and now we're a lot of people are so dependent on it 
+
+489.40 491.97 B: (( [laughter] )) 
+
+495.87 498.83 A: it's kind of it's kind of ah scary actually 
+
+495.89 503.34 B: yeah mhm [lipsmack] we use cellphones quite a bit um 
+
+504.78 510.00 B: ah the one we're we're ready to get new ones and they come out with 
+
+510.21 514.58 B: um we've had ours a couple of years and and the new we're our 
+
+514.59 516.79 B: where we're at our reception is 
+
+517.76 519.16 B: variable 
+
+519.14 520.11 A: okay 
+
+519.64 520.89 B: (( and ah )) 
+
+521.47 525.55 B: and the n- neighbors have a new one and the new ones are a lot better 
+
+525.46 526.34 A: okay 
+
+525.60 527.54 B: but we've tried to ah 
+
+528.38 531.22 B: ah i mean we have nationwide 
+
+531.29 533.22 B: free calling 
+
+532.83 533.69 A: wow 
+
+533.58 535.55 B: er no not free 
+
+535.88 538.01 B: it's not long distance 
+
+537.99 538.86 A: okay 
+
+538.38 544.68 B: and so on long what would be long distance with the landline we're trying to use cellphones for if it works 
+
+544.86 546.11 B: and so we've 
+
+546.38 554.43 B: [mn] we've basically transferred our what would have been long distance money into cellphone money 
+
+553.81 555.34 A: (( into cellphone money )) 
+
+555.08 558.39 B: b- and i buying our minutes that way 
+
+558.79 561.48 B: and we have really reduced 
+
+561.99 564.20 B: we've really reduced our 
+
+564.08 565.02 A: your costs 
+
+565.49 567.39 B: our long distance cost 
+
+567.42 568.28 A: yeah 
+
+567.73 568.99 B: but 
+
+569.55 570.54 B: ah 
+
+570.82 574.89 B: but we spend it in in cellphones but we and we have the use of the cellphone 
+
+575.34 579.96 B: and that's something that i you know spring and fall when i'm in the field i use it a lot 
+
+575.45 576.19 A: (( uh-huh )) 
+
+580.28 581.48 B: (( and ah )) 
+
+581.83 584.51 B: and then the boys going to school have 'em 
+
+584.63 585.74 B: too so 
+
+584.83 587.11 A: how many how many cellphones do your boys have 
+
+587.38 594.74 B: ah well the we have three total i mean i have one and my wife has one and then the boys have one 
+
+590.82 591.72 A: you have three 
+
+594.64 595.52 A: okay 
+
+595.94 596.94 B: so 
+
+597.12 599.89 B: but now with ah david 
+

@@ -1,0 +1,3 @@
+
+Flow- and motion-related artifacts are problematic in clinical MR imaging. In this paper we discuss the utility of a phase-corrected real reconstruction to reduce flow artifacts. This technique is particularly useful when flow-compensation pulse sequences may not be possible, such as when a very short echo delay or small field-of-view is desired. We will demonstrate that the phase-corrected real reconstruction provides superior results to the magnitude reconstruction either used alone or in conjunction with existing flow-compensation techniques.
+

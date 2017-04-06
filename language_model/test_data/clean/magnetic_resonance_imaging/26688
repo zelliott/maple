@@ -1,0 +1,9 @@
+
+TA is a branch of image processing that seeks to reduce image information by extracting texture descriptors from the image. TA of MR images of anatomic structures in mild AD and aMCI is not well-studied. Our objective was to attempt to find differences among patients with aMCI and mild AD and normal-aging subjects, by using TA applied to the MR images of the CC and the thalami of these groups of subjects.
+
+TA was applied to the MR images of 17 patients with aMCI, 16 patients with mild AD, and 16 normal-aging subjects. The TA approach was based on the GLCM. MR images were T1-weighted and were obtained in the sagittal and axial planes. The CC and thalami were manually segmented for each subject, and 44 texture parameters were computed for each of these structures.
+
+TA parameters showed differences among the 3 groups for the CC and thalamus. A pair-wise comparison among groups showed differences for AD-control and aMCI-AD for the CC; and for AD-control, aMCI-AD, and aMCI-control for the thalamus.
+
+TA is a useful technique to aid in the detection of tissue alterations in MR images of mild AD and aMCI and has the potential to become a helpful tool in the diagnosis and understanding of these pathologies.
+

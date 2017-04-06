@@ -1,0 +1,9 @@
+
+1. Identify sources of variation affecting Magnetisation Transfer Ratio (MTR) histogram reproducibility between-centres. 2. Demonstrate complete elimination of inter-centre difference.
+
+Six principle sources of variation were summarised and analysed. These are: the imager coil used for radiofrequency (RF) transmission, imager stability, the shape and other parameters describing the Magnetisation Transfer (MT) pulse, the MT sequence used (including its parameters), the image segmentation methodology, and the histogram generation technique. Transmit field nonuniformity and B1 errors are often the largest factors. PLUMB (Peak Location Uniformity in MTR histograms of the Brain) plots are a convenient way of visualising differences. Five multi-centres studies were undertaken to investigate and minimise differences.
+
+Transmission using a body coil, with a close-fitting array of surface coils for reception, gave the best uniformity. Differences between two centres, having MR imagers from different manufacturers, were completely eliminated by using body coil excitation, making a small adjustment to the MT pulse flip angle, and carrying out segmentation at a single centre. Histograms and their peak location and height values were indistinguishable.
+
+Body coil excitation is preferred for multi-centre studies. Analysis (segmentation and histogram generation) should ideally be carried out at a single site.
+

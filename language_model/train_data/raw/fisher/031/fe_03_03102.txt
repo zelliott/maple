@@ -1,0 +1,391 @@
+# fe_03_03102.sph
+# Transcribed by BBN/WordWave
+
+0.37 1.67 B: hello 
+
+1.30 2.45 A: hello 
+
+2.06 3.47 B: hi [mn] 
+
+2.99 4.82 A: hi i'm my name 
+
+3.68 4.67 B: (( i'm [mn] )) 
+
+5.13 6.84 A: i'm sorry i'm patrick 
+
+6.28 8.63 B: (( i'm rachael nice to meet you [mn] )) 
+
+8.02 9.66 A: nice to meet you too 
+
+9.79 15.57 A: the topic today is pets yeah sadly i i don't or at least i don't have one that i live with 
+
+9.83 11.19 B: so do you have a pet 
+
+15.51 17.09 B: neither do i. [mn] 
+
+15.69 16.82 A: i have 
+
+16.84 22.84 A: i have one from home that i adore but i don't see him very much it's a dog [mn] 
+
+22.19 24.27 B: what kind of dog is it 
+
+23.71 25.57 A: it's a silky terrier [mn] 
+
+25.57 26.77 B: (( oh [mn] )) 
+
+26.16 33.84 A: his name's mulligan [mn] he's a [lipsmack] he's a good dog but i don't get to see him as i i mean when i go home on breaks basically i ah 
+
+33.89 40.58 A: you know play with him the whole time my mom usually gets disgruntled because i spend more time with the pet than i do with ah her but [mn] 
+
+37.92 39.31 B: [laughter] 
+
+39.56 41.69 B: did you say smoky terrier 
+
+41.54 42.94 A: ah silky 
+
+42.42 44.83 B: oh silky terrier so 
+
+43.71 46.94 A: yeah he's he's just your small little dog 
+
+46.33 48.26 B: does he have really long hair 
+
+48.31 57.92 A: ah it's like relatively long we keep it kind of short but like for show dogs i guess 'cause that breed like every once in a while like you'll see them in the westminster or whatever 
+
+53.14 54.02 B: right 
+
+57.59 58.40 B: huh 
+
+57.95 62.95 A: um [lipsmack] they grow a bit long but we we keep him short so [mn] 
+
+61.94 63.93 B: cool how old is he 
+
+63.99 71.66 A: ah gee let's see he's six he's six years old in dog years what is that like [mn] forty eight or something 
+
+67.15 67.93 B: (( [mn] i )) 
+
+69.88 82.82 B: think it's like forty two i think you multiply it by seven [laughter] but i'm not sure yeah i used to have a dog too i had a golden lab or a yellow lab [lipsmack] um but he died about three years ago 
+
+72.39 74.78 A: oh maybe it's seven yeah that's what it is [lipsmack] 
+
+79.68 80.67 A: okay 
+
+82.71 84.62 A: [mn] oh i'm sorry 
+
+83.73 93.64 B: yeah but he was thirteen years old so i think that [mn] he lived a good life [laughter] he had a better life than most humans i think [laughter] 
+
+89.26 91.37 A: yeah no that is a good 
+
+92.95 99.80 A: ah sure that's that's pretty cool um did you end up playing a lot with him or was it a family dog 
+
+95.91 96.53 B: (( [mn] )) 
+
+97.83 102.39 B: yeah um he i i guess like we got him when i was like 
+
+102.41 104.81 B: [lipsmack] um probably 
+
+104.66 118.79 B: ten years old or nine or ten so i had him growing up which was really nice um and he was really like the sweetest dog you could just do anything to him and [laughter] he wouldn't complain at all he was like a big pillow 
+
+106.15 107.41 A: (( ahah [mn] )) 
+
+118.57 120.34 A: yeah that's awesome 
+
+119.75 133.34 B: which was nice um and also since i was a kid i didn't really like walk him that much or do any of the maintenance stuff [laughter] um so i could enjoy him without any of the responsibility [lipsmack] 
+
+128.60 130.84 A: ah right 
+
+133.08 140.06 A: or the obligations sure that makes sense ah th- that's actually like what i'm kind of um 'cause now i live like in apartment style [lipsmack] 
+
+139.46 140.58 B: mhm 
+
+140.12 141.33 A: and ah 
+
+141.11 151.74 A: i've been wanting to get a pet but i i i'm more of a dog person than a cat person [mn] but i just don't feel like i have the time or the dedication to really like raise a dog the way that it should be 
+
+144.77 145.85 B: yeah 
+
+147.28 148.36 B: (( yeah yeah )) 
+
+151.67 158.43 A: [mn] so i i feel like a cat's the best option but i don't really like cats that much um [mn] i'm kind of stuck 
+
+155.30 156.70 B: yeah [laughter] 
+
+157.47 159.01 B: no cats suck you 
+
+159.08 166.74 B: should definitely get a dog although yeah i mean i can't even keep my plants alive so i don't think i can keep a dog alive but 
+
+164.03 166.18 A: mhm [mn] 
+
+166.59 170.94 A: i have exact same problem i'm told that they're pretty resilient but i still don't want to risk it you know 
+
+171.11 178.65 A: the ah the fear like having a dog die in my life is really kind of a sad thought [mn] i don't know if i really want to do that 
+
+171.32 172.55 B: (( right [laughter] )) 
+
+174.02 175.72 B: [laughter] 
+
+176.86 180.39 B: do you live in a city or in a place where you could oh 
+
+179.76 182.50 A: i live in a i live in washington d._c. 
+
+181.82 183.53 B: really what part 
+
+182.88 184.96 A: yeah adams morgan 
+
+184.72 188.38 B: oh cool yeah i i lived there last summer actually 
+
+188.21 189.28 A: oh where 
+
+188.41 196.18 B: and um i lived in the georgetown law school dorms which are by capitol hill or no yeah on capitol hill i guess 
+
+195.41 202.44 A: it's like capitol hill union station area yeah that's great are you in law school or not oh great 
+
+196.86 198.88 B: yeah union station yeah 
+
+199.41 203.48 B: [mn] yeah yeah i am um i go to law school at penn 
+
+203.62 217.40 A: oh fantastic oh that's how i actually heard about this um this study well like through penn but it was um i didn't go to penn but i um [mn] i like craig's list i don't know if you know that ah i'm not sure if we're allowed to talk about something other than pets oh 
+
+207.20 209.08 B: through penn [laughter] 
+
+212.86 213.95 B: yeah 
+
+215.55 216.21 B: (( [mn] )) 
+
+216.40 223.15 B: i think we are last time i did [laughter] and no one like sanctioned me [laughter] 
+
+218.51 220.83 A: okay i tried last 
+
+221.64 227.65 A: oh right i guess er i i didn't even read it all like it's a study in linguistics is that 
+
+226.41 230.46 B: right i guess i don't know i think it's about um 
+
+230.58 234.94 B: just [mn] like language patterns or something i'm not sure 
+
+234.01 236.06 A: ah that's kind of interesting 
+
+235.26 236.84 B: [laughter] 
+
+236.38 239.80 A: that's pretty cool what ah when do you graduate are you 
+
+239.32 243.64 B: um i'm i just finished my second year so i have another year to go 
+
+239.85 241.06 A: (( on the )) 
+
+243.40 244.25 A: mm 
+
+244.06 253.13 B: before i graduate um yeah i [laughter] i'm excited to have it done with it's been it's been a long two years 
+
+245.92 247.20 A: that's cool 
+
+250.54 251.64 A: (( yes )) 
+
+252.76 257.98 A: yeah exactly and the first year is the m- the hardest and the most important right 
+
+255.06 260.12 B: yeah yeah yeah yeah this past year wasn't a- as bad at all but 
+
+259.59 261.73 A: oh that's good 
+
+260.27 263.32 B: um do you go to school too or are you do you work 
+
+262.62 271.30 A: ah i already graduated i went to ah cornell undergrad and then um but i work now as a [lipsmack] a kind of labor relations consultant i guess [mn] 
+
+265.08 266.45 B: mhm mhm 
+
+270.38 271.51 B: oh really 
+
+271.33 273.62 A: yeah i i do a lot of work with unions 
+
+272.20 275.34 B: for the big corporate corporations 
+
+274.30 279.25 A: no i'm on the other side i'm i'm the union side i i 
+
+275.77 278.18 B: oh good good 
+
+279.23 292.19 A: but like i- it's professional because a lot of negotiations they kind of hire us as like [mn] i don't know like just big guns to come in and like do a lot of like the just the negotiation type stuff that the unions themselves like aren't really equipped to do 
+
+286.60 287.66 B: right 
+
+291.93 292.95 B: cool 
+
+292.24 301.73 A: so it's it's like a corporate environment but like morally i feel better about it [laughter] 'cause i- i'm definitely more left than right when it comes to issues like that so 
+
+296.26 298.40 B: right [laughter] i know 
+
+300.91 312.92 B: yeah i've i've definitely met a lot of lawyers who say they do labor and employment i'm like oh that's great and they say yeah um we work with corporations and tell them how to basically get out of these 
+
+310.64 311.78 A: (( yeah )) 
+
+312.28 316.52 A: yeah exactly union busters that's exactly what they are yeah 
+
+312.96 315.18 B: union exactly 
+
+315.70 326.27 B: um which is terrible [mn] but i take labor law and it was really interesting um we have a we have this one professor here whose like eighty six years old and has 
+
+318.54 320.12 A: yeah 
+
+326.26 333.94 B: i don't know has been around he was around like when they first passed the national labor relations act and um he's 
+
+331.65 334.86 A: wow that's some history so 
+
+333.70 342.07 B: like so old but he the course is just really cool and he's super liberal so it's always a a good time [mn] all the 
+
+341.01 344.57 A: it's just such a like young labor movement like in you know 
+
+343.67 344.63 B: mhm 
+
+344.36 356.26 A: in just like real terms compared to like europe i mean they had like the idea of a union was a l- right but you know it's it's so neat to actually source someone that's alive that has virtually witnessed like 
+
+349.56 350.37 B: (( around a lot before )) 
+
+350.63 351.54 B: right 
+
+356.08 363.08 A: every major transformation in labor and employment you know arena that's really neat 
+
+356.92 357.99 B: yeah 
+
+359.74 361.53 B: no it's very cool 
+
+361.93 368.17 B: it's very cool although sometimes he [mn] because of his age he's not the most effective professor 
+
+366.97 378.34 A: ah sure sure well penn just gives you some of that money back ah for tuition [mn] they just discount it for any incoherent lectures or something [laughter] yeah right that would make sense to me 
+
+368.55 369.76 B: (( but um )) 
+
+371.07 378.88 B: [laughter] [laughter] yeah [laughter] yeah all right 
+
+378.39 379.44 A: sure 
+
+378.91 381.18 B: um no i don't think so 
+
+380.86 384.03 A: yeah that's probably not i've never heard of that [mn] 
+
+381.54 382.63 B: (( [mn] )) 
+
+384.60 387.52 B: well that's cool do you like d._c. have you lived there before 
+
+387.45 393.81 A: ah i've never lived here before it was kind of the first place i moved right after our graduation um and then i 
+
+390.64 391.51 B: mhm 
+
+392.50 395.77 B: it's a good place to be as a young person i think mhm 
+
+395.16 404.68 A: yeah i think it it's great 'cause it's small enough to like to manage it but then there's like a awful lot of people that are like kind of come in come out but i haven't met a whole lot of people that have [lipsmack] 
+
+398.93 399.86 B: mhm 
+
+405.44 415.04 A: like have come here right after you know either grad school or or undergrad and then stayed for a really long time it's kind of a transient area people just kinda breeze in and breeze out 
+
+409.19 410.04 B: right 
+
+410.56 411.38 B: right 
+
+412.19 413.44 B: exactly 
+
+414.44 418.05 B: yeah no one's been there for more than like five years i think 
+
+415.45 416.01 A: (( [mn] )) 
+
+417.27 425.30 A: yeah that that's actually my plan too i i don't plan on staying here much more i've been here about two years now and and [lipsmack] i will ah 
+
+420.20 421.21 B: yeah 
+
+424.03 426.15 B: that's about the time i meant 
+
+425.50 434.48 A: exactly [mn] i'm actually in a quandary now because i'm supposed to i have the option of renewing my lease [mn] but um this particular place i'm in they 
+
+430.96 432.01 B: mhm 
+
+434.35 445.08 A: it has to be a yearly renewal and so i'm kinda doing some soul searching and do i really want to stay here i mean i like it but i i maybe it's time i don't know so there's other factors 
+
+435.73 436.74 B: (( mm )) 
+
+437.32 439.64 B: big commitment [laughter] 
+
+442.48 451.28 B: right so are you on that main street what is it u. or something what's the main street in adams morgan with all the eighteenth street yeah 
+
+446.96 447.95 A: (( um ei- )) 
+
+448.98 463.04 A: eighteenth street actually yeah that's i actually live on eighteenth but i don't i don't live in the ah the bar district i live like i actually live right south of eighteenth and u [mn] like a half a block so it's far enough away from the 
+
+452.79 453.90 B: (( really okay )) 
+
+456.21 456.99 B: okay 
+
+462.92 468.49 A: debauchery of the bar scene but close enough if i wanna go that it's not a hassle so 
+
+464.35 466.29 B: right right 
+
+467.58 471.32 B: that's definitely the best neighborhood i think if i were to live there 
+
+471.21 482.03 A: i i like it too 'cause it has a neighborhood feel as opposed to like maybe [mn] like more downtown or like foggy bottom or i i guess georgetown has its own neigborhoody feel but that's not really 
+
+471.58 473.03 B: (( i would go to adams morgan )) 
+
+480.73 483.14 B: yeah but you can't afford it [laughter] 
+
+482.20 489.48 A: yeah exactly it's not really my preference so um i i it this this seems to fit the bill so [mn] that's kind of nice 
+
+484.43 485.48 B: (( right )) 
+
+488.14 493.79 B: have you have you been to the um african restaurant ghana cafe there 
+
+492.50 496.62 A: i have yeah it's actually really good [laughter] 
+
+493.91 506.51 B: i love it i know i actually we went like when i i worked for this prisoners rights group there last summer and we went for the like the going away dinner [mn] it was really really good 
+
+504.62 505.95 A: ah right 
+
+506.14 513.14 A: that's yeah no th- they have um [lipsmack] i can't remember the soup they have there that i had it was so oh i can't remember but it was really good 
+
+511.34 512.30 B: yeah 
+
+512.69 522.97 B: and they have this ghanaian beer which comes in like forties [mn] so you you order one beer and you get this huge forty [mn] of beer there's like no choice 
+
+517.11 518.77 A: really [laughter] 
+
+520.25 528.37 A: [laughter] i don't think i've ever i i've never i've only been there once but i i never i didn't see that 'cause i had this 
+
+526.54 533.32 B: yeah well next like just order like whatever ghanaian beer comes in forties it's really good [laughter] 
+
+531.92 538.19 A: that's that's really funny actually i i think my friends would get a kick out of the fact that you get a forty when you order a beer [mn] 
+
+535.96 545.64 B: [laughter] they just like serve you the big and we were like a group of eight people so there was like eight forties [laughter] on the table it was really funny [mn] yeah it was 
+
+543.24 552.83 A: it sounds really great ah that's awesome [mn] um so i i don't know i mean i maybe we should take about pets more i don't know 
+
+550.01 550.89 B: (( funny [mn] )) 
+
+552.01 553.22 B: yeah okay 
+
+552.94 561.88 A: i feel like [mn] it's kind of there like maybe there is someone auditing and they're thinking like god what is these people are on so so many tangents this is ridiculous 
+
+553.27 554.84 B: um 
+
+557.17 559.13 B: [laughter] 
+
+561.02 564.90 B: i'm sure that someone's going to be listening to this whole thing which is kind 
+
+564.67 566.78 A: it's kind of a cool job actually 
+
+566.44 567.57 B: (( of ahah )) 
+
+566.82 581.24 A: 'cause it's supposed to be like strangers calling each other and then you have to kind of feel out the conversation and it's like it's definitely like an interesting like psychological dynamic that exists 'cause it's not like i looked you up and called you or vice versa you know like just got placed by a computer [mn] 
+
+570.28 571.47 B: (( right )) 
+
+574.61 575.49 B: right 
+
+575.50 576.67 B: yeah i can't 
+
+577.98 579.60 B: right right 
+
+580.83 594.07 B: yeah i can't tell if it's like in the psychology department or the like linguistics department or i j- i don't understand but i'm i'm really curious though [laughter] this is the second one i've done and [mn] i 
+
+589.53 590.58 A: huh 
+
+593.20 598.62 A: i have to tell you like my initial instinct when the phone range bef- like five minutes ago was that um 
+
+597.19 598.11 B: (( mm )) 
+
+598.65 599.89 A: (( it was like )) 
+

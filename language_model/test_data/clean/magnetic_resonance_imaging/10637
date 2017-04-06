@@ -1,0 +1,3 @@
+
+Segmentation and registration tools are commonly used in radiotherapy for target and at risk organs localisation. In this work the performances of three different segmentation tools and of a surface matching registration technique, used on computed tomography (CT) and magnetic resonance (MR) images for the treatment planning of conformal prostate carcinoma, are studied. The accuracy of the segmentation and registration tools was evaluated by phantom experiment and on patient data, respectively. A preliminary estimate of MR image distortion was also performed.
+

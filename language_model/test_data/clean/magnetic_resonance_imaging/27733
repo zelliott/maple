@@ -1,0 +1,9 @@
+
+To create a standardized, MRI-compatible, life-sized phantom of the brain ventricles to evaluate ventricle segmentation methods using T(1) -weighted MRI. An objective phantom is needed to test the many different segmentation programs currently used to measure ventricle volumes in patients with Alzheimer's disease.
+
+A ventricle model was constructed from polycarbonate using a digital mesh of the ventricles created from the 3 Tesla (T) MRI of a subject with Alzheimer's disease. The ventricle was placed in a brain mold and surrounded with material composed of 2% agar in water, 0.01% NaCl and 0.0375 mM gadopentetate dimeglumine to match the signal intensity properties of brain tissue in 3T T(1) -weighted MRI. The 3T T(1) -weighted images of the phantom were acquired and ventricle segmentation software was used to measure ventricle volume.
+
+The images acquired of the phantom successfully replicated in vivo signal intensity differences between the ventricle and surrounding tissue in T(1) -weighted images and were robust to segmentation. The ventricle volume was quantified to 99% accuracy at 1-mm voxel size.
+
+The phantom represents a simple, realistic and objective method to test the accuracy of lateral ventricle segmentation methods and we project it can be extended to other anatomical structures.
+

@@ -1,0 +1,5 @@
+
+We have previously reported an zzso for discovering patterns zzso in sets of related zzso protein zzso The zzso was implemented in a program called zzso Pratt allows the user to define a class of patterns zzso the degree of ambiguity allowed and the length and number of zzso and is then guaranteed to find the zzso patterns in this class scoring highest according to a defined fitness zzso In many cases, this version of Pratt was very efficient, but in other cases it was too time consuming to be zzso zzso a more efficient zzso was zzso 
+
+In this paper, we describe a new and improved searching strategy that has two main advantages over the old zzso First, it allows for easier integration with programs for multiple sequence alignment and data base zzso zzso it makes it possible to use zzso search, and zzso to speed up the zzso The new search strategy has been implemented in a new version of the Pratt zzso 
+

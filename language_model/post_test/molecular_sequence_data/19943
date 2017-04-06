@@ -1,0 +1,7 @@
+
+A tool that simultaneously zzso multiple protein zzso automatically zzso information about protein zzso and has a good compromise between speed and accuracy will have practical advantages over current zzso 
+
+We describe zzso a constraint based alignment tool that zzso a general framework for multiple alignment of protein zzso zzso finds a collection of zzso constraints derived from database searches, sequence similarity and user zzso combines these zzso constraints, and then incorporates them into a progressive multiple zzso We show that using constraints derived from the zzso domain database zzso and zzso zzso database improves zzso alignment zzso We also show that zzso has reasonable zzso performance and alignment accuracy comparable to or exceeding that of other tools for a broad range of zzso 
+
+zzso is included in the zzso zzso zzso A Linux zzso for zzso and zzso and zzso data used is available at: zzso 
+

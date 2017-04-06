@@ -8,7 +8,7 @@ for result_file in os.listdir('test_output'):
 	ppl_sum = 0.0
 	ctr = 0
 	for line in lines[1:]:
-		ppl_sum = ppl_sum + float(line.split(',')[4])
+		ppl_sum = ppl_sum + float(line.split(',')[5])
 		length_sum = length_sum + float(line.split(',')[2])
 		oovs_sum = oovs_sum + float(line.split(',')[1])
 		ctr = ctr + 1

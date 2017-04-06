@@ -1,0 +1,7 @@
+
+zzso bacterial promoters is an important step towards understanding gene zzso In this paper, we address the problem of predicting the location of promoters and their zzso start sites zzso in zzso zzso The accepted method for this problem is to use position weight zzso zzso which define zzso motifs at the zzso binding zzso However this method is known to result in large numbers of false positive zzso 
+
+Our approaches to zzso prediction are based upon an ensemble of support zzso machines zzso employing a zzso of the mismatch string zzso This zzso is subsequently combined with a zzso and a model based on distribution of distances from zzso to gene zzso We investigate the effect of different scoring techniques and zzso performance using area under a zzso zzso zzso When tested on a biologically realistic task, our method provides performance comparable with or superior to the best reported for this zzso False zzso are significantly reduced, an improvement of great significance to zzso 
+
+The trained zzso model with instructions on usage can be downloaded from zzso 
+

@@ -1,0 +1,7 @@
+
+zzso analysis has been widely applied for investigating structure in zzso zzso A drawback of most zzso zzso is that they cannot automatically detect the zzso number of clusters underlying the data, and in many cases we have no enough zzso zzso biological knowledge to evaluate both the number of clusters as well as their zzso Recently several methods based on the concept of stability have been proposed to estimate the zzso number of zzso but despite their successful application to the analysis of complex zzso data, the assessment of the statistical significance of the discovered zzso solutions and the detection of multiple structures simultaneously present in zzso zzso data are still major zzso 
+
+We propose a stability method based on zzso maps that exploits the zzso and relatively low zzso that characterize zzso data, by selecting zzso of zzso linear combinations of the input zzso and by using stability zzso based on the overall distribution of similarity measures between multiple pairs of zzso performed on the randomly projected zzso A zzso statistical test is proposed to assess the significance of the zzso solutions and to detect significant and if possible zzso structures simultaneously present in the data zzso zzso zzso 
+
+The experimental results show that our model order selection methods are competitive with other state-of-the-art stability based zzso and are able to detect multiple levels of structure underlying both synthetic and gene expression zzso 
+

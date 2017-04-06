@@ -1,0 +1,3 @@
+
+This paper develops a zzso interface for the control of a powered wheelchair using zzso zzso Our goal was to zzso a zzso zzso from the signals recorded from 4 zzso zzso Units placed on a zzso zzso We specified a Kalman filter measurement model that assumes the zzso angles, angular zzso and linear zzso of the shoulders are a zzso linear function of the position, zzso and acceleration of the virtual zzso This model learned a system that encodes zzso movement along with training zzso Experimental results show that taking advantage of the zzso of the signal improves performance during a zzso reaching zzso The resulting zzso provides a platform for people with zzso to communicate their intended motor actions with the environment using specialized zzso zzso 
+

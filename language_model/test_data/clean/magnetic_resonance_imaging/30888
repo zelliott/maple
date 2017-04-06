@@ -1,0 +1,9 @@
+
+The purpose of this article is to update the neurosurgical community on the expanding field of surgical robotics and to present the design of a novel neurosurgical prototype. It is intended to mimic standard technique and deploy conventional microsurgical tools. The intention is to ease its integration into the "nervous system" of both the traditional operating room and surgeon.
+
+To permit benefit from updated intraoperative imaging, magnetic resonance imaging-compatible materials were incorporated into the design. Advanced haptics, optics, and auditory communication with the surgical site recreate the sight, sound, and feel of neurosurgery.
+
+Magnification and advanced imaging have pushed surgeons to the limit of their dexterity and stamina. Robots, in contrast, are indefatigable and have superior spatial resolution and geometric accuracy. The use of tremor filters and motion scalers permits procedures requiring superior dexterity.
+
+Breadboard testing of the prototype components has shown spatial resolution of 30 microm, greatly exceeding our expectations. Neurosurgeons will not only be able to perform current procedures with a higher margin of safety but also must speculate on techniques that have hitherto not even been contemplated. This includes coupling the robot to intelligent tools that interrogate tissue before its manipulation and the potential of molecular imaging to transform neurosurgical research into surgical exploration of the cell, not the organ.
+

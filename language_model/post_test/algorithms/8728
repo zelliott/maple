@@ -1,0 +1,9 @@
+
+zzso tracked ultrasound imaging is an inexpensive zzso technique used in several guided zzso This technique requires spatial zzso between the tracker and the ultrasound image zzso Several zzso devices zzso zzso use zzso that are convenient for automatic procedures since the zzso of zzso in the images and the zzso of the middle wires in space are straightforward and can be performed in real zzso The procedures reported in literature consider only the spatial position of the middle zzso We investigate if better results can be achieved if the information of all the wires is equally taken into zzso We also evaluated the precision and accuracy of the implemented methods to allow comparison with other zzso 
+
+zzso consider a cost function based on the zzso errors between the intersection of all the wires with the image plane and their respective segmented points in the zzso This cost function is minimized zzso starting from a seed zzso with a zzso solution based on the middle zzso 
+
+zzso zzso precision achieved with the zzso phantom was about zzso using a shallow probe, and mean accuracy was around zzso with all implemented zzso Precision was about zzso using a deep zzso 
+
+zzso and accuracy achieved with the zzso phantom and a shallow probe are at least comparable to that obtained with other methods traditionally considered more zzso zzso using zzso can be done more consistently if the parameters are zzso with the proposed cost zzso 
+

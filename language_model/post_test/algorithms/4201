@@ -1,0 +1,11 @@
+
+zzso causality zzso is a statistical notion of causality zzso to time series data, zzso cause zzso and helps zzso zzso It is defined in both time and frequency zzso and allows for the conditioning out of common zzso zzso Originally developed in the context of zzso theory, it has since achieved broad application in the zzso and zzso zzso in the zzso zzso is based on zzso zzso zzso zzso 
+
+The zzso zzso zzso approach to zzso zzso is based on multiple equivalent representations of a zzso model by zzso zzso zzso zzso the zzso sequence and zzso the zzso spectral density of the underlying zzso It features a variety of zzso for moving between these zzso enabling selection of the most suitable zzso with regard to zzso efficiency and zzso zzso 
+
+In this paper we explain the theoretical basis, zzso strategy and application to empirical zzso zzso of the zzso zzso We also show via zzso simulations the advantages of our zzso over previous methods in terms of zzso accuracy and statistical zzso 
+
+The standard method of computing zzso involves zzso of parameters for both a full and a zzso zzso zzso zzso The zzso approach, by contrast, avoids explicit zzso of the reduced model, thus eliminating a source of zzso error and improving statistical power, and in addition zzso fast and accurate zzso of the zzso awkward case of conditional zzso in the frequency zzso 
+
+The zzso zzso zzso a flexible, powerful and efficient approach to zzso zzso 
+

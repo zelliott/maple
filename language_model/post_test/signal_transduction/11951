@@ -1,0 +1,7 @@
+
+zzso models are nowadays widely used to describe zzso reaction zzso One of the main reasons for this is that models facilitate the integration of a multitude of different data and data types using zzso zzso zzso models allow for a holistic understanding of biological zzso However, due to measurement noise and the limited amount of data, uncertainties in the model parameters should be considered when conclusions are drawn from estimated model zzso such as reaction zzso or transient dynamics of biological zzso 
+
+We developed the visual zzso system zzso that supports zzso analysis of zzso and dynamic attributes of zzso reaction networks modeled by ordinary differential zzso The zzso graph of the network is zzso as a zzso zzso and statistics of the attributes are mapped to the color of zzso and links of the zzso In addition, the graph view is linked with several views, such as line zzso scatter zzso and correlation zzso to support locating uncertainties and the analysis of their time zzso As demonstration, we use zzso to zzso analyze the dynamics of a model for zzso zzso zzso 
+
+Our case study showed that zzso can be used to perform an in-depth study of zzso reaction networks, including attribute zzso correlations between these attributes and their uncertainties as well as the attribute zzso In particular, the linking of different zzso options turned out to be highly beneficial for the complex analysis tasks that come with the biological systems as presented zzso 
+

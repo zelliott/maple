@@ -1,0 +1,9 @@
+
+β-amyloid (Aβ) plaques in brain's grey matter (GM) are one of the pathological hallmarks of Alzheimer's disease (AD), and can be imaged in vivo using Positron Emission Tomography (PET) with (11)C or (18)F radiotracers. Estimating Aβ burden in cortical GM has been shown to improve diagnosis and monitoring of AD. However, lacking structural information in PET images requires such assessments to be performed with anatomical MRI scans, which may not be available at different clinical settings or being contraindicated for particular reasons. This study aimed to develop an MR-less Aβ imaging quantification method that requires only PET images for reliable Aβ burden estimations.
+
+The proposed method has been developed using a multi-atlas based approach on (11)C-PiB scans from 143 subjects (75 PiB+ and 68 PiB- subjects) in AIBL study. A subset of 20 subjects (PET and MRI) were used as atlases: 1) MRI images were co-registered with tissue segmentation; 2) 3D surface at the GM-WM interfacing was extracted and registered to a canonical space; 3) Mean PiB retention within GM was estimated and mapped to the surface. For other participants, each atlas PET image (and surface) was registered to the subject's PET image for PiB estimation within GM. The results are combined by subject-specific atlas selection and Bayesian fusion to generate estimated surface values.
+
+All PiB+ subjects (N = 75) were highly correlated between the MR-dependent and the PET-only methods with Intraclass Correlation (ICC) of 0.94, and an average relative difference error of 13% (or 0.23 SUVR) per surface vertex. All PiB- subjects (N = 68) revealed visually akin patterns with a relative difference error of 16% (or 0.19 SUVR) per surface vertex.
+
+The demonstrated accuracy suggests that the proposed method could be an effective clinical inspection tool for Aβ imaging scans when MRI images are unavailable.
+

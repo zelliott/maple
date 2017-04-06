@@ -1,0 +1,7 @@
+
+zzso domain zzso is an important step in functional zzso for next-generation sequencing zzso For zzso data of zzso organisms that lack quality or complete reference zzso existing protein domain analysis pipelines are applied to short reads directly or to zzso that are generated using de zzso sequence assembly zzso However, these strategies do not provide satisfactory performance in zzso short reads into their native domain zzso 
+
+We introduce zzso a protein domain zzso tool based on profile hidden zzso models and graph zzso zzso carefully incorporates the characteristics of reads that are zzso from the domain regions and assembles them into zzso based on a supervised graph construction zzso We applied zzso to two zzso zzso of different read lengths and zzso its performance using the available protein domain zzso and the reference zzso Compared with existing strategies, zzso showed better sensitivity and zzso In the third experiment, we applied zzso to a zzso zzso The experimental results demonstrated that it identified more transcribed protein domain families than other tested zzso 
+
+The source code and supplementary data are available at zzso 
+

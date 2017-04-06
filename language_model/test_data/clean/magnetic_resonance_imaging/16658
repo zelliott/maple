@@ -1,0 +1,3 @@
+
+Recent advances in high field magnetic resonance technology have increased the interest in the phase of the complex data. Processed phase images are derived from the phase signal by removing the bias field and phase wraps from the initial data. However, the usefulness of this data has been hindered by artifacts at the brain/non-brain surface, particularly in cortical regions. A method is proposed that efficiently removes surface artifacts by performing Gaussian filtering with spatially varying parameters of unwrapped or complex filtered phase images. The proposed method is shown to produce improved images, revealing underlying structure and detail that are otherwise obscured by surface artifacts in images produced by traditional phase processing methods.
+

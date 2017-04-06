@@ -1,0 +1,7 @@
+
+zzso the effects of base zzso is a powerful tool for functional and evolutionary analyses of zzso zzso To date, only a few methods have been developed for systematically computing the zzso changes of zzso secondary structures in response to base zzso 
+
+We have developed zzso for computing the changes of the ensemble free energy, mean energy and the zzso zzso of zzso secondary structures for exhaustive patterns of single and double zzso The zzso complexities are zzso (where N is sequence length and W is zzso base pair zzso for single zzso and zzso for double zzso with large constant zzso We show that the changes are relatively insensitive to zzso composition and the zzso span zzso The mean free energy changes are bounded zzso zzso and depend only zzso on position if sequence lengths are sufficiently zzso For zzso zzso the most stabilizing zzso come from the change of the zzso base of the zzso zzso We also show that most of the base changes in the zzso stem destabilize the structures, indicating that the zzso sequence in the zzso stem is highly zzso for secondary structure zzso We investigate the 22 zzso genes in the human zzso zzso and show that zzso zzso tend to cause smaller changes in zzso variables than generic zzso suggesting that a zzso which largely increases zzso variables has higher possibility to be a zzso or lethal zzso 
+
+The zzso source code of the zzso software is available at zzso 
+

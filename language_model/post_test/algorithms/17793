@@ -1,0 +1,7 @@
+
+zzso metrics were recently reviewed by the authors, but have not until now been object of a comparative zzso This paper compares the zzso accuracy of word composition metrics zzso zzso It also presents a new distance definition between protein zzso the zzso which bridges between alignment zzso such as scores produced by the zzso algorithm, and methods based solely in zzso zzso such as zzso distance and Information zzso 
+
+The comparative study reported here used the zzso protein structure zzso database and zzso the zzso value of alternative sequence zzso measures by calculating areas under the zzso zzso zzso zzso Although alignment methods resulted in very good zzso accuracy at family and zzso levels, zzso zzso in particular Standard zzso zzso are as good as alignment zzso when sequence similarity is smaller, such as for recognition of fold or class zzso This observation justifies its advantageous use to zzso zzso proteins since word statistics techniques are zzso much faster than the alignment zzso 
+
+All zzso code used to generate the data is available upon request to the zzso Additional material available at zzso 
+

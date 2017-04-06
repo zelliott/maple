@@ -1,0 +1,9 @@
+
+Significant cortical thinning and neural resource allocation changes emerge during adolescence; however, little is known of how morphometric changes influence neural response to cognitive demands. This study used a novel multimodal imaging registration technique to examine the relationship between brain structure and function during adolescence.
+
+156 healthy 12-14 year-olds (44% female) participants underwent structural and functional magnetic resonance imaging. Cortical surface reconstruction was performed via FreeSurfer, and neural activation was measured from a blood oxygen level dependent (BOLD) contrast during visual working memory (VWM) via AFNI. AFNI Surface Mapper aligned segmented volumetric and functional datasets to a common template space. Hierarchical linear regressions determined the effect of cortical thickness on VWM BOLD contrast in brain regions that activated during the VWM task, controlling for age, pubertal development, gender, IQ, and intracranial volume.
+
+Power analyses suggest this study was able to detect small effect sizes. However, in no region was cortical thickness related to BOLD activation (ps>.01; R(2)Δ<.02). Gender did not moderate effects.
+
+Cortical thickness, although variable across individuals, was not related to BOLD response, suggesting that structural and functional maturation do not have the same developmental trajectory during early adolescence. These findings are important, as imaging studies that report group differences in regards to cortical thickness should not necessarily assume co-occurring behavioral or functional changes. The methodology used in this study could be of interest to other developmental neuroimaging researchers using multimodal imaging to understand adolescent brain development.
+

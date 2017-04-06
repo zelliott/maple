@@ -1,0 +1,9 @@
+
+The authors appraised the accuracy of a method for brain volume measurement from magnetic resonance images and evaluated the effects of the acquisition matrix, slice thickness, and tissue sampling on the measurement error.
+
+The method uses two magnetic resonance imaging sequences to account explicitly for partial volume effects. The accuracy was measured with one-, two-, and three-compartmental phantoms that mimic the relaxation properties of brain tissues. The sensitivity of the method to section thickness was measured by repeated scans of human brain.
+
+Using a strongly T2-weighted sequence and two-compartmental phantoms, the average error was 5%, with 3% error for phantoms larger than 90 mL. In the three-compartmental phantoms the error varied from 2% to 7%. Varying the section thickness from 5 to 10 mm on three-compartmental phantoms and from 2.5 to 10 mm in the human brain did not significantly affect compartmental volumes.
+
+The experimental study validates the feasibility of monitoring localized volume changes in a three-compartmental model.
+

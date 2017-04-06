@@ -1,0 +1,7 @@
+
+zzso is a zzso software package for comparing a query sequence to a database of known zzso in this study, we focus on protein zzso zzso zzso zzso zzso searches a protein sequence database, using the matches in round i to construct a zzso score zzso zzso for searching the database in round i + zzso zzso and zzso developed zzso zzso zzso which combines information from searching the sequence database with information derived from a library of short protein profiles to achieve better zzso detection than zzso which builds its zzso from zzso 
+
+We describe a new method, called domain enhanced zzso time accelerated zzso zzso which searches a database of zzso zzso before searching a zzso database, to yield better zzso zzso For its zzso zzso employs a subset of zzso zzso zzso Database zzso On a test set derived from zzso with one round of searching, zzso achieves a zzso of zzso zzso zzso for zzso The performance advantage diminishes in zzso searches, but zzso continues to achieve better zzso scores than zzso 
+
+zzso is a useful program for the detection of remote protein zzso It is available under the zzso zzso link at zzso 
+

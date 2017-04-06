@@ -1,0 +1,482 @@
+# fe_03_00187.sph
+# Transcribed at the LDC
+
+59.15 61.56 B: also i have to think about the weather 
+
+59.19 60.35 A: also i have to 
+
+60.57 61.52 A: about the weather 
+
+62.09 66.24 B: so um it's really hard to say but i think if 
+
+62.86 63.81 A: so um 
+
+64.28 66.19 A: it's really hard to say but i think if 
+
+66.42 66.99 B: you 
+
+66.58 67.00 A: (( )) 
+
+67.47 71.20 B: if i have to come up with a answer i would say that eh 
+
+67.69 67.98 A: (( )) 
+
+71.64 77.95 B: christmas break is my favorite holiday because it's the longest one i can get and also 
+
+71.74 73.31 A: christmas break is my 
+
+73.56 74.88 A: favorite holiday because 
+
+75.12 76.11 A: the longest one 
+
+78.30 79.17 B: and also it 
+
+78.73 79.13 A: so 
+
+80.30 81.36 A: also it's a 
+
+82.99 84.28 A: it's a very nice time 
+
+84.44 86.23 A: you know to travel to other 
+
+86.45 87.28 B: other places 
+
+86.49 87.29 A: other places 
+
+87.45 91.40 B: and also it's very nice time to gather together with 
+
+87.63 88.30 A: and also 
+
+88.55 89.95 A: it's very nice time to 
+
+90.39 91.35 A: gather together 
+
+91.51 93.46 B: with friends and uh family members 
+
+91.86 93.29 A: friends and uh family members 
+
+94.34 98.80 A: um yeah that's i mean i like christmas too um 
+
+99.55 106.40 A: but i guess you know um i probably like the uh mid autumn festival 
+
+103.01 103.52 B: (( )) 
+
+106.66 108.79 B: oh really you know that 
+
+106.68 109.55 A: oh really you know that yeah mid autumn 
+
+108.90 111.75 B: mid autumn festival you do celebrate mid autumn 
+
+109.68 110.14 A: (( )) 
+
+110.57 111.10 A: celebrate 
+
+112.20 112.79 A: yeah 
+
+113.29 116.95 B: because where where where is your where do you come from actually i'm 
+
+113.61 118.18 A: because where where where is your where do you come from actually i i come from china 
+
+117.83 118.14 B: (( )) 
+
+118.34 119.38 B: oh really 
+
+118.54 120.75 A: oh really yeah oh i'm a chinese 
+
+119.60 126.03 B: oh i'm a chinese i didn't realize that i thought that you are and american 
+
+120.89 125.38 A: chinese i didn't realize that i thought that you are and american 
+
+125.82 129.67 A: no um i i am chinese i guess you are chinese 
+
+126.44 127.15 B: (( )) 
+
+127.42 127.95 B: (( )) 
+
+129.79 132.97 A: too right okay great what what 
+
+129.93 132.89 B: i i'm a chinese yeah 
+
+133.15 134.11 A: what do you study 
+
+134.58 140.46 B: um i'm i'm studying natural language processing it's a sub-field in linguistics it's kind of mixture 
+
+134.60 137.12 A: um i'm i'm studying natural language process- 
+
+137.37 139.79 A: it's a sub-field in linguistics it's kind of mi- 
+
+139.93 140.28 A: -ture 
+
+140.82 141.53 A: oh 
+
+140.84 146.15 B: amass infor- information and linguistics and also so 
+
+142.38 144.53 A: -formation and linguistics and also 
+
+145.25 145.86 A: (( )) 
+
+146.27 147.17 B: it's a mixture 
+
+146.30 149.04 A: well that's that's quite interesting um 
+
+148.64 149.38 B: yeah 
+
+149.14 149.72 A: yeah 
+
+150.11 159.48 B: yeah actually actually mid mid autumn festival is also my favorite becau- the the only reason i didn't didn't mention that is because i think we do not really have 
+
+150.14 151.11 A: yeah actually ac- 
+
+151.83 154.19 A: autumn festival is also my favorite be- 
+
+154.96 155.85 A: the only reason i did- 
+
+156.67 157.02 A: (( )) 
+
+157.63 158.17 A: (( )) 
+
+158.34 159.43 A: (( )) 
+
+159.83 162.64 B: have you know location for mid autumn here 
+
+159.98 162.68 A: have you know location for mid autumn here 
+
+162.88 165.87 B: in this country (( )) holiday 
+
+163.01 163.79 A: yeah 
+
+163.92 167.67 A: yeah i guess in china we don't we don't even have um 
+
+173.30 173.81 B: yeah 
+
+176.14 177.22 B: yeah it's their holiday 
+
+177.66 178.47 B: but we in ch- 
+
+178.59 179.75 B: yeah 
+
+179.19 185.77 A: yeah and and i like i like the i like the weather in the fall because all the leaves of the trees 
+
+179.91 180.70 B: in china but 
+
+180.97 181.42 B: yeah 
+
+182.85 183.19 B: (( )) 
+
+186.61 193.68 A: you know are so colorful um neither too hot nor too cold um yeah i i really like it 
+
+186.65 187.22 B: yeah 
+
+188.79 189.52 B: right 
+
+193.20 195.86 B: what part yeah what part of china do you come from 
+
+194.12 194.61 A: what part of 
+
+194.71 197.62 A: china do you come from i i came from (( guo bay )) 
+
+197.94 206.64 B: oh i came from a- actually i had been living in beijing for many years before i came here but i originally i came from fu jo the city of (( fu jo )) 
+
+207.01 207.93 A: (( fu jo )) 
+
+208.10 209.12 B: yeah so 
+
+208.15 209.37 A: oh really 
+
+209.65 210.18 B: yeah it's 
+
+209.68 210.30 A: oh 
+
+210.48 213.39 B: it's very (( )) 
+
+210.53 214.48 A: wow i uh i 
+
+214.82 222.51 A: same for me too i actually lived in beijing i mean i went to study in college in beijing and then i worked 
+
+221.75 223.64 B: oh really which which university 
+
+223.15 224.77 A: beijing foreign studies 
+
+224.90 225.63 A: university 
+
+225.73 229.03 B: oh okay that's very i i came from beijing normal university 
+
+229.40 232.13 A: oh okay what did you study there 
+
+232.53 235.85 B: um my major used to be chinese as a foreign language 
+
+236.47 238.86 A: ah i see well that's yeah 
+
+239.44 242.20 A: well my my university has that uh 
+
+239.68 240.23 B: (( )) 
+
+242.82 243.34 A: uh s- 
+
+244.42 247.49 A: school too some of the uh professors 
+
+248.06 249.63 A: also teach foreigners 
+
+250.51 251.99 A: uh (( )) chinese 
+
+250.77 251.52 B: yeah right 
+
+252.29 257.10 A: and also there are some chinese who are the students i mean the students um 
+
+257.47 261.04 A: were also studying your field and trying to 
+
+261.53 265.61 A: uh teach foreigners how to speak chinese i guess uh probably that 
+
+265.13 273.85 B: yeah that's that yeah that's a very very new major actually we did not have that kind of major it's just like another version of toefl 
+
+273.12 277.37 A: yeah yeah e- exactly yeah i think i guess so i guess it's 
+
+277.75 278.43 A: quite new 
+
+279.25 280.59 A: yeah 
+
+285.68 288.27 B: if we are not talking about the specific topic 
+
+288.53 289.88 B: holiday 
+
+289.46 298.73 A: uh w- the question also asked uh if if we want to create a holiday what will be right 
+
+299.08 300.00 B: create 
+
+300.19 305.23 A: oh i mean a- as far as i understand you know the question asked about 
+
+305.85 306.32 B: yeah 
+
+305.85 309.77 A: you know what's what's your favorite holiday and if 
+
+315.63 316.11 B: yeah 
+
+317.63 321.64 A: know like i mean there are already so many holidays i don't really want to 
+
+321.73 322.57 A: create another one 
+
+322.88 323.47 A: but i mean 
+
+324.26 329.55 A: yeah i guess i i don't really have an answer for the second question i- is that your understanding 
+
+329.67 331.48 B: um 
+
+330.44 331.24 A: or what do you 
+
+331.68 333.18 A: i know they asked two question 
+
+333.69 334.55 B: yeah and 
+
+335.06 336.02 A: what's the second que- 
+
+335.19 335.91 B: and also i 
+
+336.19 345.79 B: i think that the third question is if you if you are supposed to come up with idea how to celebrate a holiday there what would you do 
+
+336.22 339.73 A: i think that the third question is if you if you are 
+
+340.31 343.62 A: (( )) 
+
+343.73 344.83 A: (( )) 
+
+345.56 348.44 A: oh okay 
+
+346.79 350.74 B: help you celebrate a holiday 
+
+348.55 354.38 A: how to celebrate a holiday uh 
+
+350.90 351.35 B: i think 
+
+352.55 354.96 B: i think of a very chinese way is to just 
+
+355.19 357.39 B: gather together and eat 
+
+355.29 356.13 A: gather together 
+
+362.57 366.45 A: uh for family members to get together also for friends 
+
+362.69 363.04 B: yeah 
+
+367.06 367.60 B: right 
+
+367.17 368.15 A: but right now i 
+
+367.98 368.39 B: fine 
+
+370.20 370.64 A: delicious 
+
+370.75 371.76 A: food to eat 
+
+370.98 371.72 B: and uh ki- 
+
+372.00 373.18 B: chat together 
+
+372.11 376.28 A: yeah yeah it's (( )) 
+
+373.70 376.59 B: talking about families careers and job huntings 
+
+376.75 379.80 B: and rela- relationships also 
+
+376.79 378.23 A: and rela- relationships 
+
+378.42 385.50 A: also yeah so i think it's i think the chinese way of celebrating holidays is a good one 
+
+385.87 386.55 A: although i 
+
+386.08 386.85 B: right 
+
+386.67 387.18 A: do 
+
+387.65 390.71 A: i do think the traditional uh 
+
+391.16 392.53 A: way to celebrate this 
+
+392.62 396.14 A: spring festival is a little bit uh excessive i mean 
+
+396.55 397.06 B: right 
+
+396.57 398.21 A: right like you know 
+
+399.42 401.53 A: you know there's a holiday like in 
+
+401.68 402.81 A: nobody does every- 
+
+402.96 403.51 A: anything 
+
+404.90 406.78 A: sit around and you know go 
+
+407.19 409.13 A: from friends and relatives 
+
+407.35 407.94 B: right 
+
+409.36 410.59 A: house to another 
+
+410.04 410.60 B: yeah 
+
+411.14 420.40 A: uh just to eat uh it's not quite healthy you know what i mean it's like you you just eat too much and so but i i c- go ahead 
+
+414.99 416.51 B: right 
+
+418.95 419.27 B: i think 
+
+419.61 420.15 B: yeah 
+
+420.61 432.50 B: sorry nowadays i think uh er things situations have have have changed in china also nowadays people are la- they per- prefer to go traveling during the long break 
+
+431.36 435.03 A: yeah yeah i've noticed i've noticed these ladies 
+
+435.90 436.53 A: oh 
+
+436.13 438.99 B: when did you when did you actually come to u._s. 
+
+439.33 440.51 A: nineteen ninety six 
+
+441.25 444.09 B: oh that's much earlier 
+
+442.37 442.86 A: earlier 
+
+443.38 444.37 A: when did you come 
+
+444.65 446.07 B: i just last year 
+
+444.67 451.29 A: oh just last year so you're still quite uh yeah fresh do you like do you like here 
+
+446.21 447.05 B: last august 
+
+451.58 457.21 B: i like i like at least i like my university very much ann arbor have you ever been here 
+
+451.81 452.23 A: i like 
+
+452.45 452.94 A: i like 
+
+453.06 454.15 A: at least i like my 
+
+463.24 463.65 A: always 
+
+463.82 465.19 A: stayed on the east coast 
+
+464.02 465.99 B: wait wait what what what which university 
+
+465.46 467.22 A: columbia university 
+
+466.21 466.56 B: i did 
+
+467.50 469.72 B: okay that's good 
+
+467.53 468.37 A: okay 
+
+468.59 469.16 A: that's good yeah 
+
+470.08 472.12 A: (( )) 
+
+470.11 472.11 B: so you are not a student anymore right 
+
+472.22 475.64 A: well i graduated i i i've got a master's degree 
+
+475.91 476.68 A: from uh 
+
+475.91 476.70 B: okay 
+
+476.84 477.36 A: yeah 
+
+477.69 480.86 A: columbia (( )) about three years ago but now i'm working 
+
+482.82 485.45 B: oh re- really wow that's great 
+
+482.92 484.37 A: oh here really until now 
+
+484.92 485.25 A: great 
+
+487.12 491.30 A: what d- what do you want to uh do after graduation 
+
+489.15 489.82 B: after 
+
+491.41 493.63 A: do you want to go back or do you want to stay here 
+
+491.59 492.46 B: um 
+
+493.93 494.59 B: um 
+
+493.96 494.32 A: um 
+
+494.33 500.67 B: it's hard to say because it's i have to i i don't i i don't i wouldn't say i definitely 
+
+500.68 507.67 B: will stay here or definitely i will go back it all depends on you know the situation when i graduate 
+
+508.89 509.42 B: so 
+
+509.65 512.41 B: i think going back is not a it's not a bad it's 
+
+512.20 514.82 B: it's not a bad choice nowadays i think 
+
+512.56 513.46 A: not a bad choice 
+
+513.57 514.12 B: nowadays 
+
+515.00 519.91 B: and you've got many chances in china no matter what you are doing so 
+
+518.84 522.01 A: i agree i agree yeah there are a lot of opportunities 
+
+523.76 524.77 B: right 
+
+525.54 526.35 B: so 
+
+527.89 539.76 B: my field is kind of mixture so i might choose to be a faculty members in that sense i i think i would rather stay here to be a faculty member and if i choose to go into industry then 
+
+539.99 541.18 B: i i think you know 
+
+541.34 543.14 B: anywhere huh uh i really 
+
+543.23 545.40 B: mind 
+
+544.22 554.95 A: how do you how does your family uh usually celebrate ho- holidays like the spring festival mhm 
+
+545.61 546.40 B: so 
+
+552.50 553.34 B: um 
+
+553.52 555.16 B: holiday um 
+
+556.07 562.28 B: um just like like um most chinese are doing we 
+
+562.55 563.38 B: we you know 

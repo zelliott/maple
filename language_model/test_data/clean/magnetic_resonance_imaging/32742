@@ -1,0 +1,9 @@
+
+The accuracy of tumor plasma volume and K(trans) estimates obtained with DCE MR imaging may have inaccuracies introduced by a poor estimation of the VIF. In this study, we evaluated the diagnostic accuracy of a novel technique by using a phase-derived VIF and "bookend" T1 measurements in the preoperative grading of patients with suspected gliomas.
+
+This prospective study included 46 patients with a new pathologically confirmed diagnosis of glioma. Both magnitude and phase images were acquired during DCE MR imaging for estimates of K(trans)_φ and V(p_)φ (calculated from a phase-derived VIF and bookend T1 measurements) as well as K(trans)_SI and V(p_)SI (calculated from a magnitude-derived VIF without T1 measurements).
+
+Median K(trans)_φ values were 0.0041 minutes(-1) (95 CI, 0.00062-0.033), 0.031 minutes(-1) (0.011-0.150), and 0.088 minutes(-1) (0.069-0.110) for grade II, III, and IV gliomas, respectively (P ≤ .05 for each). Median V(p_)φ values were 0.64 mL/100 g (0.06-1.40), 0.98 mL/100 g (0.34-2.20), and 2.16 mL/100 g (1.8-3.1) with P = .15 between grade II and III gliomas and P = .015 between grade III and IV gliomas. In differentiating low-grade from high-grade gliomas, AUCs for K(trans)_φ, V(p_φ), K(trans)_SI, and V(p_)SI were 0.87 (0.73-1), 0.84 (0.69-0.98), 0.81 (0.59-1), and 0.84 (0.66-0.91). The differences between the AUCs were not statistically significant.
+
+K(trans)_φ and V(p_)φ are parameters that can help in differentiating low-grade from high-grade gliomas.
+

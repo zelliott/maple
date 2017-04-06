@@ -1,0 +1,3 @@
+
+The simultaneous multislice technique is a method of imaging multiple parallel slices with the number of echoes normally used to image a single slice. Images of 16 slices have been obtained from a single 128-echo acquisition. The distance between the slices can be decreased to approximately 15% of the field of view in the readout direction with the cost of significant image blurring. The image blurring is negligible when the distance between the slices approaches the field of view in the readout direction. The trade-offs are described, and equations and images are presented.
+

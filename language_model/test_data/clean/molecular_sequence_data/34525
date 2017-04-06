@@ -1,0 +1,3 @@
+
+Improvements were made on a simplified protein model--the Ramachandran model-to achieve better computer simulation of protein folding. To check the validity of such improvements, we chose the ultrafast folding protein Engrailed Homeodomain as an example and explored several aspects of its folding. The engrailed homeodomain is a mainly alpha-helical protein of 61 residues from Drosophila melanogaster. We found that the simplified model of Engrailed Homeodomain can fold into a global minimum state with a tertiary structure in good agreement with its native structure.
+

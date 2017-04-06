@@ -1,0 +1,9 @@
+
+The National Cancer Institute zzso Research Network zzso is a collaborative research network whose goal is to share data, zzso and research tools to accelerate quantitative imaging zzso A challenge is the zzso in tools and analysis platforms used in quantitative zzso Our goal was to understand the extent of this variation and to develop an approach to enable sharing data and to promote zzso of quantitative imaging data in the zzso 
+
+We performed a survey of the current tools in use by the zzso member sites for representation and storage of their zzso research data including images, image zzso and clinical zzso We identified existing systems and standards for data sharing and their gaps for the zzso use zzso We then proposed a system architecture to enable data sharing and collaborative zzso within the zzso 
+
+There are a variety of tools currently used by each zzso zzso We developed a general information system architecture to support the zzso zzso We also describe the remaining architecture gaps we are developing to enable members to share research images and image zzso across the zzso 
+
+As a research network, the zzso will stimulate quantitative imaging research by pooling data, zzso and research zzso However, there are gaps in current functional requirements that will need to be met by future zzso zzso Special attention must be given to the technical requirements needed to translate these methods into the clinical research zzso to enable validation and zzso of these novel imaging zzso 
+

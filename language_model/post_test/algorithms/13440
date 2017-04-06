@@ -1,0 +1,7 @@
+
+During the past years, next-generation sequencing has become a key technology for many applications in the biomedical zzso zzso continues to increase and new protocols provide longer reads than currently zzso In almost all applications, read mapping is a first zzso zzso it is crucial to have zzso and zzso that perform fast, with high sensitivity, and are able to deal with long reads and a large absolute number of insertions and zzso 
+
+zzso is a read mapping program with adjustable sensitivity based on counting zzso In this work, we propose the successor zzso 3, which now supports zzso zzso an additional zzso filter with adjustable sensitivity, a much faster, banded version of the zzso zzso zzso for zzso zzso measures and support for the SAM output zzso This leads to a much improved performance for mapping reads, in particular, long reads with many zzso We extensively compare zzso 3 with other popular read zzso and show that its results are often superior to them in terms of sensitivity while exhibiting practical and often competitive run zzso In addition, zzso 3 works without a zzso zzso 
+
+zzso code and zzso are freely available for download at zzso zzso 3 is implemented in zzso and zzso under a zzso license using the zzso library and supports zzso Mac zzso X and zzso 
+

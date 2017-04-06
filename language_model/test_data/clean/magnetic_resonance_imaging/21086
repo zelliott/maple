@@ -1,0 +1,9 @@
+
+To describe the use of a statistical tool (Principal Component Analysis - PCA) for the recognition of patterns and compression, applying these concepts to digital images used in Medicine.
+
+The description of Principal Component Analysis is made by means of the explanation of eigenvalues and eigenvectors of a matrix. This concept is presented on a digital image collected in the clinical routine of a hospital, based on the functional aspects of a matrix. The analysis of potential for recovery of the original image was made in terms of the rate of compression obtained.
+
+The compressed medical images maintain the principal characteristics until approximately one-fourth of their original size, highlighting the use of Principal Component Analysis as a tool for image compression. Secondarily, the parameter obtained may reflect the complexity and potentially, the texture of the original image.
+
+The quantity of principal components used in the compression influences the recovery of the original image from the final (compacted) image.
+

@@ -1,0 +1,7 @@
+
+Prior to cluster analysis or genetic network analysis it is customary to zzso or remove genes considered to be irrelevant from the set of genes to be zzso Often genes whose variation across samples is less than an arbitrary threshold value are zzso This can improve zzso and reduce zzso 
+
+This paper introduces modular models for representing network structure in order to study the relative effects of different filtering zzso We show that cluster analysis and principal components are strongly affected by zzso zzso methods intended specifically for cluster and network analysis are introduced and compared by simulating modular networks with known statistical zzso To study more realistic situations, we analyze simulated zzso data based on zzso zzso coli and zzso zzso regulatory zzso 
+
+The methods introduced apply very generally, to any similarity zzso describing gene zzso One of the proposed methods, zzso performed well for all models zzso 
+

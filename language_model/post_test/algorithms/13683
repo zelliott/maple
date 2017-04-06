@@ -1,0 +1,9 @@
+
+zzso learning zzso researchers have often relied on zzso techniques when zzso zzso zzso Although these were originally introduced to deal with zzso problems it is rare to find studies that evaluate the zzso of zzso image zzso zzso In addition, to avoid the effects of the zzso of zzso very often dimension reduction is applied to the zzso 
+
+zzso structural zzso data from cognitively normal and Alzheimer's disease zzso patients from the zzso zzso Initiative database were used in this zzso We evaluated here the zzso of this zzso problem across different dimensions and sample sizes and its relationship to the performance of zzso zzso zzso zzso linear support zzso machine zzso and linear zzso zzso zzso In addition, these methods were compared with their principal components space zzso 
+
+In zzso space the prediction performance of all methods increased as sample sizes zzso They were not only relatively robust to the increase of dimension, but they often showed improvements in zzso We linked this behavior to improvements in conditioning of the linear kernels zzso In general the zzso and zzso performed zzso Surprisingly, the zzso was often very competitive when the linear kernel zzso were best zzso Finally, when comparing these methods in zzso and principal component spaces, we did not find large differences in prediction zzso 
+
+We analyzed the problem of zzso zzso zzso images from the perspective of linear zzso zzso We demonstrate zzso the impact of the linear kernel zzso conditioning on different zzso zzso This dependence is characterized across sample sizes and zzso In this context we also show that increased zzso does not necessarily degrade performance of machine learning zzso In general, this depends on the nature of the problem and the type of machine learning zzso 
+

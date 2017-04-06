@@ -1,0 +1,9 @@
+
+zzso experiments are now routinely used to collect large-scale time series data, for example to monitor gene expression during the cell zzso zzso analysis of this data poses many challenges, one being that it is hard to identify correctly the subset of genes with a clear periodic zzso This has lead to a controversial argument with regard to the suitability of both available methods and current zzso zzso 
+
+We introduce two simple but efficient statistical methods for signal detection and gene selection in gene expression time series zzso First, we suggest the average zzso as an exploratory device for zzso assessment of the presence of periodic transcripts in the zzso Second, we describe an exact statistical test to identify periodically expressed genes that allows one to distinguish periodic from purely random zzso This identification method is based on the so-called zzso and uses the false discovery rate approach to multiple zzso 
+
+Using simulated data it is shown that the suggested method is capable of identifying zzso genes in a gene expression data set even if the number of the zzso genes is very small and regardless the presence of a dominant zzso component in the zzso zzso we re-examine 12 large zzso time series data sets (in part zzso zzso from zzso human zzso human zzso and bacterial zzso Based on the statistical analysis it is found that a majority of these data sets contained little or no statistical significant evidence for genes with periodic variation linked to cell cycle zzso On the other hand, for the remaining data the method extends the catalog of previously known zzso transcripts by identifying additional periodic genes not found by other zzso The problem of distinguishing zzso due to generic cell cycle activity and to artifacts from synchronization is also zzso 
+
+The approach has been implemented in the R package zzso available from zzso under the terms of the zzso General Public zzso 
+

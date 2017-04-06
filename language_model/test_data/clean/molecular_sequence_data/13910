@@ -1,0 +1,9 @@
+
+The method described here enables the proton dissociation constants of several amino acid residues of a peptide to be determined simultaneously in aqueous solution without prior knowledge of the exact concentration of the peptide.
+
+The method used here employs a non-linear fitting program, the BEST program, or a linear least-squares method in combination with the BEST program. These methods are discussed in detail with an emphasis on the quality of the potentiometric titration data that are obtained. Two representative peptides, one with two proton dissociation constants (Ka1, Ka2) and the other with four proton dissociation constants (Ka1-Ka4) were used to illustrate the advantages and the limitations of these two complementary methods.
+
+The pKa values of TVL, a schizophrenia-related tripeptide, were found to be 3.62 (+/- 0.02) and 7.17 (+/- 0.05); the pKa values of ELTLQE, a hexapeptide, were found to be 2.32, 3.77, 4.58 and 7.74.
+
+The methods reported here are generally applicable to a variety of peptides. The possibility of integrating these procedures into a preparative chromatographic system for the "on-line" assessment of the pKa values of peptides during the purification stage is an attractive and novel feature of this method.
+

@@ -1,0 +1,3 @@
+
+Analysis of familial diseases with variable age of onset is a common problem in human zzso Most existing methods make some zzso zzso assumption on age of zzso and few methods have been designed with the goal of testing the hypothesis of a zzso gene against other hypotheses of familial zzso We introduce the Cox model with major genetic and random familial effects to model zzso dependence patterns among family members and to incorporate family zzso This model allows testing for and zzso major gene effects in the presence of residual zzso zzso maximum likelihood zzso using a zzso Carlo zzso zzso is used for zzso zzso The methods are illustrated by a simulated data set and a data set from a zzso family study of breast zzso 
+

@@ -1,0 +1,3 @@
+
+This paper deals with the use of fuzzy logic and dynamic programming in the detection of cardiac contours in MR Images. The definition of two parameters for each pixel allows the construction of the fuzzy set of the cardiac contour points. The first parameter takes into account the grey level, and the second the presence of an edge. A corresponding fuzzy matrix is derived from the initial image. Finally, a dynamic programming with graph searching is performed on this fuzzy matrix. The method has been tested on several MR images and the results of the contouring were validated by an expert in the domain. This preliminary work clearly demonstrates the interest of this method, although a formal evaluation has to be done.
+

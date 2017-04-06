@@ -1,0 +1,9 @@
+
+Development and evaluation of a realistic hybrid head phantom for the validation of quantitative CT brain perfusion methods.
+
+A combination, or hybrid, of CT images of an anthropomorphic head phantom together with clinically acquired MRI brain images was used to construct a dynamic hybrid head phantom. Essential CT imaging parameters such as spatially dependent noise, effects of resolution, tube settings, and reconstruction parameters were intrinsically included by scanning a skull phantom using CT perfusion (CTP) protocols with varying mAs. These data were combined with processed high resolution 7T clinical MRI images to include healthy and diseased brain parenchyma, as well as the cerebral vascular system. Time attenuation curves emulating contrast bolus passage based on perfusion as observed in clinical studies were added. Using the phantom, CTP images were generated using three brain perfusion calculation methods: bcSVD, sSVD, and fit-based deconvolution, and the linearity and accuracy of the three calculation methods was assessed. Dependency of perfusion outcome on calculation method was compared to clinical data. Furthermore, the potential of the phantom to optimize brain perfusion packages was investigated.
+
+All perfusion calculation methods showed overestimation of low perfusion values and underestimation of high perfusion values. Good correlation in behavior between phantom and clinical data was found (R2 = 0.84).
+
+A dynamic hybrid head phantom constructed from CT and MRI data was demonstrated to realistically represent clinical CTP studies, which is useful for assessing CT brain perfusion acquisition, reconstruction, and analysis.
+

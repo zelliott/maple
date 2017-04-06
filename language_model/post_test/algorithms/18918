@@ -1,0 +1,7 @@
+
+zzso zzso followed by zzso to a zzso zzso zzso zzso is a routinely used protocol for zzso the zzso targets of zzso zzso The resolution to which binding sites in this zzso can be identified is commonly considered to be limited by two factors: zzso the resolution at which the zzso targets are tiled in the zzso and zzso the large and variable lengths of the zzso DNA zzso 
+
+We have developed a zzso model of binding sites in zzso data and an approach, zzso for efficiently and robustly learning that model from diverse data zzso We have evaluated zzso performance using simulated data, as well as on several diverse zzso data sets collected on widely different zzso array platforms for two different organisms zzso zzso and zzso zzso zzso We find that zzso accurately predicts binding locations to a resolution greater than that of the probe zzso even for overlapping peaks, and can increase the effective resolution of zzso array data by a factor of zzso or zzso Moreover, the zzso performance on simulated data provides insights into effectively zzso the experimental design for increased binding site zzso accuracy and zzso 
+
+zzso is available as an zzso R package, including all data, from zzso 
+

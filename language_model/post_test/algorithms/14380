@@ -1,0 +1,7 @@
+
+An important problem that arises in hospitals is the monitoring and detection of zzso or hospital acquired infections zzso This paper describes a retrospective analysis of a prevalence survey of zzso done in the Geneva University zzso Our goal is to identify patients with one or more zzso on the basis of clinical and other data collected during the zzso 
+
+Standard surveillance strategies are time-consuming and cannot be applied zzso alternative methods are zzso In zzso detection viewed as a zzso task, the main difficulty resides in the significant imbalance between positive or infected zzso and negative zzso zzso To remedy class zzso we explore two distinct zzso zzso a new zzso approach in which both zzso of rare zzso and zzso of the zzso majority rely on synthetic cases zzso generated via zzso zzso and zzso a support zzso zzso in which zzso margins are tuned to improve recognition of rare positive zzso 
+
+zzso have shown both approaches to be effective for the zzso detection zzso Our novel zzso strategies perform remarkably better than classical random zzso However, they are outperformed by zzso soft margin support zzso machines which attained a sensitivity rate of zzso significantly better than the highest sensitivity zzso obtained via zzso zzso 
+

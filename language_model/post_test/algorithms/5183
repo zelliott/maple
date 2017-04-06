@@ -1,0 +1,7 @@
+
+Data integration is currently one of the main challenges in the biomedical zzso Often different pieces of information are gathered on the same set of entities zzso zzso culture samples, zzso with the different pieces zzso for example, from different measurement zzso This implies that more and more data appear that consist of two or more data zzso that have a shared zzso An zzso analysis of such coupled data should be based on a simultaneous analysis of all data zzso In this respect, the family of simultaneous component methods zzso zzso unrestricted zzso zzso zzso and zzso is a natural zzso Yet, different simultaneous component methods may lead to quite different zzso 
+
+We offer a structured overview of simultaneous component methods that frames them in a principal components setting such that both the common core of the methods and the specific elements with regard to which they differ are zzso An overview of principles is given that may guide the data analyst in choosing an appropriate simultaneous component zzso Several theoretical and practical issues are illustrated with an empirical example on zzso data for zzso coli as obtained with different zzso chemical measurement zzso 
+
+Of the aspects in which the simultaneous component methods zzso zzso and weighting are zzso zzso the type of weighting of the different zzso is essential for simultaneous component zzso These types are shown to be linked to different specifications of the idea of a fair integration of the different coupled zzso 
+

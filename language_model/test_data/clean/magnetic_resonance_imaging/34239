@@ -1,0 +1,3 @@
+
+A multiple gradient echo, high resolution imaging method is proposed to better visualize different sources of activation in functional magnetic resonance imaging (fMRI) experiments. Eight echoes are collected from 30 ms to 205 ms with an echo spacing of 25 ms. All echoes show significant activation, but each echo reveals its own pattern of activation. From this variability, it appears that large vessel contributions can be separated from small vessel contributions using a fuzzy cluster analysis across echo times. The results demonstrate the importance of a multiple gradient echo data acquisition approach in localizing various vascular contributions to brain activation in fMRI.
+

@@ -1,0 +1,481 @@
+# fe_03_01879.sph
+# Transcribed by BBN/WordWave
+
+0.42 1.56 A: hello 
+
+1.14 2.53 B: (( hello )) 
+
+2.10 3.47 A: hi i'm zoe 
+
+3.37 5.64 B: zoe my name is jack 
+
+3.92 4.76 A: yes 
+
+5.41 6.69 A: hi how are you 
+
+6.42 8.06 B: (( okay zoe oh )) 
+
+7.74 10.09 A: so what does the word family mean to you 
+
+11.17 14.48 B: i have mixed feelings about it 
+
+14.82 15.81 A: yeah 
+
+16.20 17.80 B: what's it mean to you 
+
+18.30 19.55 A: um 
+
+19.86 24.28 A: well i i tend to believe that a family is a group of people who 
+
+24.40 30.43 A: um you know call themselves that that it can be pretty much self defined that it's a group of people who live and 
+
+31.13 37.23 A: live together usually but not always and that um you know feel very very tied to each other 
+
+37.67 44.40 A: whether it's parents and children or siblings or adopted family members i think it's pretty it can be pretty open 
+
+44.91 48.28 A: in my opinion my experience is it has been pretty you 
+
+48.61 49.93 A: know sort of 
+
+50.01 52.29 A: normal family but um 
+
+52.69 55.48 A: i i feel like you know it can be open 
+
+55.97 60.08 A: open to what to what works for for folks in the world 
+
+60.20 61.36 A: what do you think 
+
+62.62 68.73 B: ah family is ties to certain people 
+
+68.20 69.19 A: mhm 
+
+69.43 70.82 B: (( basically it )) 
+
+70.57 72.22 A: what kind of people do you think 
+
+73.11 75.92 B: would be like your mother or father 
+
+73.18 74.63 A: like you say certain 
+
+74.99 75.82 A: (( ahah )) 
+
+76.85 78.59 B: or um 
+
+79.82 83.74 B: what and and relatives of them 
+
+83.17 83.97 A: (( ahah )) 
+
+84.39 86.13 B: grandparents 
+
+87.33 90.99 B: ah uncles and 
+
+91.92 94.51 B: ah in laws 
+
+93.96 94.77 A: (( ahah )) 
+
+96.35 98.36 B: that's all family 
+
+97.80 98.63 A: right 
+
+99.61 102.24 B: (( and um so i think )) 
+
+101.62 102.56 A: mhm 
+
+103.95 105.42 A: what about um 
+
+105.45 110.27 A: what do you think about families who adopt children do you think that those children 
+
+110.29 113.95 A: that their family is their adopted family or their original birth family 
+
+114.19 117.01 B: i think it's their adopted family 
+
+116.36 117.39 A: mhm 
+
+117.64 119.09 A: why do you think that 
+
+117.81 120.18 B: because they're the ones they're living with 
+
+119.63 122.15 A: yeah so families like 
+
+122.94 127.27 B: whereas they got their genes and everything from their 
+
+127.41 130.79 B: original mother and father 
+
+130.21 131.04 A: right 
+
+133.76 135.38 A: so in that case it's like ha- 
+
+134.48 139.02 B: and then when they find those roots sometimes they find out what makes 'em tick 
+
+138.69 139.56 A: right 
+
+139.83 143.79 B: and they should be able to do that at some time 
+
+143.01 143.96 A: yeah 
+
+144.94 147.14 B: that's the way you feel about 'em 
+
+146.57 148.79 A: well sometimes i wonder 'cause there's certain 
+
+149.07 156.22 A: you know certain adoptions happen because the mother is in some kind of danger or whatever and it's not always um 
+
+157.19 163.77 A: you know it's not always safe for for the mother to be able to make herself known to the children if i were adopted i would absolutely want to be able to find out 
+
+164.01 170.17 A: um you know just the basic information if not be able to meet my birth parents but just at least know 
+
+170.40 173.27 A: you know what was going on in their lives 
+
+170.96 171.90 B: yeah 
+
+174.06 175.13 A: um 
+
+176.02 179.64 A: and i think in an ideal world everyone will be able to find out 
+
+179.97 182.82 B: well they're passing laws to make it easier 
+
+182.22 183.22 A: mhm 
+
+184.22 186.65 B: my wife does 
+
+187.25 188.86 B: um 
+
+190.15 192.76 B: adopted birth birth 
+
+192.90 195.87 B: mother and father searches 
+
+195.33 196.44 A: oh she does 
+
+196.80 199.50 B: she does that on the side as a hobby 
+
+198.90 199.80 A: uh-huh 
+
+200.12 205.17 B: and if anybody ever gets a hold of her she can find 'em for 'em and she does that for nothing 
+
+204.63 205.63 A: (( wow )) 
+
+205.87 208.92 B: but not too many people would get a hold of her 
+
+208.38 209.23 A: right 
+
+209.50 214.19 B: and when they do they don't want to do the things they are supposed to do to find them 
+
+214.06 215.56 A: what what like what 
+
+215.35 218.13 B: well they have to find their birth certificates 
+
+217.52 218.76 A: yeah 
+
+219.57 224.36 B: find different things that only they can do she can't look up their birth certificates 
+
+223.80 230.88 A: right right right so that takes a lot of work on that person's part they can't just hand off the job to somebody else 
+
+228.73 229.58 B: (( what )) 
+
+231.45 234.09 A: they can't just hand off that job to somebody else 
+
+233.91 239.01 B: right they have to do some of the work but she can find the names of the people and all 
+
+235.62 236.53 A: right 
+
+238.45 239.27 A: right 
+
+239.09 243.37 B: and pretty well locate who the mother is and who the father is 
+
+242.79 243.58 A: (( ahah )) 
+
+244.14 246.22 B: or at least who the mother is 
+
+245.64 246.37 A: (( ahah )) 
+
+247.20 251.12 B: and ah if they want to contact 'em they can 
+
+250.65 251.48 A: right 
+
+251.63 255.81 B: she can't put 'em in touch with them they have to call themselves 
+
+255.32 258.08 A: right so she can get the get the information for them 
+
+258.02 260.80 B: (( yeah and if they don't want to call well )) 
+
+261.99 263.08 B: at least they 
+
+263.99 265.82 B: know who it is 
+
+265.21 266.24 A: yeah 
+
+266.37 270.79 B: if they want to call them she found the birth mother of 
+
+267.43 268.50 A: right 
+
+271.04 272.86 B: a friend of ours 
+
+273.30 275.95 B: who was curious about it one day 
+
+275.42 276.26 A: (( ahah )) 
+
+276.65 278.08 B: and ah 
+
+278.93 282.67 B: never has gotten the nerve up in three years to get in touch with her 
+
+282.03 284.77 A: right so people just want the information but they don't 
+
+285.08 286.96 A: they don't necessarily want to find out 
+
+286.88 288.03 B: they don't want 
+
+287.78 290.68 A: yeah that's true that would be scary can you imagine 
+
+288.80 289.97 B: (( to know )) 
+
+290.52 291.53 B: yeah 
+
+290.95 295.07 A: never knowing and then how much it would change your concept of like who you are and 
+
+295.08 296.80 A: and all that kind of stuff 
+
+296.58 298.10 B: what's you're ah 
+
+298.49 303.26 B: what type of person they are and and their history and stuff 
+
+300.03 300.99 A: right 
+
+302.67 303.56 A: right 
+
+303.63 304.65 A: that's right 
+
+305.03 308.49 B: whether they are college graduates or 
+
+307.70 310.21 A: yeah yeah 
+
+308.53 309.62 B: (( anything )) 
+
+311.19 314.30 A: yep i guess a lot of times when adopted people are 
+
+314.45 319.83 A: you know doing really well in their lives they don't necessarily want to know if if they've overcome some kind of 
+
+319.89 320.95 B: (( handicap )) 
+
+320.75 325.91 A: yeah handicap that their family has you know their birth parents had that you know they don't even know about 
+
+325.98 327.44 B: (( that's right )) 
+
+327.12 328.19 A: yeah 
+
+328.66 329.46 A: yep 
+
+330.15 332.08 A: what what do you think about um 
+
+332.25 334.16 A: lesbian and gay families 
+
+333.97 336.36 B: [mn] i don't believe in them 
+
+335.65 336.56 A: uh-huh 
+
+337.58 341.07 A: so you don't believe that they should be married or they should have children or 
+
+340.87 343.77 B: i don't think they should be married or have children 
+
+343.18 344.63 A: mhm why is that 
+
+344.89 346.20 B: why is that 
+
+345.50 346.42 A: mhm 
+
+347.11 351.31 B: because ah it's not a natural thing 
+
+350.72 351.61 A: uh-huh 
+
+352.54 354.76 B: how can two men have a child how 
+
+354.62 357.35 A: well they obviously can't but they could adopt 
+
+356.50 358.26 B: (( can two women have a child )) 
+
+357.74 358.65 A: yeah 
+
+359.00 362.85 B: and what kind of mo- moral atmosphere would they be living in 
+
+362.12 363.15 A: mhm 
+
+364.01 366.65 B: would they be prone to be gay too 
+
+366.21 367.15 A: mhm 
+
+367.54 370.57 B: maybe that isn't their natural instinct even 
+
+370.13 371.04 A: uh-huh 
+
+371.22 373.30 B: maybe it will be pushed on them 
+
+372.74 373.64 A: maybe 
+
+375.22 389.45 A: yeah i think some people would argue that lots of people whose natural insti- instincts are to be gay or lesbian have you know heterosexuality pushed on them because of the way the society works so it could it could work either way i suppose 
+
+387.15 388.02 B: mhm 
+
+390.73 391.65 A: yeah 
+
+391.35 392.72 B: (( i don't )) 
+
+392.14 393.02 A: yeah 
+
+394.61 395.79 A: (( yeah yeah well i )) 
+
+394.92 397.41 B: (( know i have to )) 
+
+399.39 400.36 A: what's that 
+
+402.09 405.58 B: that's probably part of upbringing i guess 
+
+405.12 406.90 A: mhm it can be 
+
+407.11 408.26 B: yeah 
+
+407.67 408.59 A: yeah 
+
+409.55 410.46 A: yeah 
+
+410.59 411.92 A: (( i was a )) 
+
+412.43 414.30 A: i taught preschool for a while 
+
+415.05 416.26 A: (( and ah )) 
+
+415.44 416.70 B: a school teacher 
+
+416.57 421.43 A: i i'm i'm an art teacher right now mhm but for for a while i was teaching preschool 
+
+418.14 419.60 B: (( oh you're an art teacher )) 
+
+421.09 422.35 B: preschool yeah 
+
+421.65 430.18 A: yeah and um the school that i was teaching at had a couple of children whose families um who 
+
+430.58 434.28 A: actually both in both cases the child was the 
+
+434.58 445.72 A: um daughter of a woman who had a woman partner so these these children had two moms essentially and in both cases the father was a donor 
+
+440.36 441.31 B: oh 
+
+442.46 443.36 B: oh 
+
+445.84 446.80 B: yeah 
+
+446.22 452.64 A: so you know their their the the mother carried the child and then the other mother was the partner 
+
+452.80 453.73 B: yeah 
+
+453.11 463.83 A: and they were a very loving family i was really impressed to see how well they um they worked and ah and and that both both families were very 
+
+463.88 473.08 A: very worked very hard to have their children have you know male men role models in their lives you know there wasn't a father in the family that they would 
+
+472.01 474.98 B: that's pretty hard to do without a father in the family 
+
+474.16 475.24 A: what's that 
+
+475.10 477.66 B: that's pretty hard to do without a father 
+
+477.04 480.16 A: well they would make sure that they would have you know the fr- the male 
+
+480.24 487.26 A: friends of of the mothers would you know come over and hang out and do things with the family um 
+
+487.42 489.34 A: so that there would you know that 
+
+489.40 490.92 A: their daughters would 
+
+489.69 491.26 B: (( men like us )) 
+
+490.93 495.50 A: have have you know have men around in their lives even though there wasn't a father what's that 
+
+492.18 494.63 B: (( sponsors what do they call them )) 
+
+494.79 498.41 B: what do they call 'em ah sponsors or 
+
+499.02 503.43 B: what do they call people that mo- ah 
+
+503.58 505.89 B: role models for children 
+
+506.27 509.46 B: they teach them with their homework and stuff 
+
+508.88 510.04 A: um 
+
+510.92 512.37 A: (( um )) 
+
+512.80 514.24 A: um mentors 
+
+514.04 516.26 B: mentors yeah 
+
+514.52 515.67 A: (( yeah )) 
+
+515.78 516.65 A: yeah 
+
+516.81 519.97 B: there's mentors and they help too 
+
+519.40 521.07 A: that's true that's true 
+
+521.25 526.77 A: yeah there's a lot i mean there's a lot of resources out there for families who don't you know i mean even single mothers 
+
+527.57 533.13 A: you know if a father has passed away or through the divorce or whatever the situation is or if they were never married you know 
+
+532.87 534.09 B: yeah 
+
+533.50 534.48 A: um 
+
+534.82 538.19 A: that's that's an issue even if you know even if you don't agree with 
+
+538.30 539.84 A: um you know 
+
+539.87 541.11 A: lesbians 
+
+541.19 542.52 A: couples being 
+
+542.58 550.94 A: parents that you you know even if a single mother has a child you still have to think about having those positive influences in a child's life so 
+
+550.39 551.65 B: right 
+
+550.95 551.95 A: yeah 
+
+553.09 553.86 A: yeah 
+
+555.29 556.83 A: are you close with your family 
+
+557.63 558.80 B: um 
+
+559.47 561.98 B: i recently went through a kidney 
+
+562.03 564.24 B: problem kidney failure 
+
+562.69 563.69 A: oh goodness 
+
+563.94 564.78 A: (( ahah )) 
+
+565.72 573.25 B: and i learned a lot about my birth family from that there's i have there was nine children in our family 
+
+569.00 569.83 A: (( ahah )) 
+
+572.76 574.08 A: (( wow yeah )) 
+
+574.30 577.52 B: and two mothers a mother and a father 
+
+576.91 577.68 A: (( ahah )) 
+
+578.09 581.34 B: (( and an uncle and all kinds of children )) 
+
+581.04 581.97 A: yeah 
+
+582.50 587.78 B: and not one person was willing to even consider giving me a kidney 
+
+587.46 589.23 A: oh my goodness wow 
+
+589.90 592.47 B: and i have fallen out from them 
+
+591.88 594.14 A: yeah that would do it i guess 
+
+593.33 596.75 B: that really ah showed me their interest in me 
+
+596.05 597.15 A: that's right 
+
+597.37 599.43 B: but my wife gave me a kidney 
+
+599.46 599.89 A: (( oh that's )) 
+

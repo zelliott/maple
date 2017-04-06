@@ -1,0 +1,5 @@
+
+To provide data management tools to maintain and query efficiently experimental and derived protein data with the goal of providing new insights into zzso zzso The tools should be portable, zzso and accessible locally, or via the World Wide Web, providing data that would not otherwise be zzso 
+
+The initial phase of the work, the data representation and query of all available zzso structure data, including real-time access to complex property patterns based on the zzso acid zzso is zzso protein structure data taken from the zzso Data Bank zzso are zzso into native and derived elementary properties, and represented as compact zzso objects minimizing storage requirements and query time for select types of zzso In addition, collections of zzso representing a particular property are maintained and can be zzso for specific property patterns found across the whole zzso The approach is proving zzso to a wide variety of data available on specific protein zzso 
+

@@ -1,0 +1,3 @@
+
+The temporal clustering analysis (TCA) is a novel and effective technique for obtaining brain activation maps when the timing and location of the activation are completely unknown. Performing the TCA method once can only detect the largest peak of the activation time windows well, if multiple response peaks at the same location of the brain occur. However, this limitation can be removed by using a TCA method in an iterative way in order for the smaller peaks to be detected. Our in vivo fMRI experiments with event-related visual tasks have demonstrated this ability.
+

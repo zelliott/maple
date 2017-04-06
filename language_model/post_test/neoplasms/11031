@@ -1,0 +1,9 @@
+
+zzso tests are available to predict breast cancer recurrence and to guide clinical decision zzso These zzso provide recurrence risk scores along with a measure of uncertainty, usually a confidence zzso The confidence zzso conveys random error and not systematic zzso Standard tumor sampling methods make this problematic, as it is common to have a substantial proportion (typically zzso of a tumor sample comprised of zzso benign zzso This zzso tissue could represent a source of zzso error or systematic bias in zzso zzso 
+
+To assess the performance characteristics of zzso zzso to systematic error from normal contamination, we collected 55 tumor samples and paired zzso normal zzso Using zzso signatures from the tumor and paired normal, we evaluated how increasing normal contamination altered recurrence risk scores for various zzso zzso 
+
+zzso of normal tissue contamination caused zzso of tumors in all zzso zzso but different breast cancer zzso showed different types of vulnerability to normal tissue zzso While two zzso had unpredictable direction of bias zzso higher or lower risk of zzso resulted from normal zzso one signature showed predictable direction of normal tissue zzso Due to this predictable direction of effect, this signature (the zzso was adjusted for normal tissue contamination and these corrections improved sensitivity and negative zzso zzso For all three zzso quality control standards and/or appropriate bias adjustment strategies can be used to improve zzso zzso 
+
+zzso tissue sampled zzso with tumor is an important source of bias in breast zzso zzso All zzso zzso show some sensitivity to normal tissue contamination and ideal strategies for zzso this bias vary depending upon the particular genes and zzso methods used in the zzso 
+

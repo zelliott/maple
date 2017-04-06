@@ -1,0 +1,9 @@
+
+The aim of this study was to retrospectively evaluate the ability of dynamic, contrast-enhanced magnetic resonance imaging (DCE-MRI) to differentiate between ductal carcinoma in situ (DCIS) and mastopathy by analyzing their signal intensities (SIs).
+
+After the pre-contrast MRI was performed using a 1.5-T MRI system, DCE-MRI was performed four times following intravenous administration of contrast medium. We set the volumes of interest (VOIs) on the tumor and normal mammary gland and obtained the SIs in these VOIs. We calculated the entropy (EPY) in the pre-contrast (EPY0) and four post-contrast scans (EPY1, EPY2, EPY3, and EPY4 for the first, second, third and fourth scans, respectively) using the volume histogram method, and the wash-in (WR(in)) and washout rates (WR(out)) according to the Breast-Imaging Reporting and Data System developed by the American College of Radiology. We also calculated the early slope (Slope(early)) from the pre- and post-contrast SIs in the tumor and normal gland. We evaluated the usefulness of the above parameters for differentiating between DCIS and mastopathy using the area under the receiver operating characteristic curve (Az).
+
+There were significant differences in EPY2 (P=.009), EPY3 (P=.017), EPY4 (P=.034), WR(in) (P=.036), WR(out) (P=.019), and Slope(early) (P=.002) between DCIS and mastopathy. The average Az values were 0.67, 0.52, 0.64, 0.63, 0.67 and 0.70 for EPY2, EPY3, EPY4, WR(in), WR(out) and Slope(early), respectively.
+
+We evaluated the usefulness of various parameters calculated from SIs obtained by DCE-MRI for differentiating between DCIS and mastopathy. Our results suggested that Slope(early) is more useful than EPYs, WR(in) and WR(out).
+

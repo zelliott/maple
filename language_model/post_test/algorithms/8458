@@ -1,0 +1,9 @@
+
+The object of this study was to investigate the feasibility of generating a bone surface from data provided by an ultrasound examination and to match this surface with the previous zzso zzso zzso zzso 
+
+From a CT data set of a training model of the zzso a three-dimensional surface was extracted by global zzso zzso The same model was placed in a water zzso and ultrasound images were taken with a guided ultrasound zzso The three-dimensional surface was generated from the ultrasound data set, and the two surfaces were matched in a semiautomatic zzso 
+
+With special zzso methods, a surface could be extracted automatically from the CT and the ultrasound data zzso From these segmented ultrasound zzso a volume data set of the model was zzso After approximate initial matching, the local matching process was completed zzso 
+
+One of the limitations in zzso surgery is the complicated matching zzso Using special zzso a surface was extracted from the data set of an ultrasound examination and matched in a semiautomatic mode with the surface of a CT data set, zzso the matching zzso 
+

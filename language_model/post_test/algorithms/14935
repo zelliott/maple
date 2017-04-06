@@ -1,0 +1,3 @@
+
+This paper presents a model to predict the convergence quality of genetic zzso based on the size of the zzso The model is based on an zzso between selection in zzso and one-dimensional random zzso Using the solution to a classic random walk zzso zzso zzso model naturally incorporates previous knowledge about the initial supply of building blocks zzso and correct selection of the best zzso over its desired quality of the solution, as well as the problem size and zzso The accuracy of the model is verified with experiments using zzso zzso functions of varying zzso The paper demonstrates how to adjust the model to account for noise present in the fitness evaluation and for different tournament zzso 
+

@@ -1,0 +1,3 @@
+
+We present a clustering approach to segment the renal artery from 2D PC Cine MR images to measure arterial blood velocity and flow. Such information is important in grading renal artery stenosis and to support the decision on surgical interventions like percutaneous transluminal angioplasty. Results from 20 data sets (3 volunteers, 7 patients) show that the renal arteries could be extracted automatically and the corresponding velocity profiles were close (r = 0.977) to that obtained by manual delineations of the vessel areas.
+

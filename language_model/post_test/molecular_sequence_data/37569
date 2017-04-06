@@ -1,0 +1,3 @@
+
+An approach to modeling zzso protein folding based on artificial neural networks zzso is zzso This approach, that can be regarded as an inverse protein folding problem, investigates whether and when a protein zzso needs a specific zzso in the center of its primary structure as a necessary condition to fold as zzso To perform this analysis, an ANN has been trained on a set of 55 zzso searching for a relation between protein fragments modeled by zzso zzso angles and the zzso corresponding to the central alpha zzso angle of the zzso The results obtained show that only zzso zzso zzso zzso and Val zzso are often a necessary, even though not zzso condition to obtain a specific folded zzso structure, playing therefore, the role of zzso zzso of this zzso 
+

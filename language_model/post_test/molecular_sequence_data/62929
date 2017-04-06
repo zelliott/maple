@@ -1,0 +1,7 @@
+
+zzso of protein sequences is widely used for the functional characterization of zzso However, it is still not easy to cluster zzso zzso which have only regional similarity among their zzso It is therefore necessary to develop an zzso for zzso such zzso zzso 
+
+We have developed a time and space efficient zzso zzso It uses a graph representation where its zzso and edges zzso proteins and their sequence similarities above a certain zzso score, zzso It repeatedly partitions the graph by removing edges that have small zzso which zzso to low sequence zzso To find the appropriate zzso we introduce a score combining the zzso cut and a locally minimal cut zzso Our method is applied to the entire zzso human proteins in zzso and zzso The resulting clusters shows a zzso recall zzso zzso of the zzso classified by zzso It also finds relationships not found by other zzso zzso 
+
+The complete result of our zzso for all the human proteins in zzso and zzso and other supplementary information are available at zzso 
+

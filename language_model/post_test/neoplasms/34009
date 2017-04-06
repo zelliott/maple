@@ -1,0 +1,7 @@
+
+zzso data appear particularly useful to investigate mechanisms in cancer biology and represent one of the most powerful tools to uncover the genetic mechanisms causing loss of cell cycle zzso Recently, several different methods to employ zzso data as a diagnostic tool in cancer zzso have been zzso These procedures take changes in the expression of particular genes into account but do not consider disruptions in certain gene interactions caused by the zzso It is probable that some genes participating in tumor development do not change their expression level zzso Thus, they cannot be detected by simple zzso approaches used zzso For these reasons, a zzso procedure exploiting information related to changes in gene interactions is zzso 
+
+We propose a zzso zzso Linear zzso zzso method for the zzso of tumor samples based on zzso zzso This procedure detects groups of genes and zzso models zzso that strongly correlate with particular tumor zzso The detected features include genes whose functional relations are changed for particular cancer zzso The proposed method was tested on two publicly available zzso and demonstrated a prediction ability superior to previously employed zzso zzso 
+
+The zzso system was developed using the linear programming system zzso zzso A zzso script that specifies the zzso problem for this software is available upon request from the zzso 
+

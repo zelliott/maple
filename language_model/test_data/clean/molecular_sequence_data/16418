@@ -1,0 +1,9 @@
+
+We needed to sort expressed sequence tags (ESTs) from human cardiac expression libraries.
+
+We annotated DNA sequence text files of 35,152 cardiac ESTs using our search and annotation tool called Multiblast.pl. We generated lists of the most prevalent ESTs in each library, and using a novel Venn tool, we grouped ESTs that were common to all or exclusive to particular libraries.
+
+Hypothetical protein KIAA0553 was expressed 120 times among 917 ESTs from an adult cardiac library (13.1%) compared only once among 8075 ESTs from fetal cardiac libraries (P < 10(-114)), this was confirmed using Northern analysis. We collated biochemical features of KIAA0553 and determined DNA polymorphism frequencies. We also used the Venn tool to specify genes that were uniquely expressed in hypertrophic cardiomyocytes.
+
+Annotating ESTs and sorting them using Venn analysis can help specify new candidate disease genes from the current lists of "hypothetical proteins".
+

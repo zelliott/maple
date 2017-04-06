@@ -1,0 +1,453 @@
+# fe_03_00291.sph
+# Transcribed by BBN/WordWave
+
+0.37 1.60 B: hello 
+
+1.00 2.14 A: hello 
+
+1.69 3.07 B: hi my name's john 
+
+2.76 4.44 A: hi m- my name's mike 
+
+4.01 5.40 B: hi nice to meet ya 
+
+4.95 7.73 A: yeah w. where you calling from 
+
+5.65 6.41 B: uh 
+
+7.15 9.80 B: new york city yeah yourself 
+
+8.04 9.02 A: (( oh yeah )) 
+
+9.38 14.58 A: um down near philadelphia ah near valley fort sort of out in the suburbs 
+
+14.05 20.93 B: oh okay everybody i've talked to seems to be from that neighborhood i guess there's a lot of peop- you you affiliated with ah u. penn 
+
+20.84 28.65 A: no i actually but that would be ah that would be appropriate since u. penn's down there but ah no i work for unisys ah i 
+
+21.34 22.15 B: oh 
+
+27.59 28.67 B: oh okay 
+
+28.84 30.64 A: don't know if you've heard of them before 
+
+30.21 34.44 B: the computer company yeah how'd you get involved with this oh 
+
+31.34 32.27 A: yeah 
+
+33.79 40.20 A: well we do speech recognition here um i'm in their communications ah group and um 
+
+35.87 37.03 B: (( uh )) 
+
+40.24 42.23 A: they ah they built 
+
+42.63 56.87 A: um mainframe based telephone answering systems for telephone companies and you know so part of that these days is speech recognition so yeah we got hooked up with ah with the um 
+
+48.56 49.64 B: (( huh )) 
+
+57.41 58.37 A: (( um with )) 
+
+58.40 70.09 A: linguistic ah consortium l._d._c. ah you know in in getting um for ah you know for testing speech recognition engines and stuff like that 
+
+60.20 61.56 B: the l._d._c. 
+
+69.51 70.48 B: neat 
+
+70.17 72.74 A: so now we're making 'em [laughter] that's cool 
+
+71.52 73.61 B: so you're making what 
+
+73.08 76.19 A: well what now you and i are creating that database 
+
+74.48 83.01 B: oh exactly oh so you guys are creating the stuff that allows me to say i want the number for joe's pizzeria 
+
+76.23 77.37 A: yeah that's cool 
+
+83.06 85.38 B: and a computer can listen to that 
+
+84.83 87.33 A: right or if you if you ah 
+
+87.44 92.71 A: logon to american airlines i think they have ah a voice based um 
+
+92.97 96.15 A: system for getting information on flights 
+
+96.03 97.23 B: on the web 
+
+97.39 98.86 A: oh no not on the web 
+
+98.02 100.77 B: oh just if you call right so 
+
+99.65 102.90 A: yeah if you call in it's all phone based stuff 
+
+102.51 104.75 B: and i say i want to go to chicago 
+
+104.37 106.77 A: right yeah 
+
+104.89 106.00 B: oh cool 
+
+106.08 110.69 B: oh that's neat i i hadn't ever thought of there being an overlap between 
+
+111.15 114.39 B: ah the linguistic people and the computer people but of course there are 
+
+113.99 116.68 A: oh yeah in fact microsoft has a ah 
+
+116.78 124.56 A: has a speech based browser for you can you can download a plug in to your browser and you can write um 
+
+125.00 132.44 A: you can write x._m._l. that has speech recognition ah tags in it so you know once you have this 
+
+130.17 131.19 B: wow 
+
+132.59 144.52 A: e- free plug in for your browser it loads a speech recognition engine and a um text to speech engine on your on your p._c. which you can see in your ah you know you configure it in your um 
+
+134.83 135.74 B: (( uh huh )) 
+
+140.54 141.50 B: (( uh huh )) 
+
+144.56 146.11 A: [mn] ah control panel 
+
+146.35 149.88 A: and it loads a ah it installs a um 
+
+149.92 150.80 A: (( ah )) 
+
+150.83 163.17 A: a whatever you need to recognize these new speech recognition tags where you know it'll be a voice x._m._l. tag instead of displaying something in a certain font it says here say this to the user and it comes out over your speakers and then you say now 
+
+162.98 165.65 A: let the user say one of these things and then 
+
+165.43 179.16 A: when you say that if you have a microphone that goes to your sound card and tries to listen to the microphone you know if it hears you say one of those things it'll trigger that then then you go display on a web page or you know go go do some function 
+
+167.47 168.14 B: (( [noise] )) 
+
+177.29 179.25 B: that's really cool 
+
+179.01 180.49 A: so it's neat 
+
+180.24 185.11 B: how far a- away are we from an era without keyboards 
+
+184.93 188.36 A: i think we'll always have keyboards yeah yeah 
+
+185.22 187.04 B: i mean we'll always have them but 
+
+187.31 191.05 B: but in terms of we won't really need them as much 
+
+191.14 192.27 B: (( ah )) 
+
+192.38 197.47 A: well well um i think where it's really going to take off is is in um the handheld devices 
+
+197.22 198.34 B: oh right 
+
+197.52 200.01 A: where it's really a nuisance to use a keyboard you 
+
+200.10 214.29 A: know you know a mouse is pretty easy to use and speech recognition always has the problem of you know if somebody's in your office talking or something like that there's background noise that kind of thing so you know if you really want to ah really want to definitely you know 
+
+202.50 203.46 B: mhm 
+
+209.52 210.57 B: right 
+
+214.18 221.39 A: tell your computer do this pointing and clicking is easier but but with a handheld device if you want to enter then you know 
+
+215.74 216.70 B: mhm 
+
+221.77 228.10 A: enter the name boston as your destination you know and ah it'd be a lot faster to speak it if ah 
+
+224.47 225.44 B: right 
+
+228.12 230.47 A: if you're in the right environment to do that 
+
+229.91 231.47 B: that's intriguing i 
+
+231.74 243.60 B: most of the technology stuff i i don't keep up with that much just cause i i find it's hard to keep up with as as a layperson and i'm i'm annoyed by it when it changes 
+
+238.95 240.07 A: yeah it is 
+
+243.09 244.12 A: yeah 
+
+243.53 256.98 B: ah for change's sake rather than for everybody's convenience and you know i just upgraded my computer system ah and it d- you know performs marginally better but mostly it's just different 
+
+247.66 248.52 A: yeah 
+
+256.84 266.33 A: it's a hassle um upgrading i mean man it seems like everytime you upgrade your computer something breaks something doesn't work that used to work [mn] 
+
+257.09 257.65 B: (( [mn] )) 
+
+263.64 265.19 B: (( yeah )) 
+
+266.03 268.46 B: yeah or you have to upgrade something else 
+
+268.01 275.11 A: well what i've learned at least from my home computer is you know don't ever upgrade the operating system whatever it came with is what it'll work best with 
+
+274.67 275.97 B: right 
+
+275.33 286.81 A: and when you upgrade you'll always you know you'll lose a few some functionality and it'll always run slower and that kind of thing so you know i try to just live as long as i can with what it came with you know 
+
+280.35 281.46 B: mhm 
+
+286.41 287.56 B: right 
+
+286.99 289.16 A: and not mess around with that 
+
+288.44 299.41 B: yeah no i i have a computer i've had since nineteen ninety four and i just upgraded it to um mac o. s. nine one which is still you know two generations back 
+
+296.60 297.51 A: mhm 
+
+299.27 305.84 B: um but i i resent the idea of having to replace the whole thing which i'm going to have to do at some point soon 
+
+305.91 307.11 B: (( ah )) 
+
+307.23 310.43 B: just cause every you know the world is is traveling too fast 
+
+309.90 311.10 A: yeah 
+
+310.46 311.60 B: (( but ah )) 
+
+311.19 321.39 A: yeah my both my son and my daughter ah are mac fans um my um my daughter's in ah she- she's in new york she's ah at pride institute 
+
+314.68 315.59 B: (( uh huh )) 
+
+320.80 321.71 B: (( uh huh )) 
+
+321.50 323.13 A: do you know that you know it 
+
+322.53 323.74 B: yeah i yeah sure 
+
+323.46 333.52 A: and ah so she's there she's in architecture so she uses a lot of drawing and graphic stuff and then and my son is ah he's interested in um 
+
+325.16 326.01 B: (( uh )) 
+
+329.32 330.29 B: (( huh )) 
+
+333.55 338.60 A: you know video production and that kind of stuff so he got [mn] they have 
+
+334.86 336.65 B: (( mm right )) 
+
+338.59 349.59 A: terrific mac tools for that you know for for moviemaker and you know taking video clips and editing them and special effects and you know 
+
+347.02 347.93 B: mhm 
+
+349.65 352.63 A: mixing and matching and merging all the all this 
+
+349.77 350.79 B: right 
+
+351.51 358.40 B: and mac is is particularly good for that kind of stuff i'm surprised about you your daughter though because i have architects 
+
+354.34 355.40 A: yeah 
+
+358.48 362.85 B: who are ah friends and they work entirely in p._c. just because 
+
+362.03 372.82 A: cause of autocad yeah well there's a couple of um you know of mac ah drawing programs too but y- you're right you're right there is there's you know 
+
+363.03 364.04 B: yeah 
+
+373.12 383.24 A: the- there's two camps of of architecture people [mn] if you get you know if you work in a in an office where they've they've got the mac you know the mac suite then you know whatever it's called i don't know 
+
+381.10 382.12 B: right 
+
+382.96 383.52 B: (( [mn] )) 
+
+383.20 392.38 A: then uh they're in good shape but but she likes the mac a lot better she uses a she's also taken some photography courses you know and sh- you know they 
+
+389.62 390.62 B: (( uh huh )) 
+
+392.52 403.82 A: photography these days you know they they still have the wet labs and they do all the work in there but they also digitize it and mess around with it and and do a lot of sp- you know effects on the computer too 
+
+395.41 396.16 B: uh 
+
+399.25 400.21 B: (( huh )) 
+
+403.54 404.54 B: right 
+
+403.93 406.54 A: and ah you know they um 
+
+406.60 409.09 A: they she she prefers a mac for that 
+
+408.39 417.23 B: yeah now we we haven't spoken one word about the topic that was suggested well let me ask since you're the computer guy um 
+
+412.43 414.19 A: oh shame on us 
+
+417.30 422.11 B: i i assume that it doesn't actually matter that the the topics are 
+
+422.04 432.91 B: are nice to have but they're really just to direct conversation and that the aim of this study is to create a database of or a volume of words 
+
+427.38 428.25 A: yeah 
+
+430.93 431.85 A: right 
+
+432.34 433.85 A: right i think so too 
+
+432.85 439.18 B: so so that we could be as long as they're english and they're complete sentences or incomplete sentences 
+
+436.44 437.27 A: yeah 
+
+437.78 441.04 A: so some poor sap's got to sit down and translate this 
+
+441.23 446.60 B: well well are they or are they going to use a computer to do it is is 
+
+441.47 443.48 A: yeah or transcribe this 
+
+445.91 456.69 A: um well you know you can use a computer to do it but but then it's going be only as accurate as the computer is your then then your database is corrupted and your you're telling 
+
+452.38 454.64 B: (( right [laughter] )) 
+
+457.00 462.58 A: another computer hey when you hear this it means whatever the computer thought it meant the first time it heard it so 
+
+461.82 463.04 B: (( [laughter] )) 
+
+462.43 470.13 A: no they really no i think the databases are are hand transcribed and th- then they become the masters for for new work 
+
+466.52 467.52 B: wow 
+
+469.49 470.56 B: right 
+
+469.92 477.49 A: you know so it's got to be correct if it's got bugs in it or you know then then then it's it's you're just counterproductive so yeah because 
+
+472.47 473.45 B: right 
+
+476.61 486.99 B: so this this is how mistakes get institutionalized right they use the computer to analyze our speech and then the b- for the purpose of using computers to analyze speech [laughter] 
+
+479.43 480.28 A: right 
+
+485.25 486.19 A: yeah 
+
+486.56 492.42 A: so uh so saying hello to the person who's transcribing this [laughter] 
+
+490.64 496.32 B: [laughter] well it would make his day a little more interesting to know that he's not ah 
+
+496.33 499.04 B: working you know like the wizard of oz he's not 
+
+498.46 500.84 A: i wonder what they're getting paid to do that 
+
+500.23 501.82 B: probably ten bucks an hour 
+
+501.35 502.32 A: probably 
+
+501.91 504.98 B: right i mean they'd get college kids i would assume 
+
+502.33 503.03 A: yeah 
+
+504.47 506.06 A: yeah our job's easier 
+
+505.94 507.82 B: (( yeah right [laughter] )) 
+
+507.34 509.59 A: (( so where where do you work oh )) 
+
+508.60 510.28 B: i work at home 
+
+509.84 510.60 A: (( cool )) 
+
+510.84 511.87 B: ah 
+
+510.88 512.98 A: and and you're in you're in the city 
+
+512.62 516.26 B: yeah ah my wife and i both work out of our house 
+
+516.46 521.52 B: and ah i do a lot of ah english as a second language textbooks 
+
+521.01 522.03 A: oh cool 
+
+521.77 529.45 B: and so i i had a piece in the times magazine over the summer about um the um the national corporates 
+
+529.93 532.24 B: ah so that's how i got involved in this 
+
+532.57 541.26 B: um and ah so yeah i have a a vested int- not a vested interest but a an amateur interest in seeing this 
+
+541.47 545.95 B: ah done i assume that this is part of the a._n._c. is that 
+
+546.10 548.83 B: to your knowledge american national corpus 
+
+546.25 547.73 A: (( a._n._c. )) 
+
+549.28 550.93 A: maybe i don't know 
+
+550.51 552.00 B: i think that's what this 
+
+552.24 555.00 B: maybe it's not maybe it's just another corpus but 
+
+554.25 557.24 A: yeah we've always joined the um 
+
+557.29 567.15 A: ah l._d._c. um just to get access to their their c._d.s and and data so um to put 
+
+563.67 564.57 B: (( uh huh )) 
+
+566.18 577.67 B: my understanding of the american national corpus was the first really broadbased corpus of language in that the the l._d._c. was was 
+
+573.32 574.06 A: (( mm )) 
+
+577.95 579.34 B: undertaking it 
+
+579.05 580.11 A: mhm 
+
+579.45 588.85 B: ah and what they had done some of it's out but it's all the written it's like the first ten million words of a hundred million word corpus 
+
+588.34 589.17 A: wow 
+
+589.10 592.84 B: but it's all the written stuff and they hadn't done any of the spoken language 
+
+592.33 593.29 A: oh okay 
+
+593.13 597.73 B: so when as soon as i got the email i forwarded it to all my ah 
+
+597.81 611.04 B: friends who whose english i respected and ah spoke correctly and things like that um so i thought it was really interesting um today's topic though sounds just like yesterday's topic ah 
+
+600.48 601.48 A: yeah 
+
+603.52 604.32 A: cool 
+
+610.89 616.34 A: yesterday as well as i wasn't near my desk i didn't take any calls but got some messages about it 
+
+613.43 620.47 B: it was like basically the same thing it was like ah has anything changed since september eleven 
+
+619.68 621.95 A: oh okay yeah september eleventh 
+
+621.98 627.97 A: i don't know um i i think they'll find another way [laughter] to ah 
+
+627.56 629.43 B: to couch the same 
+
+628.54 639.24 A: yeah i mean as far as blowing up things with airplanes you know i think they'll try something else next as far as keeping you know controlling people and knowing who's going i think yeah i i think 
+
+639.19 653.36 A: i think they're going to they have a lot of plans in fact unisys has some contracts in that area you know i mean they can do iris scans and face scans and hand and fingerprint scans and and that you know i think they'll improve security 
+
+643.91 644.93 B: (( uh huh )) 
+
+653.36 654.68 A: so they know who's 
+
+654.87 658.26 A: going in and the turnstile and who's getting on the plane 
+
+657.94 661.31 B: should we be afraid of that 
+
+661.13 662.22 A: um 
+
+663.51 667.48 A: i don't know i i i think they'll they'll probably use it make ah 
+
+667.70 675.84 A: you know i wouldn't be afraid of that anymore than the fact that i swipe my credit card in all kinds of slots in the foodstore and every bank machine [mn] all 
+
+675.63 686.52 A: everywhere i go so i mean you know they know who you are and where you are so what what's the difference between that and an iris scan it's like okay it's this person and now that he's here he's just went in through the door 
+
+676.74 677.89 B: right 
+
+685.87 688.84 B: um because the government can have it 
+
+688.31 691.01 A: yeah that's true that's true 
+
+689.04 690.62 B: that's what i don't like 
+
+690.75 694.44 B: ah like i won't pay i won't use the ez-pass 
+
+694.36 695.19 A: uh 
+
+694.78 698.45 B: because i don't really like the government knowing where i'm going 
+
+697.48 699.04 A: (( huh yeah )) 
+
+698.47 705.23 B: ah and like you can here in the city you can pay for your um your subway card with a with a credit card 
+
+703.41 704.24 A: yeah 
+
+705.04 705.95 A: right 
+
+705.36 712.57 B: but again i won't i won't do that because i don't really want the city knowing exactly what my movements are at all times 
+
+712.03 712.82 A: yeah 
+
+712.70 717.24 B: um and things like iris scans scare the crap out of me because you know 
+
+717.34 719.89 B: they can use their powers for evil too 
+

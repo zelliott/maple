@@ -1,0 +1,7 @@
+
+HutZ is the sole heme storage protein identified in the pathogenic bacterium Vibrio cholerae and is required for optimal heme utilization. However, no heme oxygenase activity has been observed with this protein. Thus far, HutZ's structure and heme-binding mechanism are unknown.
+
+We report the first crystal structure of HutZ in a homodimer determined at 2.0 Å resolution. The HutZ structure adopted a typical split-barrel fold. Through a docking study and site-directed mutagenesis, a heme-binding model for the HutZ dimer is proposed. Very interestingly, structural superimposition of HutZ and its homologous protein HugZ, a heme oxygenase from Helicobacter pylori, exhibited a structural mismatch of one amino acid residue in β6 of HutZ, although residues involved in this region are highly conserved in both proteins. Derived homologous models of different single point variants with model evaluations suggested that Pro140 of HutZ, corresponding to Phe215 of HugZ, might have been the main contributor to the structural mismatch. This mismatch initiates more divergent structural characteristics towards their C-terminal regions, which are essential features for the heme-binding of HugZ as a heme oxygenase.
+
+HutZ's deficiency in heme oxygenase activity might derive from its residue shift relative to the heme oxygenase HugZ. This residue shift also emphasized a limitation of the traditional template selection criterion for homology modeling.
+

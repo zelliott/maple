@@ -1,0 +1,7 @@
+
+The database of zzso protein zzso structures is still very zzso At the same time, more and more zzso sequences are being zzso zzso modeling is an interim answer that may bridge the gap between the two zzso The first step in zzso modeling is to achieve a good alignment between the target sequences and the template zzso However, since most zzso to obtain the alignments were constructed with data derived from zzso zzso they perform poorly when applied to zzso In our application, we automate the alignment procedure and design it specifically for zzso We first identify segments likely to form zzso zzso We then apply different sets of criteria for zzso and zzso zzso For example, the penalty for zzso in the zzso segments is much higher than that of a penalty in the loop zzso Different substitution zzso are used since the zzso of occurrence of the various zzso acids differ for zzso segments and zzso zzso 
+
+This program leads to better models since it does not treat the protein as a single entity with the same properties, but accounts for the different physical properties of the various zzso zzso is the first zzso alignment program that is directly targeted at zzso zzso 
+
+zzso code and installation package are available on request from the zzso Web access is currently zzso 
+

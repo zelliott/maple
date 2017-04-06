@@ -1,0 +1,513 @@
+# fe_03_01846.sph
+# Transcribed by BBN/WordWave
+
+0.55 1.70 B: hi 
+
+2.06 3.55 A: hello 
+
+2.87 5.76 B: (( hello i'm maria gozin how are you )) 
+
+3.88 4.79 A: hi 
+
+5.83 8.03 A: fine you said your name is what now 
+
+7.77 8.70 B: maria 
+
+8.73 12.29 A: maria i am richard from ah mississippi 
+
+11.99 13.26 B: (( oh good )) 
+
+12.56 15.23 A: what what state what state 
+
+13.97 15.53 B: i'm in seattle washington 
+
+15.50 19.61 A: settle wa- ooh ooh we're quite a distance from each other 
+
+18.21 20.81 B: [laughter] yes we are 
+
+20.29 21.12 A: (( [cough] )) 
+
+21.99 25.09 A: (( do you get a lot of rain you get a lot of rain in seattle don't you a )) 
+
+24.67 26.99 B: oh we get a lot of light yeah 
+
+26.53 27.69 A: (( lot of rain )) 
+
+27.77 36.47 A: well right now it's it's in mississippi it's spring time and everything's green and the flowers are blooming it's real pretty this time of the year 
+
+31.55 32.36 B: (( oh )) 
+
+36.16 37.78 B: yes we have we 
+
+36.95 41.80 A: but we hate the summertime down here the humidity is so bad it you can cut it with a knife 
+
+41.38 43.79 B: yep [laughter] 
+
+42.23 44.25 A: (( east near here )) 
+
+44.05 45.72 B: no it's always nice here 
+
+44.29 50.13 A: my wife my wife and i hate summertimes in the in the south especially in mississippi 
+
+47.63 48.64 B: uh-huh 
+
+49.08 51.85 B: [laughter] no 
+
+50.88 54.88 A: but we we're supposed to talk about computers and education 
+
+54.21 57.44 B: very good so what's your so what's your view 
+
+55.44 57.01 A: [laughter] 
+
+57.57 64.27 A: well ah well one thing i have a son a freshman in college in mississippi state university and he has ah 
+
+64.35 67.50 A: he's declared his major as a computer science 
+
+67.22 68.36 B: good for him 
+
+68.05 71.53 A: degree so he's he's doing real well in college right now 
+
+71.04 71.92 B: uh-huh 
+
+71.85 74.39 A: at mississippi state and then so 
+
+74.59 77.35 A: hopefully he's got a friend that just ah [cough] 
+
+77.71 80.42 A: he's a freshman too and he's co-opping 
+
+80.24 81.20 B: mhm 
+
+80.55 82.28 A: so what they do like that he 
+
+82.47 86.48 A: he ah they work with him and they try to find him a job so he 
+
+86.62 87.64 B: mhm 
+
+87.03 95.42 A: he went to work for i think the what was it security administration [noise] n._s._a. national security administration in 
+
+94.54 95.42 B: uh-huh 
+
+95.85 98.42 A: leesburg virginia or something like that 
+
+97.83 99.05 B: (( oh very good )) 
+
+98.73 101.01 A: so that's good what ah 
+
+101.52 104.57 A: as far as computers we have ah 
+
+104.69 109.33 A: we have three computers in our home but i'm the least knowledgeable of all 
+
+108.84 110.56 B: [laughter] 
+
+109.37 118.27 A: because i'm i'm when i i'm forty nine years old and so when i went to school you know we didn't we didn't have computers 
+
+117.93 119.43 B: right 
+
+119.23 122.62 A: but yeah the i have four children and they all 
+
+123.05 125.31 A: they know more about computers than i do 
+
+125.07 125.84 B: yes 
+
+125.70 127.85 A: (( so i have to ask them )) 
+
+127.24 130.12 B: that's how it is that's right [laughter] 
+
+128.48 131.66 A: [laughter] you have children 
+
+131.22 135.92 B: i have one he's three and a half he's three and a half yeah he has full 
+
+132.35 133.50 A: you have one 
+
+133.61 134.71 A: three and a half 
+
+134.84 139.57 A: oh okay well that's great you got your hands full then with a three and a half year old 
+
+138.84 139.85 B: (( oh yeah )) 
+
+139.71 141.09 A: you sure do 
+
+140.90 145.89 B: [laughter] yes he's ah ver- very computer savvy already so 
+
+145.64 147.66 A: (( i know these ah no )) 
+
+147.87 153.51 A: this generation growing up now with children they're they learn in school now they have computers in classes and 
+
+152.90 154.72 B: uh-huh right 
+
+153.63 154.93 A: (( and )) 
+
+155.07 164.72 A: and plus the kids growing up with the nintendo's and all that kind of stuff so they go to it it's easier for them 
+
+159.89 161.65 B: right right 
+
+164.84 166.04 B: (( [noise] yes )) 
+
+165.61 167.97 A: but anyway ah interstate 
+
+168.13 169.49 B: (( yes )) 
+
+169.49 172.70 A: say this is my second time i've got to talk 
+
+169.72 170.49 B: (( [noise] )) 
+
+172.77 175.70 A: through the penn state programme 
+
+174.95 177.03 B: oh very good well it's my first time 
+
+176.91 178.69 A: is it first time [laughter] 
+
+177.13 183.49 B: and i haven't been home for the last three 'cause they've been trying to call me so [laughter] what 
+
+182.44 185.94 A: well you you you say you're computer savvy 
+
+186.15 188.98 B: um yeah well i i i 
+
+188.50 189.34 A: (( [cough] )) 
+
+189.03 195.34 B: i was doing my phd when i ah got pregnant so after i had my son i stopped when he was one 
+
+192.58 193.79 A: oh okay 
+
+195.34 196.85 A: (( oh okay )) 
+
+195.51 199.00 B: um i'm taking a little break so i can raise him for a while 
+
+199.24 202.08 B: and maybe when he starts school then i'll go back 
+
+199.60 200.49 A: p. 
+
+201.61 202.17 A: (( [cough] )) 
+
+203.04 206.69 A: (( when do you plan on going back and getting your getting you phd )) 
+
+206.30 213.60 B: um we i i might think about it at this point i'm not sure since you know financially it's a lot of 
+
+211.98 213.09 A: yeah 
+
+213.26 216.50 A: i understand you and the children 
+
+214.83 216.12 B: a lot of 
+
+216.22 227.98 B: yep and i have to think about his future first so [laughter] but um but as far as computers are helpful in the education yep i would think computers are helpful in the education like 
+
+217.18 218.23 A: (( i know it )) 
+
+219.18 220.80 A: that's right 
+
+220.97 222.14 A: that's right 
+
+224.37 225.29 A: (( [cough] )) 
+
+227.63 229.86 A: oh no doubt i mean the ah 
+
+229.92 232.99 A: information that you can find on computers now 
+
+232.80 233.91 B: right 
+
+233.28 236.40 A: on the the world wide web is just tremendous 
+
+235.91 237.31 B: mhm 
+
+236.65 239.62 A: there's a lot of good and of course there's a lot of bad 
+
+239.71 240.64 B: (( yes )) 
+
+239.73 242.10 A: but i think this force the education 
+
+241.92 243.00 B: mhm 
+
+242.36 247.55 A: computers are here to probably going to get a lot more technical than what what they are now 
+
+247.17 248.10 B: right 
+
+247.57 248.78 A: in the future 
+
+248.90 259.36 B: yeah i mean it it gives the general population more um for education there's more resources on hand which allows them to um 
+
+256.62 257.63 A: mhm 
+
+260.27 262.76 B: um to have more um 
+
+263.10 264.14 B: um 
+
+265.25 267.53 B: how can i say this more 
+
+268.31 277.34 B: information on finger trips basically so they don't you know they they can pretty much find anything about anything that that anybody might want to know 
+
+269.91 270.85 A: yeah 
+
+277.30 278.76 A: oh ah 
+
+277.45 278.36 B: so 
+
+278.55 283.13 B: and also it's interactive programmes in schools that can 
+
+283.16 290.46 B: um you know the kids can benefit from for education purposes for you know either math and writing and everything so 
+
+290.40 291.41 A: (( ah )) 
+
+291.42 297.35 B: i i really think it's beneficial but like everything it can get to be too much and 
+
+294.81 295.75 A: yeah 
+
+297.42 298.53 B: they forget 
+
+297.55 299.00 A: (( i know the )) 
+
+299.49 309.12 A: i know they stress at i know they stress the three rs you know reading writing and arithmetic and now and they had to include computers nowadays 
+
+305.51 306.45 B: mhm 
+
+308.93 309.91 B: uh-huh 
+
+309.49 311.15 A: (( kids ah )) 
+
+311.64 325.75 A: just for instance you know if you want to if you want to try to go file an application in a lot of companies a lot of companies will send you to a computer to fill out your application if you can't fill out an application on a computer they don't they won't even consider hiring you 
+
+320.07 320.91 B: right 
+
+325.59 327.20 B: yeah that's true 
+
+326.84 329.49 A: so it's it's gotten that so [cough] 
+
+328.20 329.08 B: mhm 
+
+330.04 333.14 A: the you have to know something about computer nowadays 
+
+332.37 333.87 B: yep yep 
+
+333.52 334.46 A: too 
+
+334.05 337.47 B: i'm like you i never did the computers until i was in my twenties 
+
+337.70 340.63 A: [laughter] well are you you're 
+
+338.34 339.57 B: (( so )) 
+
+341.02 343.30 A: (( not as old as i am though i don't think )) 
+
+342.94 345.81 B: no i'm very close [laughter] 
+
+345.23 348.14 A: you're not you're not even close you're probably in your thirties aren't you 
+
+347.76 350.50 B: oh no i'm in my forties [laughter] 
+
+349.12 350.55 A: are you okay 
+
+350.72 352.79 B: (( yeah yeah )) 
+
+350.85 351.77 A: wow 
+
+352.55 353.11 A: (( [cough] )) 
+
+353.13 356.87 B: i just didn't start having children as early as you did [laughter] 
+
+356.42 358.89 A: yeah well you know i've got 
+
+358.93 366.08 A: i've got a twenty year old he twenty and a sixteen a thirteen and a ten 
+
+362.26 363.70 B: oh my gosh 
+
+365.66 367.37 B: yeah 
+
+366.56 368.53 A: so my my youngest 
+
+368.69 371.14 A: is ah a girl she's ten 
+
+370.84 371.96 B: (( oh )) 
+
+372.11 373.96 A: so but they all 
+
+372.73 373.71 B: very good 
+
+374.31 376.20 A: they all like computers they 
+
+375.79 376.54 B: (( yes )) 
+
+377.00 379.97 A: they fight over who's going to get on the internet and 
+
+379.33 380.09 B: (( yes )) 
+
+380.23 383.62 A: do this and this shit to chat and all that so 
+
+383.00 383.89 B: uh-huh 
+
+383.70 387.53 A: but it's good for 'em to learn a lot about computers and stuff of 
+
+386.73 387.52 B: mhm 
+
+388.05 388.75 B: (( yes )) 
+
+388.90 391.46 A: course my wife she home schools 
+
+390.88 392.29 B: she home schools 
+
+391.89 393.22 A: home schools 
+
+392.60 396.70 B: that's very good very brave of her and does she use computers in her 
+
+393.84 394.68 A: yeah 
+
+397.23 398.27 B: her schooling 
+
+398.21 405.58 A: yeah my my wife she pretty she's pretty much ah computer savvy herself she's learned a lot so um 
+
+403.22 404.22 B: mhm 
+
+405.79 406.62 B: good 
+
+406.03 409.32 A: ah my son he's doing real well in college 
+
+409.02 409.88 B: uh-huh 
+
+409.66 416.54 A: so far this semester he's got a he's got a so far he has got a four point oh grade average 
+
+416.00 417.39 B: mhm 
+
+416.70 418.65 A: so he's doing real well 
+
+418.63 419.86 B: very good 
+
+419.16 420.79 A: so we're proud of him 
+
+420.41 423.51 B: yeah very good and what do you do 
+
+422.37 423.44 A: (( but )) 
+
+423.92 428.73 A: i work at a chemical company georgia gulf corp- corporation 
+
+428.43 430.03 B: ah uh-huh very good 
+
+429.45 433.49 A: we we make ah p._v._c. resin plastics and stuff like that 
+
+432.91 433.72 B: uh-huh 
+
+434.93 440.10 A: so i've worked all over and i've worked the lab i've worked in a bunch of different places in the plant 
+
+439.42 440.27 B: uh-huh 
+
+440.26 442.95 A: and that's where i work you knew 
+
+441.75 444.04 B: so you don't have any need for computers then 
+
+444.43 448.01 A: oh yeah yeah ah we run computers at at the plant 
+
+447.86 448.73 B: uh-huh 
+
+448.15 460.53 A: and i'm just saying i'm not as computer savvy as some people but but you the kind that you you learn a certain system and that's how it is but as far as trouble shooting and things going wrong uh-huh i'm lost 
+
+450.81 451.69 B: uh-huh 
+
+455.97 456.76 B: right 
+
+459.86 460.64 B: (( uh-huh )) 
+
+461.21 462.33 B: (( very good )) 
+
+463.44 467.09 B: what what is your um what is your wife's experience ah 
+
+467.36 471.28 B: what does she say about using the computer does she use computer to home school the kids or 
+
+471.33 486.04 A: oh yes yes she gives them assignments and to to ah do things on the computer and they look at certain things and they do research and they do little little term papers and stuff like that so they they 
+
+477.12 478.38 B: mhm 
+
+484.22 485.06 B: uh-huh 
+
+486.32 488.37 A: they they do pretty well 
+
+488.77 490.56 B: that's good that's very good 
+
+491.22 500.33 A: you've got a little you've got a ways for your children to start school you have got you said a three and a half what they start in kindergarten in in washington at five years old 
+
+497.69 498.85 B: ah they 
+
+498.95 501.61 B: yeah they start at five yeah 
+
+500.94 503.69 A: at five some ways in mississippi 
+
+501.83 508.67 B: at five he's got he's actually almost four so he's going to be not ah next fall but the fall after 
+
+508.40 510.04 A: (( ooh that will be [laughter] )) 
+
+508.85 510.57 B: he's going to go so next 
+
+510.87 515.30 B: year this time he should be enrolled [laughter] yeah 
+
+512.69 513.89 A: yeah 
+
+514.69 515.98 A: yeah seattle 
+
+516.30 517.23 B: so 
+
+516.68 523.45 A: i imagine seattle is probably the the population of seattle has probably got same as the whole state of mississippi 
+
+523.09 524.92 B: (( yes [laughter] )) 
+
+524.12 526.98 A: seattle has probably got two million or more 
+
+527.11 534.64 B: ah yeah more than that yes about that i don't remember exactly how much ah two million maybe yeah 
+
+529.51 530.37 A: [laughter] 
+
+530.55 531.61 A: that's about 
+
+534.23 539.67 A: most mostly your courses i don't know have you ever been to the south in the south southern part of the united states 
+
+537.87 538.93 B: (( um ah )) 
+
+539.18 544.18 B: no not really i mean i i've been in louisiana i don't know if that's considered the south 
+
+540.51 542.32 A: (( you haven't yeah )) 
+
+544.08 549.73 A: louisiana yes i got a sister that lives in she lives in baton rouge louisiana yeah 
+
+549.12 550.95 B: uh-huh very good yes 
+
+550.60 551.88 A: yeah 
+
+551.75 554.79 B: that's as far as i've gone [laughter] 
+
+553.58 559.14 A: well so you know talking talking about computers and education for ten minutes 
+
+558.99 559.95 B: (( uh-huh )) 
+
+559.18 562.27 A: it seemed like it's kind of hard to do that which my [cough] 
+
+562.44 574.28 A: i have a certain limited knowledge about that but anyway the the ah the south you know most of the south mississippi especially is kind of it's very rural rural area 
+
+565.05 566.09 B: (( yeah )) 
+
+573.04 573.87 B: mhm 
+
+573.95 574.87 B: uh-huh 
+
+574.73 577.41 A: (( it's ah sparsely populating )) 
+
+576.79 578.77 B: oh it is sparsely populated 
+
+577.94 580.76 A: yeah it's not very i live in a little town 
+
+580.98 584.03 A: population of about seven thousand people 
+
+583.27 584.73 B: oh very good 
+
+584.50 586.13 A: it's a little small town 
+
+585.84 587.55 B: that's that's nice though 
+
+587.40 588.63 A: yeah 
+
+588.03 593.11 B: you have so you have a public library with internet resources and all that yeah 
+
+590.61 592.52 A: oh yeah yes yes yes 
+
+592.53 598.33 A: yeah it's i live at it's an old town where where we have the santa bella homes 
+
+595.22 596.05 B: uh-huh 
+
+597.78 598.82 B: uh-huh 
+
+598.39 599.95 A: that predate the silk 
+

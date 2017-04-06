@@ -1,0 +1,9 @@
+
+MRI-based quantification of gray and white matter volume is common in studies involving elderly patient populations. The aim of the present study was to describe the effects of not accounting for subcortical white matter hyperintensities (WMH) on tissue volumes in Alzheimer Disease patients with varying degrees of WMH (mild: n=19, moderate: n=22, severe: n=18).
+
+An automated tissue segmentation protocol that was optimized for an elderly population, a brain regional parcellation procedure, and a lesion segmentation protocol were applied to measure tissue volumes (whole brain and regional lobar volumes) with and without lesion segmentation to quantify the volume of misclassified tissue.
+
+After application of the tissue segmentation protocol and lesion analysis, mean total percentage misclassified volume across all subjects was 2% (17.9 cm(3)) of whole brain volume (corrected for total intracranial capacity). Mean percentage of misclassified tissue volumes for the severe group was 4.8% of whole brain, which translates to a mean volume 42.2 cm(3). Gray matter volume was most overestimated in the severe group, where 6.4% of the total gray matter volume was derived from misclassified WMH. The regional analysis showed that frontal (41%, 7.4 cm(3)) and inferior parietal (18%, 3.25 cm(3)) lobes were most affected by tissue misclassification.
+
+MRI-based volumetric studies of Alzheimer Disease that do not account for WMH can expect an erroneous inflation of gray or white matter volumes, especially in the frontal and inferior parietal regions. To avoid this source of error, MRI-based volumetric studies in patient populations susceptible to hyperintensities should include a WMH segmentation protocol.
+

@@ -1,0 +1,9 @@
+
+Digital zzso is one of the most promising options to diagnose breast cancer which is the most common cancer in zzso However, its effectiveness is zzso due to the difficulty in distinguishing actual cancer zzso from benign zzso which results in unnecessary biopsy zzso To overcome this issue, computer aided diagnosis zzso using machine learning techniques have been studied zzso Since this is a zzso problem and the number of features zzso from a mammogram image is zzso a feature selection method that is tailored for use in the zzso systems is zzso 
+
+We propose a feature selection method based on multiple support zzso machine zzso feature elimination zzso We compared our method with four previously proposed feature selection methods which use support zzso machine as the base zzso zzso were performed on zzso extracted from the Digital Database of zzso zzso the largest public digital zzso database zzso We measured average accuracy over zzso cross validation on the 8 zzso we zzso 
+
+zzso from 8 features, conventional zzso like zzso and multiple zzso showed slightly better performance than zzso However, when selecting from 22 features, our proposed modified multiple zzso using boosting outperformed or was at least competitive to all zzso 
+
+Our modified method may be a possible alternative to zzso or the original zzso in many cases of zzso In the future, we need a specific method to effectively combine models trained during the feature selection process and a way to combine feature zzso generated from individual zzso zzso 
+

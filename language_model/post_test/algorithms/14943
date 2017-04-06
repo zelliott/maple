@@ -1,0 +1,3 @@
+
+zzso forgetting is a major problem for sequential learning in neural zzso One very general solution to this problem, known as zzso works well in practice for zzso networks but has not been zzso zzso This paper zzso zzso in linear zzso We show that the method can fail in low dimensions but is guaranteed to succeed in high dimensions under fairly general zzso In this case an optimal version of the method is equivalent to a simple modification of the zzso zzso 
+

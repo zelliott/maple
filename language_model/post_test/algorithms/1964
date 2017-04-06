@@ -1,0 +1,9 @@
+
+The goal of this paper is to extend our recently developed zzso zzso zzso algorithm, which has the same characteristics of an zzso zzso algorithm, to an zzso zzso with the same characteristics of an zzso zzso zzso a zzso zzso The newly developed zzso zzso also works when the angular sampling zzso is not zzso The projection noise zzso can be modeled using a zzso weighting zzso 
+
+The new objective function contains projection noise model dependent weighting factors and image dependent prior zzso a zzso zzso The noise weighting is zzso zzso For the first time, the zzso zzso is able to model the projection zzso Based on the zzso of the zzso zzso zzso algorithm, a zzso window function is derived for each iteration of the zzso zzso zzso As a result, the ramp filter and the zzso function are both modified by the zzso zzso This new zzso zzso can be applied to a projection data set that is not zzso zzso 
+
+Computer simulations show that the new zzso zzso with window function index k and the zzso zzso zzso zzso with iteration number k give similar reconstructions in terms of resolution and noise zzso An example of transmission zzso CT shows that the noise modeling method is able to significantly reduce the zzso artifacts associated with zzso zzso 
+
+zzso noise weighting scheme can be introduced to the zzso zzso as a weighting factor in the window zzso The new zzso zzso is able to provide similar results to the zzso zzso zzso if the ramp filter is modified with a additive zzso zzso sampling and sensitivity can be zzso by proper zzso zzso 
+

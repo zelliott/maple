@@ -1,0 +1,3 @@
+
+We present an approach to visualizing zzso simulation data using interactive ray tracing and describe an zzso enhancement that exploits the properties of these data sets to provide highly interactive performance and reduced storage zzso This zzso for fast zzso ray tracing of zzso zzso enables the interactive zzso of large zzso data sets with millions of particles and incorporates advanced features like soft zzso We compare the performance of our approach with two recent particle zzso zzso one based on an zzso single ray grid zzso zzso and the other on zzso graphics zzso This comparison demonstrates that the new zzso offers an attractive alternative for interactive particle zzso 
+

@@ -1,0 +1,9 @@
+
+The aim of our study was to evaluate MRI/Ultrasonography fusion accuracy depending on three ultrasonographic parameters.
+
+An ultrasonography and MRI compatible model was created, consisting of a plastic box, which contained 3 objects. MRI scans were performed with 128 sagittal slices. The objects were segmented and 3D reconstructions were created. A special ultrasound adapter with 3 reflective markers was fixed to the ultrasound probe. Thus, the probe could be tracked by the navigation system (Vector Vision(2), BrainLab, Heimstetten, Germany) and the segmented shape of the 3D-objects obtained from the MR images were overlaid onto the ultrasound display (Elegra, Siemens, Erlangen, Germany). The dependency of fusion accuracy on different depth of ultrasound display, different distances between probe and objects and different angles between the axis of the ultrasound probe and the centre of the spheres was evaluated. 435 single measurements were performed.
+
+Overall fusion accuracy was 1.08 mm+/-0.61 mm (mean +/- standard deviation) for spheres and 1.6 mm+/-1.1 mm for arrow heads. If the ultrasound probe was directed more tangentially to the surface of the spheres the fusion became increasingly inaccurate (P<0.05). Fusion accuracy decreased the more distant the US probe was held to the object (P<0.05). Different depth of ultrasound display had no significant effect on fusion accuracy.
+
+Highly accurate fusion of MR images and real-time ultrasonography could be achieved. However, careful interpretation of the fused data is necessary, when different angles and distances of the US probe to the object are concerned.
+

@@ -1,0 +1,9 @@
+
+T2 voxel-based relaxometry (VBR) is a technique that allows for a quantitative, unbiased analysis of T2 relaxation time across the whole brain. Previous studies have shown that this technique is effective for clinical analysis of single patients; however, the effects of age normal age-related changes on these data were unknown. Our study was therefore designed to assess the effect of normal aging on VBR data.
+
+A linear regression with age as a predictor of T2 was run in both a (1) whole-brain voxel-based manner to determine regions which showed significant age-related change and subsequently (2) on a selection of regions-of-interest to allow for a more detailed analysis of the trends.
+
+T2 estimates showed a significant increase with age in the frontal lobe white matter and a significant decrease with age in the putamen with region-of-interest and voxel-based regressions (p<0.05). There was also a general trend for T2 to decrease in inferior temporal lobe grey matter in the voxel-based regression.
+
+Age causes changes in T2 relaxation time in healthy control subjects, with increases being observed in frontal lobe white matter and decreases in the putamen. These changes should be accounted for when interpreting single subject VBR data.
+

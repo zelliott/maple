@@ -1,0 +1,9 @@
+
+If tumor volumes are to be used for evaluating responses to treatment and long-term outcomes of patients with primary pharyngeal carcinomas, the reproducibility of these measurements must be established. We determined the intraobserver variability of MR imaging-based volume measurements of these cancers and their regional metastases.
+
+We used an interactive computer program (IDL) that enables the extraction of tumor volumes from 3D MR data to obtain 202 volume measurements in 17 patients with pharyngeal carcinoma (two to five time points each). The primary cancer and largest nodal mass were manually outlined on every T2-weighted image of each MR study. The same neuroradiologist reanalyzed this MR dataset 2-41 weeks later. Measurement error and percentage measurement error (intraobserver variability) were determined. Differences in intraobserver variability between primary lesions and nodes, as well as between stages of treatment were tested with a Wilcoxon rank sum test.
+
+The mean and median percentage measurement errors, respectively, were 13% and 12% (range, 0-53%; 95% CI: 10%, 16%) for primary tumors and 9% and 7% (range, 0-37%; 95% CI: 7%, 12%) for nodal metastases. The difference in the percentage measurement error between primary lesions and cervical nodes approached statistical significance (P =.07). Differences in the variation of volume measurements based on the stage of therapy were significant (P =.01).
+
+Our results suggest that MR imaging-based tumor volumes are reliably reproducible. Such measurements may be important in predicting patient outcome, determining appropriate therapy, and conducting patient follow-up.
+

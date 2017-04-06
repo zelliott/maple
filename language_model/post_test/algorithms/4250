@@ -1,0 +1,3 @@
+
+In this paper, a zzso method for the solution of a strongly coupled zzso system, with suitable initial and Neumann boundary conditions, by using cubic zzso zzso scheme on a uniform grid is zzso The scheme is based on the usual finite difference scheme to zzso the time zzso while cubic zzso is used as an zzso function in the space zzso The scheme is shown to be unconditionally stable using the von Neumann zzso The accuracy of the proposed scheme is demonstrated by applying it on a test zzso The performance of this scheme is shown by computing zzso and zzso error norms for different time zzso The zzso results are found to be in good agreement with known exact zzso 
+

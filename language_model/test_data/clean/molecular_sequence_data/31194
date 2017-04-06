@@ -1,0 +1,3 @@
+
+A method is discussed for DNA or protein sequence comparison using a finite field fast Fourier transform, a digital signal processing technique; and statistical methods are discussed for analyzing the output of this algorithm. This method compares two sequences of length N in computing time proportional to N log N compared to N2 for methods currently used. This method makes it feasible to compare very long sequences. An example is given to show that the method correctly identifies sites of known homology.
+

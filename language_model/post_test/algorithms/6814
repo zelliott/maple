@@ -1,0 +1,11 @@
+
+We recently introduced a zzso approach that selects a subset of zzso genes jointly for sample zzso based on expression zzso We tested the zzso on colon and leukemia data zzso As an extension to our earlier work, we systematically examine the sensitivity, zzso and stability of gene zzso zzso to the choice of parameters of the zzso 
+
+Our approach combines a zzso Algorithm zzso and the zzso zzso zzso method to identify genes that can jointly discriminate between different classes of samples zzso normal versus zzso The zzso method is a zzso supervised pattern recognition zzso The genes identified are subsequently used to zzso independent test set zzso 
+
+The zzso method is capable of selecting a subset of zzso genes from a large noisy data set for sample zzso It is a zzso approach that can capture the correlated structure in the zzso We find that for a given data set gene selection is highly zzso in independent runs using the zzso zzso In general, however, gene selection may be less robust than zzso 
+
+The method is available at zzso 
+
+zzso 
+

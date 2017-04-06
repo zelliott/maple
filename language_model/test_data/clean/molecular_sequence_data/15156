@@ -1,0 +1,9 @@
+
+The Human papillomavirus type 18L1 (HPV18L1) gene was synthesized by overlapping PCR after optimization using plant preferred codons.
+
+The gene sequences of HPV18L1 were obtained from GenBank and analyzed using DNAMAN, Lasergene, Vector NTI and BLAST. The target sequence was selected and modified using plant preferred codons by the Synthetic Gene Designer and JCat (Java Codon Adaptation Tool) with the addition of a His-tag to the C-terminus to construct the full-length modified HPV18L1 (mHPV18L1). mHPV18L1 was divided into 5 large segments, namely LS1 to LS5, with sizes ranging from 204 to 477 bp. Forty-three small oligonucleotide fragments with sizes of 57-59 bp and 6 pairs of primers were designed and synthesized. mHPV18L1 was amplified by overlapping PCR and subcloned into pMD18-T vector. The recombinant plasmid was identified by restriction enzymes digestion and sequencing.
+
+mHPV18L1 was successfully assembled using overlapping PCR. The results of digestion with restriction enzymes and PCR amplification confirmed that the recombinant vector pMD18T- mHPV18L1 contained the inserts with expected size of 1749 bp. mHPV18L1 sequence was confirmed by sequencing.
+
+mHPV18L1 with plant preferred codons and the recombinant vector pMD18T- mHPV18L1 have been obtained.
+

@@ -1,0 +1,3 @@
+
+An zzso is presented for the multiple alignment of zzso either proteins or zzso zzso that is both accurate and easy to use on zzso The approach is based on the conventional zzso method of zzso zzso Initially, a zzso zzso of the sequences is performed using the zzso of the zzso alignment zzso The closest sequences are aligned creating groups of aligned zzso Then close groups are aligned until all sequences are aligned in one zzso The zzso alignments included in the multiple alignment form a new zzso that is used to produce a zzso zzso If it is different from the first one, iteration of the process can be zzso The method is illustrated by an example: a global alignment of 39 sequences of zzso zzso 
+

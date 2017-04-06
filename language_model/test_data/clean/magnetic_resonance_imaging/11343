@@ -1,0 +1,3 @@
+
+Analysis of variance (ANOVA) is widely used for the study of experimental data. Here, the reach of this tool is extended to cover the preprocessing of functional magnetic resonance imaging (fMRI) data. This technique, termed visual ANOVA (VANOVA), provides both numerical and pictorial information to aid the user in understanding the effects of various parts of the data analysis. Unlike a formal ANOVA, this method does not depend on the mathematics of orthogonal projections or strictly additive decompositions. An illustrative example is presented and the application of the method to a large number of fMRI experiments is discussed.
+

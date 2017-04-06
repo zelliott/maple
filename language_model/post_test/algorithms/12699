@@ -1,0 +1,11 @@
+
+The rapid development of next-generation sequencing technologies able to produce huge amounts of sequence data is leading to a wide range of new zzso This triggers the need for fast and accurate alignment zzso Common techniques often restrict zzso in the alignment to improve speed, whereas more flexible zzso are too slow for large-scale zzso Moreover, many current zzso are becoming inefficient as generated reads grow ever zzso Our goal with our new zzso zzso zzso zzso Short zzso Search zzso is thus zzso high performance with no restrictions on the number of zzso with a design that is still effective on long zzso 
+
+We propose a new efficient filtering step that zzso most alignments coming from the seed phase before they are checked by the costly dynamic programming zzso We use a carefully designed series of filters of increasing complexity and efficiency to quickly eliminate most candidate alignments in a wide range of zzso The main filter uses a zzso table containing the alignment score of short four base words aligned against each zzso This table is zzso several times by a new zzso designed to approximate the score of the full dynamic programming zzso We compare the performance of zzso against zzso zzso zzso and zzso We found that zzso achieves high sensitivity in a wide range of zzso and faster overall execution time than other state-of-the-art zzso 
+
+zzso is distributed under the zzso software license at zzso 
+
+zzso zzso 
+
+zzso data are available at zzso zzso 
+

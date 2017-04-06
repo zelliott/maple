@@ -1,0 +1,11 @@
+
+zzso zzso followed by zzso sequencing zzso is widely used in biological zzso zzso experiments yield many ambiguous tags that can be mapped with equal probability to multiple zzso zzso Such ambiguous tags are typically eliminated from consideration resulting in a potential loss of important biological zzso 
+
+We have developed a Gibbs zzso zzso for the zzso mapping of ambiguous sequence zzso Our zzso relies on the local zzso tag context to guide the mapping of ambiguous zzso The Gibbs sampling procedure we use simultaneously maps ambiguous tags and updates the probabilities used to zzso correct tag map zzso We show that our zzso is able to correctly map more ambiguous tags than existing mapping zzso Our approach is also able to uncover mapped zzso sites from highly repetitive sequences that can not be detected based on unique tags alone, including zzso zzso zzso zzso and zzso zzso This mapping approach should prove to be useful for increasing biological knowledge on the too often neglected repetitive zzso zzso 
+
+zzso 
+
+zzso 
+
+zzso data are available at zzso zzso 
+

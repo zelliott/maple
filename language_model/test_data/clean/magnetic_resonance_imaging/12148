@@ -1,0 +1,3 @@
+
+Due to the nature of three-dimensional Fourier transform (3-DFT) data acquisition in magnetic resonance imaging (MRI), the spatial relation between a resolved volume element (a voxel) and the object can be manipulated easily. Those manipulations have practical consequences in terms of registering slice positions with respect to features of interest in producing oblique reformatted images where volume resolution is preserved, and in generating reformatted images that project the viewing plane onto a surface through the object that has an arbitrary shape.
+

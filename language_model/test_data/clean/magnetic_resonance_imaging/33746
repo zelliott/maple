@@ -1,0 +1,9 @@
+
+The authors report on the development and preliminary validation of a technique for measuring contrast-to-noise ratio (CNR) at all points along selected vessel segments in the original three-dimensional magnetic resonance angiography (MRA) dataset.
+
+Contrast-to-noise ratio dependencies on flow rate, field of view, and flip angle were measured on images from a conventional time-of-flight MRA pulse sequence using constant flow in a branching vascular phantom. An estimate of the inherent variability of the technique was obtained from multiple scans of a flow phantom and a human volunteer.
+
+The overall standard deviation (SD) of the CNR was found to be approximately 6.1% of the average CNR value for the flow phantom study and 7.3% for the human study. Vessel CNR was found to increase with field of view and was found to become nonuniform for low flow rate and/or high flip angles.
+
+In general, such CNR measurements allow the investigation of the mechanism of signal loss and general technique optimization in MRA.
+

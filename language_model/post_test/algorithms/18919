@@ -1,0 +1,7 @@
+
+Base pairing probability zzso have been frequently used for the analyses of structural zzso zzso Recently, there has been a growing need for computing these probabilities for long DNA sequences by constraining the zzso span of base pairs to a limited zzso However, none of the existing programs can exactly zzso the base pairing probabilities associated with the energy model of secondary structures under such a zzso 
+
+We present an zzso that exactly zzso the base pairing probabilities associated with the energy model under the constraint on the zzso span W of base zzso The complexity of our zzso is given by zzso in time and zzso in memory, where N is the sequence zzso We show that our zzso has a higher sensitivity to the true base pairs as compared to that of zzso We also present an zzso that predicts a mutually consistent set of local secondary structures by maximizing the expected accuracy zzso The comparison of the local secondary structure predictions with those of zzso indicates that our zzso is more zzso Our zzso are implemented in the software named zzso 
+
+The zzso source code of the zzso software and the test zzso used in this study are available at zzso 
+

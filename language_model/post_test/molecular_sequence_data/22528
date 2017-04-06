@@ -1,0 +1,3 @@
+
+This paper proposes a novel method that can predict protein interaction sites in zzso using zzso spatial sequence profile and evolution rate zzso The former represents the information of multiple sequence alignments while the latter zzso to a zzso evolutionary conservation score based on a zzso zzso Three zzso using a support zzso machines zzso are constructed to predict whether a surface zzso is a part of a zzso zzso The efficiency and the effectiveness of our proposed approach is verified by its better prediction performance compared with other zzso The study is based on a zzso data set of zzso consisting of 69 protein zzso 
+

@@ -1,0 +1,3 @@
+
+In the paper, we propose a reliable zzso image transfer zzso zzso zzso applies a double sliding window method to zzso transfer, with one sliding window for the receiving queue, which is used to prevent packet loss caused by communication failure between zzso and another sliding window for the sending queue, which prevents packet loss caused by network zzso The zzso zzso prevents packet loss between zzso by zzso scheduling of multiple packets for a given zzso zzso zzso a double sliding window method by means of a zzso design between the zzso layer, zzso layer, and queue zzso We demonstrate that zzso guarantees a higher reliability of image transmission compared to the existing zzso 
+

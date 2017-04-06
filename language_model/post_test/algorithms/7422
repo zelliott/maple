@@ -1,0 +1,7 @@
+
+zzso zzso and zzso data have important applications in medicine including zzso diagnosis, treatment, and prognosis of diseases, and molecular biology, for example zzso zzso Many of such applications can be formulated to zzso and dimension reduction problems in machine zzso There are zzso challenging issues with regards to accurately zzso such data, and which due to zzso noise and zzso to name a zzso The principle of sparse representation has been applied to analyzing zzso biological data within the zzso of zzso zzso and dimension reduction zzso However, the existing sparse representation methods are zzso The kernel extensions are not well addressed zzso Moreover, the sparse representation techniques have not been zzso studied yet in zzso 
+
+In this paper, a zzso treatment is presented on sparse zzso Various sparse coding and dictionary learning models are zzso We propose fast parallel zzso zzso zzso for each zzso zzso versions are devised based on their zzso zzso These models are applied for zzso zzso biological zzso 
+
+In our experiment, we compared our models with other methods on both accuracy and computing zzso It is shown that our models can achieve satisfactory zzso and their performance are very zzso 
+

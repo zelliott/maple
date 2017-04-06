@@ -1,0 +1,511 @@
+# fe_03_02206.sph
+# Transcribed by BBN/WordWave
+
+0.13 1.35 A: (( hello )) 
+
+0.67 1.97 B: (( hello )) 
+
+1.65 2.50 A: (( hi )) 
+
+2.44 3.46 B: (( hi ya )) 
+
+2.70 6.39 A: i'm cassandra [laughter] how are you 
+
+3.78 5.94 B: hi this is susan how are you 
+
+6.03 8.87 B: good thanks [noise] 
+
+7.31 9.12 A: okay so 
+
+9.44 11.35 A: restaurant or home cooking 
+
+9.64 10.48 B: food 
+
+11.09 13.34 B: i actually like both of them 
+
+13.18 14.54 A: mhm 
+
+13.83 15.65 B: i don't have a preference 
+
+15.44 16.91 A: uh-huh [noise] 
+
+15.69 19.26 B: um i eat out on special occasions 
+
+19.89 23.98 B: but i l- like to eat home also because i love to cook 
+
+23.84 25.30 A: oh wow 
+
+24.74 27.88 B: (( [laughter] yes )) 
+
+25.70 30.58 A: i [sigh] i'm single so i eat out a lot 
+
+30.10 31.13 B: mhm 
+
+31.46 34.54 A: and i like it but it gets very expensive 
+
+32.27 32.83 B: (( [noise] )) 
+
+33.84 35.34 B: yeah it does 
+
+34.75 40.92 A: but i do enjoy today i just had like lunch with a co-worker and i definitely enjoy the time 
+
+40.46 41.97 B: mhm 
+
+41.26 48.74 A: spending with my friends at the restaurant but the cost it's more cost effective you know to [sigh] buy and cook 
+
+43.28 44.34 B: (( [noise] mhm )) 
+
+44.39 45.80 B: (( [noise] )) 
+
+48.34 54.17 B: exactly [noise] [laughter] i like to cook so i like eating home 
+
+49.72 51.19 A: so [laughter] 
+
+52.49 53.45 A: yeah 
+
+53.85 54.85 A: uh-huh 
+
+54.29 57.91 B: (( 'cause i have a family and )) 
+
+55.69 56.80 A: mhm 
+
+58.33 66.05 B: it's too expensive to eat out [laughter] very regularly so it's just like on special special occasions that we do eat out 
+
+61.58 62.94 A: right 
+
+66.34 69.46 A: yeah gosh i ate out [lipsmack] 
+
+66.44 67.49 B: (( you know )) 
+
+69.48 72.89 A: saturday night and friday night and today [laughter] 
+
+70.58 80.70 B: mhm [noise] oh really i ate out friday night 'cause my husband and i had an a night out and we ate out then 
+
+72.99 74.09 A: (( [sigh] )) 
+
+78.15 79.23 A: uh-huh 
+
+80.83 84.57 B: um last week i did a lot of it 'cause we were out of town 
+
+84.37 86.02 A: mhm 
+
+85.17 94.01 B: on vacation for a spring break so we did a lot of eating out my son loves to eat out he loves like mcdonalds and all these things 
+
+87.22 88.23 A: mhm 
+
+93.67 94.75 A: mhm 
+
+94.07 102.04 B: um but i'm tired of that so i prefer the sit down dinners yeah [laughter] 
+
+96.05 97.01 A: right 
+
+98.85 99.81 A: uh-huh 
+
+100.23 102.26 A: what foods do you like to cook 
+
+102.11 106.30 B: i do a lot of starting to cook a lot of gourmet foods 
+
+105.91 107.32 A: wow 
+
+106.57 111.51 B: now learning [laughter] you know i i cook a lot of 
+
+108.05 109.75 A: yeah that's great 
+
+111.60 112.63 B: (( um )) 
+
+113.01 120.74 B: well i'm from the the the islands so i like to cook like pilau which is rice and peas and some meat 
+
+115.35 116.64 A: oh wow 
+
+119.49 120.47 A: uh-huh 
+
+120.62 121.55 A: uh-huh 
+
+120.76 121.63 B: in it 
+
+121.67 124.15 B: i love to cook lots of curry 
+
+123.96 125.76 A: oh i love curry 
+
+125.01 128.83 B: yeah i love that and ah we do 
+
+126.07 126.74 A: (( [noise] )) 
+
+128.98 140.85 B: what is called roti it's a like a pita bread with curried meats and potatoes and [noise] g- gubunga beans in but we call it tena 
+
+130.72 131.68 A: uh-huh 
+
+132.85 134.44 A: [noise] oh i love that too 
+
+141.91 152.45 B: and i love to eat to make that and my family love that and that three weeks we were when we went away my relatives wanted me to cook so i had to cook 
+
+144.15 145.14 A: mhm 
+
+145.65 146.70 A: mhm 
+
+152.84 158.91 B: pilau for them [laughter] and ah 'cause we had like a family gathering and everyone was there and 
+
+154.41 156.70 A: (( wow that sounds good though )) 
+
+158.77 171.62 B: they all wanted me to make all the foods 'cause they haven't had it for a long time and i'm the best they say cook you know so i i did that and i like doing it you know i love i love eating home it's more comfortable 
+
+164.06 165.39 A: wow 
+
+166.62 167.51 A: yeah 
+
+171.38 174.64 A: yeah i do i mean yeah 
+
+172.32 173.69 B: (( you know )) 
+
+174.06 178.69 B: 'cause i also have a baby and it's really difficult to eat out with him 
+
+175.66 176.94 A: mhm 
+
+178.32 180.50 A: yes [laughter] 
+
+179.32 190.92 B: you know if he's fall if he'll fall asleep that's fine but when he's awake he dabbles a little bit but he you know he hasn't really given me that much trouble but it's a little bit inconvenient 'cause he's not 
+
+182.60 183.63 A: yeah 
+
+188.62 189.50 A: mhm 
+
+190.97 196.16 B: in a regular chair yet but he can sit quiet if i want him to sit so 
+
+192.48 193.65 A: right 
+
+195.72 197.36 A: right right 
+
+196.82 202.85 B: so [laughter] yeah eating at eat in home is like most preferably for me [noise] 
+
+198.15 199.48 A: yeah 
+
+202.92 207.93 A: that's nice like on friday we did take out and we ate it at home but 
+
+203.64 204.42 B: (( you know )) 
+
+207.23 210.32 B: (( [noise] mhm [noise] )) 
+
+208.04 212.27 A: i would like to cook my boyfriend's a vegetarian so i try to 
+
+210.93 215.63 B: (( mhm [noise] really )) 
+
+212.47 214.72 A: think of meals to cook for him that 
+
+214.92 219.21 A: don't have meat and it's just harder for me 'cause i'm used to cooking with meat 
+
+217.41 218.17 B: (( ooh )) 
+
+218.45 222.16 B: yeah i've been trying to find some good vegetable 
+
+219.70 220.58 A: uh-huh 
+
+222.22 226.82 B: meals to cook 'cause my family they don't like vegetables 
+
+222.99 224.10 A: mhm 
+
+227.03 228.34 A: they don't 
+
+227.79 231.15 B: they don't my husband would not eat vegetables 
+
+230.14 231.96 A: [laughter] 
+
+231.52 234.23 B: so that's why the kids do not eat vegetables 
+
+233.48 234.92 A: right 
+
+234.35 236.44 B: you know and i'm trying to get them to eat 
+
+235.31 236.29 A: (( mm [lipsmack] )) 
+
+236.65 250.97 B: you know right and [noise] he's not there making a good example [laughter] and so my eldest son he would eat like i can give him broccoli but my husband doesn't like to see it so i hardly ever cook it he'll eat corn every day 
+
+237.74 239.40 A: (( mhm )) 
+
+241.32 242.48 A: right 
+
+246.24 247.30 A: mhm 
+
+249.53 250.66 A: (( oh )) 
+
+251.11 252.42 A: oh wow 
+
+251.48 253.69 B: that's the only vegetable he'll he'll eat 
+
+253.56 254.83 A: is corn 
+
+254.39 257.35 B: yeah and if i make like stir fry 
+
+256.81 257.86 A: uh-huh 
+
+257.60 262.48 B: 'cause i have to put the carrots and stuff in it he'd eat it then but he would not eat carrots 
+
+259.48 260.33 A: mhm 
+
+260.64 261.53 A: mhm 
+
+263.09 264.95 B: anything like that without meat 
+
+263.12 264.24 A: wow 
+
+264.89 265.94 A: wow 
+
+265.75 271.93 B: (( [laughter] he's like a child too so so food wise ah [noise] )) 
+
+267.84 268.90 A: [laughter] 
+
+272.21 279.24 B: really hard for me i'm just trying to find things that they all would like and it's nutritious and 
+
+278.58 281.85 A: mhm that's what's tough 
+
+279.27 281.01 B: (( yeah )) 
+
+281.12 286.40 B: that's my problem you know give them junk food they'll have that all the time 
+
+282.60 284.16 A: right 
+
+286.10 289.09 A: right of course [laughter] 
+
+287.83 293.57 B: yeah i'm trying to get them to have like fish and things like that i like some fish 
+
+290.63 292.39 A: uh-huh uh-huh 
+
+293.23 294.47 A: mhm 
+
+293.71 299.52 B: but not all i like the only fish that i would that i see in the store that i really really like is salmon 
+
+299.19 300.65 A: oh i like salmon 
+
+300.31 305.37 B: you know but they don't like it my husband doesn't like it [laughter] 
+
+301.25 302.55 A: (( yeah [sigh] )) 
+
+304.50 307.74 A: i've been making a lot of like pastas lately 
+
+307.42 308.56 B: pastas 
+
+308.19 315.82 A: like fettuccine and just different things like that because i know like my boyfriend will eat that 
+
+309.51 313.25 B: (( [noise] yeah right )) 
+
+315.66 316.58 B: (( right )) 
+
+316.00 318.10 A: and i like anything 
+
+317.81 319.63 B: (( uh-huh so do i )) 
+
+320.78 323.93 B: he's a pasta lover too he'll eat past every day 
+
+323.80 325.41 A: pasta and bread 
+
+324.91 333.23 B: yes every day [laughter] you know but i get tired yeah i get tired of that sometimes you know 
+
+325.62 326.97 A: i love that 
+
+327.38 328.71 A: i could eat bread 
+
+328.75 330.00 A: every meal 
+
+332.37 333.84 A: mhm 
+
+333.30 335.15 B: i made um what 
+
+335.27 339.75 B: was it call- manically and baked pasta with the 
+
+336.92 338.04 A: (( mm )) 
+
+338.61 339.56 A: mhm 
+
+339.83 351.17 B: um ricotta cheese and all that stuff stuffed in it and i made that last week before and it was good my very first time doing it and it was it came out really good 
+
+341.93 343.83 A: mhm mhm 
+
+345.93 346.94 A: (( mm )) 
+
+350.18 352.16 A: do you bake that 
+
+351.93 354.38 B: yeah you have to bake it i 
+
+352.43 353.60 A: how do you cook it 
+
+354.66 363.67 B: well you boil the pasta and you get the cut the ri- ri- ricotta cheese you have um 
+
+356.05 357.00 A: uh-huh 
+
+361.67 362.81 A: mhm 
+
+364.22 367.54 B: (( mozzarella you have parmesan )) 
+
+365.32 366.32 A: mhm 
+
+367.82 373.23 B: and you mix it all together and you put some spices in there like italian seasoning 
+
+372.94 373.97 A: mhm 
+
+373.40 379.76 B: you season it up and you stuff it into the shells 
+
+379.47 380.82 A: mhm 
+
+380.27 384.08 B: and then you put it in your pan you put um 
+
+384.54 386.78 B: pasta sauce over that 
+
+386.15 387.26 A: mhm 
+
+386.84 392.19 B: and you sprinkle some cheese on that so you bake it covered with foil for like 
+
+392.29 400.05 B: forty thirty five minutes then you uncover it and you sprinkle the rest of the cheese on there and it be good for another ten to fifteen minutes 
+
+394.04 395.06 A: mhm 
+
+399.93 401.05 A: mhm 
+
+400.52 402.58 B: and then it's done 
+
+402.48 404.72 A: that sounds delicious that 
+
+404.54 405.75 B: (( yeah it is it's )) 
+
+405.81 413.71 B: great [laughter] you know i i love cooking so i'm just starting getting all these cookbooks and all these different recipes you know 
+
+406.38 408.05 A: sounds really good 
+
+411.22 412.27 A: mhm 
+
+413.88 415.76 A: i need to start cooking more 
+
+415.34 424.22 B: [noise] yeah i love i love cooking and as well everyone tells me i'm look and i love baking bread so i bake bread too 
+
+421.91 422.95 A: mm 
+
+424.53 425.31 B: so 
+
+424.76 426.13 A: wow 
+
+425.45 429.39 B: yeah i just last week i did well when i'm home 
+
+430.14 438.87 B: i just when i had my bab- my last baby i stayed home so i'm a home mom so i'm i'm bored so i'm finding all these different things to do 
+
+432.39 433.43 A: mhm 
+
+433.63 434.67 A: oh oh 
+
+434.91 436.09 A: mhm 
+
+436.37 437.51 A: wow 
+
+438.50 439.70 A: mhm 
+
+439.14 447.95 B: you know so i i made plait bread last week you know the braided breads it was great it came out soft and everything 
+
+443.25 444.79 A: mhm 
+
+445.41 447.24 A: (( oh that sounds good )) 
+
+447.85 449.44 A: mhm 
+
+448.63 455.25 B: i ah i was never really good at baking bread i was you know i could the only thing i could tell everyone i cannot make bread 
+
+455.01 456.05 A: mhm 
+
+455.46 456.99 B: and then all of a sudden 
+
+457.31 462.31 B: you know i'm making bread so that it looks it tastes it's better than the store bread 
+
+461.71 464.48 A: oh it's so good fresh baked bread 
+
+464.39 466.03 B: (( [laughter] yeah it's something )) 
+
+464.88 468.96 A: it's so good do you have the dough rise do you make the dough too 
+
+468.48 470.05 B: i make my own dough 
+
+469.80 471.42 A: oh my goodness 
+
+470.96 475.76 B: i do everything from scratch that's the best part about it do it from scratch 
+
+474.16 477.93 A: oh that's a lot of work but it's so delicious 
+
+477.29 484.42 B: yeah and to [laughter] and i'm saying i made things i even started making cinnamon rolls 
+
+484.45 485.74 A: wow 
+
+484.46 494.50 B: 'cause we used to buy that every week i had to buy like three or four cans of the tilsbury 'cause they wanna have that every day and i'm like come on people 
+
+489.75 490.82 A: mhm 
+
+492.38 493.45 A: for breakfast 
+
+494.27 495.32 A: yeah 
+
+494.76 504.35 B: so 'cause it started to get expensive [laughter] so i started to i i got a recipe and i started making it and they're like wow mommy this is so good 
+
+496.91 498.52 A: yeah it does 
+
+503.45 506.15 A: [laughter] 
+
+505.19 507.18 B: (( it tastes like the store )) 
+
+507.11 510.48 A: and it saves you huh saves money yeah 
+
+508.33 515.10 B: yes it does mhm 'cause a pack of flour's what a dollar and something 
+
+511.25 512.25 A: wow 
+
+514.84 515.83 A: mhm 
+
+515.21 524.80 B: and just to get and cinnamon isn't expensive 'cause you always have that on hand and you just make the things up and it's good to go 
+
+520.09 521.28 A: mhm 
+
+524.94 526.19 A: wow 
+
+525.50 533.26 B: yeah um [noise] i i like food [laughter] you know yeah it's nice to do 
+
+528.47 531.51 A: yeah that's great i need to cook more 
+
+532.95 534.01 A: mhm 
+
+533.21 544.19 B: to cook and i just feel comfortable doing it you know it makes me relax [noise] it's something that gets my mind off of you know anything and ah and their cooking 
+
+536.77 537.81 A: mhm 
+
+538.32 539.52 A: mhm 
+
+544.44 546.66 B: (( and i do it with a lot of love so )) 
+
+546.29 547.76 A: mhm 
+
+547.16 550.53 B: (( yeah it's it's it's nice i enjoy that too mm )) 
+
+550.81 558.00 A: like once a week my friends like my girl friends and i we get together like last night we had a barbeque but we each bring 
+
+558.41 562.41 A: something we try to bring it already from our freezer or refrigerator 
+
+561.88 563.32 B: right 
+
+562.48 568.24 A: so that you know we don't have to go to the store but we each bring an item and get together and cook it 
+
+567.58 568.59 B: mhm 
+
+568.31 574.77 A: [sigh] which is nice [sigh] you know to kinda share and hang out and 
+
+569.69 572.27 B: yeah that's nice 
+
+572.92 577.18 B: yeah it's nice to have you know friends and stuff over 
+
+576.97 578.15 A: mhm 
+
+577.20 585.21 B: you know i used to do a lot of barbecues but recently i haven't been doing outdoor barbecues i don't know why i just haven't had the time [noise] but 
+
+579.74 580.73 A: mhm 
+
+583.24 584.25 A: mhm 
+
+585.26 591.55 B: i do the barbecues in the oven [laughter] yeah very good 
+
+588.08 596.16 A: yeah right i know we did we barbecued chicken and had like rice and [sigh] 
+
+592.08 593.63 B: (( [noise] mhm )) 
+
+596.71 599.89 A: um corn and stuff but it's you know my 
+

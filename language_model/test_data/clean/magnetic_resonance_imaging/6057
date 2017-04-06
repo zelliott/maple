@@ -1,0 +1,3 @@
+
+This study compares the implementation of the STAR and FAIR pulsed arterial spin labeling (PASL) schemes to form quantitative perfusion maps at ultra-high field, 7 Tesla (T), and high field, 3 T. Phantom experiments were performed to compare the inversion efficiency and profile of the labeling pulses at 7 T and 3 T and to optimize in-plane saturation techniques. The perfusion weighted (PW) signal was measured at a range of postlabeling delay times and quantitative perfusion maps were calculated on a voxel-by-voxel basis. An increase in PW signal was found with field strength, and together with the increased signal-to-noise ratio, this led to improved image signal-to-noise and quality of fit of perfusion maps at 7 T.
+

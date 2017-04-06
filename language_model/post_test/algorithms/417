@@ -1,0 +1,7 @@
+
+In recent years, several zzso simulation zzso have been developed to generate zzso Carlo zzso that describe the time evolution of the behavior of zzso reaction zzso However, the effects of various zzso simulation and data analysis conditions on the observed dynamics of complex zzso reaction networks have not received much zzso In order to investigate these issues, we employed a a software package developed in out group, called zzso Network Simulator zzso to simulate and analyze the behavior of such zzso The behavior of a hypothetical two gene in zzso zzso reaction network is investigated using the zzso exact zzso zzso to illustrate some of the factors that influence the analysis and interpretation of these zzso 
+
+zzso issues affecting the analysis and interpretation of simulation data are investigated, zzso zzso the effect of time zzso on data presentation and zzso averaging of zzso numbers, zzso effect of time averaging zzso on reaction rate analysis, zzso effect of number of simulations on precision of model predictions, and zzso implications of zzso simulations on zzso zzso 
+
+The two main factors affecting the analysis of zzso simulations are: zzso the selection of time intervals to zzso or average state variables and zzso the number of simulations generated to evaluate the system zzso 
+

@@ -1,0 +1,9 @@
+
+To evaluate the effect of different cylindrical and close-conforming receive-only array designs on spin excitation and specific absorption rate (SAR) of a 7 T transmit-only head coil.
+
+We developed finite difference time domain (FDTD) models of different receive-only array geometries. Cylindrical and close-fitting helmet arrays with varying copper trace widths, a TEM Tx coil model, and two head models were used in numerical simulations. Tx coil coupling was experimentally measured and validated with FDTD modeling.
+
+Changing copper trace width of loops in array models caused subtle changes in radiofrequency (RF) absorption (<5%). Changes in SAR distribution were observed in the head models with Rx-only inserts. Peak SAR increased (-1 to +15%) in different tissues for a mean B1 (+) in the brain of 2 μT. Total absorption in the head models for 1 W forward power increased (5%-21%) in the heads with Rx-only inserts. Changes in RF absorption with different Rx inserts indicate a change in RF radiation of the Tx coil even when changes in B1 (+) and coupling between ports of Tx coil were minimal.
+
+Changes in local/global SAR and subtle changes in B1 (+) field distributions were observed in the presence of Rx-only inserts. Thus, incorporation of the receive-only array effects are needed when evaluating SAR and designing RF transmit pulse waveform parameters for shimming and/or Tx-SENSE for 7 T MRI.
+

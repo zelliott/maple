@@ -1,0 +1,7 @@
+
+Currently available noninvasive techniques for measuring blood flow velocities are constrained by limited view orientations (Doppler ultrasound) or limited time resolution (magnetic resonance imaging, MRI). We describe an MRI technique for measuring flow velocities in real time at arbitrary orientations within a cylindrical volume or "beam": V-mode nuclear magnetic resonance (NMR).
+
+The technique was implemented on a standard 1.5-T clinical NMR imager with no special hardware and was tested on phantoms and human volunteers. The beam can be fired at rates up to 60 times per second, allowing measurements on a time scale that is appropriate for ungated cardiac studies. In phantoms, steady flow velocities were measured with the beam aligned along the direction of flow, and the measured velocities correlated well with the actual velocities (r > 0.99). The radial distribution of velocities in phantoms under constant flow conditions was also determined. In humans, flow of blood in the descending aortas of normal and aortic insufficiency subjects was measured. Distinctive backflow of blood because of aortic insufficiency was readily apparent.
+
+The V-mode NMR technique is capable of acquiring clinically relevant real-time blood flow information from any desired angle of view with no attenuation at bone or air-tissue interfaces.
+

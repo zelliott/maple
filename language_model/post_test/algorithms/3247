@@ -1,0 +1,9 @@
+
+zzso term labels can be ambiguous and have multiple zzso While this is no problem for human zzso it is a challenge to automated methods, which identify zzso terms in zzso Classical approaches to word sense zzso use zzso words or zzso However, most treat zzso as simple zzso without making use of the zzso structure or the semantic similarity between zzso Another useful source of information for zzso are zzso Here, we systematically compare three approaches to word sense zzso which use zzso and zzso zzso 
+
+The zzso zzso method assumes that the zzso defines multiple senses of the zzso It zzso the shortest path of zzso terms in the document to one of these zzso The zzso zzso method defines a zzso ratio for zzso terms including zzso zzso from the zzso zzso The zzso approach trains a zzso on zzso It does not require any zzso but requires training data, which the other methods do zzso To evaluate these approaches we defined a manually curated training corpus of zzso documents for seven ambiguous terms from the Gene zzso and zzso All approaches over all conditions achieve zzso success rate on zzso The zzso approach performed best with zzso when trained on high-quality zzso Its performance zzso as quality of the training data zzso The zzso zzso approach performs better on Gene zzso zzso zzso than on zzso zzso zzso as zzso is not a strict zzso but rather a loose zzso zzso The zzso zzso approach achieves on average zzso success zzso 
+
+zzso is valuable for zzso but requires high quality training zzso zzso zzso requires no training, but a large, consistently zzso zzso which are two opposing zzso Term zzso achieves greater zzso success given a consistently zzso zzso Overall, the results show that well structured zzso can play a very important role to improve zzso 
+
+The three benchmark zzso created for the purpose of zzso are available in Additional file zzso 
+

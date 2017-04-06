@@ -1,0 +1,5 @@
+
+In this article, we combined EST information from the UniGene database and orthologous relationships from the Ensembl database to construct a ZooDDD database. The primary function of ZooDDD is to mine evolutionary conserved, highly expressed, tissue-specific orthologues in model animals. The candidate genes of interest derived from the ZooDDD database will provide biologists with a good step for comparing the expression, functions and evolution of animal genomes.
+
+http://bio301.iis.sinica.edu.tw/~ZooDDDNew/main.php.
+

@@ -1,0 +1,3 @@
+
+Alternate inversion recovery spatial modulation of magnetization (AIR-SPAMM) can be used either for doubling the number of tags for a given tagging encoding gradient strength or for improving tagging contrast ratio. AIR-SPAMM requires only a single acquisition and utilizes inversion pulses spaced throughout the gradient recalled echo (GRE) cine acquisition to "lock" the recovering magnetization at a desired level. The theory of AIR-SPAMM is presented along with simulations and results from phantoms. AIR-SPAMM can be used either for imaging systole as demonstrated by initial in vivo results or potentially for imaging the entire cardiac cycle in a slice-interleaved manner.
+

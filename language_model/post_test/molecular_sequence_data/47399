@@ -1,0 +1,7 @@
+
+Given zzso extracted from an aligned column of DNA bases and the underlying zzso Elmer zzso zzso zzso fluorescent zzso our goal is to train a neural network to determine correctly the consensus base for the zzso Choosing an appropriate network input representation is critical to success in this zzso We zzso compare five zzso one uses only base calls and the others include trace zzso 
+
+We attained the most accurate results from networks that incorporate trace information into their input zzso Based on estimates derived from using zzso zzso the best network zzso produces consensus zzso ranging from zzso to zzso for zzso from two to six aligned zzso With a coverage of six, it makes only three errors in 20 zzso consensus zzso In contrast, the network that only uses base calls in its input representation has over double that error rate: eight errors in 20 zzso consensus zzso 
+
+zzso 
+

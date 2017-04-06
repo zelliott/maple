@@ -1,0 +1,3 @@
+
+This paper presents a neural network control redesign, which achieves robust stabilization in the presence of zzso dynamics restricted to be input to output practically stable zzso without requiring any prior knowledge on any zzso zzso Moreover, the state of the zzso dynamics is permitted to go zzso provided that the nominal system state and/or the control input also go zzso The neural network controller is equipped with a zzso strategy to deal with the problem of possible division by zero, which may appear since we consider unknown input zzso fields with unknown zzso The uniform ultimate zzso of the system output to an arbitrarily small set, plus the zzso of all other signals in the zzso is zzso 
+

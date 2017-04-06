@@ -1,0 +1,9 @@
+
+The objectives of the study were to optimize three cartilage-dedicated sequences for in vivo knee imaging at 7.0 T ultra-high-field (UHF) magnetic resonance imaging (MRI) and to compare imaging performance and diagnostic confidence concerning osteoarthritis (OA)-induced changes at 7.0 and 3.0 T MRI.
+
+Optimized MRI sequences for cartilage imaging at 3.0 T were tailored for 7.0 T: an intermediate-weighted fast spin-echo (IM-w FSE), a fast imaging employing steady-state acquisition (FIESTA) and a T1-weighted 3D high-spatial-resolution volumetric fat-suppressed spoiled gradient-echo (SPGR) sequence. Three healthy subjects and seven patients with mild OA were examined. Signal-to-noise ratio (SNR), contrast-to-noise ratio (CNR), diagnostic confidence in assessing cartilage abnormalities, and image quality were determined. Abnormalities were assessed with the whole organ magnetic resonance imaging score (WORMS). Focal cartilage lesions and bone marrow edema pattern (BMEP) were also quantified.
+
+At 7.0 T, SNR was increased (p < 0.05) for all sequences. For the IM-w FSE sequence, limitations with the specific absorption rate (SAR) required modifications of the scan parameters yielding an incomplete coverage of the knee joint, extensive artifacts, and a less effective fat saturation. CNR and image quality were increased (p < 0.05) for SPGR and FIESTA and decreased for IM-w FSE. Diagnostic confidence for cartilage lesions was highest (p < 0.05) for FIESTA at 7.0 T. Evaluation of BMEP was decreased (p < 0.05) at 7.0 T due to limited performance of IM-w FSE.
+
+Gradient echo-based pulse sequences like SPGR and FIESTA are well suited for imaging at UHF which may improve early detection of cartilage lesions. However, UHF IM-w FSE sequences are less feasible for clinical use.
+

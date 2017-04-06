@@ -1,0 +1,9 @@
+
+We present a new concept that combines data storage and data analysis in genome research, based on an associative network memory. As an illustration, 115 000 conserved regions from over 73 000 published sequences (i.e. from the entire annotated part of the SWISSPROT sequence database) were identified and clustered by a self-organizing network. Similarity and kinship, as well as degree of distance between the conserved protein segments, are visualized as neighborhood relationship on a two-dimensional topographical map.
+
+Such a display overcomes the restrictions of linear list processing and allows local and global sequence relationships to be studied visually. Families are memorized as prototype vectors of conserved regions. On a massive parallel machine, clustering and updating of the database take only a few seconds; a rapid analysis of incoming data such as protein sequences or ESTs is carried out on present-day workstations.
+
+Access to the database is available at http://www.bioinf.mdc-berlin.de/unter2.html++ +
+
+(hanke,lehmann,reich)@mdc-berlin.de; bork@embl-heidelberg.de
+

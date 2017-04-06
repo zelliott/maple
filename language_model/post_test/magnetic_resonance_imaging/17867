@@ -1,0 +1,9 @@
+
+This paper considers automatic zzso of the left cardiac zzso in short axis magnetic resonance zzso Various aspects, such as the presence of zzso muscles near the zzso border, makes simple threshold based zzso zzso 
+
+The zzso and zzso are zzso as two series of zzso which are zzso using features describing shape and zzso Image features are derived from edge information from human zzso zzso The features are combined within a zzso trained zzso Random Field zzso zzso belief propagation is used to zzso zzso when an zzso video sequence is zzso Powell's method is applied to find zzso parameters by minimizing the difference between ground truth zzso and the zzso zzso We also describe how the zzso zzso points are calculated from a single zzso zzso point in the first frame, through zzso of frame alignment zzso 
+
+We present and zzso the results of zzso The zzso exhibits zzso against inclusion of the zzso muscles by zzso shape and motion zzso zzso future improvements are zzso 
+
+The presented model zzso shape and motion information to segment the inner and outer contours in the presence of zzso zzso On the zzso zzso we find an average zzso metric of zzso zzso zzso and zzso zzso zzso for the inner and outer zzso zzso Particularly problematic are patients with zzso where the blood pool disappears from view at zzso 
+

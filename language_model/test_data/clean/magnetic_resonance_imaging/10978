@@ -1,0 +1,3 @@
+
+Receiver operating characteristic (ROC) methods are useful tools for evaluating the sensitivity and specificity of various postprocessing algorithms used in fMRI data analysis. New ROC methods using real fMRI data are proposed that improve a previously introduced method by Le and Hu (Le and Hu, NMR Biomed 1997;10:160-164). The proposed methods provide more accurate means of estimating the true ROC curve from real data and thereby aid in the comparative evaluation of a wide range of postprocessing tools in fMRI. The mathematical relationships between different ROC curves are explored for a comparison of different ROC methods. Examples using real and simulated data are provided to illustrate the ideas involved.
+

@@ -1,0 +1,9 @@
+
+PET allows the imaging of functional properties of the living zzso whereas other zzso zzso zzso provide structural information at significantly higher resolution and better image zzso zzso for injected zzso zzso limitations of current zzso and inherent spatial uncertainties on the zzso process affect the quality of PET zzso In this article we illustrate how structural information of matched zzso images can be used in a zzso model to enhance the zzso ratio of PET zzso The model states a flexible relation between function and structure in the brain and replaces high-resolution information of PET images with appropriately scaled zzso or CT local zzso The method can be naturally extended to other functional imaging zzso zzso functional zzso 
+
+The methodology is based on the zzso property of the zzso transform zzso First, the zzso structural image zzso is zzso to the resolution of the PET volume through appropriate zzso Second, a redundant version of the zzso is applied to both zzso Third, a linear model is applied to the set of local zzso of both image volumes and resulting parameters are zzso The overall set of linear zzso is then modeled as a mixture of zzso zzso zzso and fitted through a zzso zzso Finally, the local zzso zzso of the PET image are zzso by the corresponding values of the zzso set zzso according to the resulting zzso The methodology was validated on digital simulated images and clinical data to evaluate its quantitative potential for individual as well as group zzso 
+
+Application to real and simulated zzso shows very effective noise reduction zzso zzso while resolution is zzso 
+
+The methodology is robust to errors in the zzso zzso practical to zzso and zzso zzso 
+

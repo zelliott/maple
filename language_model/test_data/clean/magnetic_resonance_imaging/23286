@@ -1,0 +1,9 @@
+
+When using imaging to predict time to progression from mild cognitive impairment (MCI) to Alzheimer's disease (AD), time-to-event statistical methods account for varying lengths of follow-up times among subjects whereas two-sample t-tests in voxel-based morphometry (VBM) do not. Our objectives were to apply a time-to-event voxel-based analytic method to identify regions on MRI where atrophy is associated with significantly increased risk of future progression to AD in subjects with MCI and to compare it to traditional voxel-level patterns obtained by applying two-sample methods. We also compared the power required to detect an association using time-to-event methods versus two-sample approaches.
+
+Subjects with MCI at baseline were followed prospectively. The event of interest was clinical diagnosis of AD. Cox proportional hazards models adjusted for age, sex, and education were used to estimate the relative hazard of progression from MCI to AD based on rank-transformed voxel-level gray matter density (GMD) estimates.
+
+The greatest risk of progression to AD was associated with atrophy of the medial temporal lobes. Patients ranked at the 25th percentile of GMD in these regions had more than a doubling of risk of progression to AD at a given time point compared to patients at the 75th percentile. Power calculations showed the time-to-event approach to be more efficient than the traditional two-sample approach.
+
+We present a new voxel-based analytic method that incorporates time-to-event statistical methods. In the context of a progressive disease like AD, time-to-event VBM seems more appropriate and powerful than traditional two-sample methods.
+

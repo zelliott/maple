@@ -1,0 +1,13 @@
+
+zzso that is dependent on zzso associated with survival can arise in zzso trials due to changes in recruitment and eligibility criteria to minimize zzso potentially leading to biased treatment effect zzso zzso approaches have been proposed to address zzso in survival zzso while these approaches may provide unbiased estimates of treatment effects, zzso of a large number of outcomes may zzso or underestimate the associated zzso based on the zzso pool zzso 
+
+We propose an improved method, zzso zzso as an alternative to address withdrawal related to the risk of events in the context of zzso zzso 
+
+Our zzso performs zzso from a pool of replacement subjects with similar values of both treatment and zzso of interest, that is, from a zzso zzso This zzso prior to zzso addresses the requirement of zzso analysis that censored observations are representative of all other observations in the risk group with similar exposure zzso We compared our zzso zzso to case deletion and zzso zzso in a simulated zzso in which the zzso of interest zzso zzso was related to zzso A motivating example from a recent clinical trial is also presented to demonstrate the utility of our zzso 
+
+In our simulations, zzso zzso gives estimates of treatment effect comparable to zzso and auxiliary variable zzso while avoiding zzso of the latter two in zzso the associated zzso Similar results were obtained in analysis of clinical trial zzso 
+
+zzso zzso has little advantage over other zzso methods when zzso of interest are not related to zzso zzso zzso is intended for zzso zzso and may be sensitive to the zzso of the matching window if continuous zzso are zzso 
+
+The use of the zzso zzso should facilitate the analysis of many clinical trials, in which one group has a higher withdrawal rate that is related to zzso 
+

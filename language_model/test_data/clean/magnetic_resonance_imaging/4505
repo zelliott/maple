@@ -1,0 +1,3 @@
+
+Multidimensional spatially selective excitation pulses rely on the accuracy of gradient waveforms to achieve desired excitation volumes. Unfortunately, the high gradient slew-rates and magnitudes required by these pulses often lead to distortion of the waveforms produced by imaging systems resulting in poor selection profiles. In this paper, a k-space calibration procedure, used to determine the actual trajectory produced by the scanner's field gradients, is extended to two spatial dimensions. This measured information is then incorporated in a selective excitation design technique for correcting the RF pulse envelopes to compensate for gradient waveform induced distortion of the excitation volumes.
+

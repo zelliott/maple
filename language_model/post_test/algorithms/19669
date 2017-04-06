@@ -1,0 +1,3 @@
+
+We present an efficient feature selection zzso for the general zzso problem, which zzso a zzso linear zzso least squares zzso zzso The zzso 1) determines an appropriate zzso linear network zzso model for the given data set, 2) applies the zzso procedure to the zzso model, and 3) searches for useful feature zzso using a floating search zzso The floating search prevents the zzso zzso The proposed zzso is zzso very efficient because only one data pass is zzso Several examples are given to demonstrate the effectiveness of the proposed zzso 
+

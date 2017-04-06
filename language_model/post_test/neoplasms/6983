@@ -1,0 +1,9 @@
+
+We address the problem of identifying zzso expressed genes between two conditions in the scenario where the data arise from an zzso study, in which zzso factors are likely to be zzso 
+
+We suggest to use matching methods to balance two groups of observed cases on measured zzso and to identify zzso expressed genes using a test suited to matched zzso We illustrate this approach on two zzso zzso the first study consists of data from patients with two cancer zzso and the second study consists of data from zzso patients with and without Down zzso 
+
+R code zzso for implementing our approach is included as zzso zzso 
+
+zzso data are available at zzso zzso 
+

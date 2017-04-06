@@ -1,0 +1,9 @@
+
+The use of different zzso acquisition zzso and reconstruction zzso has been identified as a problem that limits the use of PET in zzso zzso The aim of this project was to aid zzso of data collection by developing a quality assurance method for measuring the spatial resolution achieved with clinical imaging zzso 
+
+A commercially available zzso cylinder phantom zzso 20 zzso with a uniform activity concentration was positioned in the center of the PET field of view, and an image was acquired using typical clinical zzso zzso resolution was measured by artificially generating an object function zzso with uniform activity within a zzso cylinder, assuming no noise and perfect spatial resolution, centered on the original image zzso dividing zzso by zzso where F indicates a zzso zzso zzso to produce a zzso transfer zzso and taking the inverse zzso transform of the zzso transfer function to produce a zzso function in image zzso The method was validated using data acquired on 4 different commercial PET zzso 
+
+zzso resolution on the Discovery zzso was measured at zzso zzso zzso zzso compared with zzso zzso zzso zzso from separate point source zzso zzso of the resolution zzso differed between scanners and zzso but the typical zzso was approximately zzso zzso when zzso reconstruction was zzso The potential for predicting resolution recovery zzso for small objects was also zzso 
+
+The proposed method does not require elaborate phantom preparation and is practical to perform, and data analysis is fully zzso This approach is useful for evaluating clinical reconstruction protocols across varying scanners and reconstruction zzso and should greatly aid zzso of data collection between zzso 
+

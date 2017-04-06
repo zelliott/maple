@@ -1,0 +1,9 @@
+
+zzso zzso of zzso zzso in abdominal zzso zzso zzso image sequences is an indispensable step for zzso diagnosis and pathology detection in clinical zzso In this study, the goal is to develop a zzso tool to extract zzso zzso in CT sequences for the management of zzso diagnosis and zzso 
+
+In this paper, the authors propose a new zzso active contours model with an zzso zzso of narrow band for kidney extraction in CT image zzso Based on graph cuts and contextual zzso the zzso is carried out zzso In the first stage, the middle two adjacent slices in a CT sequence are segmented zzso based on the graph cuts zzso zzso the zzso zzso zzso toward the zzso boundaries by the proposed model for the kidney extraction of the remaining zzso In this model, the energy function combining boundary with regional information is zzso in the constructed graph and the zzso search range is determined by contextual continuity and the object zzso In addition, in order to reduce the complexity of the zzso computation, the zzso in the graph only have zzso for fewer zzso 
+
+The total 30 CT images sequences with normal and pathological zzso zzso are used to evaluate the accuracy and effectiveness of our zzso The experimental results reveal that the average dice similarity zzso of these image sequences is from zzso to zzso and the corresponding standard zzso for each zzso is from zzso to zzso In addition, the average automatic zzso time for one kidney in each slice is about zzso zzso 
+
+zzso the zzso active contours model with contextual zzso the zzso takes advantages of energy zzso and the characteristics of image zzso The proposed method achieves effective results for kidney zzso in CT zzso 
+

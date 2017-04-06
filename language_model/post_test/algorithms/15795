@@ -1,0 +1,3 @@
+
+A major problem in predicting protein structure by zzso zzso is that the sequence alignment from which the model is built may not be the best one in terms of the correct zzso of zzso assessed by structural or functional zzso A useful strategy is to generate and examine a number of zzso alignments as better alignments can often be found away from the zzso A procedure to filter rapidly zzso alignments based on measurement of core volumes and packing pair zzso is zzso The approach is zzso on three pairs of sequences which are zzso to align correctly, namely two zzso zzso zzso with zzso and two distant zzso zzso It is shown to be useful to reduce a large ensemble of possible alignments down to a few which zzso more closely to the correct zzso zzso zzso 
+

@@ -1,0 +1,9 @@
+
+To describe and evaluate a fully automated method for characterizing abdominal adipose tissue from magnetic resonance (MR) transverse body scans.
+
+Four MR pulse sequences were applied: SE, FLAIR, STIR, and FRFSE. On 39 subjects, each abdomen was traversed by 15 contiguous transaxial images. The total abdominal adipose tissue (TAAT) was calculated from thresholds obtained by slice histogram analysis. The same thresholds were also used in the manual volume calculation of TAAT, subcutaneous abdominal adipose tissue (SAAT) and visceral abdominal adipose tissue (VAAT). Image segmentation methods, including edge detection, mathematical morphology, and knowledge-based curve fitting, were used to automatically separate SAAT from VAAT in various 'nonstandard' cases such as those with heterogeneous magnetic fields and movement artefacts.
+
+The percentage root mean squared errors of the method for SAAT and VAAT ranged from 1.0 to 2.7% for the four sequences. It took approximately 7 and 15 min to complete the 15-slice volume estimation of the three adipose tissue classes using automated and manual methods, respectively.
+
+The results demonstrate that the proposed method is robust and accurate. Although the separation of SAAT and VAAT is not always perfect, this method could be especially helpful in dealing with large amounts of data such as in epidemiological studies.
+

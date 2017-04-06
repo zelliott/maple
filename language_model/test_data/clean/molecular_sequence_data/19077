@@ -1,0 +1,7 @@
+
+Small RNAs are important regulators of genome function, yet their prediction in genomes is still a major computational challenge. Statistical analyses of pre-miRNA sequences indicated that their 2D structure tends to have a minimal free energy (MFE) significantly lower than MFE values of equivalently randomized sequences with the same nucleotide composition, in contrast to other classes of non-coding RNA. The computation of many MFEs is, however, too intensive to allow for genome-wide screenings.
+
+Using a local grid infrastructure, MFE distributions of random sequences were pre-calculated on a large scale. These distributions follow a normal distribution and can be used to determine the MFE distribution for any given sequence composition by interpolation. It allows on-the-fly calculation of the normal distribution for any candidate sequence composition.
+
+The speedup achieved makes genome-wide screening with this characteristic of a pre-miRNA sequence practical. Although this particular property alone will not be able to distinguish miRNAs from other sequences sufficiently discriminative, the MFE-based P-value should be added to the parameters of choice to be included in the selection of potential miRNA candidates for experimental verification.
+

@@ -1,0 +1,9 @@
+
+The purpose of this study was to develop a new method for automated lung zzso detection in serial section CT images with using the characteristics of the zzso appearance of the zzso that distinguish themselves from the zzso 
+
+Lung zzso were detected in four zzso First, to reduce the number of region of interests zzso and the zzso time, the lung regions of the zzso were segmented using zzso Cellular zzso Networks zzso Then, for each lung region, zzso were specified with using the 8 directional zzso zzso or zzso values were assigned to each zzso The zzso zzso image was obtained by combining all the zzso zzso zzso zzso A zzso template was created to find the zzso structures on the zzso zzso zzso zzso of the zzso zzso image with the proposed template strengthens the shapes that are similar to those of the template and it zzso the other zzso Finally, fuzzy rule based zzso was applied and the zzso were zzso To test the system's efficiency, we used 16 cases with a total of 425 zzso which were taken from the Lung Image Database zzso zzso zzso 
+
+The computer aided diagnosis zzso system achieved zzso sensitivity with zzso zzso per case when the zzso thickness was greater than or equal to zzso zzso 
+
+Our results indicate that the detection performance of our zzso is zzso and this may well improve the performance of zzso detection of lung zzso 
+

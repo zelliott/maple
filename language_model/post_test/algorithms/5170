@@ -1,0 +1,7 @@
+
+zzso parallel sequencing technologies have become important tools in the analysis of sequence zzso on a zzso zzso However, the development of customized software to analyze data produced by these methods has lagged zzso 
+
+Here I describe a zzso zzso designed to identify zzso between sequence reads obtained using zzso technology and a reference zzso The zzso alignment tool does not use zzso zzso for sequence zzso Instead, a simple zzso comparing parsed sequence reads to parsed reference zzso sequences is zzso zzso output is geared towards immediate user application, displaying zzso locations, zzso changes, and relevant predicted zzso changes for ease of information zzso To do so, zzso requires several accessory files easily derived from an zzso reference zzso zzso sequencing as well as in zzso studies demonstrate that zzso provides zzso predictions comparable in accuracy to available prediction programs, accompanied by greater processing speed and more zzso zzso We demonstrate the use of zzso to identify zzso leading to zzso consequences in zzso zzso 
+
+Our studies suggest that zzso is a useful tool for zzso discovery, and is of immediate utility for sequence mining in zzso zzso 
+

@@ -1,0 +1,9 @@
+
+T1 quantification of contrast agents, such as super-paramagnetic iron oxide nanoparticles, is a challenging but important task inherent to many in vivo applications in magnetic resonance imaging. In this work, a sweep imaging with Fourier transformation using variable flip angles (VFAs-SWIFT) method was proposed to measure T1 of aqueous super-paramagnetic iron oxide nanoparticle suspensions.
+
+T1 values of various iron concentrations (from 1 to 7 mM) were measured using VFA-SWIFT and three-dimensional spoiled gradient-recalled echo with VFAs (VFA-SPGR) sequences on a 7 T MR scanner. For validation, T1 values were also measured using a spectroscopic inversion-recovery sequence on a 7 T spectrometer.
+
+VFA-SWIFT demonstrated its advantage for quantifying T1 of highly concentrated aqueous super-paramagnetic iron oxide nanoparticle suspensions, but VFA-SPGR failed at the higher end of iron concentrations. Both VFA-SWIFT and VFA-SPGR yielded linear relationships between the relaxation rate and iron concentrations, with relaxivities of 1.006 and 1.051 s(-1) mM(-1) at 7 T, respectively, in excellent agreement with the spectroscopic measurement of 1.019 s(-1) mM(-1) .
+
+VFA-SWIFT is able to achieve accurate T1 quantification of aqueous super-paramagnetic iron oxide nanoparticle suspensions up to 7 mM.
+

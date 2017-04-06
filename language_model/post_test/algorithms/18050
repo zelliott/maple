@@ -1,0 +1,7 @@
+
+Modern zzso research involves the application of zzso technologies that generate vast volumes of zzso These data need to be zzso analyzed and integrated with existing knowledge through the use of diverse sets of software tools, models and zzso The analyses are often zzso and chained together to form complex zzso or zzso Given the volume of the data used and the multitude of zzso resources available, specialized pipeline software is required to make zzso analysis of large-scale zzso zzso zzso 
+
+We have developed a generic pipeline system called zzso The system is modular in design and consists of three functionally distinct zzso 1) a web based, zzso user interface zzso that enables a pipeline operator to manage the system; 2) the zzso which forms the functional core of the system and which tracks what data enters the system and determines what jobs must be scheduled for execution, zzso 3) the zzso which searches for scheduled jobs and zzso these on a zzso zzso 
+
+The zzso system is an zzso modular system, implementing the stated zzso zzso enables easy creation and execution of high zzso flexible zzso zzso 
+

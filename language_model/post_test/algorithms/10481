@@ -1,0 +1,9 @@
+
+To segment the fetal heart in order to facilitate the zzso assessment of the cardiac function and zzso 
+
+zzso acquisition typically results in zzso artifacts of the chamber zzso The authors outline a level set zzso model to automatically delineate the small fetal cardiac zzso The level set is penalized from growing into an adjacent cardiac compartment using a novel collision detection zzso The region based model allows simultaneous zzso of all four cardiac chambers from a user defined seed point placed in each zzso 
+
+The segmented boundaries are automatically penalized from zzso at walls with signal zzso Root mean square errors of the perpendicular distances between the zzso zzso and manual zzso are within 2 zzso which is less than zzso of the length of a typical fetal zzso The ejection zzso were determined from the zzso zzso We validate the zzso using a physical phantom and obtain volumes that are comparable to those from physically determined zzso The zzso segments volumes with an error of within zzso as determined using a physical zzso 
+
+Our original work in fetal cardiac zzso compares automatic and manual zzso to a physical phantom and also measures zzso observer zzso 
+

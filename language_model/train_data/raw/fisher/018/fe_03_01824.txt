@@ -1,0 +1,375 @@
+# fe_03_01824.sph
+# Transcribed by BBN/WordWave
+
+0.55 1.61 A: hello 
+
+1.05 3.60 B: [lipsmack] hi [noise] my name is mary 
+
+3.37 6.61 A: hi mary i'm john ah where are you from mary [noise] 
+
+5.58 7.18 B: i'm in new jersey 
+
+6.91 12.18 A: oh cool i'm actually from ah michigan i'm in ah michigan state right now 
+
+11.80 13.49 B: (( ahah ahah okay )) 
+
+12.47 17.03 A: [lipsmack] so it looks like our topic is ah computers in education so 
+
+16.06 17.43 B: right right 
+
+17.14 21.77 A: yeah [noise] um what are your feelings on computers in education do you think they help or harm 
+
+21.71 30.69 B: um i think they definitely help um particularly in the school system and ah just the ability to research just about anything 
+
+23.80 24.69 A: (( [noise] mm-kay )) 
+
+30.51 32.33 A: mhm 
+
+30.72 32.15 B: over the internet 
+
+32.52 34.56 B: um i think they can also 
+
+34.69 38.37 B: be detrimental as far as they're just used for games or 
+
+37.75 39.56 A: (( [noise] [noise] right )) 
+
+38.54 45.46 B: if you get totally involved with the internet and [noise] lose touch ah [noise] with with communicating with people 
+
+45.17 46.97 A: (( mhm )) 
+
+45.53 49.79 B: and [noise] [noise] but i think ah in limited use i think they're very good [noise] [noise] 
+
+49.52 51.48 A: yeah absolutely i agree with you 
+
+51.60 62.40 A: um i'm actually writing a paper right now that's dealing with ah the technologies dealing with ah you know distance learning and education of that sort you know where you can take online courses and things of that nature 
+
+62.05 63.03 B: right 
+
+62.46 67.07 A: um i thought i heard a baby in the background have you ever are you a mother 
+
+66.19 69.92 B: [noise] yes yes i have a four year old and a one year old mhm [lipsmack] 
+
+69.32 74.75 A: or awesome awesome [noise] have you ever considered doing like a distance learning course or anything of that nature 
+
+74.51 76.51 B: yes actually i have 
+
+76.03 77.26 A: (( oh really [noise] [noise] )) 
+
+76.69 77.89 B: i've ah 
+
+78.00 81.69 B: done that with the [noise] ah empire state college in new york 
+
+81.50 86.50 A: oh really really i some of my research has mentioned that college how did th- how did that go for you 
+
+82.13 83.01 B: mhm 
+
+86.28 97.67 B: [lipsmack] pretty good um but i found the course actually harder um from a distance learning than actually attending classes but but from a scheduling perspective it was much easier 
+
+94.41 95.84 A: really 
+
+97.37 99.23 A: (( [noise] mhm )) 
+
+97.77 101.86 B: it just it required a lot more paperwork and ah 
+
+101.48 103.56 A: [noise] [noise] [noise] a lot more paperwork 
+
+102.75 104.47 B: a lot more reading [mn] 
+
+104.57 105.81 A: oh really 
+
+105.39 106.18 B: (( ahah )) 
+
+106.31 110.30 A: but ah like how was the class taught what kind of ah what kind of ah 
+
+110.56 114.02 A: curriculum was used for ah that particular class 
+
+113.58 117.23 B: actually it was ah it was systems administration 
+
+117.64 119.27 B: um course 
+
+118.85 120.73 A: mhm 
+
+119.44 120.74 B: and 
+
+121.96 126.19 B: [lipsmack] they sent me the text book and ah it was 
+
+126.47 133.99 B: you know back and forth with some questions and ah you know you can do some online chat type of things during the class 
+
+128.85 130.71 A: mhm 
+
+134.10 146.90 B: and ah i it also involved [noise] mailing a lot of the paperwork to the professor instructor and and that's where um there was a lot of work and lot of a lot more projects than you would get in the traditional class [noise] [lipsmack] 
+
+139.38 141.17 A: (( [noise] [noise] [noise] oh really )) 
+
+141.80 143.64 A: some of the 
+
+146.39 158.34 A: i see so it's like less ah online and more along the lines of just being at a distance yeah i see i see would you do it again do you think was it worth it 
+
+151.96 154.47 B: book study yeah mhm 
+
+157.21 160.43 B: yes i would mhm [noise] yep [noise] mhm [noise] 
+
+158.59 159.61 A: that's cool 
+
+159.82 172.82 A: that's really interesting well um my perspective on computers and learning is that ah i don't know frankly i think they've been kind of detrimental because as you've mentioned one of the pluses is that you are able to research so easily on the internet 
+
+172.43 173.39 B: mhm 
+
+172.80 175.95 A: but ah i think that encourages a lot of ah [lipsmack] 
+
+176.14 183.89 A: a lot of cheating in all honesty you know people just ah [noise] taking what they find on the internet for face value 
+
+177.33 178.37 B: (( ahah [noise] )) 
+
+183.83 196.88 A: and then using that as you know their own material i mean in the end the internet really promotes [mn] practices such as that i think and um i mean in all honesty i i find that it 
+
+187.51 188.55 B: right 
+
+192.34 193.35 B: (( mhm [noise] [noise] )) 
+
+197.28 211.06 A: has helped me a lot you know but i think overall it's kinda cheapened the education system a lot of thoughts aren't necessary one's own any more just what they happen to read on the internet and y- how do you feel about that 
+
+207.63 209.18 B: (( [noise] [noise] [noise] [noise] [noise] [noise] right )) 
+
+209.20 210.02 B: (( [noise] )) 
+
+210.65 219.93 B: um i agree with that [noise] i also [noise] you have to be careful you have to know what your source is and you can do a search and read an article and 
+
+214.42 216.19 A: (( mhm [noise] [noise] )) 
+
+216.71 218.29 A: mhm 
+
+219.93 229.21 B: unless you know [noise] what organization or you know [noise] person you're reading [noise] you know [noise] i mean it it could be completely inaccurate [noise] [noise] 
+
+228.22 231.16 A: (( [noise] [mn] [noise] right right absolutely [noise] )) 
+
+229.55 230.50 B: mhm 
+
+230.77 232.64 B: (( [noise] yep [noise] [noise] [lipsmack] )) 
+
+231.85 241.61 A: yeah so do you personally use a computer very often ah did you use it at all during your ah during your online course or how has that how has that worked out for you 
+
+241.33 243.56 B: i used it a little bit [noise] um 
+
+242.62 244.41 A: (( [noise] [noise] mhm )) 
+
+243.83 253.81 B: [noise] and i got my degree in nineteen ninety eight and actually since about two thousand i've used the computer considerably more than when i did in college mhm [noise] 
+
+253.01 259.21 A: [noise] [noise] [noise] oh really [noise] so you went through college um without [noise] using the computer so much 
+
+258.75 261.82 B: yeah yeah basically [noise] 
+
+259.55 261.20 A: [noise] wow that's 
+
+261.84 268.28 A: i mean i can't even imagine something like that i mean it seems like the computer is a real integral part of what i have to do every single day 
+
+267.70 269.34 B: (( [noise] right right [noise] [noise] )) 
+
+268.72 280.46 A: um how how are your classes structured and whatnot and like how did ah did you have any like large lectures or anything like that how was the ah professor able to communicate with the whole group and outside of class 
+
+278.15 279.60 B: (( [noise] [noise] [noise] [lipsmack] )) 
+
+281.00 289.95 B: um [noise] just just through that chat room and then just though ah [noise] the mail [noise] and [noise] grading the assignments and having them come back 
+
+286.34 287.43 A: wow 
+
+289.66 293.60 A: mm if you don't mind me asking where did you ah where did you go to school mhm [noise] mhm i ah [noise] i would just go 
+
+293.20 296.76 B: [noise] [lipsmack] i ended up getting my degree from [noise] regent's college 
+
+296.27 297.12 A: (( to the [noise] closest )) 
+
+296.78 300.46 B: as i switched jobs i i was a [noise] part time student and 
+
+299.78 301.12 A: (( college [noise] generally to to my )) 
+
+302.67 305.42 B: (( [noise] )) 
+
+305.03 308.04 A: work [noise] right right wow 
+
+306.85 315.16 B: so i ended up with ah [noise] lots of credits from the state university of new york and then a couple of colleges in new jersey [noise] 
+
+311.80 313.52 A: mhm 
+
+314.75 316.17 A: well that's interesting 
+
+315.53 316.46 B: (( [noise] mhm )) 
+
+316.46 322.39 A: ah so you only saw the computer come into use really late towards the end of your education 
+
+321.60 323.61 B: (( [noise] yes yes mhm [noise] [noise] [noise] )) 
+
+323.08 324.18 A: wow 
+
+323.69 324.57 B: (( mhm )) 
+
+324.24 325.35 A: (( um )) 
+
+325.56 336.26 A: now had i don't know had you noticed that it was there and like ah choose chosen not to use it or just did it i mean i i guess i'm kinda interested as to how 
+
+336.65 340.35 A: the computer came into being your use and whatnot 
+
+339.00 339.77 B: (( ahah )) 
+
+340.55 347.01 B: [noise] it was always available at the schools [noise] but ah there wasn't too much emphasize placed on it 
+
+342.58 344.46 A: mhm 
+
+346.45 347.55 A: (( [noise] really )) 
+
+347.01 356.37 B: but i always had access to the computer labs [noise] and ah my background is in accounting [noise] and computers so it's kinda interesting that ah i didn't use it too much 
+
+349.76 350.68 A: (( ahah )) 
+
+353.11 354.02 A: [noise] okay 
+
+356.02 359.27 A: [laughter] yeah 
+
+356.42 357.73 B: [laughter] 
+
+358.93 364.45 B: but um i used it a lot for work and research for work but not so much for school 
+
+359.48 360.15 A: (( [noise] )) 
+
+362.48 364.38 A: mhm 
+
+364.45 365.40 A: wow 
+
+364.77 368.09 B: and it could also be with the speed of the internet connections 
+
+368.24 370.68 B: at this place i'm i'm spoilt 
+
+368.55 376.99 A: yeah it has changed quite a bit yeah absolutely absolutely mhm do you use ah the computer for personal use at home now or 
+
+376.68 382.68 B: yes yes and ah i also ah teach computer classes to preschoolers [noise] 
+
+377.67 378.67 A: (( mhm [noise] )) 
+
+382.07 383.36 A: oh really 
+
+382.78 384.47 B: (( ahah and ah )) 
+
+384.82 394.65 B: i bought a franchise and they teach computers they specialize in ages two through six i don't really believe in two year olds are are much too young in my opinion 
+
+390.03 391.83 A: mhm 
+
+394.68 396.46 A: right 
+
+395.38 398.84 B: and you know three is questionable but i think four is good because 
+
+398.93 403.71 B: in the school systems here now [noise] they they start using computers in kindergarten 
+
+403.19 405.75 A: [noise] at such a young age absolutely [noise] 
+
+404.56 405.46 B: (( yeah )) 
+
+405.64 407.51 B: you know the teachers have to 
+
+407.42 420.69 B: spend so much time you know just just getting the children to learn how to use the mouse [noise] and you know especially some of the disadvantaged kids [noise] that never got exposure to it they kinda get left behind [noise] the teacher just doesn't have enough time 
+
+411.95 413.15 A: (( right [noise] )) 
+
+417.55 418.71 A: [noise] absolutely 
+
+420.97 433.04 A: mhm i'm i'm curious ah how how have you seen the computers have impacted you know did you say you taught preschoolers or was it yeah how has that impacted their learning in their education and whatnot 
+
+427.45 429.59 B: yes mhm 
+
+433.57 435.76 B: (( um they )) 
+
+436.96 439.71 B: they go to school more able to um 
+
+441.05 443.61 B: they ah don't get caught up in 
+
+443.68 444.89 B: (( you know how to )) 
+
+445.27 450.68 B: how to turn on the computer how to use a mouse how to use the keyboard um 
+
+446.85 448.73 A: (( [noise] [noise] mhm )) 
+
+449.42 451.32 A: mhm 
+
+450.81 455.89 B: they're better at taking turns i mean [noise] it's not just technology but just ah 
+
+456.72 460.32 B: mm sharing it [laughter] with the other kids 
+
+458.69 461.75 A: oh yeah yeah 
+
+460.43 463.23 B: so it it's a big thing 
+
+463.36 466.25 B: and then on top of that there's all the um [lipsmack] 
+
+467.33 468.69 B: where they have 
+
+468.92 480.32 B: [noise] through like games [noise] for math and a._b._c.s and all that [noise] i mean i won't let my daughter [noise] spend more than ten minutes on the computer [noise] per night [mn] i mean i 
+
+470.73 473.32 A: mhm mhm 
+
+479.37 480.23 A: mhm 
+
+480.94 491.73 B: feel really strongly that you know it needs to be more of an interactive thing [noise] um if i'm sitting next to her [noise] it can be a half hour but she can't spend more than ten minutes by herself [noise] 
+
+485.23 486.90 A: right 
+
+491.05 495.56 A: on the computer even with those educational programs and whatnot you feel that 
+
+493.48 497.30 B: yeah yeah i think it's just too ah [noise] 
+
+498.01 503.00 B: you know slightly better than watching t._v. but not much more [mn] [noise] [laughter] 
+
+500.99 503.29 A: oh interesting interesting 
+
+503.40 511.27 A: yeah um some of the the research that i've done has shown that like one of the main issues is that whole interaction thing and um 
+
+509.52 510.63 B: (( [noise] [noise] [noise] [noise] [noise] [noise] [noise] [noise] [noise] [noise] [noise] )) 
+
+511.19 525.76 A: there have been studies that have shown that sitting in front of a television causes kids really to just space out and lose some of that interaction and i'm wondering if you know computers are encouraging you know distance learning just having their kids sit in front of the computer and supposedly learn 
+
+525.52 526.82 B: right right 
+
+526.18 527.16 A: so 
+
+527.53 535.36 A: so you only allow your ah daughter computer usage if it's educational or do you allow her like leisure time on the computer at all or 
+
+535.09 542.53 B: it can be leisure and you know it can be leisure if i'm sitting next to her too [noise] it doesn't have to be ah through learning your your numbers or whatever 
+
+542.16 543.32 A: (( [noise] [noise] mhm [noise] )) 
+
+542.94 545.54 B: just so there is some interaction some talking 
+
+545.46 547.12 A: mhm 
+
+545.70 547.17 B: um going on 
+
+547.24 550.69 B: and ah [noise] it's the same thing with t._v. [noise] 
+
+549.85 551.72 A: (( [noise] mhm )) 
+
+550.78 560.83 B: i try to limit it but i'm not quite as successful [noise] but ah there there again if i'm talking to her and ah we're talking about the show it's it's not such a [noise] [mn] um 
+
+553.33 556.07 A: [noise] [laughter] i can imagine 
+
+563.17 565.50 B: like a dumb and down just 
+
+564.87 568.09 A: right there is mental simulation i see 
+
+567.19 568.85 B: mhm 
+
+568.36 569.38 A: um 
+
+569.68 571.26 B: [noise] [lipsmack] what is your major 
+
+571.04 574.10 A: i'm actually ah a general business pre law 
+
+573.88 575.17 B: (( oh wow [noise] [noise] )) 
+
+574.62 588.56 A: yeah so ah we'll see how that goes a lot the ah lot of the distance [noise] learning and electronic learning is ah talking about you know people getting their business majors and their m._b._a.s through online courses and things of that nature 
+
+588.21 589.20 B: (( [mn] mhm )) 
+
+588.57 589.77 A: hey um 
+
+590.10 598.65 A: so would you say you prefer the traditional classroom model you know with the ah teachers up front and the whole social interaction or i mean 
+
+598.29 599.89 B: [noise] [lipsmack] a combination is okay 
+

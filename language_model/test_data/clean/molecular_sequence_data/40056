@@ -1,0 +1,7 @@
+
+The ENCODE gene prediction workshop (EGASP) has been organized to evaluate how well state-of-the-art automatic gene finding methods are able to reproduce the manual and experimental gene annotation of the human genome. We have used Softberry gene finding software to predict genes, pseudogenes and promoters in 44 selected ENCODE sequences representing approximately 1% (30 Mb) of the human genome. Predictions of gene finding programs were evaluated in terms of their ability to reproduce the ENCODE-HAVANA annotation.
+
+The Fgenesh++ gene prediction pipeline can identify 91% of coding nucleotides with a specificity of 90%. Our automatic pseudogene finder (PSF program) found 90% of the manually annotated pseudogenes and some new ones. The Fprom promoter prediction program identifies 80% of TATA promoters sequences with one false positive prediction per 2,000 base-pairs (bp) and 50% of TATA-less promoters with one false positive prediction per 650 bp. It can be used to identify transcription start sites upstream of annotated coding parts of genes found by gene prediction software.
+
+We review our software and underlying methods for identifying these three important structural and functional genome components and discuss the accuracy of predictions, recent advances and open problems in annotating genomic sequences. We have demonstrated that our methods can be effectively used for initial automatic annotation of the eukaryotic genome.
+

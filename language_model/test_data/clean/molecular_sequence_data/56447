@@ -1,0 +1,3 @@
+
+Pattern-matching algorithms are a powerful tool for finding similarities and relationships among the steadily growing amount of known protein sequences. We present a fast, sensitive pattern-matching algorithm that describes a pattern by its physico-chemical properties rather than by occurrence of amino acids, using a fast, dynamic programming algorithm. Selected examples will demonstrate applications and advantages of our approach.
+

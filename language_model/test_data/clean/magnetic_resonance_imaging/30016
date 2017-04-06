@@ -1,0 +1,9 @@
+
+Positive markers of Alzheimer's disease (AD) have been established in MRI that may allow early detection of AD in at-risk groups. In the near future, these markers will be of high relevance for the selection of at-risk subjects in secondary preventive trials.
+
+We describe the methodology and diagnostic value of manual volumetry of the hippocampus and entorhinal cortex, automated voxel-based morphometry, cortical thickness measurement, basal forebrain volumetry and deformation-based morphometry, implementing multivariate statistics and machine learning algorithms to improve group separation and prediction of AD in at-risk groups. We also describe the methodological basis and results obtained in AD using the recently developed technique of diffusion tensor-based morphometry (DTI). This technique gives access to the integrity of subcortical fibre systems in the human brain.
+
+The best established structural biomarker of AD to date is hippocampus volume that already has been implemented as secondary endpoint in clinical trials on disease modification in AD. Automated approaches will gain an increasing role as endpoints of clinical trials in the near future given the interest in these techniques expressed by the regulatory authorities. DTI is still a developing field where analysis techniques are presently being devised to make optimal use of the multivariate data. Data on changes of fibre tract in preclinical AD are still limited, but the first results are promising in respect to a further enhancement of diagnostic accuracy by combining MRI and DTI.
+
+Besides their diagnostic use, MRI and DTI will broaden our understanding of the pathophysiology of AD and the structural and functional basis of normal cognition.
+

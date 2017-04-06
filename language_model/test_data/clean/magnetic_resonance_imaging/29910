@@ -1,0 +1,9 @@
+
+Our aim was to measure the relaxation times of the neonatal brain and to use these to derive pulse sequence parameters that enhance the signal-to-noise ratio (SNR) and contrast of MRI scans of the neonatal brain.
+
+The transverse (T2) and longitudinal (T1) relaxation times were measured for 10 healthy neonates, and the average relaxation times were calculated for both gray and white matter. Simulations using these values were then performed to estimate the optimal pulse sequence parameters. Images were obtained in three neonates using both the optimized and conventional sequence parameters.
+
+The measured (mean +/- SD) relaxation times of the neonatal brain at 1.5 T were T1 equals 1712 +/- 235 msec and T2 equals 394 +/- 52 msec in white matter and T1 equals 1144 +/- 245 msec and T2 equals 206 +/- 26 msec in gray matter. The optimized T1-weighted imaging used a turbo spin-echo sequence with an echo-train length of 3 and TR/TE of 850/11 msec and showed increases in both the contrast and the SNR. The optimized T2-weighted sequence used a TE of 270 msec and markedly increased the contrast but at the expense of a reduction in the SNR.
+
+Parameters of MRI turbo spin-echo sequences for scanning neonates are different from those required for adult studies, and appropriate protocols should be used.
+

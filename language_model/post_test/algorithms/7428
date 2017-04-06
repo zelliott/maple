@@ -1,0 +1,9 @@
+
+Genome sequencing and assembly are essential for revealing the secrets of life hidden in zzso Because of repeats in most zzso current programs zzso sequencing data into a set of assembled zzso called zzso instead of a complete zzso Toward completing a zzso optical mapping is powerful in rendering the relative order of zzso on the zzso which is called zzso However, connecting the neighboring zzso with zzso sequences requires further zzso zzso et zzso have recently proposed a software zzso zzso to close the gaps between zzso with other zzso sequences after scaffolding zzso using an optical zzso The results, however, are not yet zzso 
+
+To increase the accuracy of zzso connections, we develop zzso which carefully takes into account length information in optical zzso Specifically, it zzso optical map and applies length constraint for selecting the correct zzso sequences for gap zzso In addition, it uses an advanced graph search zzso to facilitate zzso the number of repeat copies within gaps between zzso On both simulated and real zzso zzso achieves a zzso false zzso rate, three times lower than the zzso false rate by zzso while maintaining a similar zzso 
+
+As optical mapping is becoming popular and repeats are the bottleneck of zzso zzso should benefit various downstream biological studies via accurately connecting zzso into a more complete zzso 
+
+zzso 
+

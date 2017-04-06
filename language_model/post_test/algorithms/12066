@@ -1,0 +1,3 @@
+
+This paper addresses the issues of neural network model development and maintenance in the context of a complex task taken from the zzso zzso In particular, it describes a comparison study of early stopping techniques and model selection, both to zzso neural network models for zzso zzso The results presented here show that early stopping via use of a zzso model evidence measure is a viable way of zzso performance while also making maximum use of all the zzso In addition, they show that zzso zzso performs well as a model zzso and as an zzso of prediction zzso These results are important in that they show how neural network models may be zzso trained and selected for highly complex industrial tasks where the data are noisy and limited in zzso 
+

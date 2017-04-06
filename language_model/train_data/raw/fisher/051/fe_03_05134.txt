@@ -1,0 +1,315 @@
+# fe_03_05134.sph
+# Transcribed by BBN/WordWave
+
+0.20 1.48 A: hello 
+
+0.81 2.10 B: hi 
+
+1.85 2.98 A: hi 
+
+2.51 4.43 B: um m- my name's jude 
+
+4.15 6.53 A: jude my name is my name is tim how 
+
+6.06 7.04 B: hi 
+
+6.74 7.62 A: (( are you )) 
+
+7.26 10.12 B: fine this is my first conversation 
+
+9.27 12.86 A: so this is mine too [laughter] okay 
+
+10.61 12.21 B: all right [laughter] 
+
+13.02 14.88 A: so where are you from 
+
+14.69 16.21 B: ah i live in new york 
+
+16.06 17.08 A: (( so do i how )) 
+
+17.29 18.19 B: (( cool )) 
+
+17.44 20.20 A: about that [laughter] whereabouts 
+
+19.61 20.67 B: i'm in brooklyn 
+
+20.53 22.96 A: brooklyn i'm up in rockland county 
+
+22.43 28.79 B: oh okay in the in the suburbs so you you'll probably have a very different take on the subject than me 
+
+24.27 25.69 A: yes [laughter] 
+
+28.82 29.90 A: okay 
+
+29.32 30.88 B: [laughter] 
+
+30.06 33.77 A: and what are we discussing here ad- ah computers in education [noise] 
+
+33.12 35.29 B: do they improve 
+
+35.97 38.75 B: wait it ah i should have written do they improve 
+
+38.99 44.88 B: and something else about education do they improve or you you didn't listen you didn't pay attention either [laughter] 
+
+43.97 47.48 A: so we're basically just supposed to talk to each other for ten minutes 
+
+46.93 48.78 B: on the subject of education 
+
+48.45 49.57 A: wow 
+
+49.99 53.81 A: [noise] okay so first of all do you have children 
+
+53.58 56.57 B: ah i have a kid in high school how about you 
+
+56.47 66.04 A: [lipsmack] i also a daughter in high school a senior actually and in the fall she will be going to college the university of rhode island 
+
+63.41 64.38 B: uh-huh 
+
+66.07 71.01 B: so do they have computers in all the classrooms in your daughter's school 
+
+70.87 75.31 A: she is buying a laptop through the school 
+
+75.41 85.84 A: um it's going to come with the software already downloaded that they use and she will bring it from her dorm room to the classroom as she needs it 
+
+78.96 80.41 B: (( mhm [noise] )) 
+
+86.28 97.30 B: right so that's for college but how about for right now does she ah does is does she does her school provide computers in the classroom for the kids to do their studying on [sigh] 
+
+96.96 98.81 A: not not at all 
+
+98.45 99.39 B: oh in 
+
+99.06 100.33 A: do they by you 
+
+100.13 101.48 B: (( ah )) 
+
+101.59 107.87 B: not in every classroom but there are de- there are definitely computers in the library and in the science rooms 
+
+107.24 111.41 A: oh yes ye- definitely in the library and definitely if you 
+
+111.42 120.92 A: took specifically a course that's ah computer related here there were are some courses that you will have a computer but for the most part ah no 
+
+120.91 126.67 B: uh-huh is the expectation that the kids will do their work on the computer 
+
+127.48 128.86 A: in college 
+
+128.28 130.76 B: in in in high school yeah 
+
+129.00 136.65 A: in high school um no no i don't think she does and i don't think she does the homework on on the computer 
+
+136.69 142.65 A: ah no i don't think she's using the computer at this point much except for ah 
+
+142.70 149.01 A: you know iming her friends at from home [laughter] that's what she's using the computer for at this point 
+
+145.40 146.47 B: uh-huh 
+
+148.26 150.52 B: right right um 
+
+150.58 154.40 B: well that's interesting much my my kid is just the opposite 
+
+154.52 158.42 B: she uses a computer a lot she uses it um 
+
+158.44 165.65 B: well for she she does all her writing on the computer does your daughter type her or use a typewriter or hand write or 
+
+164.53 172.99 A: um she yeah if she has a a report to do she will use the computer for that ah for the most part though no 
+
+169.26 170.30 B: mhm 
+
+173.14 174.05 B: uh-huh 
+
+173.38 176.13 A: she's not using it a lot for homework 
+
+175.65 176.77 B: okay 
+
+176.80 177.92 B: so 
+
+178.04 180.67 B: um [lipsmack] so that's 
+
+180.84 184.83 B: that's a difference i i get the sense in in new york city that 
+
+184.90 186.62 B: you know there's um 
+
+187.26 201.62 B: there's a real concern that kids be comfortable and proficient at using the computer not just in terms of typing but in terms of um accessing research on the internet you know [noise] 
+
+201.57 206.38 B: parents want their kids to you know be part of the cyber age 
+
+206.92 208.21 A: um 
+
+207.23 212.50 B: and and they feel that that it's important for the schools to take a role in um 
+
+212.71 215.62 B: in in in achieving that 
+
+215.00 218.86 A: i would think that would make sense i mean i would think that would be 
+
+216.68 217.81 B: mhm 
+
+219.05 221.75 A: ah something they would want kids to do 
+
+222.11 229.03 A: you know because that's obviously for the for their generation it's going just be a huge part of their future 
+
+228.73 235.05 B: but you do you you don't do you feel that's happening in the school where your your kid is now it sounds like it's it's not 
+
+234.46 243.52 A: it's no i don't think it is i don't think it is i don't think she knows how to ah you know she has she's taking computer 
+
+236.20 237.10 B: uh-huh 
+
+243.58 249.78 A: classes so she knows how to navigate her a way her way around a computer 
+
+249.39 250.41 B: mhm 
+
+249.79 252.63 A: but i don't think she you know she doesn't know i 
+
+252.79 264.92 A: unless she took a course she wouldn't know they weren't teaching every all the kids about ah you know ah [lipsmack] creating web pages and things like that so they weren't really teaching them 
+
+264.63 265.66 B: right 
+
+265.08 269.72 A: things that would be more useful for internet related careers 
+
+269.30 273.67 B: right so so there's two things there there's um 
+
+274.62 283.11 B: the computer as an end to itself like you said creating web pages or thinking about a career in computers and then there's using 
+
+283.23 290.42 B: computers as a tool to further your work in other areas i think it's really two separate things 
+
+290.04 291.84 A: (( yes i agree )) 
+
+292.11 295.61 A: well i don't know how you know 
+
+295.75 303.79 A: how much of a role ah should a high school play in that i you know i guess like i said i guess in these in these times 
+
+303.92 310.48 A: they they should play a bigger role in that because that's [noise] ah definitely going to be a part of their future 
+
+310.59 315.50 A: internet is only becoming more and more a part of the workplace 
+
+314.86 316.18 B: (( right [noise] )) 
+
+316.19 322.30 B: so if if if our question is [laughter] do you think that the ah computer is um 
+
+322.89 331.48 B: are improvement in terms of um education what would you do you do you feel like you have an opinion about that 
+
+331.12 343.23 A: i i would say that it it the computer would be an improvement in terms of education but i would say that in the case of my daughter i don't think it's playing that big of a part 
+
+342.87 343.85 B: uh-huh 
+
+343.79 353.26 A: i i mean i think it's helped her to she's a er ty- types very fast [laughter] that's probably more from the instant messages [noise] anything else also 
+
+348.34 350.02 B: [laughter] 
+
+351.12 352.83 B: yeah yeah yeah 
+
+352.86 353.82 B: right 
+
+353.25 364.51 A: she i never seen anybody type so fast so she's she's she's got obviously learned some skills from the computer [laughter] but i don't i don't know that she's you know i don't think that she's 
+
+355.46 356.44 B: right 
+
+358.51 360.37 B: [laughter] 
+
+364.84 367.09 A: you know know she hasn't been taught 
+
+367.25 378.13 A: you know microsoft programs or you know word or excel for example things that you probably could use some day in your workplace i mean i i use those in my workplace 
+
+369.76 370.81 B: mhm 
+
+372.25 373.37 B: mhm 
+
+375.50 376.76 B: right 
+
+377.49 378.78 B: mhm 
+
+378.17 385.82 A: it it but ah i had to go and take a course and learn them and it they didn't really teach her those things in high school where she goes 
+
+384.43 388.17 B: right well i think some people are um 
+
+388.42 393.30 B: feel that if the computer is in the classroom then kids will not learn 
+
+393.76 394.58 B: ah 
+
+394.66 400.93 B: the traditional ah by the the traditional methods of doing research and and 
+
+400.94 407.95 B: and thinking there's this concern that oh the computer physic- the computer you know sort of makes things easier 
+
+408.22 409.39 B: um 
+
+409.56 413.19 B: that kids are not are and are not gonna 
+
+414.03 417.36 B: get the sense of the whole process of research 
+
+417.60 428.64 B: in other words rather than going to the library and spending hours and looking things up you know they're they're typing and pressing buttons and having you know everything appear instantly 
+
+428.91 443.31 A: yeah well i think that i i don't think people will be doing that any more at the libraries right i think that's gonna become ah dinosaur [laughter] you won't have to do that it's everything is so easily at your ah finger tips 
+
+434.04 435.39 B: (( yeah [laughter] )) 
+
+437.36 438.73 B: exactly 
+
+443.83 447.34 A: (( that ah i dunno the library is ah )) 
+
+447.68 452.41 A: obviously still good for books but ah for research i 
+
+452.60 456.59 A: think it's probably certain things that you can only find there but for the most part you 
+
+456.87 460.04 A: can find out almost anything on the computer 
+
+459.60 471.23 B: yeah i well i think i think it's it's not just an improvement i think it's pretty much necessary now i mean i think that's our world now i think [sigh] if if 
+
+471.26 476.25 B: the computer's entirely missing from the school or from from the classroom 
+
+476.26 482.37 B: that those kids are really going to be at a disadvantage and of course you know there are many areas where 
+
+482.73 484.74 B: schools just don't have the money 
+
+484.95 487.36 B: to to offer that 
+
+488.01 500.33 A: yeah um i don't know if that's the case with her school um she lives actually ah i'm divorced so she lives with my ex wife in new jersey in a small town midland park in new jersey 
+
+495.49 496.39 B: uh-huh 
+
+499.87 500.71 B: uh-huh 
+
+500.30 507.67 A: and maybe that's being a small town doesn't have the ah resources to put a ah computer at every desk 
+
+507.87 512.03 A: so ah that might be a part of it in the suburbs i dunno 
+
+511.79 520.23 B: mm well it's certainly ah the case in the urban areas you know where that the funding for schools is [noise] 
+
+520.37 524.21 B: you know really critically um 
+
+524.67 526.51 B: [lipsmack] below what it should be 
+
+526.73 535.04 B: and ah i think only where schools have gotten grants you know like through bill gates foundation and other organizations have 
+
+535.20 543.82 B: have they been able to you know provide them it's my my impression was that you know these big suburban schools were all so well equipped and so 
+
+543.79 550.67 B: you know state of the art this and that ah it's it's interesting to hear that you know i'm i'm wrong about that 
+
+550.90 555.88 A: yeah yeah well in like i say it's a small town so i don't know that it's ah 
+
+553.79 554.71 B: mhm 
+
+555.99 562.27 A: i don't know that's ah a good a good ah town to use as a comparison yeah 
+
+560.58 561.65 B: i see 
+
+562.50 563.83 A: (( i dunno )) 
+
+564.29 566.54 A: well what else 
+
+566.21 569.52 B: ah let's see have we exhausted is our ten minutes up 
+
+567.67 568.91 A: [laughter] 
+
+569.05 573.44 A: so i think so e- oh yeah not just not yet they're supposed to notify us 
+
+572.98 574.02 B: okay 
+
+573.53 579.71 A: so i guess we're kinda in agreement that we think that computers are helping 
+
+579.99 591.37 B: are a benefit well the thing about small towns like you're describing that you know the the computer can literally put the world at at those kids' fingertips you know they can 
+
+580.97 581.94 A: right 
+
+591.24 597.12 B: access not only printed matter you can access sound you can access video 
+
+597.23 599.89 B: um you can make up for 
+

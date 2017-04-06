@@ -1,0 +1,9 @@
+
+To evaluate the effect of the hybrid RARE (rapid acquisition with relaxation enhancement) readout, commonly coupled to inversion-recovery pulse sequences, on the null inversiton time (TI) of fluid and fat using both phantoms and human volunteers.
+
+Two phantoms, simulating fat (phantom A) and cerebrospinal fluid (phantom B), respectively, were imaged using a fast inversion-recovery sequence that coupled an inversion-recovery preparation pulse to a hybrid RARE readout. At repetition times (TRs) ranging from 700 to 20,000, the TI necessary to null the signal from each phantom (null TI) was determined for an echo train length of 4, 6, 8, 10, 12, 14, 16, 18, and 20, respectively. Plots of null TI versus echo train length at different TRs were generated for both phantoms. Fast inversion-recovery MR imaging of the cervical spine and brain was performed in healthy volunteers. At a fixed TR and TI, the adequacy of signal suppression from bone marrow and cerebrospinal fluid was assessed as a function of echo train length.
+
+There was a gradual decrease of null TI for both phantoms with echo train length. This decrease persisted at longer TRs for phantom B (T1 = 3175 +/- 70 milliseconds) than for phantom A (T1 = 218 +/- 5 milliseconds). In the human volunteers, there was a gradual loss of suppression of signal from bone marrow and cerebrospinal fluid, with changes in the hybrid RARE readout.
+
+To optimize specific tissue suppression, radiologists implementing fast inversion-recovery MR imaging should be aware of the effects of the hybrid RARE readout on null TI.
+

@@ -1,0 +1,9 @@
+
+Among challenges that hamper reaping the benefits of zzso assembly are both unfinished zzso and the ensuing experimental zzso First, numerous software solutions for zzso de zzso assembly are available, each having its advantages and zzso without clear guidelines as to how to choose among zzso Second, these solutions produce draft zzso that often require a resource intensive finishing zzso 
+
+In this paper we address these two aspects by developing Mix , a tool that mixes two or more draft zzso without relying on a reference zzso and having the goal to reduce zzso fragmentation and thus zzso zzso zzso The proposed zzso builds an extension graph where zzso represent zzso of zzso and edges represent existing alignments between these zzso These alignment edges are used for zzso zzso The resulting output assembly zzso to a set of paths in the extension graph that zzso the cumulative zzso zzso 
+
+We evaluate the performance of Mix on bacterial zzso data from the zzso study and apply it to newly zzso zzso zzso zzso final zzso demonstrate a significant improvement in the overall assembly zzso In particular, Mix is consistent by providing better overall quality results even when the choice is guided solely by standard assembly statistics, as is the case for de zzso zzso 
+
+Mix is implemented in Python and is available at zzso novel data for our zzso study is available at zzso 
+

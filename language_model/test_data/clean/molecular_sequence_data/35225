@@ -1,0 +1,11 @@
+
+Actinidin, a protease from kiwifruit, belongs to the C1 family of cysteine proteases. Cysteine proteases were found to be involved in many disease states and are valid therapeutic targets. Actinidin has a wide pH activity range and wide substrate specificity, which makes it a good model system for studying enzyme-substrate interactions.
+
+The influence of inhibitor (E-64) binding on the conformation of actinidin was examined by 2D PAGE, circular dichroism (CD) spectroscopy, hydrophobic ligand binding assay, and molecular dynamics simulations.
+
+Significant differences were observed in electrophoretic mobility of proteolytically active and E-64-inhibited actinidin. CD spectrometry and hydrophobic ligand binding assay revealed a difference in conformation between active and inhibited actinidin. Molecular dynamics simulations showed that a loop defined by amino-acid residues 88-104 had greater conformational mobility in the inhibited enzyme than in the active one. During MD simulations, the covalently bound inhibitor was found to change its conformation from extended to folded, with the guanidino moiety approaching the carboxylate.
+
+Conformational mobility of actinidin changes upon binding of the inhibitor, leading to a sequence of events that enables water and ions to protrude into a newly formed cavity of the inhibited enzyme. Drastic conformational mobility of E-64, a common inhibitor of cysteine proteases found in many crystal structures stored in PDB, was also observed.
+
+The analysis of structural changes which occur upon binding of an inhibitor to a cysteine protease provides a valuable starting point for the future design of therapeutic agents.
+

@@ -1,0 +1,3 @@
+
+A method (NIMBLE) for obtaining optimum B0 field homogeneity at voxels located away from the magnet isocenter for use in volume-selected NMR spectroscopy is described. Voxels may be shimmed using only first-order X, Y, and Z shims to produce three-dimensional shim current maps, thus avoiding shim coupling problems. NIMBLE shimming prior to volume selection ensures optimum spectral resolution and improves the efficiency and accuracy of the volume-selection experiment. The benefits of the technique are illustrated by a high-resolution volume-selected spectrum of human tibia marrow.
+

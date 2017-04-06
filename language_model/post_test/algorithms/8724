@@ -1,0 +1,9 @@
+
+zzso image retrieval zzso in medicine has been demonstrated to improve evidence-based diagnosis, education, and zzso However, the low clinical adoption of zzso is partially because the focus of most studies has been the development of feature extraction and similarity measurement zzso with limited work on zzso better understanding of the similarity between complex zzso and zzso medical zzso In this paper, we present a method for defining user zzso zzso that enable effective human user interpretation of retrieved zzso 
+
+We derived a set of zzso and interaction requirements based on the characteristics of modern zzso medical zzso We implemented a zzso that zzso multiple views of a single image, displayed zzso of image data, and provided access to supplementary zzso zzso We also defined interactions for refining the search and visually indicating the similarities between zzso We applied the zzso for the retrieval of zzso zzso zzso zzso and zzso zzso zzso zzso We conducted a user survey to evaluate the capabilities of our zzso 
+
+Our proposed method obtained a high rating ( zzso 4 out of 5) in the majority of survey zzso In particular, the survey responses indicated the zzso presented all the information necessary to understand the retrieved images, and did so in an intuitive zzso 
+
+Our proposed zzso design improved the ability of users to interpret and understand the similarity between retrieved zzso zzso The zzso of zzso zzso designed to assist human interpretation could facilitate wider adoption of medical zzso zzso 
+

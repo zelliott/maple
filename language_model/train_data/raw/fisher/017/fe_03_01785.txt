@@ -1,0 +1,339 @@
+# fe_03_01785.sph
+# Transcribed by BBN/WordWave
+
+0.68 1.79 B: hello 
+
+1.27 2.41 A: hello 
+
+2.18 3.69 B: hi my name is shaun 
+
+3.31 5.05 A: hi my name is mary 
+
+4.39 5.77 B: hi how are you 
+
+5.35 8.24 A: i'm fine i'm from pennsylvania 
+
+6.20 7.17 B: good 
+
+7.84 8.90 B: i'm sorry 
+
+8.48 10.29 A: i'm from pennsylvania 
+
+9.55 11.64 B: ah me too i'm in philadelphia right now 
+
+10.88 12.83 A: okay i'm in pittsburgh 
+
+12.14 13.63 B: okay 
+
+13.11 19.07 A: okay and this is my first call [laughter] okay [laughter] so it's computers in education 
+
+14.87 16.46 B: mine too [laughter] 
+
+18.93 22.08 B: yes [laughter] would you like to start [laughter] 
+
+21.41 22.96 A: ah sure 
+
+23.05 30.74 A: i guess i think that computers in education are very helpful i um actually have a degree in elementary education 
+
+30.83 33.04 A: and so i decided not to teach 
+
+33.01 33.98 B: (( oh okay )) 
+
+33.75 41.48 A: doing student teaching and everything i was you know it's a second grade class and they used you know computers they had computer lab every day 
+
+41.04 42.72 B: mhm 
+
+42.50 43.73 A: and um 
+
+45.56 50.26 A: [mn] [noise] i would say that [noise] i mean they have to be obviously very closely monitored 
+
+50.37 51.66 B: right 
+
+52.40 53.42 A: (( [noise] but )) 
+
+54.18 56.71 A: (( i think that i don't know )) 
+
+56.89 57.56 A: (( [laughter] )) 
+
+58.08 66.31 B: yeah um well i i don't have that kind of experience with kids that you have other than friends' kids but um 
+
+61.58 62.29 A: (( [sigh] [mn] [mn] )) 
+
+63.46 64.31 A: (( right )) 
+
+66.75 72.67 B: and and my schooling was before there was a lot of computers available um 
+
+72.97 74.08 B: but um 
+
+74.00 77.70 B: yeah it seems to me that it for the most part it's very helpful 
+
+77.70 91.85 B: um i i've heard that it's gotten a knock of it allows people to find things too easily and you lose the skills of doing being able to do research and and and what it means to go to a library and actually look stuff up 
+
+89.29 90.28 A: that's true 
+
+91.17 101.77 A: that's definitely true i remember i- in high school not spending [noise] so much time at the library or even in junior high and then once they got in college then you know more computers became more 
+
+92.30 93.29 B: yeah 
+
+101.74 108.15 A: you know readily available and you actually had computer classes and that you you would never step foot in a library 
+
+107.87 119.59 B: right right yeah see even when i was in college i took computer programming and they had us working with fortran [laughter] which wasn't quite as helpful [laughter] as the p._c.s of today so um 
+
+115.17 116.71 A: (( [laughter] [noise] yeah [mn] )) 
+
+117.31 118.22 A: (( no )) 
+
+118.64 119.69 A: (( [laughter] [noise] )) 
+
+120.64 132.70 A: yeah when we were growing up we had our texas instrument [laughter] and then pretty much do you know like type in adventure games and stuff but that's pretty much all we did when we were growing up 
+
+124.29 125.74 B: right right 
+
+131.56 133.61 B: c- can i ask how old you are 
+
+133.04 134.60 A: (( i'm thirty okay [noise] )) 
+
+133.73 136.85 B: you're thir- i'm forty so ah yeah um 
+
+136.98 141.29 B: yeah i mean we had a high um a computer in high school but 
+
+141.13 155.44 B: you know with sort of like all a central computer with a couple of different terminals and and all the thing i mainly remember doing with that is is um you know programming stuff in basic and playing games was about it so 
+
+154.60 163.00 A: [noise] [noise] yeah i think all we did was write little programs to make your name blink on the screen or something like that you know kids are [laughter] so silly [noise] [noise] 
+
+158.64 160.23 B: right right 
+
+163.04 163.60 A: (( [mn] )) 
+
+163.22 172.19 B: yeah yeah i mean i have some friends who have like a ten year old a couple of ten year old twin girls and they're you know more proficient than the parents are 
+
+172.25 179.35 B: and um but i you know i really can't say how much they actually use it for education 
+
+179.48 184.73 A: yeah actually in the classroom and since i haven't been there you know for a while 
+
+185.12 185.87 A: (( um )) 
+
+186.18 188.16 A: i don't know but at home i mean 
+
+188.53 197.30 A: [noise] we've done we actually have a very sick cat and i've done tons of research [laughter] i've spent more time on the internet in the last few weeks just learning about 
+
+193.83 194.83 B: (( mhm ahah )) 
+
+197.52 199.64 A: you know different treatments and that for her 
+
+199.51 201.37 B: yeah 
+
+200.32 205.96 A: i think i've gotten you know so much more information than i would've ever gotten just talking to the vets and stuff 
+
+205.56 218.37 B: yeah yeah i would have to say for myself i mean that's the first place i go is the computer when i want to look something up nowadays and it's just it's it's such a great tool i mean i i just love it and and being able to 
+
+209.70 210.72 A: mhm 
+
+218.26 223.17 B: just punch something in and and come up with just a ton of information 
+
+223.29 229.53 B: um you know for so for my own self education it's [laughter] been great if there's something i'm interested in you know it's 
+
+227.33 228.15 A: (( oh yeah )) 
+
+230.22 233.39 B: um i- it's a fantastic tool um 
+
+235.40 236.76 B: so um 
+
+236.89 243.35 B: yeah for for f- that aspect of it ah i really like it i like it a lot i think it's a great thing 
+
+242.20 251.85 A: yeah i think i can't i guess the the biggest downfall would probably be with children would be not going to a library and actually looking things up on you know in books but 
+
+252.60 256.28 A: (( for adults and that you know i think it's terrific that's right )) 
+
+255.81 257.64 B: right yeah yeah 
+
+257.68 265.86 B: when um you know and books can end up being outdated very quickly especially compared to this stuff that's out on the net so 
+
+268.33 269.23 B: (( but ah )) 
+
+269.57 272.60 B: what else to say about it [laughter] 
+
+270.84 272.93 A: (( [laughter] it's not )) 
+
+272.94 279.20 A: it's not my my favorite topic [laughter] or one that [laughter] i know a whole lot about 
+
+278.37 285.32 B: [laughter] yeah yeah when i fir- when i first heard what it was i was like mm what am i going to say about this 
+
+284.96 288.19 A: like oh it's my first phone call do i press one [laughter] 
+
+286.82 288.96 B: [laughter] [laughter] 
+
+288.65 289.81 A: [laughter] 
+
+291.25 292.60 B: but um 
+
+291.62 292.88 A: [noise] 
+
+293.06 298.77 B: [mn] i'm just trying to think of wh- what i've heard on the news about it and what not and um um 
+
+300.41 304.33 A: lately there doesn't y- you know i think it's kinda died down some 
+
+304.35 306.40 A: (( you know at one point there was you know )) 
+
+306.88 309.61 A: a lot more controversy and that but no i don't 
+
+309.00 310.47 B: right 
+
+310.77 313.72 A: think i've heard too much about it 
+
+313.04 315.36 B: right i take it you don't have kids 
+
+315.42 317.39 A: nope not yet [laughter] 
+
+316.04 317.33 B: (( n- no t- [mn] )) 
+
+317.34 319.70 B: i don't eith- either so ah i 
+
+319.84 324.05 B: guess having them would obviously give us a lot more [laughter] experience but ah 
+
+323.03 324.14 A: probably 
+
+325.86 327.35 B: yeah um 
+
+327.19 331.15 A: [mn] yeah i know i'm pretty much on it every single day looking something up 
+
+331.08 333.20 B: yeah yeah 
+
+331.37 339.77 A: even if it's just recipes or we um just bought a house and my husband's constantly looking up you know different how to projects and stuff 
+
+339.68 342.43 B: right yeah yeah 
+
+344.05 344.84 A: (( and )) 
+
+344.65 354.78 B: yeah i- it can be helpful for that sometimes it can be difficult to actually find stuff too and and ah you know you put in something and you get so many things that are actually advertisements 
+
+354.09 358.94 A: [noise] tha- that's the advertising is bad and you could be totally sidetracked 
+
+358.51 359.89 B: yes yes 
+
+359.10 365.76 A: i'll go to look up one thing and then two hours later [laughter] you realise you know you've been led in so many different directions and 
+
+361.93 363.74 B: yes [laughter] 
+
+364.70 367.28 B: i've had that happen many times too 
+
+366.57 373.64 A: [laughter] or up way too late [laughter] thinking oh i really should go to bed now and then i'm off reading um 
+
+370.12 371.73 B: right right 
+
+373.87 375.87 A: all different kind of crazy things 
+
+375.43 384.15 B: yeah but i i i've also have looked up how to stuff and actually sometimes had trouble finding stuff um 
+
+382.90 384.01 A: mhm 
+
+383.92 392.78 B: just because i- i- it is like [mn] most of what comes up is something for companies or or you know something that they want you to pay for 
+
+389.32 390.42 A: (( that's right )) 
+
+391.96 393.15 A: (( mhm right )) 
+
+392.93 393.95 B: um 
+
+394.09 403.92 B: or i'll put something into a forum to to try to do a search and and the things that come up aren't really the subject that i'm looking for so um 
+
+404.53 409.38 B: you know and i wonder how much you know with kids how much they get taught 
+
+409.55 421.56 B: how to actually look things up and and and do their own self filtering that way you know i i'd be actually i'd you know i'd be kind of curious to know how ah how they are taught that and 
+
+411.80 412.76 A: that's true 
+
+414.23 415.05 A: right 
+
+421.86 429.80 B: um you know and how to discern what's actually valuable from you know and how much they get targeted wi- with advertising and 
+
+429.19 432.36 A: that's right y- you know what'd be scary you'd have to like actually 
+
+432.42 437.86 A: sit there and really really monitor what they watch because they could be led all over the place 
+
+437.46 439.95 B: right right yeah i can imagine 
+
+440.42 442.23 A: i guess there are things though 
+
+442.39 444.54 A: there's i think there's some- something like on 
+
+444.65 448.27 A: you can block t._v. channels and that there's probably 
+
+449.00 451.24 A: (( something you can use to block )) 
+
+450.04 457.15 B: i know there is software out there yeah for ah preventing them from getting to porn sites and that kind of thing um 
+
+455.24 456.15 A: (( yeah )) 
+
+457.77 467.61 B: (( but ah yeah i i don't know tha- that's -t's interesting and ah a- actually ah it's kinda piqued my curiosity on kinda like [mn] i'm going to go to )) 
+
+461.57 462.86 A: mhm 
+
+467.63 472.08 B: [mn] a couple of my friends that have kids and ask them about that [laughter] you know because 
+
+469.91 478.13 A: yeah [laughter] [laughter] because i would be i would be a nervous wreck that would be a full time job just [laughter] always peeking in and seeing what they were [laughter] 
+
+477.65 479.71 B: yeah yeah 
+
+479.76 488.46 B: but tha- yeah that is interesting and ah and and i just don't know i mean how [mn] like different school systems how how they differ as far as [mn] 
+
+488.34 497.60 B: access to computers and do does does each kid have one or is it just one per classroom and you know what kind of time kids actually get to spend on them okay 
+
+494.47 495.45 A: (( yes when )) 
+
+497.51 508.09 A: i was there they pretty much they had a computer class every day that they all went to in the lab and then i think in the classroom they had one computer but it was more like 
+
+508.65 513.41 A: like when they had like their free time there were different stations so they could go you know to the 
+
+513.34 525.64 A: arts and craft station or they can go to the computer they had just that they didn't have internet access in the classroom and so they could just have their different software on there so they could you know work on their story or you 
+
+515.96 516.97 B: mhm 
+
+524.89 525.94 B: (( oh okay )) 
+
+526.12 527.60 A: (( know play a math game or something )) 
+
+526.93 529.26 B: and this was you said second graders 
+
+528.78 530.45 A: this was second grade yeah 
+
+532.85 534.94 B: okay that's interesting and and how long ago was that okay okay 
+
+534.86 536.47 A: (( this was )) 
+
+537.41 537.97 A: (( [mn] )) 
+
+538.14 542.81 A: i graduated at college in ninety five so like ninety six 
+
+544.48 546.64 A: (( ninety six ninety seven it )) 
+
+547.43 549.04 A: (( seems like a long time )) 
+
+549.13 549.84 A: (( ago )) 
+
+549.26 554.48 B: yeah [laughter] well in the computer world it is a long time ago 
+
+549.88 552.08 A: [laughter] [laughter] 
+
+554.12 555.55 A: (( it really is [laughter] )) 
+
+555.12 560.89 B: i mean it's amazing this stuff they a- actually have on cell phones now and you are able to access the internet and 
+
+558.56 559.86 A: mhm 
+
+562.13 566.03 B: um you know you wonder where it's going to keep evolving to and 
+
+565.99 570.77 A: oh yeah oh yeah it's impossible to keep keep up to date and keep equipment up to date my husband he 
+
+570.93 579.15 A: does a lot of programming stuff and that and he's constantly buying new equipment and everything [laughter] he now wants a new some kind of new software and that 
+
+575.38 576.65 B: mhm 
+
+578.46 582.15 B: yep yep yeah i know how that is too [laughter] 
+
+588.36 589.99 B: (( well )) 
+
+591.10 595.29 B: um i'm trying to think of what else i could say about computers in education [laughter] 
+
+594.42 596.57 A: (( yeah ah um [mn] )) 
+

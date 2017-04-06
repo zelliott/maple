@@ -1,0 +1,9 @@
+
+As an alternative tool to identify cortical motor areas for planning surgical resection in children with focal epilepsy, the present study proposed a maximum a posteriori probability (MAP) classification of corticospinal tract (CST) visualized by diffusion MR tractography.
+
+Diffusion-weighted imaging (DWI) was performed in 17 normally developing children and 20 children with focal epilepsy. An independent component analysis tractography combined with ball-stick model was performed to identify unique CST pathways originating from mouth/lip, finger, and leg areas determined by functional magnetic resonance imaging (fMRI) in healthy children and electrical stimulation mapping (ESM) in children with epilepsy. Group analyses were performed to construct stereotaxic probability maps of primary motor pathways connecting precentral gyrus and posterior limb of internal capsule, and then utilized to design a novel MAP classifier that can sort individual CST fibers associated with three classes of interest: mouth/lip, fingers, and leg. A systematic leave-one-out approach was applied to train an optimal classifier. A match was considered to occur if classified fibers contacted or surrounded true areas localized by fMRI and ESM.
+
+It was found that the DWI-MAP provided high accuracy for the CST fibers terminating in proximity to the localization of fMRI/ESM: 78%/77% for mouth/lip, 77%/76% for fingers, 78%/86% for leg (contact), and 93%/89% for mouth/lip, 91%/89% for fingers, and 92%/88% for leg (surrounded within 2 cm).
+
+This study provides preliminary evidence that in the absence of fMRI and ESM data, the DWI-MAP approach can effectively retrieve the locations of cortical motor areas and underlying CST courses for planning epilepsy surgery.
+

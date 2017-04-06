@@ -1,0 +1,9 @@
+
+To propose an automatic brain tumor segmentation system.
+
+The system used texture characteristics as its main source of information for segmentation.
+
+The mean correct match was 94% of correspondence between the segmented areas and ground truth.
+
+Final results showed that the proposed system was able to find and delimit tumor areas without requiring any user interaction.
+

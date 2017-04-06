@@ -1,0 +1,9 @@
+
+zzso sleep visually based on zzso is an important but time-consuming element of sleep zzso Whereas computer software assists human experts in the assignment of sleep stages to zzso zzso their performance is usually zzso This study evaluates the possibility to fully zzso sleep staging considering the reliability of the sleep stages available from human expert sleep zzso 
+
+We obtain features from zzso zzso and respiratory signals of zzso from ten healthy zzso Using the sleep stages provided by three human experts, we evaluate the performance of linear zzso analysis on the entire zzso and only on epochs where the three experts agree in their sleep stage zzso 
+
+We show that in zzso zzso to which all three scorers assign the same sleep stage, our zzso achieves zzso zzso This high rate of agreement with the human experts is accomplished with only a small set of three frequency features from the zzso We increase the performance to zzso by including zzso and zzso zzso In contrast, on intervals of ambiguous sleep stage, the sleep stage zzso obtained from our algorithm, agrees with the human consensus scorer in approximately zzso 
+
+These findings suggest that machine zzso is highly consistent with human sleep staging and that error in the zzso assignments is rather a problem of lack of zzso criteria for human experts to judge certain zzso epochs than an zzso of zzso zzso 
+

@@ -1,0 +1,3 @@
+
+Here we present a sequential zzso Carlo approach that can be used to find optimal zzso Our focus is on the design of population zzso studies where the derivation of sampling windows is required, along with the optimal sampling zzso The search is conducted via a particle filter which zzso a sequence of target zzso artificially constructed via an zzso zzso The zzso derives a catalog of highly efficient designs which, not only contain the zzso but can also be used to derive sampling zzso We demonstrate our approach by designing a hypothetical population zzso study, and compare our results with those obtained via a simulation method from the zzso 
+

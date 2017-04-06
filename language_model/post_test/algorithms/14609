@@ -1,0 +1,9 @@
+
+This paper introduces the target zzso range zzso design, a zzso zzso of the modified toxicity probability zzso zzso design, as a competitor to the standard zzso design zzso The zzso is the work horse design in Phase zzso It is good at determining if a safe dose exits, but provides poor accuracy and precision in zzso the level of toxicity at the maximum tolerated dose zzso Its main competitor, the continual reassessment method zzso has not found a true niche in the Phase I zzso resulting from statistical and zzso zzso 
+
+We describe the four competing designs zzso zzso zzso and zzso comparing them based on zzso operating characteristics from simulated trials, and zzso ease of zzso 
+
+The zzso is better than the zzso when compared on; 1) number of times the dose at or nearest the target toxicity level was selected as the zzso 2) number of patients assigned to dose levels at or nearest the zzso 3) overall trial dose limiting toxicity rate and 4) accuracy and precision of estimates for the rate of toxicity at the zzso Further it is reasonably comparable to the zzso and zzso on zzso 
+
+The zzso offers trial designers a competitor to the zzso for ease of zzso with better operating characteristics and the added attraction of a glimpse of activity at the zzso The R package zzso freely available from the comprehensive R archive network, includes functions to calculate dose escalation guidelines and operating zzso 
+

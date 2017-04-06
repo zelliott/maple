@@ -1,0 +1,5 @@
+
+International sequencing efforts are creating huge zzso databases, which are used in searching applications to locate sequences zzso to a query zzso In such applications, it is desirable that databases are stored zzso that sequences can be zzso independently of the order in which they were zzso and that data can be rapidly retrieved from secondary storage, since disk costs are often the bottleneck in zzso 
+
+We present a zzso direct coding scheme for fast retrieval and zzso of zzso zzso zzso The scheme is zzso readily integrated with sequence search tools, and does not require a zzso zzso coding gives good zzso and allows faster retrieval than with either zzso data or data compressed by other methods, thus yielding significant improvements in search times for high-speed zzso search zzso 
+

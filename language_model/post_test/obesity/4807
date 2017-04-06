@@ -1,0 +1,7 @@
+
+Analysis of expression quantitative trait zzso zzso aims to identify the genetic zzso associated with the expression level of zzso zzso zzso with a proper penalty is suitable for the zzso biological zzso Its performance should be enhanced when we incorporate biological knowledge of gene expression network and linkage zzso zzso structure between zzso in zzso zzso 
+
+We propose a network-based group variable selection zzso method for zzso zzso Our method simultaneously maps highly correlated expression traits sharing the same biological function to marker sets formed by zzso By grouping zzso complex joint activity of multiple zzso can be considered and the zzso of zzso problem is reduced zzso In order to demonstrate the power and flexibility of our method, we used it to analyze two simulations and a mouse obesity and diabetes zzso We considered the gene zzso network, grouped markers into marker sets and treated the additive and dominant effect of each locus as a group: as a consequence, we were able to replicate results previously obtained on the mouse linkage zzso Furthermore, we observed several possible zzso zzso and interactions of multiple zzso 
+
+The proposed zzso method is appropriate for problems with zzso data and zzso zzso On zzso problem it zzso the classical zzso method, which does not consider biological zzso Introduction of proper gene expression and zzso correlation information makes detecting zzso markers more zzso With reasonable model settings, zzso can lead to novel biological zzso 
+

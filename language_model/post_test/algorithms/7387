@@ -1,0 +1,7 @@
+
+zzso methods for the prediction of Major zzso Complex zzso class II binding peptides play an important role in zzso the understanding of immune recognition and the process of zzso zzso To develop an effective zzso method, we need to consider two important characteristics of the problem: zzso the length of binding peptides is highly zzso and zzso zzso molecules are extremely zzso and for the vast majority of them there are no sufficient training zzso 
+
+We develop a novel string kernel zzso zzso String zzso method to measure the similarities among peptides with variable zzso By considering the distinct features of zzso zzso binding prediction problem, zzso differs significantly from the recently developed kernel based method, zzso zzso zzso zzso in the way of computing zzso Furthermore, we extend zzso to zzso for zzso zzso zzso binding prediction by leveraging the binding data of various zzso zzso 
+
+zzso outperformed zzso in zzso specific prediction using a benchmark zzso which demonstrates the effectiveness of zzso Furthermore, we evaluated the performance of zzso using various zzso data sets from several different zzso zzso zzso zzso cross validation as well as independent data zzso zzso has achieved comparable performance with zzso and outperformed zzso zzso and zzso being statistically zzso zzso can be freely zzso at zzso 
+

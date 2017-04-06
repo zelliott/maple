@@ -1,0 +1,3 @@
+
+We examine the informatic characteristics of amino acid representations based on physical properties. We demonstrate that sequences rewritten using contracted alphabets based on physical properties do not encode local folding information well. The best four-character alphabet can only encode approximately 57% of the maximum possible amount of structural information. This result suggests that property-based representations that operate on a local length scale are not likely to be useful in homology searches and fold-recognition exercises.
+

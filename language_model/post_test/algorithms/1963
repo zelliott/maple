@@ -1,0 +1,9 @@
+
+In zzso radiation therapy, existing zzso zzso imaging chains zzso to the delivery beam cannot recover zzso target zzso from a single view in zzso This limits their utility for real-time motion management concurrent with beam zzso To address this zzso the authors propose a novel concept for zzso imaging based on the zzso zzso Digital X-ray zzso system and evaluate its feasibility for zzso zzso zzso zzso zzso 
+
+A chest phantom zzso a zzso wall, a central lung volume, and an anterior wall was zzso Two zzso were placed along the zzso zzso between the lung zzso a zzso zzso diameter steel sphere zzso and a gold cylinder zzso zzso zzso zzso zzso zzso The phantom was placed on a linear motion stage that moved zzso zzso motion was along the zzso zzso axis of the zzso system with zzso zzso zzso and a programmed period of either zzso s or 5 zzso The zzso system was operated at 15 frames per second, 100 zzso providing good apparent zzso of the zzso With the stage moving, detector data were acquired and subsequently reconstructed into 15 planes with a 12 zzso zzso spacing using digital zzso A tracking zzso was applied to the image planes for each zzso frame to determine the position of each zzso in zzso versus zzso A zzso zzso motion model was fit to the measured zzso coordinates and root mean square zzso zzso about the fitted trajectory were zzso 
+
+zzso motion was zzso and primarily along the zzso zzso zzso The zzso zzso of the tracked zzso ranged from zzso to zzso zzso The motion zzso derived from the model fit agreed with the programmed zzso to within zzso zzso for the steel sphere and within zzso zzso for the gold zzso The model fit periods agreed with the programmed periods to within zzso 
+
+Three zzso zzso tracking with approximately 1 zzso or better accuracy and precision appears to be feasible with zzso supporting its use to guide zzso 
+

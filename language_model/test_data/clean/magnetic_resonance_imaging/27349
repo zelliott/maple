@@ -1,0 +1,9 @@
+
+To determine the targeting error of a novel stereotactic prostate biopsy system that integrates preinterventional MRI with peri-interventional ultrasonography (US) for perineal navigated prostate biopsies.
+
+We performed stereotactic biopsies on five prostate phantoms (one CIRS 053-MM and four CIRS 066). Phantom 053-MM incorporates three MRI- and transrectal ultrasonography (TRUS)-visible lesions, while lesions within phantom 066 are only detectable on MRI. In both phantoms, the 0.5 cc volume lesions are placed randomly. The phantoms were examined by 3T-MRI preinterventionally. Then three stereotactic biopsies from one lesion in phantom 053-MM and from all US-invisible lesions in the 066 phantoms were taken under live-fusion imaging guidance. During intervention, a mix of blue ink and gadobutrol was injected into each biopsy channel. Afterward, another 3T-MRI was obtained. These MRI images were then fused again with the intraoperative TRUS data. Thus, the targeting error (TE) between the planned and performed biopsy cores could be measured. In addition, the procedural targeting error (PTE) between the virtually planned biopsy trajectory and the manually registered three-dimensional needle position of every single biopsy core taken was calculated.
+
+The overall TE of the 39 biopsy cores taken was 0.83 mm (standard deviation [SD]: 0.48 mm) with the highest TE in the sagittal plane (1.09 ± 0.54 mm), followed by the coronal (0.72 ± 0.43 mm) and axial (0.69 ± 0.34 mm) planes. The procedural TE, which is provided intraoperatively, was 0.26 mm on average (SD: 0.46 mm). Comparing PTE and TE, there was no statistically significant difference (P=0.39).
+
+The TE of stereotactic biopsies using our novel perineal prostate biopsy system is below 1 mm and can be estimated in vivo by the automatically calculated procedural TE. Thus, stereotactic prostate biopsies guided by the combination of MRI and US allow effective and precise examination of MRI lesions.
+

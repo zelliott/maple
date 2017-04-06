@@ -1,0 +1,3 @@
+
+A theoretical analysis of the effects of diffusion and perfusion in steady-state free precession (SSFP) imaging sequences sensitized to intravoxel incoherent motions by magnetic field gradients is presented and supported by phantom studies. The capability of such sequences to image diffusion and perfusion quickly was recently demonstrated. The possible residual effects of T1 and T2 in diffusion measurements are evaluated, as are the effects of the sequence design and the acquisition parameters (repetition time, flip angle, gradient pulses). It is shown theoretically and confirmed by experiments on phantoms that diffusion coefficients can be directly measured from SSFP images when large enough diffusion gradient pulses are used.
+

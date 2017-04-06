@@ -1,0 +1,5 @@
+
+The fundamental problem of gene selection via zzso data is to identify which genes are zzso expressed across different kinds of tissue samples zzso normal and zzso zzso data contain large number of variables zzso and usually the sample size is relatively small so the selection process can be zzso zzso models which incorporate zzso in terms of variables zzso are desirable for this kind of zzso This paper proposes a zzso zzso zzso model for variable selection which assumes a prior that favors zzso We adopt a zzso chain zzso Carlo zzso based zzso technique to simulate the parameters from the zzso The method is applied to leukemia data from a previous study and a published zzso on breast zzso 
+
+zzso 
+

@@ -1,0 +1,7 @@
+
+zzso factors zzso play a key role in gene regulation by binding to target zzso In zzso prediction of potential binding of a zzso to a binding site is a well-studied problem in zzso zzso The binding sites for one zzso are represented by a position frequency zzso zzso The discovery of new zzso requires the comparison to known zzso to avoid zzso In general, two zzso are similar if they occur at overlapping positions under a zzso zzso Still, most existing methods zzso similarity according to zzso distances of the zzso Here we propose a natural similarity measure based on the zzso zzso between the number of zzso hits incorporating both zzso Furthermore, we introduce a second measure based on the same idea to cluster a set of the zzso zzso 
+
+We show that the zzso zzso can be efficiently zzso by a two zzso zzso of the score zzso The zzso zzso approach shows strong correlation with simulated zzso It zzso three alternative zzso The zzso zzso yields distinct groups of zzso of the same zzso Furthermore, a representative zzso is given for each zzso In contrast to most other zzso methods, zzso with low similarity automatically remain zzso 
+
+A zzso to zzso the similarity and to perform zzso the source code and zzso zzso are available at zzso 
+

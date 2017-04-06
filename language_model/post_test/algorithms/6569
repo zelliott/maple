@@ -1,0 +1,9 @@
+
+A major challenge of systems biology is to zzso zzso interactions from large-scale zzso such as zzso zzso and zzso We propose to use a partial correlation analysis to construct approximate zzso zzso zzso from such large-scale zzso zzso This approach enables a distinction between direct and indirect interactions of zzso compounds, thereby zzso the underlying network zzso 
+
+The method is first thoroughly evaluated with a large set of simulated zzso zzso indicate that the approach has good statistical power and a low False Discovery Rate even in the presence of noise in the zzso We then applied the method to an existing data set of zzso gene zzso Several small gene networks were zzso and found to contain genes known to be collectively involved in particular zzso zzso In some of these networks there are also zzso zzso present, which lead to hypotheses about their zzso 
+
+Programs running in zzso and Linux for applying zzso first, second and third order partial correlation analysis can be downloaded at: zzso 
+
+zzso information can be found at: zzso to be zzso 
+

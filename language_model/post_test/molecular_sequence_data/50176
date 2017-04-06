@@ -1,0 +1,5 @@
+
+zzso zzso for automated protein structure alignment generate contradictory results and are difficult to zzso An zzso which can provide a context for interpreting the alignment and uses a simple method to characterize protein structure similarity is zzso 
+
+We describe a zzso for limiting the search space for structure alignment comparisons between two zzso and an zzso for finding minimal zzso zzso alignments as a function of the number of matching zzso pairs within this limited search zzso Our alignment zzso uses coordinates of zzso atoms to represent each zzso acid zzso and requires a total zzso time of zzso zzso where m and zzso zzso the lengths of the protein zzso This makes our method fast enough for comparisons of zzso proteins zzso than approximately 800 zzso on current zzso computers and therefore addresses the need for a systematic analysis of multiple plausible shape similarities between two proteins using a widely accepted comparison zzso 
+

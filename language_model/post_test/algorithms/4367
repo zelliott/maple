@@ -1,0 +1,7 @@
+
+The zzso test is a popular zzso statistical test for identifying expression quantitative trait zzso zzso from zzso data due to its zzso against variations in the underlying genetic model and expression trait distribution, but testing billions of zzso combinations zzso can become zzso zzso 
+
+We developed zzso an zzso implemented in zzso Python and R that uses zzso zzso to simultaneously calculate the zzso test statistic for several millions of zzso combinations at zzso zzso is more than ten thousand times faster than computing associations zzso on a typical human zzso We used zzso and a zzso of more than zzso zzso and zzso expression traits measured in 102 human blood samples to compare zzso detected by the zzso test to zzso detected by the zzso zzso and linear model zzso We found that the zzso test is more robust against data zzso and zzso zzso group sizes and detects a higher proportion of zzso associations, but is more conservative for calling additive linear zzso 
+
+zzso enables the use of robust zzso methods for massive zzso mapping without the need for a zzso computing infrastructure and is freely available from zzso 
+

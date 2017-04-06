@@ -1,0 +1,7 @@
+
+In expressed sequence tag zzso sequencing, we are often interested in how many genes we can capture in an zzso sample of a targeted zzso This information provides insights to sequencing efficiency in experimental design, as well as clues to the diversity of expressed genes in the tissue from which the library was zzso 
+
+We propose a compound zzso process model that can accurately predict the gene capture in a future zzso sample based on an initial zzso zzso It also allows zzso of the number of expressed genes in one zzso library or zzso in two zzso zzso The superior performance of the new prediction method over an existing approach is established by a simulation zzso Our analysis of four zzso zzso zzso sets suggests that the number of expressed genes present in four different zzso libraries of zzso zzso varies from zzso zzso to zzso zzso An observed fraction of zzso genes in two different zzso sets as low as zzso can zzso to an actual overlap fraction greater than zzso 
+
+The proposed method provides a convenient tool for gene capture prediction and zzso library property diagnosis in zzso zzso 
+

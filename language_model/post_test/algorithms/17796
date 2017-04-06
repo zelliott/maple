@@ -1,0 +1,9 @@
+
+zzso of zzso expressed genes is one of the major goals of zzso zzso zzso comparison for each gene is not appropriate without controlling the overall zzso type 1 error zzso zzso et zzso have advocated use of zzso zzso zzso adjustments to correct the observed significance levels for the individual zzso for each zzso two sample zzso 
+
+In this paper, we consider an zzso zzso of the gene expression levels corresponding to multiple tissue zzso We provide zzso zzso adjustments to correct the observed significance levels for the individual zzso zzso for each gene and for each pair of tissue type zzso More importantly, we introduce a novel empirical zzso adjustment to the zzso statistics that can be incorporated into the zzso zzso Using simulated data, we show that the empirical zzso adjustment improved the sensitivity of detecting zzso expressed genes up to zzso while maintaining a high level of zzso This adjustment also reduces the false zzso rate to some degree at the cost of a modest increase in the false discovery zzso We illustrate our approach using a human colon cancer zzso consisting of zzso zzso of normal, zzso and zzso zzso The number of genes with differential expression level declared statistically significant was about 50 when comparing normal to zzso cells and about five when comparing zzso to zzso zzso This list includes genes previously known to be associated with colon cancer as well as some novel zzso 
+
+R code for the empirical zzso adjustment and zzso zzso calculation via zzso are available from the supplementary zzso 
+
+zzso 
+

@@ -1,0 +1,5 @@
+
+We describe an zzso for global alignment of multiple zzso interaction zzso networks, the goal being to maximize the overall match across the input zzso The zzso behind our zzso is that a protein in one zzso network is a good match for a protein in another network if the zzso neighbors are good matches for the latter's zzso We zzso this zzso by constructing an zzso problem for every pair of input networks and then using zzso matching to extract the final global alignment across all the zzso We zzso the first known global alignment of zzso networks from five zzso zzso fly, worm, mouse and zzso The global alignment immediately suggests functional zzso across these zzso we believe these are the first set of functional zzso that cover all the five zzso We show that these functional zzso compare favorably with current zzso zzso prediction approaches, including better prediction of zzso for some human zzso zzso 
+
+zzso 
+

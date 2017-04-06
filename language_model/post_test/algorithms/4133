@@ -1,0 +1,9 @@
+
+X-ray zzso guidance is frequently used in medical zzso zzso zzso procedures that employ zzso for registration require accurate information about the zzso rotation angle that provides the data zzso in real zzso zzso zzso and zzso pose tracking systems have limited convenience and zzso An alternative method to recover zzso orientation was developed using an zzso as tilt zzso 
+
+The zzso zzso orientation was estimated using a zzso acceleration sensor mounted on the X-ray detector as a tilt zzso When the zzso is zzso the measured acceleration direction zzso to the zzso force zzso The zzso was zzso with respect to the zzso rotation along its two zzso using a zzso optical tracker as a zzso The zzso and offset error of the sensor was compensated using zzso zzso The system was evaluated on a GE zzso zzso zzso zzso obtained by zzso built-in zzso and zzso tracking were zzso using optical tracking as ground truth zzso 
+
+The zzso orientation measurement error for primary angle rotation was zzso zzso zzso and for secondary angle rotation it was zzso zzso zzso The built-in sensor orientation measurement error for primary angle rotation was zzso zzso zzso and for secondary angle rotation it was zzso zzso zzso The zzso orientation measurement error for primary angle rotation was zzso zzso zzso and for secondary angle rotation it was zzso zzso zzso 
+
+The zzso provided better results than the built-in sensor and zzso zzso The zzso sensor is small, zzso covers the full rotation range of the zzso does not require line of sight, and can be easily installed to any mobile X-ray zzso zzso zzso tilt sensing is a very promising applicant for orientation angle tracking of zzso zzso 
+

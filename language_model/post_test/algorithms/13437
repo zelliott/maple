@@ -1,0 +1,7 @@
+
+The sequence zzso zzso and the zzso zzso zzso formats have become the standard method of representation of zzso sequence alignments for next-generation sequencing zzso zzso files usually contain information from tens to hundreds of millions of zzso Often, the sequencing technology, protocol and/or the selected mapping zzso introduce some unwanted biases in these zzso The systematic detection of such biases is a zzso task that is crucial to drive appropriate downstream zzso 
+
+We have developed zzso a zzso application that supports zzso quality control of mapping data, by considering sequence features and their zzso zzso zzso takes sequence alignment data and provides zzso and statistical analyses for the evaluation of zzso Such quality-control data are vital for highlighting problems in the sequencing and/or mapping zzso which must be addressed prior to further zzso 
+
+zzso is freely available from zzso 
+

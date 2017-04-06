@@ -1,0 +1,9 @@
+
+To measure the internal lung motion due to respiration using magnetic resonance images (MRIs); to evaluate the correlation between lung motion and skin surface motion and the reliability of tracking lung motion with external fiducials.
+
+An MRI protocol using fast gradient-echo sequences was developed to acquire dynamic cine images of the thoracoabdominal region along the axial, sagittal, and coronal planes. The subjects (3 healthy volunteers and 4 lung cancer patients) were instructed to perform normal or altered breathing during MRI. Lung vessels identified on MRI were used as anatomic landmarks for internal lung structures. From sagittal cine MRI scans, the positions of the lung vessels and skin surface were tracked and their movements measured. Correlation between the movements of the external markers and internal structures was then calculated and analyzed.
+
+Lung vessel motion in the superior-inferior (SI) direction correlated best with mid-upper abdominal skin surface movement (correlation coefficient, 0.89 +/- 0.09 and 0.87 +/- 0.23 for volunteers and patients, respectively). The anterior-posterior (AP) vessel motion generally correlated poorly with the skin surface movement, with marker placement on the upper chest yielding the strongest results (correlation coefficient, 0.72 +/- 0.23 and 0.44 +/- 0.27 for volunteers and patients, respectively). The strength of the correlation depended on the locations of the tracked vessels, locations of the skin surface, and subjects' breathing patterns. The best correlation was seen between the motion of an abdominal fiducial and SI lung motion. Significant intersubject variability was also observed.
+
+Movement of an external fiducial may not correlate fully with, or predict, internal lung motion. Effective monitoring of respiration may have to rely on a combination of multiple fiducials and other physiologic parameters, such as lung volume and/or air flow.
+

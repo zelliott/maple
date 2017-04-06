@@ -1,0 +1,3 @@
+
+We have developed a set of tools, genfrag, to fragment and optionally mutate a DNA sequence to generate benchmark data sets for testing DNA sequence assembly algorithms. Data parameters can be systematically and independently varied to explore the range of data--and corresponding performance of assembly tools--encountered on large-scale random, or "shot-gun," sequencing projects.
+

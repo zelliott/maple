@@ -1,0 +1,3 @@
+
+The effect of poor B(1) homogeneity on MRI images not only affects the appearance of the images, but produces difficulty in automated segmentation and in certain quantification methods. While improved RF coil design is the first line in reducing such artifact, compensation methods can significantly improve the quality of images. Existing methods of compensation typically apply a filter during the image reconstruction. Here a method is presented that compensates for part of the inhomogeneity by actively modulating the RF transmit power as a function of slice position. The method is demonstrated both quantitatively on a phantom and qualitatively on a human brain.
+

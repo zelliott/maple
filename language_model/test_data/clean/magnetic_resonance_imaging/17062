@@ -1,0 +1,9 @@
+
+Parallel magnetic resonance imaging (MRI) requires an array of RF coil elements with different sensitivity distributions and with minimal electromagnetic coupling. The goal of this project was to develop a new method based on induced current compensation or elimination (ICE) for improved coil element decoupling and to investigate its performance in phantom MR images.
+
+An electromagnetic decoupling method based on induced current compensation or elimination for nonoverlapping RF coil arrays was developed with the design criteria of high efficiency, easy implementation, and no physical connection to RF array elements. An eigenvalue/eigenvector approach was employed to analyze the decoupling mechanism and condition. A two-channel microstrip array and an eight-channel coil array were built to test the performance of the method. Following workbench tests, MR imaging experiments were performed on a 7T MR scanner.
+
+The bench tests showed that both arrays achieved sufficient decoupling with a S21 less than -25 dB among the coil elements at 298 MHz. The MR phantom images demonstrated well-defined sensitivity distributions from each coil element and the unique decoupling capability of the proposed ICE decoupling technique. B1 distributions of the individual elements were also measured and calculated.
+
+The theoretical analysis and experiments demonstrated the feasibility of the decoupling method for high field RF coil array designs without overlapping or direct physical connections between coil elements, which provide more flexibility for coil array design and optimization. The method offers a new approach to address the RF array decoupling issue, which is a major challenge in implementing parallel imaging.
+

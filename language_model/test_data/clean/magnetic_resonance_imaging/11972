@@ -1,0 +1,3 @@
+
+The snapshot FLASH sequence uses a subsecond scan time and a small flip angle in conjunction with nonsteady-state acquisition to produce high-contrast images with minimum motion artifacts. The magnetisation evolves towards an equilibrium state in the course of a scan and it is the form of this approach to equilibrium which determines the contrast and signal-to-noise ratio (SNR) obtained. The contrast obtained is strongly dependent on the phase encoding scheme used. If the flip angle is increased, and the resulting transverse coherences refocused, then the SNR is improved while the contrast is little changed.
+

@@ -1,0 +1,3 @@
+
+Most existing color constancy zzso assume uniform zzso However, in real-world scenes, this is not often the zzso Thus, we propose a novel framework for zzso the colors of multiple zzso and their spatial distribution in the zzso We formulate this problem as an energy zzso task within a conditional random field over a set of local zzso zzso In order to zzso evaluate the proposed method, we created a novel data set of zzso images comprised of laboratory, zzso and outdoor zzso Unlike prior work, our database includes accurate zzso ground truth zzso zzso The performance of our method is evaluated on multiple data zzso Experimental results show that our framework clearly zzso single zzso zzso as well as a recently proposed zzso zzso zzso 
+

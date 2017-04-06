@@ -1,0 +1,3 @@
+
+The solution space exponential explosion caused by the enumeration of the candidate solutions maybe is the biggest obstacle in DNA computing. In the paper, a new unenumerative DNA computing model for graph vertex coloring problem is presented based on two techniques: 1) ordering the vertex sequence for a given graph in such a way that any two consecutive labeled vertices i and i+1 should be adjacent in the graph as much as possible; 2) reducing the number of encodings representing colors according to the construture of the given graph. A graph with 12 vertices without triangles is solved and its initial solution space includes only 283 DNA strands, which is 0.0532 of 3(12) (the worst complexity).
+

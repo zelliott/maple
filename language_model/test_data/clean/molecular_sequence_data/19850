@@ -1,0 +1,7 @@
+
+Features of a DNA sequence can be found by compressing the sequence under a suitable model; good compression implies low information content. Good DNA compression models consider repetition, differences between repeats, and base distributions. From a linear DNA sequence, a compression model can produce a linear information sequence. Linear space complexity is important when exploring long DNA sequences of the order of millions of bases. Compressing a sequence in isolation will include information on self-repetition. Whereas compressing a sequence Y in the context of another X can find what new information X gives about Y. This paper presents a methodology for performing comparative analysis to find features exposed by such models.
+
+We apply such a model to find features across chromosomes of Cyanidioschyzon merolae. We present a tool that provides useful linear transformations to investigate and save new sequences. Various examples illustrate the methodology, finding features for sequences alone and in different contexts. We also show how to highlight all sets of self-repetition features, in this case within Plasmodium falciparum chromosome 2.
+
+The methodology finds features that are significant and that biologists confirm. The exploration of long information sequences in linear time and space is fast and the saved results are self documenting.
+

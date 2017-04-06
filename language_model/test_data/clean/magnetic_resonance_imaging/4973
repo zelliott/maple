@@ -1,0 +1,9 @@
+
+To shorten acquisition time by means of both partial scanning and partial echo acquisition and to reconstruct images from such 2D partial k-space acquisitions.
+
+We propose an approach to reconstructing magnetic resonance images from 2D truncated k-space in which the k-space is truncated in both phase- and frequency-encoding directions. Unlike conventional reconstruction techniques, the proposed approach is based on a newly developed 2D singularity function analysis (SFA) model and a sparse representation of an image whose parameters can be estimated from the 2D partial k-space data. Such a sparse representation leads to an accurate recovery of the missing k-space data and, hence, an accurate reconstruction of the image.
+
+The proposed approach can reconstruct an image from as little as 20%-30% of the k-space data and the quality of the reconstructed image is comparable to the reference image that is reconstructed from the complete k-space data.
+
+Despite the high asymmetry of a 2D truncated k-space, the proposed approach allows for accurate reconstruction without the need of phase correction and, thus, overcomes the assumption of slow phase variations that is usually required by the existing reconstruction methods. It provides a new way of fast imaging for applications that require a significant reduction of the acquisition time.
+

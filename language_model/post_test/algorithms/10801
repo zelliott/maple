@@ -1,0 +1,7 @@
+
+zzso zzso between remotely related protein families is an important problem in zzso biology since the biological properties of zzso proteins can often be zzso from those of zzso zzso Many existing approaches address this problem by measuring the similarity between proteins through sequence or structural zzso However, these methods do not exploit collective aspects of the protein space and the zzso scores are often noisy and frequently fail to recognize zzso related protein zzso 
+
+We describe an zzso that improves over the state of the art in zzso detection by utilizing global information on the proximity of entities in the protein zzso Our method relies on a zzso representation of proteins and protein families and uses zzso association measures between proteins and template structures to form a zzso feature zzso for each query zzso These zzso are then processed and transformed to sparse feature zzso that are treated as statistical fingerprints of the query zzso The new representation zzso a new metric between proteins measured by the statistical difference between their corresponding probability zzso 
+
+Using several performance measures we show that the new tool considerably improves the performance in recognizing distant zzso compared to existing approaches such as zzso and zzso 
+

@@ -1,0 +1,3 @@
+
+This paper describes a method that prepares the longitudinal magnetization with T2* weighting for subsequent acquisition. The main advantage of our technique is its insensitivity to static field inhomogeneity. We have combined this approach with an ultrafast gradient-echo (Turbo-FLASH) sequence and conducted experiments on phantoms and volunteers to demonstrate its capability and utility. With such a technique a T2*-weighted image can be generated in less than a second. In the paper, the detail of the technique and experimental results are presented.
+

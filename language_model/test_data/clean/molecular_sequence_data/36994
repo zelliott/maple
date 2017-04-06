@@ -1,0 +1,3 @@
+
+A complex, cascaded neural network designed to predict the secondary structure of globular proteins has been developed. Information about the local buried-unburied pattern and the average tendency of the particular types of amino acids to be buried inside the globule were used. Nonspecific information about long distance contact maps was also employed. These modifications result in a noticeable improvement (3-9%) of prediction accuracy. The best result for the average success ratio for the testing set of nonhomologous proteins was 68.3% (with corresponding Matthews' coefficients, C alpha,beta,coil equal to 0.60, 0.47, 0.43, respectively).
+

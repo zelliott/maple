@@ -1,0 +1,381 @@
+# fe_03_05038.sph
+# Transcribed by BBN/WordWave
+
+0.80 1.92 B: (( hello )) 
+
+0.90 2.05 A: (( [noise] )) 
+
+2.24 3.14 B: hello 
+
+2.52 3.48 A: hi 
+
+3.20 5.68 B: (( how you doing my name's robbie )) 
+
+4.48 5.22 A: good 
+
+5.84 7.18 A: robbie my name's 
+
+8.64 9.50 B: hello 
+
+9.50 10.38 A: yes 
+
+10.25 11.77 B: i didn't hear what your name was 
+
+13.55 17.21 B: [noise] you're cutting out on me or something are you there 
+
+16.54 20.38 A: [noise] lemme lemme take the phone outside because i got uh 
+
+20.66 22.38 A: bad reception 
+
+21.71 22.64 B: okay 
+
+23.08 25.34 A: one second i gotta get my key 
+
+26.29 26.85 B: (( [mn] )) 
+
+26.61 32.13 A: [noise] i don't know i gave her my cellphone number [noise] 'cause i'm uh dog sitting for a friend 
+
+31.76 33.28 B: oh yeah 
+
+32.47 34.99 A: [noise] hold on [noise] 
+
+36.49 37.12 B: [noise] 
+
+36.60 37.97 A: come on leslie 
+
+40.92 41.99 A: (( [noise] [mn] )) 
+
+44.54 46.21 A: did you hear the topic [noise] 
+
+46.01 49.33 B: yeah what changes have you made since september eleventh 
+
+49.29 50.76 A: (( [noise] yeah )) 
+
+49.71 51.85 B: [noise] if any [noise] 
+
+51.77 53.05 A: [noise] have you 
+
+52.97 56.42 B: not really uh [cough] i mean 
+
+56.64 65.54 B: i i personally i live in texas and i mean just don't really feel like there's anything ever happens here and i understand that [sigh] 
+
+65.82 69.58 B: new york loss was a little bit different [mn] but uh 
+
+70.13 74.72 B: i mean really there wasn't much for for me to change here i mean there's 
+
+75.05 75.73 A: (( [noise] [noise] [noise] [noise] )) 
+
+75.11 79.29 B: the i guess the the dramatic 
+
+79.88 86.45 B: dr- dr- [noise] dramatic way that the events turned out i mean that was that was something i- in itself but uh 
+
+87.22 91.13 B: as far as a life time change i haven't made anything like that 
+
+91.22 94.54 A: [cough] i think if anything it's given us uh 
+
+94.90 97.90 A: food for thought and conversation 
+
+99.38 100.52 A: um 
+
+101.52 104.46 A: just made us think a lot more about our 
+
+105.80 106.99 A: uh 
+
+107.58 109.66 A: maybe about our lives 
+
+109.68 112.23 A: i i mean i'm speaking for myself 
+
+111.65 113.65 B: (( yeah right )) 
+
+112.59 116.06 A: watching news shows i know i'm more 
+
+116.25 123.80 A: more prone to watch you know news shows more prone to watch c._n._n. and and that's n._b._c. 
+
+123.98 125.01 A: uh 
+
+124.61 138.48 B: well world events i mean yeah it i like seeing more what's going on now maybe but you know i mean before you hear you'd hear about terro- terrorism before that [noise] but i mean it wasn't as it's like it wasn't real 
+
+138.46 145.44 B: [noise] and and that [noise] did make it real so that you know i mean like the events of the world that day i mean it's [noise] just like 
+
+146.89 151.78 B: it's a real situation not just something that that's happened to somebody else you know what i mean 
+
+151.87 159.06 A: right oh yeah it's it's exactly it's happened in our country to americans 
+
+151.87 152.44 B: (( [noise] )) 
+
+158.44 159.83 B: right 
+
+159.25 162.42 A: i i live in philadelphia new york is uh 
+
+162.45 164.58 A: you know a stone's throw away 
+
+164.68 167.11 A: we're pretty close to new york so 
+
+168.65 169.58 B: (( [noise] yeah that's )) 
+
+168.82 169.88 A: it it's 
+
+169.92 173.23 A: you know we're closer than texas is and uh 
+
+172.63 176.39 B: well by ha- by yeah it's 
+
+176.68 183.85 B: [noise] i i that was 'cause kind of a the day in itself was i mean i remember i was i was at work 
+
+183.87 190.48 B: and i work at a grocery store [noise] and i had people hang on just a second please gus gus 
+
+190.61 192.75 B: gus y'all come back in the house 
+
+193.74 196.01 B: hey y'all come back inside [noise] 
+
+196.61 197.60 B: come on 
+
+199.83 201.80 B: [noise] sorry 
+
+201.82 203.63 A: [noise] sure no problem [noise] 
+
+203.44 206.54 B: uh my kids are trying to run out the door on me so 
+
+208.21 210.32 B: (( [noise] come on in the house [noise] )) 
+
+210.58 211.57 B: (( i'm sorry )) 
+
+211.75 212.82 B: (( again [noise] )) 
+
+211.80 214.50 A: what ti- what time is it in texas 
+
+213.27 216.76 B: [noise] it is ten p. m. 
+
+216.20 218.41 A: oh you're just an hour different 
+
+217.93 220.59 B: [noise] yeah what what've you got you got 
+
+220.21 221.66 A: eleven here 
+
+220.96 232.80 B: you're eleven yeah that's gotta gotta be kind of crazy timing for uh for the phone to ring to [noise] to have a conversation with somebody across the state somewhere huh [laughter] 
+
+230.75 236.09 A: yeah i i forgot that you know that i even told them to call this late like 
+
+235.17 236.43 B: yeah 
+
+236.28 241.53 A: i keep forgetting that i'm still on this with doing this thing 
+
+240.91 252.42 B: well this is my wife's [noise] she's talked a few times on the phone but this is the first time i've picked it up and and really uh thought about trying to talk to anybody but i'm usually not a very good conversationalist [mn] 
+
+252.04 256.13 A: ask your wife how many phone calls we gotta do for this thing 
+
+255.57 260.94 B: it's supposed to be three i believe is what she had told me originally 
+
+260.34 261.91 A: really 
+
+261.24 263.01 B: uh-huh and i know 
+
+262.08 264.79 A: well then then this is my third 
+
+264.57 271.02 B: this is your third one actually i think they set us up for a total of six because the both of us but 
+
+265.79 266.97 A: uh-huh 
+
+270.43 276.11 A: oh i see and and how d- ask your wife how much do we get paid 
+
+271.55 272.54 B: (( i think i )) 
+
+275.31 279.54 B: supposed to be ten dollars a call i think is what she told me yeah 
+
+277.13 278.61 A: is that what it is 
+
+279.26 281.36 A: so it's like a dollar a minute 
+
+281.16 285.11 B: i guess [laughter] i'm not sure this yeah ten 
+
+285.33 287.85 B: ten it's supposed to be a ten minute call so a dollar a minute 
+
+287.66 289.02 A: yeah 
+
+288.49 293.31 B: yeah that's i've heard of people that have gotten checks though that aren't [noise] i mean it 
+
+290.53 291.18 A: (( [noise] )) 
+
+292.70 293.34 A: (( [noise] )) 
+
+294.16 296.49 B: it doesn't matter to me really 
+
+295.91 299.62 A: do you know where it's being uh sent from 
+
+299.05 301.22 B: have no idea 
+
+300.95 304.84 A: ask her if she knows uh you know is it the university of pennsylvania 
+
+304.23 309.90 B: andy do you know where the check from the phone conversation is being sent from 
+
+309.97 310.54 B: (( [noise] )) 
+
+311.26 312.05 B: (( yeah [noise] )) 
+
+312.17 317.28 B: mm she's is it from the university of pennsylvania [noise] she thinks so yeah 
+
+316.85 317.95 A: okay 
+
+318.30 320.47 B: so but at any rate 
+
+319.59 321.00 A: well 
+
+321.20 321.99 B: uh 
+
+321.23 325.56 A: that's right in my neighbourhood it's right in philadelphia [laughter] 
+
+322.98 324.18 B: [laughter] 
+
+324.43 327.11 B: then it won't won't take long for it to get there right 
+
+326.50 330.26 A: right [laughter] yeah i c- 
+
+327.24 328.61 B: [laughter] 
+
+329.07 330.32 B: uh 
+
+330.41 334.96 A: i i i can you know go right there but um anyway [sigh] 
+
+335.12 338.89 A: yeah w- no we're supposed to talk about the subject [sigh] 
+
+338.30 340.04 B: (( yeah oh )) 
+
+340.26 347.86 B: i mean that's personally for myself i think that just the biggest change would be like you're saying is is more apt to watch 
+
+347.98 350.86 B: news program and to see what's going on i guess 
+
+351.10 352.62 B: and that that 
+
+351.50 354.94 A: my my fear is is that there's more to come 
+
+355.25 356.95 B: i think that's been 
+
+358.11 370.53 B: [noise] uh been most everybody's fear you know and especially when you have the media in itself just i mean just local media here or or a big station maybe is uh 
+
+371.23 372.96 B: in theirself just 
+
+373.44 374.71 B: will say 
+
+374.85 382.30 B: you know they're planning something on say july fourth because it's independence day or something i mean i wouldn't be surprised to hear something like that this year 
+
+382.34 383.53 A: right 
+
+382.97 384.93 B: you know and 
+
+384.31 389.19 A: or when the media says like now we're color orange 
+
+388.42 391.42 B: yeah yeah on the on the red issue 
+
+389.33 392.78 A: whatever now what are we what are we supposed to do 
+
+393.42 397.96 A: like lay in bed all day and put the pillows over our heads you know 
+
+397.70 406.72 B: [noise] i don't know well i just say personally me and my belief in god and that i don't i don't wanna worry about anything like that i mean it is n- didn't 
+
+404.58 405.76 A: (( [noise] no )) 
+
+407.10 409.77 B: why bother worrying about it because 
+
+410.41 412.28 B: it really doesn't matter 
+
+412.19 420.88 A: listen i i i agree with you a hundred percent i think by these different colors uh 
+
+420.92 428.61 A: you know whatever you want to call 'em different fear tactics that the media puts out it it just like 
+
+428.81 433.67 A: it kind of scares the public i- i- it just puts out 
+
+431.19 431.97 B: sure 
+
+434.45 438.23 A: unnecessary type of uh insecurities out there 
+
+437.51 446.80 B: but is it is it [noise] totally unnecessary though [noise] i mean [noise] if you think that if you [noise] if you yourself [noise] think that there's something else to come possibly then is it completely unnecessary [noise] 
+
+446.23 454.26 A: well look i i do believe that there's possibilities in the future but what are we to do 
+
+453.96 455.49 B: (( [mn] [noise] [noise] [noise] right )) 
+
+454.37 456.92 A: we just gotta go a- 
+
+456.82 459.29 B: you [noise] gotta live your [noise] life [noise] you know 
+
+458.20 460.91 A: yeah exactly we have to do 
+
+459.43 460.51 B: you can't 
+
+461.08 462.99 A: what's necessary 
+
+461.83 472.04 B: [noise] oh yeah what was what was that deal that you [noise] you i don't know if you saw the bunch on t._v. round where you are but out here a few months back you were seeing something about buying uh 
+
+472.27 478.91 B: buying cellophane rolls at cell- uh tape and and plastic sheets and 
+
+478.30 479.90 A: (( oh yeah yeah yeah )) 
+
+479.24 482.04 B: closing off your windows and stuff like that i mean that's 
+
+481.40 484.91 A: yeah bush was telling everybody buy cellophane 
+
+482.18 483.11 B: crazy 
+
+485.44 487.85 B: yeah that's crazy i mean that's [noise] 
+
+487.88 490.70 B: [sigh] that to me is just living in fear 
+
+488.46 489.16 A: (( [noise] )) 
+
+490.77 492.57 A: (( [mn] right )) 
+
+493.51 495.33 A: yeah it's um 
+
+497.48 502.63 B: [noise] i didn't catch your name a while ago you know it was cutting out too bad to get your name i'm sorry 
+
+502.02 503.09 A: [noise] harvey 
+
+502.85 504.41 B: harvey right 
+
+503.81 505.51 A: right and yours is rob 
+
+505.19 508.01 B: robbie yeah yeah [noise] 
+
+506.32 507.50 A: robbie 
+
+507.84 513.01 A: [sigh] yeah um no i i agree with you we n- need to live our lives 
+
+513.15 517.02 A: every day to it's to the fullest e- 
+
+517.62 526.75 A: even if we you might think that there's a possibility of future attacks we have to live as if there aren't gonna be future attacks [noise] 
+
+525.92 529.39 B: exactly 'cause i mean if [noise] if you do it's 
+
+530.37 542.00 B: what are you living for you know i mean it's and it's not like w- it's not like that uh i don't think like in the middle east i mean you have to be looking for it every day but over here 
+
+542.19 545.25 B: i just i don't see it so much 
+
+545.37 556.53 A: [noise] well i know israelis and it's like you know they live under even more constant uh threat of terrorism and they tell me that's how they live 
+
+551.68 553.00 B: (( [noise] right [noise] )) 
+
+556.75 561.79 A: they live un- with the threat of terrorism but they live as if 
+
+561.18 563.46 B: [noise] there's not [noise] yeah 
+
+562.77 573.01 A: there's not and they live life as if there's not they try they try to live life to the fullest and you know what when when they do have a terrorist uh attack 
+
+565.79 567.49 B: [noise] well that's [noise] 
+
+572.86 573.70 B: (( [noise] )) 
+
+573.29 574.83 A: [mn] they go 
+
+574.58 575.64 B: (( [noise] [noise] )) 
+
+575.01 586.20 A: and clean it up and fix it up as as quick as possible and try to go back to business as usual as quick as possible [mn] let's say like a store gets blown up 
+
+582.83 584.21 B: (( [noise] [noise] yeah )) 
+
+586.01 595.98 A: they try to fix that store up and get back to work in the same store as quick as possible [sigh] [mn] like i- i'll tell you something weird that happened in philadelphia 
+
+595.61 596.74 B: (( [noise] [noise] )) 
+
+596.44 599.01 A: there was an arab owned seven eleven 
+
+599.04 599.89 A: (( [mn] the g- )) 
+

@@ -1,0 +1,7 @@
+
+Approximate tandem repeats zzso occur frequently in the zzso of organisms, and are a source of zzso observed in individuals, and thus are of interest to those studying genetic zzso Though extensive work has been done in order to identify zzso there are inherent limitations with the current approaches in terms of the number of pattern sizes that can be searched or the size of the input zzso 
+
+This paper describes zzso a new zzso which zzso finds all zzso zzso in a zzso sequence and zzso a precise description of, and an zzso to significantly zzso zzso in the zzso Our zzso definition is zzso by a mismatch ratio p which allows for more zzso in longer tandem repeats (and fewer in zzso Furthermore, our zzso is embarrassingly parallel and thus can attain zzso zzso on zzso zzso We present results of our zzso applied to sequences of widely differing lengths (from genes to zzso 
+
+zzso and zzso are available on zzso 
+

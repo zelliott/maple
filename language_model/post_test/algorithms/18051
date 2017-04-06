@@ -1,0 +1,7 @@
+
+The integration of biomedical information is essential for tackling medical zzso We describe a data model in the domain of flow zzso zzso allowing for massive management, analysis and integration with other laboratory and clinical zzso The paper is concerned with the proper translation of the zzso zzso Standard zzso into a zzso database zzso in a way that zzso end users at either doing research on zzso or studying specific cases of patients undergone zzso analysis 
+
+The proposed database zzso provides integration of data originating from diverse acquisition settings, organized in a way that allows syntactically simple queries that provide results significantly faster than the conventional zzso of the zzso zzso The proposed zzso can potentially achieve up to 8 orders of magnitude reduction in query complexity and up to 2 orders of magnitude reduction in response time for data originating from flow zzso that record 256 zzso This is mainly achieved by managing to maintain an almost constant number of zzso procedures regardless of the size and complexity of the stored zzso 
+
+It is evident that using zzso data storage standards for the design of databases without any structural transformations significantly limits the flexibility of zzso Analysis of the requirements of a specific domain for integration and massive data processing can provide the necessary zzso modifications that will zzso the additional functionality of a zzso zzso 
+

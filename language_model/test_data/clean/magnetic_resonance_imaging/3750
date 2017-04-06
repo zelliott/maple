@@ -1,0 +1,11 @@
+
+Brain segmentation and volume estimation of grey matter (GM), white matter (WM) and cerebro-spinal fluid (CSF) are important for many neurological applications. Volumetric changes are observed in multiple sclerosis (MS), Alzheimer's disease and dementia, and in normal aging. A novel method is presented to segment brain tissue based on quantitative magnetic resonance imaging (qMRI) of the longitudinal relaxation rate R(1), the transverse relaxation rate R(2) and the proton density, PD.
+
+Previously reported qMRI values for WM, GM and CSF were used to define tissues and a Bloch simulation performed to investigate R(1), R(2) and PD for tissue mixtures in the presence of noise. Based on the simulations a lookup grid was constructed to relate tissue partial volume to the R(1)-R(2)-PD space. The method was validated in 10 healthy subjects. MRI data were acquired using six resolutions and three geometries.
+
+Repeatability for different resolutions was 3.2% for WM, 3.2% for GM, 1.0% for CSF and 2.2% for total brain volume. Repeatability for different geometries was 8.5% for WM, 9.4% for GM, 2.4% for CSF and 2.4% for total brain volume.
+
+We propose a new robust qMRI-based approach which we demonstrate in a patient with MS.
+
+• A method for segmenting the brain and estimating tissue volume is presented • This method measures white matter, grey matter, cerebrospinal fluid and remaining tissue • The method calculates tissue fractions in voxel, thus accounting for partial volume • Repeatability was 2.2% for total brain volume with imaging resolution <2.0 mm.
+

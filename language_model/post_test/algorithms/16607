@@ -1,0 +1,11 @@
+
+zzso information plays a crucial role in medicine, so that in medical zzso there is an increasing awareness that suitable database approaches are needed to store and support zzso Specifically, a great amount of clinical data zzso therapeutic zzso are periodically zzso Although an explicit treatment is possible in most cases, it causes severe storage and disk zzso zzso 
+
+In this paper, we propose an innovative approach to cope with periodic zzso medical data in an implicit zzso 
+
+We propose a new data model, representing periodic data in a compact zzso way, which is a consistent extension of zzso consensus zzso Then, we identify some important types of zzso queries, and present query answering zzso to answer zzso Finally, we also run experiments to evaluate our zzso 
+
+The experiments show that our approach zzso current explicit approaches, especially as regard disk zzso 
+
+We have provided an implicit approach to periodic data with is a consistent extension of zzso (and which is thus grant zzso with it), and we have zzso proven that it zzso current explicit zzso 
+

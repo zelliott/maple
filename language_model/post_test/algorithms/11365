@@ -1,0 +1,7 @@
+
+The main challenge for zzso zzso protein design zzso remains the zzso nature of the search zzso Even in its simplest zzso zzso zzso encompasses a zzso difficult zzso problem that prevents the exact exploration of complex systems defining large zzso zzso 
+
+We present here a zzso zzso based on cost function network zzso zzso a recent exact zzso zzso technique, to efficiently handle highly complex zzso spaces encountered in various protein design zzso We show that the zzso approach is able to solve zzso a variety of complex designs that could often not be solved using a usual zzso tool or state-of-the-art exact operations research zzso Beyond the identification of the optimal solution, the global zzso zzso the zzso method is also able to quickly zzso large ensembles of zzso solutions of interest to rationally build experimental zzso zzso zzso 
+
+The combined pipeline used to generate energetic models (based on a patched version of the open source solver zzso zzso the conversion to zzso models (based on zzso zzso and zzso solving (based on the open source solver zzso are all available at zzso 
+

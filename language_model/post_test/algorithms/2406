@@ -1,0 +1,7 @@
+
+Systems biology employs mathematical zzso to further our understanding of zzso zzso Since the amount of experimental data on which the models are zzso is often zzso these models exhibit large uncertainty in both parameters and zzso zzso methods can be used to select experiments that will reduce such uncertainty in an optimal zzso However, existing methods for optimal experiment design zzso rely on assumptions that are inappropriate when data are scarce considering model zzso 
+
+We have developed a novel method to perform zzso for models that cope with large zzso zzso We employ a zzso approach involving importance sampling of the zzso zzso distribution to predict the efficacy of a new measurement at reducing the uncertainty of a selected zzso We demonstrate the method by applying it to a case where we show that specific combinations of experiments result in more precise zzso 
+
+zzso code is available at: zzso 
+

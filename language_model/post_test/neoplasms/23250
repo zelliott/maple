@@ -1,0 +1,9 @@
+
+Although there have been various proposed methods for zzso zzso zzso zzso motion zzso there is not sufficient evidence to answer which method is better in zzso This investigation aims to characterize the behavior of the two main zzso approaches in terms of convergence and image zzso 
+
+For the first method, zzso zzso reconstructions of each gate are transformed to a reference gate and zzso In the second method, zzso image reconstruction zzso motion information is incorporated within the zzso Both techniques studied were based on the ordered zzso expectation zzso zzso Motion information was obtained from a dynamic MR acquisition performed on a human volunteer and concurrent PET data were simulated from the dynamic MR zzso The two approaches were assessed statistically using multiple zzso to accurately define the noise properties of the reconstructed zzso 
+
+zzso successfully recovers the true values of all regions, whereas zzso has high bias due to the limited zzso and zzso errors during the transformation zzso In addition, zzso noise is very small and zzso whereas in zzso noise becomes progressively greater with the number of zzso and therefore zzso zzso zzso in terms of zzso only if noise is zzso For example, zzso with zzso results in zzso up to zzso lower than zzso 
+
+This study indicates that zzso may provide superior performance overall to zzso if noise is zzso However, in applications where zzso is not the main objective zzso can be a practical and simple method to correct for zzso 
+

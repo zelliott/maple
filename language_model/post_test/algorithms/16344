@@ -1,0 +1,7 @@
+
+The search for cluster structure in zzso zzso is a base problem for the so-called zzso zzso A difficult problem in zzso is how to handle data with a zzso structure, zzso data that is not shaped in the form of compact clouds of points, forming arbitrary shapes or paths embedded in a zzso space, as could be the case of some gene expression zzso 
+
+In this work we introduce the zzso zzso zzso based zzso a new tool for evaluating distances in such zzso The new metric can be used in combination with most zzso zzso The zzso metric is based on a zzso zzso first it zzso the zzso of the zzso of interest using a low zzso and then it adds edges with a highly penalized weight for connecting the zzso produced by the first zzso We discuss several possible schemes for connecting the different zzso as well as zzso zzso We show zzso results on several public gene expression zzso and simulated artificial problems to evaluate the behavior of the new zzso 
+
+In all cases the zzso metric shows promising zzso zzso The use of the zzso metric can improve the performance of commonly used zzso based zzso methods, to the level of more advanced zzso A great advantage of the new procedure is that researchers do not need to learn a new method, they can simply zzso distances with the zzso metric and then, for example, use zzso zzso to produce an accurate and highly zzso zzso of their zzso zzso 
+

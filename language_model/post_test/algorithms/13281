@@ -1,0 +1,7 @@
+
+zzso zzso proteins zzso lack a zzso three-dimensional zzso Some of them may assume a locally stable structure under specific conditions, zzso upon interaction with another zzso while others function in a permanently zzso zzso The discovery of zzso challenged the traditional protein structure zzso which stated that a specific zzso structure defines the function of the zzso As of December 2011, approximately 60 methods for zzso prediction of protein disorder from sequence have been made publicly zzso They are based on different approaches, such as utilizing evolutionary information, energy functions, and various statistical and machine learning zzso 
+
+Given the diversity of existing intrinsic disorder prediction methods, we decided to test whether it is possible to combine them into a more accurate zzso zzso We developed a method based on arbitrarily chosen 13 disorder zzso in which the final consensus was weighted by the accuracy of the zzso We have also developed a disorder predictor zzso that used no third-party disorder zzso but alignments to known protein structures, reported by the protein zzso methods, to zzso the potentially structured and zzso zzso Following the success of our disorder zzso in the zzso zzso we combined them into a zzso predictor called zzso which was the top scoring method in the subsequent zzso zzso 
+
+A series of disorder zzso described in this article is available as a zzso web server at zzso zzso are presented both in an easily zzso interactive mode and in a simple text format suitable for machine zzso 
+

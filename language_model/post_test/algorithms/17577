@@ -1,0 +1,9 @@
+
+zzso have generally been excluded from the prediction of zzso secondary structures due to its difficulty in zzso zzso several dynamic programming zzso exist for the prediction of zzso using zzso approaches, they are neither reliable nor zzso On the other hand, comparative methods are more reliable, but are often done in an ad hoc manner and require expert zzso zzso weighted matching, an zzso for zzso prediction with comparative analysis, suffers from zzso accuracy in many zzso 
+
+Here we present an algorithm, zzso loop matching, for reliably and efficiently predicting zzso secondary structures including zzso The method can zzso either zzso or comparative information or both, thus is able to predict zzso for both aligned and individual zzso We have tested the zzso on a number of zzso zzso Using 8-12 zzso zzso the zzso correctly identifies more than zzso of zzso for short sequences and zzso zzso It correctly predicts nearly all zzso and produces very few zzso zzso for sequences without zzso Comparisons show that our zzso is both more sensitive and more specific than the maximum weighted matching zzso In addition, our zzso has zzso accuracy on individual zzso comparable with the zzso algorithm, while using much less zzso zzso 
+
+The program has been implemented in zzso C and is freely available for academic use at zzso 
+
+zzso 
+

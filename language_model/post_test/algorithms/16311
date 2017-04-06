@@ -1,0 +1,9 @@
+
+With the availability of large-scale zzso association study zzso data, choosing an optimal set of zzso for disease zzso prediction is a challenging zzso This study aimed to use single zzso zzso zzso to predict psoriasis from searching zzso zzso 
+
+zzso we had zzso samples and zzso zzso zzso for searching a set of zzso to predict zzso for psoriasis consisted of two zzso The first one was to search top 1,000 zzso with high accuracy for prediction of psoriasis from zzso zzso The second one was to search for an optimal zzso subset for predicting zzso The sequential information bottleneck zzso method was compared with classical linear zzso zzso for zzso zzso 
+
+The best test harmonic mean of sensitivity and specificity for predicting psoriasis by zzso was zzso zzso zzso while only zzso zzso zzso was reported for predicting disease by zzso Our results indicate that the new zzso zzso performs better than zzso in the zzso 
+
+The fact that a small set of zzso can predict disease status with average accuracy of zzso makes it possible to use zzso data for psoriasis zzso 
+

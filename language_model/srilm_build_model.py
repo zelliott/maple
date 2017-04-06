@@ -1,6 +1,6 @@
 from subprocess import call
 from constants import srilm_path
-from constants import train_data_clean_path
+from constants import train_data_pre_path
 from constants import srilm_language_models_path
 
 def make_model(train_file):
@@ -16,23 +16,25 @@ def make_model(train_file):
 	# the srilm command used to create a language model
 	ngram_count_cmd = srilm_path + '/ngram-count'
 
-	model_name = train_file.split('.')[0] + '.lm'
+	model_name = train_file.split('.')[0] + '_3.lm'
 	model_path = srilm_language_models_path + '/' + model_name
 
-	train_file_path = train_data_clean_path + '/' + train_file
+	train_file_path = train_data_pre_path + '/' + train_file
 	
 	# The arguments used for srilm command. Change these arguments to change
 	# the parameters such as smoothing.
 	args = [ ngram_count_cmd, 
 			'-unk', 
 			'-text', 
-			train_file_path, 
+			train_file_path,
+                 '-order',
+                 '3',
 			'-lm', 
-			model_path ]
+			model_path]
 	print ' '.join(args)
 	call(args)
 
 # To run this function, simply add a function call to the end of this file, and
 # run the file directly from the command line. An example function call would 
 # look like:
-# make_model('nytimes.txt')
+make_model('fisher_punct.txt')

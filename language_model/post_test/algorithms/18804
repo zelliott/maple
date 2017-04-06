@@ -1,0 +1,5 @@
+
+With advances in zzso sequencing methods, and the corresponding exponential growth in sequence data, it has become critical to develop zzso data management techniques for sequence storage, retrieval and zzso In this paper we present a novel zzso zzso tree approach, called zzso that effectively scales to massive amount of sequence data using only a limited amount of zzso based on a novel string zzso zzso We show zzso that zzso zzso existing zzso tree zzso it is able to index zzso sequences zzso the entire Human zzso and it also allows rapid query processing over the zzso zzso 
+
+zzso source code is available online at zzso 
+

@@ -1,0 +1,9 @@
+
+The goal of this work is to use vessel encoded arterial spin labeling (VEASL) methods to detect feeding arteries without prior knowledge of their positions, and map the vascular territory of each.
+
+Five healthy subjects were scanned, each with four different tagging planes. The VEASL tagging method was modified to use 60 different pairs of encoding steps with random orientation and spacing. A signal model was developed to calculate the theoretical ASL signal resulting from a vessel in any position in the tagging plane. For each voxel, the location of the feeding vessel was estimated by finding the theoretical signal that correlates most closely with the data.
+
+The main intracranial arteries, including carotid, vertebral, basilar, and cerebral arteries above the Circle of Willis were identified and localized from the ASL data in all subjects. In addition, external carotid branches were detected in all subjects.
+
+Randomly encoded VEASL provides data that allows for blind detection of source vessels. This method simplifies the VEASL prescription process and allows for efficient detection of atypical or collateral circulation.
+

@@ -1,0 +1,7 @@
+
+To identify accurately protein function on a zzso scale requires zzso data within and between zzso zzso zzso zzso zzso often have high rates of errors and thus yield incomplete and contradictory zzso In this study, we develop a simple statistical framework using zzso law to interpret such data and combine information from different zzso zzso In order to illustrate our approach we apply it to two protein complex zzso zzso 
+
+Our approach shows how to use zzso data to calculate accurately the probability that two proteins are part of the same zzso zzso our approach does not need a reference set of verified protein interactions to determine false positive and false negative error rates of protein zzso We also demonstrate how to combine information from two separate protein zzso zzso into a combined zzso that has greater coverage and accuracy than either zzso zzso In addition, we also provide a technique for zzso the total number of proteins which can be detected using a particular experimental zzso 
+
+A suite of simple programs to accomplish some of the above tasks is available at zzso 
+

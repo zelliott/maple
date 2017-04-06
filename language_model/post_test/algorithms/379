@@ -1,0 +1,3 @@
+
+zzso 3-D ultrasound scan conversion zzso in software has not been practical due to its high zzso and zzso data handling zzso In this paper, we describe software-based 3-D SC with high volume rates using a zzso processor, zzso We have implemented both 3-D SC zzso 1) the zzso 3-D SC where two zzso coordinate transformations in zzso planes are performed in sequence and 2) the direct 3-D SC where the coordinate transformation is directly handled in zzso One Cell zzso can zzso a 192 zzso 192 zzso 192 zzso volume at zzso zzso with the zzso 3-D SC zzso and 28 zzso with the direct 3-D SC zzso 
+

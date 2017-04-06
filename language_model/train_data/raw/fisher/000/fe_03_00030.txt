@@ -1,0 +1,446 @@
+# fe_03_00030.sph
+# Transcribed at the LDC
+
+48.28 49.09 B: home management 
+
+49.18 49.86 B: program going 
+
+50.40 50.87 A: okay 
+
+52.38 54.74 B: more or less the most recent therapy i've had for my hand 
+
+55.96 58.02 B: built around we spent the first couple months trying to work out 
+
+58.96 60.19 B: all the things i needed to do at home 
+
+61.05 61.55 A: wow 
+
+61.28 61.77 B: but um 
+
+62.36 64.82 B: as far as colds and stuff go i just drink echinacea tea 
+
+65.06 65.55 B: ginger 
+
+65.66 66.09 B: garlic 
+
+67.08 68.31 B: um all home remedies 
+
+68.70 68.96 A: yeah 
+
+70.22 70.48 B: i've 
+
+70.72 73.54 B: definitely a firm believer in uh we- western medicine is good if something's 
+
+73.65 74.71 B: torn broken or 
+
+74.86 75.85 B: seriously damaged or 
+
+76.51 77.87 B: critically like terminally 
+
+78.26 78.64 B: fatal 
+
+78.37 78.65 A: right 
+
+79.80 82.40 B: but anyway i've been talking too much what's uh what's your views on the (( mat- )) 
+
+82.15 87.57 A: um well i i get colds year round so it's uh 
+
+87.21 87.67 B: oh yeah 
+
+88.71 92.04 A: i mean noth- nothing serious you know a cough here 
+
+91.93 94.40 B: oh yeah that was one of the questions i uh i focused more on the 
+
+94.68 96.80 B: do you go to a doctor for a cold or not but uh 
+
+96.63 98.01 A: yeah i i don't 
+
+98.37 99.85 B: seasonally is not the case for me 
+
+98.44 99.02 A: and 
+
+100.20 101.17 B: if i quit smoking 
+
+101.93 103.43 B: uh which i do frequently 
+
+104.20 106.38 B: um it's definitely a hard uh i- it takes 
+
+106.50 107.01 B: toll on my 
+
+108.23 110.14 B: but all kinds of things vary my immune system you know 
+
+110.66 112.59 A: uh coming o- uh uh stopping smoking 
+
+112.83 113.42 A: you're saying 
+
+112.84 113.12 B: yeah 
+
+114.17 114.49 A: huh 
+
+114.70 116.64 B: because your body stresses out when it needs that nicotine 
+
+117.00 118.01 A: ah true okay 
+
+117.48 118.76 B: so i usually i go cold turkey 
+
+119.29 119.69 A: ah 
+
+119.96 121.84 B: so um yeah all of a sudden it's surprised 
+
+122.53 122.94 B: just like 
+
+123.71 125.53 B: same thing with my wrists and my shoulders 
+
+129.09 129.87 B: they're all tapping in 
+
+131.78 132.14 A: yes 
+
+140.91 142.54 A: oh of course of course 
+
+143.05 144.04 A: yeah no i uh 
+
+144.30 152.02 A: well i have i mean except for except for routine things like check ups and annual follow up type things i have to be pretty sick to go to a doctor 
+
+152.40 154.01 B: although i did just find out a g- and this 
+
+154.23 155.91 B: coincidence i was seeing a doctor for my back and 
+
+156.31 157.75 B: we got my cholesterol checked and it was 
+
+158.08 158.64 B: through the roof 
+
+159.86 161.77 B: because i was really big into cheese and chocolate 
+
+163.73 164.54 B: really big like 
+
+164.68 165.36 B: cheese lovin- 
+
+165.68 166.61 B: anything melted 
+
+167.33 169.26 B: six kind of cheese in the fridge at all times 
+
+172.07 174.66 B: so can you hear me all right because i'm actually on a microphone with an ear piece 
+
+175.24 176.70 A: yeah i can hear you fine 
+
+177.54 180.24 B: that's good because it does matter the quality of the recording i'm sure 
+
+181.86 182.16 A: yeah 
+
+183.32 185.08 A: yeah no i have no trouble hearing you at all 
+
+188.38 189.55 A: no no no i'm uh 
+
+190.11 190.48 A: i'm 
+
+191.26 192.36 A: huh well 
+
+191.97 192.59 B: a volunteer 
+
+193.18 194.39 A: i'm a volunteer yeah 
+
+194.29 194.72 B: there you go 
+
+194.55 200.14 A: no uh i was going to say my my only affiliation is with penn is i got my master's there and that's where my my 
+
+200.54 203.02 A: my real doctors are but uh 
+
+202.39 202.89 B: oh i see 
+
+203.86 205.19 B: so they have a hospital on campus there 
+
+206.15 207.19 A: yeah they do 
+
+207.66 209.97 A: uh you're not you're you're not from the philadelphia area 
+
+207.70 208.76 B: that's kind of rare in the states 
+
+210.43 212.41 B: no no not at all i grew up in canada 
+
+212.86 214.90 A: okay how how did you find out about the study 
+
+215.10 215.74 B: i'm a linguist 
+
+216.29 217.01 A: oh okay 
+
+218.11 220.38 A: no i'm i'm a computer dweeb type 
+
+220.06 222.49 B: and i've worked in speech recognition and natural language understanding 
+
+223.68 224.15 B: i'm kind of a 
+
+224.39 225.21 B: computer geek myself 
+
+225.55 226.47 A: okay 
+
+226.60 229.68 A: no i'm more of a a unix ween- uh linux weenie 
+
+230.49 231.60 B: yeah we used to do a lot of unix 
+
+231.85 232.11 B: school 
+
+232.53 232.84 A: yeah 
+
+235.83 236.72 B: corpora of data 
+
+236.96 237.77 B: raw like te- 
+
+238.29 239.39 B: like what they're compiling out of this 
+
+239.82 240.85 A: mhm exac- 
+
+240.27 243.22 B: basically we used to do statistical processing on on language data 
+
+245.37 247.44 B: pretty far off our topic of illness but 
+
+248.92 253.57 A: i think they do that just to get people to talk 
+
+253.49 254.41 B: yeah i'm sure it- 
+
+254.51 255.10 B: -'s just to prompt 
+
+255.74 259.59 B: but the thing is too i- if you do like discourse analysis then topical stuff is 
+
+261.50 262.31 B: whether people 
+
+263.22 264.84 B: have a relation to between the topi- 
+
+268.63 269.16 A: not true 
+
+270.15 270.41 B: yeah 
+
+270.82 272.97 B: i study syntax but semantics is really uh 
+
+274.37 274.97 B: ripe for 
+
+278.08 278.53 A: okay 
+
+280.54 280.84 B: so 
+
+282.99 284.37 B: what flavor of linux do you use 
+
+285.09 289.00 A: well right now i ha- i'm uh i'm running uh seven point two red hat 
+
+289.98 290.46 A: at home 
+
+291.31 292.36 B: red hat (( just started )) 
+
+291.42 291.94 A: and then i wo- 
+
+293.26 293.74 A: i'm sorry 
+
+294.13 296.00 B: the red hat r._p._m. uh management system 
+
+296.81 297.44 B: is pretty good 
+
+297.04 297.31 A: yeah 
+
+298.12 298.62 A: mhm 
+
+300.22 304.95 A: yes it is yeah uh i mean it's uh it makes it nice because the packages 
+
+305.75 309.27 A: you're not just down loading a block and saying oh god i hope 
+
+309.38 309.96 B: exactly 
+
+310.12 310.67 A: (( and uh the )) 
+
+310.53 311.58 B: finding dependencies and 
+
+313.52 314.20 A: exactly 
+
+314.18 315.44 B: they all basically had to come up with it 
+
+316.55 318.22 B: red hat was kind of o- ahead of the curve i think 
+
+318.70 319.83 A: yeah uh 
+
+320.27 320.98 B: -ted off with the r._p._m. 
+
+322.36 323.97 A: of course the nice thing is 
+
+324.18 326.24 A: since it's all g._p._l. 
+
+326.75 327.93 A: they have to share it 
+
+328.00 328.88 B: yeah absolutely 
+
+330.32 330.61 B: yeah 
+
+331.15 331.51 A: yeah 
+
+334.17 335.23 B: you mean red hat um 
+
+339.03 341.18 A: well they they were all similar focus towards hardware 
+
+341.52 341.87 B: uh-huh 
+
+344.91 352.53 A: where where red hat is is pre- is s- strictly software and really the the big thing about them is the the support 
+
+348.24 348.56 B: right 
+
+354.05 354.48 A: all right 
+
+354.66 356.95 A: eh companies don't like software 
+
+357.34 358.23 A: don't like share ware 
+
+360.07 360.78 A: and 
+
+360.15 360.55 B: certainly 
+
+361.31 368.31 A: uh you know before red hat would would package it and put it in nice boxes and have nice contracts linux was share ware 
+
+369.50 376.29 A: but now that there's a company behind it and someone supporting it and someone essentially that you can sue uh companies are a whole lot happier 
+
+384.66 385.32 A: oh 
+
+385.47 393.77 A: please oh yeah we've patented all ideas behind the ability to buy over electronic media 
+
+391.07 391.45 B: amaz- 
+
+392.81 396.10 B: yeah amazon got that one click thing and it was like a whole ball started rolling 
+
+396.88 397.68 B: and the d._n._a. 
+
+398.00 398.54 B: patenting 
+
+398.88 401.08 B: i don't know uh in canada they just had they overturned a case 
+
+401.77 404.73 B: there's these mice that um have been bred to be susceptible to uh 
+
+405.51 406.41 B: catching cancer 
+
+406.82 407.25 A: mhm 
+
+407.63 410.20 B: and uh um universities all throughout the states use them 
+
+411.30 411.91 B: but uh this 
+
+412.36 414.21 B: this uh court case came up in ontario 
+
+420.58 420.85 B: so 
+
+421.77 423.37 B: fortunately they're not going to be able to do the research on it 
+
+424.66 424.93 B: but 
+
+426.71 427.44 B: i think it's also a 
+
+427.62 428.53 B: a principled stand 
+
+429.76 430.49 A: well eh 
+
+430.63 438.04 A: i mean the whole idea behind intellectual property as a property all right in that that's what a patent is it's uh the embodiment of that property 
+
+437.71 439.07 B: right with a time frame and 
+
+439.18 444.41 A: yeah is eh and of course the same thing with a copyright the whole idea is that you're saying okay 
+
+444.52 445.73 A: it is yours 
+
+446.22 448.20 A: you've spent some money to to build it 
+
+448.55 449.63 A: whatever it is 
+
+449.84 452.68 A: whether it whether it's a book a s- uh uh 
+
+453.00 456.42 A: uh a pop song recording or uh 
+
+456.67 458.58 A: some kind of process 
+
+458.68 460.26 A: you spent the money you built it 
+
+460.38 462.82 A: you de- you deserve the the rewards 
+
+464.24 468.15 A: i mean it's it's kind of the the whole fundament- the underneath um 
+
+468.39 469.90 A: uh the capitalistic system 
+
+469.86 472.92 B: i think so that you're contri- you're actually adding some value to the system 
+
+473.30 474.50 A: absolutely now 
+
+474.06 476.00 B: fact is that all the geneticists are doing is 
+
+476.16 477.08 B: actually searching 
+
+477.99 480.59 B: for for strands of d._n._a. and then doing they do some research 
+
+480.99 482.15 B: they're more or less like a search engine 
+
+483.42 486.59 B: it's already out there they don't actually produce anything or construct anything 
+
+487.58 492.37 A: well but they they combine the d._n._a. in a certain certain way if if you're talking about duh 
+
+492.61 495.10 A: you know e- essentially patenting the animal 
+
+495.52 495.82 B: right 
+
+497.09 497.69 A: oh 
+
+498.40 500.20 A: and and someone had to do the research 
+
+500.58 501.55 B: this is true and in that 
+
+500.84 501.50 A: than 
+
+501.70 503.49 B: pure information though and so the question is 
+
+503.91 506.41 B: is that pure information actual property that you can own 
+
+508.49 509.21 B: fundamentally what 
+
+509.33 512.40 B: drives these the open source versus microsoft model of software 
+
+512.84 514.21 A: sure but but 
+
+514.38 517.42 A: the thing to understand though about open sources it's voluntary 
+
+517.79 519.24 B: yeah absolutely oh totally 
+
+519.45 520.68 B: and that system works 
+
+521.37 522.26 B: the patches 
+
+523.42 523.84 A: oh yeah 
+
+523.75 525.07 B: in fact it comes from the musici- 
+
+525.60 527.72 B: all keeps the system going and it's purely voluntary 
+
+528.19 529.06 B: people do it because 
+
+529.20 529.74 B: satisfying 
+
+530.48 531.53 B: produce something that runs 
+
+532.71 534.01 A: absolutely yeah 
+
+532.92 533.89 B: something that is secure 
+
+534.30 535.08 B: and that at any and the 
+
+535.43 537.07 B: peru and all these governments that want to have 
+
+537.76 539.03 B: full access for their citizens 
+
+539.39 540.59 B: all government documentation 
+
+541.78 542.08 B: perfect 
+
+542.20 542.47 B: sense 
+
+542.73 544.04 B: for it to be a transparent system 
+
+544.42 545.87 B: they can then build a home grown 
+
+546.13 547.12 B: software industry around 
+
+547.62 548.87 B: rather than paying microsoft 
+
+550.22 551.15 B: billions of dollars 
+
+553.28 558.77 A: oh uh you you you you won't get the you won't eh get disagreement out of me that's for sure uh 
+
+561.26 564.47 B: strange how uh 

@@ -1,0 +1,7 @@
+
+Mass zzso zzso instruments and experimental protocols are rapidly zzso but de zzso zzso sequencing zzso to analyze tandem mass zzso zzso are lagging zzso Although existing de zzso sequencing tools perform well on certain types of zzso zzso zzso zzso zzso zzso zzso of zzso zzso their performance often zzso on other types of zzso such as zzso Transfer zzso zzso zzso zzso zzso zzso zzso or zzso of zzso zzso Thus, rather than developing a new zzso for each type of zzso we develop a universal de zzso sequencing zzso called zzso that works well for all types of zzso or even for spectral pairs zzso zzso spectral zzso zzso uses an improved scoring function that captures the zzso between different zzso types, where such zzso are learned automatically using a modified offset frequency zzso 
+
+The performance of zzso is compared with zzso zzso and zzso using various types of zzso The results show that the performance of zzso is superior to other tools for zzso zzso and superior or comparable with others for zzso and zzso zzso zzso also estimates the probability that each reported reconstruction is correct, using simple statistics that are readily obtained from a small training zzso We demonstrate that the zzso is accurate for all tested types of zzso (including zzso zzso zzso zzso and zzso zzso of zzso zzso or zzso zzso zzso 
+
+zzso is implemented in zzso and tested on Windows, zzso and zzso X zzso zzso is available at zzso along with the zzso 
+

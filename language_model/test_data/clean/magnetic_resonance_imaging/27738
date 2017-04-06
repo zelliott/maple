@@ -1,0 +1,9 @@
+
+To assess test-retest stability of four functional magnetic resonance imaging (fMRI)-derived resting brain activity metrics: the seed-region-based functional connectivity (SRFC), independent component analysis (ICA)-derived network-based FC (NTFC), regional homogeneity (ReHo), and the amplitude of low frequency fluctuation (ALFF).
+
+Simulations were used to assess the sensitivity of SRFC, ReHo, and ALFF to noise interference. Repeat resting blood oxygen level-dependent (BOLD) fMRI were acquired from 32 healthy subjects. The intraclass correlation coefficient (ICC) was used to assess the stability of the four metrics.
+
+Random noise yielded small random SRFC, small but consistent ReHo and ALFF. A neighborhood size greater than 20 voxels should be used for calculating ReHo in order to reduce the noise interference. Both the anterior cingulate cortex (ACC) and posterior cingulate cortex (PCC)-based SRFC were reproducible in more spatially extended regions than ICA NTFC. The two regional spontaneous brain activity (SBA) measures, ReHo and ALFF, showed test-retest reproducibility in almost the whole gray matter.
+
+SRFC, ReHo, and ALFF are robust to random noise interference. The neighborhood size for calculating ReHo should be larger than 20 voxels. ICC > 0.5 and cluster size > 11 should be used to assess the ICC maps for ACC/PCC SRFC, ReHo, and ALFF. BOLD fMRI-based SBA can be reliably measured using ACC/PCC SRFC, ReHo, and ALFF after 2 months.
+
