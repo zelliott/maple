@@ -1,9 +1,12 @@
-var MapleAnalyzer = function () {
+var Maple = function () {
+  this.mapleURL = 'https://sample-env.q6yemetfiv.us-west-1.elasticbeanstalk.com/api/analyze';
 };
 
-MapleAnalyzer.prototype = {
+Maple.prototype = {
 
-  analyze: function () {
+  determineReadability: function () {
+    console.log('determineReadability');
+
     $('.rprt').each(function (i) {
       var $item = $(this);
       var $itemInfo = $item.find('.rprtnum');
@@ -22,34 +25,30 @@ MapleAnalyzer.prototype = {
 
           // POST abstract text to our web app analysis api
 
-          var mapleUrl = 'https://sample-env.q6yemetfiv.us-west-1.elasticbeanstalk.com/api/analyze';
-
           $.ajax({
             type: 'POST',
             async: true,
-            url: mapleUrl,
+            url: this.mapleUrl,
             data: abstractText,
             dataType: 'json',
-            success: function (score) {
-              console.log(score);
+            success: function (data) {
+              var score = Math.floor(data.score * 100);
+              var scoreColorClass = (score < 33) ? 'maple-score-green' :
+                                    (score < 66) ? 'maple-score-yellow' :
+                                                   'maple-score-red';
+
+              var $mapleScore = $(document.createElement('div'))
+                .text(score)
+                .addClass('maple-score')
+                .addClass(scoreColorClass)
+                .appendTo($itemInfo);
+
+              $itemInfo.find('.maple-loading').hide();
             },
             error: function (xhr, status, error) {
               console.log(xhr, status, error);
             }
           });
-
-          var score = Math.floor(Math.random() * 100);
-          var scoreColorClass = (score < 33) ? 'maple-score-green' :
-                                (score < 66) ? 'maple-score-yellow' :
-                                               'maple-score-red';
-
-          var $mapleScore = $(document.createElement('div'))
-            .text(score)
-            .addClass('maple-score')
-            .addClass(scoreColorClass)
-            .appendTo($itemInfo);
-
-          $itemInfo.find('.maple-loading').hide();
         },
         error: function (xhr, status, error) {
           var $mapleError = $(document.createElement('div'))
@@ -61,12 +60,48 @@ MapleAnalyzer.prototype = {
         }
       });
     });
+  },
+
+  simplifyWords: function() {
+    console.log('simplifyWords');
+
+    var abstractText = $('abstracttext').text();
+
+    $.ajax({
+      type: 'POST',
+      async: true,
+      url: this.mapleUrl,
+      data: abstractText,
+      dataType: 'json',
+      success: function (data) {
+        console.log(data);
+
+        var definitions = data.definitions;
+        var abstractTextWords= abstractText.split('');
+
+        abstractTextWords.forEach(function(word) {
+          if (definitions[word]) {
+            // TODO
+            // Highlight this word
+            // Insert definition
+          }
+        });
+      },
+      error: function (xhr, status, error) {
+        console.log(xhr, status, error);
+      }
+    });
   }
 
 };
 
 $(document).ready(function() {
+  var maple = new Maple();
+  var isSearchResults = window.location.href.indexOf('term') >= 0;
 
-  var analyzer = new MapleAnalyzer();
-  analyzer.analyze();
+  if (isSearchResults) {
+    maple.determineReadability();
+  } else {
+    maple.simplifyWords();
+  }
 });

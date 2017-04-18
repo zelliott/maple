@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 var model = require('../lang_model/model.json');
 
-function analyze(abstract) {
+function determineReadability(abstract) {
   var unseen = 0;
   var words = abstract.split('');
 
@@ -15,13 +15,21 @@ function analyze(abstract) {
   return unseen;
 }
 
+function simplifyWords(abstract) {
+  return {
+    'the': 'The definiton of the.'
+  };
+}
+
 /* POST analyze */
 router.post('/analyze', function(req, res, next) {
   var abstractText = req.body.abstractText;
-  var score = analyze(abstractText);
+  var score = determineReadability(abstractText);
+  var definitions = simplifyWords(abstractText);
 
   res.json({
-    score: score
+    score: score,
+    definitions: definitions
   });
 });
 
