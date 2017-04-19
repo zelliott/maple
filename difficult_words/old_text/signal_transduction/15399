@@ -1,3 +1,0 @@
-
-Numerous aspects of the immune system operate on the basis of complex regulatory networks that are amenable to mathematical and computational modeling. Several modeling frameworks have recently been applied to simulating the immune system, including systems of ordinary differential equations, delay differential equations, partial differential equations, agent-based models, and stochastic differential equations. In this chapter, we summarize several recent examples of work that has been done in immune modeling and discuss two specific examples of models based on DDEs that can be used to understand the dynamics of T cell regulation.
-

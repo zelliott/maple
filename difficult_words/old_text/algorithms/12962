@@ -1,3 +1,0 @@
-
-Classically, optical systems are considered to have a fundamental resolution limit due to wave nature of light. This article presents a novel method for observing sub-wavelength features in a conventional optical microscope using linear optics. The operation principle is based on a random and time varying flow of nanoparticles moving in proximity to the inspected sample. Those particles excite the evanescent waves and couple them into harmonic waves. The sub-wavelength features are encoded and later on digitally decoded by proper image processing of a sequence of images. The achievable final resolution limit corresponds to the size of the nanoparticles. Experimental proof of principle validation of the technique is reported.
-

@@ -1,9 +1,0 @@
-
-To propose and to evaluate a novel method for the automatic segmentation of the heart's two ventricles from dynamic ("cine") short-axis "steady state free precession" (SSFP) MR images. This segmentation task is of significant clinical importance. Previously published automated methods have various disadvantages for routine clinical use.
-
-The proposed method is primarily image-driven: it exploits the spatiotemporal information provided by modern 3D+time SSFP cardiac MRI, and makes only few and plausible assumptions about the image acquisition and about the imaged heart. Specifically, the method does not require previously trained statistical shape models or gray-level appearance models, as often used by other methods.
-
-The performance of the segmentation method was demonstrated through a qualitative visual validation on 32 clinical exams: no gross failures for the left-ventricle (right-ventricle) on 31 (29) of the exams were found. A validation of resulting quantitative cardiac functional parameters showed good agreement with a manual quantification of 19 clinical exams.
-
-The proposed method is feasible, fast, and robust against anatomical variability and image contrast variations.
-

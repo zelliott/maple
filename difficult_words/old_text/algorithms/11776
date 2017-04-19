@@ -1,3 +1,0 @@
-
-We present a fast algorithm for sequence clustering and searching which works with large sequence databases. It uses a strictly defined similarity measure. The algorithm is faster than conventional EST clustering approaches because its complexity is directly related to the number of subwords shared by the sequences. Furthermore, the algorithm also works with proteic sequences and large sequences like entire chromosomes. We present a theoretical study of our approach and provide experimental results.
-

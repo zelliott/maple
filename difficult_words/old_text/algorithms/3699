@@ -1,3 +1,0 @@
-
-A complex-valued real-time recurrent learning (CRTRL) algorithm for the class of nonlinear adaptive filters realized as fully connected recurrent neural networks is introduced. The proposed CRTRL is derived for a general complex activation function of a neuron, which makes it suitable for nonlinear adaptive filtering of complex-valued nonlinear and nonstationary signals and complex signals with strong component correlations. In addition, this algorithm is generic and represents a natural extension of the real-valued RTRL. Simulations on benchmark and real-world complex-valued signals support the approach.
-

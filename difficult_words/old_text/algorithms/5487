@@ -1,3 +1,0 @@
-
-We consider the optimal rate of approximation by single hidden feed-forward neural networks on the unit sphere. It is proved that there exists a neural network with n neurons, and an analytic, strictly increasing, sigmoidal activation function such that the deviation of a Sobolev class W²(2r)(S(d)) from the class of neural networks Φ(n)(ϕ), behaves asymptotically as n(-2r/d-1). Namely, we prove that the essential rate of approximation by spherical neural networks is n(-2r/d-1).
-

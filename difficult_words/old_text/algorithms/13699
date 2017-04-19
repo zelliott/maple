@@ -1,3 +1,0 @@
-
-An algorithm for accurate rendering of space-filling molecular models with shadows is presented. The intensity of light and cast shadows are computed to generate realistic pictures. Arbitrary numbers of light sources, which may be at infinite or finite distances can be applied. Hidden-surface removal, lighting, and shadowing are presented in detail.
-

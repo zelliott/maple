@@ -1,3 +1,0 @@
-
-A new algorithm using the geometric active contour model with the fusion of color and intensity priors to segment medical images is presented in this paper. The prior knowledge used here are firstly defined in different color spaces and represented as thresholds searched by the genetic algorithm. Then the prior knowledge is merged into active contour model with its contour evolution by the level set technique. The experiments on clinical marrow images and mammograms have successfully demonstrated its superiority of the proposed algorithm over the existing active contour models which deal with image gradient information.
-

@@ -1,9 +1,0 @@
-
-Biomechanical energy harvesting-generating electricity from people during daily activities-is a promising alternative to batteries for powering increasingly sophisticated portable devices. We recently developed a wearable knee-mounted energy harvesting device that generated electricity during human walking. In this methods-focused paper, we explain the physiological principles that guided our design process and present a detailed description of our device design with an emphasis on new analyses.
-
-Effectively harvesting energy from walking requires a small lightweight device that efficiently converts intermittent, bi-directional, low speed and high torque mechanical power to electricity, and selectively engages power generation to assist muscles in performing negative mechanical work. To achieve this, our device used a one-way clutch to transmit only knee extension motions, a spur gear transmission to amplify the angular speed, a brushless DC rotary magnetic generator to convert the mechanical power into electrical power, a control system to determine when to open and close the power generation circuit based on measurements of knee angle, and a customized orthopaedic knee brace to distribute the device reaction torque over a large leg surface area.
-
-The device selectively engaged power generation towards the end of swing extension, assisting knee flexor muscles by producing substantial flexion torque (6.4 Nm), and efficiently converted the input mechanical power into electricity (54.6%). Consequently, six subjects walking at 1.5 m/s generated 4.8 +/- 0.8 W of electrical power with only a 5.0 +/- 21 W increase in metabolic cost.
-
-Biomechanical energy harvesting is capable of generating substantial amounts of electrical power from walking with little additional user effort making future versions of this technology particularly promising for charging portable medical devices.
-

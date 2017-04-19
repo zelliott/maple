@@ -1,3 +1,0 @@
-
-Multifactor ANOVA procedures are commonly used by practitioners. A hierarchical process for testing the interaction effect(s) first, followed by tests for the main effects, is usually employed. Generally, no consideration is given to the overall type I error rate for these dependent (or conditional) tests. In this article, we formulate a method to evaluate the true overall significance levels for two-factor fixed-effect ANOVA models. Methods for evaluating conditional p-values are discussed. We present the overall significance levels for several specific two-factor designs. We discuss upper bounds on the overall significance level and extensions of the computational methods to higher-order designs as well as applications to random-effect models and mixed models.
-

@@ -1,9 +1,0 @@
-
-To develop and evaluate a computer-assisted method of quantifying five-point elasticity scoring system based on ultrasound real-time elastography (RTE), for classifying benign and malignant breast lesions, with pathologic results as the reference standard.
-
-Conventional ultrasonography (US) and RTE images of 145 breast lesions (67 malignant, 78 benign) were performed in this study. Each lesion was automatically contoured on the B-mode image by the level set method and mapped on the RTE image. The relative elasticity value of each pixel was reconstructed and classified into hard or soft by the fuzzy c-means clustering method. According to the hardness degree inside lesion and its surrounding tissue, the elasticity score of the RTE image was computed in an automatic way. Visual assessments of the radiologists were used for comparing the diagnostic performance. Histopathologic examination was used as the reference standard. The Student's t test and receiver operating characteristic (ROC) curve analysis were performed for statistical analysis.
-
-Considering score 4 or higher as test positive for malignancy, the diagnostic accuracy, sensitivity, specificity, positive predictive value (PPV) and negative predictive value (NPV) were 93.8% (136/145), 92.5% (62/67), 94.9% (74/78), 93.9% (62/66), and 93.7% (74/79) for the computer-assisted scheme, and 89.7% (130/145), 85.1% (57/67), 93.6% (73/78), 92.0% (57/62), and 88.0% (73/83) for manual assessment. Area under ROC curve (Az value) for the proposed method was higher than the Az value for visual assessment (0.96 vs. 0.93).
-
-Computer-assisted quantification of classical five-point scoring system can significantly eliminate the interobserver variability and thereby improve the diagnostic confidence of classifying the breast lesions to avoid unnecessary biopsy.
-

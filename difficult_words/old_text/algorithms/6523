@@ -1,3 +1,0 @@
-
-In this article we extend to the heteroscedastic setting the multiple stepwise test procedures proposed in Tamhane et al. [Tamhane. A. C., Dunnett, C. W., Green, J. W., Wetherington, J. F. (2001). Multiple test procedures for identifying a safe dose. J. Am. Statist. Assoc. 96:835-843] for finding the maximum safe dose. Toxicological data are often heteroscedastic; therefore, the extensions given herein should be highly useful in practice. Simulations are performed to study the Type I familywise error rate and power properties of the procedures. A real data example is given to illustrate the procedures.
-

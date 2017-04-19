@@ -1,3 +1,0 @@
-
-We investigate the effect of backflow on the translocation dynamics of short, flexible polymer chains threading through a small hole in a wall. We find that hydrodynamic interactions between polymer beads play an important role in determining the translocation time distribution: as a monomer moves through the hole it sets up a flow field which transfers momentum to neighboring monomers, thus helping them to move in the same direction. Translocation times are calculated by using the velocity-Verlet algorithm to solve the equations of motion of a polymer which moves in a fluid described by the stochastic rotation algorithm, a particle-based Navier-Stokes solver.
-

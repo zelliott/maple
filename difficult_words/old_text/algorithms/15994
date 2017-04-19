@@ -1,3 +1,0 @@
-
-A new rotation function in Patterson space is described. An image-seeking function can be defined as a criterion of fit between the observed Patterson map and a suitable vector set extracted from a specially calculated Patterson map of the search model. The behaviour of image-seeking functions has appeared to be heavily dependent on certain relations between some statistical parameters of both maps. A new algorithm, which carries out the crucial step of selecting the appropriate vector set from the search model, has been established. As a consequence of the combination of these two preceding results, a new vector-search rotation function has been proposed and tested.
-

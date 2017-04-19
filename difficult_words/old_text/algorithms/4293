@@ -1,9 +1,0 @@
-
-The aim of this study was to develop a feedback system to assist gait rehabilitation of cerebral palsy (CP) toe walkers with dynamic equinus.
-
-Plantar pressure of the forefoot and the heel was collected by sensorized insoles embedded in custom-built shoes and transmitted to a smartphone via Bluetooth. Dynamic foot pressure index of each stride was calculated by purpose-designed software running in the smartphone to distinguish toe-walking strides from normal strides in real time. An auditory signal would be produced to alert the patient each time a toe-walking stride was detected.
-
-For CP toe walkers, the one-way analysis of variance indicated a significant difference (F1,14 = 19.492, P = 0.001) in dynamic foot pressure index between the affected side (31.4 ± 12.0) and the unaffected side (58.6 ± 2.5). In addition, the validation test showed that this system can distinguish toe-walking strides from normal strides of children with CP with an accuracy of 95.3%.
-
-This system was able to monitor the toe-walking strides of children with CP in real time and had the potential to enhance rehabilitation training efficiency and correct toe-walking gait in children with CP with dynamic equinus.
-

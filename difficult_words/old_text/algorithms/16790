@@ -1,3 +1,0 @@
-
-This paper introduces a new algorithm for losslessly compressing voxel-based 3D CT medical images. Firstly, medical data is segmented according to selected ranges of the Hounsfield scale. The data is then arranged into two data streams. The first stream identifies the positions of the remaining data after segmentation. This information is compressed by the JBIG standard. The second stream contains the exact data values and it is losslessly compressed by our algorithm. The efficiency of this approach has been evaluated by a prototype application. This approach represents an interesting alternative for the long-term storage of medical 2D and 3D images, and for applications in telemedicine. The compression method can be used either for 2D or 3D medical data.
-

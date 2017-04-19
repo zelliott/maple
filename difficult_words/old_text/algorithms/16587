@@ -1,9 +1,0 @@
-
-To automatically differentiate radiation necrosis from recurrent tumor at high spatial resolution using multiparametric MRI features.
-
-MRI data retrieved from 31 patients (15 recurrent tumor and 16 radiation necrosis) who underwent chemoradiation therapy after surgical resection included post-gadolinium T1, T2, fluid-attenuated inversion recovery, proton density, apparent diffusion coefficient (ADC), and perfusion-weighted imaging (PWI) -derived relative cerebral blood volume (rCBV), relative cerebral blood flow (rCBF), and mean transit time maps. After alignment to post contrast T1WI, an eight-dimensional feature vector was constructed. An one-class-support vector machine classifier was trained using a radiation necrosis training set. Classifier parameters were optimized based on the area under receiver operating characteristic (ROC) curve. The classifier was then tested on the full dataset.
-
-The sensitivity and specificity of optimized classifier for pseudoprogression was 89.91% and 93.72%, respectively. The area under ROC curve was 0.9439. The distribution of voxels classified as radiation necrosis was supported by the clinical interpretation of follow-up scans for both nonprogressing and progressing test cases. The ADC map derived from diffusion-weighted imaging and rCBV, rCBF derived from PWI were found to make a greater contribution to the discrimination than the conventional images.
-
-Machine learning using multiparametric MRI features may be a promising approach to identify the distribution of radiation necrosis tissue in resected glioblastoma multiforme patients undergoing chemoradiation.
-

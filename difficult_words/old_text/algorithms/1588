@@ -1,3 +1,0 @@
-
-It is an effective scheme to the phase retrieval for axial intensity derivative computing. In this paper, we demonstrate a method for estimating the axial intensity derivative and improving the calculation accuracy in the transport of intensity equation (TIE) from multiple intensity measurements. The method takes both the higher-order intensity derivatives and the noise into account, and minimizes the impact of detecting noise. The simulation results demonstrate that the proposed method can effectively reduce the error of intensity derivative computing.
-

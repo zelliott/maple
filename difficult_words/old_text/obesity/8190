@@ -1,9 +1,0 @@
-
-To develop a prediction model that quantifies the risk of being overweight at 10 years of age.
-
-In total, 3121 participants from the GINIplus (German Infant Nutritional Intervention plus environmental and genetic influences on allergy development) and LISAplus (Influences of Lifestyle-Related Factors on the Immune System and the Development of Allergies in Childhood plus Air Pollution and Genetics) German birth cohorts were recruited. We predicted standardized body mass index (BMI) at 10 years of age using standardized BMIs from birth to 5 years. Parental education, family income and maternal smoking during pregnancy were considered as covariates. Linear and logistic regression models were used to evaluate the impact of risk factors on BMI and on being overweight at 10 years of age, respectively.
-
-Birth weight, standardized BMI at 5 years (60-64 months) (β=0.77; 95% confidence interval (CI): 0.73-0.81) and maternal smoking during pregnancy were positively associated with standardized BMI at 10 years of age. Standardized BMI and overweight at 5 years were strongest predictors of being overweight at 10 years. Conversely, high parental education conferred a protective effect (β=-0.15; 95% CI: -0.29 to -0.01). Being overweight at 5 years (60-64 months) increased the risk of being overweight at 10 years of age with odds ratios above 10. Among children who were predicted to be overweight at 10 years, cross-validation results showed that 76.8% of female subjects and 68.1% of male subjects would be overweight at 10 years of age.
-
-BMI and being overweight at 5 years of age are strong predictors of being overweight at 10 years of age. The effectiveness of targeted interventions in children who are overweight at 5 years of age should be explored.
-

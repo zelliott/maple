@@ -1,9 +1,0 @@
-
-To link data from the US assisted reproductive technology (ART) registry with the Massachusetts birth-infant death file to create a comprehensive dataset on the circumstances surrounding conception and maternal and infant outcomes for a population of ART-conceived infants.
-
-The authors sought to link data for 3704 ART-conceived live-born infants from 2703 deliveries in 1997-1998 involving Massachusetts resident mothers who gave birth in Massachusetts, Rhode Island, New Hampshire, or Connecticut to their corresponding Massachusetts birth record using a two-stage algorithm. Maternal and infant dates of birth served as the primary linkage variables. Maternal names for a subset of the ART-conceived infants were obtained and used in the second stage of the algorithm to confirm a sample of records that matched in Stage I, to resolve duplicate matches, and to link unmatched records.
-
-In Stage I, 78% of ART deliveries matched with only one Massachusetts record, 2% matched with two records, and 20% remained unmatched. Overall, the complete algorithm using maternal name data for a portion of records yielded an 89% linkage rate. Nearly all of the records that matched during Stage I that were evaluated with maternal name data in Stage II were confirmed as correctly linked.
-
-This project confirms that high-yield data linkage can be achieved in the absence of specific identifiers (e.g., name and social security number). Nonetheless, additional matches were achieved when name data were obtained. This linkage creates the first population-based file in the US capturing detailed information on ART births.
-

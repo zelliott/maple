@@ -1,9 +1,0 @@
-
-We created a prediction model to be used in cardiopulmonary resuscitation (CPR) attempts as a decision tool to omit futile CPR attempts and to save resources.
-
-In this post hoc analysis, we assessed predictive parameters for neurological recovery after successful CPR. The original study was designed as a blinded, randomized, prospective, controlled, multicenter clinical trial.
-
-We identified 1166 prehospital cardiac arrest patients being treated with advanced cardiac life support. Seven hundred eighty-six of 1166 patients (67.4%) died at the scene and 380 of 1166 (32.6%) were brought to the hospital. Two hundred sixty-five of 1166 patients (22.7%) died in the hospital. One hundred fifteen of 1166 (9.8%) were discharged from the hospital and 92 of the 115 patients (80%) could be followed-up. Good cerebral performance was regained by 54% of discharged patients (50 of 92 patients). In 46% of patients (42/92), unconsciousness or severe disability remained. Ventricular fibrillation was more likely to have occurred in patients with good neurological recovery (42/50 = 84.0%), whereas asystole was more likely in patients with poor neurological recovery (9/42 = 21.4%). A score was developed to predict the probability of death using logistic regression analysis. Predicting death in the hospital revealed a sensitivity of 99.8% (953/955), but only a specificity of 2.9% (3/104; threshold 0.5). Predicting survival until discharge from the hospital revealed a sensitivity of 99% (103/104), but only a specificity of 8% (72/955; threshold 0.99). A receiver operating characteristic curve yielded an area under the curve of 0.795 (0.751-0.839) at a confidence interval of 95%.
-
-For out-of-hospital patients with cardiac arrest, parameters documented in the field did not allow accurate prediction of hospital survival.
-

@@ -1,9 +1,0 @@
-
-In this article, a new signal-processing algorithm is proposed and evaluated for the suppression of the combined effects of reverberation and noise.
-
-The proposed algorithm decomposes, on a short-term basis (every 20 ms), the reverberant stimuli into a number of channels and retains only a subset of the channels satisfying a signal-to-reverberant ratio (SRR) criterion. The construction of this criterion assumes access to a priori knowledge of the target (anechoic) signal, and the aim of this study was to assess the full potential of the proposed channel-selection algorithm, assuming that this criterion could be estimated accurately. Listening tests with normal-hearing listeners were conducted to assess the performance of the proposed algorithm in highly reverberant conditions (T(60) = 1.0 s), which included additive noise at 0 and 5 dB signal-to-noise ratios (SNRs).
-
-A substantial gain in intelligibility was obtained in both reverberant and combined reverberant and noise conditions. The mean intelligibility scores improved by 44 and 33 percentage points at 0 and 5 dB SNR reverberation + noise conditions. Feature analysis of the consonant confusion matrices revealed that the transmission of voicing information was most negatively affected, followed by manner and place of articulation.
-
-The proposed algorithm produced substantial gains in intelligibility, and this benefit was attributed to the ability of the proposed SRR criterion to detect accurately voiced or unvoiced boundaries. It was postulated that detection of those boundaries is critical for better perception of voicing information and manner of articulation.
-

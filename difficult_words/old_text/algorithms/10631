@@ -1,3 +1,0 @@
-
-CASP has now completed a decade of monitoring the state of the art in protein structure prediction. The quality of structure models produced in the latest experiment, CASP6, has been compared with that in earlier CASPs. Significant although modest progress has again been made in the fold recognition regime, and cumulatively, progress in this area is impressive. Models of previously unknown folds again appear to have modestly improved, and several mixed alpha/beta structures have been modeled in a topologically correct manner. Progress remains hard to detect in high sequence identity comparative modeling, but server performance in this area has moved forward.
-

@@ -1,3 +1,0 @@
-
-Methods are presented for optimizing the design of Mueller matrix polarimeters and and in particular selecting the retardances and orientation angles of polarization components to ensure accurate reconstruction of a sample's Mueller matrix in the presence of error sources. Metrics related to the condition number and to the singular value decomposition are used to guide the design process for Mueller matrix polarimeters with the goal of specifying polarization elements, comparing polarimeter configurations, estimating polarimeter errors, and compensating for known error sources. The use of these metrics is illustrated with analyses of two example polarimeters: a dual rotating retarder polarimeter, and a dual variable retarder polarimeter.
-

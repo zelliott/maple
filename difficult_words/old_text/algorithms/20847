@@ -1,3 +1,0 @@
-
-A novel algorithmic scheme for numerical solution of the 3D Poisson-Nernst-Planck model is proposed. The algorithmic improvements are universal and independent of the detailed physical model. They include three major steps: an adjustable gradient-based step value, an adjustable relaxation coefficient, and an optimized segmentation of the modeled space. The enhanced algorithm significantly accelerates the speed of computation and reduces the computational demands. The theoretical model was tested on a regular artificial channel and validated on a real protein channel-alpha-hemolysin, proving its efficiency.
-

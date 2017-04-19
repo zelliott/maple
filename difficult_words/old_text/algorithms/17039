@@ -1,3 +1,0 @@
-
-For the esophageal contractile activity recorded during swallowing, a feature extraction scheme has been developed. It recognizes the time, duration, and amplitudes of local peaks for each peristaltic wave. The method is based on the Tauberian approximation for modeling waveforms as a sum of identically shaped pulses with different time delays and amplitudes. Initial conditions on the pulse properties are set and an optimal solution is sought. The method is completely automated and can be utilized for characterization and classification purposes.
-

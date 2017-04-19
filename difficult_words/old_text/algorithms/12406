@@ -1,5 +1,0 @@
-
-NetAlign is a web-based tool designed to enable comparative analysis of protein interaction networks (PINs). NetAlign compares a query PIN with a target PIN by combining interaction topology and sequence similarity to identify conserved network substructures (CoNSs), which may derive from a common ancestor and disclose conserved topological organization of interactions in evolution. To exemplify the application of NetAlign, we perform two genome-scale comparisons with (1) the Escherichia coli PIN against the Helicobacter pylori PIN and (2) the Saccharomyces cerevisiae PIN against the Caenorrhabditis elegans PIN. Many of the identified CoNSs correspond to known complexes; therefore, cross-species PIN comparison provides a way for discovery of conserved modules. In addition, based on the species-to-species differences in CoNSs, we reformulate the problems of protein-protein interaction (PPI) prediction and species divergence from a network perspective.
-
-http://www1.ustc.edu.cn/lab/pcrystal/NetAlign.
-

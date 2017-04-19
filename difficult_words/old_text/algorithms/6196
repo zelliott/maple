@@ -1,3 +1,0 @@
-
-On the basis of maximum weighted matching (MWM) algorithm, we introduced a dynamic weight related with stem length and used a recursive algorithm to predict RNA secondary structures by searching the stem structure with maximum weight summation step-by-step. This algorithm not only avoids the complicated free energy calculation, but also it could attain higher prediction accuracy. Moreover, our algorithm can predict most types of potential pseudoknots in the RNA structure.
-

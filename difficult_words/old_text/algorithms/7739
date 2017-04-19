@@ -1,3 +1,0 @@
-
-Inheritance methods for general semantic networks which allow for exceptions are essential to representing medical knowledge in forms which are familiar to doctors. Such systems give rise to the possibility of ambiguity and problems of computational efficiency. Efficient computational methods using conventional hardware for inheritance and the detection of ambiguity in general semantic networks are described. These methods have been implemented in PROLOG in a knowledge management system which is being used in the development of intelligent drug information and medical decision support systems.
-

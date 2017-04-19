@@ -1,3 +1,0 @@
-
-Given multiple binary tests, such as repeated application of a blind screening test to each individual in a sample, we attempt to estimate the prevalence, sensitivity and specificity of the test without knowing the true disease status of those tested (gold standard). This problem is equivalent to finding the mixing distribution of a mixture of binomial distributions. We suggest a new method to determine the number of latent classes. Our simulations show that the coverage probabilities of the bootstrap confidence intervals of our estimates are correct. Our methods are illustrated by examples from published medical research.
-

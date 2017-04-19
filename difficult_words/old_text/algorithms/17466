@@ -1,3 +1,0 @@
-
-The software SOLVE and RESOLVE can carry out all the steps in macromolecular structure solution, from scaling and heavy-atom location through phasing, density modification and model-building in the MAD, SAD and MIR cases. SOLVE uses scoring scheme to convert the decision-making in macromolecular structure solution to an optimization problem. RESOLVE carries out the identification of NCS, density modification and automated model-building. The procedure is fully automated and can function at resolutions as low as 3 A.
-

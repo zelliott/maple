@@ -1,3 +1,0 @@
-
-This study introduces an improved hybrid MP2/MP4 ab initio potential for vibrational spectroscopy calculations which is very accurate, yet without high computational demands. The method uses harmonic vibrational calculations with the MP4(SDQ) potential to construct an improved MP2 potential by coordinate scaling. This improved MP2 potential is used for the anharmonic VSCF calculation. The method was tested spectroscopically for four molecules: butane, acetone, ethylene and glycine. Very good agreement with experiment was found. For most of the systems, the more accurate harmonic treatment considerably improved the MP2 anharmonic results.
-

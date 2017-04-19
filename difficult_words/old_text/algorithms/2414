@@ -1,9 +1,0 @@
-
-The authors evaluated the accuracy of three automated accelerometer wear-time estimation algorithms against self-report. Direct effects on sedentary time (<100 cpm) and indirect effects on moderate-to-vigorous physical activity (MVPA, ≥1952 cpm) time were examined.
-
-A subsample from the 2004/2005 Australian Diabetes, Obesity and Lifestyle Study (n=148) completed activity logs and wore accelerometers for a total of 987 days. A published algorithm that allows movement within non-wear periods (Algorithm 1) was compared with one that allows less movement (Algorithm 2) or no movement (Algorithm 3). Implications for population estimates were examined using 2003/2004 US National Health and Nutrition Examination Survey data.
-
-Mean difference per day between the criterion and estimated wear time was negligible for all three algorithms (≤11 min), but 95% limits of agreement (LOA) were wide (±≥2 h). Respectively, the algorithms (1, 2 and 3) misclassified sedentary time as non-wear on 31.9%, 19.4% and 18% of days and misclassified non-wear time as sedentary on 42.8%, 43.7% and 51.3% of days. Use of Algorithm 2 (compared with Algorithm 1) affected population estimates of sedentary time (higher by 20 min/day) but not MVPA time. Agreement between Algorithms 1 and 2 was good for MVPA time (mean difference -0.08, LOA: -2.08, 1.91 min), but not for wear time or sedentary time.
-
-Accelerometer wear time can be estimated accurately on average; however, misclassification can be substantial for individuals. Algorithm choice affects estimates of sedentary time. Allowing very limited movement within non-wear periods can improve accuracy.
-

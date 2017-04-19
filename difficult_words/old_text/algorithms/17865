@@ -1,9 +1,0 @@
-
-Respiratory variations in arterial pulse pressure (deltaPP(man)) are accurate predictors of fluid responsiveness in mechanically ventilated patients. However, they cannot be continuously monitored. In our study, we assessed the clinical utility of a novel algorithm for automatic estimation of deltaPP (deltaPP(auto)).
-
-We studied 25 patients referred for coronary artery bypass grafting. DeltaPP(auto) was continuously displayed using a method based on automatic detection algorithms, kernel smoothing, and rank-order filters. All patients were under general anesthesia, mechanical ventilation, and were also monitored with a pulmonary artery catheter. DeltaPP(man) and deltaPP(auto) were recorded simultaneously at eight steps during surgery including before and after intravascular volume expansion (500 mL hetastarch). Responders to volume expansion were defined as patients whose cardiac index increased by more than 15% after volume expansion.
-
-Agreement between deltaPP(man) and deltaPP(auto) over the 200 pairs of collected data was 0.7% +/- 3.4% (mean bias +/- SD). Seventeen patients were responders to volume expansion. A threshold deltaPP(man) value of 12% allowed discrimination of responders to volume expansion with a sensitivity of 88% and a specificity of 100%. A threshold deltaPP(auto) value of 10% allowed discrimination of responders to volume expansion with a sensitivity of 82% and a specificity of 88%.
-
-DeltaPP(auto) is strongly correlated to deltaPP(man) is an accurate predictor of fluid responsiveness, and allows continuous monitoring of deltaPP. This novel algorithm has potential clinical applications.
-

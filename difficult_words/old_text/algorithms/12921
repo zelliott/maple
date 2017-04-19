@@ -1,3 +1,0 @@
-
-In lens system design, Damped Least Squares method is a traditionally used local search method. In this paper we apply mutation operators to control damping factor in Damped Least Squares. We study the mutation behavior in this method when the algorithm confronts with local minima. The proposed method can go beyond local minima by taking mutation operators to control damping factor. The proposed method was successfully applied to design problems. The result indicates that the mutation operators provide an effective and rapid way to jump out of poor local minima.
-

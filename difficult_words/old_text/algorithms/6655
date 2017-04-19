@@ -1,3 +1,0 @@
-
-The multivariate versus bivariate measures of Granger causality were considered. Granger causality in the application to multivariate physiological time series has the meaning of the information flow between channels. It was shown by means of simulations and by the example of experimental electroencephalogram signals that bivariate estimates of directionality in case of mutually interdependent channels give erroneous results, therefore multivariate measures such as directed transfer function should be used for determination of the information flow.
-

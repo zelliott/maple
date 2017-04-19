@@ -1,9 +1,0 @@
-
-Investigations of foveal aberrations assume circular pupils. However, the pupil becomes increasingly elliptical with increase in visual field eccentricity. We address this and other issues concerning peripheral aberration specification.
-
-One approach uses an elliptical pupil similar to the actual pupil shape, stretched along its minor axis to become a circle so that Zernike circular aberration polynomials may be used. Another approach uses a circular pupil whose diameter matches either the larger or smaller dimension of the elliptical pupil. Pictorial presentation of aberrations, influence of wavelength on aberrations, sign differences between aberrations for fellow eyes, and referencing position to either the visual field or the retina are considered.
-
-Examples show differences between the two approaches. Each has its advantages and disadvantages, but there are ways to compensate for most disadvantages. Two representations of data are pupil aberration maps at each position in the visual field and maps showing the variation in individual aberration coefficients across the field.
-
-Based on simplicity of use, adequacy of approximation, possible departures of off-axis pupils from ellipticity, and ease of understanding by clinicians, the circular pupil approach is preferable to the stretched elliptical approach for studies involving field angles up to 30 deg.
-

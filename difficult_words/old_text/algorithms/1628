@@ -1,7 +1,0 @@
-
-Decision tree induction (DTI) is a powerful means of modeling data without much prior preparation. Models are readable by humans, robust and easily applied in real-world applications, features that are mutually exclusive in other commonly used machine learning paradigms. While DTI is widely used in disciplines ranging from economics to medicine, they are an intriguing option in pharmaceutical research, especially when dealing with large data stores.
-
-This review covers the automated technologies available for creating decision trees and other rules efficiently, even from large datasets such as chemical libraries. The authors discuss the need for properly documented and validated models. Lastly, the authors cover several case studies in hit discovery, drug metabolism and toxicology, and drug surveillance, and compare them with other established techniques.
-
-DTI is a competitive and easy-to-use tool in basic research as well as in hit and drug discovery. Its strengths lie in its ability to handle all sorts of different data formats, the visual nature of the models, and the small computational effort needed for implementation in real-world systems. Limitations include lack of robustness and over-fitted models for certain types of data. As with any modeling technique, proper validation and quality measures are of utmost importance.
-

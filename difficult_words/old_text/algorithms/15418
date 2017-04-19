@@ -1,3 +1,0 @@
-
-A computationally efficient approach that computes the optimal regularization parameter for the Tikhonov-minimization scheme is developed for photoacoustic imaging. This approach is based on the least squares-QR decomposition which is a well-known dimensionality reduction technique for a large system of equations. It is shown that the proposed framework is effective in terms of quantitative and qualitative reconstructions of initial pressure distribution enabled via finding an optimal regularization parameter. The computational efficiency and performance of the proposed method are shown using a test case of numerical blood vessel phantom, where the initial pressure is exactly known for quantitative comparison.
-

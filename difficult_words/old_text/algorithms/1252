@@ -1,3 +1,0 @@
-
-Several rule induction methods have been introduced in order to discover meaningful knowledge from databases, including medical domain. However, most of the approaches induce rules from all the data in databases and cannot induce incrementally when new samples are derived. In this paper, a new approach to knowledge acquisition, which induce probabilistic rules incrementally by using rough set technique, is introduced and was evaluated on two clinical databases. The results show that this method induces the same rules as those induced by ordinary non-incremental learning methods, which extract rules from all the datasets, but that the former method requires more computational resources than the latter approach.
-

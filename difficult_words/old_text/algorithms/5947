@@ -1,9 +1,0 @@
-
-To evaluate an algorithm with glucose prediction capacity and continuous adaptation of patient parameters-a model predictive control (MPC) algorithm-to control blood glucose concentration during fasting conditions in patients with Type 1 diabetes. In the subcutaneous (sc) route within a closed loop system.
-
-Paired experiments were performed in six patients. Over 8 h the MPC algorithm was used to control glucose with s.c. insulin administration and two different glucose monitoring protocols: first, the algorithm was provided with intravenous (i.v.) glucose values for insulin dosage calculation directly (i.v.-s.c. route). Then, in the second experiment, i.v. glucose values were fed to the MPC with a delay of 30 min to simulate s.c. glucose measurements ('s.c.'-s.c. route). In both experiments plasma glucose, insulin dosage, and serum insulin levels were analysed.
-
-Glucose concentration was brought from hyper- to normoglycaemia and kept in the physiological range (6-7 mmol/l) with both routes in all subjects. Mean glucose concentration reached the threshold of 7 mmol/l approximately 2 (i.v.-s.c. route) and 3 ('s.c.'-s.c. route) hours after the start of glucose control with the MPC. During the last 2 h of automated glucose control, mean glucose concentration was 6.3 +/- 0.2 mmol/l and 6.6 +/- 0.3 mmol/l for i.v.-s.c. and 's.c.'-s.c. route, respectively. Glucose concentration, insulin doses, and serum insulin levels did not differ significantly between routes (P > 0.05).
-
-The MPC algorithm is suitable for glucose control during fasting within an extracorporeal artificial beta-cell in the subcutaneous route Type 1 diabetic patients.
-

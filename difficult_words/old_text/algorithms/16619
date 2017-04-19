@@ -1,9 +1,0 @@
-
-Breast masses exhibit variability in margins, shapes, and dimensions, so their detection is a difficult task in mammographic computer-aided diagnosis. Mass detection is usually a two-step procedure: mass identification and false-positive reduction. A new method to automatically detect mass lesions in mammographic images with tuning according to the breast tissue density was developed and tested.
-
-A modified phase portrait analysis method was introduced, based on the eigenvalue condition number and an eigenvalue intensity map. The method uses an iterative and tissue density-adaptive segmentation procedure with extraction of geometric features. False-positive reduction is accomplished using a fuzzy inference-based classifier. A leave-one-image-out cross-validation procedure was implemented, and stepwise regression analysis was used to automatically extract an optimal set of features. Testing and validation were performed on two different data sets containing at least one malignant mass D1 (388 images) and D2 (674 images), and a third data set N1 (50 images) was used consisting of normal controls. These three data sets were taken from the Digital Database for Screening Mammography.
-
-For sensitivities of 0.9, 0.85, 0.80, and 0.75, the best results on cancer images exhibit an False-Positive per Image (FPpI) equal to 0.6, 0.45, 0.35, and 0.3, respectively, using a Bayes Linear Discriminant Analysis (LDA) classifier and an FPpI of 0.85, 0.7, 0.55, and 0.45 using a fuzzy inference system (FIS) for false-positive reduction. When the algorithm is tested on normal images, an FPpI equal to 0.4, 0.3, 0.25, and 0.2 was observed using LDA and 0.3, 0.25, 0.2, and 0.15 using the FIS.
-
-A preclinical study of an automatic breast mass detection algorithm provided promising results in terms of sensitivity and low false-positive rate. Further development and clinical testing are justified based on the results.
-

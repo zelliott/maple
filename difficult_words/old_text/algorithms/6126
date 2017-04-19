@@ -1,3 +1,0 @@
-
-Image flicker is a general film effect, which can be observed in videos as well as in old films, and consists of fast variations of the frame contrast and brightness. Reducing flicker of a sequence improves its visual quality and can be an essential first treatment before ulterior manipulations. This paper presents an axiomatic analysis of the problem, which leads to a global and fast method of "de-flicker," based on the scale-space theory. The stability of this process, called scale-time equalization, is ensured by the scale-time framework. Results on different sequences are given and show great visual improvement.
-

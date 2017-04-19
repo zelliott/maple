@@ -1,3 +1,0 @@
-
-With the development of bioinformatics, more and more protein sequence information has become available. Meanwhile, the number of known protein-protein interactions (PPIs) is still very limited. In this article, we propose a new method for predicting interacting protein pairs using a Bayesian method based on a new feature representation. We trained our model using data on 6,459 PPI pairs from the yeast Saccharomyces cerevisiae core subset. Using six species of DIP database, our model demonstrates an average prediction accuracy of 93.67%. The result showed that our method is superior to other methods in both computing time and prediction accuracy.
-

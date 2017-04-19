@@ -1,9 +1,0 @@
-
-Left ventricular (LV) relaxation time constant (Tau) is a relatively load-independent index of diastolic function in the evaluation of heart failure. However, the requirement of high-fidelity intraventricular pressure recording limits its clinical utility. In the present study, we investigated whether Tau could be estimated noninvasively.
-
-Thirty-seven patients indicated for cardiac catheterization were recruited for study. Echocardiography and cardiac catheterization with high-fidelity LV pressure recording were performed sequentially within 1 hour. The non-invasive TauDopp was derived from the formula: TauDopp = IVRT(Dopp)/[ln(Ps) - ln(10)], where IVRT is the isovolumic relaxation time measured by Doppler echocardiography and Ps is systolic blood pressure measured during the echocardiographic examination. The invasive TauLM was determined by non-linear least-square parameter estimate technique, using the exponential equation: Pv = Poe(-t/Tau) + b, where Pv is the instantaneous LV pressure, P0 is LV pressure at minimal dP/dt, and b is the theoretical asymptote. The difference between TauDopp and TauLM was compared using paired t-test, and their relation was evaluated using simple correlation and intra-class correlation coefficient.
-
-IVRT(Dopp) was significantly correlated with the invasively derived IVRT (r = 0.42, p = 0.012). The completely non-invasive TauDopp was significantly correlated with the direct curve-fitted TauLM (r = 0.41;p = 0.013), and the intraclass correlation coefficient was 0.29 (p = 0.04). In addition, TauDopp was significantly smaller than TauLM (36+/-6 ms vs. 57+/-15 ms, p < 0.001).
-
-Tau can be estimated noninvasively by transthoracic Doppler echocardiographic method with limited accuracy. The clinical utility of TauDopp remains to be determined.
-

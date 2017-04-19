@@ -1,9 +1,0 @@
-
-Effective population management of patients with diabetes requires timely recognition. Current case-finding algorithms can accurately detect patients with diabetes, but lack real-time identification. We sought to develop and validate an automated, real-time diabetes case-finding algorithm to identify patients with diabetes at the earliest possible date.
-
-The source population included 160,872 unique patients from a large public hospital system between January 2009 and April 2011. A diabetes case-finding algorithm was iteratively derived using chart review and subsequently validated (n = 343) in a stratified random sample of patients, using data extracted from the electronic health records (EHR). A point-based algorithm using encounter diagnoses, clinical history, pharmacy data, and laboratory results was used to identify diabetes cases. The date when accumulated points reached a specified threshold equated to the diagnosis date. Physician chart review served as the gold standard.
-
-The electronic model had a sensitivity of 97%, specificity of 90%, positive predictive value of 90%, and negative predictive value of 96% for the identification of patients with diabetes. The kappa score for agreement between the model and physician for the diagnosis date allowing for a 3-month delay was 0.97, where 78.4% of cases had exact agreement on the precise date.
-
-A diabetes case-finding algorithm using data exclusively extracted from a comprehensive EHR can accurately identify patients with diabetes at the earliest possible date within a healthcare system. The real-time capability may enable proactive disease management.
-

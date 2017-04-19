@@ -1,9 +1,0 @@
-
-Twist is an epithelial-mesenchymal transition (EMT) transcription factor that instigates cell invasion. Our research has shown that osteopontin (OPN) regulates the EMT factor Twist. The underlying signaling pathway is unknown. We hypothesized that OPN activates Twist to induce EMT in human breast cancer.
-
-Potential kinases for Twist were identified using NetPhosK. Inhibitors of MEK1/2, JNK, p38 MAPK, and PI3K were applied to human breast cancer cells MDA-MB231 (OPN high). After 24 h, Twist was immunoprecipitated and incubated with phosphoserine. Expression of the Twist target protein, Bmi-1, was determined following 24-h osteopontin aptamer (APT) treatment; mutant aptamer (MuAPT) was used as the control. Scratch-wound assay was imaged 12, 24, and 48 h after APT and MuAPT treatment.
-
-MEK1/2 inhibition caused ≈ twofold decrease in Twist serine phosphorylation (P < .05). APT blockade of OPN in MB231 decreased Bmi1 protein twofold (P < .05). Aptamer-treated cells were significantly decreased in cell migration and wound closure in the scratch wound-assay (P < .001).
-
-We demonstrate that OPN extracellular binding to MB231 activates an autocrine MAPK intracellular signaling pathway resulting in Twist activation and promoting Bmi1 expression to further EMT initiation and cellular migration. Our results elucidate a previously undescribed role for OPN as a prime regulator of EMT in human breast cancer cells.
-

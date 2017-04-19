@@ -1,3 +1,0 @@
-
-An algorithm for recovering a function from essentially localized values of its Radon transform and sparse nonlocal values was outlined in Reference 13. That algorithm utilized the time-frequency properties of wavelets, coupled with the range theorems for the Radon transform, to localize essentially the dependence of the Radon transform. In this paper we utilize alternative time-frequency projections which were introduced by Coifman and Meyer (4). We present evidence that these bases are optimal according to our criterion for localized tomography. These bases require significantly less data than the wavelet bases that were used in Reference 13. Finally, we present numerical results supporting this work.
-

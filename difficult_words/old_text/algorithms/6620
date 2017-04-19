@@ -1,9 +1,0 @@
-
-Predicting the ability of drugs to enter the brain is a longstanding problem in neuropharmacology. The first step in creating a much-needed computational algorithm for predicting whether a drug will enter brain is to devise a rigorous mathematical model.
-
-Employing two experimental measures of blood-brain barrier (BBB) penetrability (brain/plasma ratio and the brain-uptake index) and 14 theoretically derived biophysical predictors, a mathematical model was developed to quantitatively correlate molecular structure with ability to traverse the BBB.
-
-This mathematical model employs Stein's hydrogen bonding number and Randic's topological descriptors to correlate structure with ability to cross the BBB. The final model accurately predicts the ability of test molecules to cross the BBB.
-
-A mathematical method to predict blood-brain barrier penetrability of drug molecules has been successfully devised. As a result of bioinformatics, chemoinformatics and other informatics-based technologies, the number of small molecules being developed as potential therapeutics is increasing exponentially. A biophysically rigorous method to predict BBB penetrability will be a much-needed tool for the evaluation of these molecules.
-

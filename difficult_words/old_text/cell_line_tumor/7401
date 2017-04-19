@@ -1,9 +1,0 @@
-
-Multidrug resistance of tumor cells often leads to failure of chemotherapy. The over-expression of P-glycoprotein (P-gp), encoded by multidrug resistance 1 (mdr1) gene, plays an important role in multidrug resistance of breast cancer. This study was to explore the feasibility of silencing mdr1 gene by small interfering RNA (siRNA) in drug resistant breast cancer cell line MCF-7/ADR.
-
-The siRNA oligonucleotides strand designed previously was inserted into pSilencer3.1-H1 Hygro vector, the plasmid was transformed into E.coli. After amplification, the plasmid was purified, and sequenced to determine whether the ligation between siRNA insert and the vector was correct, then transfected into MCF-7/ADR cells, and relevant sensitive MCF-7 cells. MCF-7/ADR cells were screened by hygromycin, surviving cells were cultured. The positive rate of P-gp was detected by flow cytometry, and positive rate of mdr1 gene was detected by real-time relatively quantitative polymerase chain reaction (PCR). Adriamycin (ADM) resistant experiment was performed on MCF-7/ADR cells with siRNA.
-
-Positive rate of P-gp in MCF-7/ADR cells was decreased from 99.8% (before siRNA transfection) to 12.3% (after siRNA transfection). Real- time PCR revealed that the threshold cycle value of MCF-7/ADR cells increased from 25.22 to 30.64 after transfected with siRNA. The IC(50) of ADM for MCF-7/ADR cells transfected with siRNA was 0.51 micromol/L, while that for MCF-7/ADR cells without transfection was 17.88 micromol/L.
-
-siRNA can silence mdr1 gene in MCF-7/ADR cells, may become a new, effective medical technique.
-

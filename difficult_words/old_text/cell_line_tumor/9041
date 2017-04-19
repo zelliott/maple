@@ -1,9 +1,0 @@
-
-To evaluate the suitability of reference genes in gastric tissue samples and cell lines.
-
-The suitability of genes ACTB, B2M, GAPDH, RPL29, and 18S rRNA was assessed in 21 matched pairs of neoplastic and adjacent non-neoplastic gastric tissues from patients with gastric adenocarcinoma, 27 normal gastric tissues from patients without cancer, and 4 cell lines using reverse transcription quantitative real-time polymerase chain reaction (RT-qPCR). The ranking of the best single and combination of reference genes was determined by NormFinder, geNorm™, BestKeeper, and DataAssist™. In addition, GenEx software was used to determine the optimal number of reference genes. To validate the results, the mRNA expression of a target gene, DNMT1, was quantified using the different reference gene combinations suggested by the various software packages for normalization.
-
-ACTB was the best reference gene for all gastric tissues, cell lines and all gastric tissues plus cell lines. GAPDH + B2M or ACTB + B2M was the best combination of reference genes for all the gastric tissues. On the other hand, ACTB + B2M was the best combination for all the cell lines tested and was also the best combination for analyses involving all the gastric tissues plus cell lines. According to the GenEx software, 2 or 3 genes were the optimal number of references genes for all the gastric tissues. The relative quantification of DNMT1 showed similar patterns when normalized by each combination of reference genes. The level of expression of DNMT1 in neoplastic, adjacent non-neoplastic and normal gastric tissues did not differ when these samples were normalized using GAPDH + B2M (P = 0.32), ACTB + B2M (P = 0.61), or GAPDH + B2M + ACTB (P = 0.44).
-
-GAPDH + B2M or ACTB + B2M is the best combination of reference gene for all the gastric tissues, and ACTB + B2M is the best combination for the cell lines tested.
-

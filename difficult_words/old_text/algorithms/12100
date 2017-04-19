@@ -1,3 +1,0 @@
-
-Limiting dilution assays (LDA) are used to estimate an unknown cell fraction of interest within a sample. This paper discusses a method for designing an LDA using the distribution of the cell fraction of interest, examining three different design approaches: geometric progression, equally spaced log, and equiprobability. Two common estimation methods, minimum chi-square and maximum likelihood, also are investigated. These designs and estimation methods, coupled with varying numbers of wells per dilution and dilutions per design, are compared quantitatively through computer simulation. Performance measures computed were mean relative bias and mean squared error.
-

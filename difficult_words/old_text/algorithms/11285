@@ -1,3 +1,0 @@
-
-Image processing of images serves a number of important functions including noise reduction, contrast enhancement, and feature extraction. Whatever the final goal, an understanding of the nature of image acquisition and digitization and subsequent mathematical manipulations of that digitized image is essential. Here we discuss the basic mathematical and statistical processes that are routinely used by microscopists to routinely produce high quality digital images and to extract key features of interest using a variety of extraction and thresholding tools.
-

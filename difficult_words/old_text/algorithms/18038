@@ -1,7 +1,0 @@
-
-Microarray experiments generate vast amounts of data. The functional context of differentially expressed genes can be assessed by querying the Gene Ontology (GO) database via GoMiner. Directed acyclic graph representations, which are used to depict GO categories enriched with differentially expressed genes, are difficult to interpret and, depending on the particular analysis, may not be well suited for formulating new hypotheses. Additional graphical methods are therefore needed to augment the GO graphical representation.
-
-We present an alternative visualization approach, area-proportional Euler diagrams, showing set relationships with semi-quantitative size information in a single diagram to support biological hypothesis formulation. The cardinalities of sets and intersection sets are represented by area-proportional Euler diagrams and their corresponding graphical (circular or polygonal) intersection areas. Optimally proportional representations are obtained using swarm and evolutionary optimization algorithms.
-
-VennMaster's area-proportional Euler diagrams effectively structure and visualize the results of a GO analysis by indicating to what extent flagged genes are shared by different categories. In addition to reducing the complexity of the output, the visualizations facilitate generation of novel hypotheses from the analysis of seemingly unrelated categories that share differentially expressed genes.
-

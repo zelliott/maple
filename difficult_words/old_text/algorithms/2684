@@ -1,3 +1,0 @@
-
-Traditional optical projection tomography (OPT) acquires a single image at each rotation angle, thereby suffering from limitations in CCD dynamic range; this conventional usage cannot resolve features in samples with highly heterogeneous absorption, such as in small animals with organs of varying size. We present a novel technique, applying multiple-exposure high dynamic range (HDR) imaging to OPT, and demonstrate its ability to resolve fine details in zebrafish embryos, without complicated chemical clearing. We implement the tomographic reconstruction algorithm on the GPU, yielding a performance increase of two orders of magnitude. These features give our method potential application in high-throughput, high-resolution in vivo 3D imaging.
-

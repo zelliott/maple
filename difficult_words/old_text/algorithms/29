@@ -1,3 +1,0 @@
-
-A general procedure for fitting growth curves is proposed that can be applied to longitudinal data even if observations are missing or irregularly spaced. Maximum likelihood estimates for mean growths are obtained from an EM algorithm. Estimates for standard errors, percentiles, and growth velocities are also produced. The techniques are demonstrated through the use of growth data from a longitudinal study of sickle cell disease.
-

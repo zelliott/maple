@@ -1,3 +1,0 @@
-
-In this paper, a new approach for patient registration in computer assisted maxillofacial surgery is presented. The method uses a unique structure of markers embedded in a reference frame for the automatic detection of the coordinate system of the medical imaging data during the surgical intervention. With the new method, the inaccurate and time consuming process of manually identifying markers in the data volume and manually teaching them to a navigation system can be replaced. The method and algorithms for the automatic marker detection are described in this paper. Experiments with 45 data sets of patients proove the robustness, usability and safety of the new method. The method has been integrated into the navigation system RoboDent for dental implant surgery.
-

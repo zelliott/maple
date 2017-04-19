@@ -1,3 +1,0 @@
-
-A framework and an algorithm are presented in order to remove stationary noise from images. This algorithm is called variational stationary noise remover. It can be interpreted both as a restoration method in a Bayesian framework and as a  cartoon+texture decomposition method. In numerous denoising applications, the white noise assumption fails. For example, structured patterns such as stripes appear in the images. The model described here addresses these cases. Applications are presented with images acquired using different modalities: scanning electron microscope, FIB-nanotomography, and an emerging fluorescence microscopy technique called selective plane illumination microscopy.
-

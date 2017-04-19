@@ -1,3 +1,0 @@
-
-There is a growing interest in using Kalman filter models in brain modeling. The question arises whether Kalman filter models can be used on-line not only for estimation but for control. The usual method of optimal control of Kalman filter makes use of off-line backward recursion, which is not satisfactory for this purpose. Here, it is shown that a slight modification of the linear-quadratic-gaussian Kalman filter model allows the on-line estimation of optimal control by using reinforcement learning and overcomes this difficulty. Moreover, the emerging learning rule for value estimation exhibits a Hebbian form, which is weighted by the error of the value estimation.
-

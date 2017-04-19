@@ -1,3 +1,0 @@
-
-This paper proposes a method to segment the cytoplasm in cervical cell images using graph cut-based algorithm. First, the A* channel in CIE LAB color space is extracted for contrast enhancement. Then, in order to effectively extract cytoplasm boundaries when image histograms present non-bimodal distribution, Otsu multiple thresholding is performed on the contrast enhanced image to generate initial segments, based on which the segments are refined by the multi-way graph cut method. We use 21 cervical cell images with non-ideal imaging condition to evaluate cytoplasm segmentation performance. The proposed method achieved a 93% accuracy which outperformed state-of-the-art works.
-

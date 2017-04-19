@@ -1,3 +1,0 @@
-
-A general model for job shop scheduling is described which applies to static, dynamic and non-deterministic production environments. Next, a Genetic Algorithm is presented which solves the job shop scheduling problem. This algorithm is tested in a dynamic environment under different workload situations. Thereby, a highly efficient decoding procedure is proposed which strongly improves the quality of schedules. Finally, this technique is tested for scheduling and rescheduling in a non-deterministic environment. It is shown by experiment that conventional methods of production control are clearly outperformed at reasonable run-time costs.
-

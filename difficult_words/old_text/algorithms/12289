@@ -1,7 +1,0 @@
-
-Bacterial typing schemes based on the sequences of genes encoding surface antigens require databases that provide a uniform, curated, and widely accepted nomenclature of the variants identified. Due to the differences in typing schemes, imposed by the diversity of genes targeted, creating these databases has typically required the writing of one-off code to link the database to a web interface. Here we describe agdbNet, widely applicable web database software that facilitates simultaneous BLAST querying of multiple loci using either nucleotide or peptide sequences.
-
-Databases are described by XML files that are parsed by a Perl CGI script. Each database can have any number of loci, which may be defined by nucleotide and/or peptide sequences. The software is currently in use on at least five public databases for the typing of Neisseria meningitidis, Campylobacter jejuni and Streptococcus equi and can be set up to query internal isolate tables or suitably-configured external isolate databases, such as those used for multilocus sequence typing. The style of the resulting website can be fully configured by modifying stylesheets and through the use of customised header and footer files that surround the output of the script.
-
-The software provides a rapid means of setting up customised Internet antigen sequence databases. The flexible configuration options enable typing schemes with differing requirements to be accommodated.
-

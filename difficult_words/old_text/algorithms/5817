@@ -1,3 +1,0 @@
-
-In order to harness the computational capacity of dissociated cultured neuronal networks, it is necessary to understand neuronal dynamics and connectivity on a mesoscopic scale. To this end, this paper uncovers dynamic spatiotemporal patterns emerging from electrically stimulated neuronal cultures using hidden Markov models (HMMs) to characterize multi-channel spike trains as a progression of patterns of underlying states of neuronal activity. However, experimentation aimed at optimal choice of parameters for such models is essential and results are reported in detail. Results derived from ensemble neuronal data revealed highly repeatable patterns of state transitions in the order of milliseconds in response to probing stimuli.
-

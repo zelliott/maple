@@ -1,9 +1,0 @@
-
-To study the relationship between the accuracy of the dose calculation in brachytherapy and the estimations of the radiosensitivity parameter, α/β, for prostate cancer.
-
-In this study, Monte Carlo methods and more specifically the code ALGEBRA was used to produce accurate dose calculations in the case of prostate brachytherapy. Equivalent uniform biologically effective dose was calculated for these dose distributions and was used in an iso-effectiveness relationship with external beam radiation therapy.
-
-By considering different levels of detail in the calculations, the estimation for the α/β parameter varied from 1.9 to 6.3 Gy, compared with a value of 3.0 Gy suggested by the American Association of Physicists in Medicine Task Group 137.
-
-Large variations of the α/β show the sensitivity of this parameter to dose calculation modality. The use of accurate dose calculation engines is critical for better evaluating the biological outcomes of treatments.
-

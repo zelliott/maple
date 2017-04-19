@@ -1,3 +1,0 @@
-
-This communication presents the development of an optimal digital differentiating filter based on the Wiener theory for estimating the peak derivative of the left ventricular pressure (LVP) signal. The magnitude coherence function is used to estimate the signal and noise spectra. The peak derivative obtained by this method is found to be within 2% of the results obtained by a seven-point second-order data fit and a DFT technique.
-

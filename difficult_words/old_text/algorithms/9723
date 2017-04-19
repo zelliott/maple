@@ -1,3 +1,0 @@
-
-We have developed a wearable airbag that incorporates a fall-detection system that uses both acceleration and angular velocity signals to trigger inflation of the airbag. The fall-detection algorithm was devised using a thresholding technique with an accelerometer and gyro sensor. Sixteen subjects mimicked falls, and their acceleration waveforms were monitored. Then, we developed a fall-detection algorithm that could detect signals 300 ms before the fall. This signal was used as a trigger to inflate the airbag to a capacity of 2.4 L. Although the proposed system can help to prevent fall-related injuries, further development is needed to miniaturize the inflation system.
-

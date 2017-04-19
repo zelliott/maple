@@ -1,3 +1,0 @@
-
-Simulations of coupled problems such as fluid-structure interaction (FSI) are becoming more and more important for engineering purposes. This is particularly true when modeling the aortic valve, where the FSI between the blood and the valve determines the valve movement and the valvular hemodynamics. Nevertheless only a few studies are focusing on the opening and closing behavior during the ejection phase (systole). In this paper, we present the validation of a FSI model using the dynamic mesh method of Fluent for the two-dimensional (2D) simulation of mechanical heart valves during the ejection phase of the cardiac cycle. The FSI model is successfully validated by comparing simulation results to experimental data obtained from in vitro studies using a CCD camera.
-

@@ -1,9 +1,0 @@
-
-To investigate the associations between dynamic contrast-enhanced magnetic resonance imaging (DCE MRI) parameters and the Gleason score (GS) for prostate cancer (PCA) with localization information provided by concurrent apparent diffusion coefficient (ADC) maps.
-
-Forty-three male patients received MR scans, including diffusion tensor imaging (DTI) and DCE MRI, on a 1.5 T MR system. All patients were confirmed to have PCA in the following biopsy within 2 weeks. ADC maps calculated from DTI were used to colocalize cancerous and noncancerous regions on DCE MRI for perfusion analysis retrospectively. Semiquantitative parameters (peak enhancement, initial gradient, and washout gradient [WG] and quantitative parameters [K(trans) , ν(e) , and k(ep) ]) were calculated and correlated with the GS. Receiver operating characteristic (ROC) analysis was used to evaluate the diagnostic performance of the perfusion parameters in assessing the aggressiveness of PCA.
-
-A total of 41 PCA nodules were included in the analysis. Among all quantitative and semiquantitative parameters, only WG showed significant correlation with GS (r = -0.75, P < 0.0001). By defining tumor aggressiveness as a GS >6, WG demonstrated a good diagnostic performance, with the area under the ROC curve being 0.88. Under a cutoff point of WG = 0.125 min(-1) , the sensitivity and specificity were 0.87 and 0.78, respectively.
-
-WG shows a significant association with GS and good diagnostic performance in assessing tumor aggressiveness. Therefore, WG is a potential marker of GS.
-

@@ -1,3 +1,0 @@
-
-A new modification of evolutionary approach to sequence design of copolymers has been proposed. A model of step-by-step evolution of a two-letter ( HP) copolymer sequence has been studied by means of a coarse-grained Monte Carlo algorithm. The conditions for accepting a change in the primary sequence depend on the spatial conformation of HP-copolymer chain. This leads to a coupling between sequence and conformation and to formation of protein-like conformations and primary sequences (for some values of parameters of the model) independently of initial sequence and/or conformation. Simple theory describing these computer simulation observations is developed.
-

@@ -1,3 +1,0 @@
-
-Marriage in honey bees optimization (MBO) is a metaheuristic optimization algorithm developed by inspiration of the mating and fertilization process of honey bees and is a kind of swarm intelligence optimizations. In this study we propose improved marriage in honey bees optimization (IMBO) by adding Levy flight algorithm for queen mating flight and neighboring for worker drone improving. The IMBO algorithm's performance and its success are tested on the well-known six unconstrained test functions and compared with other metaheuristic optimization algorithms.
-

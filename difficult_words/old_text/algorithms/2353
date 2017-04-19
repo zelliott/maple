@@ -1,3 +1,0 @@
-
-This paper describes an approach for deriving classification knowledge from databases, taking into account user preferences. These preferences especially concern the trade-off between different kinds of costs and performance indicators of the classification scheme to be developed. We analyze what knowledge, provided by the user, can be used at various stages of the machine learning process to influences the development of the classifier. We restrict ourselves in this paper mainly to the generation of classification trees.
-

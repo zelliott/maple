@@ -1,3 +1,0 @@
-
-Coral polyps contract when electrically stimulated and a wave of contraction travels from the site of stimulation at a constant speed. Models of coral nerve networks were optimized to match one of three different experimentally observed behaviors. To search for model parameters that reproduce the experimental observations, we applied genetic algorithms to increasingly more complex models of a coral nerve net. In a first stage of optimization, individual neurons responded with spikes to multiple, but not single pulses of activation. In a second stage, we used these neurons as the starting point for the optimization of a two-dimensional nerve net. This strategy yielded a network with parameters that reproduced the experimentally observed spread of excitation.
-

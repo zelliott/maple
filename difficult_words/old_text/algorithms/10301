@@ -1,9 +1,0 @@
-
-Despite at least 40 years of promising empirical performance, very few clinical natural language processing (NLP) or information extraction systems currently contribute to medical science or care. The authors address this gap by reducing the need for custom software and rules development with a graphical user interface-driven, highly generalizable approach to concept-level retrieval.
-
-A 'learn by example' approach combines features derived from open-source NLP pipelines with open-source machine learning classifiers to automatically and iteratively evaluate top-performing configurations. The Fourth i2b2/VA Shared Task Challenge's concept extraction task provided the data sets and metrics used to evaluate performance.
-
-Top F-measure scores for each of the tasks were medical problems (0.83), treatments (0.82), and tests (0.83). Recall lagged precision in all experiments. Precision was near or above 0.90 in all tasks. Discussion With no customization for the tasks and less than 5&emsp14;min of end-user time to configure and launch each experiment, the average F-measure was 0.83, one point behind the mean F-measure of the 22 entrants in the competition. Strong precision scores indicate the potential of applying the approach for more specific clinical information extraction tasks. There was not one best configuration, supporting an iterative approach to model creation.
-
-Acceptable levels of performance can be achieved using fully automated and generalizable approaches to concept-level information extraction. The described implementation and related documentation is available for download.
-

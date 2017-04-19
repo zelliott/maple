@@ -1,3 +1,0 @@
-
-We propose a new measure (phase-slope index) to estimate the direction of information flux in multivariate time series. This measure (a) is insensitive to mixtures of independent sources, (b) gives meaningful results even if the phase spectrum is not linear, and (c) properly weights contributions from different frequencies. These properties are shown in extended simulations and contrasted to Granger causality which yields highly significant false detections for mixtures of independent sources. An application to electroencephalography data (eyes-closed condition) reveals a clear front-to-back information flow.
-

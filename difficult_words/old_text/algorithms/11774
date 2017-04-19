@@ -1,3 +1,0 @@
-
-Prediction of contact maps may be seen as a strategic step towards the solution of fundamental open problems in structural genomics. In this paper we focus on coarse grained maps that describe the spatial neighborhood relation between secondary structure elements (helices, strands, and coils) of a protein. We introduce a new machine learning approach for scoring candidate contact maps. The method combines a specialized noncausal recursive connectionist architecture and a heuristic graph search algorithm. The network is trained using candidate graphs generated during search. We show how the process of selecting and generating training examples is important for tuning the precision of the predictor.
-

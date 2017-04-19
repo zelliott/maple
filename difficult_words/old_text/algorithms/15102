@@ -1,3 +1,0 @@
-
-A morphological algorithm has been proposed to filter away impulsive noises confounded in the chromatographic signal. Compared with the conventional median filtering method, the results showed that the proposed method has the advantages of a better filtering effect and less distortion. In particular, the morphological filter with adaptive scale gives very good results.
-

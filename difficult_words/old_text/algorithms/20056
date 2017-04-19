@@ -1,9 +1,0 @@
-
-To develop and implement a clinical DTI technique suitable for the pediatric setting that retrospectively corrects for large motion without the need for rescanning and/or reacquisition strategies, and to deliver high-quality DTI images (both in the presence and absence of large motion) using procedures that reduce image noise and artifacts.
-
-We implemented an in-house built generalized autocalibrating partially parallel acquisitions (GRAPPA)-accelerated diffusion tensor (DT) echo-planar imaging (EPI) sequence at 1.5T and 3T on 1600 patients between 1 month and 18 years old. To reconstruct the data, we developed a fully automated tailored reconstruction software that selects the best GRAPPA and ghost calibration weights; does 3D rigid-body realignment with importance weighting; and employs phase correction and complex averaging to lower Rician noise and reduce phase artifacts. For select cases we investigated the use of an additional volume rejection criterion and b-matrix correction for large motion.
-
-The DTI image reconstruction procedures developed here were extremely robust in correcting for motion, failing on only three subjects, while providing the radiologists high-quality data for routine evaluation.
-
-This work suggests that, apart from the rare instance of continuous motion throughout the scan, high-quality DTI brain data can be acquired using our proposed integrated sequence and reconstruction that uses a retrospective approach to motion correction. In addition, we demonstrate a substantial improvement in overall image quality by combining phase correction with complex averaging, which reduces the Rician noise that biases noisy data.
-

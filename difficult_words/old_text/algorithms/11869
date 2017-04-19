@@ -1,3 +1,0 @@
-
-A Quantitative Structure-Activity Relationship (QSAR) model was derived for estimating the acute toxicity of pesticides against Oncorhynchus mykiss under varying experimental conditions. Chemicals were described by means of autocorrelation descriptors encoding lipophilicity (H0 to H5) and the H-bonding acceptor ability (HBA0) and H-bonding donor ability (HBD0) of the pesticides. A three-layer feedforward neural network trained by the back-propagation algorithm was used as statistical engine for deriving a powerful QSAR model accounting for the weight of the fish, time of exposure, temperature, pH, and hardness.
-

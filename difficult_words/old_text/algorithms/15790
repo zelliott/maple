@@ -1,3 +1,0 @@
-
-PedNavigator is a pedigree drawing application for large and complex pedigrees. It has been developed especially for genetic and epidemiological studies of isolated populations characterized by high inbreeding and multiple matrimonies. PedNavigator is written in Java and is intended as a server-side web application, allowing researchers to 'walk' through family ties by point-and-clicking on person's symbols. The application is able to enrich the pedigree drawings with genotypic and phenotypic information taken from the underlying relational database.
-

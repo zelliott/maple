@@ -1,3 +1,0 @@
-
-In recent years, the number of shared biomedical ontologies has increased dramatically, resulting in a need for integration of these knowledge sources. Automated solutions to aligning ontologies address this growing need. However, only very recently, solutions for scalability of ontology alignment have begun to emerge. This research investigates scalability in alignment of large-scale ontologies. We present an alignment algorithm that bounds processing by selecting optimal subtrees to align and show that this improves efficiency without significant reduction in precision. We apply the algorithm in conjunction with our approach that includes modelling ontology alignment in a Support Vector Machine.
-

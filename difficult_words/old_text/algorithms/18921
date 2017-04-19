@@ -1,5 +1,0 @@
-
-The software package TUNA (Testing UNtyped Alleles) implements a fast and efficient algorithm for testing association of genotyped and ungenotyped variants in genome-wide case-control studies. TUNA uses Linkage Disequilibrium (LD) information from existing comprehensive variation datasets such as HapMap to construct databases of frequency predictors using linear combination of haplotype frequencies of genotyped SNPs. The predictors are used to estimate untyped allele frequencies, and to perform association tests. The methods incorporated in TUNA achieve great accuracy in estimation, and the software is computationally efficient and does not demand a lot of system memory and CPU resources.
-
-The software package is available for download from the website: http://www.stat.uchicago.edu/~wen/tuna/.
-

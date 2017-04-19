@@ -1,3 +1,0 @@
-
-This paper investigates new methods for measuring forces and tactile sense as a contribution towards relaying the sense of touch to the surgeon. The approach used is to determine a distribution of contact force using a small number of sensory outputs to detect the bending of a surface of known behaviour. Software algorithms have been produced to interpret the contacting force from sensory data, and have achieved a bandwidth of 30 Hz and an accuracy of 2 per cent. The sensor construction is of sufficiently low cost to produce a disposable unit and uses materials that are compatible with the invasive working environment.
-

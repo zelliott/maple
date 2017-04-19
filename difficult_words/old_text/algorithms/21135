@@ -1,9 +1,0 @@
-
-To demonstrate that unsupervised assessment of abdominal adipose tissue distribution by magnetic resonance imaging (MRI) can be improved by integrating automatic correction of signal inhomogeneities.
-
-Twenty subjects (body mass index [BMI] 23.7-44.0 kg/m(2)) underwent abdominal (32 slices) MR imaging with a 1.9T Elscint Prestige scanner. Many images were affected by relevant intensity distortions. Unsupervised segmentation of subcutaneous adipose tissue (SAT) and visceral adipose tissue (VAT) was performed by a previously validated algorithm exploiting standard fuzzy clustering segmentation. Images were also processed by an improved version of the software, including automatic correction of intensity inhomogeneities. To assess the effectiveness of the two methods SAT and VAT volumes were compared with manual analysis performed by a trained operator.
-
-Coefficient of variation between manual and unsupervised analysis was significantly improved by inhomogeneities correction in SAT evaluation. Systematic underestimation of SAT was also corrected. A less important performance improvement was found in VAT measurement.
-
-The results of this study suggest that the compensation of signal inhomogeneities greatly improves the effectiveness of the unsupervised assessment of abdominal fat. Correction of intensity distortions is important in SAT evaluation and less significant in VAT measurement.
-

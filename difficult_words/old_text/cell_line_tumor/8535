@@ -1,9 +1,0 @@
-
-The unfolded protein response (UPR) is activated in response to hypoxia-induced stress in the endoplasmic reticulum (ER) and consists of three distinct signaling arms. Here we explore the potential of targeting two of these arms with new potent small-molecule inhibitors designed against IRE1α and PERK.
-
-We utilized shRNAs and small-molecule inhibitors of IRE1α (4μ8c) and PERK (GSK-compound 39). XBP1 splicing and DNAJB9 mRNA was measured by qPCR and was used to monitor IRE1α activity. PERK activity was monitored by immunoblotting eIF2α phosphorylation and qPCR of DDIT3 mRNA. Hypoxia tolerance was measured using proliferation and clonogenic cell survival assays of cells exposed to mild or severe hypoxia in the presence of the inhibitors.
-
-Using knockdown experiments we show that PERK is essential for survival of KP4 cells while knockdown of IRE1α dramatically decreases the proliferation and survival of HCT116 during hypoxia. Further, we show that in response to both hypoxia and other ER stress-inducing agents both 4μ8c and the PERK inhibitor are selective and potent inhibitors of IRE1α and PERK activation, respectively. However, despite potent inhibition of IRE1α activation, 4μ8c had no effect on cell proliferation or clonogenic survival of cells exposed to hypoxia. This was in contrast to the inactivation of PERK signaling with the PERK inhibitor, which reduced tolerance to hypoxia and other ER stress inducing agents.
-
-Our results demonstrate that IRE1α but not its splicing activity is important for hypoxic cell survival. The PERK signaling arm is uniquely important for promoting adaptation and survival during hypoxia-induced ER stress and should be the focus of future therapeutic efforts.
-

@@ -1,3 +1,0 @@
-
-In this paper, generalized synchronization of two chaotic systems is investigated. The auxiliary system approach, which is suggested by H. Abarbanel, N. Rulkov, and M. Sushchik [Phys. Rev. E 53, 4528 (1996)], is used to detect and study generalized synchronization. Based on the Lyapunov method and matrix measure, some less restrictive criteria are obtained to guarantee the asymptotical stability of the error system between the response system and the auxiliary system, which indicates the drive-response systems are synchronized in a general sense. It is shown that the feedback gain can be reduced by means of the matrix measure approach, compared to the norm method. All theoretical results are illustrated by analytical and numerical examples.
-

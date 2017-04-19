@@ -1,3 +1,0 @@
-
-Many experimental designs in the behavioral sciences and neurosciences yield for each subject a response curve defined by number of correlated measurements. The common parametric and nonparametric statistical tests assume independent measurements and cannot be used in this context. After reviewing contemporary approaches to this problem, procedures for the cases of two independent samples and two matched samples of response curves are proposed. Each curve is approximated by an orthogonal polynomial. In the case of two independent samples the polynomial coefficients are compared by a multivariate median test while in the case of matched samples a multivariate sign test is used. The methods are illustrated by real data sets.
-

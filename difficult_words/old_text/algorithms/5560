@@ -1,3 +1,0 @@
-
-Interactions of protein domains control essential cellular processes. Thus, inferring the evolutionary histories of multidomain proteins in the context of their families can provide rewarding insights into protein function. However, methods to infer these histories are challenged by the complexity of macroevolutionary events. Here, we address this challenge by describing an algorithm that computes a novel network-like structure, called plexus, which represents the evolution of domains and their combinations. Finally, we demonstrate the performance of this algorithm with empirical data sets.
-

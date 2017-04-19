@@ -1,7 +1,0 @@
-
-Pattern mining for biological sequences is an important problem in bioinformatics and computational biology. Biological data mining yield impact in diverse biological fields, such as discovery of co-occurring biosequences, which is important for biological data analyses. The approaches of mining sequential patterns can discover all-length motifs of biological sequences. Nevertheless, traditional approaches of mining sequential patterns inefficiently mine DNA and protein data since the data have fewer letters and lengthy sequences. Furthermore, gap constraints are important in computational biology since they cope with irrelative regions, which are not conserved in evolution of biological sequences.
-
-We devise an approach to efficiently mine sequential patterns (motifs) with gap constraints in biological sequences. The approach is the Depth-First Spelling algorithm for mining sequential patterns of biological sequences with Gap constraints (termed DFSG).
-
-PrefixSpan is one of the most efficient methods in traditional approaches of mining sequential patterns, and it is the basis of GenPrefixSpan. GenPrefixSpan is an approach built on PrefixSpan with gap constraints, and therefore we compare DFSG with GenPrefixSpan. In the experimental results, DFSG mines biological sequences much faster than GenPrefixSpan.
-

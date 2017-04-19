@@ -1,9 +1,0 @@
-
-To use the power of knowledge acquisition and machine learning in the development of a collaborative computer classification system based on the features of age-related macular degeneration (AMD).
-
-A vocabulary was acquired from four AMD experts who examined 100 ophthalmoscopic images. The vocabulary was analyzed, hierarchically structured, and incorporated into a collaborative computer classification system called IDOCS. Using this system, three of the experts examined images from a second set of digital images compiled from more than 1000 patients with AMD. Images were annotated, and features were identified and defined. Decision trees, a machine learning method, were trained on the data collected and used to extract patterns. Interrelationships between the data from the different clinicians were investigated.
-
-Six drusen classes in the structured vocabulary were largely sufficient to describe all the identified features. The decision trees classified the data with 76.86% to 88.5% accuracy and distilled patterns in the form of hierarchical trees composed of 5 to 15 nodes. Experts were largely consistent in their characterization of soft, and to a lesser extent, hard drusen, but diverge in definition of other drusen. Size and crystalline morphology were the main determinants of drusen type across all experts.
-
-Machine learning is a powerful tool for the characterization of disease phenotypes. The creation of a defined feature set for AMD will facilitate the development of an IDOCS-based classification system.
-

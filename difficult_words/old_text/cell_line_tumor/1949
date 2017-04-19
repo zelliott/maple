@@ -1,9 +1,0 @@
-
-Molecular profiling has proven utility as a diagnostic and predictive tool in clinical oncology. However, a clinically relevant gene expression profile in pancreatic cancer remains elusive.
-
-Primary and metastatic pancreatic cancer cell lines (BxPC-3 and AsPC-1), were stimulated with phorbol-12-myristate 13-acetate (PMA), a known inducer of cell invasion. Affymetrix gene expression microarray analysis was performed, comparing gene expression to unstimulated controls. Differential expression was identified using ArrayAssist, and confirmed using quantitative real-time PCR. Bioinformatic analysis was performed using Pathway Studio and GOstat. The derived gene expression was further validated in fresh frozen pancreatic tumour samples. The ability of the derived 3 gene expression markersto differentiate between pancreatic adenocarcinoma (PDAC) and other neoplasms, and its association with clinicopathological variables was examined.
-
-PMA-induced significant changes in cell line gene expression, from which distinctive 3 potential invasive markers were derived. Expression of these genes, uPA, MMP-1 and IL1-R1 was confirmed in human pancreatic tumours, and was found to differentiate PDAC from other pancreatic neoplasms. The expression of IL1-R1 in PDAC is a novel finding. We found that the expression of MMP-1 was associated with high-grade PDAC (p = 0.035, Wilcoxon rank sum).
-
-We have identified three potential invasive markers, uPA, MMP-1 and IL1-R1, whose gene expression may differentiate PDAC from other pancreatic neoplasms, and potentially reflect a more invasive phenotype.
-

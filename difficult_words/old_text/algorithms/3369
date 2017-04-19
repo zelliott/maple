@@ -1,3 +1,0 @@
-
-A BASIC program (CDPROT) has been developed to calculate the secondary structure of proteins from their far UV circular dichroism spectrum. This implementation can use different reference spectra, calculated either from model polypeptides or proteins of known tertiary structure. Apart from obtaining the alpha-helical, beta-structure, beta-turns or random percentages which would generate the spectrum of best fit with respect to the experimental measures, CDPROT represents on screen both theoretical and experimental spectra indicating the root-mean-square error. The provision of additional reference spectra by the user is also considered, and another program (STOREREF) performs the editing in an adequate format for CDPROT.
-

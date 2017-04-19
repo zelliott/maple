@@ -1,3 +1,0 @@
-
-After a brief review of the use of latent variables to accommodate the correlation among multiple outcomes of mixed types, through theoretical and numerical calculation, the consequences of such a construction are quantified. The effects of including latent variables on marginal inference in these models are contrasted with the situation for jointly normal outcomes. A simulation study illustrates the efficiency and reduction in bias gains possible in using joint models, and analysis of an example from the field of osteoarthritis illustrates potential practical differences.
-

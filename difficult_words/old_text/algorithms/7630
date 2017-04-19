@@ -1,9 +1,0 @@
-
-To present a new method that can simultaneously and efficiently measure T1 and B1 (+) maps using reference region variable flip angle (RR-VFA) imaging.
-
-Assuming T1 relaxation time in a reference region such as fat is well characterized, and the reference region sufficiently covers smoothly varying B1 (+) field inhomogeneity, B1 (+) maps can be measured from VFA images, conventionally used for T1 measurements. Fat-only images from two-point Dixon acquisitions were used to compute B1 (+) maps, and the B1 (+) maps were compared with ones using the double-angle method (DAM) in 22 breast MRI patients at 3T. Additionally, high spatial resolution VFA images were acquired to show T1 measurements with and without the RR-VFA B1 (+) correction in six patients.
-
-RR-VFA is able to generate reliable B1 (+) maps, similar to those using the conventional DAM. This simultaneous T1 and B1 (+) mapping can also be used to reduce T1 estimation errors, where T1 maps have more uniform fibroglandular tissue T1 and better depiction of heterogeneous T1 of breast masses.
-
-A new method that can measure both T1 and B1 (+) maps based on Dixon VFA images is described, offering improved T1 quantification with no scan time penalty.
-

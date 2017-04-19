@@ -1,9 +1,0 @@
-
-It is possible to detect venous gas bubbles by listening to the Doppler audio signals. However, a serious disadvantage of the audio evaluation is the inability of continuous monitoring and the inter-rater agreement. Several researchers have worked on the automated detection of emboli, but no current system has the required sensitivity and specificity for clinical use.
-
-We developed software that integrated frequency filtering, processing, and detection phases of microemboli into a graphical user interface. The detection algorithm consists of a rule-based criterion with a user-defined threshold sliding in-time axis that estimates the duration of the embolic event. Subclavian Doppler audio recordings obtained from a high altitude diving expedition were analyzed using digital filtering and non-linear operator combinations of the software. The data set includes 43 embolic events in 9 recordings from 4 different subjects.
-
-It was determined that embolic signals are best differentiated from the background signal at the 4500-8000-Hz frequency band. By using the non-linear "Teager Energy Operator", embolic signals were amplified against their background and a high level of sensitivity and specificity was obtained (83.7% and 97.3%, respectively). The duration of the detected emboli was estimated as 12.17 +/- 4.36 ms (mean +/- SD).
-
-The optimal frequency band for the detection of subclavian emboli is significantly higher than previous findings for the transcranial site. The duration output of the software can be used to estimate the size and the composition of emboli. Successful integration of the software into an ambulatory detection system may provide important site-specific bubble size distribution data for decompression modeling.
-

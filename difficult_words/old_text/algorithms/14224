@@ -1,3 +1,0 @@
-
-In group average analyses, we generalize the classical one-sample t test to account for heterogeneous within-subject uncertainties associated with the estimated effects. Our test statistic is defined as the maximum likelihood ratio corresponding to a Gaussian mixed-effect model. The test's significance level is calibrated using the same sign permutation framework as in Holmes et al., allowing for exact specificity control under a mild symmetry assumption about the subjects' distribution. Because our likelihood ratio test does not rely on homoscedasticity, it is potentially more sensitive than both the standard t test and its permutation-based version. We present results from the Functional Imaging Analysis Contest 2005 dataset to support this claim.
-

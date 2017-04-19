@@ -1,3 +1,0 @@
-
-The success of angioplasty depends on a balance between two conflicting objectives: maximization of artery lumen patency and minimization of mechanical damage. A finite element model for the patient-specific prediction of angioplasty is proposed as a potential tool to assist clinicians. This paper describes the general methodology and the algorithm that computes device/artery friction work during balloon insertion and deployment. The potential of the model is demonstrated with examples that include artery model reconstruction and prediction of friction on the arterial wall during balloon insertion and deployment.
-

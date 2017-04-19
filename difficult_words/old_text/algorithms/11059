@@ -1,3 +1,0 @@
-
-Using Genetic Algorithm, a global optimization method inspired by nature's evolutionary process, we have improved the quantitative refocused constant-time INEPT experiment (Q-INEPT-CT) of Mäkelä et al. (JMR 204 (2010) 124-130) with various optimization constraints. The improved 'average polarization transfer' and 'min-max difference' of new delay sets effectively reduces the experimental time by a factor of two (compared with Q-INEPT-CT, Mäkelä et al.) without compromising on accuracy. We also discuss a quantitative spectral editing technique based on average polarization transfer.
-

@@ -1,3 +1,0 @@
-
-This paper proposes a novel method that can predict protein interaction sites in heterocomplexes using residue spatial sequence profile and evolution rate approaches. The former represents the information of multiple sequence alignments while the latter corresponds to a residue's evolutionary conservation score based on a phylogenetic tree. Three predictors using a support vector machines algorithm are constructed to predict whether a surface residue is a part of a protein-protein interface. The efficiency and the effectiveness of our proposed approach is verified by its better prediction performance compared with other models. The study is based on a non-redundant data set of heterodimers consisting of 69 protein chains.
-

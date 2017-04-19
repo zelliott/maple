@@ -1,9 +1,0 @@
-
-To increase the spatial coverage and to reduce slice crosstalk combined with an optimal signal-to-noise ratio (SNR) in 3D dynamic contrast-enhanced (DCE) magnetic resonance (MR) mammography.
-
-Asymmetric sampling schemes and a new reconstruction strategy based on virtual coils are presented for density-weighted (DW) 3D imaging. Additionally, for MR mammography an alternating DW (ADW) sampling along the k(y) direction shifts the undersampling artifacts out of the signal reception region. Virtual coils for effective DW (VIDED) imaging suppresses the aliasing in undersampled DW imaging. VIDED and ADW were compared to the conventional Cartesian imaging in phantom and in vivo MR mammography studies.
-
-The slice crosstalk was significantly reduced by VIDED and compared to Cartesian imaging the SNR increased by 16%. Additionally, VIDED and ADW provided a substantially increased field of view (FOV) in the slice direction and allowed the spatial resolution to be improved (up to 60% for ADW and 30% for VIDED) without lengthening the scan time.
-
-VIDED and ADW improve the image quality in 3D DCE MR mammography by enhancing the spatial resolution, reducing the slice crosstalk at nearly optimal SNR, and increasing the FOV in the slice direction. For VIDED no lengthening of the scan time or usage of multichannel receiver coils is necessary.
-

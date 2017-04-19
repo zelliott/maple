@@ -1,9 +1,0 @@
-
-The usefulness of image fusion based on the maximum mutual information algorithm was investigated for the assessment of oral and maxillofacial surgery treatment results.
-
-Superimposition was performed using image fusion of 25 CBCT images of a human skull under the assumption of different spatial conditions and 41 patients' image data. Errors were measured using distances between titanium markers on the skull. The degree of shared image information was defined as normalized mutual information (NMI) value to assess robustness of image fusion.
-
-The mean error was 0.396 mm (± 0.142 mm) and was not affected by positional change (P > .05). Mandibular shifts showed significantly different (P = .000) NMI values but shared information was not significantly affected by the degree of surgical changes in patients' CT (P = .176).
-
-For the evaluation of surgical treatment results, image fusion is an accurate and reliable method that is not affected by spatial or surgical changes.
-

@@ -1,7 +1,0 @@
-
-In recent years, several stochastic simulation algorithms have been developed to generate Monte Carlo trajectories that describe the time evolution of the behavior of biomolecular reaction networks. However, the effects of various stochastic simulation and data analysis conditions on the observed dynamics of complex biomolecular reaction networks have not received much attention. In order to investigate these issues, we employed a a software package developed in out group, called Biomolecular Network Simulator (BNS), to simulate and analyze the behavior of such systems. The behavior of a hypothetical two gene in vitro transcription-translation reaction network is investigated using the Gillespie exact stochastic algorithm to illustrate some of the factors that influence the analysis and interpretation of these data.
-
-Specific issues affecting the analysis and interpretation of simulation data are investigated, including: (1) the effect of time interval on data presentation and time-weighted averaging of molecule numbers, (2) effect of time averaging interval on reaction rate analysis, (3) effect of number of simulations on precision of model predictions, and (4) implications of stochastic simulations on optimization procedures.
-
-The two main factors affecting the analysis of stochastic simulations are: (1) the selection of time intervals to compute or average state variables and (2) the number of simulations generated to evaluate the system behavior.
-

@@ -1,3 +1,0 @@
-
-A partial digestion of DNA (e.g. cosmid. Lambda, YAC, chromosome) is performed and the lengths of thoses fragments which hybridize to a labeled probe are measured using gel electrophoresis. We give an efficient algorithm that takes as input this experimental data and proposes one or more candidate solutions. Each solution designates the location of each restriction site and specifies the endpoints of each fragment. (Further experiments can then be designed to select the correct solution from this small set of candidates.) The algorithm works well even when the experiment gives inexact values for the lengths.
-

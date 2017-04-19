@@ -1,3 +1,0 @@
-
-A FORTRAN IV program is presented for deconvolution analysis using the matrix algorithm method. With the deconvolution technique retention functions are calculated from time-activity curve data representing both kidneys and blood background. The program computes for each kidney the minimum and maximum time of the retention function. It also calculates the initial amplitudes, absolute as well as relative, and the mean transit time of the retention functions. The design of the program allows for optional reviews of intermediate outputs at important stages. It also allows for the plotting of conventional time-activity curves of both kidneys corrected for blood background. Finally, the program plots the retention functions and some of their characteristics.
-

@@ -1,3 +1,0 @@
-
-A methodology is presented for the optimal design and scheduling of investment for the rehabilitation of water distribution networks. Based on the evolutionary programming technique known as Structured Messy Genetic Algorithms, the methodology utilizes a multi-objective formulation which improves the evolutionary process and provides nondominated optimal solutions over a range of costs and benefits. The model is applied to an example-a small artificial network of fifteen pipes. The effects on the optimal solutions of varying parameters such as interest rate and inflation rate are also investigated.
-

@@ -1,9 +1,0 @@
-
-To further study concentration-response relationship between daily mortality and particulate air pollution, to provide scientific basis for making policy.
-
-We applied spline model to daily time-series data for Taiyuan city, China from 2004-2005, using concentration of particulate matter less than 10 microm in aerodynamic diameter (PM10) as the exposure measure, and controlling confounding factors, such as season, meteorological factors, day-of-the-week, other air pollutions, etc.
-
-The spline model showed a nonlinear relationship for the relative risks of death for all causes (total deaths) and for specific causes in relation to PM10 concentration, and obtained threshold levels. For total mortality, malignant tumor mortality and cardiovascular-cerebrovascular-respiratory mortality, the threshold levels were 85.00 microg/m3, 89.59 microg/m3, 122.54 microg/m3, respectively using the value of differential deduction.
-
-Our nonlinear models are appropriate for assessing the effect of particulate air pollution on daily mortality at current ambient levels in Taiyuan, China,in contrast to those of Europe and America.
-

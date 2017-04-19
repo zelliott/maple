@@ -1,3 +1,0 @@
-
-De novo assembly is a commonly used application of next-generation sequencing experiments. The ultimate goal is to puzzle millions of reads into one complete genome, although draft assemblies usually result in a number of gapped scaffold sequences. In this paper we propose an automated strategy, called GapFiller, to reliably close gaps within scaffolds using paired reads. The method shows good results on both bacterial and eukaryotic datasets, allowing only few errors. As a consequence, the amount of additional wetlab work needed to close a genome is drastically reduced. The software is available at http://www.baseclear.com/bioinformatics-tools/.
-

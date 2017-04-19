@@ -1,9 +1,0 @@
-
-To provide an overview of decision trees based on CART (Classification and Regression Trees) methodology. As an example, we developed a CART model intended to estimate the probability of intrahospital death from acute myocardial infarction (AMI).
-
-We employed the minimum data set (MDS) of Andalusia, Catalonia, Madrid and the Basque Country (2001-2002), which included 33,203 patients with a diagnosis of AMI. The 33,203 patients were randomly divided (70% and 30%) into the development (DS; n = 23,277) and the validation (VS; n = 9,926) sets. The CART inductive model was based on Breiman's algorithm, with a sensitivity analysis based on the Gini index and cross-validation. We compared the results with those obtained by using both logistic regression (LR) and artificial neural network (ANN) (multilayer perceptron) models. The developed models were contrasted with the VS and their properties were evaluated with the area under the ROC curve (AUC) (95% confidence interval [CI]).
-
-In the DS, the CART showed an AUC = 0.85 (0.86-0.88), LR 0.87 (0.86-0.88) and ANN 0.85 (0.85-0.86). In the VS, the CART showed an AUC = 0.85 (0.85-0.88), LR 0.86 (0.85-0.88) and ANN 0.84 (0.83-0.86).
-
-None of the methods tested outperformed the others in terms of discriminative ability. We found that the CART model was much easier to use and interpret, because the decision rules generated could be applied without the need for mathematical calculations.
-

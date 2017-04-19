@@ -1,3 +1,0 @@
-
-Multiclass cancer classification based on microarray data is presented. The binary classifiers used combine support vector machines with a generalized output-coding scheme. Different coding strategies, decoding functions and feature selection methods are incorporated and validated on two cancer datasets: GCM and ALL. Using random coding strategy and recursive feature elimination, the testing accuracy achieved is as high as 83% on GCM data with 14 classes. Comparing with other classification methods, our method is superior in classificatory performance.
-

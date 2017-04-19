@@ -1,9 +1,0 @@
-
-It has been suggested that gadolinium diethylene-triamine penta-acetic acid (Gd-DTPA)-based dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) may provide clinically useful biomarkers for personalized cancer treatment. In this preclinical study, we investigated the potential of DCE-MRI as a noninvasive method for assessing the radioresponsiveness and metastatic potential of tumors.
-
-R-18 melanoma xenografts growing in BALB/c nu/nu mice were used as experimental tumor models. Fifty tumors were subjected to DCE-MRI, and parametric images of Ktrans (the volume transfer constant of Gd-DTPA) and ve (the fractional distribution volume of Gd-DTPA) were produced by pharmacokinetic analysis of the DCE-MRI series. The tumors were irradiated after the DCE-MRI, either with a single dose of 10 Gy for detection of radiobiological hypoxia (30 tumors) or with five fractions of 4 Gy in 48 h for assessment of radioresponsiveness (20 tumors). The host mice were then euthanized and examined for lymph node metastases, and the primary tumors were resected for measurement of cell survival in vitro.
-
-Tumors with hypoxic cells showed significantly lower Ktrans values than tumors without significant hypoxia ( p<0.0001, n=30), and Ktrans decreased with increasing cell surviving fraction for tumors given fractionated radiation treatment ( p<0.0001, n=20). Tumors in metastasis-positive mice had significantly lower Ktrans values than tumors in metastasis-negative mice ( p<0.0001, n=50). Significant correlations between ve and tumor hypoxia, radioresponsiveness, or metastatic potential could not be detected.
-
-R-18 tumors with low Ktrans values are likely to be resistant to radiation treatment and have a high probability of developing lymph node metastases. The general validity of these observations should be investigated further by studying preclinical tumor models with biological properties different from those of the R-18 tumors.
-

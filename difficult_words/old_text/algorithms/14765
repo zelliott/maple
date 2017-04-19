@@ -1,3 +1,0 @@
-
-A novel noise filtering algorithm based on ensemble empirical mode decomposition (EEMD) is proposed to remove artifacts in electrocardiogram (ECG) traces. Three noise patterns with different power--50 Hz, EMG, and base line wander--were embedded into simulated and real ECG signals. Traditional IIR filter, Wiener filter, empirical mode decomposition (EMD) and EEMD were used to compare filtering performance. Mean square error between clean and filtered ECGs was used as filtering performance indexes. Results showed that high noise reduction is the major advantage of the EEMD based filter, especially on arrhythmia ECGs.
-

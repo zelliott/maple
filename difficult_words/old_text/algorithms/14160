@@ -1,3 +1,0 @@
-
-Soft-partition-weighted-sum (Soft-PWS) filters are a class of spatially adaptive moving-window filters for signal and image restoration. Their performance is shown to be promising. However, optimization of the Soft-PWS filters has received only limited attention. Earlier work focused on a stochastic-gradient method that is computationally prohibitive in many applications. We describe a novel radial basis function interpretation of the Soft-PWS filters and present an efficient optimization procedure. We apply the filters to the problem of noise reduction. The experimental results show that the Soft-PWS filter outperforms the standard partition-weighted-sum filter and the Wiener filter.
-

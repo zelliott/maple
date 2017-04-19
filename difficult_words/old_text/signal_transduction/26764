@@ -1,3 +1,0 @@
-
-Biological processes are often dynamic, thus researchers must monitor their activity at multiple time points. The most abundant source of information regarding such dynamic activity is time-series gene expression data. These data are used to identify the complete set of activated genes in a biological process, to infer their rates of change, their order and their causal effects and to model dynamic systems in the cell. In this Review we discuss the basic patterns that have been observed in time-series experiments, how these patterns are combined to form expression programs, and the computational analysis, visualization and integration of these data to infer models of dynamic biological systems.
-

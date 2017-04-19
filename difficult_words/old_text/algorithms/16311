@@ -1,9 +1,0 @@
-
-With the availability of large-scale genome-wide association study (GWAS) data, choosing an optimal set of SNPs for disease susceptibility prediction is a challenging task. This study aimed to use single nucleotide polymorphisms (SNPs) to predict psoriasis from searching GWAS data.
-
-Totally we had 2,798 samples and 451,724 SNPs. Process for searching a set of SNPs to predict susceptibility for psoriasis consisted of two steps. The first one was to search top 1,000 SNPs with high accuracy for prediction of psoriasis from GWAS dataset. The second one was to search for an optimal SNP subset for predicting psoriasis. The sequential information bottleneck (sIB) method was compared with classical linear discriminant analysis(LDA) for classification performance.
-
-The best test harmonic mean of sensitivity and specificity for predicting psoriasis by sIB was 0.674(95% CI: 0.650-0.698), while only 0.520(95% CI: 0.472-0.524) was reported for predicting disease by LDA. Our results indicate that the new classifier sIB performs better than LDA in the study.
-
-The fact that a small set of SNPs can predict disease status with average accuracy of 68% makes it possible to use SNP data for psoriasis prediction.
-

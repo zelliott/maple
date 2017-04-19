@@ -1,3 +1,0 @@
-
-We present a novel algorithm for baseline estimation in CE. The new algorithm which we have named as accelerated multiple-pass moving average (AMPMA) is combined to three preexisting low-pass filters, spike-removal, moving average, and multi-pass moving average filter, to achieve real-time baseline correction with commercial instrumentation. The successful performance of AMPMA is demonstrated with simulated and experimental data. Straightforward comparison of experimental data clearly shows the improvement AMPMA provides to the linear fitting, LOD, and accuracy (absolute error) of CE analysis.
-

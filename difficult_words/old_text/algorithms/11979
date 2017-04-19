@@ -1,9 +1,0 @@
-
-Inappropriate therapy from supraventricular tachyarrhythmias (atrial fibrillation [AF] and sinus tachycardia [ST]) in patients with implanted cardioverter defibrillators is a major challenge. We tested the performance of stability algorithms from 3 manufacturers for episodes of inappropriate therapy delivered because of AF and an onset algorithm for all episodes of inappropriate therapy caused by ST.
-
-Therapy was classified as caused by ventricular tachycardia (VT), ST, or AF from review of stored intracardiac electrograms, history, clinical information, and R-R data before study inception. By using 30 to 60 R-R intervals before therapy, sensitivity and specificity for a family of stability values and percentage of onset values were calculated for each manufacturer and receiver operating characteristic curves generated.
-
-Of the 217 patients monitored, 62 (29%) received inappropriate therapy, and 40 had complete R-R information available. Of the 40 patients, 21 patients received therapy for AF, 19 for ST, and 1 patient for noise; 15 (38%) also received appropriate therapy for VT. We analyzed 83 episodes of VT from 18 patients, 94 episodes of AF from 21 patients, and 56 episodes of ST from 19 patients. Specificity, in the clinically relevant sensitivity range of >/=95%, was comparable across manufacturers at about 40%. An onset value of 80% was associated with 91% sensitivity and 95% specificity for the specific algorithm tested.
-
-Inappropriate therapy is a common problem in implantable cardiac defibrillators. The performance of the stability algorithms used to differentiate AF from VT was less than ideal, though comparable across manufacturers. The onset algorithm accurately differentiates ST from VT.
-

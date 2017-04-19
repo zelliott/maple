@@ -1,3 +1,0 @@
-
-InfoMax and FastICA are the independent component analysis algorithms most used and apparently most effective for brain fMRI. We show that this is linked to their ability to handle effectively sparse components rather than independent components as such. The mathematical design of better analysis tools for brain fMRI should thus emphasize other mathematical characteristics than independence.
-

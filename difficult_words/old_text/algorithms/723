@@ -1,3 +1,0 @@
-
-Suppression subtractive hybridization (SSH) is a widely used technique for the identification of differentially expressed genes. SSH as well as other types of sequencing projects generate large amounts of anonymous sequences. SSHSuite automates the handling and storage of these sequences and enables identification through similarity searches. SSHSuite also offers analysis tools for the retrieval and comparison of the resulting similarity data. SSHSuite consists of four programs: SSHHandler, SSHOverview, SSHAnalysis, and SSHCompare.
-

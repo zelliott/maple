@@ -1,7 +1,0 @@
-
-Analyzing the networks of interactions between genes and proteins has become a central theme in systems biology. Versatile software tools for interactively displaying and analyzing these networks are therefore very much in demand. The public-domain open software environment Cytoscape has been developed with the goal of facilitating the design and development of such software tools by the scientific community.
-
-We present GenePro, a plugin to Cytoscape featuring a set of versatile tools that greatly facilitates the visualization and analysis of protein networks derived from high-throughput interactions data and the validation of various methods for parsing these networks into meaningful functional modules.
-
-The GenePro plugin is available at the website http://genepro.ccb.sickkids.ca.
-

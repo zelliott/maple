@@ -1,3 +1,0 @@
-
-The objective of this research is to design a pattern recognition system based on a Fuzzy Finite State Machine (FFSM). We try to find an optimal FFSM with Genetic Algorithms (GA). In order to validate this system, the classifier has been applied to a real problem: distinction between normal and abnormal cells in cytological breast fine needle aspirate images and cytological peritoneal fluid images. The characteristic used in the discrimination between normal and abnormal cells is a texture measurement of the chromatin distribution in cellular nuclei. Furthermore, the effectiveness of this method as a pattern classifier is compared with other existing supervised and unsupervised methods and evaluated with Receiver Operating Curves (ROC) methodology.
-

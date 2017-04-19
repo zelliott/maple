@@ -1,3 +1,0 @@
-
-The application of the method of Hopfield and Tank to the Travelling Salesman Problem (1985) has been re-examined in an effort to find a procedure for scaling to system sizes of real interest. As this failed, methods were tried to improve the algorithm, recognizing the importance of a "silicon implementation". No satisfactory refinement was found, and the reasons for algorithm failure have been identified.
-

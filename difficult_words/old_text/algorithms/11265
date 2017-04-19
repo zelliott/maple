@@ -1,9 +1,0 @@
-
-To build an effective co-reference resolution system tailored to the biomedical domain.
-
-Experimental materials used in this study were provided by the 2011 i2b2 Natural Language Processing Challenge. The 2011 i2b2 challenge involves co-reference resolution in medical documents. Concept mentions have been annotated in clinical texts, and the mentions that co-refer in each document are linked by co-reference chains. Normally, there are two ways of constructing a system to automatically discoverco-referent links. One is to manually build rules forco-reference resolution; the other is to use machine learning systems to learn automatically from training datasets and then perform the resolution task on testing datasets.
-
-The existing co-reference resolution systems are able to find some of the co-referent links; our rule based system performs well, finding the majority of the co-referent links. Our system achieved 89.6% overall performance on multiple medical datasets.
-
-Manually crafted rules based on observation of training data is a valid way to accomplish high performance in this co-reference resolution task for the critical biomedical domain.
-

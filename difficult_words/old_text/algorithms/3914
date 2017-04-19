@@ -1,3 +1,0 @@
-
-Molecular simulation is increasingly used in many theoretical as well applicative fields in both Life and Material sciences. It relies on the capability of estimating the forces acting both inter- and intra-molecularly, providing configurations of minimum energy and sampling the configurational space consistently with the main statistical ensembles. In this context, the engine that approximates the temporal evolution and the force field that expresses the instantaneously occurring forces, i.e. Molecular Dynamics and Molecular Mechanics, respectively, are the crucial bases that need to be known and handled. Here, the fundamentals of these tools are provided, with particular attention to numerical and simulative aspects.
-

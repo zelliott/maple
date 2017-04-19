@@ -1,3 +1,0 @@
-
-Gene expression is a highly regulated biological process that is fundamental to the existence of phenotypes of any living organism. The regulatory relations are usually modeled as a network; simply, every gene is modeled as a node and relations are shown as edges between two related genes. This paper presents a novel method for inferring correlation networks, networks constructed by connecting co-expressed genes, through predicting co-expression level from genes promoter's sequences. According to the results, this method works well on biological data and its outcome is comparable to the methods that use microarray as input. The method is written in C++ language and is available upon request from the corresponding author.
-

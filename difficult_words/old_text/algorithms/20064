@@ -1,3 +1,0 @@
-
-Here we present a sequential Monte Carlo approach that can be used to find optimal designs. Our focus is on the design of population pharmacokinetic studies where the derivation of sampling windows is required, along with the optimal sampling schedule. The search is conducted via a particle filter which traverses a sequence of target distributions artificially constructed via an annealed utility. The algorithm derives a catalog of highly efficient designs which, not only contain the optimal, but can also be used to derive sampling windows. We demonstrate our approach by designing a hypothetical population pharmacokinetic study, and compare our results with those obtained via a simulation method from the literature.
-

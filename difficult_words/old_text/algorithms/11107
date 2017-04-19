@@ -1,9 +1,0 @@
-
-Up to now, fiber tractography in the clinical routine is mostly based on diffusion tensor imaging (DTI). However, there are known drawbacks in the resolution of crossing or kissing fibers and in the vicinity of a tumor or edema. These restrictions can be overcome by tractography based on High Angular Resolution Diffusion Imaging (HARDI) which in turn requires larger numbers of gradients resulting in longer acquisition times. Using compressed sensing (CS) techniques, HARDI signals can be obtained by using less non-collinear diffusion gradients, thus enabling the use of HARDI-based fiber tractography in the clinical routine.
-
-Eight patients with gliomas in the temporal lobe, in proximity to the optic radiation (OR), underwent 3T MRI including a diffusion-weighted dataset with 30 gradient directions. Fiber tractography of the OR using a deterministic streamline algorithm based on DTI was compared to tractography based on reconstructed diffusion signals using HARDI+CS.
-
-HARDI+CS based tractography displayed the OR more conclusively compared to the DTI-based results in all eight cases. In particular, the potential of HARDI+CS-based tractography was observed for cases of high grade gliomas with significant peritumoral edema, larger tumor size or closer proximity of tumor and reconstructed fiber tract.
-
-Overcoming the problem of long acquisition times, HARDI+CS seems to be a promising basis for fiber tractography of the OR in regions of disturbed diffusion, areas of high interest in glioma surgery.
-

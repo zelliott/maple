@@ -1,9 +1,0 @@
-
-Prevention of diabetes and coronary heart disease (CHD) is possible but identification of at-risk patients for targeting interventions is a challenge in primary care.
-
-We analyzed electronic health record (EHR) data for 122,715 patients from 12 primary care practices. We defined patients with risk factor clustering using metabolic syndrome (MetS) characteristics defined by NCEP-ATPIII criteria; if missing, we used surrogate characteristics, and validated this approach by directly measuring risk factors in a subset of 154 patients. For subjects with at least 3 of 5 MetS criteria measured at baseline (2003-2004), we defined 3 categories: No MetS (0 criteria); At-risk-for MetS (1-2 criteria); and MetS (>or= 3 criteria). We examined new diabetes and CHD incidence, and resource utilization over the subsequent 3-year period (2005-2007) using age-sex-adjusted regression models to compare outcomes by MetS category.
-
-After excluding patients with diabetes/CHD at baseline, 78,293 patients were eligible for analysis. EHR-defined MetS had 73% sensitivity and 91% specificity for directly measured MetS. Diabetes incidence was 1.4% in No MetS; 4.0% in At-risk-for MetS; and 11.0% in MetS (p < 0.0001 for trend; adjusted OR MetS vs No MetS = 6.86 [6.06-7.76]); CHD incidence was 3.2%, 5.3%, and 6.4% respectively (p < 0.0001 for trend; adjusted OR = 1.42 [1.25-1.62]). Costs and resource utilization increased across categories (p < 0.0001 for trends). Results were similar analyzing individuals with all five criteria not missing, or defining MetS as >or= 2 criteria present.
-
-Risk factor clustering in EHR data identifies primary care patients at increased risk for new diabetes, CHD and higher resource utilization.
-

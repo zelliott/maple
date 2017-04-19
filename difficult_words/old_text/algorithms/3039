@@ -1,7 +1,0 @@
-
-STEM is a software package written in the C language to obtain maximum likelihood (ML) estimates for phylogenetic species trees given a sample of gene trees under the coalescent model. It includes options to compute the ML species tree, search the space of all species trees for the k trees of highest likelihood and compute ML branch lengths for a user-input species tree.
-
-The STEM package, including source code, is freely available at http://www.stat.osu.edu/~lkubatko/software/STEM/.
-
-Supplementary data are available at Bioinformatics online.
-

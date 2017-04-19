@@ -1,3 +1,0 @@
-
-Several investigators have approximated the scatter component of digital radiographic images by applying a constant weighting factor to a convolved version of the detected image. The scatter approximation is then subtracted from the detected image. When a constant weighting factor is used, the scatter in areas of low transmission is underestimated. We have extended this technique by allowing for a spatially variable weighting factor based on the local image intensity. This technique improves the scatter estimate and should provide better results for general videodensitometric applications.
-

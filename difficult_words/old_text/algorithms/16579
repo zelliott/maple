@@ -1,9 +1,0 @@
-
-To date, no tool exists to predict pT0 at radical prostatectomy (RP) in patients with T1a-T1b prostate cancer (PCa) after surgery for benign prostatic hyperplasia (SxBPH). We aimed to fill this gap by developing a user-friendly flowchart to assist urologists when incidental PCa is diagnosed and a clinical decision is required.
-
-We analyzed 158 T1a-T1b prostate cancers patients who underwent RP between 1996 and 2009. A risk stratification tool was developed applying the tree modeling technique of classification and regression tree analysis (CART) and relying on all the available pre-RP characteristics (age, prostate-specific antigen [PSA] before SxBPH, PSA after SxBPH, cT1a-T1b stage, prostate volume and Gleason sum at SxBPH). Then, the accuracy of the proposed model using 200 bootstrap resamples for internal validation was calculated.
-
-A total of 95 patients (60.1%) were stage T1a, and 63 (39.9%) were stage T1b. The median values of PSA before and after SxBPH were 4.2 and 1.1 ng/mL, respectively. A total of 22 patients (13.9%) showed no residual tumor (pT0) at RP. The CART analyses identified three groups at risk of having residual disease at RP: (i) PSA after SxBPH > 1.0 ng/mL (pT0 prevalence: 3.8%); (ii) PSA after SxBPH < 1.0 ng/mL and PSA before SxBPH > 2.0 ng/mL (pT0 prevalence: 14.8%); and (iii) PSA after SxBPH < 1.0 ng/mL and PSA before SxBPH < 2.0 ng/mL (pT0 prevalence: 42.3%). The accuracy of the proposed model was 77.1%. Clinical stage (T1a vs T1b) was not associated with pT0 (P = 0.4).
-
-Clinical stage (T1a vs T1b) assessment does not help in predicting pT0 cases. An accurate and clinically useful flowchart to predict pT0 at RP after incidental prostate cancer diagnosis is provided herein.
-

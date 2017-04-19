@@ -1,7 +1,0 @@
-
-Since the high dimensionality of gene expression microarray data sets degrades the generalization performance of classifiers, feature selection, which selects relevant features and discards irrelevant and redundant features, has been widely used in the bioinformatics field. Multi-task learning is a novel technique to improve prediction accuracy of tumor classification by using information contained in such discarded redundant features, but which features should be discarded or used as input or output remains an open issue.
-
-We demonstrate a framework for automatically selecting features to be input, output, and discarded by using a genetic algorithm, and propose two algorithms: GA-MTL (Genetic algorithm based multi-task learning) and e-GA-MTL (an enhanced version of GA-MTL). Experimental results demonstrate that this framework is effective at selecting features for multi-task learning, and that GA-MTL and e-GA-MTL perform better than other heuristic methods.
-
-Genetic algorithms are a powerful technique to select features for multi-task learning automatically; GA-MTL and e-GA-MTL are shown to to improve generalization performance of classifiers on microarray data sets.
-

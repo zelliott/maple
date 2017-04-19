@@ -1,3 +1,0 @@
-
-Maximal intensity projection (MIP) is routinely used to view MRA and other volumetric angiographic data. The straightforward implementation of MIP is ray casting that traces a volumetric data set in a computationally expensive manner. This article reports a fast MIP algorithm using shear warp factorization and reduced resampling that drastically reduced the redundancy in the computations for projection, thereby speeding up MIP by more than 10 times.
-

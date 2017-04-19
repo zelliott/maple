@@ -1,9 +1,0 @@
-
-Spectrally distinct fluorescent proteins (FPs) have been developed permitting the visualization of several proteins simultaneously in living cells. The emission spectra of FPs, in most cases, overlap, making signal separation based on filter technology inefficient and in cases of bleed-through, inaccurate. Spectral imaging can overcome these obstacles through a process called linear unmixing. Given a complex spectra composed of multiple fluorophores, linear unmixing can reduce the complex signal to its individual, weighted, component spectra. Spectral imaging with two-photon excitation allows the collection of nontruncated emission spectra. The accuracy of linear unmixing under these conditions needs to be evaluated.
-
-Capillaries containing defined mixtures of CFP and YFP were used to test the accuracy of linear unmixing using spectral images obtained with two-photon excitation.
-
-Linear unmixing can be accurate when wavelength and power-matched reference spectra are provided to the algorithm. Linear unmixing errors can occur due to (1) excitation laser contamination of emission signals, (2) the presence of FRET, (3) poor selection of excitation wavelength, and (4) failure to background subtract reference spectra.
-
-Linear unmixing, when judiciously performed, can accurately measure the abundance of CFP and YFP in mixed samples, even when their relative intensities range from 90:1.
-

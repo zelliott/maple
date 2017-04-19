@@ -1,3 +1,0 @@
-
-In the paper, we propose a reliable asynchronous image transfer protocol, RAIT. RAIT applies a double sliding window method to node-to-node transfer, with one sliding window for the receiving queue, which is used to prevent packet loss caused by communication failure between nodes, and another sliding window for the sending queue, which prevents packet loss caused by network congestion. The routing node prevents packet loss between nodes by preemptive scheduling of multiple packets for a given image. RAIT implements a double sliding window method by means of a cross-layer design between the RAIT layer, routing layer, and queue layer. We demonstrate that RAIT guarantees a higher reliability of image transmission compared to the existing protocols.
-

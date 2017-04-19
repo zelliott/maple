@@ -1,3 +1,0 @@
-
-This paper describes a computer-aided procedure for creating a surface model on the basis of pattern recognition in images produced by nuclear spin tomography. A local search algorithm that recognizes the entire profile of the relevant object starting from a point determined (input) by the user is described. The pattern (structure) thus recognized is approximated by a mathematical description. By including the adjacent layers, a surface model can be generated. The main focus is on the rapid identification of the pattern and the prior preparation of the data used as input for the surface model. The human shoulder serves as an example to verify the approach.
-

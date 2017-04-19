@@ -1,3 +1,0 @@
-
-We present a new method for calibrating an optical-tweezer setup that does not depend on input parameters and is less affected by systematic errors like drift of the setup. It is based on an inference approach that uses Bayesian probability to infer the diffusion coefficient and the potential felt by a bead trapped in an optical or magnetic trap. It exploits a much larger amount of the information stored in the recorded bead trajectory than standard calibration approaches. We demonstrate that this method outperforms the equipartition method and the power-spectrum method in input information required (bead radius and trajectory length) and in output accuracy.
-

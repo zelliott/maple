@@ -1,9 +1,0 @@
-
-As genomic sequencing reveals the range of structural classes generated through the evolution of proteins, analysis of the superfamilies to which they belong can contribute important insights for understanding their structure-function relationships. Current database search techniques fall short of identifying the majority of distant sequence relationships at statistically significant levels. We developed the Shotgun program in an effort to enhance the sensitivity and utility of current database search output.
-
-We have developed and used the Shotgun program to identify both new superfamily members and to reconstruct several known enzyme superfamilies using BLAST database searches. An analysis of the false-positive rates generated in the analysis and other control experiments provides evidence that high Shotgun scores indicate real evolutionary relationships. Shotgun is also a useful tool for identifying subgroup relationships within superfamilies and for testing hypotheses about related protein families.
-
-By request from the Babbitt lab homepage: http://mako.cgl.ucsf. edu/babbittlab/
-
-babbitt@cgl.ucsf.edu
-

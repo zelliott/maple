@@ -1,3 +1,0 @@
-
-Next-generation sequencing has revolutionized biology by exponentially increasing sequencing output while dramatically lowering costs. High-throughput sequence data with shorter reads has opened up new applications such as whole genome resequencing, indel and SNP detection, transcriptome sequencing, etc. Several tools are available for the analysis of high-throughput sequencing data. In this chapter, we describe the use of an ultrafast alignment program, Bowtie, to align short-read sequence (SRS) data against the Arabidopsis reference genome. The alignment files generated from Bowtie will be used to identify SNPs and indels using Maq.
-

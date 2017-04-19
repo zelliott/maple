@@ -1,3 +1,0 @@
-
-This paper describes an extended ray casting scheme for three-dimensional (3-D) navigation into the heart cavities for preoperative planning using multislice X-ray computed tomography data. The key benefit is that artifacts due to contrast inhomogeneities can be eliminated during volume traversal, thus improving the visual perception of the endocardial wall.
-

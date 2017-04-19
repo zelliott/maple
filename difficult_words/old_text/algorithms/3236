@@ -1,3 +1,0 @@
-
-Combination of sliding window method with physical properties scale of amino acids is a classical approach for linear B-cell epitope prediction. But it was shown that accuracy of these methods is poor. We reviewed classical and new algorithms of epitope prediction and present own implementation of one of them. The AAPPred software is available online at http://www.bioinf.ru/aappred/.
-

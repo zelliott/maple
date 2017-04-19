@@ -1,5 +1,0 @@
-
-We present a web server for Diagnosis and Normalization of MicroArray Data (DNMAD). DNMAD includes several common data transformations such as spatial and global robust local regression or multiple slide normalization, and allows for detecting several kinds of errors that result from the manipulation and the image analysis of the arrays. This tool offers a user-friendly interface, and is completely integrated within the Gene Expression Pattern Analysis Suite (GEPAS).
-
-The tool is accessible on-line at http://dnmad.bioinfo.cnio.es.
-

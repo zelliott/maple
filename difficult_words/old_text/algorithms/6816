@@ -1,9 +1,0 @@
-
-The reconstruction of genetic networks is the holy grail of functional genomics. Its core task is to identify the causal structure of a gene network, that is, to distinguish direct from indirect regulatory interactions among gene products. In other words, to reconstruct a genetic network is to identify, for each network gene, which other genes and their activity the gene influences directly. Crucial to this task are perturbations of gene activity. Genomic technology permits large-scale experiments perturbing the activity of many genes and assessing the effect of each perturbation on all other genes in a genome. However, such experiments cannot distinguish between direct and indirect effects of a genetic perturbation.
-
-I present an algorithm to reconstruct direct regulatory interactions in gene networks from the results of gene perturbation experiments. The algorithm is based on a graph representation of genetic networks and applies to networks of arbitrary size and complexity. Algorithmic complexity in both storage and time is low, less than O(n(2)). In practice, the algorithm can reconstruct networks of several thousand genes in mere CPU seconds on a desktop workstation.
-
-A perl implementation of the algorithm is given in the Appendix.
-
-wagnera@unm.edu
-

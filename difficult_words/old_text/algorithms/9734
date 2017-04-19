@@ -1,9 +1,0 @@
-
-To compare the results of drug safety data mining with three different algorithms, when adverse events are identified using MedDRA Preferred Terms (PT) vs. High Level Terms (HLT) vs. Standardised MedDRA Queries (SMQ).
-
-For a representative set of 26 drugs, data from the FDA Adverse Event Reporting System (AERS) database from 2001 through 2005 was mined for signals of disproportionate reporting (SDRs) using three different data mining algorithms (DMAs): the Gamma Poisson Shrinker (GPS), the urn-model algorithm (URN), and the proportional reporting rate (PRR) algorithm. Results were evaluated using a previously described Reference Event Database (RED) which contains documented drug-event associations for the 26 drugs. Analysis emphasized the percentage of SDRs in the "unlabeled supported" category, corresponding to those adverse events that were not described in the U.S. prescribing information for the drug at the time of its approval, but which were supported by some published evidence for an association with the drug.
-
-Based on a logistic regression analysis, the percentage of unlabeled supported SDRs was smallest at the PT level, intermediate at the HLT level, and largest at the SMQ level, for all three algorithms. The GPS and URN methods detected comparable percentages of unlabeled supported SDRs while the PRR method detected a smaller percentage, at all three MedDRA levels. No evidence of a method/level interaction was seen.
-
-Use of HLT and SMQ groupings can improve the percentage of unlabeled supported SDRs in data mining results. The trade-off for this gain is the medically less-specific language of HLTs and SMQs compared to PTs, and the need for the added step in data mining of examining the component PTs of each HLT or SMQ that results in a signal of disproportionate reporting.
-

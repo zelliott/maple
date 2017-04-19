@@ -1,3 +1,0 @@
-
-A simple, easily calculated, nonparametric statistic is described that can detect the presence of a functional relationship in bivariate data. Given a sample of data points (x,y), the statistic's value is nearly 1 if y is a linear function of x with little noise; it is greater than 1 if y is a nonlinear function of x; and it is close to 2 if x and y are uniformly and independently distributed. The statistic can be used to rapidly screen through large data sets to identify the most functionally related variable pairs. As an illustration, the statistic is used to detect relations between polypeptide conformational energy and functions of a series expansion for chain conformations.
-

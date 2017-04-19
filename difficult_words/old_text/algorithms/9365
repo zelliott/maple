@@ -1,7 +1,0 @@
-
-Methods available for the inference of genetic regulatory networks strive to produce a single network, usually by optimizing some quantity to fit the experimental observations. In this article we investigate the possibility that multiple networks can be inferred, all resulting in similar dynamics. This idea is motivated by theoretical work which suggests that biological networks are robust and adaptable to change, and that the overall behavior of a genetic regulatory network might be captured in terms of dynamical basins of attraction.
-
-We have developed and implemented a method for inferring genetic regulatory networks for time series microarray data. Our method first clusters and discretizes the gene expression data using k-means and support vector regression. We then enumerate Boolean activation-inhibition networks to match the discretized data. Finally, the dynamics of the Boolean networks are examined. We have tested our method on two immunology microarray datasets: an IL-2-stimulated T cell response dataset and a LPS-stimulated macrophage response dataset. In both cases, we discovered that many networks matched the data, and that most of these networks had similar dynamics.
-
-Supplementary data are available at Bioinformatics online.
-

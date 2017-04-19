@@ -1,9 +1,0 @@
-
-The study aims at identifying traffic/highway design/driver-vehicle information significantly related with fatal/severe crashes on urban arterials for different crash types. Since the data used in this study are observational (i.e., collected outside the purview of a designed experiment), an information discovery approach is adopted for this study.
-
-Random Forests, which are ensembles of individual trees grown by CART (Classification and Regression Tree) algorithm, are applied in numerous applications for this purpose. Specifically, conditional inference forests have been implemented. In each tree of the conditional inference forest, splits are based on how good the association is. Chi-square test statistics are used to measure the association. Apart from identifying the variables that improve classification accuracy, the methodology also clearly identifies the variables that are neutral to accuracy, and also those that decrease it.
-
-The methodology is quite insightful in identifying the variables of interest in the database (e.g., alcohol/ drug use and higher posted speed limits contribute to severe crashes). Failure to use safety equipment by all passengers and presence of driver/passenger in the vulnerable age group (more than 55 years or less than 3 years) increased the severity of injuries given a crash had occurred. A new variable, 'element' has been used in this study, which assigns crashes to segments, intersections, or access points based on the information from site location, traffic control, and presence of signals.
-
-The authors were able to identify roadway locations where severe crashes tend to occur. For example, segments and access points were found to be riskier for single vehicle crashes. Higher skid resistance and k-factor also contributed toward increased severity of injuries in crashes.
-

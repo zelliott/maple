@@ -1,3 +1,0 @@
-
-In this paper, polar and spherical Fourier analysis are defined as the decomposition of a function in terms of eigenfunctions of the Laplacian with the eigenfunctions being separable in the corresponding coordinates. The proposed transforms provide effective decompositions of an image into basic patterns with simple radial and angular structures. The theory is compactly presented with an emphasis on the analogy to the normal Fourier transform. The relation between the polar or spherical Fourier transform and the normal Fourier transform is explored. As examples of applications, rotation-invariant descriptors based on polar and spherical Fourier coefficients are tested on pattern classification problems.
-

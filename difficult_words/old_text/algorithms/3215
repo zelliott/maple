@@ -1,3 +1,0 @@
-
-Phase error analysis in Temporal Phase Shifting (TPS) algorithms due to frequency detuning has been to date only performed numerically. In this paper, we show an exact analytical expression to obtain this phase error due to detuning using the spectral TPS response. The new proposed method is based on the phasorial representation of the output of the TPS quadrature filter. Doing this, the detuning problem is reduced to a ratio of two symmetrical spectral responses of the quadrature filter at the detuned frequency. Finally, some popular cases of TPS algorithms are analyzed to show the usefulness of the proposed method.
-

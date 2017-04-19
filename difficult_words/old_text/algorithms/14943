@@ -1,3 +1,0 @@
-
-Catastrophic forgetting is a major problem for sequential learning in neural networks. One very general solution to this problem, known as 'pseudorehearsal', works well in practice for nonlinear networks but has not been analysed before. This paper formalizes pseudorehearsal in linear networks. We show that the method can fail in low dimensions but is guaranteed to succeed in high dimensions under fairly general conditions. In this case an optimal version of the method is equivalent to a simple modification of the 'delta rule'.
-

@@ -1,9 +1,0 @@
-
-This paper considers automatic segmentation of the left cardiac ventricle in short axis magnetic resonance images. Various aspects, such as the presence of papillary muscles near the endocardium border, makes simple threshold based segmentation difficult.
-
-The endo- and epicardium are modelled as two series of radii which are inter-related using features describing shape and motion. Image features are derived from edge information from human annotated images. The features are combined within a discriminatively trained Conditional Random Field (CRF). Loopy belief propagation is used to infer segmentations when an unsegmented video sequence is given. Powell's method is applied to find CRF parameters by minimizing the difference between ground truth annotations and the inferred contours. We also describe how the endocardium centre points are calculated from a single human-provided centre point in the first frame, through minimization of frame alignment error.
-
-We present and analyse the results of segmentation. The algorithm exhibits robustness against inclusion of the papillary muscles by integrating shape and motion information. Possible future improvements are identified.
-
-The presented model integrates shape and motion information to segment the inner and outer contours in the presence of papillary muscles. On the Sunnybrook dataset we find an average Dice metric of 0.91 ± 0.02 and 0.93 ± 0.02 for the inner and outer segmentations, respectively. Particularly problematic are patients with hypertrophy where the blood pool disappears from view at end-systole.
-

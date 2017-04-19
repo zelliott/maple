@@ -1,3 +1,0 @@
-
-During the last five years, several methods have been proposed for handling nonlinear constraints using evolutionary algorithms (EAs) for numerical optimization problems. Recent survey papers classify these methods into four categories: preservation of feasibility, penalty functions, searching for feasibility, and other hybrids. In this paper we investigate a new approach for solving constrained numerical optimization problems which incorporates a homomorphous mapping between n-dimensional cube and a feasible search space. This approach constitutes an example of the fifth decoder-based category of constraint handling techniques. We demonstrate the power of this new approach on several test cases and discuss its further potential.
-

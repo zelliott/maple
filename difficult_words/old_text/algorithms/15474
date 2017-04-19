@@ -1,3 +1,0 @@
-
-A diffusive predator-prey model with Holling type II functional response and the no-flux boundary condition incorporating a constant prey refuge is considered. Globally asymptotically stability of the positive equilibrium is obtained. Regarding the constant number of prey refuge m as a bifurcation parameter, by analyzing the distribution of the eigenvalues, the existence of Hopf bifurcation is given. Employing the center manifold theory and normal form method, an algorithm for determining the properties of the Hopf bifurcation is derived. Some numerical simulations for illustrating the analysis results are carried out.
-

@@ -1,3 +1,0 @@
-
-An algorithm has been written which automatically selects a left epicardial region of interest on 201Tl myocardial images. It accomplishes a radial search from the geometric center of the myocardium. On each of the 30 profiles, the local maximum of the 1st derivative is selected as the epicardial edge. The algorithm has been tested in 40 patients at stress and redistribution. In ten patients, conventional planar images were obtained in three views. In 30 patients conventional short axis tomographic images were obtained after reconstruction of 32 projections acquired over 180 degrees. The rate of success is 97% for both imaging modalities. This procedure is another step towards fully automated assessment of myocardial defects and redistribution.
-

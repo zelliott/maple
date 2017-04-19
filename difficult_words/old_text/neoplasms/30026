@@ -1,9 +1,0 @@
-
-To evaluate dosing and intervention strategies for the phase II programme of a VEGF receptor inhibitor using PK-PD modelling and simulation, with the aim of maximizing (i) the number of patients on treatment and (ii) the average dose level during treatment.
-
-A previously developed PK-PD model for lenvatinib (E7080) was updated and parameters were re-estimated (141 patients, once daily and twice daily regimens). Treatment of lenvatinib was simulated for 16 weeks, initiated at 25 mg once daily. Outcome measures included the number of patients on treatment and overall drug exposure. A hypertension intervention design proposed for phase II studies was evaluated, including antihypertensive treatment and dose de-escalation. Additionally, a within-patient dose escalation was investigated, titrating up to 50 mg once daily unless unacceptable toxicity occurred.
-
-Using the proposed antihypertension intervention design, 82% of patients could remain on treatment, and the mean dose administered was 21.5 mg day⁻¹. The adverse event (AE) guided dose titration increased the average dose by 4.6 mg day⁻¹, while only marginally increasing the percentage of patients dropping out due to toxicity (from 18% to 20.8%).
-
-The proposed hypertension intervention design is expected to be effective in maintaining patients on treatment with lenvatinib. The AE-guided dose titration with blood pressure as a biomarker yielded a higher overall dose level, without relevant increases in toxicity. Since increased exposure to lenvatinib seems correlated with increased treatment efficacy, the adaptive treatment design may thus be a valid approach to improve treatment outcome.
-

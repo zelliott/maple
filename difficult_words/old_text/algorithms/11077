@@ -1,7 +1,0 @@
-
-Many structural bioinformatics approaches employ sequence profile-based threading techniques. To improve fold recognition rates, homology searching may include artificially evolved amino acid sequences, which were demonstrated to enhance the sensitivity of protein threading in targeting midnight zone templates.
-
-We describe implementation details of eVolver, an optimization algorithm that evolves protein sequences to stabilize the respective structures by a variety of potentials, which are compatible with those commonly used in protein threading. In a case study focusing on LARG PDZ domain, we show that artificially evolved sequences have quite high capabilities to recognize the correct protein structures using standard sequence profile-based fold recognition.
-
-Computationally design protein sequences can be incorporated in existing sequence profile-based threading approaches to increase their sensitivity. They also provide a desired linkage between protein structure and function in in silico experiments that relate to e.g. the completeness of protein structure space, the origin of folds and protein universe. eVolver is freely available as a user-friendly webserver and a well-documented stand-alone software distribution at http://www.brylinski.org/evolver.
-

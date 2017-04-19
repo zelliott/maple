@@ -1,9 +1,0 @@
-
-Growth factor receptors such as epidermal growth factor receptor 1 and human epidermal growth receptor 2 (HER2) are overexpressed in certain cancer cells. Antibodies against these receptors (eg. cetuximab and transtuzumab [Herceptin]) have shown therapeutic value in cancer treatment. The existing methods for the quantification of these receptors in tumors involve immunohistochemistry or DNA quantification, both in extracted tissue samples. The goal of the study was to evaluate whether an optical fiber-based technique can be used to quantify the expression of multiple growth factor receptors simultaneously.
-
-The authors examined HER2 expression using the monoclonal antibody trastuzumab as a targeting ligand to test their system. They conjugated trastuzumab to 2 different Alexa Fluor dyes with different excitation and emission wavelengths. Two of the dye conjugates were subsequently injected intravenously into mice bearing HER2-expressing subcutaneous tumors. An optical fiber was then inserted into the tumor through a 30-gauge needle, and using a single laser beam as the excitation source, the fluorescence emitted by the 2 conjugates was identified and quantified by 2-photon optical fiber fluorescence.
-
-The 2 conjugates bound to the HER2-expressing tumor competitively in a receptor-specific fashion, but they failed to bind to a similar cell tumor that did not express HER2. The concentration of the conjugate present in the tumor as determined by 2-photon optical fiber fluorescence was shown to serve as an index of the HER2 expression levels.
-
-These studies offer a minimally invasive technique for the quantification of tumor receptors simultaneously.
-

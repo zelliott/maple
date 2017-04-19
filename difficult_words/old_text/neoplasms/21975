@@ -1,9 +1,0 @@
-
-In a cancer mortality study, the decision of whether to define a study outcome via underlying cause of death (UCD) or via multiple cause of death (MCD) information may impact relative risk (RR) estimates and associated confidence intervals.
-
-Simple equations are presented that relate RR estimates obtained in a cancer incidence study to the RR estimates obtained in mortality studies using UCD and MCD information. Data from the Surveillance, Epidemiology and End Results program were used to obtain information about the detection and confirmation rates of cancer diagnoses made via UCD. Data from US cause of death data tapes were used to obtain information on the ratio of UCD to MCD listings for cancer outcomes. Numerical examples illustrate the use of these equations.
-
-In our examples, the RRs obtained via analyses of MCD were close to those obtained via analyses of UCD (but of greater precision), even when assuming that the confirmation rate of cancer diagnoses made via MCD listing was substantially lower than that of diagnoses made via UCD.
-
-These finding are supportive of the use of MCD information in cancer mortality studies.
-

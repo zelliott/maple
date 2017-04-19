@@ -1,9 +1,0 @@
-
-With continuous glucose sensors (CGSs), it is possible to obtain a dynamical signal of the patient's subcutaneous glucose concentration in real time. How could that information be exploited? We suggest a model-based diagnosis system with a twofold objective: real-time state estimation and long-term model parameter identification.
-
-To obtain a dynamical model, Bergman's nonlinear minimal model (considering plasma glucose G, insulin I, and interstitial insulin X) is extended by two states describing first and second insulin response. Furthermore, compartments for oral glucose and subcutaneous insulin inputs as well as for subcutaneous glucose measurement are added. The observability of states and external inputs as well as the identifiability of model parameters are assessed using the empirical observability Gramian. Signals are estimated for different nondiabetic and diabetic scenarios by unscented Kalman filter.
-
-(1) Observability of different state subsets is evaluated, e.g., from CGSs, {G, I} or {G, X} can be observed and the set {G, I, X} cannot. (2) Model parameters are included, e.g., it is possible to estimate the second-phase insulin response gain k(G2) additionally. This can be used for model adaptation and as a diagnostic parameter that is almost zero for diabetes patients. (3) External inputs are considered, e.g., oral glucose is theoretically observable for nondiabetic patients, but estimation scenarios show that the time delay of 1 h limits application.
-
-A real-time estimation of states (such as plasma insulin I) and parameters (such as k(G2)) is possible, which allows an improved real-time state prediction and a personalized model.
-

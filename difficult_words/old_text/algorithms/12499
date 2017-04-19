@@ -1,7 +1,0 @@
-
-Approximate methods for estimating nonsynonymous and synonymous substitution rates (Ka and Ks) among protein-coding sequences have adopted different mutation (substitution) models. In the past two decades, several methods have been proposed but they have not considered unequal transitional substitutions (between the two purines, A and G, or the two pyrimidines, T and C) that become apparent when sequences data to be compared are vast and significantly diverged.
-
-We propose a new method (MYN), a modified version of the Yang-Nielsen algorithm (YN), for evolutionary analysis of protein-coding sequences in general. MYN adopts the Tamura-Nei Model that considers the difference among rates of transitional and transversional substitutions as well as factors in codon frequency bias. We evaluate the performance of MYN by comparing to other methods, especially to YN, and to show that MYN has minimal deviations when parameters vary within normal ranges defined by empirical data.
-
-Our comparative results deriving from consistency analysis, computer simulations and authentic datasets, indicate that ignoring unequal transitional rates may lead to serious biases and that MYN performs well in most of the tested cases. These results also suggest that acquisitions of reliable synonymous and nonsynonymous substitution rates primarily depend on less biased estimates of transition/transversion rate ratio.
-

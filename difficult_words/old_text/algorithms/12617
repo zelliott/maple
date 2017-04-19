@@ -1,9 +1,0 @@
-
-The objective of this work was to determine the clinical accuracy of GlucoMen®Day, a new microdialysis-based continuous glucose monitoring system (CGMS) from A. Menarini Diagnostics (Florence, Italy). Accuracy evaluation was performed using continuous glucose-error grid analysis (CG-EGA), as recommended by the Performance Metrics for Continuous Interstitial Glucose Monitoring; Approved Guideline (POCT05-A).
-
-Two independent clinical trials were carried out on patients with types 1 and 2 diabetes mellitus, the glycemic levels of whom were monitored in an in-home setting for 100-hour periods. A new multiparametric algorithm was developed and used to compensate in real-time the GlucoMen®Day signal. The time lag between continuous glucose monitoring (CGM) and reference data was first estimated using the Poincaré plot method. The entire set of CGM/reference data pairs was then evaluated following the CG-EGA criteria, which allowed an estimation of the combined point and rate accuracy stratified by glycemic ranges.
-
-With an estimated time lag of 11 minutes, the linear regression analysis of the CGM/reference glucose values yielded r = 0.92. The mean absolute error (MAE) was 11.4 mg/dl. The calculated mean absolute rate deviation (MARD) was 0.63 mg/dl/min. The data points falling within the A+B zones of CG-EGA were 100% in hypoglycemia, 95.7% in euglycemia, and 95.2% in hyperglycemia.
-
-The GlucoMen®Day system provided reliable, real-time measurement of subcutaneous glucose levels in patients with diabetes for up to 100 hours. The device showed the ability to follow rapid glycemic excursions and detect severe hypoglycemic events accurately. Its accuracy parameters fitted the criteria of the state-of-the-art consensus guideline for CGMS, with highly consistent results from two independent studies.
-

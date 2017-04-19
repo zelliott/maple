@@ -1,3 +1,0 @@
-
-Aligned sequences from the same family (e.g. the haemoglobins) are seldom representative of the entire family. This is because (1) the sequence databases are heavily skewed toward a small number of organisms and (2) only a minute fraction of all the different family members have been sequenced. For many applications, such as using alignments or profiles to perform database searches for distantly related family members, such unequal representation requires correction. An algorithm to perform appropriate weighting of individual sequences is presented along with examples illustrating its efficacy.
-

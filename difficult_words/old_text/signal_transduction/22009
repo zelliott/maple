@@ -1,3 +1,0 @@
-
-Regulation of protein phosphorylation plays an important role in many cellular processes, particularly in signal transduction. Diseases such as cancer and inflammation are often linked to aberrant signaling pathways. Mass spectrometry-based methods allow monitoring the phosphorylation status in an unbiased and quantitative manner. The analysis of this data requires the application of advanced statistical methods, some of which can be borrowed from the gene expression analysis field. Nevertheless, these methods have to be enhanced or complemented by new methods. After reviewing the key concepts of phosphoproteomics and some major data analysis methods, these tools are applied to a real-world data set.
-

@@ -1,3 +1,0 @@
-
-This report describes a compartmental absorption and transit model to estimate the fraction of dose absorbed and the rate of drug absorption for passively transported drugs in immediate release products. The model considers simultaneous small intestinal transit flow and drug absorption. Both analytical and numerical methods were utilized to solve the model equations. It was found that the fraction of dose absorbed can be estimated by F(a) = 1-(1+0.54 P(eff))(-7), where P(eff) is the human effective permeability in cm/h. A good correlation was found between the fraction of dose absorbed and the effective permeability for ten drugs covering a wide range of absorption characteristics. The model was able to explain the oral plasma concentration profiles of atenolol.
-

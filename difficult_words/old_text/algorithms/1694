@@ -1,3 +1,0 @@
-
-This paper aims to investigate the synchronization problem of coupled dynamical networks with nonidentical Duffing-type oscillators without or with coupling delays. Different from cluster synchronization of nonidentical dynamical networks in the previous literature, this paper focuses on the problem of complete synchronization, which is more challenging than cluster synchronization. By applying an impulsive controller, some sufficient criteria are obtained for complete synchronization of the coupled dynamical networks of nonidentical oscillators. Furthermore, numerical simulations are given to verify the theoretical results.
-

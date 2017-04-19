@@ -1,5 +1,0 @@
-
-Multi-series time-course microarray experiments are useful approaches for exploring biological processes. In this type of experiments, the researcher is frequently interested in studying gene expression changes along time and in evaluating trend differences between the various experimental groups. The large amount of data, multiplicity of experimental conditions and the dynamic nature of the experiments poses great challenges to data analysis.
-
-In this work, we propose a statistical procedure to identify genes that show different gene expression profiles across analytical groups in time-course experiments. The method is a two-regression step approach where the experimental groups are identified by dummy variables. The procedure first adjusts a global regression model with all the defined variables to identify differentially expressed genes, and in second a variable selection strategy is applied to study differences between groups and to find statistically significant different profiles. The methodology is illustrated on both a real and a simulated microarray dataset.
-

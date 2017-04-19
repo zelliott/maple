@@ -1,3 +1,0 @@
-
-The purpose of this article is to present alternative parameterizations of scalar and non-scalar sexlimitation models in the Mx matrix algebra program (Neale et al., 2002). These models are designed for use with extended pedigrees and take advantage of the dynamic treatment of covariates within Mx. Example scripts are provided.
-

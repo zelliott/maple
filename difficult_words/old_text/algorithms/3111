@@ -1,3 +1,0 @@
-
-Protein structures have proven to be a crucial piece of information for biomedical research. Of the millions of currently sequenced proteins only a small fraction is experimentally solved for structure and the only feasible way to bridge the gap between sequence and structure data is computational modeling. Half a century has passed since it was shown that the amino acid sequence of a protein determines its shape, but a method to translate the sequence code reliably into the 3D structure still remains to be developed. This review summarizes modern protein structure prediction techniques with the emphasis on comparative modeling, and describes the recent advances in methods for theoretical model quality assessment.
-

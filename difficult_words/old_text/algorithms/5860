@@ -1,3 +1,0 @@
-
-Heartbeats are a point process yet, most of the current analysis methods do not model this important characteristic of these data. We describe human heartbeat time series as a history dependent inverse Gaussian model. We present a point process adaptive filter algorithm to estimate the model's time-varying parameters, and use it to compute new measures of heart rate variability. We apply our algorithm to analyze simulated heartbeat data and actual heartbeat data from a tilt table experiment and from healthy subjects and subjects with congestive heart failure during sleep. Our results suggest a new approach for characterizing heartbeat dynamics.
-

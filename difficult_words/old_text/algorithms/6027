@@ -1,3 +1,0 @@
-
-In this paper, we study nonlinear Kramers problem by investigating overdamped systems ruled by the one-dimensional nonlinear Fokker-Planck equation. We obtain an analytic expression for the Kramers escape rate under quasistationary conditions by employing a metastable potential and its predictions are in excellent agreement with numerical simulations. The results exhibit the anomalies due to the nonlinearity in W that the escape rate grows with D and drops as mu becomes large at a fixed D. Indeed, particles in the subdiffusive media (mu>1) can escape over the barrier only when D is above a critical value, while this confinement does not exist in the superdiffusive media (mu<1).
-

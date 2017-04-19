@@ -1,3 +1,0 @@
-
-A fast AAM search algorithm based on canonical correlation analysis (CCA-AAM) is introduced. It efficiently models the dependency between texture residuals and model parameters during search. Experiments show that CCA-AAMs, while requiring similar implementation effort, consistently outperform standard search with regard to convergence speed by a factor of four.
-

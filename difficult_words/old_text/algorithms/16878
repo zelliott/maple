@@ -1,3 +1,0 @@
-
-For stochastic multi-objective combinatorial optimization (SMOCO) problems, the adaptive Pareto sampling (APS) framework has been proposed, which is based on sampling and on the solution of deterministic multi-objective subproblems. We show that when plugging in the well-known simple evolutionary multi-objective optimizer (SEMO) as a subprocedure into APS, ε-dominance has to be used to achieve fast convergence to the Pareto front. Two general theorems are presented indicating how runtime complexity results for APS can be derived from corresponding results for SEMO. This may be a starting point for the runtime analysis of evolutionary SMOCO algorithms.
-

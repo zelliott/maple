@@ -1,3 +1,0 @@
-
-A fast continuous rotating ultrasound scan-head transducer was used to perform three-dimensional (3-D) echocardiography with 2-D images acquired during a single cardiac cycle. The 3-D images were reconstructed by interpolating 2-D data acquired with the probe. Two experiments were carried out to validate the image reconstructions. A dynamic cardiac phantom was used as a known reference to compare the minimal and maximal volumes estimated manually on the reconstructed 3-D images. The left ventricle (LV) volume of 30 healthy volunteers also were estimated using a semiautomatic ellipse approach and compared to measurements obtained with standard 2-D examination. Results showed a good agreement between 3-D and reference measurements.
-

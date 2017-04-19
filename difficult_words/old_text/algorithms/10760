@@ -1,9 +1,0 @@
-
-Tight glucose control by intensive insulin therapy has become a key part of critical care and is an important field of study in acute coronary care. A balance has to be found between frequency of measurements and the risk of hypoglycemia. Current nurse-driven protocols are paper-based and, therefore, rely on simple rules. For safety and efficiency a computer decision support system that employs complex logic may be superior to paper protocols.
-
-We designed and implemented GRIP, a stand-alone Java computer program. Our implementation of GRIP will be released as free software. Blood glucose values measured by a point-of-care analyzer were automatically retrieved from the central laboratory database. Additional clinical information was asked from the nurse and the program subsequently advised a new insulin pump rate and glucose sampling interval.
-
-Implementation of the computer program was uneventful and successful. GRIP treated 179 patients for a total of 957 patient-days. Severe hypoglycemia (< 2.2 mmol/L) only occurred once due to human error. With a median (IQR) of 4.9 (4.2-6.2) glucose measurements per day the median percentage of time in which glucose fell in the target range was 78%. Nurses rated the program as easy to work with and as an improvement over the preceding paper protocol. They reported no increase in time spent on glucose control.
-
-A computer driven protocol is a safe and effective means of glucose control at a surgical ICU. Future improvements in the recommendation algorithm may further improve safety and efficiency.
-

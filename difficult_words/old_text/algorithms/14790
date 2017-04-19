@@ -1,3 +1,0 @@
-
-In this paper we propose an energy-efficient object tracking algorithm in wireless sensor networks (WSNs). Such sensor networks have to be designed to achieve energy-efficient object tracking for any given arbitrary topology. We consider in particular the bi-directional moving objects with given frequencies for each pair of sensor nodes and link transmission cost. This problem is formulated as a 0/1 integer-programming problem. A Lagrangean relaxation-based (LR-based) heuristic algorithm is proposed for solving the optimization problem. Experimental results showed that the proposed algorithm achieves near optimization in energy-efficient object tracking. Furthermore, the algorithm is very efficient and scalable in terms of the solution time.
-

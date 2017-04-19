@@ -1,3 +1,0 @@
-
-An approach to protein design is proposed based on the relative entropy and a reduced amino acid alphabet. In this approach, the relative entropy is used as a minimization object function. The method has been tested on a real protein's off-lattice model successfully, and the results are similar to those obtained from other design studies. It can be applied as a uniform frame for both folding and inverse folding of protein. An iterative calculation method of the ensemble average of the contact strength is proposed at the same time.
-

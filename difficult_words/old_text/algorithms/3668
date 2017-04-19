@@ -1,7 +1,0 @@
-
-Tandem repeats consist in approximate and adjacent repetitions of a DNA motif. Such repeats account for large portions of eukaryotic genomes and have also been found in other life kingdoms. Owing to their polymorphism, tandem repeats have proven useful in genome cartography, forensic and population studies, etc. Nevertheless, they are not systematically detected nor annotated in genome projects. Partially because of this lack of data, their evolution is still poorly understood.
-
-In this work, we design an exact algorithm to locate approximate tandem repeats (ATR) of a motif in a DNA sequence. Given a motif and a DNA sequence, our method named STAR, identifies all segments of the sequence that correspond to significant approximate tandem repetitions of the motif. In our model, an Exact Tandem Repeat (ETR) comes from the tandem duplication of the motif and an ATR derives from an ETR by a series of point mutations. An ATR can then be encoded as a number of duplications of the motif together with a list of mutations. Consequently, any sequence that is not an ATR cannot be encoded efficiently by this description, while a true ATR can. Our method uses the minimum description length criterion to identify which sequence segments are ATR. Our optimization procedure guarantees that STAR finds a combination of ATR that minimizes this criterion.
-
-for use at http://atgc.lirmm.fr/star
-

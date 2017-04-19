@@ -1,7 +1,0 @@
-
-It is increasingly recognized that protein functions often require intricate conformational dynamics, which involves a network of key amino acid residues that couple spatially separated functional sites. Tremendous efforts have been made to identify these key residues by experimental and computational means.
-
-We have performed a large-scale evaluation of the predictions of dynamically important residues by a variety of computational protocols including three based on the perturbation and correlation analysis of a coarse-grained elastic model. This study is performed for two lists of test cases with >500 pairs of protein structures. The dynamically important residues predicted by the perturbation and correlation analysis are found to be strongly or moderately conserved in >67% of test cases. They form a sparse network of residues which are clustered both in 3D space and along protein sequence. Their overall conservation is attributed to their dynamic role rather than ligand binding or high network connectivity.
-
-By modeling how the protein structural fluctuations respond to residue-position-specific perturbations, our highly efficient perturbation and correlation analysis can be used to dissect the functional conformational changes in various proteins with a residue level of detail. The predictions of dynamically important residues serve as promising targets for mutational and functional studies.
-

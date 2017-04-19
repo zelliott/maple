@@ -1,5 +1,0 @@
-
-The Heart and Calcium functional Network (HCNet) database is a collection of functional gene modules calculated from the microarray data compendium available from the GEO database. It is a specialized database designed to assist experimentalists for cardiac calcium signaling research by providing the pre-calculated gene clusters and their potential correlation network in heart. In the current release of HCNet, 57 functional modules from 786 target genes obtained by a bi-clustering analysis of 381 microarray datasets are available. Detailed information of the clusters such as expression profiles, network diagrams is provided in two categories, heart-specific genes and heart-specific genes along with calcium toolkit genes. Overrepresented gene ontological categories and transcription factors in each cluster are also provided to infer the biological implications of the detected functional modules.
-
-HCNet is available at http://sbrg2.gist.ac.kr/hcnet.
-

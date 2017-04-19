@@ -1,9 +1,0 @@
-
-To produce and test an algorithm to automatically quantify natural occlusal caries lesions in micro-computed tomography (micro-CT) scans of human teeth.
-
-The algorithm presented divides the occlusal surface into regions of enamel and dentine by looking for sharp increases and decreases in radiopacity characteristic of step changes between materials. The accuracy of an automatic occlusal caries assessment based on these regions is assessed against serial histological assessment and manual examination of the same micro-CT images, using data from 68 previously scanned and sectioned teeth with varying levels of natural occlusal caries.
-
-Only three teeth were found to be free of caries by histology. The results of the automated analysis correlate well with histological assessment with a ρ of 0.80 (p < 0.001), and with manual CT assessment with a ρ of 0.85 (p < 0.001). The depth of dentine lesions correlated with histology with an intra-class correlation coefficient of 0.82 (p < 0.001; N = 45) and with manual assessment with an ICC of 0.93 (p < 0.001; N = 39). Micro-CT is found to generally underestimate caries compared to histological assessment.
-
-The algorithm presented can successfully segment micro-CT scans into occlusal enamel and dentine regions, and the results show that the depths of dentine caries lesions can be accurately and objectively measured automatically using micro-CT. However, if enamel caries is to be accurately assessed by a computer, better scans will be required than those used here.
-

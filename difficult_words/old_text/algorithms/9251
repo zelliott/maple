@@ -1,3 +1,0 @@
-
-Different potential energy functions have predominated in protein dynamics simulations, protein design calculations, and protein structure prediction. Clearly, the same physics applies in all three cases. The differences in potential energy functions reflect differences in how the calculations are performed. With improvements in computer power and algorithms, the same potential energy function should be applicable to all three problems. In this review, we examine energy functions currently used for protein design, and look to the molecular mechanics field for advances that could be used in the next generation of design algorithms. In particular, we focus on improved models of the hydrophobic effect, polarization and hydrogen bonding.
-

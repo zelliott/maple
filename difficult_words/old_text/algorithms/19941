@@ -1,9 +1,0 @@
-
-To develop and internally validate a population pharmacokinetics model for cisplatin and assess its prediction capacity for personalising doses in cancer patients.
-
-Cisplatin plasma concentrations in forty-six cancer patients were used to determine the pharmacokinetic parameters of a two-compartment pharmacokinetic model implemented in NONMEN VI software. Pharmacokinetic parameter identification capacity was assessed using the parametric bootstrap method and the model was validated using the nonparametric bootstrap method and standardised visual and numerical predictive checks. The final model's prediction capacity was evaluated in terms of accuracy and precision during the first (a priori) and second (a posteriori) chemotherapy cycles.
-
-Mean population cisplatin clearance is 1.03 L/h with an interpatient variability of 78.0%. Estimated distribution volume at steady state was 48.3 L, with inter- and intrapatient variabilities of 31,3% and 11,7%, respectively. Internal validation confirmed that the population pharmacokinetics model is appropriate to describe changes over time in cisplatin plasma concentrations, as well as its variability in the study population. The accuracy and precision of a posteriori prediction of cisplatin concentrations improved by 21% and 54% compared to a priori prediction.
-
-The population pharmacokinetic model developed adequately described the changes in cisplatin plasma concentrations in cancer patients and can be used to optimise cisplatin dosing regimes accurately and precisely.
-

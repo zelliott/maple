@@ -1,9 +1,0 @@
-
-Although public reporting of hospital and physician performance is a cornerstone of the effort to improve health care quality, the optimal approach to risk adjustment is unknown.
-
-We sought to assess hospital quality using a matching algorithm based on a generalized distance metric and to compare this approach to the more traditional regression-based approach. DESIGN/ DATA SOURCE: This was a retrospective study using the New York State (NYS) Coronary Artery Bypass Surgery Reporting System (CSRS), focusing on all patients undergoing isolated CABG surgery in NYS who were discharged in 1999 (18,116 patients). Patients from specific hospital were matched to a control group using the Mahalanobis distance. The hospitals' expected mortality rate was calculated in 2 ways: (1) as the mortality rate of the control group or (2) as the mortality rate predicted by the NYS CABG model. Hospitals whose observed mortality rate was significantly different from their expected mortality rate (OE difference) were defined as quality outliers.
-
-The 2 risk-adjustment methodologies disagreed on the outlier status of 4 of the 33 hospitals. Kappa analysis demonstrated substantial agreement between these 2 methods for identifying quality outliers: kappa = 0.61. There was excellent agreement between the point estimates of the OE difference obtained using these 2 risk adjustment methodologies.
-
-Basing outcome assessment on either matching or regression modeling yielded similar findings on hospital ranking but only moderate level of agreement on hospital quality. The use of matching may enhance the transparency and acceptance of outcome report cards by hospitals and physicians.
-

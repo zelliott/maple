@@ -1,5 +1,0 @@
-
-With the availability of whole genome sequence in many species, linkage analysis, positional cloning and microarray are gradually becoming powerful tools for investigating the links between phenotype and genotype or genes. However, in these methods, causative genes underlying a quantitative trait locus, or a disease, are usually located within a large genomic region or a large set of genes. Examining the function of every gene is very time consuming and needs to retrieve and integrate the information from multiple databases or genome resources. PGMapper is a software tool for automatically matching phenotype to genes from a defined genome region or a group of given genes by combining the mapping information from the Ensembl database and gene function information from the OMIM and PubMed databases. PGMapper is currently available for candidate gene search of human, mouse, rat, zebrafish and 12 other species.
-
-Available online at http://www.genediscovery.org/pgmapper/index.jsp.
-

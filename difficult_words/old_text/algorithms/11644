@@ -1,5 +1,0 @@
-
-It is widely recognized that the hybridization process is prone to errors and that the future of DNA sequencing by hybridization is predicated on the ability to successfully cope with such errors. However, the occurrence of hybridization errors results in the computational difficulty of the reconstruction of DNA sequencing by hybridization. The reconstruction problem of DNA sequencing by hybridization with errors is a strongly NP-hard problem. So far the problem has not been solved well.
-
-In this paper, a new approach is presented to solve the reconstruction problem of DNA sequencing by hybridization, which realizes the computational part of the SBH experiment. The proposed algorithm accepts both the negative and positive errors. The computational experiments show that the algorithm behaves satisfactorily, especially for the case with k-tuple repetitions and positive errors.
-

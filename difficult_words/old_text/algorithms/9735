@@ -1,7 +1,0 @@
-
-A large share of the information in electronic medical records (EMRs) consists of free-text compositions. From a computational point-of-view, the continuing prevalence of free-text entry is a major hindrance when the goal is to increase automation in EMRs. However, the efforts in developing standards for the structured representation of medical information have not proven to be a panacea. The information space of clinical medicine is very diverse and constantly evolving, making it challenging to develop standards for the domain. This paper reports a study aiming to increase automation in the EMR through the computational understanding of specific class of medical text in English, namely emergency department chief complaints.
-
-We apply domain-specific analytical modeling for the computational understanding of chief complaints. We evaluate the performance of this approach in the automatic classification of chief complaints, e.g., for use in automatic syndromic surveillance.
-
-The evaluation in a multi-hospital setting showed that the presented algorithm was accurate in terms of classification correctness. Also, use of approximate matching in the algorithm to cope with typographic variance did not affect classification correctness while increasing classification completeness.
-

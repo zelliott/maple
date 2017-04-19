@@ -1,3 +1,0 @@
-
-A technique to reduce metallic implant artifacts on computed tomography scans is presented. The implant boundaries are determined semiautomatically; the missing projection data are replaced by linear interpolation. The complete procedure requires 1-2 minutes per scan. Images with greatly improved quality were obtained in the presence of surgical clips and pelvic implants; success is limited in highly structured regions, such as the facial skull.
-

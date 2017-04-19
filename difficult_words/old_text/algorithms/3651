@@ -1,5 +1,0 @@
-
-We describe two new Generalized Hidden Markov Model implementations for ab initio eukaryotic gene prediction. The C/C++ source code for both is available as open source and is highly reusable due to their modular and extensible architectures. Unlike most of the currently available gene-finders, the programs are re-trainable by the end user. They are also re-configurable and include several types of probabilistic submodels which can be independently combined, such as Maximal Dependence Decomposition trees and interpolated Markov models. Both programs have been used at TIGR for the annotation of the Aspergillus fumigatus and Toxoplasma gondii genomes.
-
-Source code and documentation are available under the open source Artistic License from http://www.tigr.org/software/pirate
-

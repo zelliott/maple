@@ -1,3 +1,0 @@
-
-Most current linkage analyses assume identical fractions of meiotic recombination between homologous marker loci of the two sexes. This assumption is not realistic, because considerable sex-related differences have been observed in recombination fraction. In this paper, a general EM-based algorithm is presented to estimate sex-specific recombination fractions for a mixed set of molecular markers segregating differently in a full-sib family derived from two heterozygous parents. The asymptotic variances of the estimates of linkage specifically for each of the parents are evaluated using a numerical analysis based on information functions. This approach will have important implications for precise gene mapping based on sex-specific linkage maps.
-

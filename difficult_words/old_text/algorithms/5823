@@ -1,9 +1,0 @@
-
-To develop an image analysis method that can automatically find correlations between a set of plain radiographs and continuous clinical or physiological indicators.
-
-Knee X-rays taken from the Baltimore Longitudinal Study of Aging are used in this study. The computer analysis method is based on the WND-CHARM image feature set filtered by using the Pearson correlation of each feature with the continuous variable, and the estimated value is determined by a weighted nearest neighbor interpolation.
-
-Experimental results using 300 radiographs show that the proposed method can correlate knee X-rays with physiological indicators such as sex, age, height, weight, and BMI. For instance, the Pearson correlation between the X-ray images and the height and weight were 0.59 and 0.62, respectively.
-
-Using computer analysis, X-ray images can be correlated to continuous physiological variables that might not have a direct and straightforward link to the visual content of the radiograph. This approach of radiology image analysis can be used in population studies for detecting biomarkers and also in genome-wide association studies for studying the link between genes and anatomy.
-

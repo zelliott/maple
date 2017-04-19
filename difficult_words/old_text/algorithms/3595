@@ -1,9 +1,0 @@
-
-This study aimed to determine whether the preoperative risk stratification model EuroSCORE predicts the different components of resource utilization in open heart surgery.
-
-Data for all adult patients undergoing heart surgery at the University Hospital of Lund, Sweden, between 1999 and 2002 were prospectively collected. Costs were calculated for the surgery and intensive care and ward stay for each patient (excluding transplant cases and patients who died intraoperatively). Regression analysis was applied to evaluate the correlation between EuroSCORE and costs. The predictive accuracy for prolonged postoperative intensive care unit (ICU) stay was assessed by the Hosmer-Lemeshow goodness-of-fit test. The discriminatory power was evaluated by calculating the areas under receiver operating characteristics curves.
-
-The study included 3,404 patients. The mean cost for the surgery was 7,300 dollars, in the ICU 3,746 dollars, and in the ward 3,500 dollars. Total cost was significantly correlated with EuroSCORE, with a correlation coefficient of 0.47 (p < 0.0001); the correlation coefficient was 0.31 for the surgery cost, 0.46 for the ICU cost, and 0.11 for the ward cost. The Hosmer-Lemeshow p value for EuroSCORE prediction of more than 2 days' stay in the ICU was 0.40, indicating good accuracy. The area under the receiver operating characteristics curve was 0.78. The probability of an ICU stay exceeding 2 days was more than 50% at a EuroSCORE of 14 or more.
-
-In this single-institution study, the additive EuroSCORE algorithm could be used to predict ICU cost and also an ICU stay of more than 2 days after open heart surgery.
-

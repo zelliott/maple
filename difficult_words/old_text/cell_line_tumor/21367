@@ -1,9 +1,0 @@
-
-To construct a recombinant lentiviral U6 plasmids for RNA interference (RNAi) of galectin-3 gene and select the optimal target sequence of galectin-3 gene for RNAi.
-
-Double-stranded oligo DNAs were designed and synthesized according to the sequence of galectin-3 gene, and ligated into linearized pGCL-GFP/U6 plasmid followed by transformation into competent DH5alpha cells. After PCR and sequence analysis for verification of the positive clones, the plasmid pGCL-GFP/U6 Gal-3shRNA-1 was extracted and transfected into CaCl2-treated 293T cells to obtain the viral vectors containing the RNAi sequence. MCF-7 cells were infected with pGCL-GFP/U6 Gal-3shDNA-1, and at the infection rate over 50%, the cells were harvested to extract the RNA. Real time-PCR was performed to determine the expression level of galectin-3 mRNA in the infected cells.
-
-The recombinant vector was successfully constructed as confirmed by sequence analysis. High titer of the virus was obtained, and after infection of MCF-7 cells, RNAi targeting the 1# and 3# sequences in galectin-3 gene resulted in suppression of galectin-3 mRNA expression by 95% and 85%, respectively.
-
-The recombinant lentiviral U6 plasmid for RNAi of Galectin-3 gene has been successfully constructed, which provides the basis for further study of the role of galectin-3 gene in tumor cells.
-

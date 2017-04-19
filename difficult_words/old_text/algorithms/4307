@@ -1,3 +1,0 @@
-
-We describe novel computer algorithms for rapid, sometimes virtually instantaneous generation of trial sequences needed to instrument many behavioral research procedures. Implemented on typical desktop or laptop computers, the algorithms impose constraints to forestall development of undesired stimulus control by position, recent trial outcomes, and other variables that could impede simple and conditional discrimination learning. They yield trial-by-trial lists of sequences that can serve (1) as inputs to procedure control software or (2) in generating templates for constructing sessions for implementation by hand or machine.
-

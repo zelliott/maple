@@ -1,3 +1,0 @@
-
-This paper describes a freely available software suite that allows the modelling of large conformational changes of high-resolution three-dimensional protein structures under the constraint of a low-resolution electron-density map. Typical applications are the interpretation of electron-microscopy data using atomic scale X-ray structural models. The software package provided should enable the interested user to perform flexible fitting on new cases without encountering major technical difficulties. The NORMA software suite including three fully executable reference cases and extensive user instructions are available at http://www.elnemo.org/NORMA/.
-

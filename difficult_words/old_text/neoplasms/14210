@@ -1,3 +1,0 @@
-
-Most high-throughput methods which are used in molecular biology generate gene lists. Interpreting large gene lists can reveal mechanistic insights and generate useful testable hypotheses. The process can be cumbersome and challenging. Multiple commercial and open solution currently exist that can aid researchers in the functional annotation of gene lists. The process of gene set annotation includes dataset preparation, which is method specific, gene list annotation and analysis and interpretation of the significant associations that were found. In this chapter, we demonstrate how WebGestalt can be applied to gene lists generated from transcriptional profiling data.
-

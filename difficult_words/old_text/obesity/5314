@@ -1,9 +1,0 @@
-
-To develop a standard weight descriptor that can be used for estimation of patient size for obese patients.
-
-Data were available from 3849 patients: 2839 from oncology patients (index data set) and 1010 from general medical patients (validation data set). The patients had a wide range of age (16-100 years), weight (25-165 kg) and body mass index (BMI) [12-52 kg/m2] in both data sets. From the normal-weight patients in the oncology data set, an equation for male and female patients was developed to predict their normal weight as the sum of the lean body mass and normal fat body mass. The equations were evaluated by predicting the weight of patients in the general medical data set who had a normal BMI (&<5 kg/m2). In addition, the clinical utility of the predicted normal weight (PNWT) descriptor was assessed by (i) comparing body surface area and allometric scaling calculations based on actual weight of obese patients versus PNWT; and (ii) comparing the predictive performance of creatinine clearance using the Cockcroft and Gault equation when using actual weight of obese patients versus PNWT to predict gentamicin clearance.
-
-The PNWT equations developed from the oncology data set predicted accurately the actual weight of normal weighted (BMI &<5 kg/m2) general medical patients (R2 = 0.968 men, R2 = 0.946 women). Using actual weight when computing body surface area and when allometric scaling for obese patients results in significant overestimation of patient size, especially for female patients and those with BMIs&>35 kg/m2. The use of PNWT in the Cockcroft and Gault equation provided better predictions of gentamicin clearance than when using actual weight.
-
-A standard weight descriptor has been developed that can be used in dosing algorithms for patients who are obese (BMI&>30 kg/m2).
-

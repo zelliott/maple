@@ -1,3 +1,0 @@
-
-In this paper, an automated sorter is proposed for distinguishing polypropylene (PP) plastics based on their color. This sorting system uses visible (VIS) reflectance spectroscopy to separate PP resins according to their colors. A "Three-Filter" identification algorithm was developed to recognize the PP color (blue, red, green, white or yellow), and accordingly, give the command for throwing or not throwing PP to a series of electro pneumatic valves. The proposed sorting system was demonstrated to be fast and accurate, despite the presence of different labels and surface contamination on the PP resins.
-

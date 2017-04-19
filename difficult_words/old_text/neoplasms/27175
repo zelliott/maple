@@ -1,3 +1,0 @@
-
-In this paper we introduce a new growth model called T growth model. This model is capable of representing sigmoidal growth as well as biphasic growth. This dual capability is achieved without introducing additional parameters. The T model is useful in modeling cellular proliferation or regression of cancer cells, stem cells, bacterial growth and drug dose-response relationships. We recommend usage of the T growth model for the growth of tumors as part of any system of differential equations. Use of this model within a system will allow more flexibility in representing the natural rate of tumor growth. For illustration, we examine some systems of tumor-immune interaction in which the T growth rate is applied. We also apply the model to a set of tumor growth data.
-

@@ -1,3 +1,0 @@
-
-We propose an integrated tree-based approach for prognostic grouping of localized melanoma patients. This approach incorporates the survival tree model with the agglomerative hierarchical clustering to group terminal subgroups with similar prognoses together. The Brier score is used to evaluate the goodness of fit and the k-fold cross-validation test is used to evaluate the reproducibility of the scheme for prediction. The proposed approach is applied to an American Joint Committee on Cancer (AJCC) localized melanoma data set and compared with the current AJCC staging system. This approach performs more efficiently than the standard tree methods and has made improvement over the current AJCC melanoma staging system.
-

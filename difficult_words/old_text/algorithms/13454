@@ -1,9 +1,0 @@
-
-Glaucoma is an important disease, the impacts of which on vision have been shown to have implications for patients' health-related quality of life (HRQoL). The primary aim of this study is to estimate a mapping algorithm to predict EQ-5D and SF-6D utility values based on the vision-specific measure, the 25-item Visual Functioning Questionnaire (VFQ-25), as well as the clinical measures of visual function, that is, integrated visual field, visual acuity, and contrast sensitivity.
-
-Ordinary least squares (OLS), Tobit, and censored least absolute deviations were compared using data taken from the Moorfields Eye Hospital in London, to assess mapping functions to predict the EQ-5D and SF-6D from the VFQ-25, and tests of visual function. These models were compared using root mean square error (RMSE), R(2), and mean absolute error (MAE).
-
-OLS was the best-performing model of the three compared, as this produced the lowest RMSE and MAE, and the highest R(2).
-
-The models provided initial algorithms to convert the VFQ-25 to the EQ-5D and SF-6D. Further analysis would be needed to validate the models or algorithms.
-

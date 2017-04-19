@@ -1,9 +1,0 @@
-
-Multiresolution analysis (MRA) offers a useful framework for signal analysis in the temporal and spectral domains, although commonly employed MRA methods may not be the best approach for brain computer interface (BCI) applications. This study aims to develop a new MRA system for extracting tempo-spatial-spectral features for BCI applications based on wavelet lifting over graphs.
-
-This paper proposes a new graph-based transform for wavelet lifting and a tailored simple graph representation for electroencephalography (EEG) data, which results in an MRA system where temporal, spectral and spatial characteristics are used to extract motor imagery features from EEG data. The transformed data is processed within a simple experimental framework to test the classification performance of the new method.
-
-The proposed method can significantly improve the classification results obtained by various wavelet families using the same methodology. Preliminary results using common spatial patterns as feature extraction method show that we can achieve comparable classification accuracy to more sophisticated methodologies. From the analysis of the results we can obtain insights into the pattern development in the EEG data, which provide useful information for feature basis selection and thus for improving classification performance.
-
-Applying wavelet lifting over graphs is a new approach for handling BCI data. The inherent flexibility of the lifting scheme could lead to new approaches based on the hereby proposed method for further classification performance improvement.
-

@@ -1,9 +1,0 @@
-
-Filgrastim is a human granulocyte-colony stimulating factor (G-CSF). The biological activity of filgrastim is identical to that of endogenous G-CSF. It controls neutrophil production within the bone marrow by stimulating the proliferation, differentiation and survival of myeloid progenitor cells and some end-cell function activation. The purpose of this work is to propose a target-mediated drug disposition pharmacokinetic model of filgrastim.
-
-A mechanism-based population pharmacokinetic model was developed to account for receptor-mediated endocytosis as a mechanism for nonlinear disposition of G-CSF. Time profiles of serum filgrastim concentrations following subcutaneous doses of 2.5, 5 and 10 microg/kg and intravenous infusion of 5 microg/kg over 0.5 hour were studied. The pharmacokinetic model included first-order elimination from the serum, receptor binding, turnover of free receptors and internalization of drug-receptor complexes. The proposed target-mediated drug disposition models served as a tool to study drug absorption and the impact of receptor binding on filgrastim clearance.
-
-Filgrastim was found to exhibit parallel absorption with first- and zero-order kinetics and bioavailability of 69.1%. The majority of the drug (58.6%) was absorbed by zero-order processes, presumably through the lymphatic system. The equilibrium dissociation constant (K(d)) was estimated as 16.38 pM.
-
-The proposed model predicts that clearance is initially mostly governed by the binding of filgrastim to G-CSF receptors. Subsequently, the clearance slows down because of the saturation of binding sites, and occurs mostly via the linear (renal) pathway. Finally, for G-CSF concentrations lower than the K(d), target-mediated clearance dominates. The presented receptor-mediated model adequately describes filgrastim serum concentrations and quantifies the role of receptor binding in G-CSF clearance.
-

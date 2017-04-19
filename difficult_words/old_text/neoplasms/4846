@@ -1,9 +1,0 @@
-
-In vivo dosimetry measurements are accepted when the difference between measured and calculated dose is under 5%. A statistical analysis has been conducted to determine whether this tolerance matched the clinical practice for the studied localizations: pelvis, thorax, head and neck, breast.
-
-The technical characteristics of the detectors were checked before being used in clinical practice. Then an automatic statistical analysis was implemented using the 2450 in vivo dosimetry measurements obtained during 1 year.
-
-The global average is 1.10%, the standard deviation 2.46% and the percentage of out of level measurements 4.09%. By distinguishing the localizations, the 5% tolerance appeared to be too narrow for the breast localization.
-
-Several investigations were initiated to justify the modification of the tolerance for the breast localization. They highlighted an underestimation of the calculated dose when high beam angles are set: a new correction factor was defined to take account this error. A specific tolerance was also specified for the breast localization.
-

@@ -1,3 +1,0 @@
-
-In this paper, a computational goal for a monaural speech separation system is proposed. Since this goal is derived by maximizing the signal-to-noise ratio (SNR), it is called the optimal ratio mask (ORM). Under the approximate W-Disjoint Orthogonality assumption which almost always holds due to the sparse nature of speech, theoretical analysis shows that the ORM can improve the SNR about 10log(10)2 dB over the ideal ratio mask. With three kinds of real-world interference, the speech separation results of SNR gain and objective quality evaluation demonstrate the correctness of the theoretical analysis, and imply that the ORM achieves a better separation performance.
-

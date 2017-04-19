@@ -1,9 +1,0 @@
-
-To present a set of novel computerized analysis algorithms to construct a computer-aided cytologic diagnosis (CACD) system to differentiate lung cancer biomarkers and identify cancer cells in the tissue-based specimen images.
-
-Molecular methods, including application of cancer-specific markers, may prove to be complementary to cytology diagnosis, especially when they are combined with CACD system for biomarker assessment. We trained a novel CACD system to recognize expression of the cancer biomarkers histone H2AX in lung cancer cells and then tested the accuracy of this system to distinguish resected lung cancer from preneoplastic and normal tissues. The major characteristics of CACD algorithms is to adapt detection parameters according to cellular image contents. Our newly developed wavelet transform is able to adaptively select different resolution and orientation features based on image content requirements.
-
-Visual, statistical and quantitative results as CACD performance evaluation are presented in this paper.
-
-The presented algorithms and CACD system for cellular feature enhancement, segmentation and classification are very important in distinguishing benign and malignant lesions.
-

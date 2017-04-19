@@ -1,3 +1,0 @@
-
-The proposed registration algorithm based on wavelet transform is a multi-resolution block matching one, which exploits the hierarchical self-similarity of Digital Subtraction Angiography images. This method befittingly trades off between the estimation precision and computational complexity, because the registration precision is from coarse to fine, which reduces the searching complexity of motion vector. This technique has been proved that the convergence speed is exponential. The proposed method takes full advantage of the precise location both temporally and frequently which characterizes the wavelet transform. Both the matching speed and consistency are boosted without the loss of matching performance.
-

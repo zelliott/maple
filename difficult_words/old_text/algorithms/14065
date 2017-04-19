@@ -1,7 +1,0 @@
-
-Complete genome annotation is a necessary tool as Anopheles gambiae researchers probe the biology of this potent malaria vector.
-
-We reannotate the A. gambiae genome by synthesizing comparative and ab initio sets of predicted coding sequences (CDSs) into a single set using an exon-gene-union algorithm followed by an open-reading-frame-selection algorithm. The reannotation predicts 20,970 CDSs supported by at least two lines of evidence, and it lowers the proportion of CDSs lacking start and/or stop codons to only approximately 4%. The reannotated CDS set includes a set of 4,681 novel CDSs not represented in the Ensembl annotation but with EST support, and another set of 4,031 Ensembl-supported genes that undergo major structural and, therefore, probably functional changes in the reannotated set. The quality and accuracy of the reannotation was assessed by comparison with end sequences from 20,249 full-length cDNA clones, and evaluation of mass spectrometry peptide hit rates from an A. gambiae shotgun proteomic dataset confirms that the reannotated CDSs offer a high quality protein database for proteomics. We provide a functional proteomics annotation, ReAnoXcel, obtained by analysis of the new CDSs through the AnoXcel pipeline, which allows functional comparisons of the CDS sets within the same bioinformatic platform. CDS data are available for download.
-
-Comprehensive A. gambiae genome reannotation is achieved through a combination of comparative and ab initio gene prediction algorithms.
-

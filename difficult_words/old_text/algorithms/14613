@@ -1,3 +1,0 @@
-
-We present a novel approach to direct and control virtual crowds using navigation fields. Our method guides one or more agents toward desired goals based on guidance fields. The system allows the user to specify these fields by either sketching paths directly in the scene via an intuitive authoring interface or by importing motion flow fields extracted from crowd video footage. We propose a novel formulation to blend input guidance fields to create singularity-free, goal-directed navigation fields. Our method can be easily combined with the most current local collision avoidance methods and we use two such methods as examples to highlight the potential of our approach. We illustrate its performance on several simulation scenarios.
-

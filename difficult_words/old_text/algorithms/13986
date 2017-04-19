@@ -1,3 +1,0 @@
-
-This research is concentrated on the diagnosis of mitral heart valve stenosis through the analysis of Doppler Signals' AR power spectral density graphic with the help of ANN. Multilayer feedforward ANN trained with a Levenberg Marquart backpropagation algorithm was implemented in the MATLAB environment. Correct classification of 94% was achieved, whereas 4 false classifications have been observed for the test group of 68 subjects in total. The designed classification structure has about 97.3% sensitivity, 90.3% specifity and positive prediction is calculated to be 92.3%. The stated results show that the proposed method can make an effective interpretation.
-

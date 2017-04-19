@@ -1,3 +1,0 @@
-
-This paper describes a stack for the Apple Macintosh Hypercard environment that facilitates the calculation of a set of thermodynamically-corrected pH buffers. Presented in the familiar Macintosh mouse-based environment, the program allows comprehensive buffer design and gives the user full control of buffer species, temperature, ionic strength, pH and choice of counter-ion to maintain the ionic strength at a fixed value. Addition of new buffers to the stack is straightforward and the recipes that are generated, including the weights of the various components, can be displayed on the screen or saved to a disk file for subsequent printing.
-

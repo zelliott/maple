@@ -1,9 +1,0 @@
-
-To compare 12-channel and 32-channel phased-array coils and to determine the optimal parallel imaging (PI) technique and factor for brain perfusion imaging using Pulsed Arterial Spin labeling (PASL) at 3 Tesla (T).
-
-Twenty-seven healthy volunteers underwent 10 different PASL perfusion PICORE Q2TIPS scans at 3T using 12-channel and 32-channel coils without PI and with GRAPPA or mSENSE using factor 2. PI with factor 3 and 4 were used only with the 32-channel coil. Visual quality was assessed using four parameters. Quantitative analyses were performed using temporal noise, contrast-to-noise and signal-to-noise ratios (CNR, SNR).
-
-Compared with 12-channel acquisition, the scores for 32-channel acquisition were significantly higher for overall visual quality, lower for noise and higher for SNR and CNR. With the 32-channel coil, artifact compromise achieved the best score with PI factor 2. Noise increased, SNR and CNR decreased with PI factor. However mSENSE 2 scores were not always significantly different from acquisition without PI.
-
-For PASL at 3T, the 32-channel coil at 3T provided better quality than the 12-channel coil. With the 32-channel coil, mSENSE 2 seemed to offer the best compromise for decreasing artifacts without significantly reducing SNR, CNR.
-

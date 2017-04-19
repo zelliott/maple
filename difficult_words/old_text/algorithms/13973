@@ -1,5 +1,0 @@
-
-Phylogenetic trees constructed from molecular sequences contain information about the evolutionary or population dynamical processes that created them. Here we describe a computer package (End-Epi) that uses graphical methods to allow researchers to make inferences about these processes from their data. Statistical analyses can be performed to test the consistency of the data with various competing hypotheses.
-
-End-Epi can be obtained by WWW from http://evolve.zoo.ox.ac.uk/ and by anonymous FTP from ftp://evolve.zoo.ox.ac.uk/packages/End-Epi10.hqx. This file contains the compiled application, the manual and a test tree.
-

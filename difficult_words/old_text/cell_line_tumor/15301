@@ -1,9 +1,0 @@
-
-Glioblastomas, the most common and malignant brain tumors of the central nervous system, exhibit high invasive capacity, which hinders effective therapy. Therefore, intense efforts aimed at improved therapeutics are ongoing to delineate the molecular mechanisms governing glioma cell migration and invasion.
-
-In order to perform the studies, we employed optimal cell culture methods and hypoxic conditions, lentivirus-mediated knockdown of protein expression, Western Blot analysis, migration assays and immunoprecipitation. We determined statistical significance by unpaired t-test.
-
-In this report, we show that U87MG, LN229 and LN308 glioma cells express CXCR7 and that exposure to hypoxia upregulates CXCR7 protein expression in these cell lines. CXCR7-expressing U87MG, LN229 and LN308 glioma cells migrated towards stromal-derived factor (SDF)-1α/CXCL12 in hypoxic conditions in the Boyden chamber assays. While shRNA-mediated knockdown of CXCR7 expression did not affect the migration of any of the three cell lines in normoxic conditions, we observed a reduction in the migration of LN229 and LN308, but not U87MG, glioma cells towards SDF-1α in hypoxic conditions. In addition, knockdown of CXCR7 expression in LN229 and LN308 glioma cells decreased levels of SDF-1α-induced phosphorylation of ERK1/2 and Akt. Inhibiting CXCR4 in LN229 and LN308 glioma cells that were knocked down for CXCR7 did not further reduce migration towards SDF-1α in hypoxic conditions and did not affect the levels of phosphorylated ERK1/2 and Akt. Analysis of immunoprecipitated CXCR4 from LN229 and LN308 glioma cells revealed co-precipitated CXCR7.
-
-Taken together, our findings indicate that both CXCR4 and CXCR7 mediate glioma cell migration towards SDF-1α in hypoxic conditions and support the development of therapeutic agents targeting these receptors.
-

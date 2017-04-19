@@ -1,9 +1,0 @@
-
-To develop and evaluate a model for describing the S1 (S+) and S2 (S-) phase in the presence of off-resonance frequency fluctuations, and to evaluate the performance of a novel interleaved navigator echo scheme.
-
-Using the extended phase graph model, a linear phase term was added to the evolution of transverse states. An approximation for the total S2 phase was derived with one fit parameter τl, which serves as an effective lifetime of the S2 signal. The model was evaluated using synthetic and in vivo phase evolution data. In addition, a novel interleaved phase correction scheme for the nb-SSFP sequence was applied to BOLD-fMRI data, and the number of activated voxels before and after phase correction was determined.
-
-The phases of S1 and S2 signals are significantly different from each other. The proposed nb-SSFP phase model provided a good description of the measured phase evolution data, and the approximate model for the S2 phase provided both at good fit to the data, as well as an effective lifetime of the S2 signal. In some subjects the phase contribution from older pathways was underestimated. In the BOLD-fMRI data, a twofold increase of the number of activated voxels for the S2 signal was observed, compared to no correction and a conventional navigator echo method.
-
-The different phase evolution of S1 and S2 signals can be qualitatively described by the proposed model, and detrimental phase history effects are significant at 7 Tesla when not appropriately corrected.
-

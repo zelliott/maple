@@ -1,9 +1,0 @@
-
-The filtered backprojection is not able to cope with metal-induced inconsistencies in the Radon space which leads to artifacts in reconstructed CT images. A new algorithm is presented that reduces the drawbacks of existing artifact reduction strategies.
-
-Inconsistent projection data are bridged by directed interpolation. These projections are reconstructed using a weighted maximum likelihood algorithm (lambda-MLEM). The correlation coefficient between images of a torso phantom marked with steel markers reconstructed with lambda-MLEM and images of the same torso slice without markers quantifies the quality achieved. For clinical data, entropy maximization is presented to obtain appropriate weightings.
-
-Different interpolation strategies have been applied. The quality of reconstruction sensitively depends on the complexity of interpolation. A directional interpolation gives best results. However, the quality of the images can be further improved by an appropriate weighing within lambda-MLEM. This has been demonstrated with data from a torso phantom, a jaw with amalgam fillings and a hip prosthesis.
-
-lambda-MLEM image reconstruction using data from directional Radon space interpolation is a new approach for metal artifact reduction. The weighting in this statistical approach is used to reduce the influence of residual inconsistencies in a way that optimal artifact suppression is obtained by optimizing a compromise between residual inconsistencies and void data. The image quality is superior compared with other artifact reduction strategies.
-

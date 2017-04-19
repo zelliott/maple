@@ -1,7 +1,0 @@
-
-Parsimony methods are widely used in molecular evolution to estimate the most plausible phylogeny for a set of characters. Sankoff parsimony determines the minimum number of changes required in a given phylogeny when a cost is associated to transitions between character states. Although optimizations exist to reduce the computations in the number of taxa, the original algorithm takes time O(n(2)) in the number of states, making it impractical for large values of n.
-
-In this study we introduce an optimization of Sankoff parsimony for the reconstruction of ancestral states when ultrametric or additive cost matrices are used. We analyzed its performance for randomly generated matrices, Jukes-Cantor and Kimura's two-parameter models of DNA evolution, and in the reconstruction of elongation factor-1alpha and ancestral metabolic states of a group of eukaryotes, showing that in all cases the execution time is significantly less than with the original implementation.
-
-The algorithms here presented provide a fast computation of Sankoff parsimony for a given phylogeny. Problems where the number of states is large, such as reconstruction of ancestral metabolism, are particularly adequate for this optimization. Since we are reducing the computations required to calculate the parsimony cost of a single tree, our method can be combined with optimizations in the number of taxa that aim at finding the most parsimonious tree.
-

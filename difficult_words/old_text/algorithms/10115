@@ -1,9 +1,0 @@
-
-Design and implement a surveillance method for locating Aedes aegypti infestation foci with the use of larvae traps and spatial interpolation techniques, which facilitate the ongoing estimation of vector abundance in the area by counting the individuals collected in the study area.
-
-A total of 228 larvae traps were installed--at a rate of one per block--in the most densely populated area of commune five of Villavicencio (Meta). With regionalized information on larvae abundance, spatial interpolations were conducted with the Voronoi polygon, ordinary kriging, and inverse distance weighting techniques.
-
-An alternative method for the surveillance of dengue vectors is presented. This method is based on the use of larvae traps and spatial interpolation techniques to obtain area maps supported by specific observations.
-
-The results show that this strategy is better than the indices normally used, since it facilitates continuous visualization of the level of vector infestation and consequently, the risk of dengue transmission, based on the extent of A. aegypti infestation. Implementation of this strategy is expected to contribute to more effective planning, optimization, and evaluation of prevention and control activities.
-

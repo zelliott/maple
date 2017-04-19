@@ -1,9 +1,0 @@
-
-Artificial intelligence is an area where computer systems are used to solve real-life problems that require expert human intelligence. Expert systems serve as an effective alternative to supplement the dearth of human experts in a narrow domain of applications. We developed an expert system named SEIZ using DIAGNOS (an expert system shell for diagnostic applications) for the diagnosis and management of epilepsy.
-
-A clinical trial was done to test the reliability of SEIZ. The clinical and demographic data from the medical records of 50 patients with epilepsy who attended an epilepsy clinic were provided to the expert system. The system-generated diagnosis was compared with the clinical diagnosis.
-
-The seizure types and epileptic syndromes for the 50 patients included generalized -tonic-clonic seizure (14), absence (4), complex partial seizure (18), simple partial seizure (4), juvenile myoclonic epilepsy (5) and other epileptic syndromes (3). There were two cases of hysterical conversion reaction. There was concordance in the diagnosis between the expert system and clinician in 47 cases (94%). The overall sensitivity was 94% and the specificity was 100% for absence, generalized tonic-clonic seizures, simple partial seizures and juvenile myoclonic epilepsy; 94% for complex partial seizures and 98% for hysterical conversion reaction.
-
-This expert system could generate reliable diagnoses for patients with epilepsy. Such a system may be useful for a doctor in a remote or peripheral area where an expert on epilepsy is not available.
-

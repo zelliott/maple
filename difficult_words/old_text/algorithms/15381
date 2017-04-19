@@ -1,9 +1,0 @@
-
-Ultra-high field (UHF) neuroimaging is usually conducted with volume transmit (Tx) and phased array receive (Rx) coils, both tightly enclosing the object. The travelling-wave (TW) concept allows a remote excitation offering more flexible experimental setups. To investigate the feasibility of primate MRI in horizontal UHF MRI, we first compared the distribution of the electromagnetic fields in an oil phantom and then verified the concept with an in vivo experiment.
-
-In the phantom experiments an in-house circularly polarized hybrid birdcage coil and a self-developed patch antenna were used for Tx and an eight-element phased array antenna for Rx. B1+ fields were calculated and measured for both approaches. For in vivo experiments the Rx part was replaced with an optimized three-element phased array head coil. The SAR was calculated using field simulation.
-
-In the phantom the field distribution was homogenous in a central volume of interest of about 10 cm diameter. The TW concept showed a slightly better homogeneity. Examination of a female crab-eating macaque led to homogeneous high-contrast images with a good delineation of anatomical details.
-
-The TW concept opens up a new approach for MRI of medium-sized animals in horizontal UHF scanners.
-

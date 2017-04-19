@@ -1,9 +1,0 @@
-
-Disturbances in the myocardial extracellular volume fraction (ECV), such as diffuse or focal myocardial fibrosis or edema, are hallmarks of heart disease. Diffuse ECV changes are difficult to assess or quantify with cardiovascular magnetic resonance (CMR) using conventional late gadolinium enhancement (LGE), or pre- or post-contrast T1-mapping alone. ECV measurement circumvents factors that confound T1-weighted images or T1-maps, and has been shown to correlate well with diffuse myocardial fibrosis. The goal of this study was to develop and evaluate an automated method for producing a pixel-wise map of ECV that would be adequately robust for clinical work flow.
-
-ECV maps were automatically generated from T1-maps acquired pre- and post-contrast calibrated by blood hematocrit. The algorithm incorporates correction of respiratory motion that occurs due to insufficient breath-holding and due to misregistration between breath-holds, as well as automated identification of the blood pool. Images were visually scored on a 5-point scale from non-diagnostic (1) to excellent (5).
-
-The quality score of ECV maps was 4.23 ± 0.83 (m ± SD), scored for n=600 maps from 338 patients with 83% either excellent or good. Co-registration of the pre-and post-contrast images improved the image quality for ECV maps in 81% of the cases. ECV of normal myocardium was 25.4 ± 2.5% (m ± SD) using motion correction and co-registration values and was 31.5 ± 8.7% without motion correction and co-registration.
-
-Fully automated motion correction and co-registration of breath-holds significantly improve the quality of ECV maps, thus making the generation of ECV-maps feasible for clinical work flow.
-

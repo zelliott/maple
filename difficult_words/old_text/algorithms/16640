@@ -1,9 +1,0 @@
-
-Monitoring the effect of anesthetic drugs on the neural system is a major ongoing challenge for anesthetists. During the past few years, several electroencephalogram (EEG)-based methods such as the response entropy (RE) as implemented in the Datex-Ohmeda M-Entropy Module have been proposed. In this paper, sample entropy is used to quantify the predictability of EEG series, which could provide an index to show the effect of sevoflurane anesthesia. The dose-response relation of sample entropy is compared with that of RE.
-
-EEG data from 21 subjects is collected during the induction of general anesthesia with sevoflurane. The sample entropy is applied to the EEG recording. Pharmacokinetic-pharmacodynamic modeling and prediction probability statistic are used to evaluate the efficiency of sample entropy in comparison with RE.
-
-Both methods track the gross changes in EEG, especially the occurrence of burst-suppression pattern at high doses of anesthetics. However, our method produces faster reaction to transients in EEG during the induction of anesthesia as indicated from the pharmacokinetic and pharmacodynamic modeled parameters and analysis around the point of loss of consciousness. Also, sample entropy correlated more closely with effect-site sevoflurane concentration than the RE. In addition, our proposed method exhibits greater resistance to noise in the EEG signals.
-
-The results demonstrate that sample entropy can estimate the sevoflurane drug effect on the EEG more effectively than the commercial RE index with a stronger noise resistance.
-

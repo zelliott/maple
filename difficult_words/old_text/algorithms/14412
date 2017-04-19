@@ -1,9 +1,0 @@
-
-To test the accuracy of a mathematical model (algorithm) that corrects measurements made on conventional lateral head films to corresponding dimensions observed in a cone beam computed tomography (CBCT) scan in human subjects.
-
-Thirteen subjects had lateral cephalograms taken with a conventional cephalometric machine as well as a CBCT scan. Measurements of midface length, mandibular length, and lower anterior face height (LAFH) from both examinations were calculated. Two other groups of measurements were derived mathematically from the dimensions directly quantified on the lateral cephalogram: the magnification correction group and the algorithm correction group. The data were analyzed statistically, using repeated measures analysis of variance (ANOVA).
-
-All measurements from the lateral cephalogram were significantly different from the corresponding measurements derived from the CBCT. Simply taking into account the image magnification did not correct the 2-dimensional (2D) linear measurement obtained from a conventional cephalogram into a 3-dimensional (3D) linear measurement made on a CBCT scan, unless the structures from which the distance will be measured are located on the midsagittal plane. When the algorithm was used to correct the 2D measurements, however, there were no statistically significant differences between the CBCT group and the algorithm group.
-
-Using the mathematical formula presented herein, 2D cephalometric measurements from landmarks both on and off the midsagittal plane can be corrected into a 3D CBCT measurement with accuracy. By applying this algorithm to other existing cephalometric longitudinal growth studies, control groups and standards for CBCT images could be derived without exposing untreated subjects to radiation.
-

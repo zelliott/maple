@@ -1,3 +1,0 @@
-
-Automatic and accurate lung field segmentation is an essential step for developing an automated computer-aided diagnosis system for chest radiographs. Although active shape model (ASM) has been useful in many medical imaging applications, lung field segmentation remains a challenge due to the superimposed anatomical structures. We propose an automatic lung field segmentation technique to address the inadequacy of ASM in lung field extraction. Experimental results using both normal and abnormal chest radiographs show that the proposed technique provides better performance and can achieve 3-6% improvement on accuracy, sensitivity and specificity compared to traditional ASM techniques.
-

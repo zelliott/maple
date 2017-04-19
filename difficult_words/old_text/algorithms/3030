@@ -1,9 +1,0 @@
-
-To compare 2 automatic systems for the recognition and counting of 2 different families of cells through nuclei staining: Ki-67 in neuroblastoma and estrogen/progesterone (ER/PR) status staining in breast cancer.
-
-Morphology-based segmentation strategies and the Support Vector Machine approach have been used for the accurate extraction and recognition of the cells. To achieve the highest possible accuracy, 2 specialized systems specially suited for Ki-67 and ER/PR staining have been developed.
-
-The testing set of histologic slides of Ki-67 and ER/PR staining has been assessed by our system and the results compared to the score of a human expert. The results are in good agreement. The average differences are within the acceptable limits of 10%. The main advantage of the system is its absolute repeatability of scores.
-
-The proposed computer-assisted automatic system of cell extraction and recognition through nuclei staining has confirmed sufficient accuracy for the tested images and may provide a useful tool for cell recognition and counting on the basis of histologic slides with Ki-67 and ER/PR staining.
-

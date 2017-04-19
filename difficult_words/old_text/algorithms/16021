@@ -1,3 +1,0 @@
-
-We devised a new analysis using quartile deviation of integrated and subtracted fluctuation, termed QIS-A, to determine a fractal dimension of non-stationary fluctuation. In the algorithm, computations of the quartile deviation, Q(n), of all integrated and subtracted fluctuations are repeated over all scales (n). The fractal scaling exponent is determined as a slope of the line relating log Q(n) to log n. Comparison of the QIS-A and a spectral analysis using 20 computer-simulated fractional Brownian motions demonstrates robustness of the QIS-A to non-stationary fluctuations.
-

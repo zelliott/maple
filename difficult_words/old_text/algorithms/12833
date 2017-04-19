@@ -1,3 +1,0 @@
-
-We study the problem of finding the maximum interval subgraph in a tree. This problem is related to the Double Digestion Problem of DNA physical mapping. We show that the complexity of an algorithm of Wang is O(n). We also present a linear algorithm of our own. We study the case when the edges of the tree is weighted as well. An algorithm with complexity O(n³) is presented.
-

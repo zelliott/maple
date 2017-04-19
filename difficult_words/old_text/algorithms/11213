@@ -1,9 +1,0 @@
-
-Accurate segmentation of renal tissues in abdominal computed tomography (CT) image sequences is an indispensable step for computer-aided diagnosis and pathology detection in clinical applications. In this study, the goal is to develop a radiology tool to extract renal tissues in CT sequences for the management of renal diagnosis and treatments.
-
-In this paper, the authors propose a new graph-cuts-based active contours model with an adaptive width of narrow band for kidney extraction in CT image sequences. Based on graph cuts and contextual continuity, the segmentation is carried out slice-by-slice. In the first stage, the middle two adjacent slices in a CT sequence are segmented interactively based on the graph cuts approach. Subsequently, the deformable contour evolves toward the renal boundaries by the proposed model for the kidney extraction of the remaining slices. In this model, the energy function combining boundary with regional information is optimized in the constructed graph and the adaptive search range is determined by contextual continuity and the object size. In addition, in order to reduce the complexity of the min-cut computation, the nodes in the graph only have n-links for fewer edges.
-
-The total 30 CT images sequences with normal and pathological renal tissues are used to evaluate the accuracy and effectiveness of our method. The experimental results reveal that the average dice similarity coefficient of these image sequences is from 92.37% to 95.71% and the corresponding standard deviation for each dataset is from 2.18% to 3.87%. In addition, the average automatic segmentation time for one kidney in each slice is about 0.36 s.
-
-Integrating the graph-cuts-based active contours model with contextual continuity, the algorithm takes advantages of energy minimization and the characteristics of image sequences. The proposed method achieves effective results for kidney segmentation in CT sequences.
-

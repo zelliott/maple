@@ -1,9 +1,0 @@
-
-Recently, a pathway-based approach has been developed to evaluate the cumulative contribution of the functionally related genes for genome-wide association studies (GWASs), which may help utilize GWAS data to a greater extent.
-
-In this study, we applied this approach for the GWAS of basal cell carcinoma (BCC) of the skin. We first conducted the BCC GWAS among 1,797 BCC cases and 5,197 controls in Caucasians with 740,760 genotyped SNPs. 115,688 SNPs were grouped into gene transcripts within 20 kb in distance and then into 174 Kyoto Encyclopedia of Genes and Genomes pathways, 205 BioCarta pathways, as well as two positive control gene sets (pigmentation gene set and BCC risk gene set). The association of each pathway with BCC risk was evaluated using the weighted Kolmogorov-Smirnov test. One thousand permutations were conducted to assess the significance.
-
-Both of the positive control gene sets reached pathway p-values<0.05. Four other pathways were also significantly associated with BCC risk: the heparan sulfate biosynthesis pathway (p  =  0.007, false discovery rate, FDR  =  0.35), the mCalpain pathway (p  =  0.002, FDR  =  0.12), the Rho cell motility signaling pathway (p  =  0.011, FDR  =  0.30), and the nitric oxide pathway (p  =  0.022, FDR  =  0.42).
-
-We identified four pathways associated with BCC risk, which may offer new insights into the etiology of BCC upon further validation, and this approach may help identify potential biological pathways that might be missed by the standard GWAS approach.
-

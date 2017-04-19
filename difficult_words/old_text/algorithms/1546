@@ -1,3 +1,0 @@
-
-We present a model-based estimation method to reconstruct the unmeasured membrane potential of neuronal populations from a single-channel electroencephalographic (EEG) measurement. We consider a class of neural mass models that share a general structure, specifically the models by Stam et al (1999 Clin. Neurophysiol. 110 1801-13), Jansen and Rit (1995 Biol. Cybern. 73 357-66) and Wendling et al (2005 J. Clin. Neurophysiol. 22 343). Under idealized assumptions, we prove the global exponential convergence of our filter. Then, under more realistic assumptions, we investigate the robustness of our filter against model uncertainties and disturbances. Analytic proofs are provided for all results and our analyses are further illustrated via simulations.
-

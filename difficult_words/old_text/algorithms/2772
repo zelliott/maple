@@ -1,9 +1,0 @@
-
-We investigated whether a hybrid iterative reconstruction (HIR) algorithm improves image quality at low-tube-voltage coronary CT angiography (CTA) compared with filtered back projection (FBP).
-
-Eighteen patients (seven men, 11 women; mean age, 67.8 years) underwent retrospectively gated coronary CTA at 80 kV with a volume CT dose index (CTDI(vol)) of 18.8 mGy on a 64-MDCT scanner. CT images were reconstructed using only FBP and only HIR. For each patient, CT images subjected to the two different reconstructions were reviewed by two observers. Quantitative image quality parameters-that is, CT attenuation (HU) of the coronary arteries, image noise, and contrast-to-noise ratio (CNR)-were calculated and compared for the two reconstruction methods and the overall image quality for each reconstruction was visually scored on a 5-point scale.
-
-The mean estimated effective radiation dose for 80-kV coronary CTA was 4.7 ± 0.4 (SD) mSv. The two reconstruction methods did not significantly differ with respect to the CT attenuation of the coronary arteries. The image noise was significantly lower with HIR than with FBP (20.3 ± 5.3 vs 49.4 ± 12.0 HU, respectively; p < 0.01), and the CNR was significantly higher with HIR than with FBP (29.8 ± 7.4 vs 12.7 ± 2.9, p < 0.01). The visual scores for image quality were higher with HIR than with FBP (p < 0.01).
-
-The HIR algorithm can reduce image noise and improve image quality at low-tube-voltage coronary CTA.
-

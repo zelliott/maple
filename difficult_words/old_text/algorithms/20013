@@ -1,9 +1,0 @@
-
-To develop a tumor growth inhibition model for adult diffuse low-grade gliomas (LGG) able to describe tumor size evolution in patients treated with chemotherapy or radiotherapy.
-
-Using longitudinal mean tumor diameter (MTD) data from 21 patients treated with first-line procarbazine, 1-(2-chloroethyl)-3-cyclohexyl-l-nitrosourea, and vincristine (PCV) chemotherapy, we formulated a model consisting of a system of differential equations, incorporating tumor-specific and treatment-related parameters that reflect the response of proliferative and quiescent tumor tissue to treatment. The model was then applied to the analysis of longitudinal tumor size data in 24 patients treated with first-line temozolomide (TMZ) chemotherapy and in 25 patients treated with first-line radiotherapy.
-
-The model successfully described the MTD dynamics of LGG before, during, and after PCV chemotherapy. Using the same model structure, we were also able to successfully describe the MTD dynamics in LGG patients treated with TMZ chemotherapy or radiotherapy. Tumor-specific parameters were found to be consistent across the three treatment modalities. The model is robust to sensitivity analysis, and preliminary results suggest that it can predict treatment response on the basis of pretreatment tumor size data.
-
-Using MTD data, we propose a tumor growth inhibition model able to describe LGG tumor size evolution in patients treated with chemotherapy or radiotherapy. In the future, this model might be used to predict treatment efficacy in LGG patients and could constitute a rational tool to conceive more effective chemotherapy schedules.
-

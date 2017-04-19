@@ -1,9 +1,0 @@
-
-The presence of vascular invasion in hepatocellular cancer (HCC) correlates with prognosis, and is a critical determinant of both the therapeutic approach and the recurrence or intrahepatic metastases. The authors sought to identify candidate therapeutic agents capable of targeting the invasive phenotype in HCC.
-
-A gene expression signature associated with vascular invasion derived from 81 human cases of HCC was used to screen a database of 453 genomic profiles associated with 164 bioactive molecules using the connectivity map. Candidate agents were identified by their inverse correlation to the query gene signature. The efficacy of the candidate agents to target invasion was experimentally verified in PLC/PRF-5 and HepG2 HCC cells.
-
-The gene signature associated with vascular invasion in HCC comprised of 47 up-regulated and 26 down-regulated genes. Computational bioinformatics analysis revealed several putative candidates, including resveratrol and 17-allylamino-geldanamycin (17-AAG). Both of these agents reduced HCC cell invasion at noncytotoxic concentrations. 17-AAG, a heat shock protein 90 (HSP-90) inhibitor, was shown to modulate the expression of several diverse cancer-associated genes, including ADAMTS1, part of the query signature, and maspin, an HSP-90-associated protein with a tumor suppressor role in HCC.
-
-Candidates for further evaluation as therapies to limit invasion in HCC have been identified using a computational bioinformatics analysis of phenotype-associated gene expression. Phenotype targeting using genomic profiling is a rational approach for drug discovery. Therapeutic strategies targeting a defined cancer-associated phenotype can be identified without a detailed knowledge of individual downstream targets.
-

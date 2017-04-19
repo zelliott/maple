@@ -1,9 +1,0 @@
-
-In recent years, both single-nucleotide polymorphism (SNP) array and functional magnetic resonance imaging (fMRI) have been widely used for the study of schizophrenia (SCZ). In addition, a few studies have been reported integrating both SNPs data and fMRI data for comprehensive analysis.
-
-In this study, a novel sparse representation based variable selection (SRVS) method has been proposed and tested on a simulation data set to demonstrate its multi-resolution properties. Then the SRVS method was applied to an integrative analysis of two different SCZ data sets, a Single-nucleotide polymorphism (SNP) data set and a functional resonance imaging (fMRI) data set, including 92 cases and 116 controls. Biomarkers for the disease were identified and validated with a multivariate classification approach followed by a leave one out (LOO) cross-validation. Then we compared the results with that of a previously reported sparse representation based feature selection method.
-
-Results showed that biomarkers from our proposed SRVS method gave significantly higher classification accuracy in discriminating SCZ patients from healthy controls than that of the previous reported sparse representation method. Furthermore, using biomarkers from both data sets led to better classification accuracy than using single type of biomarkers, which suggests the advantage of integrative analysis of different types of data.
-
-The proposed SRVS algorithm is effective in identifying significant biomarkers for complicated disease as SCZ. Integrating different types of data (e.g. SNP and fMRI data) may identify complementary biomarkers benefitting the diagnosis accuracy of the disease.
-

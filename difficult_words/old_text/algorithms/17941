@@ -1,3 +1,0 @@
-
-A new technique for intragastric pH-gram analysis during alkaline test is described. The technique is based on a mathematical model of the acid-alkaline balance in the body of stomach. The model provides intragastric pH-gram approximation by the least-squares method. This makes it possible to determine the specific rate of acid production in the stomach and accurately calculate the alkaline time. The structure of a hardware-software system for implementation of the new technique is developed. The suggested algorithms can be implemented on the basis of the Gastroscan-5M acidogastrometer.
-

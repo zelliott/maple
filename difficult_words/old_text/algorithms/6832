@@ -1,3 +1,0 @@
-
-Autoregressive (AR) modelling has already been proposed as an alternative to fast Fourier transform to process ultrasound (US) Doppler signals. Previous works introduced long AR models, set up under a regularization framework. The latter may be in 1-D (frequency) or 2-D (frequency and space or time). This study generalizes the spectrum regularization in the three dimensions frequency, space and time. The problem of the penalization function is addressed, and a new convex solution is proposed, taking into account possible nonstationarity of the Doppler signal. The parameter tuning is based on simulations using a standard Doppler signal model. The first results show that this processing improves the spectral estimation, and is well suited to flow interpretation.
-

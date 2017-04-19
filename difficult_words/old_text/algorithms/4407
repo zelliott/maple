@@ -1,3 +1,0 @@
-
-This paper presents a trust-region implementation for image reconstruction of conductivity changes in electrical impedance tomography. A dogleg trust-region algorithm is applied in different cases to detect abnormalities. The dogleg algorithm approximates a Levenberg-Marquardt step within the trust region of the model function with a quadratic model. The comparison of Levenberg-Marquardt and dogleg algorithms is presented using the reconstructed images. This comparison of two techniques suggests the implementation of the dogleg method could result in the reduction of the execution time to less than 50% of that of the Levenberg-Marquardt algorithm without any quantifiable loss of quality of reconstructed images.
-

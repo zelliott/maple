@@ -1,3 +1,0 @@
-
-We introduce a dynamic optical arbitrary waveform generation (OAWG) technique that produces bandwidth scalable, continuous waveforms of near perfect fidelity. Additionally, OAWG's complement, real-time arbitrary optical waveform measurement (OAWM) is discussed. These approaches utilize gigahertz-bandwidth electronics to generate, or measure, truly arbitrary and dynamic optical waveforms scalable to terahertz bandwidths and infinite record lengths. We describe the theory, algorithms and enabling technologies necessary to calculate and produce a set of spectral modulations that create continuous, high-fidelity waveforms in the presence of spectral filtering from multiplexers.
-

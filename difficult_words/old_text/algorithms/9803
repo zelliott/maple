@@ -1,3 +1,0 @@
-
-Power analysis is critical in research designs. This study discusses a simulation-based approach utilizing the likelihood ratio test to estimate the power of growth curve analysis. The power estimation is implemented through a set of SAS macros. The application of the SAS macros is demonstrated through several examples, including missing data and nonlinear growth trajectory situations. The results of the examples indicate that the power of growth curve analysis increases with the increase of sample sizes, effect sizes, and numbers of measurement occasions. In addition, missing data can reduce power. The SAS macros can be modified to accommodate more complex power analysis for both linear and nonlinear growth curve models.
-

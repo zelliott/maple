@@ -1,3 +1,0 @@
-
-A review of the selection of models in dynamic contrast-enhanced MRI (DCE-MRI) is conducted, with emphasis on the balance between the bias and variance required to produce stable and accurate estimates of vascular parameters. The vascular parameters considered as a first-order model are the forward volume transfer constant K(trans) , the plasma volume fraction vp and the interstitial volume fraction ve . To illustrate the critical issues in model selection, a data-driven selection of models in an animal model of cerebral glioma is followed. Systematic errors and extended models are considered. Studies with nested and non-nested pharmacokinetic models are reviewed; models considering water exchange are considered.
-

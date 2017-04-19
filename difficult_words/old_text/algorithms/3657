@@ -1,7 +1,0 @@
-
-This paper is concerned with algorithms for aligning two whole genomes so as to identify regions that possibly contain conserved genes. Motivated by existing heuristic-based software tools, we initiate the study of an optimization problem that attempts to uncover conserved genes with a global concern. Another interesting feature in our formulation is the tolerance of noise, which also complicates the optimization problem. A brute-force approach takes time exponential in the noise level.
-
-We show how an insight into the optimization structure can lead to a drastic improvement in the time and space requirement [precisely, to O(k2n2) and O(k2n), respectively, where n is the size of the input and k is the noise level]. The reduced space requirement allows us to implement the new algorithm, called MaxMinCluster, on a PC. It is exciting to see that when tested with different real data sets, MaxMinCluster consistently uncovers a high percentage of conserved genes that have been published by GenBank. Its performance is indeed favorably compared to MUMmer (perhaps the most popular software tool for uncovering conserved genes in a whole-genome scale).
-
-The source code is available from the website http://www.csis.hku.hk/~colly/maxmincluster/ detailed proof of the propositions can also be found there.
-

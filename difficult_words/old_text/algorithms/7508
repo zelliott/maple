@@ -1,3 +1,0 @@
-
-Assessing airway wall surfaces and the lumen from high resolution computed tomography (CT) scans are of great importance for diagnosing pulmonary diseases. However, accurately determining inner and outer airway wall surfaces of a complete 3-D tree structure can be quite challenging because of its complex nature. In this paper, we introduce a computational framework to accurately quantify airways through (i) a precise segmentation of the lumen, and (ii) a spatially constrained Markov random walk method to estimate the airway walls. Our results demonstrate that the proposed airway analysis platform identified the inner and outer airway surfaces better than methods commonly used in clinics, such as full width at half maximum and phase congruency.
-

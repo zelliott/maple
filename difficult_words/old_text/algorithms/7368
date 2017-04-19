@@ -1,7 +1,0 @@
-
-Phylogenomic analyses involving whole-genome or multi-locus data often entail dealing with incongruent gene trees. In this paper, we consider two causes of such incongruence, namely, incomplete lineage sorting (ILS) and hybridization, and consider both parsimony and probabilistic criteria for dealing with them.
-
-Under the assumption of ILS, computing the probability of a gene tree given a species tree is a very hard problem. We present a heuristic for speeding up the computation, and demonstrate how it scales up computations to data sizes that are not feasible to analyze using current techniques, while achieving very good accuracy. Further, under the assumption of both ILS and hybridization, computing the probability of a gene tree and parsimoniously reconciling it with a phylogenetic network are both very hard problems. We present two exact algorithms for these two problems that speed up existing techniques significantly and enable analyses of much larger data sets than is currently feasible.
-
-Our heuristics and algorithms enable phylogenomic analyses of larger (in terms of numbers of taxa) data sets than is currently feasible. Further, our methods account for ILS and hybridization, thus allowing analyses of reticulate evolutionary histories.
-

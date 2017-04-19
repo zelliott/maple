@@ -1,9 +1,0 @@
-
-To evaluate a fully automated algorithm for the establishment of tight glycemic control in critically ill patients and to compare the results with different routine glucose management protocols of three intensive care units (ICUs) across Europe (Graz, Prague, and London).
-
-Sixty patients undergoing cardiac surgery (age 67 +/- 9 years, BMI 27.7 +/- 4.9 kg/m2, 17 women) with postsurgery blood glucose levels >120 mg/dl (6.7 mmol/l) were investigated in three different ICUs (20 per center). Patients were randomized to either blood glucose management (target range 80-110 mg/dl [4.4-6.1 mmol/l]) by the fully automated model predictive control (MPC) algorithm (n = 30, 10 per center) or implemented routine glucose management protocols (n = 30, 10 per center). In all patients, arterial glucose was measured hourly to describe the glucose profile until the end of the ICU stay but for a maximum period of 48 h.
-
-Compared with routine protocols, MPC treatment resulted in a significantly higher percentage of time within the target glycemic range (% median [min-max]: 52 [17-92] vs. 19 [0-71]) over 0-24 h (P < 0.01). Improved glycemic control with MPC treatment was confirmed in patients remaining in the ICU for 48 h (0-24 h: 50 [17-71] vs. 21 [4-67], P < 0.05, and 24-48 h: 65 [38-96] vs. 25 [8-79], P < 0.05, for MPC [n = 16] vs. routine protocol [n = 13], respectively). Two hypoglycemic events (<54 mg/dl [3.0 mmol/l]) were observed with routine protocol treatment. No hypoglycemic event occurred with MPC.
-
-The data suggest that the MPC algorithm is safe and effective in controlling glycemia in critically ill postsurgery patients.
-

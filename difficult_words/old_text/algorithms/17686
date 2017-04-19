@@ -1,3 +1,0 @@
-
-A Gaussian mixture model with a finite number of components and correlated random effects is described. The ultimate objective is to model somatic cell count information in dairy cattle and to develop criteria for genetic selection against mastitis, an important udder disease. Parameter estimation is by maximum likelihood or by an extension of restricted maximum likelihood. A Monte Carlo expectation-maximization algorithm is used for this purpose. The expectation step is carried out using Gibbs sampling, whereas the maximization step is deterministic. Ranking rules based on the conditional probability of membership in a putative group of uninfected animals, given the somatic cell information, are discussed. Several extensions of the model are suggested.
-

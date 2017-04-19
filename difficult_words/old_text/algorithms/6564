@@ -1,7 +1,0 @@
-
-Inferring genetic network architecture from time series data generated from high-throughput experimental technologies, such as cDNA microarray, can help us to understand the system behavior of living organisms. We have developed an interactive tool, GeneNetwork, which provides four reverse engineering models and three data interpolation approaches to infer relationships between genes. GeneNetwork enables a user to readily reconstruct genetic networks based on microarray data without having intimate knowledge of the mathematical models. A simple graphical user interface enables rapid, intuitive mapping and analysis of the reconstructed network allowing biologists to explore gene relationships at the system level.
-
-Download from http://genenetwork.sbl.bc.sinica.edu.tw/.
-
-Supplement documentation of algorithms for the four approaches is downloadable at the above location.
-

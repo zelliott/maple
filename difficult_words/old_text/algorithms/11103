@@ -1,9 +1,0 @@
-
-We tested the hypothesis whether texture analysis (TA) from MR images could identify patterns associated with an abnormal neurobehavior in small for gestational age (SGA) neonates.
-
-Ultrasound and MRI were performed on 91 SGA fetuses at 37 weeks of GA. Frontal lobe, basal ganglia, mesencephalon and cerebellum were delineated from fetal MRIs. SGA neonates underwent NBAS test and were classified as abnormal if ≥ 1 area was <5(th) centile and as normal if all areas were >5(th) centile. Textural features associated with neurodevelopment were selected and machine learning was used to model a predictive algorithm.
-
-Of the 91 SGA neonates, 49 were classified as normal and 42 as abnormal. The accuracies to predict an abnormal neurobehavior based on TA were 95.12% for frontal lobe, 95.56% for basal ganglia, 93.18% for mesencephalon and 83.33% for cerebellum.
-
-Fetal brain MRI textural patterns were associated with neonatal neurodevelopment. Brain MRI TA could be a useful tool to predict abnormal neurodevelopment in SGA.
-

@@ -1,9 +1,0 @@
-
-To demonstrate the feasibility of using a multiecho phase-contrast (PC) gradient-echo sequence with motion-sensitizing gradient (MSG) to accelerate MR elastography (MRE) acquisitions in comparison to single-echo PC sequences.
-
-The sequence was implemented and compared with a conventional single-echo sequence as the standard of reference in both agarose phantoms and in vivo in the biceps of three healthy volunteers. For reconstruction of the elasticity modulus, a local frequency estimation (LFE) algorithm was used. ETL factors of 1-16 were evaluated.
-
-Phantom experiments demonstrated excellent consistency between single-echo and multiecho measurements in terms of wave equivalency, SNR, and reconstructed shear modulus. Additionally, the in vivo MRE examinations showed an excellent correspondence to the single-echo results. Minor loss of wave amplitude was observed at higher ETL factors.
-
-The results demonstrate that a multiecho sequence is suitable for accelerating MRE in nearly homogeneous tissue, such as muscle. It provides equivalent elasticity values in a significantly reduced scan time compared to a single-echo sequence. The maximum achievable ETL factor must be individually determined for the target tissue.
-

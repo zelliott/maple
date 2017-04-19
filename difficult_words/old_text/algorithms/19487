@@ -1,3 +1,0 @@
-
-We develop a new statistic for testing the equality of two multivariate mean vectors. A scaled chi-squared distribution is proposed as an approximating null distribution. Because the test statistic is based on componentwise statistics, it has the advantage over Hotelling's T2 test of being applicable to the case where the dimension of an observation exceeds the number of observations. An appealing feature of the new test is its ability to handle missing data by relying on only componentwise sample moments. Monte Carlo studies indicate good power compared to Hotelling's T2 and a recently proposed test by Srivastava (2004, Technical Report, University of Toronto). The test is applied to drug discovery data.
-

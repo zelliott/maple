@@ -1,9 +1,0 @@
-
-The aim of this study was to assess quantitatively the degrading effect of artefacts caused by beam hardening on the microscopic computerized tomography (microCT) measurements of an in vitro caries model.
-
-A simulation-based method was described, with which the degrading effect of microCT artefacts on certain parameters of the observed structure could be determined. Simulations were carried out with polychromatic and monochromatic X-ray source, and a linearization method with a second-order polynomial fit algorithm was used in specific cases to correct the beam hardening artefact. The virtual test object was a half-crown of a tooth with an artificial caries lesion.
-
-For simulation with monochromatic X-ray source, the relative error of lesion depth and thickness measurements of the remineralized layer was found to be 1%-2%. For polychromatic X-ray source, and omitting beam hardening correction, the relative error exceeded 6%. After appropriate beam-hardening correction, the relative error of the measurement could be reduced to 1%-2%.
-
-With the adjustment simulated in this study, microCT having polychromatic X-ray source resulted in the same level of error as with monochromatic source if the linearization method to correct the beam hardening was used. The presented simulation-based method is a useful way to determine artefact-caused distortions for other studies testing objects with different material and geometry.
-

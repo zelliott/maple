@@ -1,3 +1,0 @@
-
-A two-step multiple alignment strategy is presented that allows rapid alignment of a set of homologous sequences and comparison of pre-aligned groups of sequences. Examples are given demonstrating the improvement in the quality of alignments when comparing entire groups instead of single sequences. The modular design of computer programs based on this algorithm allows for storage of aligned sequences and successive alignment of any number of sequences.
-

@@ -1,9 +1,0 @@
-
-The objective of this paper was to automatically segment the cerebellum from T1-weighted human brain magnetic resonance (MR) images.
-
-The proposed method constructs a cerebellum template using five sets of 3-T MR imaging (MRI) data, which are used to determine the initial position and the shape prior of the cerebellum for the active contour model. Our formulation includes the active contour model with shape prior, which thereby maintains the shape of the template. The proposed active contour model is sequentially applied to sagittal-, coronal- and transverse-view images. To evaluate the proposed method, it is applied to BrainWeb data and a 3-T MRI data set and compared with FreeSurfer with respect to performance assessment metrics.
-
-The segmented cerebellum was compared with the results from FreeSurfer. Using the manually segmented cerebellum as reference, we measured the average Jaccard coefficients of the proposed method, which were 0.882 and 0.885 for the BrainWeb data and 3-T MRI data set, respectively.
-
-We presented the active contour model with shape prior for extracting the cerebellum from T1-weighted brain MR images. The proposed method yielded a robust and accurate segmentation result.
-

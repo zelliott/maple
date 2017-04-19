@@ -1,3 +1,0 @@
-
-Partial least squares (PLS) has been used in multivariate analysis of functional magnetic resonance imaging (fMRI) data as a way of incorporating information about the underlying experimental paradigm. In comparison, principal component analysis (PCA) extracts structure merely by summarizing variance and with no assurance that individual component structures are directly interpretable or that they represent salient and useful features. Oriented partial least squares (OrPLS) is a new PLS-like analysis paradigm in which extracted components can be oriented away from undesirable noise or confounds in the data and toward a desired targeted structure reflecting the fMRI experiment.
-

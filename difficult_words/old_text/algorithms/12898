@@ -1,3 +1,0 @@
-
-In this paper, we propose generalized sampling approaches for measuring a multi-dimensional object using a compact compound-eye imaging system called thin observation module by bound optics (TOMBO). This paper shows the proposed system model, physical examples, and simulations to verify TOMBO imaging using generalized sampling. In the system, an object is modulated and multiplied by a weight distribution with physical coding, and the coded optical signal is integrated on to a detector array. A numerical estimation algorithm employing a sparsity constraint is used for object reconstruction.
-

@@ -1,9 +1,0 @@
-
-The National Cancer Institute Quantitative Research Network (QIN) is a collaborative research network whose goal is to share data, algorithms and research tools to accelerate quantitative imaging research. A challenge is the variability in tools and analysis platforms used in quantitative imaging. Our goal was to understand the extent of this variation and to develop an approach to enable sharing data and to promote reuse of quantitative imaging data in the community.
-
-We performed a survey of the current tools in use by the QIN member sites for representation and storage of their QIN research data including images, image meta-data and clinical data. We identified existing systems and standards for data sharing and their gaps for the QIN use case. We then proposed a system architecture to enable data sharing and collaborative experimentation within the QIN.
-
-There are a variety of tools currently used by each QIN institution. We developed a general information system architecture to support the QIN goals. We also describe the remaining architecture gaps we are developing to enable members to share research images and image meta-data across the network.
-
-As a research network, the QIN will stimulate quantitative imaging research by pooling data, algorithms and research tools. However, there are gaps in current functional requirements that will need to be met by future informatics development. Special attention must be given to the technical requirements needed to translate these methods into the clinical research workflow to enable validation and qualification of these novel imaging biomarkers.
-

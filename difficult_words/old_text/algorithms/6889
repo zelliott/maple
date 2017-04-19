@@ -1,9 +1,0 @@
-
-(1) Creation of an expressive language for specification of temporal patterns in clinical domains, (2) Development of a graphical knowledge-acquisition tool allowing expert physicians to define meaningful domain-specific patterns, (3) Implementation of an interpreter capable of detecting such patterns in clinical databases, and (4) Evaluation of the tools in the domains of diabetes and oncology.
-
-We describe a constraint-based language, named CAPSUL, for specification of temporal patterns. We implemented a knowledge-acquisition tool and a temporal-pattern interpreter within Résumé, a larger temporal-abstraction architecture. We evaluated the knowledge-acquisition process with the help of domain experts. In collaboration with the Rush Presbyterian/St. Luke's Medical Center, we analyzed data of bone-marrow transplantation patients. The expert compared the detected patterns to a manual inspection of the data, with the help of an experimental information-visualization tool we are developing in a related project.
-
-The CAPSUL language was expressive enough during the knowledge-acquisition process to capture almost all of the patterns that the experts found useful. The patterns detected in the data by the pattern interpreter were all verified as correct. Completeness (whether all correct patterns were found) was difficult to assess, due to the size of the database.
-
-The CAPSUL language enables medical experts to express temporal patterns involving multiple levels of abstraction of clinical data. The ability to reuse both domain-patterns and abstract constraints seems highly useful. The Résumé interpreter, augmented by the CAPSUL semantics, finds the complex patterns within a clinical time-oriented database in a sound fashion.
-

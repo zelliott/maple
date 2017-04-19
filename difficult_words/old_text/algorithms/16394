@@ -1,9 +1,0 @@
-
-The purpose of this research is to develop a computerized method to quantify carotid plaque neovascularization on contrast-enhanced ultrasound images and to compare the results with the histopathologic analysis of the plaque.
-
-Twenty-seven patients (age range, 48-84 years; mean [± SD] age, 68.4 ± 9.72 years) were recruited before endarterectomy. Contrast-enhanced ultrasound examination of the carotid artery was performed by applying low mechanical index and harmonics with pulse inversion. An algorithm was developed that implemented several image processing methods to automatically quantify neovascularization and reconstruct the vascular tree in the atheromatous plaque. Neovascularization and the number of inflammatory cells seen on histopathologic analysis of the plaque after endarterectomy were compared with neovascularization determined by the computerized method. The mean (± SD) ratios of the ultrasound and histopathologic measurements were calculated.
-
-In five patients, heavy calcification of the plaque prevented visualization of plaque texture. Intraplaque neovascularization on contrast-enhanced ultrasound images was significant in 19 patients and low in three patients. The ratio of the neovascularization area to the total plaque area on contrast-enhanced ultrasound images was well correlated with the same histopathologic ratio (R(2) = 0.7905) and with the number of inflammatory cells present in the plaque (R(2) = 0.6109). The histopathologic ratio and the number of intraplaque inflammatory cells also were well correlated (R(2) = 0.7034).
-
-The newly developed method allowed quantification of the intraplaque neovascularization as a feature of vulnerability in the carotid plaque and proved to be highly correlated with histopathologic results.
-

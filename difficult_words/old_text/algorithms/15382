@@ -1,9 +1,0 @@
-
-At high-field strengths (≥3T) inhomogeneity of the radio frequency (RF) field and RF power deposition become increasingly problematic. Parallel Transmission (PTx)--the use of segmented transmission arrays with independently driven elements--affords the ability to combat both of these issues. There are a variety of existing designs for PTx coils, ranging from systems with two channels to systems with eight or more. In this work, we have investigated the impact of the number of independent channels on the achievable results for both homogeneity improvement and power reduction in vivo.
-
-A 3T Philips Achieva MRI system fitted with an 8-channel PTx body coil was driven so as to emulate configurations with 1, 2 4 and 8 independent channels. RF shimming was used in two different anatomies in order to assess improvements in RF homogeneity.
-
-Significant homogeneity improvements were observed when increasing from 1 to 2, 2 to 4, and 4 to 8 channel configurations. Reductions in RF power requirements and local SAR were predicted for increasing numbers of channels.
-
-Increasing the number of RF transmit channels adds extra degrees of freedom which can be used to benefit homogeneity improvement or power reduction for body imaging at 3T.
-

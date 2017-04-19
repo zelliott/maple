@@ -1,9 +1,0 @@
-
-Variation in expert opinion and lack of a systematic methodology hinder the development of reliable clinical practice guidelines. However standardized protocols have been defined to quantify, combine, and summarize expert judgments. In addition, statistical methods may help to outline guidelines based on simplified models of these judgments.
-
-To test this hypothesis, stepwise logistic regression (SLR) and classification tree pruning (CTP) were used to predict the results of two expert panels (USA 1992 and Switzerland 1995) on laminectomy in sciatica conditions. Both panels, using the RAND-UCLA explicit method, assessed whether the procedure would be inappropriate or of potential use in 720 case scenarios combining 7 relevant factors.
-
-Laminectomy was rated as inappropriate in 60% and 70% of the scenarios by the US and Swiss panels, respectively. Either statistical method, in both panels, based its simplest model on the same 4 factors, as follows: imaging test results; disability; neurological findings; and conservative treatment trials (in decreasing order); the influence of 2 other factors, duration of pain and nerve root irritation, were only marginal. The correct classification rates of the models were 89% and 93% for SLR and 93% and 85% for CTP. Adopting the CTP US algorithm as a guideline would lead to consider performing laminectomy only in patients with imaging evidence of hernia, relatively severe disability, reflex abnormalities, and previous nonsurgical treatment. Adherence to the corresponding CTP Swiss algorithm would result in less restrictive conditions.
-
-The statistical techniques proved as useful instruments to structure and simplify appropriateness criteria developed by expert panels and to outline parsimonious decision models for clinical practice.
-

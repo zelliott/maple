@@ -1,3 +1,0 @@
-
-It is shown that the multiple alignment problem with SP-score is NP-hard for each scoring matrix in a broad class M that includes most scoring matrices actually used in biological applications. The problem remains NP-hard even if sequences can only be shifted relative to each other and no internal gaps are allowed. It is also shown that there is a scoring matrix M(0) such that the multiple alignment problem for M(0) is MAX-SNP-hard, regardless of whether or not internal gaps are allowed.
-

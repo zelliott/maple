@@ -1,9 +1,0 @@
-
-Surveillance for stroke/transient ischemic attack (TIA) using administrative data has traditionally been limited to reporting patients who had an acute event and were hospitalized. This underestimates the true prevalence because many events do not result in hospitalization. We examined whether the accuracy of administrative data for identifying prevalent stroke/TIA could be improved by using data from both inpatient and outpatient visits.
-
-An administrative data validation reference standard was developed through chart abstraction of 5000 adult patients randomly sampled from 73,014 patients of 83 family physicians who participate in the Electronic Medical Record Administrative Data Linked Database (EMRALD), in Ontario, Canada.
-
-The prevalence of stroke/TIA in our adult population was 3.0%. An algorithm of 1 hospital record had a sensitivity of 35.3% (27.7%-43.0%) and specificity of 99.8% (99.7%-99.9%), whereas an algorithm of 2 physician billings within 1 year or 1 hospitalization had a sensitivity of 68.0% (95% confidence interval [CI], 60.5%-75.5%) and specificity of 98.9% (95% CI, 98.6%-99.2%) for the identification of patients who had ever had a stroke/TIA. We found that hospitalization data underestimated the prevalence of stroke by > 50% and TIA by > 66% compared with using both hospitalization and physician claims data.
-
-The use of outpatient physician claims data in addition to hospitalization data improves the sensitivity of administrative data for the identification of prevalent stroke/TIA and may be used to estimate the prevalence of cerebrovascular events in large populations and over time.
-

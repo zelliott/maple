@@ -1,3 +1,0 @@
-
-Intraoperative dosimetric assessment of brachytherapy implants has motivated work towards variable angle reconstruction algorithms that are fast and accurate within a surgical suite. C-arm reconstructions are a flexible and cost-effective option but are often limited by mechanical accuracy. The use of a forward projection step in a backprojection reconstruction algorithm is shown to reduce reconstruction uncertainty by optimizing the imaging geometry for data set consistency. The benefits are demonstrated for optimization over small subsets of seeds and may be used to simplify the matching of remaining seeds between the variable angle images as well as improving reconstruction accuracy.
-

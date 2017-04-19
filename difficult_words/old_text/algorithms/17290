@@ -1,3 +1,0 @@
-
-Evoked potentials (EP) have been widely used to quantify neurological system properties. Changes in EP latency may indicate impending neurological injury. Traditional EP analyses are developed under the condition that the background noise in EP analysis are Gaussian distributed. This paper proposes a latency change detection and estimation algorithm under alpha-stable noise condition, a generalization of Gaussian noise assumption. An analysis shows that the alpha-stable model fits the noises found in the impact acceleration experiment under study better than the Gaussian model. The robustness of the proposed algorithm is demonstrated through computer simulations and experimental data analysis under both Gaussian and alpha-stable noise environments.
-

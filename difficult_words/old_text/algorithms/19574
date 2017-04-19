@@ -1,3 +1,0 @@
-
-In hadron therapy the spectra of secondary particles can be very broad in type and energy. The most accurate calculations of tissue equivalent (TE) absorbed dose and biological effect can be achieved using Monte Carlo (MC) simulations followed by the application of an appropriate radiobiological model. The verification of MC simulations is therefore an important quality assurance (QA) issue in dose planning. We propose a method of verification for MC dose calculations based on measurements of either the integral absorbed dose or the spectra of deposited energies from single secondary particles in non-TE material detectors embedded in a target of interest (phantom). This method was tested in boron neutron capture therapy and fast neutron therapy beams.
-

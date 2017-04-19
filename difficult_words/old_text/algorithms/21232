@@ -1,3 +1,0 @@
-
-Sensitive, real-time chirp and spectral phase diagnostics along with full field reconstruction of femtosecond laser pulses are performed using a single rapid-scan interferometric autocorrelator. Through the use of phase retrieval error maps, ambiguities in pulse retrievals based on the pulse spectrum and various forms of MOSAIC traces are discussed. We show second-order autocorrelations can introduce significantly different amounts of chirp depending on the implementation. Examples are presented that illustrate the sensitivity and fidelity of the scheme even with low signal-to-noise.
-

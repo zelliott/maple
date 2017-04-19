@@ -1,3 +1,0 @@
-
-The identification of alpha rhythm in the human electroencephalogram (EEG) is generally a laborious task involving visual inspection of the spectrum. Moreover the occurrence of multiple alpha rhythms is often overlooked. This paper seeks to automate the process of identifying alpha peaks and quantifying their frequency, amplitude and width as a function of position on the scalp. Experimental EEG was fitted with parameterized spectra spanning the alpha range, with results categorized by multi-site criteria into three distinct classes: no distinguishable alpha peak, a single alpha peak, and two alpha peaks. The technique avoids visual bias, integrates spatial information, and is automated. We show that multiple alpha peaks are a common feature of many spectra.
-

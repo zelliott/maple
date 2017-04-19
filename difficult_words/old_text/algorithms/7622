@@ -1,9 +1,0 @@
-
-To enrich and develop more convenient and effective boundary treatment method in Monte-Carlo simulation of restricted diffusion nuclear magnetic resonance.
-
-The conventional approach used in treating boundary behaviors of restricted diffusion is the elastic boundary reflection. Because random walk is not dynamic process, other boundary treatments such as inelastic reflection are acceptable and probably simplify the programming of diffusion nuclear magnetic resonance simulation. The present study simulated the pulse gradient spin echo nuclear magnetic resonance by employing three boundary models, i.e., the elastic boundary reflection, the non-elastic boundary reflection, and the equal-step-length random leap. Their effects on precision, convergence, and calculation efficiency were investigated, as well as the effects of non-fixed boundary reflection step-length drawn from a Gaussian distribution in barrier-crossing steps.
-
-The results show no obvious difference in convergences and precisions for different methods when the relative step-length is sufficiently small. Compared with the traditional approach, the required computation time of the latter two was reduced in some degree.
-
-Boundary treatments based on inelastic reflection are a feasible choice in Monte-Carlo simulation of nuclear magnetic resonance, and in comparison with the conventional approach, it not only renders programming more convenience but also possibly lead to higher calculating efficiency.
-

@@ -1,9 +1,0 @@
-
-Statistical modeling has suggested that the prevalence of false matches in data matching declines as the events become rarer or the number of matches increases. We examined the effect of case rate and coinfection rate in the population on the positive predictive value (PPV) of a matching algorithm for HIV/AIDS and sexually transmitted disease (STD) surveillance registry data.
-
-We used LinkPlus™, a probabilistic data-matching program, to match HIV/AIDS cases diagnosed in New York City (NYC) from 1981 to March 31, 2012, and reported to the NYC HIV/AIDS surveillance registry against syphilis and chlamydia cases diagnosed in NYC from January 1 to June 30, 2010, and reported to the NYC STD registry. Match results were manually reviewed to determine true matches.
-
-With an agreement/disagreement comparison score cutoff value of 10.0, LinkPlus identified 3,013 matches, of which 1,582 were determined to be true by manual review. PPV varied greatly in subpopulations with different case rates and coinfection rates. PPV was the highest (91.6%) in male syphilis cases, who had a relatively low case rate but a high HIV coinfection rate, and lowest (18.0%) in female chlamydia cases, who had a high case rate but a low HIV coinfection rate. When the cutoff value was increased to 15.0, PPVs in male syphilis and female chlamydia cases increased to 98.3% and 90.5%, respectively.
-
-Case rates and coinfection rates have a significant effect on the PPV of a registry data-matching algorithm: PPV decreases as the case rate increases and coinfection rate decreases. Before conducting registry data matching, program staff should assess the case rate and coinfection rate of the population included in the data matching and select an appropriate matching algorithm.
-

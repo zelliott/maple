@@ -1,9 +1,0 @@
-
-To analyze the relationship between lung motion and skin surface motion during respiration, determine the uncertainties and variability of such a relationship, and assess the potential of reducing internal target margin for gated radiotherapy.
-
-Three healthy volunteers and four lung cancer patients were recruited in a prospective imaging study using MRI to track the internal lung and external skin motion during breathing. The relationship between the lung and skin motion was modeled using linear regression analysis. The slope of the linear fit and its confidence interval were analyzed for different lung locations, skin surface locations, and breathing patterns from separate imaging sessions. The margins of the internal target volume were calculated based on the residual lung motion during gating and its uncertainties from multiple treatment fractions for the gated treatment.
-
-The slope and confidence interval of the linear regression from the motion analysis were uniquely defined by the locations of the lung, skin surface, and breathing patterns. Statistically significant differences were observed among individuals and between different times of measurement. The normal free-breathing motion averaged from all volunteer and patient data was 13.4 +/- 7.4 mm along the superior-inferior (SI) direction and 6.9 +/- 2.6 mm along the anterior-posterior (AP) direction. With simulated respiratory gating, the average margin reduction was 5.5 +/- 4.8 mm and 1.6 +/- 1.0 mm, respectively, along the SI and AP directions (or 36% +/- 15% and 25% +/- 14%, respectively, relative to free-breathing motion).
-
-Because respiratory movement is rather complex, the relationship between the lung and skin surface motion is affected by many anatomic and physiologic factors. The reduction of internal target margin and efficacy of the free-breathing gating technique should be assessed for individual cases.
-

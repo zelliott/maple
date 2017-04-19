@@ -1,3 +1,0 @@
-
-The electrocardiac signals exhibit obvious unsteadiness and contain many noises in the processing of detecting. In this paper, a wavelet transform, which can be located in the fields of time and frequency, is introduced to decompose the ECG signals on multi-scales. In characteristic scales, the electrocardiac signals can be decomposed. After removal of various noises, the electrocardiac signals are formed again perfectly. This method provides more accurate ECG data for use in medical diagnosis.
-

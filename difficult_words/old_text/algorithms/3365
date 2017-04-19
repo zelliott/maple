@@ -1,3 +1,0 @@
-
-A direct method for calculating the average number of replication forks per chromosome in an exponentially growing bacterial culture and the fraction of reinitiation after an inductive treatment of the initiation step is presented. This method has allowed the development of REPLICON, a computer program designed for the resolution of the algorithm and simulation of the bacterial chromosome replication. Using REPLICON the following parameters can be obtained: average number of replication forks per chromosome, time required for the complete replication cycle, average amount of DNA per nucleotide, gene frequency of any chromosomal locus and reinitiation fraction. The use of this analysis also permits the determination of the uni- or bidirectionality of replication.
-

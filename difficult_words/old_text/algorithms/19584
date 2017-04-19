@@ -1,9 +1,0 @@
-
-To prospectively evaluate regional alterations in the apparent diffusion coefficient (ADC) of cortical gray and white matter and subcortical structures that are known to be involved in mild cognitive impairment (MCI).
-
-Magnetic resonance (MR) imaging was performed in 13 patients with MCI (nine men, four women; mean age, 74 years +/- 6 [standard deviation]) and 13 healthy elderly control subjects (seven men, six women; mean age, 75 years +/- 4). This study was approved by the institutional review board and was HIPAA compliant. Each subject gave informed consent. ADC was measured from manually drawn regions of interest (ROIs) of the hippocampus, parahippocampal gyrus, amygdala, corpus callosum, and anterior and posterior cingulate gyrus and from automatically defined frontal, parietal, occipital, and temporal lobes by using template masking. ROIs were outlined on anatomic images then mapped onto ADC maps by using coregistration transformation matrix. A skeleton-based region competition segmentation algorithm was used for segmentation of gray and white matter. The group difference in ADC values was assessed with independent-sample t tests. Pearson correlation analysis was used to examine the correlation of ADC values with age and memory test scores.
-
-Higher ADCs were found in hippocampus, temporal lobe gray matter, and corpus callosum of patients with MCI compared with that of control subjects (P < .05). By pooling all subjects together, an elevated hippocampal ADC was significantly correlated with worse memory performance scores in 5-minute and 30-minute delayed word-list recall tasks (P < .05).
-
-ADCs from gray and white matter of different brain regions can be analyzed by applying an automated template-masking method in conjunction with a skeleton-based region competition segmentation algorithm.
-

@@ -1,3 +1,0 @@
-
-We compared image restoration methods [Richardson-Lucy (RL), Wiener, and Next-image] with measured "scatter" point-spread-functions, for removing subsurface fluorescence from section-and-image cryo-image volumes. All methods removed haze, delineated single cells from clusters, and improved visualization, but RL best represented structures. Contrast-to-noise and contrast-to-background improvement from RL and Wiener were comparable and 35% better than Next-image. Concerning detection of labeled cells, ROC analyses showed RL ≈Wiener > Next-image >> no processing. Next-image was faster than other methods and less prone to image processing artifacts. RL is recommended for the best restoration of the shape and size of fluorescent structures.
-

@@ -1,3 +1,0 @@
-
-Currently, the image distribution gap between image acquisition computers and image processing computers is bridged through magnetic tapes. The tape formats used by the manufacturers of the image acquisition computers are idiosyncratic and fairly complex. A general purpose window based software tool is herein described, which frees the clinical and research sectors of the responsibility of understanding and decoding these complex formats in order to import image databases from acquisition computers to image processing computers. This software tool provides a cornerstone for developing image processing software for diagnostic, therapeutic and surgical planning purposes.
-

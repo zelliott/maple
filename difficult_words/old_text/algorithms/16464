@@ -1,3 +1,0 @@
-
-We introduce a software library incorporating our recent research into efficient simulation algorithms for large spin systems. Liouville space simulations (including symmetry, relaxation and chemical kinetics) of most liquid-state NMR experiments on 40+ spin systems can now be performed without effort on a desktop workstation. Much progress has also been made with improving the efficiency of ESR, solid state NMR and Spin Chemistry simulations. Spinach is available for download at http://spindynamics.org.
-

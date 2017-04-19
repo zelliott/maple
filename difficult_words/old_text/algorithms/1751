@@ -1,3 +1,0 @@
-
-Continuous-time modeling of random searches is designed to be robust to the sampling rate while the spatial model is required to be of rotation-invariant type, which is often computationally prohibitive. Such computational difficulty may be circumvented by employing a model with independent components. We demonstrate that its disadvantages in statistical properties are blurred under lower frequency. We propose a quantitative criterion for choice of the sampling rate at which a spatial model with independent components resembles a rotation-invariant model. Our findings have the potential to assist the observer to employ simpler models in the continuous-time framework to avoid expensive computation required for statistical inference.
-

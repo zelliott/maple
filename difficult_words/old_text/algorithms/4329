@@ -1,9 +1,0 @@
-
-Perturbations in cerebral blood volume (CBV), blood flow (CBF), and metabolic rate of oxygen (CMRO2) lead to associated changes in tissue concentrations of oxy- and deoxy-hemoglobin (ΔO and ΔD), which can be measured by near-infrared spectroscopy (NIRS). A novel hemodynamic model has been introduced to relate physiological perturbations and measured quantities. We seek to use this model to determine functional traces of cbv(t) and cbf(t) - cmro2(t) from time-varying NIRS data, and cerebrovascular physiological parameters from oscillatory NIRS data (lowercase letters denote the relative changes in CBV, CBF, and CMRO2 with respect to baseline). Such a practical implementation of a quantitative hemodynamic model is an important step toward the clinical translation of NIRS.
-
-In the time domain, we have simulated O(t) and D(t) traces induced by cerebral activation. In the frequency domain, we have performed a new analysis of frequency-resolved measurements of cerebral hemodynamic oscillations during a paced breathing paradigm.
-
-We have demonstrated that cbv(t) and cbf(t) - cmro2(t) can be reliably obtained from O(t) and D(t) using the model, and that the functional NIRS signals are delayed with respect to cbf(t) - cmro2(t) as a result of the blood transit time in the microvasculature. In the frequency domain, we have identified physiological parameters (e.g., blood transit time, cutoff frequency of autoregulation) that can be measured by frequency-resolved measurements of hemodynamic oscillations.
-
-The ability to perform noninvasive measurements of cerebrovascular parameters has far-reaching clinical implications. Functional brain studies rely on measurements of CBV, CBF, and CMRO2, whereas the diagnosis and assessment of neurovascular disorders, traumatic brain injury, and stroke would benefit from measurements of local cerebral hemodynamics and autoregulation.
-

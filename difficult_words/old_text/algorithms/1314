@@ -1,5 +1,0 @@
-
-The approaches usually used for building large genetic maps consist of dividing the marker set into linkage groups and provide local orders that can be tested by multi-point linkage analysis. To deal with the limitations of these approaches, a strategy taking the marker set into account globally is defined.
-
-The paper presents a new approach called 'Bi-Dimensional Scaling Map (BDS-Map) for inferring marker orders and distances in genetic maps based on the use of an additional dimension orthogonal to the map into which markers are projected. Dynamical forces based on a two-point analysis are applied to tend to optimize the marker locations in space. The efficiency of the approach is exemplified on real data (16 and 70 markers on chromosomes 6 and 2, respectively) and simulated data (50 maps of 70 markers).
-

@@ -1,3 +1,0 @@
-
-Currently, the precursor ion selection strategies in LC-MS mainly choose the most prominent peptide signals for MS/MS analysis. Consequently, high-abundance proteins are identified by MS/MS of many peptides, whereas proteins of lower abundance might elude identification. We present a novel, iterative and result-driven approach for precursor ion selection that significantly increases the efficiency of an MS/MS analysis by decreasing data redundancy and analysis time. By simulating different strategies for precursor ion selection on an existing data set, we compare our method to existing result-driven strategies and evaluate its performance with regard to mass accuracy, database size, and sample complexity.
-

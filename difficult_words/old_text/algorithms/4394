@@ -1,7 +1,0 @@
-
-Many transcription factors bind to sites that are long and loosely related to each other. De novo identification of such motifs is computationally challenging. In this article, we propose a novel semi-greedy algorithm over the space of all IUPAC degenerate strings to identify the most over-represented highly degenerate motifs.
-
-We present an implementation of this algorithm, named SPACER (Separated Pattern-based Algorithm for cis-Element Recognition) and demonstrate its effectiveness in identifying 'gapped' and highly degenerate motifs. We compare SPACER's performance against ten motif finders on 42 experimentally defined regulons from Bacillus subtilis, Escherichia coli and Saccharomyces cerevisiae. These motif finders cover a wide range of both enumerative and statistical approaches, including programs specifically designed for prokaryotic and 'gapped' motifs.
-
-A Java 1.4 implementation is freely available on the Web at http://genie.Dartmouth.edu/SPACER/
-

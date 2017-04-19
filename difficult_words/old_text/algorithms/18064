@@ -1,7 +1,0 @@
-
-Genetic regulatory networks (GRN) can be described by differential equations with SUM logic which has been found in many natural systems. Identification of the network components and transcriptional rates are critical to the output behavior of the system. Though transcriptional rates cannot be measured in vivo, biologists have shown that they are alterable through artificial factors in vitro.
-
-This study presents the theoretical research work on a novel nonlinear control and stability analysis of genetic regulatory networks. The proposed control scheme can drive the genetic regulatory network to desired levels by adjusting transcriptional rates. Asymptotic stability proof is conducted with Lyapunov argument for both noise-free and additive noises cases. Computer simulation results show the effectiveness of the control design and robustness of the regulation scheme with additive noises.
-
-With the knowledge of interaction between transcriptional factors and gene products, the research results can be applied in the design of model-based experiments to regulate gene expression profiles.
-

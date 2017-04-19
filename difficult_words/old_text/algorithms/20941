@@ -1,3 +1,0 @@
-
-Both natural languages and cell biology make use of one-dimensional encryption. Their investigation calls for syntactic deciphering of the text and semantic understanding of the resulting structures. Here we discuss recently published algorithms that allow for such searches: automatic distillation of structure (ADIOS) that is successful in discovering syntactic structures in linguistic texts and its motif extraction (MEX) component that can be used for uncovering motifs in DNA and protein sequences. The underlying principles of these syntactic algorithms and some of their results will be described.
-

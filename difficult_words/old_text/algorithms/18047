@@ -1,7 +1,0 @@
-
-Chromosomal replication is the central event in the bacterial cell cycle. Identification of replication origins (oriCs) is necessary for almost all newly sequenced bacterial genomes. Given the increasing pace of genome sequencing, the current available software for predicting oriCs, however, still leaves much to be desired. Therefore, the increasing availability of genome sequences calls for improved software to identify oriCs in newly sequenced and unannotated bacterial genomes.
-
-We have developed Ori-Finder, an online system for finding oriCs in bacterial genomes based on an integrated method comprising the analysis of base composition asymmetry using the Z-curve method, distribution of DnaA boxes, and the occurrence of genes frequently close to oriCs. The program can also deal with unannotated genome sequences by integrating the gene-finding program ZCURVE 1.02. Output of the predicted results is exported to an HTML report, which offers convenient views on the results in both graphical and tabular formats.
-
-A web-based system to predict replication origins of bacterial genomes has been presented here. Based on this system, oriC regions have been predicted for the bacterial genomes available in GenBank currently. It is hoped that Ori-Finder will become a useful tool for the identification and analysis of oriCs in both bacterial and archaeal genomes.
-

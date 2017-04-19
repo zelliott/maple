@@ -1,5 +1,0 @@
-
-We constructed a website for inferring a network by applying the graphical Gaussian model, from a large amount of data, including redundant information. The available tools on the website are based on a system, named ASIAN (Automatic System for Inferring A Network), in combination with the two methods in our previous papers, which were designed to analyze gene expression profiles on a genomic scale. One of the remarkable features of the website is its ability to infer a network, concomitant with hierarchical clustering and the following estimation of cluster boundaries.
-
-http://eureka.ims.u-tokyo.ac.jp/asian
-

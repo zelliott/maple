@@ -1,3 +1,0 @@
-
-We use the Born approximation of the radiative transport equation to recover simultaneously the absorption and scattering coefficients in a single layer of a two-layer tissue sample from reflectance data. This method reduces the estimation of both optical properties to a single linear, least-squares problem. It is valid over length scales smaller than a transport mean free path and hence is useful for epithelial tissue layers. We demonstrate the accuracy of this method by using spatially resolved reflectance data computed with Monte Carlo simulations.
-

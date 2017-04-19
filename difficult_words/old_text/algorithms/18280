@@ -1,3 +1,0 @@
-
-In the referenced paper, there is a technical carelessness in the second lemma, and it is highlighted here to avoid possible failure when the result is used to design the intermittent controller for nonlinear systems.
-

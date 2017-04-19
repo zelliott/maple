@@ -1,3 +1,0 @@
-
-When both the variance and the N are unequal in a two-group design, the probability of a Type I error shifts from the nominal 5% error rate. The probability is too liberal when the small cell has the larger variance and too conservative when the large cell has the larger variance. We present an algorithm to circumvent the problem when the smaller group has the larger variance and show, by simulation, that the algorithm brings the error rate back to the nominal value without sacrificing the ability to detect true effects.
-

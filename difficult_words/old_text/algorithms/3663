@@ -1,7 +1,0 @@
-
-Our goal was to develop a normalization technique that yields results similar to cyclic loess normalization and with speed comparable to quantile normalization.
-
-Fastlo yields normalized values similar to cyclic loess and quantile normalization and is fast; it is at least an order of magnitude faster than cyclic loess and approaches the speed of quantile normalization. Furthermore, fastlo is more versatile than both cyclic loess and quantile normalization because it is model-based.
-
-The Splus/R function for fastlo normalization is available from the authors.
-

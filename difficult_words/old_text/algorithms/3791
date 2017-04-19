@@ -1,3 +1,0 @@
-
-Promoter prediction programs (PPPs) are important for in silico gene discovery without support from expressed sequence tag (EST)/cDNA/mRNA sequences, in the analysis of gene regulation and in genome annotation. Contrary to previous expectations, a comprehensive analysis of PPPs reveals that no program simultaneously achieves sensitivity and a positive predictive value >65%. PPP performances deduced from a limited number of chromosomes or smaller data sets do not hold when evaluated at the level of the whole genome, with serious inaccuracy of predictions for non-CpG-island-related promoters. Some PPPs even perform worse than, or close to, pure random guessing.
-

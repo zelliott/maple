@@ -1,3 +1,0 @@
-
-The underlying assumption for most lumping techniques is that the reduced models must be valid for the entire composition space. This is a harsh requirement that often limits the models that are generated. The scheme that is presented here uses the inherent structure of reaction systems to divide the composition space into regions. Within each region, the order-of-magnitude relationships that exist between terms in the rate equations are used to systematically reduce the order and coupling of the model. The full system is then described through piecewise combination of these simpler, region-specific models. Although these reduced models are based on assumptions that make them invalid globally, they are accurate within the regions for which they have been crafted.
-

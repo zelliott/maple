@@ -1,3 +1,0 @@
-
-Artificial Neural Networks (ANN) may be a tool alternative and complementary to typical statistical analysis. However, in spite of many computer applications of various ANN algorithms ready for use, artificial intelligence is relatively rarely applied to data processing. This paper presents practical aspects of scientific application of ANN in medicine using widely available algorithms. Several main steps of analysis with ANN were discussed starting from material selection and dividing it into groups, to the quality assessment of obtained results at the end. The most frequent, typical reasons for errors as well as the comparison of ANN method to the modeling by regression analysis were also described.
-

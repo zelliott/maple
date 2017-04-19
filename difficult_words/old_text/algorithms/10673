@@ -1,3 +1,0 @@
-
-A reconstruction theory for intensity diffraction tomography (I-DT) has been proposed that permits reconstruction of a weakly scattering object without explicit knowledge of phase information. We investigate the I-DT reconstruction problem assuming an incident (paraxial) spherical wave and scanning geometries that employ fixed source-to-object distances. Novel reconstruction methods are derived by identifying and exploiting tomographic symmetries and the rotational invariance of the problem. An underlying theme is that symmetries in tomographic imaging systems can facilitate solutions for phase-retrieval problems. A preliminary numerical investigation of the developed reconstruction methods is presented.
-

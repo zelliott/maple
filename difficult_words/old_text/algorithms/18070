@@ -1,7 +1,0 @@
-
-Biclustering of gene expression data searches for local patterns of gene expression. A bicluster (or a two-way cluster) is defined as a set of genes whose expression profiles are mutually similar within a subset of experimental conditions/samples. Although several biclustering algorithms have been studied, few are based on rigorous statistical models.
-
-We developed a Bayesian biclustering model (BBC), and implemented a Gibbs sampling procedure for its statistical inference. We showed that Bayesian biclustering model can correctly identify multiple clusters of gene expression data. Using simulated data both from the model and with realistic characters, we demonstrated the BBC algorithm outperforms other methods in both robustness and accuracy. We also showed that the model is stable for two normalization methods, the interquartile range normalization and the smallest quartile range normalization. Applying the BBC algorithm to the yeast expression data, we observed that majority of the biclusters we found are supported by significant biological evidences, such as enrichments of gene functions and transcription factor binding sites in the corresponding promoter sequences.
-
-The BBC algorithm is shown to be a robust model-based biclustering method that can discover biologically significant gene-condition clusters in microarray data. The BBC model can easily handle missing data via Monte Carlo imputation and has the potential to be extended to integrated study of gene transcription networks.
-

@@ -1,3 +1,0 @@
-
-When a person or an algorithm searches for targets throughout an image, there are no discrete trials, and the probability of a false alarm cannot be computed. Instead, what is observable is the rate of production of false alarms (per image, say), and data analysis uses the free-response version of signal detection theory. A previously-proposed model implies a power relationship for the free-response operating characteristic. The present letter introduces an extra parameter. The relationship between the logarithms of probability of correct detection and rate of false alarm production is no longer forced to be linear.
-

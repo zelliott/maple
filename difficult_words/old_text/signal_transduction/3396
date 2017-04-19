@@ -1,3 +1,0 @@
-
-Chemotaxis of tumor cells in response to a gradient of extracellular ligand is an important step in cancer metastasis. The heterogeneity of chemotactic responses in cancer has not been widely addressed by experimental or mathematical modeling techniques. However, recent advancements in chemoattractant presentation, fluorescent-based signaling probes, and phenotypic analysis paradigms provide rich sources for building data-driven relational models that describe tumor cell chemotaxis in response to a wide variety of stimuli. Here we present gradient sensing, and the resulting chemotactic behavior, in a 'cue-signal-response' framework and suggest methods for utilizing recently reported experimental methods in data-driven modeling ventures.
-

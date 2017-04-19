@@ -1,9 +1,0 @@
-
-To evaluate the accuracy of the sub-classification of renal cortical neoplasms using molecular signatures.
-
-A search of publicly available databases was performed to identify microarray datasets with multiple histologic sub-types of renal cortical neoplasms. Meta-analytic techniques were utilized to identify differentially expressed genes for each histologic subtype. The lists of genes obtained from the meta-analysis were used to create predictive signatures through the use of a pair-based method. These signatures were organized into an algorithm to sub-classify renal neoplasms. The use of these signatures according to our algorithm was validated on several independent datasets.
-
-We identified three Gene Expression Omnibus datasets that fit our criteria to develop a training set. All of the datasets in our study utilized the Affymetrix platform. The final training dataset included 149 samples represented by the four most common histologic subtypes of renal cortical neoplasms: 69 clear cell, 41 papillary, 16 chromophobe, and 23 oncocytomas. When validation of our signatures was performed on external datasets, we were able to correctly classify 68 of the 72 samples (94%). The correct classification by subtype was 19/20 (95%) for clear cell, 14/14 (100%) for papillary, 17/19 (89%) for chromophobe, 18/19 (95%) for oncocytomas.
-
-Through the use of meta-analytic techniques, we were able to create an algorithm that sub-classified renal neoplasms on a molecular level with 94% accuracy across multiple independent datasets. This algorithm may aid in selecting molecular therapies and may improve the accuracy of subtyping of renal cortical tumors.
-

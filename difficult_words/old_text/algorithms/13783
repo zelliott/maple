@@ -1,3 +1,0 @@
-
-A method is described for adaptively identifying and equalizing the feedback path of a hearing aid in order to stabilize the system. The algorithm utilizes an LMS adaptive filter and is implemented in digital form. An additional 10 to 15 dB of stable gain margin for a BTE hearing aid configuration has been demonstrated in laboratory experiments with hearing-impaired subjects using an interim custom VLSI circuit implementation.
-

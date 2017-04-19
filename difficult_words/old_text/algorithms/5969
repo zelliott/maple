@@ -1,9 +1,0 @@
-
-Many hundreds of drugs have names that either look or sound so much alike that doctors, nurses and pharmacists can get them confused, dispensing the wrong one in errors that can injure or even kill patients.
-
-We propose to address the problem through the application of two new methods-one based on orthographic similarity ("look-alike"), and the other based on phonetic similarity ("sound-alike"). In order to compare the effectiveness of the new methods for identifying confusable drug names with other known similarity measures, we developed a novel evaluation methodology.
-
-We show that the new orthographic measure (BI-SIM) outperforms other commonly used measures of similarity on a set containing both look-alike and sound-alike pairs, and that a new feature-based phonetic approach (ALINE) outperforms orthographic approaches on a test set containing solely sound-alike pairs. However, an approach that combines several different measures achieves the best results on two test sets.
-
-Our system is currently used as the basis of a system developed for the U.S. Food and Drug Administration for detection of confusable drug names.
-

@@ -1,7 +1,0 @@
-
-While intracellular buffers are widely used to study calcium signaling, no such tool exists for the other major second messenger, cyclic AMP (cAMP).
-
-Here we describe a genetically encoded buffer for cAMP based on the high-affinity cAMP-binding carboxy-terminus of the regulatory subunit RIbeta of protein kinase A (PKA). Addition of targeting sequences permitted localization of this fragment to the extra-nuclear compartment, while tagging with mCherry allowed quantification of its expression at the single cell level. This construct (named "cAMP sponge") was shown to selectively bind cAMP in vitro. Its expression significantly suppressed agonist-induced cAMP signals and the downstream activation of PKA within the cytosol as measured by FRET-based sensors in single living cells. Point mutations in the cAMP-binding domains of the construct rendered the chimera unable to bind cAMP in vitro or in situ. Cyclic AMP sponge was fruitfully applied to examine feedback regulation of gap junction-mediated transfer of cAMP in epithelial cell couplets.
-
-This newest member of the cAMP toolbox has the potential to reveal unique biological functions of cAMP, including insight into the functional significance of compartmentalized signaling events.
-

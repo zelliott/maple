@@ -1,9 +1,0 @@
-
-Microscopes form projected images from illuminated objects, such as cellular tissue, which are recorded at a distance through the optical system's field of view. A telescope on a satellite or airplane also forms images with a similar optical projection of objects on the ground. Typical visible illuminations form a displayed set of three-color channels (Red Green Blue [RGB]) that are combined from three image sensor arrays (e.g., focal plane arrays) into a single pixel coding for each color present in the image. Analysis of these RGB color images develops a qualitative image representation of the objects.
-
-Independent component analysis (ICA) is used for analysis and enhancement of multispectral images, and compared with the similar and widely used principal component analysis.
-
-The data examples indicate that the ICA enhancement, and the resulting RGB image combination display, can be useful in processing datacubes of cellular data where isolation of unknown subtle image elements representing objects is desired.
-
-ICA image enhancement can aid processing of datacubes of cellular data by clarifying subtle image elements. These parallelizable algorithms can be implemented for real-time, online analysis.
-

@@ -1,3 +1,0 @@
-
-We present a fully automated phase unwrapping algorithm (Phi UN) which is optimized for high-resolution magnetic resonance imaging data. The algorithm is a region growing method and uses separate quality maps for seed finding and unwrapping which are retrieved from the full complex information of the data. We compared our algorithm with an established method in various phantom and in vivo data and found a very good agreement between the results of both techniques. Phi UN, however, was significantly faster at low signal to noise ratio (SNR) and data with a more complex phase topography, making it particularly suitable for applications with low SNR and high spatial resolution. Phi UN is freely available to the scientific community.
-

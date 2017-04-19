@@ -1,3 +1,0 @@
-
-Modifications of the previously described adaptive algorithm of automatic annotating A4 have been considered, which make it possible to improve the quality of prediction. First, the direct use of the so-called basis statistics eta refines the quality of prediction compared with the previously proposed statistics gamma. Second, the quality is improved if not all similar sequences found but only part of them are used. This decreases the noising of the data, which in turn improves the quality of prognosis.
-

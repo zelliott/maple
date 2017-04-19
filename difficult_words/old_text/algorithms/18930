@@ -1,5 +1,0 @@
-
-Many bioinformatics solutions suffer from the lack of usable interface/platform from which results can be analyzed and visualized. Overcoming this hurdle would allow for more widespread dissemination of bioinformatics algorithms within the biological and medical communities. The algorithms should be accessible without extensive technical support or programming knowledge. Here, we propose a dynamic wizard platform that provides users with a Graphical User Interface (GUI) for most Java bioinformatics library toolkits. The application interface is generated in real-time based on the original source code. This platform lets developers focus on designing algorithms and biologists/physicians on testing hypotheses and analyzing results.
-
-The open source code can be downloaded from: http://bcl.med.harvard.edu/proteomics/proj/APBA/.
-

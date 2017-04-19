@@ -1,9 +1,0 @@
-
-To develop a computerized algorithm to quantify fetal heart rate (FHR) variability and compare it to perinatologists' interpretation of FHR variability.
-
-FHR variability was calculated using data from 30 women who had a fetal scalp electrode placed for a clinical indication, and compared to the assessment of FHR variability from four perinatologists who interpreted paper tracings of the same data. Inter-rater reliability was calculated and receiver-operator curve analysis was done.
-
-Correlation between the computer algorithm's assessment of variability and the perinatologists' assessment (0.27-0.68) was similar to the inter-rater reliability between perinatologists (0.33-0.72).
-
-A computer-based algorithm can assess FHR variability as well as expert clinicians.
-

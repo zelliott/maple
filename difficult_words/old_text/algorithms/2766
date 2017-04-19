@@ -1,3 +1,0 @@
-
-The search engine processor (SEPro) is a tool for filtering, organizing, sharing, and displaying peptide spectrum matches. It employs a novel three-tier Bayesian approach that uses layers of spectrum, peptide, and protein logic to lead the data to converge to a single list of reliable protein identifications. SEPro is integrated into the PatternLab for proteomics environment, where an arsenal of tools for analyzing shotgun proteomic data is provided. By using the semi-labeled decoy approach for benchmarking, we show that SEPro significantly outperforms a commercially available competitor.
-

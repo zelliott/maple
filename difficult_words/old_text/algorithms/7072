@@ -1,3 +1,0 @@
-
-To analyze the influence of parameters and functions on the energy and geometry obtained through different force field calculations, we have developed program MolStruc. This software allows the user to choose between two sets of functions and parameters, MM2 and AMBER. The MM2 option of the program was developed to compute the coulombic energy in a dipole or monopole approximation. To establish comparisons between the energy values, the coulombic contribution is computed in the same way in the Amber and MM2 options of the program. The force field parameters can be handled interactively (through addition or modification). The program was used to study molecules of a representative sample displaying most of the problems encountered in molecular mechanics (MM).
-

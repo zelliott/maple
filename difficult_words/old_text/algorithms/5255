@@ -1,9 +1,0 @@
-
-It has been hypothesized that high structural stress in atherosclerotic plaques at critical sites may contribute to plaque disruption. To test that hypothesis, 3D fluid-structure interaction models were constructed based on in vivo MRI data of human atherosclerotic carotid plaques to assess structural stress behaviors of plaques with and without rupture.
-
-In vivo MRI data of carotid plaques from 12 patients scheduled for endarterectomy were acquired for model reconstruction. Histology confirmed that 5 of the 12 plaques had rupture. Plaque wall stress (PWS) and flow maximum shear stress were extracted from all nodal points on the lumen surface of each plaque for analysis. A critical PWS (maximum of PWS values from all possible vulnerable sites) was determined for each plaque.
-
-Mean PWS from all ulcer nodes in ruptured plaques was 86% higher than that from all nonulcer nodes (123.0 versus 66.3 kPa, P<0.0001). Mean flow maximum shear stress from all ulcer nodes in ruptured plaques was 170% higher than that from all nonulcer nodes (38.9 versus 14.4 dyn/cm2, P<0.0001). Mean critical PWS from the 5 ruptured plaques was 126% higher than that from the 7 nonruptured ones (247.3 versus 108 kPa, P=0.0016 using log transformation).
-
-The results of this study show that plaques with prior ruptures are associated with higher critical stress conditions, both at ulcer sites and when compared with nonruptured plaques. With further validations, plaque stress analysis may provide additional stress indicators helpful for image-based plaque vulnerability assessment.
-

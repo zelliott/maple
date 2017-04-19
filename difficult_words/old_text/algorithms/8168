@@ -1,9 +1,0 @@
-
-In this study, we explored different statistical approaches to identify the best algorithm to predict EQ-5D utility scores from the NEI-VFQ 25 in patients with age-related macular degeneration (AMD).
-
-Ordinary least squares (OLS), Tobit, and censored least absolute deviation (CLAD) approaches were compared using cross-sectional data (primary dataset, n = 151) at screening from a phase I/II clinical trial in patients with AMD. Three models were specified in this study: full (includes all 12 dimensions of the NEI-VFQ 25), short (includes only the general health dimension and the composite score), and reduced model (using stepwise regression). To evaluate the predictive accuracy of the models, the mean absolute prediction error (MAPE), mean error, and root means squared error were calculated using in-sample cross-validation (within the primary dataset) and out-of-sample validation using an independent dataset (n = 393). The model that provided the lowest prediction errors was chosen as the best model.
-
-In-sample cross-validation and out-of-sample validation consistently demonstrated that, compared to other approaches, heteroscedasticity-adjusted OLS produced the lowest MAPE (mean values were 0.1400, 0.1593, respectively) for the full model, while CLAD performed best for the short and reduced models (mean values were 0.1299, 0.1483, respectively). The normality and homoscedasticity assumptions of both OLS and Tobit were rejected. CLAD, however, can accommodate these particular violations.
-
-The CLAD-short model is recommended for producing the EQ-5D utility scores when only the NEI-VFQ 25 data are available.
-

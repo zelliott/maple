@@ -1,3 +1,0 @@
-
-The goal of the present study was to develop and evaluate new algorithms for the prediction of the outcome of a head-upright tilt test (HUTT). Using transthoracic impedance and its first derivative, we attempted to determine if indexes computed on these waveforms could detect a positive outcome to a 70 degrees -45min HUTT with reliable sensitivity and specificity. The methods were evaluated retrospectively in a group of 70 patients and validated prospectively in a group of 59 patients. The best detector obtained used a neural network. It compares very favorably with published results for other syncope detectors.
-

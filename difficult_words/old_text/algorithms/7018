@@ -1,3 +1,0 @@
-
-We describe a method for generating a molecular surface using a parametric patch representation. Unlike previous methods, this algorithm generates a parametric patch surface which is smooth and G continuous and manipulable in real-time. Crucial to our approach is the creation of a net of approximately equilateral triangles from which we generate the control points used as the basis for describing the surface. We present in detail the method used for generating the triangular net and accompanying control points, along with examples of the resulting surfaces.
-

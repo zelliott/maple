@@ -1,9 +1,0 @@
-
-A near real-time and fully automatic method for calculation of the midsagittal plane (MSP) for magnetic resonance (MR) diffusion and perfusion images is introduced.
-
-The method is based on the Kullback-Leibler's (KL) measure quantifying the difference between two intensity distributions. The MSP is a sagittal plane with the highest KL measure. The method was validated quantitatively for 61 diffusion-weighted imaging (DWI), cerebral blood flow (CBF), cerebral blood volume (CBV), mean transit time (MTT), peak height (PKHT), and time to peak (TPP) data sets of 11 stroke patients based on the ground truth provided by two raters.
-
-Average angular errors are less than 1 degrees for DWI and less than 2 degrees for CBF and CBV. Average distance errors measured in the worst case (on the brain's bounding box) are less than 2.5 mm for DWI and less than 5 mm for CBF and CBV. This algorithmic accuracy is at the level of interrater variability. Results obtained for the other perfusions maps (MTT, PKHT, TTP) were inferior; therefore, processing of CBF or CBV is preferred for accurate and robust calculation of the MSP from perfusion maps. Calculation of the MSP takes about half a second on a standard computer.
-
-The proposed method is near real-time and fully automatic, and neither user interaction nor parameter setting is needed. It does not require preprocessing of data. The method potentially is useful in rapid and automated processing of MR stroke diffusion and perfusion images.
-

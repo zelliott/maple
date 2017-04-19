@@ -1,3 +1,0 @@
-
-This paper extends our previous study on discrete events system formulations of DNA hybridization, and focuses discussions on metabolism and gene mutation in molecular biology. Finite state machine (FSM) theory is extensively applied to represent key concepts and analyzes the processes related to the biological phenomena mentioned above. The goal is to mathematically represent and interpret the process of gene mutation and the effects on structures of protein macro molecule caused by gene mutation. We hope the proposed model will provide a foothold for introducing the information science and the control theory tools in molecular biology.
-

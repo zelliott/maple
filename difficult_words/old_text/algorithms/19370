@@ -1,7 +1,0 @@
-
-Assessment of array quality is an essential step in the analysis of data from microarray experiments. Once detected, less reliable arrays are typically excluded or "filtered" from further analysis to avoid misleading results.
-
-In this article, a graduated approach to array quality is considered based on empirical reproducibility of the gene expression measures from replicate arrays. Weights are assigned to each microarray by fitting a heteroscedastic linear model with shared array variance terms. A novel gene-by-gene update algorithm is used to efficiently estimate the array variances. The inverse variances are used as weights in the linear model analysis to identify differentially expressed genes. The method successfully assigns lower weights to less reproducible arrays from different experiments. Down-weighting the observations from suspect arrays increases the power to detect differential expression. In smaller experiments, this approach outperforms the usual method of filtering the data. The method is available in the limma software package which is implemented in the R software environment.
-
-This method complements existing normalisation and spot quality procedures, and allows poorer quality arrays, which would otherwise be discarded, to be included in an analysis. It is applicable to microarray data from experiments with some level of replication.
-

@@ -1,5 +1,0 @@
-
-Clinical application of the prognostic gene expression signature has been delayed due to the large number of genes and complexity of prediction algorithms. In the current study we aimed to develop an easy-to-use risk score with a limited number of genes that can robustly predict prognosis of patients with hepatocellular carcinoma (HCC). The risk score was developed using Cox coefficient values of 65 genes in the training set (n = 139) and its robustness was validated in test sets (n = 292). The risk score was a highly significant predictor of overall survival (OS) in the first test cohort (P = 5.6 × 10(-5), n = 100) and the second test cohort (P = 5.0 × 10(-5) , n = 192). In multivariate analysis, the risk score was a significant risk factor among clinical variables examined together (hazard ratio [HR], 1.36; 95% confidence interval [CI], 1.13-1.64; P = 0.001 for OS).
-
-The risk score classifier we have developed can identify two clinically distinct HCC subtypes at early and late stages of the disease in a simple and highly reproducible manner across multiple datasets.
-

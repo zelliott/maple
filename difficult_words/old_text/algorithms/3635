@@ -1,7 +1,0 @@
-
-Understanding the mechanisms that determine gene expression regulation is an important and challenging problem. A common approach consists of identifying DNA-binding sites from a collection of co-regulated genes and their nearby non-coding DNA sequences. Here, we consider a regression model that linearly relates gene expression levels to a sequence matching score of nucleotide patterns. We use Bayesian models and stochastic search techniques to select transcription factor binding site candidates, as an alternative to stepwise regression procedures used by other investigators.
-
-We demonstrate through simulated data the improved performance of the Bayesian variable selection method compared to the stepwise procedure. We then analyze and discuss the results from experiments involving well-studied pathways of Saccharomyces cerevisiae and Schizosaccharomyces pombe. We identify regulatory motifs known to be related to the experimental conditions considered. Some of our selected motifs are also in agreement with recent findings by other researchers. In addition, our results include novel motifs that constitute promising sets for further assessment.
-
-The Matlab code for implementing the Bayesian variable selection method may be obtained from the corresponding author.
-

@@ -1,9 +1,0 @@
-
-To present a novel method for analyzing the voltage waveform from high-frequency X-ray generators for radiographic systems.
-
-The output signal of the actual voltage across the tube of a high-frequency generator was measured using the built-in voltage sense taps that are used for voltage regulation feedback in X-ray generators. The output signal was stored in an analyzing recorder, and the waveforms were analyzed using FFT analysis. The FFT analysis of high-frequency generators consisted of obtaining the power spectrum, comparing the major frequency components in the tube voltage waveforms, and examining the intensity of each frequency component.
-
-FFT analysis enables an objective comparison of the complex tube voltage waveforms in high-frequency X-ray generators. FFT analysis detected the change in the X-ray tube voltage waveform that occurred when there were problems with the high-frequency generator.
-
-High-frequency X-ray generators are becoming the universal choice for radiographic systems. The X-ray tube voltage and its waveform are important features of an X-ray generator, and quality assurance (QA) is important, too. As a tool for engineers involved in the design and development of X-ray generators, we can see that our methods (FFT analysis) might have some value as a means of describing generator performance under varying conditions. Furthermore, since the X-ray tube voltage waveform of a high-frequency generator is complex, FFT analysis may be useful for QA of the waveform.
-

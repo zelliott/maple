@@ -1,9 +1,0 @@
-
-To investigate the inhomogeneity of radiofrequency fields at higher field strengths that can interfere with established volumetric methods, in particular for the determination of visceral (VAT) and subcutaneous adipose tissue (SCAT). A versatile, interactive sparse sampling (VISS) method is proposed to determine VAT, SCAT, and also total body volume (TBV).
-
-VISS is based on a separation of major components by contour lines, followed by a sparse sampling algorithm, and eventually a quick manual correction. T1-weighted whole body scans of 24 subjects were evaluated (12 at 1.5T, 12 at 3.0T).
-
-(a) Coefficients of variance (CV) and intra class correlation coefficients (ICC) determined within 3 raters (24 subjects) showed high consistency for SCAT (CV 2.2%, ICC 0.993) and VAT (CV 4.9%, ICC 0.987), (b) comparison with an established volumetric method revealed good agreement (Bland-Altman, VAT -0.68L to 1.07L, SCAT -2.18L to 8.39L), and (c) comparison of weights calculated from TBV with values measured on a scale resulted in an even better accuracy for VISS (Bland-Altman -1.98 kg to 4.09 kg) than for the reference method (-5.60 kg to 1.60 kg).
-
-VISS is reproducible in particular within the same rater, accurate as compared with established methods, and robust against low contrast and inhomogeneity artifacts.
-

@@ -1,3 +1,0 @@
-
-An algorithm and computer program to calculate exact goodness-of-fit tests for unordered categories with equal probabilities under the null hypothesis are presented. FORTRAN program EBGF utilizes partitions and multinomial weights to reduce computation times for Fisher's exact, exact chi-square, exact likelihood-ratio, exact Freeman-Tukey, and exact Cressie-Read goodness-of-fit tests.
-

@@ -1,3 +1,0 @@
-
-Shear wave propagation techniques have been introduced for measuring the viscoelastic material properties of tissue, but assessing the accuracy of these measurements is difficult for in vivo measurements in tissue. We propose using the Kramers-Kronig relationships to assess the consistency and quality of the measurements of shear wave attenuation and phase velocity. In ex vivo skeletal muscle we measured the wave attenuation at different frequencies, and then applied finite bandwidth Kramers-Kronig equations to predict the phase velocities. We compared these predictions with the measured phase velocities and assessed the mean square error (MSE) as a quality factor. An algorithm was derived for computing a quality factor using the Kramers-Kronig relationships.
-

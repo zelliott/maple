@@ -1,3 +1,0 @@
-
-The assembly of a multiple sequence alignment (MSA) has become one of the most common tasks when dealing with sequence analysis. Unfortunately, the wide range of available methods and the differences in the results given by these methods makes it hard for a non-specialist to decide which program is best suited for a given purpose. In this review we briefly describe existing techniques and expose the potential strengths and weaknesses of the most widely used multiple alignment packages.
-

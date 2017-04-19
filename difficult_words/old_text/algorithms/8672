@@ -1,3 +1,0 @@
-
-We present an algorithm for extracting edges from noisy images. Our method uses an unsupervised learning approach for local threshold computation by means of Pearson's method for mixture density identification. We tested the technique by applying it to computer-generated images corrupted with artificial noise and to an actual Thallium-201 heart image and it is shown that the technique has potential use for noisy images.
-

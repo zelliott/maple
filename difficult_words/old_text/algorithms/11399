@@ -1,3 +1,0 @@
-
-Photoacoustic tomography is usually limited to acoustically homogeneous tissue. A hybrid scheme is developed to break this limitation by utilizing ultrasound to determine the unknown Green's function of inhomogeneous tissue. The method can effectively decrease the distortion and false contrast in images by extracting information from speckle noise. The method does not depend on the prior knowledge of tissue and the medium complexity. Moreover, the estimation of Green's function and the photoacoustic detection are performed by the same transducer. Therefore, the scheme could be easily integrated into a classical photoacoustic tomography system and extend its application in speckle environment.
-

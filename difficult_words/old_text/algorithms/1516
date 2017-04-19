@@ -1,3 +1,0 @@
-
-This paper proposes extending the MVK carcinogenesis model by adopting the Erlang distribution for the life length of the intermediate cells. The investigation concentrates on the survival function and the mean value functions. The approach is basically numerical, making use of the Mathematica software system. The paper also provides a closed form expression for the survival function for a variation of the original MVK model, where all the model parameters are piecewise constants.
-

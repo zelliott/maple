@@ -1,9 +1,0 @@
-
-Derivation of diagnostically relevant parameters from first-pass myocardial perfusion magnetic resonance images involves the tedious and time-consuming manual segmentation of the myocardium in a large number of images. To reduce the manual interaction and expedite the perfusion analysis, we propose an automatic registration and segmentation method for the derivation of perfusion linked parameters.
-
-A complete automation was accomplished by first registering misaligned images using a method based on independent component analysis, and then using the registered data to automatically segment the myocardium with active appearance models. We used 18 perfusion studies (100 images per study) for validation in which the automatically obtained (AO) contours were compared with expert drawn contours on the basis of point-to-curve error, Dice index, and relative perfusion upslope in the myocardium.
-
-Visual inspection revealed successful segmentation in 15 out of 18 studies. Comparison of the AO contours with expert drawn contours yielded 2.23 ± 0.53 mm and 0.91 ± 0.02 as point-to-curve error and Dice index, respectively. The average difference between manually and automatically obtained relative upslope parameters was found to be statistically insignificant (P = .37). Moreover, the analysis time per slice was reduced from 20 minutes (manual) to 1.5 minutes (automatic).
-
-We proposed an automatic method that significantly reduced the time required for analysis of first-pass cardiac magnetic resonance perfusion images. The robustness and accuracy of the proposed method were demonstrated by the high spatial correspondence and statistically insignificant difference in perfusion parameters, when AO contours were compared with expert drawn contours.
-

@@ -1,3 +1,0 @@
-
-Compartmental analysis is the most important modeling tool in biology and medicine. The perturbation due to a tracer in a biomedical system usually leads to a linear system that can be described by a compartmental matrix. The reducibility of the compartmental matrix has important implications on the system, both analytically and computationally. This note provides an efficient algorithm to determine the reducibility of a compartmental system. Furthermore, if reducible, the algorithm provides a means to delineate the sub-systems to be successively solved.
-

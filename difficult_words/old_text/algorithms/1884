@@ -1,3 +1,0 @@
-
-We demonstrated an unexplored issue in Peptide Mass Fingerprinting, 'cleavage site clusters', and formulated iMOWSE to distinguish true positives from false positives. We showed how the cleavage site clusters skew peptide database composition. Concerning the information content of an in silico digestion of a protein, both the number of matches of long peptides and the number of such peptides an entry can generate are taken into account. The resultant iMOWSE allows tolerance of deviation of query mass values from theoretical mass values and fewer matches are needed to identify true positives.
-

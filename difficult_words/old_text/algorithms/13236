@@ -1,3 +1,0 @@
-
-We demonstrate substantial performance improvements in 256 QAM transmission in terms of both data rate and distance that we realized by using a digital back-propagation (DBP) method. 160 Gbit/s-160 km and 64 Gbit/s-560 km transmissions were successfully achieved with a polarization-multiplexed 256 QAM signal, in which the symbol rate and transmission distance were greatly increased by compensating for the interplay between dispersion and nonlinearity, which is responsible for the transmission impairment especially for a higher symbol rate and longer distance.
-

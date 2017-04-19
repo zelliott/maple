@@ -1,9 +1,0 @@
-
-Volumetric x-ray microcomputed tomography (CT) can be employed in a variety of quantitative research applications such as image-guided interventions or characterization of medical devices. To ensure the highest geometric fidelity of images for these applications, a phantom and image processing algorithm have been developed to calibrate the scaling accuracy of micro-CT scanners to a traceable standard and provide corrections to image voxel sizing.
-
-The calibration phantom contains six borosilicate beads whose separations have been measured to a traceable standard. An image processing algorithm compares the known separations of the beads to their separations in micro-CT images. A least-squares solution is used to determine linear scaling correction factors along each of the three scanner axes to minimize errors in the bead separations within the images by correcting the image voxel size. The correction factors were applied to images of a similar phantom with beads at different positions to evaluate the ability of the correction factors to reduce errors at points independent of the fiducial locations in the calibration phantom. The calibration phantom was used to evaluate the scaling accuracy of five different micro-CT scanners representing four different scanner models.
-
-In two of the five scanners evaluated, the correction factors significantly reduced the mean error in bead separations in the images from 0.17% to 0.05% and from 0.37% to 0.07% of the actual bead separations, respectively. Scanners yielding similar voxel sizes possessed comparable geometric errors after correction using the phantom.
-
-Although the magnitude of the corrections is small, such corrections can be important for demanding micro-CT applications. Even if no voxel size correction is required, the phantom provides an easily implemented method to verify the geometric fidelity of micro-CT scanners to a traceable standard of measurement.
-

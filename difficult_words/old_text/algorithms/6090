@@ -1,9 +1,0 @@
-
-Using the Khoros image processing software environment, we developed a software-based system capable of extracting wheal size from skin prick tests (SPTs) in mm(2) for research and routine purposes.
-
-At 20 min, the outlines of up to 20 wheals were marked with a pen and transferred with translucent adhesive tapes to a white paper form carrying predefined markings. The form was scanned at 200 dpi. The software automatically analysed the scanned image and calculated the sizes of the wheals. In a pilot study, serial SPTs with histamine in increasing dilutions were performed in 12 healthy volunteers in duplicate on both volar forearms. We matched the application results with a reference created from the scanned pictures.
-
-Bland-Altman analysis showed reference and software calculation reaching very high agreement. The comparison of reference/software resulted in a low centred coefficient of variation (COV) of 11.9%. This was superior to the conventional measurement of horizontal (COV 37.9%) or maximal/minimal diameter (COV 25.9%).
-
-We present an accurate tool for exactly calculating SPT wheal size in mm(2).
-

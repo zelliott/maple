@@ -1,3 +1,0 @@
-
-An improved approximate entropy (ApEn) is presented and applied to characterize surface electromyography (sEMG) signals. In most previous experiments using nonlinear dynamic analysis, this certain processing was often confronted with the problem of insufficient data points and noisy circumstances, which led to unsatisfactory results. Compared with fractal dimension as well as the standard ApEn, the improved ApEn can extract information underlying sEMG signals more efficiently and accurately. The method introduced here can also be applied to other medium-sized and noisy physiological signals.
-

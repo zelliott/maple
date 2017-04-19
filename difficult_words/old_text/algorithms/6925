@@ -1,3 +1,0 @@
-
-In this article, a new approach is introduced to lowering the myo-electronic noise in weak ECG signals. We use artificial neural network to make the noise be white, and then we adopt an adaptive filter of which the reference signal is achieved by extracting from other ECG cycle. The outcome is the reduction of both white noise and non-white noise in ECG signal. Satisfactory results have been achieved by using this method in the experiment of late potential detection.
-

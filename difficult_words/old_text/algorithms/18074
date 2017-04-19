@@ -1,7 +1,0 @@
-
-Profile Hidden Markov Model (HMM) is a powerful statistical model to represent a family of DNA, RNA, and protein sequences. Profile HMM has been widely used in bioinformatics research such as sequence alignment, gene structure prediction, motif identification, protein structure prediction, and biological database search. However, few comprehensive, visual editing tools for profile HMM are publicly available.
-
-We develop a visual editor for profile Hidden Markov Models (HMMEditor). HMMEditor can visualize the profile HMM architecture, transition probabilities, and emission probabilities. Moreover, it provides functions to edit and save HMM and parameters. Furthermore, HMMEditor allows users to align a sequence against the profile HMM and to visualize the corresponding Viterbi path.
-
-HMMEditor provides a set of unique functions to visualize and edit a profile HMM. It is a useful tool for biological sequence analysis and modeling. Both HMMEditor software and web service are freely available.
-

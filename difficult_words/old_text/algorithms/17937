@@ -1,3 +1,0 @@
-
-Length of hospital stay (LOS) is an important indicator of the hospital activity and management of health care. The skewness exhibited by this variable poses problems in statistical modeling. The aim of this work is to model the variable LOS within diagnosis-related groups (DRG) through finite mixtures of distributions. A mixture of the union of Gamma, Weibull and Lognormal families is used in the model, instead of a mixture of a unique distribution family. Some theoretical questions regarding the model, such as the identifiability and study of asymptotic properties of ML estimators, are analyzed. The EM algorithm is proposed for performing these estimators. Finally, this new proposed model is illustrated by using data from different DRGs.
-

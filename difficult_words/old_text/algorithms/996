@@ -1,3 +1,0 @@
-
-A sensing method based on high-speed camera is proposed to recognize human arm motion in this paper. A sensing system for human arm motion was established. A fast image processing algorithm was developed to accurately extract marker positions in the image. Angle parameter results were further improved with the instantaneous joint center principle. The human motion information results can serve as the research references of medical treatment, gym, bionics, and so on. The sensing method can also be applied to other fields of the human motion recognition.
-

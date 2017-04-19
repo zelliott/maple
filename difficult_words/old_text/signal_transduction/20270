@@ -1,3 +1,0 @@
-
-Computational models of signal transduction face challenges of scale below the resolution of a single cell. Here, we organize these challenges around three key interfaces for multiscale models of cell signaling: molecules to pathways, pathways to networks, and networks to outcomes. Each interface requires its own set of computational approaches and systems-level data, and no single approach or dataset can effectively bridge all three interfaces. This suggests that realistic "whole-cell" models of signaling will need to agglomerate different model types that span critical intracellular scales. Future multiscale models will be valuable for understanding the impact of signaling mutations or population variants that lead to cellular diseases such as cancer.
-

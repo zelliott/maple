@@ -1,3 +1,0 @@
-
-In recent years cardiac electrocardiograms and electrograms often have been measured using automated sampling systems that record samples periodically, with a fixed sample-to-sample interval. In contrast, adaptive sampling systems envision variable sample-to-sample intervals, and new information about such systems has emerged in the last few years. The author summarizes these reports. On the whole, they show that the fan algorithm is an effective basis for adaptive sampling of cardiac waveforms, that it works well on electrocardiograms, electrograms, and action potentials, and that prototype sampling systems based on the fan can be constructed to run in real time.
-

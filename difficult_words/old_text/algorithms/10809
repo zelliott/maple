@@ -1,3 +1,0 @@
-
-One of the goals of computational chemists is to automate the de novo design of bioactive molecules. Despite significant advances in computational approaches to ligand design and binding energy evaluation, novel procedures for ligand design are required. Evolutionary computation provides a new approach to this design endeavor. We propose an evolutionary tool for de novo peptide design, based on the evaluation of energies for peptide binding to a user-defined protein surface patch. Special emphasis has been placed on the evaluation of the proposed peptides, leading to two different evaluation heuristics. The software developed was successfully tested on the design of ligands for the proteins prolyl oligopeptidase, p53, and DNA gyrase.
-

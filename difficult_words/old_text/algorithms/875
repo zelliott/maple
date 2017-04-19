@@ -1,3 +1,0 @@
-
-In a previous paper we introduced a novel model-based approach (OLAV) to the problem of identifying peptides via tandem mass spectrometry, for which early implementations showed promising performance. We recently further improved this performance to a remarkable level (1-2% false positive rate at 95% true positive rate) and characterized key properties of OLAV like robustness and training set size. We present these results in a synthetic and coherent way along with detailed performance comparisons, a new scoring component making use of peptide amino acidic composition, and new developments like automatic parameter learning. Finally, we discuss the impact of OLAV on the automation of proteomics projects.
-

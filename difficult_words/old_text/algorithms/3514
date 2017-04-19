@@ -1,3 +1,0 @@
-
-This paper proposes a novel genetic algorithms (GA)-based algorithm to construct a user-friendly fuzzy system for approximating an unknown system with a satisfactory degree of accuracy. In the algorithm, the adequate number of fuzzy rules, the adequate number of membership functions of each input variable, and the parameters of membership functions will be determined automatically; in addition, the dummy input variables will be detected and discarded. Finally, several typical examples are illustrated to show the effectiveness of the algorithm.
-

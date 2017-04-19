@@ -1,9 +1,0 @@
-
-Epidemiological evidence indicates that atopic asthma correlates with high serum IgE levels though the contribution of allergen specific IgE to the pathogenesis and the severity of the disease is still unclear.
-
-We developed a microarray immunoassay containing 103 allergens to study the IgE reactivity profiles of 485 asthmatic and 342 non-asthmatic individuals belonging to families whose members have a documented history of asthma and atopy. We employed k-means clustering, to investigate whether a particular IgE reactivity profile correlated with asthma and other atopic conditions such as rhinitis, conjunctivitis and eczema.
-
-Both case-control and parent-to-siblings analyses demonstrated that while the presence of specific IgE against individual allergens correlated poorly with pathological conditions, particular reactivity profiles were significantly associated with asthma (p<10E-09). An artificial neural network (ANN)-based algorithm, calibrated with the profile reactivity data, correctly classified as asthmatic or non-asthmatic 78% of the individual examined. Multivariate statistical analysis demonstrated that the familiar relationships of the study population did not affect the observed correlations.
-
-These findings indicate that asthma is a higher-order phenomenon related to patterns of IgE reactivity rather than to single antibody reactions. This notion sheds new light on the pathogenesis of the disease and can be readily employed to distinguish asthmatic and non-asthmatic individuals on the basis of their serum reactivity profile.
-

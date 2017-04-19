@@ -1,7 +1,0 @@
-
-Genome databases contain diverse kinds of information, including gene annotations and nucleotide and amino acid sequences. It is not easy to integrate such information for genomic study. There are few tools for integrated analyses of genomic data, therefore, we developed software that enables users to handle, manipulate, and analyze genome data with a variety of sequence analysis programs.
-
-The G-InforBIO system is a novel tool for genome data management and sequence analysis. The system can import genome data encoded as eXtensible Markup Language documents as formatted text documents, including annotations and sequences, from DNA Data Bank of Japan and GenBank encoded as flat files. The genome database is constructed automatically after importing, and the database can be exported as documents formatted with eXtensible Markup Language or tab-deliminated text. Users can retrieve data from the database by keyword searches, edit annotation data of genes, and process data with G-InforBIO. In addition, information in the G-InforBIO database can be analyzed seamlessly with nine different software programs, including programs for clustering and homology analyses.
-
-The G-InforBIO system simplifies genome analyses by integrating several available software programs to allow efficient handling and manipulation of genome data. G-InforBIO is freely available from the download site.
-

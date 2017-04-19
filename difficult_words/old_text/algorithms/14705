@@ -1,3 +1,0 @@
-
-With the aim of detecting the attitude of a rotating carrier, the paper presents a novel, digital angular rate sensor. The sensor consists of micro-sensing elements (gyroscope and accelerometer), signal processing circuit and micro-processor (DSP2812). The sensor has the feature of detecting three angular rates of a rotating carrier at the same time. The key techniques of the sensor, including sensing construction, sensing principles, and signal processing circuit design are presented. The test results show that the sensor can sense rolling, pitch and yaw angular rate at the same time and the measurement error of yaw (or pitch) angular rate and rolling rate of the rotating carrier is less than 0.5%.
-

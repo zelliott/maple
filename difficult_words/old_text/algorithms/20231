@@ -1,3 +1,0 @@
-
-There are some occasions when it is better to use the Laplacian of the scalp voltages (e.g., for topographic displays and dipole source localization) and other occasions when it is better to use the original voltages (e.g., for comparison to non-Laplacian topography maps). This paper presents a simple algorithm for going between these two representations of the data. The inverse Laplacian involves iterative feedback. An Excel spreadsheet implementation of the algorithm is presented.
-

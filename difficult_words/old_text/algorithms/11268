@@ -1,9 +1,0 @@
-
-This study was to assess whether active learning strategies can be integrated with supervised word sense disambiguation (WSD) methods, thus reducing the number of annotated samples, while keeping or improving the quality of disambiguation models.
-
-We developed support vector machine (SVM) classifiers to disambiguate 197 ambiguous terms and abbreviations in the MSH WSD collection. Three different uncertainty sampling-based active learning algorithms were implemented with the SVM classifiers and were compared with a passive learner (PL) based on random sampling. For each ambiguous term and each learning algorithm, a learning curve that plots the accuracy computed from the test set as a function of the number of annotated samples used in the model was generated. The area under the learning curve (ALC) was used as the primary metric for evaluation.
-
-Our experiments demonstrated that active learners (ALs) significantly outperformed the PL, showing better performance for 177 out of 197 (89.8%) WSD tasks. Further analysis showed that to achieve an average accuracy of 90%, the PL needed 38 annotated samples, while the ALs needed only 24, a 37% reduction in annotation effort. Moreover, we analyzed cases where active learning algorithms did not achieve superior performance and identified three causes: (1) poor models in the early learning stage; (2) easy WSD cases; and (3) difficult WSD cases, which provide useful insight for future improvements.
-
-This study demonstrated that integrating active learning strategies with supervised WSD methods could effectively reduce annotation cost and improve the disambiguation models.
-

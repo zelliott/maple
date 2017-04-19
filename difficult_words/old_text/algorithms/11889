@@ -1,3 +1,0 @@
-
-The term evolutionary computation encompasses a host of methodologies inspired by natural evolution that are used to solve hard problems. This paper provides an overview of evolutionary computation as applied to problems in the medical domains. We begin by outlining the basic workings of six types of evolutionary algorithms: genetic algorithms, genetic programming, evolution strategies, evolutionary programming, classifier systems, and hybrid systems. We then describe how evolutionary algorithms are applied to solve medical problems, including diagnosis, prognosis, imaging, signal processing, planning, and scheduling. Finally, we provide an extensive bibliography, classified both according to the medical task addressed and according to the evolutionary technique used.
-

@@ -1,3 +1,0 @@
-
-In Angular Domain Imaging, image contrast and resolution are position dependent. The objective of this work was to characterize the contrast and resolution of an ADI system at a multitude of locations within the imaging plane, then compare the reconstructions of different targets using filtered back projection and iterative reconstruction algorithms. Contrast varied significantly with depth and minimally with lateral position, while resolution varied significantly with lateral position and minimally with depth. The iterative reconstruction algorithm was robust against ring and streak artifacts. The back projection reconstructions suffered from artifacts related to a lack of projection data.
-

@@ -1,3 +1,0 @@
-
-Due to a delayed echo-formation, echo-shifted gradient echo sequences (ES-GRE) allow for an enhanced T(2)*-weighting at short repetition times. While they are in use with and without RF spoiling, analytical solutions are only known for the latter. The signal formation in the former could only be assessed in approximative form, so far. In this article an exact analytical solution is presented for TR-periodic ES-GRE sequences with RF phase cycling. Besides providing a better numerical performance, it should be useful for systematic sequence development. The relation to recent approximative solutions is discussed.
-

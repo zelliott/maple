@@ -1,9 +1,0 @@
-
-Warfarin dosing is affected by clinical and genetic variants, but the contribution of the genotype associated with warfarin resistance in pharmacogenetic algorithms has not been well assessed yet. We developed a new dosing algorithm including polymorphisms associated both with warfarin sensitivity and resistance in the Italian population, and its performance was compared with those of eight previously published algorithms.
-
-Clinical and genetic data (CYP2C9*2, CYP2C9*3, VKORC1 -1639 G > A, and VKORC1 3730 G > A) were used to elaborate the new algorithm. Derivation and validation groups comprised 55 (58.2% men, mean age 69 years) and 40 (57.5% men, mean age 70 years) patients, respectively, who were on stable anticoagulation therapy for at least 3 months with different oral anticoagulation therapy (OAT) indications.
-
-Performance of the new algorithm, evaluated with mean absolute error (MAE) defined as the absolute value of the difference between observed daily maintenance dose and predicted daily dose, correlation with the observed dose and R(2) value, was comparable with or slightly lower than that obtained using the other algorithms. The new algorithm could correctly assign 53.3%, 50.0%, and 57.1% of patients to the low (≤25 mg/week), intermediate (26-44 mg/week) and high (≥ 45 mg/week) dosing range, respectively. Our data showed a significant increase in predictive accuracy among patients requiring high warfarin dose compared with the other algorithms (ranging from 0% to 28.6%).
-
-The algorithm including VKORC1 3730 G > A, associated with warfarin resistance, allowed a more accurate identification of resistant patients who require higher warfarin dosage.
-

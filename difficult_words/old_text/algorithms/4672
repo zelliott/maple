@@ -1,5 +1,0 @@
-
-rh_tsp_map is a software package for computing radiation hybrid (RH) maps and for integrating physical and genetic maps. It solves the central mapping instances by reducing them to the traveling salesman problem (TSP) and using a modification of the CONCORDE package to solve the TSP instances. We present some of the features added between the initial rh_tsp_map version 1.0 and the current version 3.0, emphasizing the automation of many steps and addition of various checks designed to find problems with the input data. Iterations of improved input data followed by fast re-computation of the maps improves the quality of the final maps.
-
-rh_tsp_map source code and documentation including a tutorial is available at ftp://ftp.ncbi.nih.gov/pub/agarwala/rhmapping/rh_tsp_map.tar.gz. CONCORDE modified for RH mapping is available in the directory http://www.isye.gatech.edu/~wcook/rh/. The QSopt library needed for CONCORDE is available at http://www2.isye.gatech.edu/~wcook/qsopt/downloads/downloads.htm
-

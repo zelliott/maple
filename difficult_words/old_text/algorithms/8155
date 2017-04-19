@@ -1,9 +1,0 @@
-
-To develop a novel warfarin-dosing algorithm based on a previous population pharmacokinetic/pharmacodynamic (PK/PD) model with Bayesian forecasting to facilitate warfarin therapy.
-
-Using information on CYP2C9 and VKORC1 genotypes, S-warfarin level, dose and international normalized ratio (INR) of prothrombin time, individual PK (apparent clearance of S-warfarin [CLs]) and PD (concentration resulting in 50% of E(max) [EC(50)]) parameters were determined by Bayesian forecasting for 45 Japanese patients. Maintenance doses were described by multiple linear regression using individually estimated PK/PD parameters and INR values. The validity of the model and a comparison with other dosing methods were evaluated by bootstrap resampling and a cross-validation method.
-
-The plasma concentration of S-warfarin and INR were accurately predicted from individual PK/PD parameters. The following final regression model for maintenance dose was obtained; maintenance dose = 11.2 x CLs + 0.91 x EC(50) + 2.36 x INR - 9.67, giving a strong correlation between actual and predicted maintenance doses (r(2) = 0.944). Bootstrap resampling and cross-validation showed robustness and a superior predictive performance compared with other dosing methods. On the other hand, the predictability without actual measurements (S-warfarin and INR values) and Bayesian inference was comparable to other dosing methods.
-
-A novel algorithm, based on the population PK/PD model combined with Bayesian forecasting, gave precise predictions of maintenance dose, leading to individualized warfarin therapy.
-

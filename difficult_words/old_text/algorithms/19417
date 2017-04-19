@@ -1,9 +1,0 @@
-
-The free-response paradigm is being increasingly used in the assessment of medical imaging systems. The currently implemented method of analyzing the data, namely jackknife free-response (JAFROC) analysis, has some validation and applicability limitations. The purpose of this work is to address these limitations.
-
-The general principles of modality evaluation and methodology validation are reviewed. A model for simulating free-response data was used to test the statistical validity of several methods of analyzing the data. The methods differed only in the choice of the figure of merit used to quantify performance. Statistical validity was judged by investigating the behaviors of the methods under null hypothesis conditions of no difference between modalities.
-
-The validity of the different methods of analyzing the data was found to be dependent on the choice of figure of merit. A figure of merit is identified that accommodates abnormal images with multiple (one or more) lesions, detections of which could have different clinical significances (weights). This figure of merit is shown to be statistically valid. An extension of the analysis to single reader interpretations of images from different modalities is also shown to be statistically valid.
-
-With the validated enhancements, JAFROC is expected to be of greater utility to users of the free-response method. The extension to single-reader interpretations should be of particular value to developers of image processing algorithms, including developers of computer-aided diagnosis algorithms.
-

@@ -1,3 +1,0 @@
-
-The appreciation of biofilm structures in digital images can be subjective to the observer, and hence it is necessary to analyse the underlying images in useful parameters by means of quantification that is, ideally, free of errors. This paper proposes a combination of techniques for segmentation of biofilm images through an optimal multi-level thresholding algorithm and a set of clustering validity indices, including the determination of the best number of thresholds. The results, which are validated through Rand Index and a quantification process performed in a laboratory, are similar to the quantification and segmentation done by an expert.
-

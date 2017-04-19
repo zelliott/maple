@@ -1,3 +1,0 @@
-
-Codebook-based speech enhancement methods that use trained codebooks of speech and noise spectra provide good performance even under non-stationary noise conditions. A drawback, however, is their high computational cost. For every pair of speech and noise codebook vectors, a likelihood score indicating how well that pair matches the observation is computed. In this paper, a method that identifies and performs only relevant likelihood computations by imposing a hierarchical structure on the speech codebook is proposed. The performance of the proposed method is shown to be close to that of the original scheme but at a significantly lower computational cost.
-

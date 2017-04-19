@@ -1,9 +1,0 @@
-
-Preclinical in vivo analyses of treatment responses are an important prerequisite to evaluate new therapeutics. Molecular in vivo imaging in the far red (FR)/near infra red (NIR) is a promising method, as it enables measurements at different time points in individual animals, thereby reducing the number of animals required, while increasing statistical significance. Here, we show the establishment of a method to monitor response to treatment using fluorescent cells, expressing the epidermal growth factor receptor (EGFR), a target already used in therapy.
-
-We transfected A-431 tumour cells with the far red-emitting protein Katushka (Kat2), resulting in strong fluorescence allowing for the monitoring of tumour growth when implanted in BALB/c nu/nu mice with a CRi Maestro in vivo imager. We targeted A-431 cells with a previously reported immunotoxin (IT), consisting of the anti-EGFR antibody single-chain variable fragment (scFv) 425, fused to Pseudomonas                            aeruginosa Exotoxin A' (ETA'). In addition, EGFR expression was verified using the 425(scFv) conjugated to a NIR dye BG-747 through a SNAP-tag linker.
-
-The results show the feasibility to evaluate response to treatment in vivo by FR imaging, while at the same location detecting EGFR expression. Treatment with 425(scFv)-ETA' resulted in decelerated tumour growth, while not affecting the overall health of the animals. This is in contrast to treatment with Doxorubicin, which, although decreasing the tumour size, resulted in poor health.
-
-We developed a novel method to non-invasively determine treatment responses by in vivo imaging of multiple parameters which showed the efficacy of 425(scFv)-ETA'.
-

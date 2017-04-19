@@ -1,3 +1,0 @@
-
-Although the program SHELXE was originally intended for the experimental phasing of macromolecules, it can also prove useful for expanding a small protein fragment to an almost complete polyalanine trace of the structure, given a favourable combination of native data resolution (better than about 2.1 Å) and solvent content. A correlation coefficient (CC) of more than 25% between the native structure factors and those calculated from the polyalanine trace appears to be a reliable indicator of success and has already been exploited in a number of pipelines. Here, a more detailed account of this usage of SHELXE for molecular-replacement solutions is given.
-

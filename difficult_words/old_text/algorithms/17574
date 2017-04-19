@@ -1,7 +1,0 @@
-
-Clustering sequences of a full-length cDNA library into alternative splice form candidates is a very important problem.
-
-We developed a new efficient algorithm to cluster sequences of a full-length cDNA library into alternative splice form candidates. Current clustering algorithms for cDNAs tend to produce too many clusters containing incorrect splice form candidates. Our algorithm is based on a spliced sequence alignment algorithm that considers splice sites. The spliced sequence alignment algorithm is a variant of an ordinary dynamic programming algorithm, which requires O(nm) time for checking a pair of sequences where n and m are the lengths of the two sequences. Since the time bound is too large to perform all-pair comparison for a large set of sequences, we developed new techniques to reduce the computation time without affecting the accuracy of the output clusters. Our algorithm was applied to 21 076 mouse cDNA sequences of the FANTOM 1.10 database to examine its performance and accuracy. In these experiments, we achieved about 2-12-fold speedup against a method using only a traditional hash-based technique. Moreover, without using any information of the mouse genome sequence data or any gene data in public databases, we succeeded in listing 87-89% of all the clusters that biologists have annotated manually.
-
-We provide a web service for cDNA clustering located at https://access.obigrid.org/ibm/cluspa/, for which registration for the OBIGrid (http://www.obigrid.org) is required.
-

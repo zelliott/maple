@@ -1,3 +1,0 @@
-
-The majority of existing real-time 3D shape measurement systems only generate non-nature texture (i.e., having illumination other than ambient lights) that induces shadow related issues. This paper presents a method that can simultaneously capture natural 2D color texture and 3D shape in real time. Specifically, we use an infrared fringe projection system to acquire 3D shapes, and a secondary color camera to simultaneously capture 2D color images of the object. Finally, we develop a flexible and simple calibration technique to determine the mapping between the 2D color image and the 3D geometry. Experimental results demonstrate the success of the proposed technique.
-

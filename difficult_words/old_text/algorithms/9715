@@ -1,3 +1,0 @@
-
-Recent advances in modern neurocomputing have shown the utmost necessity of wireless communication systems that allow real-time (RT) monitoring of neural signals meeting several requirements such as source compression and high fidelity of the received signal. Neural recordings require multielectrode probes with up to hundreds of electrodes and transmission of signals wirelessly over a limited bandwidth (BW). In this paper, a RT resource management algorithm is proposed so that adequate source compression is applied to each channel in order to fit them into the available BW. Performance of the algorithm is analyzed using dynamically changing BW and neural recordings with different neural activity characteristics.
-

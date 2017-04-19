@@ -1,7 +1,0 @@
-
-Recent advances in high-throughput technologies have made it possible to investigate not only individual protein interactions, but also the association of these proteins in complexes. So far the focus has been on the prediction of complexes as sets of proteins from the experimental results. The modular substructure and the physical interactions within the protein complexes have been mostly ignored.
-
-We present an approach for identifying the direct physical interactions and the subcomponent structure of protein complexes predicted from affinity purification assays. Our algorithm calculates the union of all maximum spanning trees from scoring networks for each protein complex to extract relevant interactions. In a subsequent step this network is extended to interactions which are not accounted for by alternative indirect paths. We show that the interactions identified with this approach are more accurate in predicting experimentally derived physical interactions than baseline approaches. Based on these networks, the subcomponent structure of the complexes can be resolved more satisfactorily and subcomplexes can be identified. The usefulness of our method is illustrated on the RNA polymerases for which the modular substructure can be successfully reconstructed.
-
-A Java implementation of the prediction methods and supplementary material are available at http://www.bio.ifi.lmu.de/Complexes/Substructures/.
-

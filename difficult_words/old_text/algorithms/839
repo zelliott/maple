@@ -1,3 +1,0 @@
-
-A basic requirement in virtual environments is the tracking of objects, especially humans. A real time motion-tracking system was presented and evaluated in this paper. System sensors were built using tri-axis microelectromechanical accelerometers, rate gyros, and magnetometers. A Kalman-based fusion algorithm was applied to obtain dynamic orientations and further positions of segments of the subject's body. The system with the proposed algorithm was evaluated via dynamically measuring Euler orientation and comparing with other two conventional methods. An arm motion experiment was demonstrated using the developed system and algorithm. The results validated the effectiveness of the proposed method.
-

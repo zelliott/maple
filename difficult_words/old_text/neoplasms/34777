@@ -1,9 +1,0 @@
-
-Period analysis estimates up-to-date survival rates of cancer patients. In this approach, analysis is restricted to recent time period by left-truncating all observations at the beginning of the period and right-censoring at its end. Here, we applied period analysis to examine changes in 5-year relative survival (RS) by age group for 1997 and for 2002.
-
-Using the National Cancer Incidence Database, 5-year RS was estimated for 1997 and 2002 in four age groups (15-54, 55-64, 65-74, and 75 years old and over) using period analysis. After excluding death certificate-only cases, patients with an unknown date of diagnosis or follow-up length, a total of 813,889 patients diagnosed with a first primary invasive cancer during 1992-2002 were included for analysis. Followup for vital status was included until 31 December 2002.
-
-Five-year RS increased from 41.7% for 1997 to 46.7% for 2002. Increases in survival occurred in all age groups except in the 75 and over group.
-
-The age gradient in cancer prognosis seems to have widened between 1997 and 2002, a finding that requires further study of prognostic factors, including stage at diagnosis. Period analysis accurately estimates survival rates, especially for cancers with better prognosis.
-

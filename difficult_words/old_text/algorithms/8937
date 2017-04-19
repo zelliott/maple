@@ -1,9 +1,0 @@
-
-To date, statistical methods that take into account fully the non-linear, longitudinal and multivariate aspects of clinical data have not been applied to the study of progression in Parkinson's disease (PD). In this paper, we demonstrate the usefulness of such methodology for studying the temporal and spatial aspects of the progression of PD. Extending this methodology further, we also explore the presymptomatic course of this disease.
-
-Longitudinal Positron Emission Tomography (PET) measurements were collected on 78 PD patients, from 4 subregions on each side of the brain, using 3 different radiotracers. Non-linear, multivariate, longitudinal random effects modelling was applied to analyze and interpret these data.
-
-The data showed a non-linear decline in PET measurements, which we modelled successfully by an exponential function depending on two patient-related covariates duration since symptom onset and age at symptom onset. We found that the degree of damage was significantly greater in the posterior putamen than in the anterior putamen throughout the disease. We also found that over the course of the illness, the difference between the less affected and more affected sides of the brain decreased in the anterior putamen. Younger patients had significantly poorer measurements than older patients at the time of symptom onset suggesting more effective compensatory mechanisms delaying the onset of symptoms. Cautious extrapolation showed that disease onset had occurred some 8 to 17 years prior to symptom onset.
-
-Our model provides important biological insights into the pathogenesis of PD, as well as its preclinical aspects. Our methodology can be applied widely to study many other chronic progressive diseases.
-

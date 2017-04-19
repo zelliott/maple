@@ -1,9 +1,0 @@
-
-Closed-loop (CL) insulin delivery systems utilizing proportional-integral-derivative (PID) controllers have demonstrated susceptibility to late postprandial hypoglycemia because of delays between insulin delivery and blood glucose (BG) response. An insulin feedback (IFB) modification to the PID algorithm has been introduced to mitigate this risk. We examined the effect of IFB on CL BG control.
-
-Using the Medtronic ePID CL system, four subjects were studied for 24 h on PID control and 24 h during a separate admission with the IFB modification (PID + IFB). Target glucose was 120 mg/dl; meals were served at 8:00 AM, 1:00 PM, and 6:00 PM and were identical for both admissions. No premeal manual boluses were given. Reference BG excursions, defined as incremental glucose rise from premeal to peak, and postprandial BG area under the curve (AUC; 0-5 h) were compared. Results are reported as mean ± standard deviation.
-
-The PID + IFB control resulted in higher mean BG levels compared with PID alone (153 ± 54 versus 133 ± 56 mg/dl; p < .0001). Postmeal BG excursions (114 ± 28 versus 114 ± 47 mg/dl) and AUCs (285 ± 102 versus 255 ± 129 mg/dl/h) were similar under both conditions. Total insulin delivery averaged 57 ± 20 U with PID versus 45 ± 13 U with PID + IFB (p = .18). Notably, eight hypoglycemic events (BG < 60 mg/dl) occurred during PID control versus none during PID + IFB.
-
-Addition of IFB to the PID controller markedly reduced the occurrence of hypoglycemia without increasing meal-related glucose excursions. Higher average BG levels may be attributable to differences in the determination of system gain (Kp) in this study. The prevention of postprandial hypoglycemia suggests that the PID + IFB algorithm may allow for lower target glucose selection and improved overall glycemic control.
-

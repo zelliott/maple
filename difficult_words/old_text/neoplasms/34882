@@ -1,9 +1,0 @@
-
-The aim of this study is to implement augmented reality in real-time image-guided interstitial brachytherapy to allow an intuitive real-time intraoperative orientation.
-
-The developed system consists of a common video projector, two high-resolution charge coupled device cameras, and an off-the-shelf notebook. The projector was used as a scanning device by projecting coded-light patterns to register the patient and superimpose the operating field with planning data and additional information in arbitrary colors. Subsequent movements of the nonfixed patient were detected by means of stereoscopically tracking passive markers attached to the patient.
-
-In a first clinical study, we evaluated the whole process chain from image acquisition to data projection and determined overall accuracy with 10 patients undergoing implantation. The described method enabled the surgeon to visualize planning data on top of any preoperatively segmented and triangulated surface (skin) with direct line of sight during the operation. Furthermore, the tracking system allowed dynamic adjustment of the data to the patient's current position and therefore eliminated the need for rigid fixation. Because of soft-part displacement, we obtained an average deviation of 1.1 mm by moving the patient, whereas changing the projector's position resulted in an average deviation of 0.9 mm. Mean deviation of all needles of an implant was 1.4 mm (range, 0.3-2.7 mm).
-
-The developed low-cost augmented-reality system proved to be accurate and feasible in interstitial brachytherapy. The system meets clinical demands and enables intuitive real-time intraoperative orientation and monitoring of needle implantation.
-

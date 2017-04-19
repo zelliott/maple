@@ -1,5 +1,0 @@
-
-MPP is a Java application, encompassing both new and established algorithms, for the analysis of gene and marker content datasets arising from high-throughput microarray techniques. MPP analyses flat file output from microarray experiments to determine the probability of the presence or absence of genes or markers within a genome. MPP can construct gene or marker content datasets for a number of genomes and can use the data to estimate an evolutionary tree or network. Results from gene content analyses may be validated by comparing them to known gene contents. MPP was initially developed to analyse data derived from comparative genome hybridization (CGH) microarray experiments in fungi and bacteria. It has recently been adapted to analyse retrotransposon-based insertion polymorphism (RBIP) marker scores derived from tagged microarray marker (TAM) experiments in pea. New analytical procedures may be added easily to MPP as plugins in order to increase the scope of the software.
-
-MPP source code, executables and online help are available at http://cbr.jic.ac.uk/dicks/software/
-

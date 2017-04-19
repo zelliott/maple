@@ -1,3 +1,0 @@
-
-In CASP6, the CHIMERA-group predicted full-atom models of all targets using SKE-CHIMERA, a Web-user interface system for protein structure prediction that allows human intervention at necessary stages; we used a lot of information from our own data and from publicly available data. Using SKE-CHIMERA, we iterated manual step (template selection and alignment by the in-house program CHIMERA) and automatic step (three-dimensional model building by the in-house program FAMS). The official CASP6 assessment showed that CHIMERA-group was one of the most successful predictors in homology modeling, especially for FR/H (Fold Recognition/Homologous). In this article, we introduce the method of CHIMERA-group and discuss its successes and failures in CASP6.
-

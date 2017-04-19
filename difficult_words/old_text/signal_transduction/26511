@@ -1,9 +1,0 @@
-
-We sought clinically relevant predictive biomarkers present in CD4 T-cells, or in serum, that identified those patients with undifferentiated arthritis (UA) who subsequently develop rheumatoid arthritis (RA).
-
-Total RNA was isolated from highly purified peripheral blood CD4 T cells of 173 early arthritis clinic patients. Paired serum samples were also stored. Microarray analysis of RNA samples was performed and differential transcript expression among 111 'training cohort' patients confirmed using real-time quantitative PCR. Machine learning approaches tested the utility of a classification model among an independent validation cohort presenting with UA (62 patients). Cytokine measurements were performed using a highly sensitive electrochemiluminescence detection system.
-
-A 12-gene transcriptional 'signature' identified RA patients in the training cohort and predicted the subsequent development of RA among UA patients in the validation cohort (sensitivity 68%, specificity 70%). STAT3-inducible genes were over-represented in the signature, particularly in anti-citrullinated peptide antibody-negative disease, providing a risk metric of similar predictive value to the Leiden score in seronegative UA (sensitivity 85%, specificity 75%). Baseline levels of serum interleukin 6 (IL-6) (which signals via STAT3) were highest in anti-citrullinated peptide antibodies-negative RA and distinguished this subgroup from non-RA inflammatory synovitis (corrected p<0.05).Paired serum IL-6 measurements correlated strongly with STAT3-inducible gene expression.
-
-The authors have identified IL-6-mediated STAT-3 signalling in CD4 T cells during the earliest clinical phase of RA, which is most prominent in seronegative disease. While highlighting potential biomarker(s) for early RA, the role of this pathway in disease pathogenesis awaits clarification.
-

@@ -1,7 +1,0 @@
-
-This paper presents the results of an in vivo clinical study to accurately characterize prostate cancer using new features of ultrasound RF time series.
-
-The mean central frequency and wavelet features of ultrasound RF time series from seven patients are used along with an elaborate framework of ultrasound to histology registration to identify and verify cancer in prostate tissue regions as small as 1.7 mm x 1.7 mm.
-
-In a leave-one-patient-out cross-validation strategy, an average classification accuracy of 76% and the area under ROC curve of 0.83 are achieved using two proposed RF time series features. The results statistically significantly outperform those achieved by previously reported features in the literature. The proposed features show the clinical relevance of RF time series for in vivo characterization of cancer.
-

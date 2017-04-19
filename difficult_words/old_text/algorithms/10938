@@ -1,7 +1,0 @@
-
-In expressed sequence tag (EST) sequencing, we are often interested in how many genes we can capture in an EST sample of a targeted size. This information provides insights to sequencing efficiency in experimental design, as well as clues to the diversity of expressed genes in the tissue from which the library was constructed.
-
-We propose a compound Poisson process model that can accurately predict the gene capture in a future EST sample based on an initial EST sample. It also allows estimation of the number of expressed genes in one cDNA library or co-expressed in two cDNA libraries. The superior performance of the new prediction method over an existing approach is established by a simulation study. Our analysis of four Arabidopsis thaliana EST sets suggests that the number of expressed genes present in four different cDNA libraries of Arabidopsis thaliana varies from 9155 (root) to 12005 (silique). An observed fraction of co-expressed genes in two different EST sets as low as 25% can correspond to an actual overlap fraction greater than 65%.
-
-The proposed method provides a convenient tool for gene capture prediction and cDNA library property diagnosis in EST sequencing.
-

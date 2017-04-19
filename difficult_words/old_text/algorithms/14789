@@ -1,3 +1,0 @@
-
-In this paper, a spatial information-theoretic model is proposed to locate sensors for detecting source-to-target patterns of special nuclear material (SNM) smuggling. In order to ship the nuclear materials from a source location with SNM production to a target city, the smugglers must employ global and domestic logistics systems. This paper focuses on locating a limited set of fixed and mobile radiation sensors in a transportation network, with the intent to maximize the expected information gain and minimize the estimation error for the subsequent nuclear material detection stage. A Kalman filtering-based framework is adapted to assist the decision-maker in quantifying the network-wide information gain and SNM flow estimation accuracy.
-

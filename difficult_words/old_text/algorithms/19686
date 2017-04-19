@@ -1,3 +1,0 @@
-
-In this letter, we propose a coordinate rotation digital computer (CORDIC)-like algorithm for computing the feed-forward phase of a support vector machine (SVM) in fixed-point arithmetic, using only shift and add operations and avoiding resource-consuming multiplications. This result is obtained thanks to a hardware-friendly kernel, which greatly simplifies the SVM feed-forward phase computation and, at the same time, maintains good classification performance respect to the conventional Gaussian kernel.
-

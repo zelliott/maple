@@ -1,3 +1,0 @@
-
-A method for collecting MRI data on a set of rotated trajectories that begin at the center of k-space is outlined. It is theoretically slightly faster, slightly less susceptible to off-resonance and motion-induced phase, and produces images with slightly better signal-to-noise ratio than methods using Archimedean spiral trajectories, particularly for a short sampling duration. It also produces more accurate images than those of projection reconstruction methods, which are significantly undersampled azimuthally. This method may be most useful when imaging areas with large inhomogeneities (e.g., near metallic implants), short T(2) species, or high turbulence (e.g., gas imaging). Magn Reson Med 42:714-720, 1999.
-

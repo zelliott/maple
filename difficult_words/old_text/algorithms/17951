@@ -1,9 +1,0 @@
-
-This study compares normal and pathologic voices using a novel voice analysis algorithm that examines pitch deviation during connected speech. The study evaluates the clinical potential of the algorithm as a mechanism to distinguish between normal and pathologic voices using connected speech.
-
-Adult vocalizations from normal subjects and patients with known benign free-edge vocal fold lesions were analyzed. Recordings had been previously obtained in quiet under controlled conditions. Two phrases and sustained /a/ were recorded per subject. The subject populations consisted of 10 normal and 31 abnormal subjects. The voice analysis algorithm generated 2-dimensional patterns that represent pitch deviation in time and under variable window widths. Measures were collected from these patterns for window widths between 10 and 250 ms. For comparison, jitter and shimmer measures were collected from sustained /a/ by means of the Computerized Speech Lab (CSL). A t-test and tests of sensitivity and specificity assessed discrimination between normal and abnormal populations.
-
-More than 58% of the measures collected from connected speech outperformed the CSL jitter and shimmer measures in population discrimination. Twenty-five percent of the experimental measures (including /a/) indicated significantly different populations (p < .01%).
-
-The results demonstrate that the algorithm distinguishes between normal and abnormal populations by use of samples of connected speech.
-

@@ -1,3 +1,0 @@
-
-Lifting-style implementations of wavelets are widely used in image coders. A two-dimensional (2-D) edge adaptive lifting structure, which is similar to Daubechies 5/3 wavelet, is presented. The 2-D prediction filter predicts the value of the next polyphase component according to an edge orientation estimator of the image. Consequently, the prediction domain is allowed to rotate +/-45 degrees in regions with diagonal gradient. The gradient estimator is computationally inexpensive with additional costs of only six subtractions per lifting instruction, and no multiplications are required.
-

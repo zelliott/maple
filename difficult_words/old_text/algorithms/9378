@@ -1,3 +1,0 @@
-
-The detection of remote homolog pairs of proteins using computational methods is a pivotal problem in structural bioinformatics, aiming to compute protein folds on the basis of information in the database of known structures. In the last 25 years, several methods have been developed to tackle this problem, based on different approaches including sequence-sequence alignments and/or structure comparison. In this article, we will briefly discuss When, Why, Where and How (WWWH) to perform remote homology search, reviewing some of the most widely adopted computational approaches. The specific aim is highlighting the basic criteria implemented by different research groups and commenting on the status of the art as well as on still-open questions.
-

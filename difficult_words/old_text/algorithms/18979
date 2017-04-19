@@ -1,3 +1,0 @@
-
-In previous work, we presented GAMI, an approach to motif inference that uses a genetic algorithms search. GAMI is designed specifically to find putative conserved regulatory motifs in noncoding regions of divergent species, and is designed to allow for analysis of long nucleotide sequences. In this work, we compare GAMI's performance when run with its original fitness function (a simple count of the number of matches) and when run with information content, as well as several variations on these metrics. Results indicate that information content does not identify highly conserved regions, and thus is not the appropriate metric for this task, while variations on information content as well as the original metric succeed in identifying putative conserved regions.
-

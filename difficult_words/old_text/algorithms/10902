@@ -1,7 +1,0 @@
-
-Significant inconsistencies between probe-to-gene annotations between different releases of probe set identifiers by commercial microarray platform solutions have been reported. Such inconsistencies lead to misleading or ambiguous interpretation of published gene expression results.
-
-We report here similar inconsistencies in the probe-to-gene annotation of Applied Biosystems AB1700 data, demonstrating that this is not an isolated concern. Moreover, the online information source PANTHER does not provide information required to track such inconsistencies, hence, even correctly annotated datasets, when resubmitted after PANTHER was updated to a new probe-to-gene annotation release, will generate differing results without any feedback on the origin of the change.
-
-The importance of unequivocal annotation of microarray experiments can not be underestimated. Inconsistencies greatly diminish the usefulness of the technology. Novel methods in the analysis of transcriptome profiles often rely on large disparate datasets stemming from multiple sources. The predictive and analytic power of such approaches rapidly diminishes if only least-common subsets can be used for analysis. We present here the information that needs to be provided together with the raw AB1700 data, and the information required together with the biologic interpretation of such data to avoid inconsistencies and tracking difficulties.
-

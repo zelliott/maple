@@ -1,9 +1,0 @@
-
-The present study aimed to test the feasibility of a novel neuroimaging technique, that is, variation-based sparse cortical current density (VB-SCCD) imaging algorithm, in noninvasively estimating location and extent of epileptic sources from interictal magnetoencephalography (MEG) data.
-
-A total of 108 interictal spikes from 3 partial epilepsy patients were selected to perform VB-SCCD source analysis. Cortical sources were identified at spike peaks, rising phases, and entire spikes, respectively, from all interictal spikes in each patient, to estimate source locations and extents, and validated using presurgical evaluation data. Other source analysis methods, that is, minimum norm estimate and sparse source imaging were also performed for comparison.
-
-Cortical sources reconstructed by VB-SCCD that are consistent with clinical presurgical evaluation outcomes have detection rates of 65.8% at spike peaks, 85.1% during rising phases, and 92.6% in entire spikes. Stable spatiotemporal patterns of reconstructed cortical sources were also obtained using VB-SCCD, which provide more insights about the formation and propagation of interictal epileptic activity.
-
-Our present results suggest that the VB-SCCD technique has the capability in estimating location and extent of epileptic sources of interictal spikes and is promising to become a valuable noninvasive tool in assisting presurgical planning for partial epilepsy patients.
-

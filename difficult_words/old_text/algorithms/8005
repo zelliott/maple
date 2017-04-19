@@ -1,3 +1,0 @@
-
-Temperature prediction in biological tissues irradiated by an optical source is frequently required in some medical applications, like Thermotherapy, Hyperthermia or tissue ablation. In this work we propose a new numerical approach to solve the bio-heat equation. It is based on the two steps 3D modified Du Fort-Frankel algorithm, which allows a better convergence, more accuracy and a faster computation than previous numerical methods developed by other authors. The model also includes adaptive spatial mesh and time step refinement. These improved results for opto-thermal temperature distribution could be used for choosing appropriate laser treatment parameters in medical praxis.
-

@@ -1,5 +1,0 @@
-
-Most phylogenetic methods assume that the sequences evolved under homogeneous, stationary and reversible conditions. Compositional heterogeneity in data intended for studies of phylogeny suggests that the data did not evolve under these conditions. SeqVis, a Java application for analysis of nucleotide content, reads sequence alignments in several formats and plots the nucleotide content in a tetrahedron. Once plotted, outliers can be identified, thus allowing for decisions on the applicability of the data for phylogenetic analysis.
-
-http://www.bio.usyd.edu.au/jermiin/programs.htm.
-

@@ -1,3 +1,0 @@
-
-Two distinct and parallel research communities have been working along the lines of the model-based diagnosis approach: the fault detection and isolation (FDI) community and the diagnostic (DX) community that have evolved in the fields of automatic control and artificial intelligence, respectively. This paper clarifies and links the concepts and assumptions that underlie the FDI analytical redundancy approach and the DX consistency-based logical approach. A formal framework is proposed in order to compare the two approaches and the theoretical proof of their equivalence together with the necessary and sufficient conditions is provided.
-

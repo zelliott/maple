@@ -1,9 +1,0 @@
-
-The standard design for phase I trials of combined chemotherapy and radiation, which enters either three or six patients per dose level, has little statistical basis and is subject to opening and closing because of delayed toxicities that disrupt patient accrual. We compared the operating characteristics of this standard design and the time-to-event continual reassessment method (TITE-CRM) for dose-escalation trials of combination chemotherapy and radiation.
-
-The operating characteristics were determined by Monte Carlo simulation of 60,000 phase I trials.
-
-Compared with the standard trial design, in studies with delayed toxicity (ie, where four or more patients are expected to enter onto the study during a single previously enrolled patient's observation for toxicity), TITE-CRM trials are significantly shorter when toxicity observation times are long, treat more patients at or above the maximum-tolerated dose, identify the maximum-tolerated dose (MTD) more accurately, and provide phase II information, but do not expose patients to significant additional risk. Estimation precision and overdose control of TITE-CRM increase as the design assumptions more closely resemble the true state of nature, but are reduced if, for instance, the toxicity of treatment has been grossly underestimated.
-
-Compared with the standard design, if there is any prior knowledge concerning the toxicity profile of a treatment, TITE-CRM can leverage it to produce more accurate estimates of the MTD and does not expose patients to significant excess risk, but requires timely communication between clinical investigators, data managers, and study statisticians.
-

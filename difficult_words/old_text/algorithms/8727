@@ -1,9 +1,0 @@
-
-Multispectral, multichannel, or time series image segmentation is important for image analysis in a wide range of applications. Regularization of the segmentation is commonly performed using local image information causing the segmented image to be locally smooth or piecewise constant. A new spatial regularization method, incorporating non-local information, was developed and tested.
-
-Our spatial regularization method applies to feature space classification in multichannel images such as color images and MR image sequences. The spatial regularization involves local edge properties, region boundary minimization, as well as non-local similarities. The method is implemented in a discrete graph-cut setting allowing fast computations.
-
-The method was tested on multidimensional MRI recordings from human kidney and brain in addition to simulated MRI volumes.
-
-The proposed method successfully segment regions with both smooth and complex non-smooth shapes with a minimum of user interaction.
-

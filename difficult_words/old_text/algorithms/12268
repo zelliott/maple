@@ -1,9 +1,0 @@
-
-Previously, we determined a planning target volume (PTV) margin recipe for geometrical errors in radiotherapy equal to M(T) = 2 Sigma + 0.7 sigma, with Sigma and sigma standard deviations describing systematic and random errors, respectively. In this paper, we investigated margins for organs at risk (OAR), yielding the so-called planning organ at risk volume (PRV).
-
-For critical organs with a maximum dose (D(max)) constraint, we calculated margins such that D(max) in the PRV is equal to the motion averaged D(max) in the (moving) clinical target volume (CTV). We studied margins for the spinal cord in 10 head-and-neck cases and 10 lung cases, each with two different clinical plans. For critical organs with a dose-volume constraint, we also investigated whether a margin recipe was feasible.
-
-For the 20 spinal cords considered, the average margin recipe found was: M(R) = 1.6 Sigma + 0.2 sigma with variations for systematic and random errors of 1.2 Sigma to 1.8 Sigma and -0.2 sigma to 0.6 sigma, respectively. The variations were due to differences in shape and position of the dose distributions with respect to the cords. The recipe also depended significantly on the volume definition of D(max). For critical organs with a dose-volume constraint, the PRV concept appears even less useful because a margin around, e.g., the rectum changes the volume in such a manner that dose-volume constraints stop making sense.
-
-The concept of PRV for planning of radiotherapy is of limited use. Therefore, alternative ways should be developed to include geometric uncertainties of OARs in radiotherapy planning.
-

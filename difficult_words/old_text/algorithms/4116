@@ -1,9 +1,0 @@
-
-Proteoglycan (PG) loss and surface roughening, early signs of osteoarthritis (OA), are likely preceded by softening of the ground substance and the collagen network. Insight in their relative importance to progression of OA may assist the development of treatment strategies for early OA. To support interpretation of experimental data, a numerical model is proposed that can predict damage progression in cartilage over time, as a consequence of excessive mechanical loading. The objective is to assess the interaction between ground substance softening and collagen fiber damage using this model.
-
-An established cartilage mechanics model is extended with the assumption that excessive strains may damage the ground substance or the collagen network, resulting in softening of the overstrained constituent. During subsequent loading cycles the strain may or may not cross a threshold, resulting in damage to stabilize or to progress. To evaluate how softening of the ground substance and collagen may interact, damage progression is computed when either one of them, or both together are allowed to occur during stepwise increased loading.
-
-Softening in the ground substance was predicted to localize in the superficial and transitional zone and resulted in cartilage softening. Collagen damage was most prominent in the superficial zone, with more diffuse damage penetrating deeper into the tissue, resulting in adverse strain gradients. Effects were more pronounced if both constituents developed damage in parallel.
-
-Ground substance softening and collagen damage have distinct effects on cartilage mechanopathology, and damage in either one of them may promote each other.
-

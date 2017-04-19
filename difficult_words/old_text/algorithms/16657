@@ -1,3 +1,0 @@
-
-In this paper we present a probability generating function (PGF) approach for analyzing stochastic reaction networks. The master equation of the network can be converted to a partial differential equation for PGF. Using power series expansion of PGF and Padé approximation, we develop numerical schemes for finding probability distributions as well as first and second moments. We show numerical accuracy of the method by simulating chemical reaction examples such as a binding-unbinding reaction, an enzyme-substrate model, Goldbeter-Koshland ultrasensitive switch model, and G(2)/M transition model.
-

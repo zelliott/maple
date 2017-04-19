@@ -1,7 +1,0 @@
-
-Human decisions often proceed in two steps. Initially those most preferred are chosen followed by a subsequent choice of these preferences. Applying one artificial neural network (ANN), a classification is limited to the preselection process. The final categorization is only possible by a subsequent ANN that distinguishes the pre-chosen classes. Existing strategies using coupled ANNs are discussed and a new approach particularly suited for multiclass classification problems is introduced ('Subsequent ANN', SANN).
-
-Evaluating a simulated data base comprising 3 classes, classification results of SANN were obviously superior to those achieved by ANN. To evaluate a real-world data base the microarray benchmark GCM (14 classes) was chosen. The ANN results reached 72%, comparable to previous results. Using SANN, up to 81% of the tumors were correctly classified.
-
-Programs used in this work and numerical results are available upon request.
-

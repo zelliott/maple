@@ -1,3 +1,0 @@
-
-Segmentation of medical images is a complex problem owing to the large variety of their characteristics. In the automated analysis of breast cancers, two image classes may be distinguished according to whether one considers the quantification of DNA (grey level images of isolated nuclei) or the detection of immunohistochemical staining (colour images of histological sections). The study of these image classes generally involves the use of largely different image processing techniques. We therefore propose a new algorithm derived from the watershed transformation enabling us to solve these two segmentation problems with the same general approach. We then present visual and quantitative results to validate our method.
-

@@ -1,3 +1,0 @@
-
-Time-averaged fringe patterns in vibration testing of MEMS (microelectromechanical systems) are unaffected by carrier displacements. They are additive superimposition type moirés. These features and Hilbert transform vulnerability to additive trend are utilized for visualization of centers of dark Bessel fringes. Two frames with shifted carrier are subtracted for background and noise correction. Two normalized images of this pattern are calculated with slightly different bias levels and subtracted. The method does not require precise phase shifting between two frames, cosinusoidal carrier and linear recording. It enables detecting light power variations and phase shifting nonuniformities. Synthetic and experimental results corroborate the robustness of the method.
-

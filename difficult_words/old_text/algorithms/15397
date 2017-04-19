@@ -1,9 +1,0 @@
-
-There has been a growing interest in identifying context-specific active protein-protein interaction (PPI) subnetworks through integration of PPI and time course gene expression data. However the interaction dynamics during the biological process under study has not been sufficiently considered previously.
-
-Here we propose a topology-phase locking (TopoPL) based scoring metric for identifying active PPI subnetworks from time series expression data. First the temporal coordination in gene expression changes is evaluated through phase locking analysis; The results are subsequently integrated with PPI to define an activity score for each PPI subnetwork, based on individual member expression, as well topological characteristics of the PPI network and of the expression temporal coordination network; Lastly, the subnetworks with the top scores in the whole PPI network are identified through simulated annealing search.
-
-Application of TopoPL to simulated data and to the yeast cell cycle data showed that it can more sensitively identify biologically meaningful subnetworks than the method that only utilizes the static PPI topology, or the additive scoring method. Using TopoPL we identified a core subnetwork with 49 genes important to yeast cell cycle. Interestingly, this core contains a protein complex known to be related to arrangement of ribosome subunits that exhibit extremely high gene expression synchronization.
-
-Inclusion of interaction dynamics is important to the identification of relevant gene networks.
-

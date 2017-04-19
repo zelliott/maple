@@ -1,3 +1,0 @@
-
-A novel uniform sampling method is proposed in this paper. According to the requirements of uniform sampling, we propose the properties that must be met by analyzing the distribution of samples. Based on this, the proposed uniform sampling method is demonstrated and evaluated strictly by mathematical means such as inference. The uniform sampling tables with respect to Cn(t2) and Cn(t3) are established. Furthermore, a one-dimension uniform sampling method and a multidimension method are proposed. The proposed novel uniform sampling method, which is guided by uniform design theory, enjoys the advantages of simplified use and good representativeness of the whole sample.
-

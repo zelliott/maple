@@ -1,3 +1,0 @@
-
-A higher-order square-root operator splitting algorithm is employed to derive a tangent linear solution for the three-dimensional parabolic wave equation due to small variations of the sound speed in the medium. The solution shown in this paper unifies other solutions obtained from less accurate approximations. Examples of three-dimensional acoustic ducts are presented to demonstrate the accuracy of the solution. Future work on the applications of associated adjoint models for acoustic inversions is proposed and discussed.
-

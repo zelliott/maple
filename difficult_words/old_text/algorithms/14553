@@ -1,3 +1,0 @@
-
-To eliminate nonlinear channel distortion in chaotic communication systems, a novel joint-processing adaptive nonlinear equalizer based on a pipelined recurrent neural network (JPRNN) is proposed, using a modified real-time recurrent learning (RTRL) algorithm. Furthermore, an adaptive amplitude RTRL algorithm is adopted to overcome the deteriorating effect introduced by the nesting process. Computer simulations illustrate that the proposed equalizer outperforms the pipelined recurrent neural network (PRNN) and recurrent neural network (RNN) equalizers.
-

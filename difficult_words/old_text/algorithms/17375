@@ -1,3 +1,0 @@
-
-We have developed a controlled Monte Carlo (CMC) method to calculate the time-dependent transmittance of light through a thick tissue, especially for evaluation of the contribution from early arriving photons. Quasi-straightforward propagating trajectories are favoured according to a selection mechanism, so adequate trajectories of interest can reach the detector, improving the statistics dramatically. Simulations were conducted for tissue models with a thickness of 3-5 cm, and with optical properties similar to human breast tissue. Temporal profiles of early transmittance were obtained with satisfactory convergence. In addition, comparison was made with the conventional Monte Carlo approach to verify our scheme when applied to cases of optically thin tissues.
-

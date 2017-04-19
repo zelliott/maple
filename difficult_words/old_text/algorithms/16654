@@ -1,3 +1,0 @@
-
-This letter presents a single-channel speech dereverberation approach using a non-causal minimum variance distortionless response (MVDR) filter. The non-causal filter is adopted to utilize the additional information of the desired signal that lies in subsequent frames. Note that the desired signal output has minimal distortion due to the introduction of the MVDR criterion. The proposed system further suppresses the late reverberation by employing a statistical reverberant model. Experimental results demonstrate the superiority of the proposed algorithm to conventional approaches.
-

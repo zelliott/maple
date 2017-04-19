@@ -1,3 +1,0 @@
-
-Feature-based method for detecting landmarks from facial images was designed. The method was based on extracting oriented edges and constructing edge maps at two resolution levels. Edge regions with characteristic edge pattern formed landmark candidates. The method ensured invariance to expressions while detecting eyes. Nose and mouth detection was deteriorated by happiness and disgust.
-

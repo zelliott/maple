@@ -1,3 +1,0 @@
-
-GEP (Gene expression programming) is a new genetic algorithm, and it has been proved to be excellent in function finding. In this paper, for the purpose of setting up a diagnostic model, GEP is used to deal with the data of heart disease. Eight variables, Sex, Chest pain, Blood pressure, Angina, Peak, Slope, Colored vessels and Thal, are picked out of thirteen variables to form a classified function. This function is used to predict a forecasting set of 100 samples, and the accuracy is 87%. Other algorithms such as SVM (Support vector machine) are applied to the same data and the forecasting results show that GEP is better than other algorithms.
-

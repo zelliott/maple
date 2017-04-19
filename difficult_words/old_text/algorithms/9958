@@ -1,3 +1,0 @@
-
-We demonstrate an adaptive reconstruction technique to significantly improve the depth of focus and contrast of three-dimensional reflection-mode terahertz imaging. A laterally scanned virtual transceiver element records reflections from the object of interest. A synthetic aperture focusing technique maintains fine spatial resolution over a large image depth. Measuring the spatial coherence of the received signals across the transceiver aperture provides a non-iterative self-adaptive approach to significantly improve image contrast. Test images show a spatial resolution of 0.4 mm maintained over a 16 mm depth of field, and up to a 30 dB improvement in signal-to-noise ratio.
-

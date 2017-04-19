@@ -1,3 +1,0 @@
-
-Feature Selection (FS) is a process which attempts to select features which are more informative. In this paper, a novel unsupervised FS in mammogram images, using rough set-based relative dependency measures, is proposed. A typical mammogram image processing system generally consists of mammogram image acquisition, pre-processing of image, segmentation and features extraction from the segmented mammogram image. The proposed unsupervised FS method is used to select features from data sets; the method is compared with existing rough set based supervised FS methods, and the classification performance of both methods are recorded and demonstrate the efficiency of this method.
-

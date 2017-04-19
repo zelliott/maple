@@ -1,9 +1,0 @@
-
-To evaluate the relationship between different noise indices (NIs) and radiation dose and to compare the effect of different reconstruction algorithm applications for ultra-low-dose chest computed tomography (CT) on image quality improvement and the accuracy of volumetric measurement of ground-glass opacity (GGO) nodules using a phantom study.
-
-A 11 cm thick transverse phantom section with a chest wall, mediastinum, and 14 artificial GGO nodules with known volumes (919.93 ± 64.05 mm(3)) was constructed. The phantom was scanned on a Discovery CT 750HD scanner with five different NIs (NIs = 20, 30, 40, 50, and 60). All data were reconstructed with a 0.625 mm section thickness using the filtered back-projection (FBP), 50% adaptive statistical iterative reconstruction (ASiR), and Veo model-base iterative reconstruction algorithms. Image noise was measured in six regions of interest (ROIs). Nodule volumes were measured using a commercial volumetric software package. The image quality and the volume measurement errors were analysed.
-
-Image noise increased dramatically from 30.7 HU at NI 20 to 122.4 HU at NI 60, with FBP reconstruction. Conversely, Veo reconstruction effectively controlled the noise increase, with an increase from 9.97 HU at NI 20 to only 15.1 HU at NI 60. Image noise at NI 60 with Veo was even lower (50.8%) than that at NI 20 with FBP. The contrast-to-noise ratio (CNR) of Veo at NI 40 was similar to that of FBP at NI 20. All artificial GGO nodules were successfully identified and measured with an average relative volume measurement error with Veo at NI 60 of 4.24%, comparable to a value of 10.41% with FBP at NI 20. At NI 60, the radiation dose was only one-tenth that at NI 20.
-
-The Veo reconstruction algorithms very effectively reduced image noise compared with the conventional FBP reconstructions. Using ultra-low-dose CT scanning and Veo reconstruction, GGOs can be detected and quantified with an acceptable accuracy.
-

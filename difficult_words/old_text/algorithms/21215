@@ -1,3 +1,0 @@
-
-When complex data is distributed in a biased manner between disease classes, classification accuracy can be increased with a network set of perceptron neural networks developed by us. A novel projection method is also introduced for the visual classification of the data to elucidate its features and disease class distribution. The set of the perceptron neural networks and the projection method were tested with otoneurological data and they improved average sensitivity and positive predictive value at least 10% up to 85% and 83%, compared to our earlier neural network classifications with the same data. The methods were also experimented with two additional data sets, which included diagnostically very difficult cases.
-

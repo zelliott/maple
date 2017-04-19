@@ -1,9 +1,0 @@
-
-The aim of this study was to develop an automated method for detection of local texture-based and density-based abnormalities in chest radiographs.
-
-The method was based on profile analysis to detect abnormalities in chest radiographs. In the method, one density-based feature, Density Symmetry Index, and two texture-based features, Roughness Maximum Index and Roughness Symmetry Index, were used to detect abnormalities in the lung fields. In each chest radiograph, the lung fields were divided into four zones initially and then the method was applied to each zone separately. For each zone, Density Symmetry Index was obtained from the projection profile of each zone, and Roughness Maximum Index and Roughness Symmetry Index were obtained by measuring the roughness of the horizontal profiles via moving average technique. Linear discriminant analysis was used to classify normal and abnormal cases based on the three indices. The discriminant performance of the method was evaluated using ROC analysis.
-
-The method was evaluated on a database of 250 normal and 250 abnormal chest images. In the optimized conditions, the zone-based performance Az of the method for zones 1, 2, 3, and 4 were 0.917, 0.897, 0.892, and 0.814, respectively, and the case-based performance Az of the method was 0.842. Our previous method for detection of gross abnormalities was also evaluated on the same database. The case-based performance of our previous method was 0.689.
-
-In comparing the previous method and the new method proposed in this study, there was a great improvement by the new method for detection of local texture-based and density-based abnormalities. The new method combined with the previous one has potential for screening abnormalities in chest radiographs.
-

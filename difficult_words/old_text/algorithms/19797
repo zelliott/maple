@@ -1,9 +1,0 @@
-
-PubMed data potentially can provide decision support information, but PubMed was not exclusively designed to be a point-of-care tool. Natural language processing applications that summarize PubMed citations hold promise for extracting decision support information. The objective of this study was to evaluate the efficiency of a text summarization application called Semantic MEDLINE, enhanced with a novel dynamic summarization method, in identifying decision support data.
-
-We downloaded PubMed citations addressing the prevention and drug treatment of four disease topics. We then processed the citations with Semantic MEDLINE, enhanced with the dynamic summarization method. We also processed the citations with a conventional summarization method, as well as with a baseline procedure. We evaluated the results using clinician-vetted reference standards built from recommendations in a commercial decision support product, DynaMed.
-
-For the drug treatment data, Semantic MEDLINE enhanced with dynamic summarization achieved average recall and precision scores of 0.848 and 0.377, while conventional summarization produced 0.583 average recall and 0.712 average precision, and the baseline method yielded average recall and precision values of 0.252 and 0.277. For the prevention data, Semantic MEDLINE enhanced with dynamic summarization achieved average recall and precision scores of 0.655 and 0.329. The baseline technique resulted in recall and precision scores of 0.269 and 0.247. No conventional Semantic MEDLINE method accommodating summarization for prevention exists.
-
-Semantic MEDLINE with dynamic summarization outperformed conventional summarization in terms of recall, and outperformed the baseline method in both recall and precision. This new approach to text summarization demonstrates potential in identifying decision support data for multiple needs.
-

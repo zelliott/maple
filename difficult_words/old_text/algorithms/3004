@@ -1,9 +1,0 @@
-
-An algorithm was created to predict pathologic stage in patients with clinically organ-confined muscle-invasive bladder cancer.
-
-The sample consisted of 133 consecutive patients scheduled to undergo cystectomy. To develop a tool to predict nonorgan-confined disease before surgery, principal component analysis (PCA) was applied. Patients were stratified into a training set (n = 89) and a validation set (n = 44), and 7 parameters were evaluated: levels of carcinoembryonic antigen, cancer antigen (CA) 125, and carbohydrate antigen (CA) 19-9; clinical stage; presence of hydronephrosis; presence of carcinoma in situ; and initial tumor size >3 cm. PCA was applied to the training set to determine the weight of each parameter. A PCA score was generated for each patient in the set, and a cutoff defining nonorgan-confined disease was established. The accuracy of the cutoff was quantified by the area under the receiver operator characteristics curve (AUC). The model was then applied to the validation set without recalculation; the AUC and the positive and negative predictive values of the validation set were calculated.
-
-On pathologic evaluation, 71 patients (53%) were found to have organ-confined tumors and 62 patients (47%) had extravesical disease. The AUC was 0.85 in the training group (95% confidence interval [95% CI], 0.71-0.97) and 0.84 in the validation group (95% CI, 0.75-0.93). The positive and negative predictive values in the validation group were 88% (95% CI, 71%-96%) and 94% (95% CI, 71%-99%), respectively.
-
-The newly devised, internally validated, algorithm was 85% accurate in predicting nonorgan-confined bladder disease before cystectomy. Further external validation in a large cohort was recommended as still necessary.
-

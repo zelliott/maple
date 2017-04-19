@@ -1,3 +1,0 @@
-
-The development of breath-by-breath analysis during an ergospirometry improved the precision of the measurement. However, the abundance of data yields oscillating curves which make it very difficult to detect exactly the breakpoints, maxima and minima. By using cubic splines one is able to smooth the curve of the primary data without falsifying or distorting it. A breakpoint marks the beginning of a hyperventilation with an nonlinear increase of VE or the beginning of an excess value of CO2. Furthermore, the amount of CO2 required to compensate for the acid-base balance as well as the oxygen debt in the recovery phase can be calculated by the area under the curve.
-

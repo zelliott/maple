@@ -1,3 +1,0 @@
-
-To facilitate mutagenesis study, it is necessary to be able to derive mutation targets and associated substitution rates in the sequence of interest regardless of the availability of corresponding structure. It is also important to obtain these data depending on the specific aims of the mutation process. The MBLOSUM server determines candidate positions for mutations and derives position-specific substitution rates given only a protein sequence. Different sets of complete genomes collected according to their phylogeny or specificity of environments along with compete set of non-redundant sequences can be used in calculations depending on the experimental task. MBLOSUM server is available at: http://apps.cbu.uib.no/mblosum.
-

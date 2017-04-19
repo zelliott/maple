@@ -1,3 +1,0 @@
-
-This paper presents a survey of recent publications (published in 1990 or later) concerning segmentation and classification of medical images. These methods will be classified into six types: cluster (threshold), statistics methods, deformable contour, region growing, mathematics morphology, nonlinear methods (fuzzy segmentation, neural networks, genetic algorithm) and 3D model. Each of the major classes of image segmentation and classification techniques and several specific examples of each class of algorithm are described respectively in detail. At last, the developing trend of 3D medical image is also discussed.
-

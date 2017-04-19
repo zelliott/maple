@@ -1,3 +1,0 @@
-
-Mossel and Vigoda (Reports, 30 September 2005, p. 2207) show that nearest neighbor interchange transitions, commonly used in phylogenetic Markov chain Monte Carlo (MCMC) algorithms, perform poorly on mixtures of dissimilar trees. However, the conditions leading to their results are artificial. Standard MCMC convergence diagnostics would detect the problem in real data, and correction of the model misspecification would solve it.
-

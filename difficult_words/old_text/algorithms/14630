@@ -1,9 +1,0 @@
-
-This retrospective study was designed to evaluate the apparent diffusion coefficient (ADC) of line scan diffusion images (LSDI) in normal prostate and prostate cancer. Single-shot echo planner images (SS-EPI) were used for comparison.
-
-Twenty prostate tumors were examined by conventional MRI in 14 patients prior to radical prostatectomy. All patients were examined with a 1.5-T MR imager (Signa CV/i ver. 9.1 GE Medical System Milwaukee, WI, USA). Diffusion-weighted MR imaging (DWI) using LSDI was performed with a pelvic phased-array coil, with b values of 5 and 800 s/mm². DWI using SS-EPI was performed with a body coil, with b values of 0 and 800 s/mm². The ADCs of each sequence for 14 normal prostate and 20 prostate cancers were histopathologically assessed. Signal-to-noise ratio (SNR) on DWI was estimated and compared for each sequence.
-
-The mean ADCs (±S.D.) of normal peripheral zones (PZ), transition zones (TZ) and cancer (in 10⁻³ mm²/s) that used LSDI were 1.42±0.12, 1.23±0.10 and 0.79±0.19, respectively. Those that used SS-EPI were 1.76±0.26, 1.38±0.20 and 1.05±0.27, respectively. Using unpaired t test (P<.05), we found a significant difference in each sequence between normal tissue (both PZ and TZ) and the cancer. Paired t test (P<.05) also registered a significant difference between LSDI and SS-EPI. Mean SNR for DWI using LSDI was 16.49±5.03, while the DWI using SS-EPI was 18.85±9.26. The difference between the SNR of each sequence was not statistically significant by paired t test.
-
-We found that ADCs using LSDI and SS-EPI showed similar tendencies in the same patients. However, in all regions, LSDI ADCs had smaller standard deviations than SS-EPI ADCs.
-

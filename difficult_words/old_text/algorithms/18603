@@ -1,3 +1,0 @@
-
-This paper analyzes local and global behavior of several dynamical systems which generalize some artificial neural network (ANN) semilinear models originally designed for principal component analysis (PCA) in the characterization of random vectors. These systems implicitly performed the spectral analysis of correlation (i.e. symmetric positive definite) matrices. Here, the proposed generalizations cover both nonsymmetric matrices as well as fully nonlinear models. Local stability analysis is performed via linearization and global behavior is analyzed by constructing several Liapunov functions.
-

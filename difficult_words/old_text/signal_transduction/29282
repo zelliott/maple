@@ -1,7 +1,0 @@
-
-A logical model of the known metabolic processes in S. cerevisiae was constructed from iFF708, an existing Flux Balance Analysis (FBA) model, and augmented with information from the KEGG online pathway database. The use of predicate logic as the knowledge representation for modelling enables an explicit representation of the structure of the metabolic network, and enables logical inference techniques to be used for model identification/improvement.
-
-Compared to the FBA model, the logical model has information on an additional 263 putative genes and 247 additional reactions. The correctness of this model was evaluated by comparison with iND750 (an updated FBA model closely related to iFF708) by evaluating the performance of both models on predicting empirical minimal medium growth data/essential gene listings.
-
-ROC analysis and other statistical studies revealed that use of the simpler logical form and larger coverage results in no significant degradation of performance compared to iND750.
-

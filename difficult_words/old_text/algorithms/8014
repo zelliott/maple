@@ -1,3 +1,0 @@
-
-This paper brings a correction to the formulation of the basins of fixed-point states of fully asynchronous discrete-time discrete-state dynamic networks presented in our paper that appeared in the IEEE Transactions on Neural Networks, vol. 17, no. 2, pp. 397-408, March 2006. In our subsequent works on totally asynchronous systems, we have discovered that the formulation given in that previous paper lacks an additional condition. We present in this paper why the previous formulation is incomplete and give the correct formulation.
-

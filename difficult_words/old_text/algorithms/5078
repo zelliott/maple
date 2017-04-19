@@ -1,3 +1,0 @@
-
-A Thurstonian type approach is applied to modelling ranking data with ties. It uses a non-totally differentiable discriminational process instead of the conventional totally differential one to relate the observed rankings and the underlying subjective values. A Monte Carlo expectation-maximization algorithm is proposed to find the maximum likelihood estimates together with the standard errors of the parameters. The approach is examined numerically by means of an artificial example and a simulation study and is applied to a study of attribute assessment.
-

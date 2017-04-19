@@ -1,3 +1,0 @@
-
-The quality of dataset has a profound effect on classification accuracy, and there is a clear need for some method to evaluate this quality. In this paper, we propose a new dataset evaluation method using the R-value measure. This proposed method is based on the ratio of overlapping areas among categories in a dataset. A high R-value for a dataset indicates that the dataset contains wide overlapping areas among its categories, and classification accuracy on the dataset may become low. We can use the R-value measure to understand the characteristics of a dataset, the feature selection process, and the proper design of new classifiers.
-

@@ -1,3 +1,0 @@
-
-This paper considers estimation of a survival function when there exists a change point and the survival time of interest is defined as elapsed time between two related events. Furthermore, there exists censoring on observations on the occurrences of both events and truncation on observations on the occurrence of the second event and thus the survival time of interest. To obtain the maximum likelihood estimator of a survival function, an EM algorithm is developed when the survival function is completely unknown before the change point and known up to a vector of unknown parameters after the change point. The idea is a generalization of that discussed in Moeschberger and Klein. Simulations and an example are used to evaluate and illustrate the algorithm.
-

@@ -1,3 +1,0 @@
-
-Automatic detection of arterial oxygen desaturations was investigated by collecting pulse oximeter saturation data through an MIB. Two algorithms, one based on a threshold principle and the other based on moving median calculations, performed the detection. The median algorithm detected fewer "unimportant" events than did the threshold algorithm, but also did not detect some "important" events that the threshold algorithm detected. Successful detection algorithms will likely need to incorporate into their decision-making other patient information in addition to saturation. A proposed recording algorithm is described.
-

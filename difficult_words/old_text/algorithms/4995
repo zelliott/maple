@@ -1,9 +1,0 @@
-
-To determine polymyalgia rheumatica (PMR) prevalence using population-based administrative data, and to estimate the error associated with case ascertainment approaches when using these databases.
-
-Cases were ascertained using physician billing and hospitalization data from the province of Manitoba (population 1.1 million). Focusing on the population age >/=45 years, we compared 3 different case definition algorithms and also used statistical methods that accounted for imperfect case ascertainment to estimate the prevalence and the properties of the ascertainment algorithms. A hierarchical Bayesian latent class regression model was developed that also allowed us to assess differences across patient demographics (sex and region of residence).
-
-Using methods that account for the imperfect nature of both billing and hospitalization databases, we estimated the prevalence of PMR in women age >/=45 years to be lower in urban areas (754.5 cases/100,000; 95% credible interval [95% CrI] 674.1-850.3) compared with rural areas (1,004 cases/100,000; 95% CrI 886.3-1,143). This regional trend was also seen in men age >/=45 years, where the prevalence was estimated at 273.6 cases/100,000 (95% CrI 219.8-347.6) in urban areas and 380.7 cases/100,000 (95% CrI 311.3-468.1) in rural areas. Billing data appeared more sensitive in ascertaining cases than hospitalization data, and a large proportion of diagnoses was made by physicians other than rheumatologists.
-
-These data suggest a higher prevalence of PMR in rural versus urban regions. Our approach demonstrates the usefulness of methods that adjust for the imperfect nature of multiple information sources, which also allow for estimation of the sensitivity of different case ascertainment approaches.
-

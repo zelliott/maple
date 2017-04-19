@@ -1,3 +1,0 @@
-
-The time-dependent radiative transport equation is solved for the three-dimensional spatially uniform infinite medium which is illuminated by a point unidirectional source using a spherical harmonics transform under rotation. Apart from the numerical evaluation of a spherical Hankel transform which connects the spatial distance with the radial distance in Fourier space, the dependence on all variables is found analytically. For the special case of a harmonically modulated source, even the spherical Hankel transform can be carried out analytically. Additionally, a special solution for the isotropically scattering infinite medium is given. The Monte Carlo method is used for a successful verification of the derived solution.
-

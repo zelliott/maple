@@ -1,3 +1,0 @@
-
-Clustering is an important tool for analysing the microarray data to identify groups of co-expressed genes. The problem of fuzzy clustering in microarray data motivated us to develop an improved clustering algorithm. In this paper, an improved differential evolution based fuzzy clustering technique is proposed. The performance of the proposed improved differential evolution based fuzzy clustering technique has been compared with other state-of-the-art clustering algorithms for publicly available benchmark microarray data sets. Statistical and biological significance tests have been carried out to establish the statistical superiority of the proposed clustering approach and biological relevance of clusters of co-expressed genes, respectively.
-

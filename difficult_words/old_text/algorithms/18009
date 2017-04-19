@@ -1,9 +1,0 @@
-
-The objectives of this study are to catalogue all models developed to predict survival of RCC patients and to identify the ones to be used in different situations.
-
-A systematic review was performed searching with a free text and MeSH strategy 3 electronic databases. For each model, the following parameters were identified: number, features of the patients; evaluation endpoints; clinical and/or pathological variables included; concordance indexes (cI).
-
-The research retrieved 156 records. Eleven articles proposed new models, 5 articles external validations. We retrieved 2 mathematical models including clinical variables only (Yaycioglu, cI 0.651; Cindolo, cI 0.672); 2 algorithms including also pathological variables (SSIGN, cI 0.819; UISS, cI 0.79-0.84), 5 nomograms (Kattan, cI 0.76-0.86; Sorbellini, cI 0.82; Kim 2004, cI 0.79, Kim 2005, cI 0.68; Karakiewicz, cI 0.86); 2 algorithms for patients with metastatic disease (Motzer, Leibovich).
-
-The SSIGN was the most accurate algorithm for conventional RCC, while the UISS allowed the evaluation of patients regardless of tumor histotype. The Sorbellini nomogram is applicable only for patients with conventional RCC, while the Kattan and Karakiewicz nomograms also provide information for other histotypes. Metastatic patients can be evaluated with Leibovich and Motzer algorithms. Two models combine molecular markers and clinical features (Kim 2004-2005).
-

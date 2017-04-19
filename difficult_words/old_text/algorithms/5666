@@ -1,9 +1,0 @@
-
-We present a novel algorithm for computer simulation of breast anatomy for generation of anthropomorphic software breast phantoms. A realistic breast simulation is necessary for preclinical validation of volumetric imaging modalities.
-
-The anthropomorphic software breast phantom simulates the skin, regions of adipose and fibroglandular tissue, and the matrix of Cooper's ligaments and adipose compartments. The adipose compartments are simulated using a seeded region-growing algorithm; compartments are grown from a set of seed points with specific orientation and growing speed. The resulting adipose compartments vary in shape and size similar to real breasts; the adipose region has a compact coverage by adipose compartments of various sizes, while the fibroglandular region has fewer, more widely separated adipose compartments. Simulation parameters can be selected to cover the breadth of variations in breast anatomy observed clinically.
-
-When simulating breasts of the same glandularity with different numbers of adipose compartments, the average compartment volume was proportional to the phantom size and inversely proportional to the number of simulated compartments. The use of the software phantom in clinical image simulation is illustrated by synthetic digital breast tomosynthesis images of the phantom. The proposed phantom design was capable of simulating breasts of different size, glandularity, and adipose compartment distribution. The region-growing approach allowed us to simulate adipose compartments with various size and shape. Qualitatively, simulated x-ray projections of the phantoms, generated using the proposed algorithm, have a more realistic appearance compared to previous versions of the phantom.
-
-A new algorithm for computer simulation of breast anatomy has been proposed that improved the realism of the anthropomorphic software breast phantom.
-

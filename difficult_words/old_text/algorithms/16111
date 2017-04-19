@@ -1,3 +1,0 @@
-
-Image compression is the process of removal of redundant data in order to achieve savings in storage and communication costs. A new method for predictive coding of images is proposed using two-dimensional multiplicative autoregressive models. Genetic algorithm is implemented to compute autoregressive parameters. Comparison with other multiplicative autoregressive model based image compression method has also been reported here.
-

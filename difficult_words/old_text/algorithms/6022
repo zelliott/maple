@@ -1,7 +1,0 @@
-
-The three dimensional (3-D) visualisation of the optic disc in true colour will give essential meaning in clinical application. It is not only useful for clinicians in the evaluation of the condition of the optic disc, but it also simplifies the pathological diagnosis and disease progression monitoring. This paper describes a complete 3-D optic disc reconstruction method from a pair of stereo images by a series of robust procedures including camera calibration, image registration, depth recovery, and ocular media optical inclusion.
-
-Two registration techniques (correlation and feature based methods) are combined together to prune the uncertain matching points in order to improve the overall accuracy of registration. The ocular media within the eyeball are lump modelled as a single lens and integrated into the reconstruction process to obtain an accurate 3-D optic disc image.
-
-The recovered 3-D optic disc images show good consistency and compatibility when compared with the results from Heidelberg retina tomography (HRT) under clinical validation, with an additional advantage of implementing a more economical and conventional mode of retinal image acquisition.
-

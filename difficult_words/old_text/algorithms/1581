@@ -1,3 +1,0 @@
-
-We present an algorithm for designing high efficiency (∼98%), small-footprint (1.5-4 square vacuum wavelengths) couplers between arbitrary nanophotonic waveguide modes in two dimensions. Our "objective-first" method is computationally fast (15 minutes on a single-core personal computer), requires no trial-and-error, and does not require guessing a good starting design. We demonstrate designs for various coupling problems which suggest that our method allows for the design of any single-mode, linear optical device.
-

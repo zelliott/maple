@@ -1,3 +1,0 @@
-
-Real-time tele-echocardiography is widely used to remotely diagnose or exclude congenital heart defects. Cost effective technical implementation is realised using low-bandwidth transmission systems and lossy compression (videoconferencing) schemes. In our study, DICOM video sequences were converted to common multimedia formats, which were then, compressed using three lossy compression algorithms. We then applied a digital (multimedia) video quality metric (VQM) to determine objectively a value for degradation due to compression. Three levels of compression were simulated by varying system bandwidth and compared to a subjective assessment of video clip quality by three paediatric cardiologists with more than 5 years of experience.
-

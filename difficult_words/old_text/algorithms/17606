@@ -1,9 +1,0 @@
-
-Fluorescence spectroscopy is an evolving technology that can rapidly differentiate between benign and malignant tissues. These differences are thought to be due to endogenous fluorophores, including nicotinamide adenine dinucleotide, flavin adenine dinucleotide, and tryptophan, and absorbers such as beta-carotene and hemoglobin. We hypothesized that a statistically significant difference would be demonstrated between benign and malignant breast tissues on the basis of their unique fluorescence and reflectance properties.
-
-Optical measurements were performed on 56 samples of tumor or benign breast tissue. Autofluorescence spectra were measured at excitation wavelengths ranging from 300 to 460 nm, and diffuse reflectance was measured between 300 and 600 nm. Principal component analysis to dimensionally reduce the spectral data and a Wilcoxon ranked sum test were used to determine which wavelengths showed statistically significant differences. A support vector machine algorithm compared classification results with the histological diagnosis (gold standard).
-
-Several excitation wavelengths and diffuse reflectance spectra showed significant differences between tumor and benign tissues. By using the support vector machine algorithm to incorporate relevant spectral differences, a sensitivity of 70.0% and specificity of 91.7% were achieved.
-
-A statistically significant difference was demonstrated in the diffuse reflectance and fluorescence emission spectra of benign and malignant breast tissue. These differences could be exploited in the development of adjuncts to diagnostic and surgical procedures.
-

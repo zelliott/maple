@@ -1,9 +1,0 @@
-
-The objective of this investigation was to test the ability of a feedforward artificial neural network (ANN) to differentiate patients who have pelvic organ prolapse (POP) from those who retain good pelvic organ support.
-
-Following institutional review board approval, patients with POP (n = 87) and controls with good pelvic organ support (n = 368) were identified from the urogynecology research database. Historical and clinical information was extracted from the database. Data analysis included the training of a feedforward ANN, variable selection, and external validation of the model with an independent data set.
-
-Twenty variables were used. The median-performing ANN model used a median of 3 (quartile 1:3 to quartile 3:5) variables and achieved an area under the receiver operator curve of 0.90 (external, independent validation set). Ninety percent sensitivity and 83% specificity were obtained in the external validation by ANN classification.
-
-Feedforward ANN modeling is applicable to the identification and prediction of POP.
-

@@ -1,3 +1,0 @@
-
-The degree of malignancy in brain glioma needs to be assessed by MRI findings and clinical data before operations. There have been previous attempts to solve this problem with a fuzzy rule extraction algorithm based on fuzzy min-max neural networks. We utilize support vector machines with floating search method to select relevant features and to predict the degree of malignancy. Computation results show that the feature subset selected by our techniques can yield better classification performance. In contrast with the base line method, which generated two rules and obtained 83.21% accuracy on the whole data set, our method generates one rule to yield 88.21% accuracy.
-

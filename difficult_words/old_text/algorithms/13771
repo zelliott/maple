@@ -1,3 +1,0 @@
-
-Sequence similarity calculations of carbohydrates present several problems which must be addressed if a computer implementation is to be achieved. These problems range from the computational representation of the complex carbohydrate structure to the method by which the comparison of residue and linkage is to be made. This paper therefore discusses the form of this representation and how two or more carbohydrates can be meaningful compared. An example set of results using this approach is presented and discussed to illustrate how similarity comparison can show relationships between carbohydrates, features that are otherwise hidden by the sheer volume of data which must be considered.
-

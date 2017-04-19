@@ -1,3 +1,0 @@
-
-We perform haptic rendering of a polygonal mesh at a high speed, independent of its face count, using a topologically structured data representation that avoids edge gap effects from small numerical errors. Constraints on the virtual proxy's position on the mesh give good results in rendering concave edges. The algorithm allows force shading and smoothing at convex corners and edges by an approach originally developed for graphic rendering.
-

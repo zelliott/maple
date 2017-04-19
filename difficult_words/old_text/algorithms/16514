@@ -1,3 +1,0 @@
-
-We report an approach to the increase of signal channels in free-space optical communication based on composed optical vortices (OVs). In the encoding process, conventional algorithm employed for the generation of collinearly superimposed OVs is combined with a genetic algorithm to achieve high-volume OV multiplexing. At the receiver end, a novel Dammann vortex grating is used to analyze the multihelix beams with a large number of OVs. We experimentally demonstrate a digitized system which is capable of transmitting and receiving 16 OV channels simultaneously. This system is expected to be compatible with a high-speed OV multiplexing technique, with potentials to extremely high-volume information density in OV communication.
-

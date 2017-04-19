@@ -1,7 +1,0 @@
-
-The ability to detect clusters of functionally related genes in multiple microbial genomes has enormous potential for enhancing studies on gene function and microbial evolution. The staggering amount of new genome sequence data presents a largely untapped resource for gene cluster discovery. To date, gene cluster analysis has not been fully automated, and one must rely on manual, tedious and time-consuming manipulation of sequences. To facilitate accurate and rapid identification of conserved gene clusters, we developed a database-driven web application, called ORFcurator. We used ORFcurator to find clusters containing any genes similar to those of the 14-gene Widespread Colonization Island of Actinobacillus actinomycetemcomitans. From 126 genomes, ORFcurator identified all 73 clusters previously determined by manual searching.
-
-ORFcurator and all associated scripts are freely available as supplementary information.
-
-http://www.genomecurator.org/ORFcurator/
-

@@ -1,3 +1,0 @@
-
-It has long been argued that algorithms that find correlated mutations in multiple sequence alignments can be used to find structurally or functionally important residues in proteins. We examined the properties of four different methods for detecting these correlated mutations. On both simple, artificial alignments and real alignments from the Pfam database, we found a surprising lack of agreement between the four correlated mutation methods. We argue that these differences are caused in part by differing sensitivities to background conservation. Correlated mutation algorithms can be envisioned as "filters" of background conservation with each algorithm searching for correlated mutations that occur at a different background conservation frequency.
-

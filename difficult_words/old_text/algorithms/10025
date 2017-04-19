@@ -1,3 +1,0 @@
-
-A method based on a modified Newton-Raphson scheme is presented to estimate parameters of a nonlinear dynamical system from the time series data of the variables. The method removes some of the problems associated with the standard synchronization based methods. An important achievement of this method is that it is possible to determine the exact form of dynamical equations for systems with quadratic nonlinearity.
-

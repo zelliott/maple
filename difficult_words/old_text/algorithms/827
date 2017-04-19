@@ -1,7 +1,0 @@
-
-Existing sequence alignment algorithms assume that similarities between DNA or amino acid sequences are linearly ordered. That is, stretches of similar nucleotides or amino acids are in the same order in both sequences. Recombination perturbs this order. An algorithm that can reconstruct sequence similarity despite rearrangement would be helpful for reconstructing the evolutionary history of recombined sequences.
-
-We propose a graph-based algorithm for combining multiple local alignments to a query sequence into the single combination of alignments that either covers the maximal portion of the query or results in the single highest alignment score to the query. This algorithm can help study the process of genome rearrangement, improve functional gene annotation, and reconstruct the evolutionary history of recombined proteins. The algorithm takes O(n2) time, where n is the number of local alignments considered.
-
-We discuss two example applications of the algorithm. The algorithm is able to provide useful reconstructions of the metazoan mitochondrial genome. It is also able to increase the percentage of a query sequence's amino acid residues for which similar stretches of amino acids can be found in sequence databases.
-

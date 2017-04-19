@@ -1,9 +1,0 @@
-
-The objective of this study was to separate multiple signal components present in functional MRI (fMRI) data sets. Blind source separation techniques were applied to the analysis of fMRI data to determine multiple physiologically relevant independent signal sources.
-
-Computer simulations were performed to test the reliability and robustness of the independent component analysis (ICA). Four subjects (3 males and 1 female between 14 and 29 years old) were scanned under various stimulus conditions: (1) rest while breathing room air, (2) bilateral finger tapping while breathing room air, and (3) hypercapnia during bilateral finger tapping.
-
-Simulations performed on synthetic data sets demonstrated that not only could the algorithm reliably detect the shapes of each of the source signals, but it also preserved their relative amplitudes. The algorithm also performed robustly in the presence of noise. With use of fMRI time series data sets from bilateral finger tapping during hypercapnia, distinct physiologically relevant independent sources were reliably estimated. One independent component corresponded to the hypercapnic cerebrovascular response, and another independent component corresponded to cortical activation from bilateral finger tapping. In three of the four subjects, the underlying fluctuations in signal related to baseline respiratory rate were identified in the third independent component. Principal component analysis (PCA) could not separate these two independent physiological components.
-
-With use of ICA, signals originating from independent sources could be separated from a linear mixture of observed data. Limitations of PCA were also demonstrated.
-

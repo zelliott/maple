@@ -1,5 +1,0 @@
-
-AnaGram is a web service for protein function assignment based on identity detection of small significant fragments (protomotifs) that can act as modular pieces in peptide construction. The system is able to assign function by finding correlations between protomotifs and functional annotations contained in SWISS-PROT and Medline databases. In addition, function ontologies are used for hierarchical organization of the predicted functions. Extensive tests have been carried out to evaluate the accuracy and performance of the system.
-
-http://jaguar.genetica.uma.es/anagram.htm
-

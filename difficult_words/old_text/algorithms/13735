@@ -1,3 +1,0 @@
-
-Sharing and reuse of knowledge bases is recognized in Artificial Intelligence and Medical Informatics as beneficial, but difficult. Reusing an existing knowledge base can save considerable time and effort during the knowledge engineering phase, and facilitates integration of systems. However, the degree to which knowledge can be shared among different applications is still mainly an empirical question. In this paper, we describe the preliminary results of our attempt to reuse the UMLS Semantic Network as an ontology for the knowledge base of a patient education system.
-

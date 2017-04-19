@@ -1,9 +1,0 @@
-
-Current genomic privacy technologies assume the identity of genomic sequence data is protected if personal information, such as demographics, are obscured, removed, or encrypted. While demographic features can directly compromise an individual's identity, recent research demonstrates such protections are insufficient because sequence data itself is susceptible to re-identification. To counteract this problem, we introduce an algorithm for anonymizing a collection of person-specific DNA sequences.
-
-The technique is termed DNA lattice anonymization (DNALA), and is based upon the formal privacy protection schema of k -anonymity. Under this model, it is impossible to observe or learn features that distinguish one genetic sequence from k-1 other entries in a collection. To maximize information retained in protected sequences, we incorporate a concept generalization lattice to learn the distance between two residues in a single nucleotide region. The lattice provides the most similar generalized concept for two residues (e.g. adenine and guanine are both purines).
-
-The method is tested and evaluated with several publicly available human population datasets ranging in size from 30 to 400 sequences. Our findings imply the anonymization schema is feasible for the protection of sequences privacy.
-
-The DNALA method is the first computational disclosure control technique for general DNA sequences. Given the computational nature of the method, guarantees of anonymity can be formally proven. There is room for improvement and validation, though this research provides the groundwork from which future researchers can construct genomics anonymization schemas tailored to specific datasharing scenarios.
-

@@ -1,3 +1,0 @@
-
-3D-Hit is a fast scanning method for detecting structural similarities between proteins. The algorithm is based on a hashing function, which decomposes proteins into segments of 13 residues. The scanning procedures start with assigning a set of similar segments from the database to each segment in the query protein. These initial hits are expanded by two iterations of structural superposition of larger segments of 99 and 299 residues. The method generates an alignment for the query protein by concatenating partial structural alignments.
-

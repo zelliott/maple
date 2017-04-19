@@ -1,7 +1,0 @@
-
-Genetic alterations of transcription factors (TFs) have been implicated in the tumorigenesis of cancers. In many cancers, alteration of TFs results in aberrant activity of them without changing their gene expression level. Gene expression data from microarray or RNA-seq experiments can capture the expression change of genes, however, it is still challenge to reveal the activity change of TFs.
-
-Here we propose a method, called REACTIN (REgulatory ACTivity INference), which integrates TF binding data with gene expression data to identify TFs with significantly differential activity between disease and normal samples. REACTIN successfully detect differential activity of estrogen receptor (ER) between ER+ and ER- samples in 10 breast cancer datasets. When applied to compare tumor and normal breast samples, it reveals TFs that are critical for carcinogenesis of breast cancer. Moreover, Reaction can be utilized to identify transcriptional programs that are predictive to patient survival time of breast cancer patients.
-
-REACTIN provides a useful tool to investigate regulatory programs underlying a biological process providing the related case and control gene expression data. Considering the enormous amount of cancer gene expression data and the increasingly accumulating ChIP-seq data, we expect wide application of REACTIN for revealing the regulatory mechanisms of various diseases.
-

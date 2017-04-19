@@ -1,3 +1,0 @@
-
-Much research effort has been directed in different physiological contexts towards describing realistic behaviors with differential equations. One observes obviously that more state-variables give the model more accuracy. Unfortunately, the computational cost involved is higher. A new algorithm is presented for simulating a model described by a system of differential equations in which efficiency may not be altered by its size. In order to do this, the method is based on a polynomial description of the state-variables' evolution and on a computation distributed control. Evaluations and results performed with classical models like Fitzhugh Nagumo or Hodgkin Huxley, allow validation of the method and exhibits its potential to decrease the computational costs.
-

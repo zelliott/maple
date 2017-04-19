@@ -1,3 +1,0 @@
-
-We demonstrate enhanced three-dimensional photoacoustic imaging behind a scattering material by increasing the fluence in the ultrasound transducer focus. We enhance the optical intensity using wavefront shaping before the scatterer. The photoacoustic signal induced by an object placed behind the scattering medium serves as feedback to optimize the wavefront, enabling one order of magnitude enhancement of the photoacoustic amplitude. Using the enhanced optical intensity, we scan the object in two-dimensions before post-processing of the data to reconstruct the image. The temporal profile of the photoacoustic signal provides the information used to reconstruct the third dimension.
-

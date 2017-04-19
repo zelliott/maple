@@ -1,3 +1,0 @@
-
-In this paper, we propose a novel method for the registration of volumetric images of the brain that optimizes the alignment of both cortical and subcortical structures. In order to achieve this, relevant geometrical information is extracted from a surface-based morph and diffused into the volume using the Navier operator of elasticity, resulting in a volumetric warp that aligns cortical folding patterns. This warp field is then refined with an intensity driven optical flow procedure that registers noncortical regions, while preserving the cortical alignment. The result is a combined surface and volume morph (CVS) that accurately registers both cortical and subcortical regions, establishing a single coordinate system suitable for the entire brain.
-

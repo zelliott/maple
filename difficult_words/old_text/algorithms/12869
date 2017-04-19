@@ -1,3 +1,0 @@
-
-In this letter, a novel recurrent neural network based on the gradient method is proposed for solving linear programming problems. Finite-time convergence of the proposed neural network is proved by using the Lyapunov method. Compared with the existing neural networks for linear programming, the proposed neural network is globally convergent to exact optimal solutions in finite time, which is remarkable and rare in the literature of neural networks for optimization. Some numerical examples are given to show the effectiveness and excellent performance of the new recurrent neural network.
-

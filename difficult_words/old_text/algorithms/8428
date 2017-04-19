@@ -1,3 +1,0 @@
-
-A flexible class of semi-parametric survival models is proposed that takes account of long- and short-term covariate effects in cancer survival. The diversity of responses described by the models include non-proportional and crossing survival curves as well as a fraction of long-term survivors. Restricted non-parametric maximum likelihood estimation procedures (RNPMLE) are developed to provide point estimates, confidence intervals and tests for the models. Numerical algorithms to fit semi-parametric survival models are emphasized. The methods are applied to analyse post-treatment survival of breast cancer patients diagnosed in Utah by age and stage.
-

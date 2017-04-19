@@ -1,3 +1,0 @@
-
-The global extended Kalman filtering (EKF) algorithm for recurrent neural networks (RNNs) is plagued by the drawback of high computational cost and storage requirement. In this paper, we present a local EKF training-pruning approach that can solve this problem. In particular, the by-products, obtained along with the local EKF training, can be utilized to measure the importance of the network weights. Comparing with the original global approach, the proposed local approach results in much lower computational cost and storage requirement. Hence, it is more practical in solving real world problems. Simulation showed that our approach is an effective joint-training-pruning method for RNNs under online operation.
-

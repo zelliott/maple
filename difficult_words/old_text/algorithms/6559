@@ -1,5 +1,0 @@
-
-EC_oligos designs oligonucleotides (oligos) from exons of annotated genomic sequence information. It can automatically and rapidly select oligos that are conserved between two sets of sequence data, and can pair up oligos for use as PCR primers. It can do this on a whole-genome scale and according to user-defined criteria.
-
-The source code, executable program and user manual are available at ftp://ftp.ebi.ac.uk/pub/software/dos/EC_oligos/.
-

@@ -1,3 +1,0 @@
-
-We have proposed a method to recognize partially occluded three-dimensional (3D) objects by using 3D volumetric reconstruction integral imaging (II). An II system captures multiple perspectives of occluded objects by using a microlens array. The reconstruction of the occluded 3D scene and target recognition are done digitally to reduce the effects of the occlusion. To verify system performance, we have implemented an optimum filter for object recognition. Both two-dimensional (2D) images and 3D II volumetric reconstructed images are considered. The correlation results of occluded 3D images for volumetric reconstruction show substantial improvements compared with those for conventional 2D imaging of occluded images.
-

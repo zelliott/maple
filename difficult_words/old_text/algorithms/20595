@@ -1,3 +1,0 @@
-
-This paper describes a new software platform called "V" which is designed for interactive processing of magnetic resonance data. The package currently contains a variety of functions for image reconstruction and spectral data analysis. More importantly, it provides a framework to facilitate the exchange and application of processing algorithms among researchers in the field. We discuss the architecture of the package, give an example to demonstrate its operation and provide instructions for obtaining the software.
-

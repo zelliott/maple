@@ -1,9 +1,0 @@
-
-Modules in biology appeared quickly as an accurate way for summarizing complex living systems by simple ones. Therefore, finding an appropriate relationship between modules extracted from a biological graph and protein complexes remains a crucial task. Recent studies successfully proposed various descriptions of protein interaction networks. These approaches succeed in showing modules within the network and how the modules interact. However, describing the interactions within the modules, i.e. intra-modular interactions, remains little analyzed despite its interest for understanding module functions.
-
-We overcome this weakness by adding a complementary description to the already successful approaches: a hierarchical decomposition named homogeneous decomposition. This decomposition represents a natural refinement of previous analyses and details interactions within a module. We propose to illustrate these improvements by three practical cases. Among them, we decompose the yeast protein interaction network and show reachable biological insights that might be extracted from a complex large-scale network.
-
-A program is at disposal under CeCILL license at: www.lina.univ-nantes.fr/combi/DH/Home.html.
-
-Supplementary data are available at Bioinformatics online.
-

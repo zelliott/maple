@@ -1,9 +1,0 @@
-
-The aim of this study was to develop a computer-aided diagnosis (CAD) system in assessing the sonographic morphologic and texture features of soft-tissue tumors.
-
-The retrospective study involved 114 pathology proven cases including 73 benign and 41 malignant soft-tissue tumors. The tumor regions were delineated by an experienced radiologist who was unknown to the pathologic result. Then, we applied 10 morphologic features and 6 gray-level co-occurrence matrix texture features to analyze the tumor regions. To classify the tumors as benign or malignant, we used two methods, a linear discriminant analysis with stepwise feature selection and a multilayer neural network with the back-propagation algorithm as classifiers. The classification performances are evaluated by the area A(z) under the receiver operating characteristic. Furthermore, four radiologists provided malignancy grades for all tumors in the comparison of the CAD system.
-
-In this analysis, the CAD system based on the combination of morphologic and texture feature sets can give the optimal CAD result by LDA with an accuracy of 89.5%, a sensitivity of 90.2%, a specificity of 89.0%, a positive predictive value (PPV) of 82.2%, negative predictive value (NPV) of 94.2%, and A(z) value of 0.96, and by the multilayer perception with an accuracy of 88.6%, a sensitivity of 90.2%, a specificity of 87.5%, a positive predictive value of 80.4%, negative predictive value of 94.2%, and A(z) value of 0.95. The A(z) values of the four radiologists were ranged between 0.74 and 0.86, and the optimal CAD results were shown the highest A(z) values than the four radiologists' rankings.
-
-This study has shown that performing the CAD system with both morphologic and texture features on sonography, can successfully distinguish between benign and malignant soft-tissue tumors. Moreover, it can also provide a second opinion for the tumor diagnosis and avert unnecessary biopsy.
-

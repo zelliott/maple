@@ -1,3 +1,0 @@
-
-When using data collected in a group sequential clinical trial, the sample mean is no longer the uniform minimum variance unbiased estimator (UMVUE) of the mean of a normal distribution. Emerson (1993, Computers and Biomedical Research, 26, 68-73) described an algorithm for computing the UMVUE in this setting. This algorithm, although computationally expensive, used only the basic software necessary for deriving group sequential boundaries. In this paper, we present an improved algorithm that results in greatly decreased computation times.
-

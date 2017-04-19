@@ -1,9 +1,0 @@
-
-To evaluate an automated attenuation-based kV-selection in computed tomography of the chest in respect to radiation dose and image quality, compared to a standard 120 kV protocol.
-
-104 patients were examined using a 128-slice scanner. Fifty examinations (58 ± 15 years, study group) were performed using the automated adaption of tube potential (100-140 kV), based on the attenuation profile of the scout scan, 54 examinations (62 ± 14 years, control group) with fixed 120 kV. Estimated CT dose index (CTDI) of the software-proposed setting was compared with a 120 kV protocol. After the scan CTDI volume (CTDIvol) and dose length product (DLP) were recorded. Image quality was assessed by region of interest (ROI) measurements, subjective image quality by two observers with a 4-point scale (3--excellent, 0--not diagnostic).
-
-The algorithm selected 100 kV in 78% and 120 kV in 22%. Overall CTDIvol reduction was 26.6% (34% in 100 kV) overall DLP reduction was 22.8% (32.1% in 100 kV) (all p<0.001). Subjective image quality was excellent in both groups.
-
-The attenuation based kV-selection algorithm enables relevant dose reduction (~27%) in chest-CT while keeping image quality parameters at high levels.
-

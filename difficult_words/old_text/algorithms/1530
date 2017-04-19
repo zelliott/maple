@@ -1,9 +1,0 @@
-
-To present an algorithm for optimization of background suppression pulse timing for arterial spin labeling (ASL) perfusion imaging.
-
-An algorithm for optimization of background suppression pulse timing is proposed. Numerical optimization of timing of the background suppression pulses is investigated in both constrained and unconstrained ASL sequences. The performance of the parameters from the algorithm is evaluated in phantom and also in vivo in five human subjects.
-
-The background signal is suppressed to less than 1% across a broad range of T1s with a modest number of inversion pulses using the timings acquired from the numerical optimization algorithm proposed in this study. The performance of the parameters from the algorithm is also confirmed in vivo.
-
-Successful background suppression over a broad range of tissues is achievable. Values for optimal pulse timing in both pulsed and continuous ASL studies are reported to facilitate sequence design with different labeling parameters.
-

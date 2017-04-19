@@ -1,7 +1,0 @@
-
-Recognition of functional sites remains a key event in the course of genomic DNA annotation. It is well known that a number of sites have their own specific oligonucleotide content. This pinpoints the fact that the preference of the site-specific nucleotide combinations at adjacent positions within an analyzed functional site could be informative for this site recognition. Hence, Web-available resources describing the site-specific oligonucleotide content of the functional DNA sites and applying the above approach for site recognition are needed. However, they have been poorly developed up to now.
-
-To describe the specific oligonucleotide content of the functional DNA sites, we introduce the oligonucleotide alphabets, out of which the frequency matrix for a given site could be constructed in addition to a traditional nucleotide frequency matrix. Thus, site recognition accuracy increases. This approach was implemented in the activated MATRIX database accumulating oligonucleotide frequency matrices of the functional DNA sites. We have demonstrated that the false-positive error of the functional site recognition decreases if the oligonucleotide frequency matrixes are added to the nucleotide frequency matrixes commonly used.
-
-The MATRIX database is available on the Web, http://wwwmgs.bionet.nsc.ru/Dbases/MATRIX/ and the mirror site, http://www.cbil.upenn.edu/mgs/systems/c onsfreq/.
-

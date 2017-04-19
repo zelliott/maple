@@ -1,3 +1,0 @@
-
-Strata-matched case-control studies based on a given number of cases and k times as many controls are common. We obtain a necessary and sufficient condition for there to exist a numerical solution for k with a desired level of a power. We derive the maximum power of the Cochran test, which may be less than one, when the number of cases is fixed. We provide an approximate formula for the minimum number of cases required for a specified power. There exists a numerical solution (that is, convergence of an iterative method) for k if the number of cases given is greater than this minimum number and no such a solution otherwise. We also show that the incremental gain in relative efficiency of the test with respect to k is diminished as k gets large.
-

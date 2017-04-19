@@ -1,3 +1,0 @@
-
-A new PGSE NMR sequence is introduced for measuring diffusive transport across the plasma membrane of living cells. A "diffusion filter" and a variable mixing time precedes a standard PGSE block for diffusion encoding of the NMR signal. The filter is a PGSE block optimized for selectively removing the magnetization of the extracellular water. With increasing mixing time the intra- and extracellular components approach their equilibrium fractional populations. The rate of exchange can be measured using only a few minutes of instrument time. Water exchange over the plasma membrane of starved yeast cells is studied in the temperature range +5 to +32 degrees C.
-

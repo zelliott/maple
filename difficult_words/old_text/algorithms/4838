@@ -1,9 +1,0 @@
-
-To incorporate value-based weight scaling into the Fellegi-Sunter (F-S) maximum likelihood linkage algorithm and evaluate the performance of the modified algorithm. Background Because healthcare data are fragmented across many healthcare systems, record linkage is a key component of fully functional health information exchanges. Probabilistic linkage methods produce more accurate, dynamic, and robust matching results than rule-based approaches, particularly when matching patient records that lack unique identifiers. Theoretically, the relative frequency of specific data elements can enhance the F-S method, including minimizing the false-positive or false-negative matches. However, to our knowledge, no frequency-based weight scaling modification to the F-S method has been implemented and specifically evaluated using real-world clinical data.
-
-The authors implemented a value-based weight scaling modification using an information theoretical model, and formally evaluated the effectiveness of this modification by linking 51,361 records from Indiana statewide newborn screening data to 80,089 HL7 registration messages from the Indiana Network for Patient Care, an operational health information exchange. In addition to applying the weight scaling modification to all fields, we examined the effect of selectively scaling common or uncommon field-specific values.
-
-The sensitivity, specificity, and positive predictive value for applying weight scaling to all field-specific values were 95.4, 98.8, and 99.9%, respectively. Compared with nonweight scaling, the modified F-S algorithm demonstrated a 10% increase in specificity with a 3% decrease in sensitivity.
-
-By eliminating false-positive matches, the value-based weight modification can enhance the specificity of the F-S method with minimal decrease in sensitivity.
-

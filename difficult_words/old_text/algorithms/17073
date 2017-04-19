@@ -1,9 +1,0 @@
-
-An iterative maximum likelihood expectation maximization algorithm (MLEM) has been developed for scatter compensation in chest radiography.
-
-The MLEM technique produces a scatter-reduced image which maximizes the probability of observing the measured image. We examined the scatter content and the low-contrast signal-to-noise ratio (SNR) in digital radiographs of anatomical phantoms before and after compensation.
-
-MLEM converged to an accurate (6.4% RMS residual scatter error) estimate within 12 iterations. Both contrast and noise were increased in the processed images as iteration progressed. In the lung, contrast was increased 108% and SNR was improved by 10%. In the retrocardiac region, contrast was increased 180% while SNR decreased by 6%.
-
-This is the first report of a post-acquisition scatter compensation technique which can increase SNR. These results suggest that statistical estimation techniques can enhance image quality and quantitative accuracy for digital chest radiography.
-

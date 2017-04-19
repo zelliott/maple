@@ -1,3 +1,0 @@
-
-A new approach to the analysis of nonstationary possibly nonlinear time series is presented. It is based on an adaptive autocovariance eigenspectrum computation known as APEX together with the Rissanen's Minimum Description Length criterion for the selection of the most relevant eigenvalues. A new concept of time-varying instantaneous statistical dimension is introduced. The motivation for this new approach is the analysis of newborn electroencephalogram for which nonstationary is an inherent property. The proposed algorithm and new dimension are first assessed on synthetic data. Then, newborn scalp EEG data are analyzed using the proposed scheme. Transitions between different brain states are shown to occur on a baby having electrical and clinical seizures.
-

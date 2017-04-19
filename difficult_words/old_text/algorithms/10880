@@ -1,3 +1,0 @@
-
-Multi-state stochastic models are useful tools for studying complex dynamics such as chronic diseases. Semi-Markov models explicitly define distributions of waiting times, giving an extension of continuous time and homogeneous Markov models based implicitly on exponential distributions. This paper develops a parametric model adapted to complex medical processes. (i) We introduced a hazard function of waiting times with a U or inverse U shape. (ii) These distributions were specifically selected for each transition. (iii) The vector of covariates was also selected for each transition. We applied this method to the evolution of HIV infected patients. We used a sample of 1244 patients followed up at the hospital in Nice, France.
-

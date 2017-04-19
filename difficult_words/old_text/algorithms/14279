@@ -1,3 +1,0 @@
-
-A lightweight 32-element MRI receiver-coil array was designed and built for cardiac imaging. It comprises an anterior array of 21 copper rings (75 mm diameter) and a posterior array of 11 rings (107 mm diameter) that are arranged in hexagonal lattices so as to decouple nearest neighbors, and curved around the left side of the torso. Imaging experiments on phantoms and human volunteers show that it yields superior performance relative to an eight-element cardiac array as well as a 32-element whole-torso array for both traditional nonaccelerated cardiac imaging and 3D parallel imaging with acceleration factors as high as 16.
-

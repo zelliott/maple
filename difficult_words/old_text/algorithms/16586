@@ -1,9 +1,0 @@
-
-To quantitate cerebral blood flow (CBF) in the entire brain using the 3D echo planar imaging (EPI) PULSAR (pulsed star labeling) technique.
-
-The PULSAR technique was modified to 1) incorporate a nonselective inversion pulse to suppress background signal; 2) to use 3D EPI acquisition; and 3) to modulate flip angle in such a manner as to minimize the blurring resulting from T1 modulation along the slice encoding direction. Computation of CBF was performed using the general kinetic model (GKM). In a series of healthy volunteers (n = 12), we first investigated the effects of introducing an inversion pulse on the measured value of CBF and on the temporal stability of the perfusion signal. Next we investigated the effect of flip angle modulation on the spatial blurring of the perfusion signal. Finally, we evaluated the repeatability of the CBF measurements, including the influence of the measurement of arterial blood magnetization (a calibration factor for the GKM).
-
-The sequence provides sufficient perfusion signal to achieve whole brain coverage in ≈ 5 minutes. Introduction of the inversion pulse for background suppression did not significantly affect computed CBF values, but did reduce the fluctuation in the perfusion signal. Flip angle modulation reduced blurring, resulting in higher estimates of gray matter (GM) CBF and lower estimates of white matter (WM) CBF. The repeatability study showed that measurement of arterial blood signal did not result in significantly higher error in the perfusion measurement.
-
-Improvements in acquisition and sequence preparation presented here allow for better quantification and localization of perfusion signal, allowing for accurate whole-brain CBF measurements in 5 minutes.
-

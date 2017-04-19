@@ -1,3 +1,0 @@
-
-The directed transfer function (DTF) has been proposed as a measure of information flow between the components of multivariate time series. In this paper, we discuss the interpretation of the DTF and compare it with other measures for directed relationships. In particular, we show that the DTF does not indicate multivariate or bivariate Granger causality, but that it is closely related to the concept of impulse response function and can be viewed as a spectral measure for the total causal influence from one component to another. Furthermore, we investigate the statistical properties of the DTF and establish a simple significance level for testing for the null hypothesis of no information flow.
-

@@ -1,3 +1,0 @@
-
-A systematic technique is described for selecting an appropriate mode of antibradycardia pacing on the basis of 10 clinical criteria. A computer model of the selection process was developed with input from more than 41 implanting physicians, and implemented together with a database management system for keeping track of mode selections and identifying cases in which the modes selected by the implanters differed from those recommended by the model. The selection technique, which can be used without a computer, is presented in detail with a decision-tree representation of the model and an explanation of the rationale behind each of its 39 possible recommendations.
-

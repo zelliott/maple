@@ -1,9 +1,0 @@
-
-Managed Ventricular Pacing (MVP) and Search AV+ (SAV+) are two pacing algorithms designed to reduce ventricular pacing. MVP promotes conduction by operating in AAI/R mode with backup ventricular pacing during atrioventricular block (AVB). SAV+ operates in DDD/R mode with a nominal AV extension of 290 ms during atrial sensing and 320 ms during atrial pacing. The reduction in ventricular pacing was compared with these two algorithms in pacemaker patients.
-
-The EnRhythm and EnPulse clinical studies assessed the percentage of ventricular pacing (%VP) after 1 month. Each patient's AVB status was assigned using the following hierarchical categories: persistent third-degree AVB (p3AVB), episodic third-degree AVB (e3AVB), second-degree AVB (2AVB), first-degree AVB (1AVB), and no AVB (nAVB). The%VP was tabulated for each AVB status category.
-
-Data were available from 322 patients of whom 129 received DDD(R) pacing with the MVP algorithm activated and 193 patients with DDD(R) pacing and the SAV+ function activated, each for a month period. MVP resulted in a significantly lower median%VP than SAV+ in all AVB categories except for p3AVB: nAVB (0.3 vs 2.9, P < 0.0001), 1AVB (0.9% vs 80.6%, P < 0.0001), 2AVB (37.6 vs 99.3, P< 0.002), e3AVB (1.2 vs 42.2, P = 0.02), p3AVB (98.9 vs 100, P = 1.00).
-
-MVP resulted in a greater reduction in%VP than SAV+ across all patient groups except persistent third-degree AV block. The greatest reduction in%VP was observed in patients with mildly impaired AV conduction.
-

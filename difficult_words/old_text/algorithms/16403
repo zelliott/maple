@@ -1,7 +1,0 @@
-
-Several computational methods exist to suggest rational genetic interventions that improve the productivity of industrial strains. Nonetheless, these methods are less effective to predict possible genetic responses of the strain after the intervention. This problem requires a better understanding of potential alternative metabolic and regulatory pathways able to counteract the targeted intervention.
-
-Here we present SPABBATS, an algorithm based on Boolean satisfiability (SAT) that computes alternative metabolic pathways between input and output species in a reconstructed network. The pathways can be constructed iteratively in order of increasing complexity. SPABBATS allows the accumulation of intermediates in the pathways, which permits discovering pathways missed by most traditional pathway analysis methods. In addition, we provide a proof of concept experiment for the validity of the algorithm. We deleted the genes for the glutamate dehydrogenases of the Gram-positive bacterium Bacillus subtilis and isolated suppressor mutant strains able to grow on glutamate as single carbon source. Our SAT approach proposed candidate alternative pathways which were decisive to pinpoint the exact mutation of the suppressor strain.
-
-SPABBATS is the first application of SAT techniques to metabolic problems. It is particularly useful for the characterization of metabolic suppressor mutants and can be used in a synthetic biology setting to design new pathways with specific input-output requirements.
-

@@ -1,9 +1,0 @@
-
-To evaluate the clinical application of a robust semiautomatic image segmentation method to determine the brain target volumes in radiation therapy treatment planning.
-
-A local robust region-based algorithm was used on MRI brain images to study the clinical target volume (CTV) of several patients. First, 3 oncologists delineated CTVs of 10 patients manually, and the process time for each patient was calculated. The averages of the oncologists' contours were evaluated and considered as reference contours. Then, to determine the CTV through the semiautomatic method, a fourth oncologist who was blind to all manual contours selected 4-8 points around the edema and defined the initial contour. The time to obtain the final contour was calculated again for each patient. Manual and semiautomatic segmentation were compared using 3 different metric criteria: Dice coefficient, Hausdorff distance, and mean absolute distance. A comparison also was performed between volumes obtained from semiautomatic and manual methods.
-
-Manual delineation processing time of tumors for each patient was dependent on its size and complexity and had a mean (±SD) of 12.33 ± 2.47 minutes, whereas it was 3.254 ± 1.7507 minutes for the semiautomatic method. Means of Dice coefficient, Hausdorff distance, and mean absolute distance between manual contours were 0.84 ± 0.02, 2.05 ± 0.66 cm, and 0.78 ± 0.15 cm, and they were 0.82 ± 0.03, 1.91 ± 0.65 cm, and 0.7 ± 0.22 cm between manual and semiautomatic contours, respectively. Moreover, the mean volume ratio (=semiautomatic/manual) calculated for all samples was 0.87.
-
-Given the deformability of this method, the results showed reasonable accuracy and similarity to the results of manual contouring by the oncologists. This study shows that the localized region-based algorithms can have great ability in determining the CTV and can be appropriate alternatives for manual approaches in brain cancer.
-

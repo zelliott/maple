@@ -1,9 +1,0 @@
-
-The Quantitative Assay Database (QuAD), http://proteome.moffitt.org/QUAD/, facilitates widespread implementation of quantitative mass spectrometry in cancer biology and clinical research through sharing of methods and reagents for monitoring protein expression and modification.
-
-Liquid chromatography coupled to multiple reaction monitoring (LC-MRM) mass spectrometry assays are developed using SDS-PAGE fractionated lysates from cancer cell lines. Pathway maps created using GeneGO Metacore provide the biological relationships between proteins and illustrate concepts for multiplexed analysis; each protein can be selected to examine assay development at the protein and peptide levels.
-
-The coupling of SDS-PAGE and multiple reaction monitoring mass spectrometry screening has been used to detect 876 peptides from 218 cancer-related proteins in model systems including colon, lung, melanoma, leukemias, and myeloma, which has led to the development of 95 quantitative assays including stable-isotope-labeled peptide standards. Methods are published online and peptide standards are made available to the research community. Protein expression measurements for heat shock proteins, including a comparison with ELISA and monitoring response to the HSP90 inhibitor, 17-(dimethylaminoethylamino)-17-demethoxygeldanamycin (17-DMAG), are used to illustrate the components of the QuAD and its potential utility.
-
-This resource enables quantitative assessment of protein components of signaling pathways and biological processes and holds promise for systematic investigation of treatment responses in cancer.
-

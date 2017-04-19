@@ -1,3 +1,0 @@
-
-For cDNA array methods that depend on imaging of a radiolabel, we show that bleedover of one spot onto another, due to the gap between the array and the imaging media, can be a major problem. The images can be sharpened, however, using a blind convolution method based on the EM algorithm. The sharpened images look like a set of donuts, which concurs with our knowledge of the spotting process. Oversharpened images are actually useful as well, in locating the centers of each spot.
-

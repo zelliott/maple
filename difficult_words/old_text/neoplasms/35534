@@ -1,9 +1,0 @@
-
-Radiation treatment (RT) for cancer is susceptible to clinical incidents resulting from human errors and equipment failures. A systematic approach to collecting and processing incidents is required to manage patient risks. We describe the application of a new taxonomic structure for RT that supports risk analysis and organizational learning.
-
-A systematic analysis of the RT process identified five process domains. Within each domain we defined incident type groups. We then constructed a database reflecting this taxonomic structure and populated it with incidents from publicly available sources. Querying this database provides insights into the nature and relative frequency of incidents in RT.
-
-There are relatively few reports of incidents in the Prescription domain compared with the Preparation and Treatment domains. There are also fewer reports of systematic and infrastructure incidents in comparison to sporadic and process incidents. Infrastructure incidents are mainly systematic in nature, while process incidents are more likely to be sporadic.
-
-The lack of a standard, systems-oriented framework for incident reporting makes it difficult to learn from existing incident report sources. A clear understanding of the potential consequences and relationships between different incident types will guide incident reporting, resource allocation, and risk management efforts.
-

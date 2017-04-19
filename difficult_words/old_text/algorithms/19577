@@ -1,3 +1,0 @@
-
-Analysing thermoluminescence glow curves involves the solving of a system of non-linear equations. These equations are either differential equations that must be solved numerically or functional approximations for their solution. The current paper presents software with the functions needed for the study of glow curves that is not a stand-alone computer program but an extension of MS Excel. It supplies functions that solve the general one trap model for the thermoluminescence process without the use of approximating functions. Combined with the Solver utility of Excel this gives a very flexible system for the analysis of glow curves. Functions for analysing the statistics of the deconvolution results are included.
-

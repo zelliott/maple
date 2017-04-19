@@ -1,3 +1,0 @@
-
-Genome rearrangement is an important area in computational biology and bioinformatics. The translocation operation is one of the popular operations for genome rearrangement. It was proved that computing the unsigned translocation distance is NP-hard. In this paper, we present a (1.5 + epsilon)-approximation algorithm for computing unsigned translocation distance which improves upon the best known 1.75-ratio. The running time of our algorithm is O(n2 + (4/epsilon)1.5 square root log(4/epsilon )2(4/epsilon), where n is the total number of genes in the genome.
-

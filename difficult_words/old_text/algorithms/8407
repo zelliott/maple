@@ -1,3 +1,0 @@
-
-The automated structure elucidation of organic molecules from experimentally obtained properties is extended by an entirely new approach. A genetic algorithm is implemented that uses molecular constitution structures as individuals. With this approach, the structure of organic molecules can be optimized to meet experimental criteria, if in addition a fast and accurate method for the prediction of the used physical or chemical features is available. This is demonstrated using 13C NMR spectrum as readily obtainable information. By means of artificial neural networks a fast and accurate method for calculating the 13C NMR spectrum of the generated structures exists. The method is implemented and tested successfully for organic molecules with up to 18 non-hydrogen atoms.
-

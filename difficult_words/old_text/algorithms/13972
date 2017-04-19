@@ -1,5 +1,0 @@
-
-Secondary structure predictions based on the properties of individual residues, and sometimes on local interactions, usually fail to exceed 65% efficiency. Therefore, non-local, long-range interactions seem to be a significant cause of this limitation.
-
-In this paper, we apply approaches to localize highly interacting residues and clusters of residues involved in multiple non-local interactions, and test various secondary structure predictions on this separate subset to assess the effect of long-range interactions on the prediction efficiencies. It was found that only a marginal part of the failure of secondary structure predictions results from the presence of long-range interactions. Alternative possibilities are also discussed.
-

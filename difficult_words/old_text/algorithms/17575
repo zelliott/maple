@@ -1,7 +1,0 @@
-
-With the emerging success of protein secondary structure prediction through the applications of various statistical and machine learning techniques, similar techniques have been applied to protein beta-turn prediction. In this study, we perform protein beta-turn prediction using a k-nearest neighbor method, which is combined with a filter that uses predicted protein secondary structure information. Traditional beta-turn prediction from k-nearest neighbor method is modified to account for the unbalanced ratio of the natural occurrence of beta-turns and non-beta-turns.
-
-Our prediction scheme is tested on a set of 426 non-homologous protein sequences. The prediction scheme consists of two stages: k-nearest neighbor method stage and filtering stage. Variations of the k-nearest neighbor method were used to take property of beta-turns into consideration. Our filtering method uses beta-turn/non-beta-turn estimates from the k-nearest neighbor method stage and predicted protein secondary structure information from PSI-PRED in order to get new beta-turn/non-beta-turn estimate. Our result is compared with the previously best known beta-turn prediction method on the dataset of 426 non-homologous protein sequences and is shown to give slightly superior performance at significantly lower computational complexity.
-
-Contact the author for information on the source code of the programs used.
-

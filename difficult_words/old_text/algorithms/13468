@@ -1,3 +1,0 @@
-
-Recently several efficient schemes are proposed to provide security of e-medicine systems. Almost all of these schemes have tried to achieve the highest security level in transmission of patients' medical information to medical institutions through a heterogeneous network like Internet. In this paper, we explain the insecurity of these schemes against "man-in-the-middle" attack. Furthermore, a dynamic mobile agent system based on hybrid cryptosystem is proposed that is both secure and also efficient in computation cost. Analyzing the security criteria confirms suitability of the proposed scheme for e-medicine systems.
-

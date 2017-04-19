@@ -1,3 +1,0 @@
-
-Recordings of spike trains made with microwires or silicon electrodes include more noise from various sources that contaminate the observed spike shapes compared with recordings using sharp microelectrodes. This is a particularly serious problem if spike shape sorting is required to separate the several trains that might be observed on a particular electrode. However, if recordings are made with an array of such electrodes, there are several mathematical methods to improve the effective signal (spikes) to noise ratio, thus considerably reducing inaccuracy in spike detection and shape sorting. We compare the theoretical basis of three such methods and evaluate their performance with simulated and real data.
-

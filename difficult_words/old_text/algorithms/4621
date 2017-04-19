@@ -1,3 +1,0 @@
-
-Tracking deforming objects involves estimating the global motion of the object and its local deformations as functions of time. Tracking algorithms using Kalman filters or particle filters (PFs) have been proposed for tracking such objects, but these have limitations due to the lack of dynamic shape information. In this paper, we propose a novel method based on employing a locally linear embedding in order to incorporate dynamic shape information into the particle filtering framework for tracking highly deformable objects in the presence of noise and clutter. The PF also models image statistics such as mean and variance of the given data which can be useful in obtaining proper separation of object and background.
-

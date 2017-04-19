@@ -1,9 +1,0 @@
-
-Linear second-order models have often been used to investigate properties of speech production. However, these models are inaccurate approximations of the speech apparatus. This study aims at assessing how reliably stiffness can be estimated from kinematics with these models.
-
-Articulatory movements were collected for 9 speakers of German during the production of reiterant CVCV words at varying speech rates. Velocity peaks, movement amplitudes, and gesture durations were measured. In the context of an undamped model, 2 stiffness estimations were compared that should theoretically yield the same result. In the context of a damped model, gestural stiffness and damping were calculated for each gesture.
-
-Numerous cases were found in which stiffness estimations based on the undamped model contradicted each other. Less than 80% of the data were found to be compatible with the properties of the damped model. Stiffness tends to decrease with gestural duration. However, it is associated with a large, unrealistic damping dispersion, making stiffness estimations from kinematic data to a large extent unreliable.
-
-Any conclusions about speech control based on stiffness estimations using linear second-order models should therefore be considered with caution.
-

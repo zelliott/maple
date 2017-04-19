@@ -1,3 +1,0 @@
-
-In this paper, a new efficient algorithm is presented for haplotype block partitioning based on haplotype diversity. In this algorithm, finding the largest meaningful block that satisfies the diversity condition is the main goal as an optimization problem. The algorithm can be performed in polynomial time complexity with regard to the number of haplotypes and SNPs. We apply our algorithm on three biological data sets from chromosome 21 in three different population data sets from HapMap data bulk; the obtained results show the efficiency and better performance of our algorithm in comparison with three other well known methods.
-

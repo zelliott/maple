@@ -1,3 +1,0 @@
-
-Robustness against outliers is a desirable property of any unsupervised learning scheme. In particular, probability density estimators benefit from incorporating this feature. A possible strategy to achieve this goal is to substitute the sample mean and the sample covariance matrix by more robust location and spread estimators. Here we use the L1-median to develop a nonparametric probability density function (PDF) estimator. We prove its most relevant properties, and we show its performance in density estimation and classification applications.
-

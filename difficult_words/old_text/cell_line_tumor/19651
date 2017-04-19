@@ -1,9 +1,0 @@
-
-We report on the potential DNA binding modes and spectral characteristics of the cell-permeant far red fluorescent DNA dye, DRAQ5, in solution and bound within intact cells. Our aim was to determine the constraints for its use in flow cytometry and bioimaging.
-
-Solution characteristics and quantum yields were determined by spectroscopy. DRAQ5 binding to nuclear DNA was analyzed using fluorescence quenching of Hoechst 33342 dye, emission profiling by flow cytometry, and spectral confocal laser scanning microscopy of the complex DRAQ5 emission spectrum. Cell cycle profiling utilized an EGFP-cyclin B1 reporter as an independent marker of cell age. Molecular modeling was used to explore the modes of DNA binding.
-
-DRAQ5 showed a low quantum yield in solution and a spectral shift upon DNA binding, but no significant fluorescence enhancement. DRAQ5 caused a reduction in the fluorescence intensity of Hoechst 33342 in live cells prelabeled with the UV excitable dye, consistent with molecular modeling that suggests AT preference and an engagement of the minor groove. In vivo spectral analysis of DRAQ5 demonstrated shifts to longer wavelengths upon binding with DNA. Analysis of spectral windows of the dual emission peaks at 681 and 707 nm in cells showed that cell cycle compartment recognition was independent of the far red-near IR emission wavelengths monitored.
-
-The study provides new clues to modes of DNA binding of the modified anthraquinone molecule in vivo, and its AT base-pair selectivity. The combination of low quantum yield but high DNA affinity explains the favorable signal-to-noise profile of DRAQ5-nuclear fluorescence. The robust nature of cell cycle reporting using DRAQ5, even when restricted spectral windows are selected, facilitates the analysis of encroaching spectral emissions from other fluorescent reporters, including GFP-tagged proteins.
-

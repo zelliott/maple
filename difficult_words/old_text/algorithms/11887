@@ -1,3 +1,0 @@
-
-This paper describes a Bayesian method for three-dimensional registration of brain images. A finite element approach is used to obtain a maximum a posteriori estimate of the deformation field at every voxel of a template volume. The priors used by the MAP estimate penalize unlikely deformations and enforce a continuous one-to-one mapping. The deformations are assumed to have some form of symmetry, in that priors describing the probability distribution of the deformations should be identical to those for the inverses (i.e., warping brain A to brain B should not be different probablistically from warping B to A). A gradient descent algorithm is presented for estimating the optimum deformations.
-

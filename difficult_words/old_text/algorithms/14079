@@ -1,9 +1,0 @@
-
-New treatment techniques in radiotherapy employ increasing dose calculation complexity in treatment planning. For an adequate check of the results coming from a modern treatment planning system, clinical tools with almost the same degree of generality and accuracy as the planning system itself are needed. To fulfil this need we propose a photon pencil kernel parameterization based on a minimum of input data that can be used for phantom scatter calculations. Through scatter integration the pencil kernel model can calculate common parameters, such as TPR or phantom scatter factors, used in various dosimetric QA (quality assurance) procedures.
-
-The proposed model originates from an already published radially parameterized pencil kernel. A depth parameterization of the pencil kernel parameters has been introduced, based on a large database containing commissioned beam data for a commercial treatment planning system. The entire pencil kernel model demands only one photon beam quality index, TPR20,10, as input.
-
-By comparing the dose calculation results to the extensive experimental data set in the database, it has been possible to make a thorough analysis of the resulting accuracy. The errors in calculated doses, normalized to the reference geometry, are in most cases smaller than 2%.
-
-The investigation shows that a pencil kernel model based only on TPR20,10 can be used for dosimetric verification purposes in megavoltage photon beams at depths below the range of contaminating electrons.
-

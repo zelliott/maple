@@ -1,3 +1,0 @@
-
-This paper describes a portable speech controller system for persons with a vision impairment to adjust the channel frequency of a radio set via speech commands. The speech commands are recognized on a general-purpose digital signal processor using a hidden Markov model (HMM), and are used to remotely control radio channel changes.
-

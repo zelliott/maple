@@ -1,3 +1,0 @@
-
-A simple graphic method is proposed for reconstructing phylogenetic trees from molecular data. This method is similar to the unweighted pair-group method with arithmetic mean, but the process of computation of average distances and reconstruction of new matrices, required in the latter method, is eliminated from this new method, so that one can reconstruct a phylogenetic tree without using a computer, unless the number of operational taxonomic units is very large. Furthermore, this method allows a phylogenetic tree to have multifurcating branches whenever there is ambiguity with bifurcation.
-

@@ -1,5 +1,0 @@
-
-Sliding-window analysis procedure to detect selective constraints (SWAPSC) is a software system to dissect the constraints on the evolution of protein-coding genes. The program estimates rates of nucleotide substitutions at specific codon regions in each branch of a phylogenetic tree. The program uses several sets of simulated sequence alignments to estimate the probability of synonymous and non-synonymous nucleotide substitutions. Thereafter, a statistical analysis is conducted to determine the optimum window size to detect selective constraints. Finally, the optimum window size is slid along the real alignment and a test for significance of the estimated number of synonymous and non-synonymous nucleotide substitutions in each sliding step is conducted. A number of friendly useful output files is generated.
-
-SWAPSC is available at http://www.may.ie/academic/biology/staff/mfmolecevolandbioinf.shtml distribution versions for both Linux and Windows operating systems are available, including manual and example files.
-

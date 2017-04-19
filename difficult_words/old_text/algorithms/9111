@@ -1,9 +1,0 @@
-
-We evaluated the influence of sinogram-affirmed iterative reconstruction (SAFIRE) on the coronary artery calcium (CAC) score by computed tomography (CT).
-
-Seventy patients underwent CAC imaging by 128-slice dual-source CT. CAC volume, mass and Agatston score were calculated from images reconstructed by filtered back projection (FBP) without and with incremental degrees of the SAFIRE algorithm (10-50 %). We used the repeated measuring test and the Steel-Dwass test for multiple comparisons of values and the difference ratio among different SAFIRE groups using the FBP as reference.
-
-The median Agatston score (range) decreased with incremental SAFIRE degrees: 163 (0.1 - 3,393.3), 158.4 (0.3 - 3,079.3), 137.7 (0.1 - 2,978.0), 120.6 (0 - 2,783.6), 102.6 (0 - 2,468.4) and 84.1 (0 - 2,186.9) for 0 % (FBP), 10 %, 20 %, 30 %, 40 % and 50 % SAFIRE, respectively (P < 0.05). In comparison with FBP, CAC volume (from 8.1 % to 47.7 %), CAC mass (from 5.3 % to 44.7 %) and CAC Agatston score (from 7.3 % to 48.4 %) all decreased with increasing SAFIRE from 10 % to 50 %, respectively (P < 0.05). High-grade SAFIRE resulted in the disappearance of detectable calcium in three cases with low calcium burden.
-
-SAFIRE noise reduction techniques significantly affected the CAC, which potentially alters perceived cardiovascular risk.
-

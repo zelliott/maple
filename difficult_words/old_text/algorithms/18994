@@ -1,9 +1,0 @@
-
-Accurate marrow dosimetry for radionuclide therapy based on imaging methods has been challenging because of a variety of factors. One of the uncertainties in image quantification of lumbar vertebrae is correction for radioactivity in large blood vessels anterior to the vertebrae. We developed a method to correct for background radioactivity contributed from blood in large vessels and tested it in a pilot study.
-
-CT images of 26 patients receiving (111)In- or (131)I-labeled conjugates were used to measure the inside diameters of the aorta and inferior vena cava (IVC) at the top of L2 and the bottom of L4 and to measure the length of this vessel segment. The volume was calculated for this vessel segment, and then the radioactivity in that volume at each imaging time was determined using a time-variant blood radioactivity concentration as established by serial blood samples. This vessel segment typically overlapped with lumbar vertebrae in anterior and posterior whole-body images. The contribution of this background radioactivity to the cumulated activity of the lumbar spine region of interest (ROI) from serial gamma-camera images was determined, taking into account differences in attenuation between vessel segments and lumbar vertebrae.
-
-The total blood volumes varied from 25 to 94 mL, with a mean of 51 mL. This mean is 76% of the mean marrow volume of 3 lumbar vertebrae measured in some of these patients. Thirteen of the 14 patients evaluated for aortic position had the aortic segment completely within the L2-L4 ROI. For the IVC, a mean of 72% was in the L2-L4 ROI. Adjusting for radioactivity in major blood vessels that were in the ROI led to lower marrow dose estimates.
-
-To improve the accuracy of lumbar spine imaging-based marrow dosimetry, one can adjust radioactivity in the large vessels by methods that measure the volume, position, and depth of vessels in the ROI.
-

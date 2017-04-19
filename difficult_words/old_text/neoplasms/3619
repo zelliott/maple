@@ -1,9 +1,0 @@
-
-Providing up-to-date estimates of cancer patient survival rates is an important task of cancer registries. A few years ago, a new method of survival analysis, denoted period analysis, was proposed to enhance the recency of long-term survival estimates. The aim of this paper is to provide a comprehensive empirical evaluation of the use of this method.
-
-Using data from the nationwide Finnish Cancer Registry, we compare 5-year and 10-year relative survival rates of 371 849 patients diagnosed with one of the 16 most common forms of cancer in Finland at various time intervals between 1953 and 1992 with the most up-to-date estimates of 5-year or 10-year relative survival that might have been obtained in those time intervals by traditional methods of survival analysis and by period analysis of survival.
-
-Survival rates strongly increased over time for most forms of cancer. For these cancers, traditional estimates of 5- and 10-year survival rates would have severely lagged behind the survival rates later observed for newly diagnosed patients, and period analysis would consistently have provided much more up-to-date estimates of survival rates.
-
-We conclude that period analysis should be implemented as a standard tool for providing up-to-date estimates of long-term survival rates by cancer registries.
-

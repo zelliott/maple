@@ -1,3 +1,0 @@
-
-Adaptive pattern-based control strategies adapt their parameters from an analysis of response patterns exhibited by the system. This work presents an analysis of a class of artificial neural network (ANN) pattern-based adaptive control. It provides conditions under which the adaptive algorithm will converge, and it also characterizes the closed-loop stability properties. In addition, a method for monitoring the adaptation is also proposed. Several simulation examples illustrate our findings.
-

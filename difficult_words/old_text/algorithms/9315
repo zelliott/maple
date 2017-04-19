@@ -1,9 +1,0 @@
-
-We tested one prototype of a new audioprosthesis including the audioprocessor, the implemented algorithms and fitting platform in a small group of selected patients with mixed hypoacusis due to earlier bilateral radical mastoidectomy. It was effective to compensate the conductive and the neurosensory components of those patients. Results regarding the energy, frequency and other requirements of the output transduction make it possible to develop a suitable actuator with the available Micro-Electromechanic-Machine-System (MEMS) technology to substitute the conventional transducer of the prototype.
-
-The objectives were: a) to evaluate the effectiveness of the whole fitting system, and b) to obtain information about the required energy to design the MEMS actuator.
-
-The experiments were conducted with the A prototype of the prosthesis equipped with an output transducer coupled to the oval window. Two algorithms and three cases were tested.
-
-The audioprocessor with the implemented FIR filter-67 coefficients paradigm algorithms, and the fitting system were shown to be adequate for clinical use. Effectiveness parameters were: pure tone average gains 20-33.3 dB; gap closure 25.5-31.8 dB; speech reception thresholds improvement 15-20 dB. Required gain: 5-40 dB. Subjectively, patients considered the results very satisfactory.
-

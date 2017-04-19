@@ -1,3 +1,0 @@
-
-In this paper, we introduce a probabilistic measure for computing the similarity between two biological sequences without alignment. The computation of the similarity measure is based on the Kullback-Leibler divergence of two constructed Markov models. We firstly validate the method on clustering nine chromosomes from three species. Secondly, we give the result of similarity search based on our new method. We lastly apply the measure to the construction of phylogenetic tree of 48 HEV genome sequences. Our results indicate that the weighted relative entropy is an efficient and powerful alignment-free measure for the analysis of sequences in the genomic scale.
-

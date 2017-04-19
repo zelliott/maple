@@ -1,7 +1,0 @@
-
-Although numerous methods have been developed to better capture biological information from microarray data, commonly used single gene-based methods neglect interactions among genes and leave room for other novel approaches. For example, most classification and regression methods for microarray data are based on the whole set of genes and have not made use of pathway information. Pathway-based analysis in microarray studies may lead to more informative and relevant knowledge for biological researchers.
-
-In this paper, we describe a pathway-based classification and regression method using Random Forests to analyze gene expression data. The proposed methods allow researchers to rank important pathways from externally available databases, discover important genes, find pathway-based outlying cases and make full use of a continuous outcome variable in the regression setting. We also compared Random Forests with other machine learning methods using several datasets and found that Random Forests classification error rates were either the lowest or the second-lowest. By combining pathway information and novel statistical methods, this procedure represents a promising computational strategy in dissecting pathways and can provide biological insight into the study of microarray data.
-
-Source code written in R is available from http://bioinformatics.med.yale.edu/pathway-analysis/rf.htm.
-

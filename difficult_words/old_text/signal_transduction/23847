@@ -1,3 +1,0 @@
-
-Recent experimental findings show that the efficacy of transmission in cortical synapses depends on presynaptic activity. In most neural models, however, the synapses are regarded as static entities where this dependence is not included. We study the role of activity-dependent (dynamic) synapses in neuronal responses to temporal patterns of afferent activity. Our results demonstrate that, for suitably chosen threshold values, dynamic synapses are capable of coincidence detection (CD) over a much larger range of frequencies than static synapses. The phenomenon appears to be valid for an integrate-and-fire as well as a Hodgkin-Huxley neuron and various types of CD tasks.
-

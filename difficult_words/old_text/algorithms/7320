@@ -1,3 +1,0 @@
-
-3-D refractive index (RI) distribution is an intrinsic bio-marker for the chemical and structural information about biological cells. Here we develop an optical diffraction tomography technique for the real-time reconstruction of 3-D RI distribution, employing sparse angle illumination and a graphic processing unit (GPU) implementation. The execution time for the tomographic reconstruction is 0.21 s for 96(3) voxels, which is 17 times faster than that of a conventional approach. We demonstrated the real-time visualization capability with imaging the dynamics of Brownian motion of an anisotropic colloidal dimer and the dynamic shape change in a red blood cell upon shear flow.
-

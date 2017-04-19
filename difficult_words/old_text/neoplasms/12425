@@ -1,9 +1,0 @@
-
-A system for the detection, measurement and analysis of the periodic physiological organ motion during radiotherapy treatment is proposed and clinically tested in this paper.
-
-The procedure is based on the acquisition of fluoroscopic sequences, followed by an automatic detection of the movement using cross-correlations with matched filters.
-
-The system generates a probability density function (PDF) of finding a mobile organ in a position at a certain time. The maximum path of the mobile structures can be determined to define the planning target volume (PTV) without ambiguities.
-
-Physiological movements can be accurately included in the daily planning routine, which is not essentially modified, without needing previous patient training.
-

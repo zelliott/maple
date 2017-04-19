@@ -1,3 +1,0 @@
-
-We introduced a compact representation method named Linear Tensor Coding (LTC) for medical volume. With LTC, medical volumes can be represented by a linear combination of bases which are mutually independent. Furthermore, it is possible to choose the distinctive basis for classification. Before classification, correlations between category labels and the coefficients of LTC basis are used to choose the basis. Then we use the selected basis for classification. The classification accuracy can be significantly improved by the use of selected distinctive basis.
-

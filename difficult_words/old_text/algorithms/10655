@@ -1,9 +1,0 @@
-
-There are various genotypic variations known for the four phenotypic presentations of epidermolysis bullosa simplex (EBS). A neural network algorithm may be used to find the relationship between the various factors responsible for a particular phenotypic presentation. We assessed the value of neural network to predict the prognosis of epidermolysis bullosa simplex.
-
-Cases of EBS in which sequencing had been performed to identify the position and type of mutation were collected by literature search and the resulting data was analyzed using neural network algorithm.
-
-The statistical prediction had an accuracy rate of 78%.
-
-Neural networks can identify hidden patterns in a huge database without the intervention of a skilled statistician. It has the potential to change the way we analyze clinical and experimental data at present.
-

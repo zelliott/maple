@@ -1,3 +1,0 @@
-
-An algorithm for blind estimation of reverberation time (RT) in speech signals is proposed. Analysis is restricted to the free-decaying regions of the signal, where the reverberation effect dominates, yielding a more accurate RT estimate at a reduced computational cost. A spectral decomposition is performed on the reverberant signal and partial RT estimates are determined in all signal subbands, providing more data to the statistical-analysis stage of the algorithm, which yields the final RT estimate. Algorithm performance is assessed using two distinct speech databases, achieving 91% and 97% correlation with the RTs measured by a standard nonblind method, indicating that the proposed method blindly estimates the RT in a reliable and consistent manner.
-

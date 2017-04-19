@@ -1,3 +1,0 @@
-
-Although molecular dynamics methods are commonly used to drive biomolecular simulations, the technique provides insufficient sampling to impact studies of the 200-300 residue proteins of greatest interest. One severe limitation of molecular dynamics is that the integrators are restricted by resonance phenomena to small time steps (Delta t<8 fs) much slower then the time scales of important structural and solvent rearrangements. Here, a novel set of equations of motion and a reversible, resonance-free, integrator are designed which permit step sizes on the order of 100 fs to be used.
-

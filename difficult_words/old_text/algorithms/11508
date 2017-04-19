@@ -1,3 +1,0 @@
-
-Neural networks are being used widely in medicine and other areas to create predictive models from data. The statistical method that most closely parallels neural networks is logistic regression. This paper outlines some ways in which neural networks and logistic regression are similar, shows how a small modification of logistic regression can be used in the training of neural network models, and illustrates the use of this modification for variable selection and predictive model building with neural networks.
-

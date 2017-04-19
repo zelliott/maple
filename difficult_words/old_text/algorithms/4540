@@ -1,9 +1,0 @@
-
-Mammographic screening has increased detection of earlier-stage breast cancers and has decreased mortality from breast cancer. A Breast Imaging-Reporting and Data System (BIRADS) 4 classification prompts a biopsy that most often reveals benign disease. Our objective was to determine if serum protein-expression profiles could be used to differentiate between benign and malignant mammographic lesions.
-
-After IRB approval, women undergoing an image-guided biopsy for a BIRADS category 4 lesion were recruited. Serum was collected prebiopsy and labeled retrospectively after final pathology was reviewed. Serum was incubated with weak cation exchange magnetic beads and assayed in duplicate for analysis on matrix-assisted laser desorption/ionization time-of-flight (MALDI-TOF) instrumentation (Bruker Daltonics). Spectra were analyzed using ClinProTools 2.0 software (Bruker Daltonics), and classifications determined using a genetic-clustering algorithm.
-
-In a 14-month period, 260 subjects were recruited into this study. Sera from 92 subjects were randomly selected to form benign (n = 46) and cancer (n = 46) cohorts. The MALDI-TOF spectra analysis yielded 273 peaks, with 14 peaks expressed differentially (p < 0.05) between the cancer and benign cohorts. A genetic algorithm model was generated, yielding a sensitivity of 88.3% and specificity of 85.8%.
-
-MALDI-TOF protein-expression profiles generated from BIRADS 4 sera could be used to distinguish between benign and malignant mammographic lesions.
-

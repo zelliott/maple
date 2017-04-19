@@ -1,9 +1,0 @@
-
-The invasion-metastasis cascade of cancer involves a process of parallel progression. A biological interface (module) in which cells is linked with ECM (extracellular matrix) by CAMs (cell adhesion molecules) has been proposed as a tool for tracing cancer spatiotemporal dynamics.
-
-A mathematical model was established to simulate cancer cell migration. Human uterine leiomyoma specimens, in vitro cell migration assay, quantitative real-time PCR, western blotting, dynamic viscosity, and an in vivo C57BL6 mouse model were used to verify the predictive findings of our model.
-
-The return to origin probability (RTOP) and its related CAM expression ratio in tumors, so-called "tumor self-seeding", gradually decreased with increased tumor size, and approached the 3D Pólya random walk constant (0.340537) in a periodic structure. The biphasic pattern of cancer cell migration revealed that cancer cells initially grew together and subsequently began spreading. A higher viscosity of fillers applied to the cancer surface was associated with a significantly greater inhibitory effect on cancer migration, in accordance with the Stokes-Einstein equation.
-
-The positional probability and cell-CAM-ECM interface (module) in the fractal framework helped us decipher cancer spatiotemporal dynamics; in addition we modeled the methods of cancer control by manipulating the microenvironment plasticity or inhibiting the CAM expression to the Pólya random walk, Pólya constant.
-

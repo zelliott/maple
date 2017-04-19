@@ -1,3 +1,0 @@
-
-We investigate some models of a cancer chemotherapy problem where the normal cell population must be maintained above a lower limit and a measure of the total drug use is bounded as a limit of toxicity. Three sets of objective functions are analyzed, and some numerical solutions are provided for the last case. In all cases the structure of the optimal solution is similar, including a bolus application of drug followed later by continuous infusion.
-

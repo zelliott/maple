@@ -1,7 +1,0 @@
-
-To identify accurately protein function on a proteome-wide scale requires integrating data within and between high-throughput experiments. High-throughput proteomic datasets often have high rates of errors and thus yield incomplete and contradictory information. In this study, we develop a simple statistical framework using Bayes' law to interpret such data and combine information from different high-throughput experiments. In order to illustrate our approach we apply it to two protein complex purification datasets.
-
-Our approach shows how to use high-throughput data to calculate accurately the probability that two proteins are part of the same complex. Importantly, our approach does not need a reference set of verified protein interactions to determine false positive and false negative error rates of protein association. We also demonstrate how to combine information from two separate protein purification datasets into a combined dataset that has greater coverage and accuracy than either dataset alone. In addition, we also provide a technique for estimating the total number of proteins which can be detected using a particular experimental technique.
-
-A suite of simple programs to accomplish some of the above tasks is available at www.unm.edu/~compbio/software/DatasetAssess
-

@@ -1,3 +1,0 @@
-
-A method is described for the correction of geometric distortions occurring in echo planar images. The geometric distortions are caused in large part by static magnetic field inhomogeneities, leading to pixel shifts, particularly in the phase encode direction. By characterizing the field inhomogeneities from a field map, the image can be unwarped so that accurate alignment to conventionally collected images can be made. The algorithm to perform the unwarping is described, and results from echo planar images collected at 1.5 and 4 Tesla are shown.
-

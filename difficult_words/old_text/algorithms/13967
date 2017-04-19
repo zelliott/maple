@@ -1,7 +1,0 @@
-
-Efficient high-throughput genotyping experiments require the multiplexing of polymorphic markers, i.e. the use of multiple markers with non-overlapping allele size ranges in a single lane of a genotyping gel. The arrangement of such markers into sets can be facilitated by the availability of appropriate computer software.
-
-This article describes a program, Grouper, that automates the generation of marker sets for multiplexed genotyping experiments.
-
-The software described in this article is available free of charge from the EBI software archive at (ftp://ftp.ebi.ac.uk/pub/software/unix).
-

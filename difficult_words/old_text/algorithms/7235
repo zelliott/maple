@@ -1,3 +1,0 @@
-
-We propose an analytical model to estimate the synthesized view quality in 3D video. The model relates errors in the depth images to the synthesis quality, taking into account texture image characteristics, texture image quality, and the rendering process. Especially, we decompose the synthesis distortion into texture-error induced distortion and depth-error induced distortion. We analyze the depth-error induced distortion using an approach combining frequency and spatial domain techniques. Experiment results with video sequences and coding/rendering tools used in MPEG 3DV activities show that our analytical model can accurately estimate the synthesis noise power. Thus, the model can be used to estimate the rendering quality for different system designs.
-

@@ -1,3 +1,0 @@
-
-This paper presents a new method to reduce the topographical artifacts in scanning near-field optical microscopy (SNOM) images. The method uses the harmonics caused intrinsically by the nonlinearity in the oscillation of the SNOM probe even when the probe is working in a normal condition without extra excitation. Using these intrinsic harmonics, the gradient of the received SNOM signal with respect to the probe motion is obtained. Then, taking advantage of a SNOM capable of simultaneously obtaining both the topographical and optical signals, topographical artifacts are calculated from the product of the gradient and the topographical signal, and then removed from the received SNOM signal. The effectiveness of the proposed method is demonstrated experimentally.
-

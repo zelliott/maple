@@ -1,5 +1,0 @@
-
-DNA microarrays have revolutionized biological research, but their reliability and accuracy have not been extensively evaluated. Thorough testing of microarrays through comparison to dissimilar gene expression methods is necessary in order to determine their accuracy.
-
-We have systematically compared three global gene expression methods on all available histologically normal samples from five human organ types. The data included 25 Affymetrix high-density oligonucleotide array experiments, 23 expressed sequence tag based expression (EBE) experiments and 5 SAGE experiments. The reported gene-by-gene expression patterns showed a wide range of correlations between pairs of methods. This level of agreement was sufficient for accurate clustering of datasets from the same tissue and dissimilar methods, but highlights the need for thorough validation of individual gene expression measurements by alternate, non-global methods. Furthermore, analyses of mRNA abundance distributions indicate limitations in the EBE and SAGE methods at both high- and low-expression levels.
-

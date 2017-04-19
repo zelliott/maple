@@ -1,9 +1,0 @@
-
-To investigate the ability of parametric diffusion tensor imaging (DTI), applied at 3 Tesla, to dissect breast tissue architecture and evaluate breast lesions.
-
-All protocols were approved and a signed informed consent was obtained from all subjects. The study included 21 healthy women, 26 women with 33 malignant lesions, and 14 women with 20 benign lesions. Images were recorded at 3 Tesla with a protocol optimized for breast DTI at a spatial resolution of 1.9 × 1.9 × (2-2.5) mm3. Image processing algorithms and software, applied at pixel resolution, yielded vector maps of prime diffusion direction and parametric maps of the 3 orthogonal diffusion coefficients and of the fractional anisotropy and maximal anisotropy.
-
-The DTI-derived vector maps and parametric maps revealed the architecture of the entire mammary fibroglandular tissue and allowed a reliable detection of malignant lesions. Cancer lesions exhibited significantly lower values of the orthogonal diffusion coefficients, λ1, λ2, λ3, and of the maximal anisotropy index λ1-λ3 as compared with normal breast tissue (P < 0.0001) and to benign breast lesions (P < 0.0009 and 0.004, respectively). Maps of λ1 exhibited the highest contrast-to-noise ratio enabling delineation of the cancer lesions. These maps also provided high sensitivity/specificity of 95.6%/97.7% for differentiating cancers from benign lesions, which were similar to the sensitivity/specificity of dynamic contrast-enhanced magnetic resonance imaging of 94.8%/92.9%. Maps of λ1-λ3 provided a secondary independent diagnostic parameter with high sensitivity of 92.3%, but low specificity of 69.5% for differentiating cancers from benign lesions.
-
-Mapping the diffusion tensor parameters at high spatial resolution provides a potential novel means for dissecting breast architecture. Parametric maps of λ1 and λ1-λ3 facilitate the detection and diagnosis of breast cancer.
-

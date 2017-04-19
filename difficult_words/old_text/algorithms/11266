@@ -1,9 +1,0 @@
-
-Online health knowledge resources contain answers to most of the information needs raised by clinicians in the course of care. However, significant barriers limit the use of these resources for decision-making, especially clinicians' lack of time. In this study we assessed the feasibility of automatically generating knowledge summaries for a particular clinical topic composed of relevant sentences extracted from Medline citations.
-
-The proposed approach combines information retrieval and semantic information extraction techniques to identify relevant sentences from Medline abstracts. We assessed this approach in two case studies on the treatment alternatives for depression and Alzheimer's disease.
-
-A total of 515 of 564 (91.3%) sentences retrieved in the two case studies were relevant to the topic of interest. About one-third of the relevant sentences described factual knowledge or a study conclusion that can be used for supporting information needs at the point of care.
-
-The high rate of relevant sentences is desirable, given that clinicians' lack of time is one of the main barriers to using knowledge resources at the point of care. Sentence rank was not significantly associated with relevancy, possibly due to most sentences being highly relevant. Sentences located closer to the end of the abstract and sentences with treatment and comparative predications were likely to be conclusive sentences. Our proposed technical approach to helping clinicians meet their information needs is promising. The approach can be extended for other knowledge resources and information need types.
-

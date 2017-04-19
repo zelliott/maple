@@ -1,3 +1,0 @@
-
-Zipf's law asserts that in all natural languages the frequency of a word is inversely proportional to its rank. The significance, if any, of this result for language remains a mystery. Here we examine a null hypothesis for the distribution of word frequencies, a so-called discourse-triggered word choice model, which is based on the assumption that the more a word is used, the more likely it is to be used again. We argue that this model is equivalent to the neutral infinite-alleles model of population genetics and so the degeneracy of the different words composing a sample of text is given by the celebrated Ewens sampling formula [Theor. Pop. Biol. 3, 87 (1972)]], which we show to produce an exponential distribution of word frequencies.
-

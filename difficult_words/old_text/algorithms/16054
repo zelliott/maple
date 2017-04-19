@@ -1,3 +1,0 @@
-
-A novel de-noising method for improving the signal-to-noise ratio of knee-joint vibration signals (also known as vibro-arthrographic (VAG) signals) is proposed. The de-noising methods considered are based on signal decomposition techniques, such as wavelets, wavelet packets and the matching pursuit (MP) method. Performance evaluation with synthetic signals simulated with the characteristics expected of VAG signals indicates good de-noising results with the MP method. Statistical pattern classification of non-stationary signal features extracted from time-frequency distributions of 37 (19 normal and 18 abnormal) MP method-de-noised VAG signals shows a sensitivity of 83.3%, a specificity of 84.2% and an overall accuracy of 83.8%.
-

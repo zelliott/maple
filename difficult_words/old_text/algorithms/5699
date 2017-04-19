@@ -1,9 +1,0 @@
-
-There are significant changes in the abbreviated injury scale (AIS) 2005 system, which make it impractical to compare patients coded in AIS version 98 with patients coded in AIS version 2005.
-
-Harborview Medical Center created a computer algorithm "Harborview AIS Mapping Program (HAMP)" to automatically convert AIS 2005 to AIS 98 injury codes. The mapping was validated using 6 months of double-coded patient injury records from a Level I Trauma Center. HAMP was used to determine how closely individual AIS and injury severity scores (ISS) were converted from AIS 2005 to AIS 98 versions. The kappa statistic was used to measure the agreement between manually determined codes and HAMP-derived codes.
-
-Seven hundred forty-nine patient records were used for validation. For the conversion of AIS codes, the measure of agreement between HAMP and manually determined codes was [kappa] = 0.84 (95% confidence interval, 0.82-0.86). The algorithm errors were smaller in magnitude than the manually determined coding errors. For the conversion of ISS, the agreement between HAMP versus manually determined ISS was [kappa] = 0.81 (95% confidence interval, 0.78-0.84).
-
-The HAMP algorithm successfully converted injuries coded in AIS 2005 to AIS 98. This algorithm will be useful when comparing trauma patient clinical data across populations coded in different versions, especially for longitudinal studies.
-

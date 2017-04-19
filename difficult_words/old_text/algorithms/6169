@@ -1,3 +1,0 @@
-
-We present three-dimensional fluorescence yield tomography of a tissue phantom in a noncontact reflectance imaging setup. The method employs planar illumination with modulated light and frequency domain fluorescence measurements made on the illumination plane. An adaptive finite-element algorithm is used to handle the ill-posed and computationally demanding inverse image reconstruction problem. Tomographic images of fluorescent targets buried at 1-2 cm depths from the illumination surface demonstrate the feasibility of fluorescence tomography from reflectance tomography in clinically relevant tissue volumes.
-

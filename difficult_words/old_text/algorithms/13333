@@ -1,9 +1,0 @@
-
-From independently conducted free-response receiver operating characteristic (FROC) and receiver operating characteristic (ROC) experiments, to study fixed-reader associations between three estimators: the area under the alternative FROC (AFROC) curve computed from FROC data, the area under the ROC curve computed from FROC highest rating data, and the area under the ROC curve computed from confidence-of-disease ratings.
-
-Two hundred mammograms, 100 of which were abnormal, were processed by two image-processing algorithms and interpreted by four radiologists under the FROC paradigm. From the FROC data, inferred-ROC data were derived, using the highest rating assumption. Eighteen months afterwards, the images were interpreted by the same radiologists under the conventional ROC paradigm; conventional-ROC data (in contrast to inferred-ROC data) were obtained. FROC and ROC (inferred, conventional) data were analyzed using the nonparametric area-under-the-curve (AUC), (AFROC and ROC curve, respectively). Pearson correlation was used to quantify the degree of association between the modality-specific AUC indices and standard errors were computed using the bootstrap-after-bootstrap method. The magnitude of the correlations was assessed by comparison with computed Obuchowski-Rockette fixed reader correlations.
-
-Average Pearson correlations (with 95% confidence intervals in square brackets) were: Corr(FROC, inferred ROC) = 0.76[0.64, 0.84] > Corr(inferred ROC, conventional ROC) = 0.40[0.18, 0.58] > Corr (FROC, conventional ROC) = 0.32[0.16, 0.46].
-
-Correlation between FROC and inferred-ROC data AUC estimates was high. Correlation between inferred- and conventional-ROC AUC was similar to the correlation between two modalities for a single reader using one estimation method, suggesting that the highest rating assumption might be questionable.
-

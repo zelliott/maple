@@ -1,3 +1,0 @@
-
-An important application of gene expression microarray data is classification of biological samples or prediction of clinical and other outcomes. One necessary part of multivariate statistical analysis in such applications is dimension reduction. This paper provides a comparison study of three dimension reduction techniques, namely partial least squares (PLS), sliced inverse regression (SIR) and principal component analysis (PCA), and evaluates the relative performance of classification procedures incorporating those methods. A five-step assessment procedure is designed for the purpose. Predictive accuracy and computational efficiency of the methods are examined. Two gene expression data sets for tumor classification are used in the study.
-

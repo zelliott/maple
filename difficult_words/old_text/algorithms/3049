@@ -1,3 +1,0 @@
-
-This study proposes a procedure to estimate genetic parameters in populations where a selection process results in the loss of an unknown number of observations. The method was developed under the Bayesian inference scope following the missing data theory approach. Its implementation requires slight modifications to the Gibbs sampler algorithm. In order to show the efficiency of this option, a simulation study was conducted.
-

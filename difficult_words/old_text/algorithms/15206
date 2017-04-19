@@ -1,9 +1,0 @@
-
-Many brain-computer interfaces (BCIs) use band power (BP) changes in the electroencephalogram to distinguish between different motor imagery (MI) patterns. Most current approaches do not take connectivity of separated brain areas into account. Our objective is to introduce single-trial connectivity features and apply these features to BCI data.
-
-We introduce a procedure for extracting single-trial connectivity estimates from vector autoregressive (VAR) models of independent components in a BCI setting.
-
-In a simulated BCI, we demonstrate that the directed transfer function (DTF) with full-frequency normalization and the direct DTF give classification results similar to BP, while other measures such as the partial directed coherence perform significantly worse.
-
-We show that single-trial MI classification is possible with connectivity measures extracted from VAR models, and that a BCI could potentially utilize such measures.
-

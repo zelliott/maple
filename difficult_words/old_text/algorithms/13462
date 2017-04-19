@@ -1,3 +1,0 @@
-
-The inverse problem in the diffuse optical tomography is known to be nonlinear, ill-posed, and sometimes under-determined, requiring regularization to obtain meaningful results, with Tikhonov-type regularization being the most popular one. The choice of this regularization parameter dictates the reconstructed optical image quality and is typically chosen empirically or based on prior experience. An automated method for optimal selection of regularization parameter that is based on regularized minimal residual method (MRM) is proposed and is compared with the traditional generalized cross-validation method. The results obtained using numerical and gelatin phantom data indicate that the MRM-based method is capable of providing the optimal regularization parameter.
-

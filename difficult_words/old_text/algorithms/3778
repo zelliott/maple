@@ -1,3 +1,0 @@
-
-In order to rapidly follow unexpected environmental changes, we propose a parameter control method in reinforcement learning that changes each of learning parameters in appropriate directions. We determine each appropriate direction on the basis of relationships between behaviors and neuromodulators by considering an emergency as a key word. Computer experiments show that the agents using our proposed method could rapidly respond to unexpected environmental changes, not depending on either two reinforcement learning algorithms (Q-learning and actor-critic (AC) architecture) or two learning problems (discontinuous and continuous state-action problems).
-

@@ -1,7 +1,0 @@
-
-A mathematical model for fractional tumor cell survival was developed incorporating components of cell killing due to direct radiation interactions and bystander signals resulting from non-local dose deposition.
-
-Three possible mechanisms for signal production were tested by fitting predictions to available experimental results for tumor cells (non-small cell lung cancer NCI-H460 and melanoma MM576) exposed to gradient x-ray fields. The parameter fitting allowed estimation of the contribution of bystander signaling to cell death (20-50% for all models). Separation of the two components of cell killing allowed determination of the α and β parameters of the linear-quadratic model both with and without the presence of bystander signaling.
-
-For both cell lines, cell death from bystander signaling and direct radiation interactions were comparable. For NCI-H460 cells, the values for α and β were 0.18 Gy⁻¹ and 0.10 Gy⁻² respectively when direct and bystander effects were combined, and 0.053 Gy⁻¹ and 0.061 Gy⁻² respectively when the signaling component was removed. For MM576, the corresponding respective values were 0.09 Gy⁻¹ and 0.011 Gy⁻² for the combined response, and 0.014 Gy⁻¹ and 0.002 Gy⁻² for the isolated direct radiation response. The bystander component in cell death was found to be significant and should not be ignored. Further experimental evidence is required to determine how these results translate to the in vivo situation where tumor control probability (TCP) models that currently assume cellular independence may need to be revised.
-

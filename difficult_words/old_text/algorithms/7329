@@ -1,3 +1,0 @@
-
-Next-generation sequencing technologies provide unprecedented power to explore the repertoire of genes and their alternative splice variants, collectively defining the transcriptome of a species in great detail. However, assembling the short reads into full-length gene and transcript models presents significant computational challenges. We review current algorithms for assembling transcripts and genes from next-generation sequencing reads aligned to a reference genome, and lay out areas for future improvements.
-

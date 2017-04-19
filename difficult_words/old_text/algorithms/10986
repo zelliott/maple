@@ -1,9 +1,0 @@
-
-Iterative reconstruction has recently been revisited as a promising concept for substantial CT dose reduction. The purpose of this study was to assess the potential benefit of sinogram affirmed iterative reconstruction (SAFIRE) in head CT by comparing objective and subjective image quality at reduced tube current with standard dose filtered back projection (FBP).
-
-Non-contrast reduced dose head CT (255 mAs, CTDIvol 47.8 mGy) was performed in thirty consecutive patients and reconstructed with SAFIRE and FBP. Images were assessed in terms of quantitative and qualitative image quality and compared with FBP of standard dose acquisitions (320 mAs, CTDI vol 59.7 mGy).
-
-In reduced dose CT examinations, use of SAFIRE versus FBP resulted in 47% increase in contrast-to-noise ratio (CNR) (2.49 vs. 1.69; p<0.0001). While reduction of tube current was associated with 13% decrease in CNR, quantitative degradation of image quality at lower dose was more than compensated through SAFIRE (2.49 vs. 1.96; p=0.0004). Objective measurements of image sharpness were comparable between FBP and SAFIRE reconstructions (575.9 ± 74.1 vs. 583.4 ± 74.7 change in HU/Pixel; p=0.28). Compared to standard dose FBP, subjective grading of noise as well as overall image quality scores were significantly improved when SAFIRE was used in reduced dose exams (1.3 vs. 1.6, p=0.006; 1.3 vs. 1.7, p=0.026).
-
-At 20% dose reduction, reconstruction of head CT by SAFIRE provides above standard objective and subjective image quality, suggesting potential for more vigorous dose savings in neuroradiology CT applications.
-

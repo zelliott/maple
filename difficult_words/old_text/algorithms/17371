@@ -1,3 +1,0 @@
-
-An algorithm for detecting features of the cycles of the gonadotropic and ovarian hormones in women is described. The algorithm can detect hormone peaks and normal cycles defined in terms of the peaks in sequences of measurements that have an arbitrary starting point in the menstrual cycle and are of arbitrary length. The algorithm makes use of fuzzy set theory and is optimized using signal detection theory.
-

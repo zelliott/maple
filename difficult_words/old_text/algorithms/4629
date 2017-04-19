@@ -1,3 +1,0 @@
-
-We present a method of locating edges in JPEG-coded images which operates in frequency space on the DCT coefficients. Applied to the quantized DCT coefficients of a block containing a straight edge, the method yields an equation for the edge in a fraction of the operations needed to dequantize and transform the coefficents to pixel values. As a sample application of this method, we present a technique for alleviating ringing artifacts in JPEG-coded images.
-

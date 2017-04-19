@@ -1,9 +1,0 @@
-
-The authors evaluated a modular computer-assisted diagnosis (CAD) method for mass detection that uses computation of features in three domains (gray level, morphology, and directional texture). Their objectives were to improve the sensitivity of detection and reduce the false-positive (FP) detection rate.
-
-The directional wavelet transform (DWT) method, which uses both multiorientation and multiresolution wavelet transforms to improve image preprocessing and segmentation of suspicious areas and to extract both morphologic and directional texture features, was evaluated with a previously reported image database containing 50 normal and 45 abnormal digitized screen-film mammograms. The mammograms contained all mass types and included 16 minimal cancers. This method was compared with the Markov random field (MRF) method to avoid issues related to case selection criteria. Free-response receiver operating characteristic curves were compared for both DWT and MRF methods.
-
-For the DWT method, the sensitivity was 98% and the FP detection rate was 1.8 FP findings per image. For the MRF method, the sensitivity was 90% and the FP detection rate was 2.0 FP findings per image.
-
-The CAD method applied to the full mammographic image is automatic and independent of mass type. The segmentation of masses as performed with this method may potentially allow visual interpretation according to American College of Radiology criteria.
-

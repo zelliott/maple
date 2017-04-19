@@ -1,9 +1,0 @@
-
-The promise of personalized genomics for common complex diseases depends, in part, on the ability to predict genetic risks on the basis of single nucleotide polymorphisms. We examined and compared the methods of three companies (23andMe, deCODEme, and Navigenics) that have offered direct-to-consumer personal genome testing.
-
-We simulated genotype data for 100,000 individuals on the basis of published genotype frequencies and predicted disease risks using the methods of the companies. Predictive ability for six diseases was assessed by the AUC.
-
-AUC values differed among the diseases and among the companies. The highest values of the AUC were observed for age-related macular degeneration, celiac disease, and Crohn disease. The largest difference among the companies was found for celiac disease: the AUC was 0.73 for 23andMe and 0.82 for deCODEme. Predicted risks differed substantially among the companies as a result of differences in the sets of single nucleotide polymorphisms selected and the average population risks selected by the companies, and in the formulas used for the calculation of risks.
-
-Future efforts to design predictive models for the genomics of common complex diseases may benefit from understanding the strengths and limitations of the predictive algorithms designed by these early companies.
-

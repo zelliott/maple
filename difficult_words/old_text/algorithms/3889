@@ -1,3 +1,0 @@
-
-The simplest dynamic algorithm for planar RNA folding searches for the maximum number of base pairs. The algorithm uses O(n3) steps. The more general case, where different weights (energies) are assigned to stacked base pairs and to the various types of single-stranded region topologies, requires a considerably longer computation time because of the partial backtracking involved. Limiting the loop size reduces the running time back to O(n3). Reduction in the number of steps in the calculations of the various RNA topologies has recently been suggested, thereby improving the time behavior. Here we show how a "jumping" procedure can be used to speed up the computation, not only for the maximal number of base pairs algorithm, but for the minimal energy algorithm as well.
-

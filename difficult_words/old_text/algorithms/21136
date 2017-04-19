@@ -1,9 +1,0 @@
-
-To reduce the off-resonance artifact in susceptibility-weighted imaging (SWI)-based MR venography (MRV) in the brain regions with severe field inhomogeneity and to reduce the signal loss in the minimum-intensity projection (mIP) display of the 3D MRV.
-
-A novel postprocessing approach was presented to map the local field gradients (LFGs) using the 3D SWI data without phase-unwrapping. LFG measurements were used to assess the severity of field inhomogeneity and suppress the residual phase in the phase mask induced by the off-resonance effect. Volume segmentation of brain tissue was used to reduce the signal loss in the peripheral regions of the brain in the through-plane mIP images and enable in-plane mIP display of MRV.
-
-Off-resonance artifact in the brain regions with severe field inhomogeneity was effectively reduced by the LFG-based phase suppression approach. Signal loss was reduced in the through-plane mIP of MRV using volume segmentation of brain tissue prior to projection. In-plane mIP of MRV also became feasible with volume segmentation.
-
-Off-resonance artifacts and signal loss in mIP display of MRV can be effectively reduced through postprocessing.
-

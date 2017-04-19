@@ -1,3 +1,0 @@
-
-This study deals with the problem of identification of epileptic events in electroencephalograms using multiresolution wavelet analysis. The following problems are analyzed: time localization and characterization of epileptiform events, and computational efficiency of the method. The algorithm presented is based on a polynomial spline wavelet transform. The multiresolution representation obtained from this wavelet transform and the corresponding digital filters derived allows time localization of epileptiform activity. The proposed detector is based on the multiresolution energy function. Electroencephalogram records from epileptic patients were analyzed, and results obtained are shown. Some comparisons with other methods are given.
-

@@ -1,3 +1,0 @@
-
-In this short report, we address some practical problems in performing likelihood-based allelic association analysis of case-control data. Model-free statistics are proposed and their properties assessed by simulation, and procedures based on permutation tests are described for marker-marker as well as marker-disease associations. A memory-efficient algorithm is developed which enables several highly polymorphic markers to be analysed.
-

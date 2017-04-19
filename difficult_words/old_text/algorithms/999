@@ -1,3 +1,0 @@
-
-For acquisition of the gene chip information, how to correctly locate the probe dots in the chip's scanning image is the base of the chip information processing. Here we present a new approach for locating the probe dots in the gene chip image. First, a medialness function, which is good at detection of circle area with radius given in advance, is used for calculating the medialness map in which the center of circle sample area of the gene chip image is disclosed prominently. Then, a method to locate the probe dots center is given based on the medialness map and the 2D space configuration of the probe dots. The experiments show that the new approach correctly locates the probe dots while against noise affection robustly.
-

@@ -1,3 +1,0 @@
-
-We present a computational scheme to search for the most common motif, composed of a combination of sequence and structure constraints, among a collection of RNA sequences. The method uses a simplified version of the Sankoff algorithm for simultaneous folding and alignment of RNA sequences, but maintains tractability by constructing multi-sequence alignments from pairwise comparisons. The overall method has similarities to both CLUSTAL and CONSENSUS, but the core algorithm assures that the pairwise alignments are optimized for both sequence and structure conservation. Example solutions, and comparisons with other approaches, are provided. The solutions include finding consensus structures identical to published ones.
-

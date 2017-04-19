@@ -1,3 +1,0 @@
-
-We describe a new assembly algorithm, where a genome assembly with low sequence coverage, either throughout the genome or locally, due to cloning bias, is considerably improved through an assisting process via a related genome. We show that the information provided by aligning the whole-genome shotgun reads of the target against a reference genome can be used to substantially improve the quality of the resulting assembly.
-

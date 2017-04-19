@@ -1,3 +1,0 @@
-
-This paper presents an information fusion technique based on a knowledge discovery model, and the case-based reasoning decision framework. Using signal data and database records from the heart disease risk estimation domain, three data fusion methods are discussed. Two of these methods combine information at the retrieval-outcome level, and one method merges data at the discovery-input level. The result of these three models are compared and evaluated against the performance of single-source models. It is shown that the methods that fuse information at the retrieval-outcome level are significantly superior.
-

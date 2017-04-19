@@ -1,9 +1,0 @@
-
-This paper investigates a version of recurrent neural network with the backpropagation through time (BPTT) algorithm for predicting liver transplant graft failure based on a time series sequence of clinical observations. The objective is to improve upon the current approaches to liver transplant outcome prediction by developing a more complete model that takes into account not only the preoperative risk assessment, but also the early postoperative history.
-
-A 6-fold cross-validation procedure was used to measure the performance of the networks. The data set was divided into a learning set and a test set by maintaining the same proportion of positive and negative cases in the original set. The effects of network complexity on overfitting were investigated by constructing two types of networks with different numbers of hidden units. For each type of network, 10 individual networks were trained on the learning set and used to form a committee. The performance of the networks was measured exhaustively with respect to both the entire training and test sets.
-
-The networks were capable of learning the time series problem and achieved good performances of 90% correct classification on the learning set and 78% on the test set. The prediction accuracy increases as more information becomes progressively available after the operation with the daily improvement of 10% on the learning set and 5% on the test set.
-
-Recurrent neural networks trained with BPTT algorithm are capable of learning to represent temporal behavior of the time series prediction task. This model is an improvement upon the current model that does not take into account postoperative temporal information.
-

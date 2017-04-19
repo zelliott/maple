@@ -1,9 +1,0 @@
-
-Comprehensive two-dimensional gas chromatography time-of-flight mass spectrometry (GCxGC/TOF-MS) has been used for metabolite profiling in metabolomics. However, there is still much experimental variation to be controlled including both within-experiment and between-experiment variation. For efficient analysis, an ideal peak alignment method to deal with such variations is in great need.
-
-Using experimental data of a mixture of metabolite standards, we demonstrated that our method has better performance than other existing method which is not model-based. We then applied our method to the data generated from the plasma of a rat, which also demonstrates good performance of our model.
-
-We developed a model-based peak alignment method to process both homogeneous and heterogeneous experimental data. The unique feature of our method is the only model-based peak alignment method coupled with metabolite identification in an unified framework. Through the comparison with other existing method, we demonstrated that our method has better performance. Data are available at http://stage.louisville.edu/faculty/x0zhan17/software/software-development/mspa. The R source codes are available at http://www.biostat.iupui.edu/~ChangyuShen/CodesPeakAlignment.zip.
-
-2136949528613691.
-

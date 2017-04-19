@@ -1,9 +1,0 @@
-
-The authors previously introduced a method in which intracranial pressure (ICP) was estimated using parameters (TCD characteristics) derived from cerebral blood flow velocity (FV) and arterial blood pressure (ABP). Some results suggested that this model might be influenced by the patient's state of cerebral autoregulation and other clinical parameters. Hence, it was the aim of the present study to improve the method by modifying the previously used global procedure in certain subgroups of patients.
-
-In 103 traumatic brain injured patients (3-76 years, mean: 31 +/- 16 years) signal data of FV, ABP and ICP were used to generate samples of TCD characteristics together with time corresponding ICP. Fuzzy Pattern Classification was used to identify cluster subsets (classes) of the sample space. On each class a local estimator of ICP was defined. This approach provides a non-invasive assessment of ICP (nICP) as follows: Using FV and ABP the TCD characteristics were computed and related to the matching classes. nICP was calculated as a weighted sum of local ICP estimations.
-
-ICP A and B waves and long-term trends could be visibly assessed. The median absolute difference between ICP and nICP was 5.7 mmHg.
-
-The class structure of the model facilitates nICP assessment in heterogeneous patient groups and supports a stepwise extension of the target patient group without affecting the former validity.
-

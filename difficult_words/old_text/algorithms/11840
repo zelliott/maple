@@ -1,3 +1,0 @@
-
-MZEF (Michael Zhang's Exon Finder) was designed to help identify one of the most important classes of exons, i.e. the internal coding exons, in human genomic DNA sequences. It is neither for predicting intronless genes, nor for assembling predicted exons into complete gene models. There is also a mouse version (mMZEF) and an Arabidopsis version (aMZEF). This unit presents the Unix and Web versions of MZEF and reviews how to interpret the MZEF results.
-

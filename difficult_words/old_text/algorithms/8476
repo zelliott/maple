@@ -1,3 +1,0 @@
-
-In electrical impedance tomography, the shape of the object being imaged (such as the human thorax) is often complex. For this reason, numerical techniques, such as finite element method, are often used for solving the forward problem in 3D rather than analytical solutions which can only model simple geometrical shapes. However, an analytical solution to the 3D forward problem can often be useful. This paper will present an analytical solution to the forward problem for an elliptical cylinder whose eccentricity can be easily modified to approximate the shape of the human thorax.
-

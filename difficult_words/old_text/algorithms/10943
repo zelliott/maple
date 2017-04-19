@@ -1,3 +1,0 @@
-
-Cheng and Church algorithm is an important approach in biclustering algorithms. In this paper, the process of the extended space in the second stage of Cheng and Church algorithm is improved and the selections of two important parameters are discussed. The results of the improved algorithm used in the gene expression spectrum analysis show that, compared with Cheng and Church algorithm, the quality of clustering results is enhanced obviously, the mining expression models are better, and the data possess a strong consistency with fluctuation on the condition while the computational time does not increase significantly.
-

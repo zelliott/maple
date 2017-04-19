@@ -1,9 +1,0 @@
-
-Menu planning is an important part of personalized lifestyle counseling. The paper describes the results of an automated menu generator (MenuGene) of the web-based lifestyle counseling system Cordelia that provides personalized advice to prevent cardiovascular diseases.
-
-The menu generator uses genetic algorithms to prepare weekly menus for web users. The objectives are derived from personal medical data collected via forms in Cordelia, combined with general nutritional guidelines. The weekly menu is modeled as a multilevel structure.
-
-Results show that the genetic algorithm-based method succeeds in planning dietary menus that satisfy strict numerical constraints on every nutritional level (meal, daily basis, weekly basis). The rule-based assessment proved capable of manipulating the mean occurrence of the nutritional components thus providing a method for adjusting the variety and harmony of the menu plans.
-
-By splitting the problem into well determined sub-problems, weekly menu plans that satisfy nutritional constraints and have well assorted components can be generated with the same method that is for daily and meal plan generation.
-

@@ -1,9 +1,0 @@
-
-Interpreting human immunodeficiency virus type 1 (HIV-1) genotypic drug-resistance test results is challenging for clinicians treating HIV-1-infected patients. Multiple drug-resistance interpretation algorithms have been developed, but their predictive value has rarely been evaluated using contemporary clinical data sets.
-
-We examined the predictive value of 4 algorithms at predicting virologic response (VR) during 734 treatment-change episodes (TCEs). VR was defined as attaining plasma HIV-1 RNA levels below the limit of quantification. Drug-specific genotypic susceptibility scores (GSSs) were calculated by applying each algorithm to the baseline genotype. Weighted GSSs were calculated by multiplying drug-specific GSSs by antiretroviral (ARV) potency factors. Regimen-specific GSSs (rGSSs) were calculated by adding unweighted or weighted drug-specific GSSs for each salvage therapy ARV. The predictive value of rGSSs were estimated by use of multivariate logistic regression.
-
-Of 734 TCEs, 475 (65%) were associated with VR. The rGSSs for the 4 algorithms were the variables most strongly predictive of VR. The adjusted rGSS odds ratios ranged from 1.6 to 2.2 (P < .001). Using 10-fold cross-validation, the averaged area under the receiver operating characteristic curve for all algorithms increased from 0.76 with unweighted rGSSs to 0.80 with weighted rGSSs.
-
-Unweighted and weighted rGSSs of 4 genotypic resistance algorithms were the strongest independent predictors of VR. Optimizing ARV weighting may further improve VR predictions.
-

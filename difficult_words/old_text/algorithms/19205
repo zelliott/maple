@@ -1,3 +1,0 @@
-
-A technique is described for filtering out the components of an NMR signal that have passed through an isotropic spin order term. The method involves a coordinated cycle of three radiofrequency phase angles, where two of the phases correspond to the polar angles describing the vertices of a regular polyhedron, and the third angle is stepped around a circle. The most economical isotropic filtering scheme involves a 12-step phase cycle based on tetrahedral symmetry. The method is used to filter out NMR signals that have passed through singlet populations in a solution NMR experiment.
-

@@ -1,3 +1,0 @@
-
-The generalized additive model is extended to handle negative binomial responses. The extension is complicated by the fact that the negative binomial distribution has two parameters and is not in the exponential family. The methodology is applied to data involving DNA adduct counts and smoking variables among ex-smokers with lung cancer. A more detailed investigation is made of the parametric relationship between the number of adducts and years since quitting while retaining a smooth relationship between adducts and the other covariates.
-

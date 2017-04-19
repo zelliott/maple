@@ -1,3 +1,0 @@
-
-Biogeography-based optimization (BBO) is a population-based evolutionary algorithm that is based on the mathematics of biogeography. Biogeography is the science and study of the geographical distribution of biological organisms. In BBO, problem solutions are analogous to islands, and the sharing of features between solutions is analogous to the migration of species. This paper derives Markov models for BBO with selection, migration, and mutation operators. Our models give the theoretically exact limiting probabilities for each possible population distribution for a given problem. We provide simulation results to confirm the Markov models.
-

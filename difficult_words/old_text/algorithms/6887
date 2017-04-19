@@ -1,9 +1,0 @@
-
-To evaluate the potential for machine learning techniques to identify objective criteria for classifying vertical facial deformity.
-
-19 parameters were determined from 131 lateral skull radiographs. Classifications were induced from raw data with simple visualisation, C5.0 and Kohonen feature maps; and using a Point Distribution Model (PDM) of shape templates comprising points taken from digitised radiographs.
-
-The induced decision trees enable a direct comparison of clinicians' idiosyncrasies in classification. Unsupervised algorithms induce models that are potentially more objective, but their blackbox nature makes them unsuitable for clinical application. The PDM methodology gives dramatic visualisations of two modes separating horizontal and vertical facial growth. Kohonen feature maps favour one clinician and PDM the other. Clinical response suggests that while Clinician 1 places greater weight on 5 of 6 parameters, Clinician 2 relies on more parameters that capture facial shape.
-
-While machine learning and statistical analyses classify subjects for vertical facial height, they have limited application in their present form. The supervised learning algorithm C5.0 is effective for generating rules for individual clinicians but its inherent bias invalidates its use for objective classification of facial form for research purposes. On the other hand, promising results from unsupervised strategies (especially the PDM) suggest a potential use for objective classification and further identification and analysis of ambiguous cases. At present, such methodologies may be unsuitable for clinical application because of the invisibility of their underlying processes. Further study is required with additional patient data and a wider group of clinicians.
-

@@ -1,7 +1,0 @@
-
-The study and comparison of mutational spectra is an important problem in molecular biology, because these spectra often reveal important features of the action of various mutagens and the functioning of repair/replication enzymes. As is known, mutability varies significantly along nucleotide sequences: mutations often concentrate at certain positions in a sequence, otherwise termed 'hotspots'.
-
-Herein, we propose a regression analysis method based on the use of regression trees in order to analyse the influence of nucleotide context on the occurrence of such hotspots. The REGRT program developed has been tested on simulated and real mutational spectra. For the G:C-->T:A mutational spectra induced by Sn1 alkylating agents (nine spectra), the prediction accuracy was 0. 99.
-
-The REGRT program is available upon request from V.Berikov.
-

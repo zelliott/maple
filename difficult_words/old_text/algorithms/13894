@@ -1,3 +1,0 @@
-
-Computed tomography fluoroscopy (CTF) has found many applications in interventional procedures. The advantage of CTF is its ability to remove overlapping structures in the human anatomy and, thereby, provide accurate spatial information. Another advantage is its ability to reconstruct images in a short period of time so that "real-time" information can be provided. In this paper, we perform theoretical analysis and computer simulations to evaluate the temporal response of the CTF. We investigate the impact of various reconstruction algorithms on CTF and demonstrate the inherent limitations of the CTF in terms of the time lag and delay. The analysis provides a useful guidance to the CTF operators to avoid potential pitfalls.
-

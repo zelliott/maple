@@ -1,3 +1,0 @@
-
-A neural network processing scheme is proposed which utilizes a self-organizing Kohonen feature map as the front end to a feedforward classifier network. The results of a series of benchmarking studies based upon artificial statistical pattern recognition tasks indicate that the proposed architecture performs significantly better than conventional feedforward classifier networks when the decision regions are disjoint. This is attributed to the fact that the self-organization process allows internal units in the succeeding classifier network to be sensitive to a specific set of features in the input space at the outset of training.
-

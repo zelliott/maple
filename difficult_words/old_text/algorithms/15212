@@ -1,9 +1,0 @@
-
-This study aimed to test the hypothesis that the addition of a real-time decision-assist machine learning algorithm by emergency medical system personnel could shorten the time needed to identify an unstable patient during a hemorrhage profile as compared with vital sign information alone.
-
-Fifty emergency medical team-paramedics from a large, urban fire department participated as subjects. Subjects viewed a monitor screen on two occasions as follows: (1) display of standard vital signs alone and (2) with the addition of an index (Compensatory Reserve Index) associated with estimated central blood volume status. The subjects were asked to push a computer key at any point in the sequence they believed the patient had become unstable based on information provided by the monitor screen. The average difference in time to identify hemodynamic instability between experimental and control groups was assessed by paired, two-tailed t test and reported with 95% confidence intervals (95% CI).
-
-The mean (SD) amount of time required to identify an unstable patient was 18.3 (4.1) minutes (95% CI, 17.2-19.4 minutes) without the algorithm and 10.7 (4.2) minutes (95% CI, 9.5-11.9 minutes) with the algorithm (p < 0.001).
-
-In a simulated patient encounter involving uncontrolled hemorrhage, the use of a monitor that estimates central blood volume loss was associated with early identification of impending hemodynamic instability. Physiologic monitors capable of early identification and estimation of the physiologic capacity to compensate for blood loss during hemorrhage may enable optimal guidance for hypotensive resuscitation. They may also help identify casualties benefitting from forward administration of plasma, antifibrinolytics and procoagulants in a remote damage-control resuscitation model.
-

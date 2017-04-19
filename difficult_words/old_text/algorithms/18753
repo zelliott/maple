@@ -1,3 +1,0 @@
-
-The efficacy of neural network (NN) and partial least-squares (PLS) methods is compared for the prediction of NMR chemical shifts for both 1H and 13C nuclei using very large databases containing millions of chemical shifts. The chemical structure description scheme used in this work is based on individual atoms rather than functional groups. The performances of each of the methods were optimized in a systematic manner described in this work. Both of the methods, least-squares and neural network analyses, produce results of a very similar quality, but the least-squares algorithm is approximately 2--3 times faster.
-

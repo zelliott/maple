@@ -1,3 +1,0 @@
-
-With clinical trials that compare different durations of the same therapy, particular problems arise when the main response criterion is time to an event, such as death or relapse. With such trials, we first discuss the appropriate time(s) for randomization in the context of both the two-treatment trial and the three-treatment trial, where one of the treatments is a control. We then propose a proportional hazards model with time-varying treatment effects for analysis of a three-treatment trial in which randomization occurs on entry to the study. We illustrate the methodology with a trial of intravesical chemotherapy for superficial bladder cancer.
-

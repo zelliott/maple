@@ -1,3 +1,0 @@
-
-In spin-echo and well shimmed gradient-echo images, the phase of the complex image often varies linearly in both the readout and phase-encode directions. Thus, in principle, it is possible to display an image in absorption mode. However, manually determining the two first-order and one zero-order phase parameters needed to display an absorption-mode image is a formidable task. In this paper, the Bayesian calculations needed to automatically determine these parameters are presented, and the calculations are illustrated using spin-echo images.
-

@@ -1,9 +1,0 @@
-
-This study compares waist circumference (WC) measured using the World Health Organization (WHO) and National Institutes of Health (NIH) protocols to determine if the results differ significantly, and whether equations can be developed to allow comparison between WC taken at the two different measurement sites.
-
-Valid WC measurements using the WHO and NIH protocols were obtained for 6,306 respondents aged 3 to 79 from Cycle 2 of the Canadian Health Measures Survey. Linear regression was used to identify factors associated with the difference between the NIH and WHO values. Separate prediction equations by sex were generated using WC NIH as the outcome and WC_WHO and age as independent variables. Sensitivity and specificity were calculated to examine whether health risk based on the WC_WHO and on WC_NIH predicted measurements agreed with estimates based on WC_NIH actual measured values.
-
-For adults and children, WC_NIH significantly exceeded WC_WHO (1.0 cm for boys, 2.1 cm for girls, 0.8 cm for men and 2.2 cm for women). Predicted NIH values were statistically similar to measured values. Sensitivity (86% to 98%) and specificity (70% to 100%) values for health risk category based on the NIH predicted values were very high, meaning that respondents would be appropriately classified when compared with actual measured values.
-
-The prediction equations proposed in this study can be applied to historical datasets to compare estimates based on WC data measured using the WHO and NIH protocols.
-

@@ -1,9 +1,0 @@
-
-To correct for spatial misregistration of multi-breath-hold short-axis (SA), two-chamber (2CH), and four-chamber (4CH) cine cardiac MR (CMR) images caused by respiratory and patient motion.
-
-Twenty CMR studies from consecutive patients with separate breath-hold 2CH, 4CH, and SA 20-phase cine images were considered. We automatically registered the 2CH, 4CH, and SA images in three dimensions by minimizing the cost function derived from plane intersections for all cine phases. The automatic alignment was compared with manual alignment by two observers.
-
-The processing time for the proposed method was <20 seconds, compared to 14-24 minutes for the manual correction. The initial plane displacement identified by the observers was 2.8 +/- 1.8 mm (maximum = 14 mm). A displacement of >/=5 mm was identified in 15 of 20 studies. The registration accuracy (defined as the difference between the automatic parameters and those obtained by visual registration) was 1.0 +/- 0.9 mm, 1.1 +/- 1.0 mm, 1.1 +/- 1.2 mm, and 2.0 +/- 1.8 mm for 2CH-4CH alignment and SA alignment in the mid, basal, and apical regions, respectively. The algorithm variability was higher in the apex (2.0 +/- 1.9 mm) than in the mid (1.4 +/- 1.4 mm) or basal (1.2 +/- 1.2 mm) regions (ANOVA, P < 0.05).
-
-An automated preprocessing algorithm can reduce spatial misregistration between multiple CMR images acquired at different breath-holds and plane orientations.
-

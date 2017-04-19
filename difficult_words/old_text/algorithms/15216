@@ -1,9 +1,0 @@
-
-Intensity modulated radiotherapy for head and neck cancer necessitates accurate definition of organs at risk (OAR) and clinical target volumes (CTV). This crucial step is time consuming and prone to inter- and intra-observer variations. Automatic segmentation by atlas deformable registration may help to reduce time and variations. We aim to test a new commercial atlas algorithm for automatic segmentation of OAR and CTV in both ideal and clinical conditions.
-
-The updated Brainlab automatic head and neck atlas segmentation was tested on 20 patients: 10 cN0-stages (ideal population) and 10 unselected N-stages (clinical population). Following manual delineation of OAR and CTV, automatic segmentation of the same set of structures was performed and afterwards manually corrected. Dice Similarity Coefficient (DSC), Average Surface Distance (ASD) and Maximal Surface Distance (MSD) were calculated for "manual to automatic" and "manual to corrected" volumes comparisons.
-
-In both groups, automatic segmentation saved about 40% of the corresponding manual segmentation time. This effect was more pronounced for OAR than for CTV. The edition of the automatically obtained contours significantly improved DSC, ASD and MSD. Large distortions of normal anatomy or lack of iodine contrast were the limiting factors.
-
-The updated Brainlab atlas-based automatic segmentation tool for head and neck Cancer patients is timesaving but still necessitates review and corrections by an expert.
-

@@ -1,7 +1,0 @@
-
-Transcription factors (TFs) play a key role in gene regulation by binding to target sequences. In silico prediction of potential binding of a TF to a binding site is a well-studied problem in computational biology. The binding sites for one TF are represented by a position frequency matrix (PFM). The discovery of new PFMs requires the comparison to known PFMs to avoid redundancies. In general, two PFMs are similar if they occur at overlapping positions under a null model. Still, most existing methods compute similarity according to probabilistic distances of the PFMs. Here we propose a natural similarity measure based on the asymptotic covariance between the number of PFM hits incorporating both strands. Furthermore, we introduce a second measure based on the same idea to cluster a set of the Jaspar PFMs.
-
-We show that the asymptotic covariance can be efficiently computed by a two dimensional convolution of the score distributions. The asymptotic covariance approach shows strong correlation with simulated data. It outperforms three alternative methods. The Jaspar clustering yields distinct groups of TFs of the same class. Furthermore, a representative PFM is given for each class. In contrast to most other clustering methods, PFMs with low similarity automatically remain singletons.
-
-A website to compute the similarity and to perform clustering, the source code and Supplementary Material are available at http://mosta.molgen.mpg.de.
-

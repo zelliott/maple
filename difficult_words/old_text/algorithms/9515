@@ -1,9 +1,0 @@
-
-To develop and validate a new multiple regression technique for the separation of flip angle effect in pulmonary apparent diffusion coefficient (ADC) measurement.
-
-Hyperpolarized (3)He MRI (HP (3)He MRI) ADC measurements were performed on phantom, pig, and human models. The diffusion-sensitization sequence is modified from a standard gradient echo (GRE) sequence with a nonlinear progression in the bipolar gradient amplitude with each image. In the self-diffusion phantom experiment, four images were acquired with base gradient factor b(0) = 0.15 second/cm(2); in the pig and human experiment, six images were acquired with base gradient factor b(0) = 1.4 second/cm(2).
-
-The self-diffusion coefficient measured in the phantom experiment was 1.98 +/- 0.16 cm(2)/second. The measured uncertainty curve was consistent with the theoretically predicted curve. The measured in vivo ADC values (three coronal slices in the supine direction) were 0.20/0.16/0.13 cm(2)/second and 0.20/0.18/0.16 cm(2)/second for pig and human experiments, respectively.
-
-With the introduction of a nonlinear progression in the diffusion-sensitization gradients, the multiple regression technique is capable of separating the flip angle effect in ADC measurement. In addition, this technique can perform a rigorous measurement uncertainty analysis and provide the optimal scan parameters that yield best noise performance.
-

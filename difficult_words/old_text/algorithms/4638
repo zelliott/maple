@@ -1,7 +1,0 @@
-
-When analyzing microarray gene expression data, missing values are often encountered. Most multivariate statistical methods proposed for microarray data analysis cannot be applied when the data have missing values. Numerous imputation algorithms have been proposed to estimate the missing values. In this study, we develop a robust least squares estimation with principal components (RLSP) method by extending the local least square imputation (LLSimpute) method. The basic idea of our method is to employ quantile regression to estimate the missing values, using the estimated principal components of a selected set of similar genes.
-
-Using the normalized root mean squares error, the performance of the proposed method was evaluated and compared with other previously proposed imputation methods. The proposed RLSP method clearly outperformed the weighted k-nearest neighbors imputation (kNNimpute) method and LLSimpute method, and showed competitive results with Bayesian principal component analysis (BPCA) method.
-
-Adapting the principal components of the selected genes and employing the quantile regression model improved the robustness and accuracy of missing value imputation. Thus, the proposed RLSP method is, according to our empirical studies, more robust and accurate than the widely used kNNimpute and LLSimpute methods.
-

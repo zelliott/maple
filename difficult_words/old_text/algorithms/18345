@@ -1,3 +1,0 @@
-
-Different methods for the automated segmentation of microscopic cell scenes are presented with examples. The techniques discussed include edge detection by thresholding, "blob" detection by split-and-merge algorithm, global thresholding using gray-level histograms, hierarchic thresholding using color information, global thresholding using two-dimensional histograms and segmentation by "blob" labeling. Methods are more robust against insignificant changes in the scene and perform more reliably as more a priori knowledge about the scene is incorporated in the segmentation algorithm. The inclusion of both photometric and geometric a priori knowledge can result in a high level of correct segmentations, the cost of which is increased computation time.
-

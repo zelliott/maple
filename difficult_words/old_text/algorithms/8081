@@ -1,3 +1,0 @@
-
-Registration of ultrasound volumes is a key issue for the reconstruction of volumetric ultrasound panorama. In this paper, we propose an improved three-dimensional (3D) scale invariant feature transform (SIFT) algorithm to globally register ultrasound volumes acquired from dedicated ultrasound probe, where local deformations are corrected by block-based warping algorithm. Original SIFT algorithm is extended to 3D and improved by combining the SIFT detector with Rohr3D detector to extract complementary features and applying the diffusion distance algorithm for robust feature comparison. Extensive experiments have been performed on both phantom and clinical data sets to demonstrate the effectiveness and robustness of our approach.
-

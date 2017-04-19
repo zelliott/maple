@@ -1,7 +1,0 @@
-
-Biological Mass Spectrometry is used to analyse peptides and proteins. A mass spectrum generates a list of measured mass to charge ratios and intensities of ionised peptides, which is called a peak-list. In order to classify the underlying amino acid sequence, the acquired spectra are usually compared with synthetic ones. Development of suitable methods of direct peak-list comparison may be advantageous for many applications.
-
-The pairwise peak-list comparison is a multistage process composed of matching of peaks embedded in two peak-lists, normalisation, scaling of peak intensities and dissimilarity measures. In our analysis, we focused on binary and intensity based measures. We have modified the measures in order to comprise the mass spectrometry specific properties of mass measurement accuracy and non-matching peaks. We compared the labelling of peak-list pairs, obtained using different factors of the pairwise peak-list comparison, as being the same or different to those determined by sequence database searches. In order to elucidate how these factors influence the peak-list comparison we adopted an analysis of variance type method with the partial area under the ROC curve as a dependent variable.
-
-The analysis of variance provides insight into the relevance of various factors influencing the outcome of the pairwise peak-list comparison. For large MS/MS and PMF data sets the outcome of ANOVA analysis was consistent, providing a strong indication that the results presented here might be valid for many various types of peptide mass measurements.
-

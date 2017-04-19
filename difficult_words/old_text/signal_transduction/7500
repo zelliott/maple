@@ -1,9 +1,0 @@
-
-Neoangiogenesis is an important feature in tumor growth and progression, and combining chemotherapy and antiangiogenic drugs have shown clinical efficacy. However, as treatment-induced resistance often develops, our goal was to identify pathways indicating response and/or evolving resistance to treatment and inhibit these pathways to optimize the treatment strategies.
-
-To identify markers of response and/or resistance, reverse-phase protein array (RPPA) was used to characterize treatment-induced changes in a bevacizumab-responsive and a nonresponsive human breast cancer xenograft. Results were combined with bioinformatic modeling to predict druggable targets for optimization of the treatment.
-
-RPPA analysis showed that both tumor models responded to bevacizumab with an early (day 3) upregulation of growth factor receptors and downstream signaling pathways, with persistent mTOR signaling until the end of the in vivo experiment. Adding doxorubicin to bevacizumab showed significant and superior growth inhibition of basal-like tumors, whereas no additive effect was seen in the luminal-like model. The combination treatment corresponded to a continuous late attenuation of mTOR signaling in the basal-like model, whereas the inhibition was temporary in the luminal-like model. Integrating the bevacizumab-induced dynamic changes in protein levels with bioinformatic modeling predicted inhibition of phosphoinositide 3-kinase (PI3K) pathway to increase the efficacy of bevacizumab monotherapy. In vivo experiments combining bevacizumab and the PI3K/mTOR inhibitor BEZ235 confirmed their significant and additive growth-inhibitory effect in the basal-like model.
-
-Treatment with bevacizumab caused compensatory upregulation of several signaling pathways. Targeting such pathways increased the efficacy of antiangiogenic therapy.
-

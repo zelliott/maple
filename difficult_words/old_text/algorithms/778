@@ -1,3 +1,0 @@
-
-The program RECON has been designed for constructing profiles of nucleosome potential, characterizing the probability of nucleosome formation along DNA sequences. The program used for recognition of nucleosome formation sites in genomic DNA sequences. It was developed using discriminant analysis based on a genetic algorithm method utilizing statistics for dinucleotide location within local regions of nucleosome formation sites. The program RECON is available at http://wwwmgs.bionet.nsc.ru/mgs/programs/recon/.
-

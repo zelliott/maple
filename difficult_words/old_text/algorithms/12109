@@ -1,5 +1,0 @@
-
-JCell is a Java-based application for reconstructing gene regulatory networks from experimental data. The framework provides several algorithms to identify genetic and metabolic dependencies based on experimental data conjoint with mathematical models to describe and simulate regulatory systems. Owing to the modular structure, researchers can easily implement new methods. JCell is a pure Java application with additional scripting capabilities and thus widely usable, e.g. on parallel or cluster computers.
-
-The software is freely available for download at http://www-ra.informatik.uni-tuebingen.de/software/JCell.
-

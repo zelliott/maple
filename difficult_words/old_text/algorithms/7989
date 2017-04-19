@@ -1,9 +1,0 @@
-
-Stereotactic postoperative imaging is essential for verification of the position of electrodes implanted for deep brain stimulation (DBS). MRI offers superior visualisation of the DBS targets relative to CT, but previous adverse incidents have heightened concerns about risks of postoperative MRI. Preoperative MRI fused with postoperative CT offers an alternative method for evaluating electrode position, but before this method can be clinically applied, the image registration accuracy must be established. The purpose of this study was to quantitatively assess the accuracy of three different image registration and fusion methods.
-
-Preoperative stereotactic MRI and postoperative stereotactic CT were acquired from 20 patients under- going DBS surgery (35 electrodes in total). The postoperative CT was registered and fused with the preoperative MRI, using three different registration algorithms. The position of each electrode tip was determined in stereotactic coordinates both in the (unfused) postoperative CT and the fused CT/MRI. The difference in tip position between the CT and fused CT/MRI was used to evaluate the registration accuracy.
-
-The mean error along the lateral, anteroposterior, and vertical axes was 0.5, 0.5, and 1 mm, respectively.
-
-CT/MRI fusion provides a safe, practical technique for postoperative identification of DBS electrodes.
-

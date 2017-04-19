@@ -1,9 +1,0 @@
-
-To develop a novel application of a tool for semi-automatic volume segmentation and adapt it for analysis of fetal cardiac cavities and vessels from heart volume datasets.
-
-We studied retrospectively virtual cardiac volume cycles obtained with spatiotemporal image correlation (STIC) from six fetuses with postnatally confirmed diagnoses: four with normal hearts between 19 and 29 completed gestational weeks, one with d-transposition of the great arteries and one with hypoplastic left heart syndrome. The volumes were analyzed offline using a commercially available segmentation algorithm designed for ovarian folliculometry. Using this software, individual 'cavities' in a static volume are selected and assigned individual colors in cross-sections and in 3D-rendered views, and their dimensions (diameters and volumes) can be calculated.
-
-Individual segments of fetal cardiac cavities could be separated, adjacent segments merged and the resulting electronic casts studied in their spatial context. Volume measurements could also be performed. Exemplary images and interactive videoclips showing the segmented digital casts were generated.
-
-The approach presented here is an important step towards an automated fetal volume echocardiogram. It has the potential both to help in obtaining a correct structural diagnosis, and to generate exemplary visual displays of cardiac anatomy in normal and structurally abnormal cases for consultation and teaching.
-

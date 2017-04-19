@@ -1,9 +1,0 @@
-
-To evaluate the effect of target trajectory shape on the optimal treatment margin.
-
-Intensity-modulated radiation therapy and volumetric modulated arc therapy plans were created for three spherical targets (3, 5, and 7 cm diameter) simulated in exhalation phases, each with margins of 2, 4, 6, 8, and 10 mm to account for motion. The plans were delivered to a stationary 2D ion chamber array, and dose movies were obtained of the delivered doses. The dose movie frames were then displaced to simulate different respiratory traces. Five traces were used: sin2, sin4 sin6, and two patient traces. The optimal margin was defined as the margin for which the dose delivered to 95% of the target was closest to that obtained with no margin or motion. The equivalent uniform dose was also investigated as an alternative cost function.
-
-The optimal margin was always smaller than the peak-to-peak motion. When the respiratory trace spent less time in the inhale phases, the optimal margin was consistently smaller than when more time was spent in the inhale phases. The target size and treatment modality also affected the optimal margin.
-
-The necessary margin for targets that spend less time in the exhale phase (sin6) is 2-4 mm smaller than for targets that spend equal time in the inhale and exhale phases (sin).
-

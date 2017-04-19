@@ -1,3 +1,0 @@
-
-Vessel extraction is one of the critical tasks in clinical practice. This communication presents a new approach for vessel extraction using a level-set-based active contour by defining a novel local term that takes local image contrast into account. The proposed model not only preserves the performance of the existing models on blurry images, but also overcomes their inability to handle nonuniform illumination. The efficacy of the approach is demonstrated with experiments involving both synthetic images and clinical angiograms.
-

@@ -1,3 +1,0 @@
-
-This review provides an overview of the ways in which techniques from artificial intelligence (AI) can be usefully employed in bioinformatics, both for modelling biological data and for making new discoveries. The paper covers three techniques: symbolic machine learning approaches (nearest neighbour and identification tree techniques), artificial neural networks and genetic algorithms. Each technique is introduced and supported with examples taken from the bioinformatics literature. These examples include folding prediction, viral protease cleavage prediction, classification, multiple sequence alignment and microarray gene expression analysis.
-

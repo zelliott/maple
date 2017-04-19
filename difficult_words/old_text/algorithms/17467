@@ -1,3 +1,0 @@
-
-A new software system called PHENIX (Python-based Hierarchical ENvironment for Integrated Xtallography) is being developed for the automation of crystallographic structure solution. This will provide the necessary algorithms to proceed from reduced intensity data to a refined molecular model, and facilitate structure solution for both the novice and expert crystallographer. Here, the features of PHENIXare reviewed and the recent advances in infrastructure and algorithms are briefly described.
-

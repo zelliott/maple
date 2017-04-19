@@ -1,3 +1,0 @@
-
-The Median M-N rule is a feature detection algorithm to detect peptide signals in Liquid Chromatography/Mass Spectrometry (LC/MS) images. As the procedure does not adequately control the statistical errors, we investigate an extension of the Median M-N rule to compute a statistical bound on the false-positive rate. We then study the false-negative rate and provide insights on the types of signal that can be detected by the M-N rule and the limit of detection. The resulting feature detection algorithm, which we term Quantile M-N rule, can be used in most feature detection algorithms to provide statistical control of the false-positive and false-negative rate.
-

@@ -1,3 +1,0 @@
-
-Cellular processes are governed and coordinated by a multitude of biopathways. A pathway can be viewed as a complex network of biochemical reactions. The dynamics of this network largely determines the functioning of the pathway. Hence the modeling and analysis of biochemical networks dynamics is an important problem and is an active area of research. Here we review quantitative models of biochemical networks based on ordinary differential equations (ODEs). We mainly focus on the parameter estimation and sensitivity analysis problems and survey the current methods for tackling them. In this context we also highlight a recently developed probabilistic approximation technique using which these two problems can be considerably simplified.
-

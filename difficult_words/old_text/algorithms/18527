@@ -1,5 +1,0 @@
-
-Single nucleotide polymorphisms have been investigated as biological markers and the representative high-throughput genotyping method is a combination of the Invader assay and a statistical clustering method. A typical statistical clustering method is the k-means method, but it often fails because of the lack of flexibility. An alternative fast and reliable method is therefore desirable.
-
-This paper proposes a model-based clustering method using a normal mixture model and a well-conceived penalized likelihood. The proposed method can judge unclear genotypings to be re-examined and also work well even when the number of clusters is unknown. Some results are illustrated and then satisfactory genotypings are shown. Even when the conventional maximum likelihood method and the typical k-means clustering method failed, the proposed method succeeded.
-

@@ -1,9 +1,0 @@
-
-Initial results using IR for CT of the head showed satisfactory subjective and objective imaging quality with a 20-40% radiation dose reduction. The aim of our study was to compare the influence of IR and FBP algorithms on perfusion parameters at standard and lowered doses of CTP.
-
-Forty patients with unilateral carotid stenosis post-carotid stent placement referred for follow-up CTP were divided into 2 groups (tube currents were 100 mAs in group A and 80 mAs in group B). Datasets were reconstructed with IR and FBP algorithms; and SNRs of gray matter, white matter, and arterial and venous ROIs were compared. CBF, CBV, and MTT means and SNRs were evaluated by using linear regression, and qualitative imaging scores were compared across the 2 algorithms.
-
-The mean effective radiation dose of group B (2.06 mSv) was approximately 20% lower than that of group A (2.56 mSv). SNRs for ROIs in the dynamic contrast-enhanced images were significantly higher than those for the FBP images. Correlations of the SNRs for CBF, CBV, and MTT across the 2 algorithms were moderate (R² = 0.46, 0.23, and 0.44, respectively). ROIs in gray matter rather than the IR algorithm predicted increasing SNRs in all CBF, CBV, and MTT maps. Two cases of significant restenosis were confirmed in both algorithms. CBV, CBF, and MTT imaging scores did not differ significantly across algorithms or groups.
-
-Lower dose CTP (20% below normal dose) without IR can effectively identify oligemic tissue in poststenting follow-up. IR does not alter the absolute values or increase the SNRs of perfusion parameters. Other methods should be attempted to improve SNRs in settings with low tube currents.
-

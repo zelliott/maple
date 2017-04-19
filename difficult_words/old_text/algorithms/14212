@@ -1,9 +1,0 @@
-
-We have previously reported a flow rate calibration method for the determination of absolute CD4(+) T-lymphocyte counts that removes the need for the addition of latex beads to each sample. However, a limitation with this approach is that a calibration factor (CF) needs to be applied to adjust for differences in viscosity between latex bead suspensions and biological specimens. We have also demonstrated the value of using stabilized whole blood samples in external quality assessment (EQA) studies; such samples have a stable absolute lymphocyte count for over 1 year, at 4 degrees C. It was successfully demonstrated that this material can be used as a flow rate biocalibration (FRB) material for use as a flow cytometric control to provide a sample with a known CD4(+) T-lymphocyte count. Such material has advantages over latex bead technology as it can act as a full process control as well as having the same matrix and viscosity characteristics as the test material, thus removing the need for a CF.
-
-In this study, we have analyzed 268 consecutive normal, abnormal, and HIV(+) samples using FRB, incorporating the PanLeucoGating approach and compared this to the MultiSet method, defined as the predicate.
-
-Percentage similarity statistics revealed the following: 0-3,000 CD4(+) cells/mul mean percentage difference (MPD; bias) 1.2%, 95% CI of 5.6-8%; 0-200 CD4(+) cells/microl MPD of 1.25%, 95% CI of 11.63-14.13%; 201-500 CD4(+) cells/microl MPD of 1%, 95% CI of 4.6-6.6%.
-
-This study demonstrates that stabilized whole blood can be used for FRB. It has the advantage of being a full process control, in addition to costing less than latex beads with highly comparable results. As bench top flow cytometers are extremely stable, this is a low cost and robust alternative to bead based methods for generating absolute CD4 counts.
-

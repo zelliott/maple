@@ -1,3 +1,0 @@
-
-In this paper, we present a simple and efficient algorithm for multiple genome sequence alignment. Sequences of Maximal Unique Matches (MUMs) are first transformed into a multi-bipartite diagram. The diagram is then converted into a Directed Acyclic Graph (DAG). Therefore, finding the alignment is reduced to finding the longest path in the DAG, which is solvable in linear time. The experiments show that the algorithm can correctly find the alignment, and runs faster than MGA and EMAGEN. In addition, our algorithm can handle the alignments with overlapping MUMs and has both weighted and unweighted options. It provides the flexibility for the alignments depending on different needs.
-

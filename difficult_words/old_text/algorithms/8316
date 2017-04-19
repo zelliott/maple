@@ -1,3 +1,0 @@
-
-A preliminary study to approach the problem of reliably detecting life threatening ventricular arrhythmias in real time is described. An algorithm (DIAGNOSIS) has been developed in order to classify ECG signal records on the basis of the computation of four simple parameters calculated from a representation in the frequency domain. This algorithm uses a set of rules constituting an operative classification scheme based on the comparison of the parameters with a set of pre-established thresholds. This allows us to differentiate four general categories: ventricular fibrillation-flutter, ventricular rhythms, imitative artefacts and predominant sinus rhythm.
-

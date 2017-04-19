@@ -1,7 +1,0 @@
-
-Branching morphogenesis generates a diverse array of epithelial patterns, including dichotomous and monopodial geometries. Dichotomous branching can be instructed by concentration gradients of epithelial-derived inhibitory morphogens, including transforming growth factor-β (TGFβ), which is responsible for ramification of the pubertal mammary gland. Here, we investigated the role of autocrine inhibitory morphogens in monopodial branching morphogenesis of the embryonic chicken lung.
-
-Computational modeling and experiments using cultured organ explants each separately revealed that monopodial branching patterns cannot be specified by a single epithelial-derived autocrine morphogen gradient. Instead, signaling by means of TGFβ1 and bone morphogenetic protein-4 (BMP4) differentially affect the rates of branching and growth of the airways. Allometric analysis revealed that development of the epithelial tree obeys power-law dynamics; TGFβ1 and BMP4 have distinct but reversible effects on the scaling coefficient of the power law.
-
-These data suggest that although autocrine inhibition cannot specify monopodial branching, inhibitory morphogens define the dynamics of lung morphogenesis.
-

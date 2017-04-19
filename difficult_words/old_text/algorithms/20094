@@ -1,9 +1,0 @@
-
-Simon's two-stage designs are widely used for cancer phase II trials. These methods rely on statistical testing and thus allow controlling the type I and II error rates, while accounting for the interim analysis. Estimation after such trials is however not straightforward, and several different approaches have been proposed.
-
-Different approaches for point and confidence intervals estimation, as well as computation of p-values are reviewed and compared for a range of plausible trials. Cases where the actual number of patients recruited in the trial differs from the preplanned sample size are also considered.
-
-For point estimation, the uniformly minimum variance unbiased estimator (UMVUE) and the bias corrected estimator had better performance than the others when the actual sample size was as planned. For confidence intervals, using a mid-p approach yielded coverage probabilities closer to the nominal level as compared to so-called 'exact' confidence intervals. When the actual sample size differed from the preplanned sample size the UMVUE did not perform worse than an estimator specifically developed for such a situation. Analysis conditional on having proceeded to the second stage required adapted analysis methods, and a uniformly minimum variance conditional estimator (UMVCUE) can be used, which also performs well when the second stage sample size is slightly different from planned.
-
-The use of the UMVUE may be recommended as it exhibited good properties both when the actual number of patients recruited was equal to or differed from the preplanned value. Restricting the analysis in cases where the trial did not stop early for futility may be valuable, and the UMVCUE may be recommended in that case.
-

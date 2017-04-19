@@ -1,3 +1,0 @@
-
-PCRDiag (Diagnosis by PCR) is a computer program which allows the localization of pairs of oligonucleotides with optimal thermodynamic requirements for use in a PCR assay. The program is designed for the selection of pairs of primers complementary to sequences present in a group, whose identification is intended, but are absent in other non-specific sequences. The program constitutes a powerful tool, specially in systems which display a high degree of sequence heterogeneity, as is the case of RNA viruses. The program runs on IBM-PC and compatible computers and has no special software requirements. It does not need the previous alignment of the sequences analyzed.
-

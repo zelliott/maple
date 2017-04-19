@@ -1,9 +1,0 @@
-
-Matches to repetitive sequences are usually undesirable in the output of DNA database searches. Repetitive sequences need not be matched to a query, if they can be masked in the database. RepeatMasker/Maskeraid (RM), currently the most widely used software for DNA sequence masking, is slow and requires a library of repetitive template sequences, such as a manually curated RepBase library, that may not exist for newly sequenced genomes.
-
-We have developed a software tool called WindowMasker (WM) that identifies and masks highly repetitive DNA sequences in a genome, using only the sequence of the genome itself. WM is orders of magnitude faster than RM because WM uses a few linear-time scans of the genome sequence, rather than local alignment methods that compare each library sequence with each piece of the genome. We validate WM by comparing BLAST outputs from large sets of queries applied to two versions of the same genome, one masked by WM, and the other masked by RM. Even for genomes such as the human genome, where a good RepBase library is available, searching the database as masked with WM yields more matches that are apparently non-repetitive and fewer matches to repetitive sequences. We show that these results hold for transcribed regions as well. WM also performs well on genomes for which much of the sequence was in draft form at the time of the analysis.
-
-WM is included in the NCBI C++ toolkit. The source code for the entire toolkit is available at ftp://ftp.ncbi.nih.gov/toolbox/ncbi_tools++/CURRENT/. Once the toolkit source is unpacked, the instructions for building WindowMasker application in the UNIX environment can be found in file src/app/winmasker/README.build.
-
-Supplementary data are available at ftp://ftp.ncbi.nlm.nih.gov/pub/agarwala/windowmasker/windowmasker_suppl.pdf
-

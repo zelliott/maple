@@ -1,3 +1,0 @@
-
-We define an optimal signal in parametric neuronal models on the basis of interspike interval data and rate coding schema. Under the classical approach the optimal signal is located where the frequency transfer function is steepest. Its position coincides with the inflection point of this curve. This concept is extended here by using Fisher information which is the inverse asymptotic variance of the best estimator and its dependence on the parameter value indicates accuracy of estimation. We compare the signal producing maximal Fisher information with the inflection point of the sigmoidal frequency transfer function.
-

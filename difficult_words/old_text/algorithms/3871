@@ -1,3 +1,0 @@
-
-An interactive procedure has been developed to assign sequences for the design of nucleic acid secondary structure. The primary goal of the procedure is to facilitate macromolecular architecture studies through the design of branched nucleic acid mono- and oligo-junction constructs in a convenient fashion. The essential feature of the sequence-symmetry minimization algorithm employed is the treatment of short sequences as vocabulary elements whose repetition decreases control over the resulting secondary structure. Both manual and semi-automatic application of this approach are available. The design of linear nucleic acid molecules or molecules containing single-stranded loops or connectors is also possible through application of the procedure.
-

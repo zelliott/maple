@@ -1,9 +1,0 @@
-
-The performance of the Charlson and Elixhauser comorbidity measures in predicting patient outcomes have been well validated with ICD-9 data but not with ICD-10 data, especially in disease specific patient cohorts. The objective of this study was to assess the performance of these two comorbidity measures in the prediction of in-hospital and 1 year mortality among patients with congestive heart failure (CHF), diabetes, chronic renal failure (CRF), stroke and patients undergoing coronary artery bypass grafting (CABG).
-
-A Canadian provincial hospital discharge administrative database was used to define 17 Charlson comorbidities and 30 Elixhauser comorbidities. C-statistic values were calculated to evaluate the performance of two measures. One year mortality information was obtained from the provincial Vital Statistics Department.
-
-The absolute difference between ICD-9 and ICD-10 data in C-statistics ranged from 0 to 0.04 across five cohorts for the Charlson and Elixhauser comorbidity measures predicting in-hospital or 1 year mortality. In the models predicting in-hospital mortality using ICD-10 data, the C-statistics ranged from 0.62 (for stroke) - 0.82 (for diabetes) for Charlson measure and 0.62 (for stroke) to 0.83 (for CABG) for Elixhauser measure.
-
-The change in coding algorithms did not influence the performance of either the Charlson or Elixhauser comorbidity measures in the prediction of outcome. Both comorbidity measures were still valid prognostic indicators in the ICD-10 data and had a similar performance in predicting short and long term mortality in the ICD-9 and ICD-10 data.
-

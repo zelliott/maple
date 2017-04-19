@@ -1,5 +1,0 @@
-
-This paper presents a novel methodology in which the Unified Parkinson's Disease Rating Scale (UPDRS) data processed with a rule-based decision algorithm is used to predict the state of the Parkinson's Disease patients. The research was carried out to investigate whether the advancement of the Parkinson's Disease can be automatically assessed. For this purpose, past and current UPDRS data from 47 subjects were examined. The results show that, among other classifiers, the rough set-based decision algorithm turned out to be most suitable for such automatic assessment.
-
-The virtual slide(s) for this article can be found here: http://www.diagnosticpathology.diagnomx.eu/vs/1563339375633634.
-

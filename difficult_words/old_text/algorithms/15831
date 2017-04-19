@@ -1,3 +1,0 @@
-
-A set of programs has been written to quantify the similarities between large numbers of cDNA sequences. This information is used to cluster similar sequences together. The main program can cluster thousands of cDNA sequences per day using a novel, computationally inexpensive algorithm. The clustering information is kept in a small index file so that disk storage requirements are negligible. Using this index file, subsidiary programs create various views and statistical summaries of the entire cDNA sequence collection.
-

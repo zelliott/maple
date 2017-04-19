@@ -1,3 +1,0 @@
-
-The implementation of Monte Carlo methods acting in the quantum phase space is hindered by the fact that quantum phase-space information is available only through quasiprobability densities. In this work, we present a first-principles Monte Carlo method employing a hidden variables representation. This allows the full quantum time evolution of an arbitrary initial quantum state to be calculated by a classical Monte Carlo algorithm, even for systems subjected to time-dependent potentials. Guidelines for implementing a practical algorithm are presented.
-

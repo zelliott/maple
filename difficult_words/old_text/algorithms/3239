@@ -1,3 +1,0 @@
-
-This paper mainly introduces the design of digital scanning converter (DSC) for medical endoscopic ultrasound imaging. Fast modified vector totational CORDIC (FMVR-CORDIC) arithmetic complete coordinate conversion is used to increase the speed of ultrasonic scanning imaging. FPGA is used as the kernel module to control data transferring, related circuits and relevant chips' working, and to accomplish data preprocessing. With the advantages of simple structure, nice flexibility and convenience, it satisfies the demand for real-time displaying in this system. Finally, the original polar coordinate image is transformed to rectangular coordinate grey image through coordinate transformation. The system performances have been validated by the experimental result.
-

@@ -1,3 +1,0 @@
-
-A study of a self-organizing controller is implemented in a way that response to controlled system follows the desired given by the model. The self-organizing controller has proven to be a valuable tool in sterilization equipment in order to verify the capacity of the response to any change in the pressure or temperature. Basically, this type of controller is based on the Self-Organizing Map (SOM) that is a neural network algorithm of unsupervised learning. The new ideas include clustering visualization, interactive training and one-dimension arrays.
-

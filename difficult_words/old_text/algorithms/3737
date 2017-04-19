@@ -1,3 +1,0 @@
-
-A novel Projections Onto Convex Sets (POCS) graph matching algorithm is presented. Two-way assignment constraints are enforced without using elaborate penalty terms, graduated nonconvexity, or sophisticated annealing mechanisms to escape from poor local minima. Results indicate that the presented algorithm is robust and compares favorably to other well-known algorithms.
-

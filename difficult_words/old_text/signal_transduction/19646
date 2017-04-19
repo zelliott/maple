@@ -1,9 +1,0 @@
-
-Pyridine nucleotides regulate the cardiac Na(+) current (I(Na)) through generation of reactive oxygen species (ROS).
-
-We investigated the source of ROS induced by elevated NADH.
-
-In human embryonic kidney (HEK) cells stably expressing the cardiac Na(+) channel, the decrease of I(Na) (52±9%; P<0.01) induced by cytosolic NADH application (100 μmol/L) was reversed by mitoTEMPO, rotenone, malonate, DIDS (4,4'-diisothiocyanatostilbene-2,2'-disulfonic acid), PK11195, and 4'-chlorodiazepam, a specific scavenger of mitochondrial superoxide and inhibitors of the mitochondrial complex I, complex II, voltage-dependent anion channels, and benzodiazepine receptor, respectively. Anti-mycin A (20 μmol/L), a complex III inhibitor known to generate ROS, decreased I(Na) (51±4%, P<0.01). This effect was blocked by NAD(+), forskolin, or rotenone. Inhibitors of complex IV, nitric oxide synthase, the NAD(P)H oxidases, xanthine oxidases, the mitochondrial permeability transition pore, and the mitochondrial ATP-sensitive K(+) channel did not change the NADH effect on I(Na). Analogous results were observed in cardiomyocytes. Rotenone, mitoTEMPO, and 4'-chlorodiazepam also blocked the mutant A280V GPD1-L (glycerol-3-phosphate dehydrogenase 1-like) effect on reducing I(Na), indicating a role for mitochondria in the Brugada syndrome caused by this mutation. Fluorescent microscopy confirmed mitochondrial ROS generation with elevated NADH and ROS inhibition by NAD(+).
-
-Altering the oxidized to reduced NAD(H) balance can activate mitochondrial ROS production, leading to reduced I(Na). This signaling cascade may help explain the link between altered metabolism, conduction block, and arrhythmic risk.
-

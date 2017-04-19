@@ -1,3 +1,0 @@
-
-A program for a detailed and fast feature extraction procedure on objects from a digitized microscope image is presented. The single-pass algorithm labels the pixels of the image that are above a selected threshold, and connects those which belong to the same object. A data structure addressable as an associative memory is created, thus avoiding the use of any recursive procedures. A detailed description of the procedure, which extracts features such as integrated optical density, area and baricenter coordinates, is presented.
-

@@ -1,9 +1,0 @@
-
-The authors designed a segmentation technique that requires only minimal operator input at the initial and final supervision stages of segmentation and has computer-driven segmentation as the primary determinant of lesion boundaries. The technique was applied to compute total T2-hyperintense lesion volumes in patients with multiple sclerosis (MS). A semi-automated segmentation technique is presented and shown to have a test-retest reliability of <5%.
-
-The method used a single segmented section with MS lesions. A probabilistic neural net performed segmentation into four tissue classes after supervised training. This reference section was deconstructed into the entire set of possible 4 x 4-pixel subregions, which was used to segment all-brain sections in steps of 4 x 4-pixel, adjacent image blocks. Intra- and interimage variabilities were tested by using 3-mm-thick, T2-weighted, dual-echo, spin-echo MR images from five patients, each of whom was imaged twice on the same day. Five different reference sections and three temporally separated. training sessions involving the same reference section were used to test the segmentation technique.
-
-The coefficient of variation ranged from 0.013 to 0.068 (mean +/- standard deviation, 0.037 +/- 0.039) for results from five different reference sections for each brain and from 0.007 to 0.037 (mean, 0.027 +/- 0.021) for brains segmented with the same reference section on three temporally separated occasions. Test-retest (intra-imaging) reliability did not exceed 5% (except for a small lesion load of 1 cm3 in one patient). Interimaging differences were approximately 10%.
-
-The segmentation technique yielded intra-imaging variabilities (2%-3%, except for very small MS lesion loads) that compare favorably with previously published results. New repositioning techniques that minimize imaging-repeat imaging variability could make this approach attractive for resolving MS lesion detection problems.
-

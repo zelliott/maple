@@ -1,7 +1,0 @@
-
-The estimation of individual ancestry from genetic data has become essential to applied population genetics and genetic epidemiology. Software programs for calculating ancestry estimates have become essential tools in the geneticist's analytic arsenal.
-
-Here we describe four enhancements to ADMIXTURE, a high-performance tool for estimating individual ancestries and population allele frequencies from SNP (single nucleotide polymorphism) data. First, ADMIXTURE can be used to estimate the number of underlying populations through cross-validation. Second, individuals of known ancestry can be exploited in supervised learning to yield more precise ancestry estimates. Third, by penalizing small admixture coefficients for each individual, one can encourage model parsimony, often yielding more interpretable results for small datasets or datasets with large numbers of ancestral populations. Finally, by exploiting multiple processors, large datasets can be analyzed even more rapidly.
-
-The enhancements we have described make ADMIXTURE a more accurate, efficient, and versatile tool for ancestry estimation.
-

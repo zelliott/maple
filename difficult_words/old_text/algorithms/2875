@@ -1,3 +1,0 @@
-
-A new approach to compensate rf-pulse transients is proposed. Based on the idea of the response theory of a linear system, a formula is derived to obtain the required excitation voltage profile back from the intended target rf-pulse shape. The validity of the formula is experimentally confirmed by monitoring the rf-field created inside the sample coil with a pickup coil. Since this approach realizes accurate rf-pulse shapes without reducing the Q-factor of the tank circuit of the probe, it can be used not only to suppress the transient tail of the rf-pulse, but also as a general concept for accurate rf-pulsing.
-

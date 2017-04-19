@@ -1,3 +1,0 @@
-
-Recent advances in a new method for the de novo design of enzyme inhibitors are reported. A new set of rules to define the possible nonbonded contacts between protein and ligand is presented. This method was derived from published statistical analyses of nonbonded contacts in crystal packings of organic molecules and has been implemented in the recently described computer program LUDI. Moreover, LUDI can now append a new substituent onto an already existing ligand. Applications are reported for the design of inhibitors of HIV protease and dihydrofolate reductase. The results demonstrate that LUDI is indeed capable of designing new ligands with improved binding when compared to the reference compound.
-

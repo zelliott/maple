@@ -1,3 +1,0 @@
-
-Due to computational demand, elements of genetic correlation matrices may have been estimated separately and then combined together into a single correlation matrix at a later stage. Because these matrices should be positive definite (PD) a statistical method commonly known as "bending" is used to make them positive definite. The conventional bending method ignores the reliability of different correlations and may subject any of them to change in order to make a positive definite correlation matrix. A simple method to obtain a weighted bended matrix to be used in animal breeding applications is proposed, and the implementation of the method is demonstrated by an example.
-

@@ -1,3 +1,0 @@
-
-A compensation method based on reference deconvolution is developed to obtain high-resolution NMR spectra under an unstable magnetic field. It is shown that the applicability of the original deconvolution method is limited for small fluctuation, and a process what may be called phase reconstruction is proposed to compensate large field fluctuation. We demonstrate the method using a probe with a coil that can generate a fluctuation field artificially. A high-resolution 1H NMR spectrum of ethylbenzene was obtained under the unstable field after compensation with this method.
-

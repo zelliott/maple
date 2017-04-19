@@ -1,9 +1,0 @@
-
-To evaluate Off Resonance Insensitive Complementary SPAtial Modulation of Magnetization (ORI-CSPAMM) and Fourier Analysis of STimulated echoes (FAST) for the quantification of left ventricular (LV) systolic and diastolic function and compare it with the previously validated FAST+SPAMM technique.
-
-LV short-axis tagged images were acquired with ORI-CSPAMM and SPAMM in healthy volunteers (n = 13). The FAST method was used to automatically estimate LV systolic and diastolic twist parameters from rotation of the stimulated echo and stimulated anti-echo about the middle of k-space subsequent to ∼3 min of user interaction.
-
-There was no significant difference between measures obtained for FAST+ORI-CSPAMM and FAST+SPAMM for mean peak twist (12.9 ± 3.4° versus 11.9 ± 4.0°; P = 0.4), torsion (3.3 ± 0.9°/cm versus 2.9 ± 1.0°/cm, P = 0.3), circumferential-longitudinal shear angle (9.1 ± 3.0° versus 8.2 ± 3.4°, P = 0.3), twisting rate (79.6 ± 20.2°/s versus 68.2 ± 23.4°/s, P = 0.1), untwisting rate (-117.5 ± 31.4°/s versus -106.6 ± 32.4°/s, P = 0.3), normalized untwisting rate (-9.3 ± 2.0/s versus -9.9 ± 4.4/s, P = 0.7), and time of peak twist (281 ± 18 ms versus 293 ± 25 ms, P = 0.04). FAST+ORI-CSPAMM also provided measures of duration of untwisting (148 ± 21 ms) and the ratio of rapid untwisting to peak twist (0.9 ± 0.3). Bland-Altman analysis of FAST+ORI-CSPAMM and FAST+SPAMM twist data demonstrates excellent agreement with a bias of -0.1° and 95% confidence intervals of (-1.0°, 3.2°).
-
-FAST+ORI-CSPAMM is a semi-automated method that provides a quick and quantitative assessment of LV systolic and diastolic twist and torsion. ORI-CSPAMM corrects off-resonance accrued during tagging preparation and readout and visibly removes chemical shift from the tagging pattern, which confers greater robustness to the derived quantitative measures.
-

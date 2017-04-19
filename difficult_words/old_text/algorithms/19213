@@ -1,3 +1,0 @@
-
-The Oxford FMRIb Software Library (FSL) Brain Extraction Tool (BET) is a widely used algorithm for removing extracranial tissues from MR images. Although BET is effective and simple to operate, it often fails to exclude fully all non-brain tissues unless the centre of gravity of the brain is specified to the programme. In this communication we present a recursive procedure for using BET that is extremely robust for extracting brain images without any manual intervention. The approach was tested on 150 adult head volumes and produced accurate results in all cases. The approach is efficient and suitable for incorporation into automated workflows and other pipeline methods.
-

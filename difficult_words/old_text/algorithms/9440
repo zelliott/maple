@@ -1,9 +1,0 @@
-
-Atrial fibrillation is a costly complication occurring in 15% to 40% of patients after coronary artery bypass grafting (CABG). Aggressive prophylactic treatment should be directed toward and limited to selected high-risk patients. Utilizing perioperative risk factors, we sought to develop an algorithm to predict the relative risk of developing postoperative atrial fibrillation in patients undergoing CABG.
-
-Data were extracted from our Society of Thoracic Surgeons Database on 19,620 patients undergoing CABG between January 1995 and July 2006. We used perioperative risk factors to develop a logistic regression equation predictive for the development of postoperative atrial fibrillation. A total of 19,083 patients had complete data and were used to construct the final model. The model was used to compare the predicted probability of atrial fibrillation with the known outcome in the patients divided into deciles by probability. Bootstrap procedures were used to determine the confidence limits of the beta coefficients.
-
-A regression model was developed with 14 significant indicators. Those showing the greatest predictive influence included the patient age, the need for prolonged ventilation (24 hours or more), the use of cardiopulmonary bypass, and preoperative arrhythmias. The model showed acceptable concordance between observed and predicted (72.3%), a receiver operating characteristic curve area of 0.72, and Hosmer-Lemeshow probability of 0.19. When applied to the patient population, the calculated risk in those who did not develop AF was 0.179 +/- 0.116 and for those with AF, 0.284 +/- 0.153 (p < 0.001).
-
-A validated predictive risk algorithm for developing postoperative atrial fibrillation can reliably stratify patients undergoing CABG into high-risk and low-risk groups. This may be used preoperatively to appropriately target high-risk patients for aggressive prophylactic treatment.
-

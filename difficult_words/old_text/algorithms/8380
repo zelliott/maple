@@ -1,3 +1,0 @@
-
-An important application involving two-species reaction-diffusion systems relates to the problem of finding the best statistical strategy for optimizing the encounter rate between organisms. We investigate the general problem of how the encounter rate depends on whether organisms move in Lévy or Brownian random walks. By simulating a limiting generalized searcher-target model (e.g., predator-prey, mating partner, pollinator-flower), we find that Lévy walks confer a significant advantage for increasing encounter rates when the searcher is larger or moves rapidly relative to the target, and when the target density is low.
-

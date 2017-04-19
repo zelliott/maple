@@ -1,3 +1,0 @@
-
-We propose a tracking method which tracks the complete object regions, adapts to changing visual features, and handles occlusions. Tracking is achieved by evolving the contour from frame to frame by minimizing some energy functional evaluated in the contour vicinity defined by a band. Our approach has two major components related to the visual features and the object shape. Visual features (color, texture) are modeled by semiparametric models and are fused using independent opinion polling. Shape priors consist of shape level sets and are used to recover the missing object regions during occlusion. We demonstrate the performance of our method on real sequences with and without object occlusions.
-

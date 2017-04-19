@@ -1,3 +1,0 @@
-
-A two-dimensional coherent imaging equation is derived for confocal self-interference microscopy (CSIM), which uses a birefringent material to generate an interference pattern in the detection optics. This interference pattern, called a self-interference pattern, sharpens the point-spread function (PSF) along the lateral direction. To derive the imaging equation, an equation for the self-interference pattern is derived. Numerical simulation results based on the imaging equation are presented. One-point response results show a 42.8% reduction in the FWHM of the lateral PSF. Two-point response results show a nearly twofold improvement in two-point resolution.
-

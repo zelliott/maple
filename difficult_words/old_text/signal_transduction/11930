@@ -1,3 +1,0 @@
-
-This unit focuses on the use of total internal reflection fluorescence (TIRF) microscopy and image analysis methods to study the dynamics of signal transduction mediated by class I phosphoinositide 3-kinases (PI3Ks) in mammalian cells. The first four protocols cover live-cell imaging experiments, image acquisition parameters, and basic image processing and segmentation. These methods are generally applicable to live-cell TIRF experiments. The remaining protocols outline more advanced image analysis methods, which were developed in our laboratory for the purpose of characterizing the spatiotemporal dynamics of PI3K signaling. These methods may be extended to analyze other cellular processes monitored using fluorescent biosensors.
-

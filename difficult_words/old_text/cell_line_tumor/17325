@@ -1,9 +1,0 @@
-
-The investigation of receptor-ligand interactions in the cellular context presents significant technical challenges, first, to immobilize the ligand in a manner that preserves functional properties and, second, to relate ligand properties to cell adhesion and other cellular processes.
-
-Ligand-mediated cell adhesion was characterized by the development of a cellulose hollow-fiber adhesion assay in which ligand (protein A) was immobilized onto the cellulose membrane as a recombinant fusion protein containing a cellulose-binding domain affinity tag. Modules containing single cellulose hollow fibers were connected to a micro-flow system for cell deposition and detachment with fluid shear stress. The cell adhesion process that occurred inside a segment of hollow fiber was observed in real time by using an inverted microscope equipped with a CCD camera and digital frame grabber. Image analysis software was developed to count cells and record digital images.
-
-Cell adhesion strength was characterized by counting the number of cells that were detached by application of fluid shear stress with values that ranged from 2.3 to 185 dyne/cm2. The median shear stress of detachment of KG1a cells was directly related to the duration of membrane contact and the amount of immobilized monoclonal antibody (anti-CD34).
-
-The hollow-fiber assay provides a general method to determine functional properties of molecular domains that interact with cell surface receptors and markers.
-

@@ -1,3 +1,0 @@
-
-This work demonstrates new techniques developed for the prediction of protein folding class in the context of the most comprehensive Structural Classification of Proteins (SCOP). The prediction method uses global descriptors of a protein in terms of the physical, chemical and structural properties of its constituent amino acids. Neural networks are utilized to combine these descriptors in a specific way to discriminate members of a given folding class from members of all other classes. It is shown that a specific amino acid's properties work completely differently on different folding classes. This creates the possibility of finding an individual set of descriptors that works best on a particular folding class.
-

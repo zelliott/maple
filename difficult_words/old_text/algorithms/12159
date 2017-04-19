@@ -1,3 +1,0 @@
-
-In this paper, we present a novel data-embedding system with high embedding capacity. The embedding algorithm is based on the quantized projection embedding method with some enhancement to achieve high embedding rates. In particular, our system uses a random permutation of the columns of a Hadamard matrix as projection vectors and a fixed perceptual mask based on the JPEG default quantization table for the quantization step design. As a result, the data-embedding system achieves 1/167 (1 bit out of 167 raw image bits) to 1/84 hiding ratios with a BER of around 0.1% in the presence of JPEG compression attacks, while maintaining visual distortion at a minimum.
-

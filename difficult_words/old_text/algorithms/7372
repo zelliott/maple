@@ -1,7 +1,0 @@
-
-Clustering sequences into families has long been an important step in characterization of genes and proteins. There are many algorithms developed for this purpose, most of which are based on either direct similarity between gene pairs or some sort of network structure, where weights on edges of constructed graphs are based on similarity. However, conserved synteny is an important signal that can help distinguish homology and it has not been utilized to its fullest potential.
-
-Here, we present GenFamClust, a pipeline that combines the network properties of sequence similarity and synteny to assess homology relationship and merge known homologs into groups of gene families. GenFamClust identifies homologs in a more informed and accurate manner as compared to similarity based approaches. We tested our method against the Neighborhood Correlation method on two diverse datasets consisting of fully sequenced genomes of eukaryotes and synthetic data.
-
-The results obtained from both datasets confirm that synteny helps determine homology and GenFamClust improves on Neighborhood Correlation method. The accuracy as well as the definition of synteny scores is the most valuable contribution of GenFamClust.
-

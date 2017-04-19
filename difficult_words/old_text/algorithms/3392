@@ -1,3 +1,0 @@
-
-Medical therapy for cardiac arrhythmias is still to a large extent based on empirical methods. Assessing and evaluating different therapeutical strategies constitutes the starting point for inducing decision methods to select the appropriate regimen for an individual patient. We designed a computer-based system that establishes a set of heuristic rules linking attributes in a data base of patients with rhythm disturbances. A feasibility analysis conducted on a small set of 23 patients indicated that constraints on the number of attributes and their clinical relevancy together with a representation scheme for temporal changes have to be incorporated to provide for a useful and efficient algorithm.
-

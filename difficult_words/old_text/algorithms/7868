@@ -1,9 +1,0 @@
-
-Recent military conflicts in Iraq and Afghanistan have highlighted the wartime effect of traumatic brain injury (TBI). The reason for the prominence of TBI in these particular conflicts as opposed to others is unclear but may result from the increased survivability of blast due to improvements in body armor. In the military context blunt, ballistic and blast effects may all contribute to CNS injury, however blast in particular, has been suggested as a primary cause of military TBI. While blast effects on some biological tissues, such as the lung, are documented in terms of injury thresholds, this is not the case for the CNS. We hypothesized that using bio-fidelic models, allowing for fluid-solid interaction and basic material properties available in the literature, a blast wave would interact with CNS tissue and cause a possible concussive effect.
-
-The modeling approach employed for this investigation consisted of a computational framework suitable for simulating coupled fluid-solid dynamic interactions. The model included a complex finite element mesh of the head and intra-cranial contents. The effects of threshold and 50% lethal blast lung injury were compared with concussive impact injury using the full head model allowing upper and lower bounds of tissue injury to be applied using pulmonary injury as the reference tissue.
-
-The effects of a 50% lethal dose blast lung injury (LD(50)) were comparable with concussive impact injury using the DVBIC-MIT full head model.
-
-CNS blast concussive effects were found to be similar between impact mild TBI and the blast field associated with LD(50) lung blast injury sustained without personal protective equipment. With the ubiquitous use of personal protective equipment this suggests that blast concussive effects may more readily ascertained in personnel due to enhanced survivability in the current conflicts.
-

@@ -1,7 +1,0 @@
-
-An increasing body of literature shows that genomes of eukaryotes can contain clusters of functionally related genes. Most approaches to identify gene clusters utilize microarray data or metabolic pathway databases to find groups of genes on chromosomes that are linked by common attributes. A generalized method that can find gene clusters regardless of the mechanism of origin would provide researchers with an unbiased method for finding clusters and studying the evolutionary forces that give rise to them.
-
-We present an algorithm to identify gene clusters in eukaryotic genomes that utilizes functional categories defined in graph-based vocabularies such as the Gene Ontology (GO). Clusters identified in this manner need only have a common function and are not constrained by gene expression or other properties. We tested the algorithm by analyzing genomes of a representative set of species. We identified species-specific variation in percentage of clustered genes as well as in properties of gene clusters including size distribution and functional annotation. These properties may be diagnostic of the evolutionary forces that lead to the formation of gene clusters.
-
-A software implementation of the algorithm and example output files are available at http://fcg.tamu.edu/C_Hunter/.
-

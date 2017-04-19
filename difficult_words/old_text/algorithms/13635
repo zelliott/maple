@@ -1,7 +1,0 @@
-
-Dermoscopy is a non-invasive in vivo skin imaging technique that assists dermatologists in diagnosing melanoma. However, the use of dermoscopy for diagnosis requires extensive training since this approach often provides extremely complex and subjective information. The presence of an imperceptible color difference in dermoscopy images is one of the serious problems associated with the use of this technique. This imperceptible color difference leads to inaccurate lesion extraction at the borders and hinders the assessment of lesion features. Therefore, objective and quantitative assessment based on perceptible color differences is important for the diagnosis of melanoma using dermoscopy.
-
-In this study, we developed a method for assessing colors in a lesion. Twenty-seven perceptible color regions based on the multi-thresholding method in each color channel were constructed, and dominant color region (DCR), bluish dominant region (BDR), and the number of colors were assessed as three diagnostic parameters from these perceptible color regions on 150 dermoscopy images.
-
-Diagnostic accuracy was calculated by combination of three diagnostic parameters derived from DCR, BDR, and the number of colors. Diagnostic accuracy with 73.33% sensitivity and 90.67% specificity was obtained in case of positive features in more than two parameters.
-

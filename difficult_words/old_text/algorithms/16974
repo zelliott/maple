@@ -1,9 +1,0 @@
-
-We introduce a family-based confidence set inference (CSI) method that can be used in preliminary genome-wide association studies to obtain confidence sets of SNPs that contribute a specific percentage to the additive genetic variance of quantitative traits.
-
-Developed in the framework of generalized linear mixed models, the method utilizes data from outbred families of arbitrary size and structure. Through our own simulation study and analysis of the Genetics Analysis Workshop 16 simulated data, we study the properties of our method and compare its performance to that of the family association method described by Chen and Abecasis [Am J Hum Genet 2007;81:913-926]. We also analyze the Framingham Heart Study data to identify SNPs regulating high-density lipoprotein levels.
-
-The simulation studies demonstrated that CSI yields confidence sets with correct coverage and that it can outperform the method introduced by Chen and Abecasis [Am J Hum Genet 2007;81:913-926]. Furthermore, we identified five SNPs that potentially regulate high-density lipoprotein levels: rs9989419, rs11586238, rs1754415, rs9355648, and rs9356560.
-
-The CSI method provides confidence sets of SNPs that contribute to the genetic variance of quantitative traits and is a competitive alternative to currently used family association methods. The approach is particularly useful in genome-wide association studies as it significantly reduces the number of SNPs investigated in follow-up studies.
-

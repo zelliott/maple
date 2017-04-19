@@ -1,3 +1,0 @@
-
-Detecting overrepresented known transcription factor binding motifs in a set of promoter sequences of co-regulated genes has become an important approach to deciphering transcriptional regulatory mechanisms. In this paper, we present an interactive web server, MotifViz, for three motif discovery programs, Clover, Rover and Motifish, covering most available flavors of algorithms for achieving this goal. For comparison, we have also implemented the simple motif-matching program Possum. MotifViz provides uniform and intuitive input and output formats for all four programs. It can be accessed at http://biowulf.bu.edu/MotifViz.
-

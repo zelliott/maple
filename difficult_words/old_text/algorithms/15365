@@ -1,9 +1,0 @@
-
-In longitudinal studies where subjects experience recurrent incidents over a period of time, such as respiratory infections, fever or diarrhea, statistical methods are required to take into account the within-subject correlation.
-
-For repeated events data with censored failure, the independent increment (AG), marginal (WLW) and conditional (PWP) models are three multiple failure models that generalize Cox's proportional hazard model. In this paper, we revise the efficiency, accuracy and robustness of all three models under simulated scenarios with varying degrees of within-subject correlation, censoring levels, maximum number of possible recurrences and sample size. We also study the methods performance on a real dataset from a cohort study with bronchial obstruction.
-
-We find substantial differences between methods and there is not an optimal method. AG and PWP seem to be preferable to WLW for low correlation levels but the situation reverts for high correlations.
-
-All methods are stable in front of censoring, worsen with increasing recurrence levels and share a bias problem which, among other consequences, makes asymptotic normal confidence intervals not fully reliable, although they are well developed theoretically.
-

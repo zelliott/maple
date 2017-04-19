@@ -1,9 +1,0 @@
-
-The risk of undesired tissue damage to thoracic cage, heart, and lung during MR guided HIFU ablations of breast cancer can be greatly reduced if a phased array transducer design with a lateral beam direction is used in combination with a large aperture. The disadvantage is an increased sensitivity to focus aberrations due to tissue heterogeneity. Here, the authors propose to restore the focal coherence by using a matched aperture phase correction, which is based on a noninvasively obtained tissue model.
-
-The method combines high resolution MRI with ultrasound wave measurements of different tissue types to determine a phase correction, which compensates focal point aberrations caused by tissue heterogeneity. 3D segmentation of tissue is used to quantify the relative proportion of each tissue type along a line running from the center of each element of the phased array to the target focal point.
-
-For tissue types with a celerity difference of 3%, the proposed method allows to quantify the phase aberration with an accuracy of 6° ± 20° and a correlation factor R(2) = 0.95. Using the refocusing method for a complex heterogeneous phantom resulted in 95% of the maximal pressure, whereas only 70% of the maximal pressure is obtained in absence of any phase correction.
-
-Since the proposed refocusing algorithm is compatible with a standard interventional preplanning and requires only a minimal amount of processing, it presents a promising approach to compensate for aberration in heterogeneous tissues such as the human breast.
-

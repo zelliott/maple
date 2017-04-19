@@ -1,3 +1,0 @@
-
-An "inconsistent" particle filter produces--in a statistical sense--larger estimation errors than predicted by the model on which the filter is based. Two test variables are introduced that allow the detection of inconsistent behavior. The statistical properties of the variables are analyzed. Experiments confirm their suitability for inconsistency detection.
-

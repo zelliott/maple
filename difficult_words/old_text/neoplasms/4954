@@ -1,9 +1,0 @@
-
-Border (B) description of melanoma and other pigmented skin lesions is one of the most important tasks for the clinical diagnosis of dermoscopy images using the ABCD rule. For an accurate description of the border, there must be an effective skin tumor area extraction (STAE) method. However, this task is complicated due to uneven illumination, artifacts present in the lesions and smooth areas or fuzzy borders of the desired regions.
-
-In this paper, a novel STAE algorithm based on improved dynamic programming (IDP) is presented. The STAE technique consists of the following four steps: color space transform, pre-processing, rough tumor area detection and refinement of the segmented area. The procedure is performed in the CIE L(*) a(*) b(*) color space, which is approximately uniform and is therefore related to dermatologist's perception. After pre-processing the skin lesions to reduce artifacts, the DP algorithm is improved by introducing a local cost function, which is based on color and texture weights.
-
-The STAE method is tested on a total of 100 dermoscopic images. In order to compare the performance of STAE with other state-of-the-art algorithms, various statistical measures based on dermatologist-drawn borders are utilized as a ground truth. The proposed method outperforms the others with a sensitivity of 96.64%, a specificity of 98.14% and an error probability of 5.23%.
-
-The results demonstrate that this STAE method by IDP is an effective solution when compared with other state-of-the-art segmentation techniques. The proposed method can accurately extract tumor borders in dermoscopy images.
-

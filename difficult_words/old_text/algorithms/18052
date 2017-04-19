@@ -1,7 +1,0 @@
-
-The availability of sequences from whole genomes to reconstruct the tree of life has the potential to enable the development of phylogenomic hypotheses in ways that have not been before possible. A significant bottleneck in the analysis of genomic-scale views of the tree of life is the time required for manual curation of genomic data into multi-gene phylogenetic matrices.
-
-To keep pace with the exponentially growing volume of molecular data in the genomic era, we have developed an automated technique, ASAP (Automated Simultaneous Analysis Phylogenetics), to assemble these multigene/multi species matrices and to evaluate the significance of individual genes within the context of a given phylogenetic hypothesis.
-
-Applications of ASAP may enable scientists to re-evaluate species relationships and to develop new phylogenomic hypotheses based on genome-scale data.
-

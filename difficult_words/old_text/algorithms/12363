@@ -1,3 +1,0 @@
-
-An important feature of interaction between two signal components is the direction of the interaction. Recently, different methods have been developed and applied for detecting the direction of interactions. Besides frequency-dependent methods, Granger causality is a well-known frequency-independent approach. One popular linear approach is based on autoregressive modeling of the underlying process and evaluates prediction errors under different past assumptions. In the present study, this linear concept is extended to self-exciting threshold autoregressive models, which cover a wider class of processes. An approach for the definition of a state-dependent Granger causality is given and applied to simulated data.
-

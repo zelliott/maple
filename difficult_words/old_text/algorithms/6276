@@ -1,3 +1,0 @@
-
-This paper presents a neural network control redesign, which achieves robust stabilization in the presence of unmodeled dynamics restricted to be input to output practically stable (IOpS), without requiring any prior knowledge on any bounding function. Moreover, the state of the unmodeled dynamics is permitted to go unbounded provided that the nominal system state and/or the control input also go unbounded. The neural network controller is equipped with a resetting strategy to deal with the problem of possible division by zero, which may appear since we consider unknown input vector fields with unknown signs. The uniform ultimate boundedness of the system output to an arbitrarily small set, plus the boundedness of all other signals in the closed-loop is guaranteed.
-

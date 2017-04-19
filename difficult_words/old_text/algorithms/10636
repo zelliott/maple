@@ -1,3 +1,0 @@
-
-We report the implementation of a method for the calculation of optical rotation. This method is based on the time-dependent density-functional theory and utilizes time-periodic magnetic-field-dependent basis functions. The calculations are based on a density fit. It is demonstrated that additional terms in the analytical expression appearing from derivatives of the approximated Coulomb potential are necessary to provide the gauge-origin independence of the results within a given numerical accuracy. Contributions from these terms also restore the symmetry between the electric and magnetic perturbations in the optical rotation tensor.
-

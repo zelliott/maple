@@ -1,9 +1,0 @@
-
-We present an approach to time-frequency analysis of bioelectrical signals.
-
-The method relays on the decomposition of the signal into a set of waveforms that have good localization both in time and in frequency. The waveforms belong to a highly redundant set of functions - allowing for a very accurate description of signal components.
-
-Properties of the method are illustrated by simulations and applications to EEG.
-
-The presented method delivers a common formalism suitable for describing both gross statistical properties of structures present in bioelectrical signals, as well as microstructure of chosen phenomena.
-

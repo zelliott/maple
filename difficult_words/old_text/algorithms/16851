@@ -1,9 +1,0 @@
-
-Lung nodules are commonly encountered in clinical practice, yet little is known about their management in community settings. An automated method for identifying patients with lung nodules would greatly facilitate research in this area.
-
-Using members of a large, community-based health plan from 2006 to 2010, we developed a method to identify patients with lung nodules, by combining five diagnostic codes, four procedural codes, and a natural language processing algorithm that performed free text searches of radiology transcripts. An experienced pulmonologist reviewed a random sample of 116 radiology transcripts, providing a reference standard for the natural language processing algorithm.
-
-With the use of an automated method, we identified 7112 unique members as having one or more incident lung nodules. The mean age of the patients was 65 years (standard deviation 14 years). There were slightly more women (54%) than men, and Hispanics and non-whites comprised 45% of the lung nodule cohort. Thirty-six percent were never smokers whereas 11% were current smokers. Fourteen percent of the patients were subsequently diagnosed with lung cancer. The sensitivity and specificity of the natural language processing algorithm for identifying the presence of lung nodules were 96% and 86%, respectively, compared with clinician review. Among the true positive transcripts in the validation sample, only 35% were solitary and unaccompanied by one or more associated findings, and 56% measured 8 to 30 mm in diameter.
-
-A combination of diagnostic codes, procedural codes, and a natural language processing algorithm for free text searching of radiology reports can accurately and efficiently identify patients with incident lung nodules, many of whom are subsequently diagnosed with lung cancer.
-

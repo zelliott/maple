@@ -1,9 +1,0 @@
-
-To determine whether classification tree techniques used on survey data collected at enrollment from older adults in a Medicare HMO could predict the likelihood of an individual being in a low, medium, high, or very high cost group in the subsequent year.
-
-Data from comprehensive health risk assessment (HRA) screening of 11 744 new enrollees (age > or = 65 years) continuously enrolled in a Medicare HMO for at least 24 months between 1997 and 2002 were combined with complete healthcare service utilization data for each enrollee in the postenrollment period to create cost groups. An original clinically devised algorithm and a Classification and Regression Tree (CART) that used the HRA data were compared with respect to their ability to correctly place an individual within the cost groups over 12 months of enrollment.
-
-The variables that best classified enrollees into 12-month cost groups included quality of life, age, and preenrollment health services. Classification was best for CART: a sensitivity of 39.8% and a specificity of 83% was achieved for very high cost enrollees. Compared with the clinical algorithm, CART also utilized only one third as many predictor variables to define risk categories.
-
-Brief self-report survey data collected at enrollment can be modeled to provide moderate sensitivity in predicting very high costs in the postenrollment year. The ease of applicability of software to create empirically derived profiles of high-cost enrollees precludes the need to rely on clinically devised algorithms to identify enrollees at risk for very high costs.
-

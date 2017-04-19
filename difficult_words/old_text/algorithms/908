@@ -1,3 +1,0 @@
-
-Although expert systems have been developed in a variety of medical areas, there has been very little application of expert system techniques to the field of human genetics. The purpose of the research project described in this paper was (1) to experiment with different types of knowledge representation for data and knowledge structures in human genetics and (2) to explore the applicability of different inference mechanisms for various genetic problems. We present an object-oriented and a fact-based model for the representation of genealogical information and describe two prototype systems.
-

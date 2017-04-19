@@ -1,7 +1,0 @@
-
-Microarray experiments are inherently noisy. Replication is the key to estimating realistic fold-changes despite such noise. In the analysis of the various sources of noise the dependency structure of the replication needs to be taken into account.
-
-We analyzed replicate data sets from a Mycobacterium tuberculosis trcS mutant in order to identify differentially expressed genes and suggest new methods for filtering and normalizing raw array data and for imputing missing values. Mixed ANOVA models are applied to quantify the various sources of error. Such analysis also allows us to determine the optimal number of samples and arrays. Significance values for differential expression are obtained by a hierarchical bootstrapping scheme on scaled residuals. Four highly upregulated genes, including bfrB, were analyzed further. We observed an artefact, where transcriptional readthrough from these genes led to apparent upregulation of adjacent genes.
-
-All methods and data discussed are available in the package YASMAhttp://www.cryst.bbk.ac.uk/wernisch/yasma.html for the statistical data analysis system R (http://www.R-project.org).
-

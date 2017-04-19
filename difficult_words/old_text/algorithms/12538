@@ -1,9 +1,0 @@
-
-To develop an adaptive subvoxel stepping scheme, as an adjunct to tensor deflection (TEND) tractography, that automatically adjusts the stepping size by considering the tensor linearity to properly trace fiber bundles in regions with different degrees of tensor anisotropy.
-
-A theoretical investigation of the TEND algorithm was performed to assess the degree of deflection of the propagation vector toward the major eigenvector. Mathematically generated phantoms (one with curved fibers and the other with crossing fibers) at wide ranges of signal-to-noise ratio (SNR), and human brain images obtained in vivo were used to test the performance of the adaptive stepping algorithm.
-
-The degree of deflection was found to be inversely related to the stepping size. A small stepping size was advantageous for tracing single curved fiber bundles, whereas a large stepping size was beneficial for passing through fiber crossing regions. The performance of the adaptive stepping algorithm was superior to fixed stepping in both situations, leading to an approximately 0.17 voxel of deviation in curved fibers and a nearly 100% successful tracking rate in crossing fibers at typical SNR. Human brain images demonstrated similar results.
-
-The adaptive stepping algorithm is a helpful adjunct to TEND tractography.
-

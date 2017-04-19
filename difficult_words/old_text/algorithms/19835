@@ -1,9 +1,0 @@
-
-This study aimed to develop a translation equation to enable comparison between Actical and ActiGraph GT3X accelerometer counts recorded minute by minute.
-
-Five males and five females of variable height, weight, body mass index and age participated in this investigation. Participants simultaneously wore an Actical and an ActiGraph accelerometer for two days. Conversion algorithms and R(2) were calculated day by day for each subject between the omnidirectional Actical and three different ActiGraph (three-dimensional) outputs: 1) vertical direction, 2) combined vector, and 3) a custom vector. Three conversion algorithms suitable for minute/minute conversions were then calculated from the full data set.
-
-The vertical ActiGraph activity counts demonstrated the closest relationship with the Actical, with consistent moderate to strong conversions using the algorithm: y = 0.905x, in the day by day data (R(2) range: 0.514 to 0.989 and average: 0.822) and full data set (R(2) = 0.865).
-
-The Actical is most sensitive to accelerations in the vertical direction, and does not closely correlate with three-dimensional ActiGraph output. Minute by minute conversions between the Actical and ActiGraph vertical component can be confidently performed between data sets and might allow further synthesis of information between studies.
-

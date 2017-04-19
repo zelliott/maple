@@ -1,3 +1,0 @@
-
-Dose calculations with a collapsed cone algorithm implemented in a clinical treatment planning system have been studied. The algorithm has been evaluated in homogeneous as well as in heterogeneous media, and the results have been compared to measurements and Monte Carlo simulations. Commonly encountered clinical beam configurations as well as more complex geometries have been pursued to test the limitations of the model. The results show that the accuracy level reached allows for clinical use. Some situations, e.g., large wedge beams and dose calculations in the build up region, not specific to the collapsed cone model, show deviations (outside +/- 3%) compared to measurements.
-

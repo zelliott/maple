@@ -1,3 +1,0 @@
-
-Locating exceptional, abnormal or unusual trends in gene expression data to identifying disease biomarkers is the vital problem tackled in this paper. We developed a comprehensive framework that incorporates different perspectives each realised by an agent. Each agent applies its method to analyse the gene expression data and to come up with some candidate genes as potential cancer biomarkers. Further, gene enrichment, protein interaction, and miRNA regulation are given weight; they are used to confirm the discoveries by the major agents. We conducted experiments on two data sets; the obtained results are very encouraging with a high classification rate.
-

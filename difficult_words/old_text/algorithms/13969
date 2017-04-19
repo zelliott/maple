@@ -1,7 +1,0 @@
-
-The Match-Box software comprises protein sequence alignment tools based on strict statistical thresholds of similarity between protein segments. The method circumvents the gap penalty requirement: gaps being the result of the alignment and not a governing parameter of the procedure. The reliable conserved regions outlined by Match-Box are particularly relevant for homology modelling of protein structures, prediction of essential residues for site-directed mutagenesis and oligonucleotide design for cloning homologous genes by polymerase chain reaction (PCR).
-
-The method produces reliable results, as assessed by tests performed on protein families of known structures and of low sequence similarity. A reliability score is computed in relation to a threshold of similarity progressively raised to extend the aligned regions to their maximal length, up to the significance limit of matching segments. The score obtained at each position is printed below the sequences and allows a discriminant reading of each aligned region.
-
-Sequences may be submitted to a Web server at http://www.fundp.ac.be/sciences/biologie/bms/+ ++matchbox_submit.html or sent by e-mail to matchbox/biq.fundp.ac.be (help available by just mailing help).
-

@@ -1,3 +1,0 @@
-
-We present an image segmentation algorithm for small intestinal glands consisting of goblet cells that are evenly distributed and arranged in parallel at the base. Making use of the properties of the chain distribution of the goblet cells, directional 2-dimensional (2-D) linear filters with different orientations were designed to enhance the rims of the intestinal glands. Segmentations are based on the combined responses of the multiple zero-phase directional 2-D linear filters. For comparisons, outputs of combined directional filters are shown along with those of the comparable nondirectional Gaussian filters. Segmentation results of small intestinal glands of both normal and cancer cases are provided.
-

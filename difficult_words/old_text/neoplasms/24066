@@ -1,3 +1,0 @@
-
-A new biological growth model is introduced. After random selection of possible growth sites, cells are added in an allowable random direction. Unlike the Eden model, the current model is grid independent and can be adapted to any curved surface. Growths of colonies of as many as 10(5) cells are simulated on planar, cylindrical, and spherical surfaces. It is found that the interior density is constant, whereas the boundary is fractal.
-

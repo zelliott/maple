@@ -1,9 +1,0 @@
-
-For the reconstruction of the coronary arteries from rotational angiography data, a crucial point is the selection of the optimal cardiac phase for data reconstruction. To avoid time-consuming interactive selection of the optimal cardiac phase by visual inspection of multiple high-resolution data sets reconstructed at different cardiac phases, an automatic approach for deriving optimal reconstruction windows is attractive.
-
-This paper presents a new approach to fully automatic selection of the optimal cardiac phase for image reconstruction. It is based on the analysis of a four-dimensional data set of the region of interest reconstructed at low-spatial resolution utilizing an image quality index, which quantifies the image quality of a single three-dimensional reconstructed volume. The derived image quality index utilizes the histogram information of a single temporal snapshot as a quality measure for the vessel reconstruction. The proposed technique was applied to 16 projection data sets obtained in eight pigs.
-
-Experiments to evaluate the proposed method based on user-defined image quality parameters serving as ground truth, showed a relatively high correlation (>84%) for high-quality (c(phi) > 0.95) images.
-
-An image-based technique is introduced, which is able to determine the optimal cardiac phase for 3D-RCA fully automatically. The proposed method was successfully applied to 16 data sets obtained in a total of 8 porcine models.
-

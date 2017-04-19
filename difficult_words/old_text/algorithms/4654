@@ -1,9 +1,0 @@
-
-The discovery of new targets that are sufficiently robust to yield marketable therapeutics is an enormous challenge. Conventional target identification approaches are disease-dependent, which require heavy experimental workload and comprehensive domain knowledge. In this work, we propose that a disease-independent property of proteins, "drug-target likeness", can be explored to facilitate the genomic scale target screening in the post-genomic age.
-
-A Support Vector Machine (SVM) classifier was trained to recognize target and non-target protein sequences compiled from the Therapeutic Target Database, DrugBank, and PFam. Protein sequences are encoded by their composition, transition and distribution features of residues and Gaussian kernel function was used in SVM classification.
-
-SVM with a fine-tuned kernel width records 66.4 +/- 5.1% of sensitivity and 97.2 +/- 0.6% of specificity, corresponding to an overall target prediction accuracy of 94.4 +/- 0.8%.
-
-Though primitive, these results suggest that, similar to the "drug likeness" for small chemicals, their binding partners, drug targets, also display shared features which are reflected in their sequences and can be captured by statistical learning approaches. Further research on how to accurately and interpretably measure the likeness of protein being a drug target is promising. Inspired by the progress of "drug likeness" studies, advances in protein descriptors, statistical learning algorithms and more comprehensive and accurate gold-standard data set from disease biology research may help to further define the "drug-target likeness" property of proteins.
-

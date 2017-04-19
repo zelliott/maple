@@ -1,3 +1,0 @@
-
-Spectral-spatial images reconstructed from a small number of projections suffer from streak artifacts that are seen as noise, particularly in the spectral dimension. Interpolation in projection space can reduce artifacts in the reconstructed images. The reduction of background artifacts improves lineshape fitting. In this work, we compared the performances of angular interpolation implemented using linear, cubic B-spline, and sinc methods. Line width maps were extracted from 4-D EPR images of phantoms using spectral fitting to evaluate each interpolation method and its robustness to noise. Results from experiment and simulation showed that the cubic B-spline, angular interpolation was preferable to either sinc or linear interpolation methods.
-

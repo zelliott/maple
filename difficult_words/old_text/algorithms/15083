@@ -1,3 +1,0 @@
-
-Data fusion of biplane angiography and intravascular ultrasound (IVUS) facilitates geometrically correct reconstruction of coronary vessels. The locations of IVUS frames along the catheter pullback trajectory can be identified, however the IVUS image orientations remain ambiguous. An automated approach to determination of correct IVUS image orientation in three-dimensional space is reported. Analytical calculation of the catheter twist is followed by statistical optimization determining the absolute IVUS image orientation. The fusion method was applied to data acquired in patients undergoing routine coronary intervention, demonstrating the feasibility and good performance of our approach.
-

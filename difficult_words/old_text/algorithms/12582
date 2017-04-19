@@ -1,3 +1,0 @@
-
-There is a contradiction between image denoising and protection of the useful information in the image. To deal with this contradiction, we use the approach of mathematical morphology. In this paper, we expound the method and effectivity of mathmatical morphology in image processing. Based on it, an improved and fast image denoising algorithm is proposed and some experiments have been made to show that this algorithm is simple, effective and feasible.
-

@@ -1,3 +1,0 @@
-
-This paper describes an extension of the so-called Rush-Larsen scheme, which is a widely used numerical method for solving dynamic models of cardiac cell electrophysiology. The proposed method applies a local linearization of nonlinear terms in combination with the analytical solution of linear ordinary differential equations to obtain a second-order accurate numerical scheme. We compare the error and computational load of the second-order scheme to the original Rush-Larsen method and a second-order Runge-Kutta (RK) method. The numerical results indicate that the new method outperforms the original Rush-Larsen scheme for all the test cases. The comparison with the RK solver reveals that the new method is more efficient for stiff problems.
-

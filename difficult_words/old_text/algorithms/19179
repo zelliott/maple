@@ -1,3 +1,0 @@
-
-A model explaining behavioral "impulsivity" and "self-control" is proposed on the basis of the theory of reinforcement learning. The discount coefficient gamma, which in this theory accounts for the subjective reduction in the value of a delayed reinforcement, is identified with the overall level of dopaminergic neuron activity which, according to published data, also determines the behavioral variant. Computer modeling showed that high values of gamma are characteristic of predominantly "self-controlled" subjects, while smaller values of gamma are characteristic of "impulsive" subjects.
-

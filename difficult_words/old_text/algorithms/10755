@@ -1,3 +1,0 @@
-
-Microchip MSP430F149 is used to control DAC to attain an amplification-controllable analog output of data of MIT-BIH Arrhythmia Database which is useful in testing medical machines. Data are written into Smart Media (SM) Card with Fat Format to make convenient the replacement of database.
-

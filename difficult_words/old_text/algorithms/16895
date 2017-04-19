@@ -1,9 +1,0 @@
-
-To develop and validate an algorithm to automatically quantify white matter hyperintensity (WMH) volume.
-
-Images acquired as part of the Dallas Heart Study, a multiethnic, population-based study of cardiovascular health, were used to develop and validate the algorithm. 3D magnetization prepared rapid acquisition gradient echo (MP-RAGE) and 2D fluid-attenuated inversion recovery (FLAIR) images were acquired from 2082 participants. Images from 161 participants (7.7% of the cohort) were used to set an intensity threshold to maximize the agreement between the algorithm and a qualitative rating made by a radiologist. The resulting algorithm was run on the entire cohort and outlier analyses were used to refine the WMH volume measurement. The refined, automatic WMH burden estimate was then compared to manual quantitative measurements of WMH volume in 28 participants distributed across the range of volumes seen in the entire cohort.
-
-The algorithm showed good agreement with the volumetric readings of a trained analyst: the Spearman's Rank Order Correlation coefficient was r = 0.87. Linear regression analysis showed a good correlation WMHml[automated] = 1.02 × WMHml[manual] - 0.48. Bland-Altman analysis showed a bias of 0.34 mL and a standard deviation of 2.8 mL over a range of 0.13 to 41 mL.
-
-We have developed an algorithm that automatically estimates the volume of WMH burden using an MP-RAGE and a FLAIR image. This provides a tool for evaluating the WMH burden of large populations to investigate the relationship between WMH burden and other health factors.
-

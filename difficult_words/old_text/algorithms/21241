@@ -1,3 +1,0 @@
-
-We demonstrate in vivo volumetric bidirectional blood flow imaging in animal models using single-pass flow imaging spectral domain optical coherence tomography. This technique uses a modified Hilbert transform algorithm to separate moving and non-moving scatterers within a depth. The resulting reconstructed image maps the components of moving scatterers flowing into and out of the imaging axis onto opposite image half-planes, enabling volumetric bidirectional flow mapping without manual segmentation.
-

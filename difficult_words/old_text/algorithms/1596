@@ -1,9 +1,0 @@
-
-The aim was to determine the agreement between absorbed dose measurements using the OneDosePlus and treatment planning system calculations in ideal circumstances, minimising patient-related uncertainties, before deciding upon action levels.
-
-A OneDose metal oxide semiconductor field-effect transistor (Sicel Technologies, Morrisville, NC) in vivo dosimetry system was subjected to a multistage evaluation that tested standard and non-standard field conditions related to treatment planning system calculations for an anthropomorphic phantom.
-
-The system was found to perform within manufacturer specifications. Batch uniformity was found to be within specification when measured using a method described by Halvorsen. A modification used to assess statistical distribution of response showed an increase in the value of two standard deviations (2 σ) from ± 2.3 to ± 2.9%, which was still within the manufacturer-stated value of ± 5%. The tests using the anthropomorphic phantom also emphasised the fact that patient density inhomogeneities in the region of the D(max) point will affect the dose calculated by the treatment planning system and delivered to the patient.
-
-The OneDose system does not account for these inhomogeneities, leading to dependence in the deviation between expected and reported dose on inhomogeneity and choice of calculation algorithm.
-

@@ -1,9 +1,0 @@
-
-A major challenge of systems biology is to infer biochemical interactions from large-scale observations, such as transcriptomics, proteomics and metabolomics. We propose to use a partial correlation analysis to construct approximate Undirected Dependency Graphs from such large-scale biochemical data. This approach enables a distinction between direct and indirect interactions of biochemical compounds, thereby inferring the underlying network topology.
-
-The method is first thoroughly evaluated with a large set of simulated data. Results indicate that the approach has good statistical power and a low False Discovery Rate even in the presence of noise in the data. We then applied the method to an existing data set of yeast gene expression. Several small gene networks were inferred and found to contain genes known to be collectively involved in particular biochemical processes. In some of these networks there are also uncharacterized ORFs present, which lead to hypotheses about their functions.
-
-Programs running in MS-Windows and Linux for applying zeroth, first, second and third order partial correlation analysis can be downloaded at: http://mendes.vbi.vt.edu/tiki-index.php?page=Software.
-
-Supplementary information can be found at: URL to be decided.
-

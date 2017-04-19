@@ -1,7 +1,0 @@
-
-The optimization of the primer design is critical for the development of high-throughput SNP genotyping methods. Recently developed statistical models of the SNP-IT primer extension genotyping reaction allow further improvement of primer quality for the assay.
-
-Here we describe how the statistical models can be used to improve primer design for the assay. We also show how to optimize clustering of the SNP markers into multiplex panels using statistical model for multiplex SNP-IT. The primer set failure probability calculated by a model is used as a minimization function for both primer selection and primers clustering. Three clustering algorithms for the multiplex genotyping SNP-IT assay are described and their relative performance is evaluated. We also describe the approaches to improve the speed of primer design and clustering calculations when using the statistical models. Our clustering decreases the average failure probability of the marker set by 7-25%. The experimental marker failure rate in the multiplex reaction was reduced dramatically and success rate can be achieved as high as 96%.
-
-The primer design using statistical models is freely available from www.autoprimer.com.
-

@@ -1,9 +1,0 @@
-
-Interpreting the molecular interactions in Chinese herbal medicine will help to understand the molecular mechanisms of Traditional Chinese medicines (TCM) and predict the new pharmacological effects of TCM. Yet, we still lack a method which could integrate the concerned pieces of parsed knowledge about TCM.
-
-To solve the problem, a new method named TCM grammar systems was proposed in the present article. The possibility to study the interactions of TCM at the molecular level using TCM grammar systems was explored using Herba Ephedrae Decoction (HED) as an example.
-
-A platform was established based on the formalism of TCM grammar systems. The related molecular network of Herba Ephedrae Decoction (HED) can be extracted automatically. The molecular network indicates that Beta2 adrenergic receptor, Glucocorticoid receptor and Interleukin12 are the relatively important targets for the anti-anaphylaxis asthma function of HED. Moreover, the anti-anaphylaxis asthma function of HED is also related with suppressing inflammation process. The results show the feasibility using TCM grammar systems to interpret the molecular mechanism of TCM. Although the results obtained depend on the database absolutely, recombination of existing knowledge in this method provides new insight for interpreting the molecular mechanism of TCM.
-
-TCM grammar systems could aid the interpretation of the molecular interactions in TCM to some extent. Moreover, it might be useful to predict the new pharmacological effects of TCM. The method is an in silico technology. In association with the experimental techniques, this method will play an important role in the understanding of the molecular mechanisms of TCM.
-

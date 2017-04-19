@@ -1,3 +1,0 @@
-
-We present a new smooth amplitude-modulated (SAM) method that allows to observe highly resolved 1H spectra in solid-state NMR. The method, which works mainly at fast or ultra-fast MAS speed (nu(R)>25 kHz) is complementary to previous methods, such as DUMBO, FSLG/PMLG or symmetry-based sequences. The method is very robust and efficient and does not present line-shape distortions or fake peaks. The main limitation of the method is that it requires a modern console with fast electronics that must be able to define the cosine line-shape in a smooth way, without any transient. However, this limitation mainly occurs at ultra-fast MAS where the rotation period is very short.
-

@@ -1,3 +1,0 @@
-
-In this paper, a G(1), C(1), C(2) PH-spline is employed as an approximation for a given Bézier curve within error bound and further renders offset which can be regarded as an approximate offset to the Bézier curve. The errors between PH-spline and the Bézier curve, the offset to PH-spline and the offset to the given Bézier curve are also estimated. A new algorithm for constructing offset to the Bézier curve is proposed.
-

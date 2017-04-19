@@ -1,3 +1,0 @@
-
-This paper extends the classical linear mixed model by considering a multivariate skew-normal assumption for the distribution of random effects. We present an efficient hybrid ECME-NR algorithm for the computation of maximum-likelihood estimates of parameters. A score test statistic for testing the existence of skewness preference among random effects is developed. The technique for the prediction of future responses under this model is also investigated. The methodology is illustrated through an application to Framingham cholesterol data and a simulation study.
-

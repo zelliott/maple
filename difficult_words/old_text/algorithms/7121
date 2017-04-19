@@ -1,3 +1,0 @@
-
-PicXAA is a probabilistic nonprogressive alignment algorithm that finds protein (or DNA) multiple sequence alignments with maximum expected accuracy. PicXAA greedily builds up the alignment from sequence regions with high local similarity, thereby yielding an accurate global alignment that effectively captures the local similarities across sequences. PicXAA constantly yields accurate alignment results on a wide range of reference sets that have different characteristics, with especially remarkable improvements over other leading algorithms on sequence sets with high local similarities. In this chapter, we describe the overall alignment strategy used in PicXAA and discuss several important considerations for effective deployment of the algorithm.
-

@@ -1,9 +1,0 @@
-
-To develop a method for identifying the beginning and ending records of pregnancies in the automated medical records of the General Practice Research Database (GPRD).
-
-Women's records from 1991 to 1999 were searched for codes from 17 pregnancy marker and 7 pregnancy outcome categories. Using the retrieved records, all possible pregnancy marker-outcome combinations were formed per woman. For each combination, the difference in days between record event dates was calculated. Restrictions were applied to select the combination with the earliest pregnancy marker mapped to the first outcome for each pregnancy. Iterations of the algorithm identified multiple pregnancies per woman when present. The algorithm was evaluated by analyzing time between marker and outcome event dates of mapped pregnancies and by analyzing unmapped pregnancy markers and outcomes.
-
-A total of 297,082 pregnancies were identified: 80% by general practitioner (GP) visit codes as the earliest pregnancy marker and 14% by laboratory or procedure codes. Limiting pregnancies to one per woman aged 15-44 years yielded 209,266 pregnancies. Pregnancy mapping success was greater than 80%. Plotting the pregnancies by weeks from earliest pregnancy marker to outcome and by pregnancy marker category showed two peaks in the distribution: 2-3 weeks and 33 weeks.
-
-Arranging codes and time into algorithms provides a useful tool for pregnancy identification in databases whose size prohibits the audit of printed records. Evaluation of our algorithm confirmed a high degree of mapping success and a sensible time distribution from pregnancy marker to outcome.
-

@@ -1,9 +1,0 @@
-
-Whole-heart 3-dimensional (3D) late-gadolinium-enhanced magnetic resonance (MR) imaging (WH-LGE) uses respiratory gating combined with acquisition of 3D data for the entire heart in a single scan, which permits reconstruction of any plane with high resolution. We investigated the optimal scan parameters and compared WH-LGE with the conventional scanning method.
-
-We employed inversion recovery 3D fast field echo using a 1.5-tesla system and scan parameters: repetition time (TR), 6.6 ms; echo time (TE), 2.5 ms; number of segments, 2; parallel imaging factor, 1.8; matrix size, 128 × 256; field of view (FOV), 320 × 320 mm; and acquisition slice thickness, 3 mm (reconstruction slice thickness, 1.5 mm). Five healthy volunteers underwent scanning during free breathing with real-time motion correction, from which we determined optimal scan parameters. We then used those parameters to scan 25 patients with myocardial infarction to compare scan time and image quality between the WH-LGE and conventional 3D breath-holding methods (slice thickness, 10 mm; matrix size, 128 × 256).
-
-Results in volunteers showed optimal scan parameters of 12° flip angle, fat suppression turned off in combination, and interleaved ordering. In clinical cases, scan times did not differ significantly. Sharpness of the margins of normal myocardium at the apex of the heart and contrast between enhanced and nonenhanced myocardium improved significantly with WH-LGE.
-
-WH-LGE yields high resolution images during free breathing and is considered useful for accurately estimating the area and transmural extent of myocardial infarction.
-

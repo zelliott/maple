@@ -1,3 +1,0 @@
-
-This paper presents a new method for tumor classification using gene expression data. In the proposed method, we first select genes using nonnegative matrix factorization (NMF) or sparse NMF (SNMF), and then we extract features from the selected genes by virtue of NMF or SNMF. At last, we apply support vector machines (SVM) to classify the tumor samples using the extracted features. In order for a better classification, a modified SNMF algorithm is also proposed. The experimental results on benchmark three microarray data sets validate that the proposed method is efficient. Moreover, the biological meaning of the selected genes are also analyzed.
-

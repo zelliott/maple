@@ -1,3 +1,0 @@
-
-In this study, we develop a two-class classification system based on a committee of k-Nearest Neighbour (kNN) classifiers. The system includes a sequence of simple data preprocessing steps. Each committee consists of 5 kNN classifiers of different architectures. Each classifier on the committee takes in a different set of features. The classification system is then applied to a set of microarray gene expression profiles from leukaemia patients. We show that the system can be effectively used for classifying microarray gene expression data. The results demonstrate the committee approach consistently outperforms individual kNN classifiers in terms of both classification accuracy and stability.
-

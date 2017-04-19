@@ -1,3 +1,0 @@
-
-This paper recommend a biometric color images hiding approach An Watermarking System based on Discrete Cosine Transform (DCT), which is used to protect the security and integrity of transmitted biometric color images. Watermarking is a very important hiding information (audio, video, color image, gray image) technique. It is commonly used on digital objects together with the developing technology in the last few years. One of the common methods used for hiding information on image files is DCT method which used in the frequency domain. In this study, DCT methods in order to embed watermark data into face images, without corrupting their features.
-

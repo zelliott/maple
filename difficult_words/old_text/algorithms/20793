@@ -1,5 +1,0 @@
-
-For complex biological networks, graphical representations are highly desired for understanding some design principles, but few drawing methods are available that capture topological features of a large and highly heterogeneous network, such as a protein interaction network. Here we propose the circular perspective drawing (CPD) method to visualize global structures of large complex networks. The presented CPD combines the quasi-continuous search (QCS) analogous to the steepest descent method with a random node swapping strategy for an enhanced calculation speed. The CPD depicts a network in an aesthetic manner by showing connection patterns between different parts of the network instead of detailed links between nodes. Global structural features of networks exhibited by CPD provide clues toward a comprehensive understanding of the network organizations.
-
-Software is freely available at http://www.cadlive.jp.
-

@@ -1,5 +1,0 @@
-
-THESIAS (Testing Haplotype EffectS In Association Studies) is a popular software for carrying haplotype association analysis in unrelated individuals. In addition to the command line interface, a graphical JAVA interface is now proposed allowing one to run THESIAS in a user-friendly manner. Besides, new functionalities have been added to THESIAS including the possibility to analyze polychotomous phenotype and X-linked polymorphisms.
-
-The software package including documentation and example data files is freely available at http://genecanvas.ecgene.net. The source codes are also available upon request.
-

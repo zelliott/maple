@@ -1,9 +1,0 @@
-
-To describe a fuzzy logic controller that adjust alfentanil infusion during surgery based on changes in mean arterial pressure (MAP) and heart rate (HR).
-
-We designed a fuzzy logic controller using if ... then ... conditions written in C language, to be executed by a 486 PC with a 66 Mhz CPU. The controller was used with eight ASA I-II patients undergoing gynecological surgery under anesthesia with propofol, alfentanil and ventilated with oxygen/air. MAP and HR were input every three minutes, after which the controller generated an infusion based on those figures. We performed a statistical study of alfentanil consumption time until extubation and time of hemodynamic stability. Relative error of MAP was calculated.
-
-The controller was used for a total of 373 min with the eight patients. MAP was 15% below the desired level for 2.14% (18 min) of that time and was 15% over the desired level for 5.6% (21 min) of the time. MAP held steady within the range of stability for the remaining 92.26% (334 min) of the time the controller was used. The relative error of MAP was 7.8 +/- 1.5%. Mean time until extubation was 7 min and 2 s.
-
-We believe the controller can be used to automate taks executed by experts. The controller was useful for stabilizing HR and MAP.
-

@@ -1,9 +1,0 @@
-
-The Nottingham Hip Fracture Score (NHFS) was developed and validated in a single centre in 2007 as a predictor of 30 day mortality. It has subsequently been shown to predict longer term and functional outcomes. We wished to assess the ability of NHFS to predict outcomes in other centres and to investigate the change in outcome after hip fracture over time.
-
-The NHFS was calculated for all patients with data from three UK hip fracture units: Peterborough (1992-2009), Brighton (2008-9), and Nottingham (2000-9) including 4804, 585, and 1901 patients, respectively. The logistic regression was used to recalibrate the NHFS to 30 day mortality across the three units using a random selection of 50% of the data set. Calibration was assessed using the Hosmer-Lemeshow goodness of fit.
-
-The median (inter-quartile range) NHFS values were Peterborough [4.0 (1-6)], Brighton [5.0 (3-7)], and Nottingham [5.0 (3-7)]. There was no correlation between 30 day mortality and time (R(2)=0.05, P=0.115). The proportion of patients with NHFS ≥ 4 showed a weak correlation with time (R(2)=0.2, P=0.003). The original NHFS equation overestimates mortality in the higher-risk groups. A modified equation shows good calibration for all three centres {30 day mortality (%)=100/1+e([(5.012 × (NHFS × 0.481)])}. The hospital was not a predictor of 30 day mortality.
-
-The NHFS, with an updated equation, is a robust predictor of 30 day mortality after hip fracture repair in geographically distinct UK centres.
-

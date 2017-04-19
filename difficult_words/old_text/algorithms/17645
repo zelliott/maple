@@ -1,3 +1,0 @@
-
-The article presents an algorithm for calculation of flip angles in multiecho experiments to generate echoes with predefined amplitudes based on the extended phase graph algorithm. The algorithm can be used to optimize the echo envelope and thus the point spread function (PSF) in hyperecho and TRAPS (transition into the pseudosteady state) experiments while minimizing the total RF power. Implementations at 3 T using echo trains with Gaussian and Lorentzian PSF demonstrate a reduction in RF power by a factor of 3-5 while maintaining high image quality.
-

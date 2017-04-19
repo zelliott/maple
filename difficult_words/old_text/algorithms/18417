@@ -1,3 +1,0 @@
-
-The Metropolis-Hastings algorithm used in analyses that estimate the number of QTL segregating in a mapping population requires the calculation of an acceptance probability to add or drop a QTL from the model. Expressions for this acceptance probability need to recognize that sets of QTL are unordered such that the number of equivalent sets increases with the factorial of the QTL number. Here, we show how accounting for this fact affects the acceptance probability and review expressions found in the literature.
-

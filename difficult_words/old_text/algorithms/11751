@@ -1,3 +1,0 @@
-
-Location monitoring systems for surgical applications are getting more and more common in clinical daily life. Navigation treatment systems are also a form of a location monitoring system. These systems always consist of an optical, US-, electromagnetic or mechanical navigation system. If two or more navigation systems are combined or one navigations system is combined with a robot system the kinematic model of the entire system consists of closed kinematic loops. In this paper, an approach is presented to gain more information from the closed kinematic chains instead of breaking the kinematic loops. This is the second part of [1].
-

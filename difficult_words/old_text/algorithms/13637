@@ -1,9 +1,0 @@
-
-The growing population of elderly people living alone increases the need for automatic healthcare monitoring systems for elderly care. Automatic vision sensor-based systems are increasingly used for human activity recognition (HAR) in recent years. This study presents an improved model, tested using actors, of a sensor-based HAR system to recognize daily life activities of elderly people at home and generate an alert in case of abnormal HAR.
-
-Datasets consisting of six abnormal activities (falling backward, falling forward, falling rightward, falling leftward, chest pain, and fainting) and four normal activities (walking, rushing, sitting down, and standing up) are generated from different view angles (90°, -90°, 45°, -45°). Feature extraction and dimensions reduction are performed by R-transform followed by generalized discriminant analysis (GDA) methods. R-transform extracts symmetric, scale, and translation-invariant features from the sequences of activities. GDA increases the discrimination between different classes of highly similar activities. Silhouette sequences are quantified by the Linde-Buzo-Gray algorithm and recognized by hidden conditional random fields.
-
-Experimental results provide an average recognition rate of 94.2% for abnormal activities and 92.7% for normal activities.
-
-The recognition rate for the highly similar activities from different view angles shows the flexibility and efficacy of the proposed abnormal HAR and alert generation system for elderly care.
-

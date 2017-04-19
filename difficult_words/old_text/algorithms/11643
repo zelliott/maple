@@ -1,5 +1,0 @@
-
-At a recent meeting, the wavelet transform was depicted as a small child kicking back at its father, the Fourier transform. Wavelets are more efficient and faster than Fourier methods in capturing the essence of data. Nowadays there is a growing interest in using wavelets in the analysis of biological sequences and molecular biology-related signals.
-
-This review is intended to summarize the potential of state of the art wavelets, and in particular wavelet statistical methodology, in different areas of molecular biology: genome sequence, protein structure and microarray data analysis. I conclude by discussing the use of wavelets in modeling biological structures.
-

@@ -1,9 +1,0 @@
-
-Nowadays, more and more clinical scales consisting in responses given by the patients to some items (Patient Reported Outcomes - PRO), are validated with models based on Item Response Theory, and more specifically, with a Rasch model. In the validation sample, presence of missing data is frequent. The aim of this paper is to compare sixteen methods for handling the missing data (mainly based on simple imputation) in the context of psychometric validation of PRO by a Rasch model. The main indexes used for validation by a Rasch model are compared.
-
-A simulation study was performed allowing to consider several cases, notably the possibility for the missing values to be informative or not and the rate of missing data.
-
-Several imputations methods produce bias on psychometrical indexes (generally, the imputation methods artificially improve the psychometric qualities of the scale). In particular, this is the case with the method based on the Personal Mean Score (PMS) which is the most commonly used imputation method in practice.
-
-Several imputation methods should be avoided, in particular PMS imputation. From a general point of view, it is important to use an imputation method that considers both the ability of the patient (measured for example by his/her score), and the difficulty of the item (measured for example by its rate of favourable responses). Another recommendation is to always consider the addition of a random process in the imputation method, because such a process allows reducing the bias. Last, the analysis realized without imputation of the missing data (available case analyses) is an interesting alternative to the simple imputation in this context.
-

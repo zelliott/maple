@@ -1,3 +1,0 @@
-
-A new technique of design and reconstruction of a color hologram is presented. The design is based on an iterative multi-plane optimization algorithm. It allows to encode three different images for a reconstruction at various distances measured from the hologram plane. The distances are calculated in order to obtain a fine color compound image when the hologram is illuminated by three laser beams of RGB colors. A single light phase modulator is used instead of three. The reconstructed red, green and blue component images remain in an exact match in size and position. The 2-D color image is reconstructed at a pre-assumed distance and its color pattern can be easily controlled by the choice of the three input component images.
-

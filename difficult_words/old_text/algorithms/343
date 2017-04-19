@@ -1,3 +1,0 @@
-
-In the conventional spatial formulation of the iterated prisoner's dilemma only the results generated in the last round are taken into account in deciding the next choice. Historic memory can be implemented by featuring players with a summary of their previous winnings and moves. The effect of memory as a mechanism of supporting cooperation versus spatial disorder is assessed when the players are allowed for continuous degree of cooperation, not the mere binary cooperation/defection disjunctive.
-

@@ -1,3 +1,0 @@
-
-Harrell's c-index or concordance C has been widely used as a measure of separation of two survival distributions. In the absence of censored data, the c-index estimates the Mann-Whitney parameter Pr(X>Y), which has been repeatedly utilized in various statistical contexts. In the presence of randomly censored data, the c-index no longer estimates Pr(X>Y); rather, a parameter that involves the underlying censoring distributions. This is in contrast to Efron's maximum likelihood estimator of the Mann-Whitney parameter, which is recommended in the setting of random censorship.
-

@@ -1,9 +1,0 @@
-
-Structural studies of metabolic networks yield deeper insight into topology, functionality and capabilities of the metabolisms of different organisms. Here, we address the analysis of potential failure modes in metabolic networks whose occurrence will render the network structurally incapable of performing certain functions. Such studies will help to identify crucial parts in the network structure and to find suitable targets for repressing undesired metabolic functions.
-
-We introduce the concept of minimal cut sets for biochemical networks. A minimal cut set (MCS) is a minimal (irreducible) set of reactions in the network whose inactivation will definitely lead to a failure in certain network functions. We present an algorithm which enables the computation of the MCSs in a given network related to user-defined objective reactions. This algorithm operates on elementary modes. A number of potential applications are outlined, including network verifications, phenotype predictions, assessing structural robustness and fragility, metabolic flux analysis and target identification in drug discovery. Applications are illustrated by the MCSs in the central metabolism of Escherichia coli for growth on different substrates.
-
-Computation and analysis of MCSs is an additional feature of the FluxAnalyzer (freely available for academic users upon request, special contracts for industrial companies; see web page below).
-
-http://www.mpi-magdeburg.mpg.de/projects/fluxanalyzer
-

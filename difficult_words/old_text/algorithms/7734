@@ -1,3 +1,0 @@
-
-A simple, efficient algorithm is presented for the transformation of dendritic trees to binary tree representations. The binary tree form significantly reduces traversal time, simplifies software for tree analysis and yields compact storage of the neuronal trees. These algorithms are easy to program and are useful in quantitative neuroanatomical studies.
-

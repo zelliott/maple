@@ -1,3 +1,0 @@
-
-Hybridization of a large panel of oligonucleotides to a target DNA could be used to determine the sequence of that target. The inherent ambiguity of the reconstruction limits the length of DNA that can be sequenced by such an approach. Here I show that constraining the reconstruction by assuming that the target DNA contains an open reading frame allows longer DNAs to be sequenced. In the case of ideal hybridization using mixed 11-mer probes, the amount of DNA that can be sequenced is extended from 700 bases to 2400 bases. This is sufficient to sequence substantial portions of most cDNA clones, and suggests that oligonucleotide hybridization could be a practical method of generating large amounts of sequence data from cDNA libraries.
-

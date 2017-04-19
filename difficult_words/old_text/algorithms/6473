@@ -1,3 +1,0 @@
-
-A method for commissioning an EGSnrc Monte Carlo simulation of medical linac photon beams through wide-field lateral profiles at moderate depth in a water phantom is presented. Although depth-dose profiles are commonly used for nominal energy determination, our study shows that they are quite insensitive to energy changes below 0.3 MeV (0.6 MeV) for a 6 MV (15 MV) photon beam. Also, the depth-dose profile dependence on beam radius adds an additional uncertainty in their use for tuning nominal energy. Simulated 40 cm x 40 cm lateral profiles at 5 cm depth in a water phantom show greater sensitivity to both nominal energy and radius. Beam parameters could be determined by comparing only these curves with measured data.
-

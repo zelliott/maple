@@ -1,9 +1,0 @@
-
-We assessed what MR imaging parameters affected ringing artifacts during the arterial phase of gadoxetic acid-enhanced dynamic magnetic resonance (MR) imaging.
-
-We tested various parameters, including imaging matrices, choice of either sequential or elliptical centric phase-encoding scheme, scanning time, and contrast injection rate using new simulation software on a personal computer and visually evaluated clinical MR images retrospectively using a 4-point scale to assess ringing artifacts.
-
-The simulation study revealed that square matrices, short scanning time, slow injection rate, and sequential view ordering effectively reduced ringing artifacts, findings confirmed in clinical practice using gadoxetic acid-enhanced MR imaging. Significantly fewer artifacts resulted using a slow injection rate (P<0.05) and using square matrices in the arterial (P<0.05), portal (P<0.01), and hepatocytic (P<0.05) phases.
-
-Choice of square matrix, slower injection rate, shorter scanning time, and sequential view ordering could reduce ringing artifacts.
-

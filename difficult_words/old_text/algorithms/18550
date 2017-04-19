@@ -1,3 +1,0 @@
-
-We consider modeling and Bayesian analysis for panel-count data when the termination time for each subject may depend on its history of the recurrent events. We propose a fully specified semiparametric model for the joint distribution of the recurrent events and the termination time. For this model, we provide a natural motivation, derive several novel properties, and develop a Bayesian analysis based on a Markov chain Monte Carlo algorithm. Comparisons are made to other existing models and methods for panel-count data. We demonstrate the usefulness of our new models and methodologies through the reanalysis of a data set from a clinical trial.
-

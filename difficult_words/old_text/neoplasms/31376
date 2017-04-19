@@ -1,3 +1,0 @@
-
-The MABDOSE software represents a general tool to perform internal radiation dosimetry. It uses a three-dimensional lattice in which to conduct radiation transport, scoring energy deposition in discrete voxels. The dosimetry system currently relies on the same algorithm used by the MIRD committee for photon transport, and assumes local deposition of particulate energy. A mathematical description of the dosimetry system's implementation is given. Additionally, a characterization of the system with respect to memory requirements, data libraries used, and simulation timing benchmarks, is presented. Validation of the software is presented in a companion manuscript.
-

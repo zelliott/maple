@@ -1,3 +1,0 @@
-
-In electron tomography of biological specimens, fiducial markers are normally used to achieve accurate alignment of the input projections. We address the problem of alignment of projections from objects that are freely supported and do not permit the use of markers. To this end we present a new alignment algorithm for single-axis tilt geometry based on the principle of Fourier-space common lines. An iterative scheme has been developed to overcome the noise-sensitivity of the common-line method. This algorithm was used to align a data set that was not amenable to alignment with fiducial markers.
-

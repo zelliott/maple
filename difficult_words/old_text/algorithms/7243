@@ -1,3 +1,0 @@
-
-A new synchrony index for neural activity is defined in this paper. The method is able to measure synchrony dynamics in low firing rate scenarios. It is based on the computation of the time intervals between nearest spikes of two given spike trains. Generalized additive models are proposed for the synchrony profiles obtained by this method. Two hypothesis tests are proposed to assess for differences in the level of synchronization in a real data example. Bootstrap methods are used to calibrate the distribution of the tests. Also, the expected synchrony due to chance is computed analytically and by simulation to assess for actual synchronization.
-

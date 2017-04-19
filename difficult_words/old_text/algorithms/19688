@@ -1,3 +1,0 @@
-
-A new lattice disentangling monitoring algorithm for a hybrid self-organizing map-kernel-based maximum entropy learning rule (SOM-kMER) model is proposed. It aims to overcome topological defects owing to a rapid decrease of the neighborhood range over the finite running time in topographic map formation. The empirical results demonstrate that the proposed approach is able to accelerate the formation of a topographic map and, at the same time, to simplify the monitoring procedure.
-

@@ -1,9 +1,0 @@
-
-Insulin secreted by pancreatic islet β-cells is the principal regulating hormone of glucose metabolism and plays a key role in controlling glucose level in blood. Impairment of the pancreatic islet function may cause glucose to accumulate in blood, and result in diabetes mellitus. Recent studies have shown that mitochondrial dysfunction has a strong negative effect on insulin secretion.
-
-In order to study the cause of dysfunction of pancreatic islets, a multiple cell model containing healthy and unhealthy cells is proposed based on an existing single cell model. A parameter that represents the function of mitochondria is modified for unhealthy cells. A 3-D hexagonal lattice structure is used to model the spatial differences among β-cells in a pancreatic islet. The β-cells in the model are connected through direct electrical connections between neighboring β-cells.
-
-The simulation results show that the low ratio of total mitochondrial volume over cytoplasm volume per β-cell is a main reason that causes some mitochondria to lose their function. The results also show that the overall insulin secretion will be seriously disrupted when more than 15% of the β-cells in pancreatic islets become unhealthy.
-
-Analysis of the model shows that the insulin secretion can be reinstated by increasing the glucokinase level. This new discovery sheds light on antidiabetic medication.
-

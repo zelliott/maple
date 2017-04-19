@@ -1,3 +1,0 @@
-
-Computer-generated holograms (CGHs) are usually displayed on electronic devices. However, the resolution of current output devices is not high enough to display CGHs, so the visual field is very narrow. A method using a Fourier transform optical system has been proposed, to enlarge the size of reconstructed images. This paper describes a method of CGH calculations for the Fourier transform optical system to enlarge the visual field and reconstruct realistic images by using the ray tracing method. This method reconstructs images at arbitrary depths and also eliminates unnecessary light including zero-th order light.
-

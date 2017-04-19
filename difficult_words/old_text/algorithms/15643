@@ -1,3 +1,0 @@
-
-Novel single-molecule fluorescence experimental techniques have prompted a growing need to develop refined computational models of dye-tagged biomolecules. As a necessary first step towards useful molecular simulations of fluorescence-labeled biomolecules, we have derived a force field for the commonly used dye, rhodamine 6G (R6G). A novel automated method is used that includes fitting the molecular mechanics potential to both vibrational frequencies and eigenvector projections derived from quantum chemical calculations. The method is benchmarked on a series of aromatic molecules then applied to derive new parameters for R6G. The force field derived reproduces well the crystal structure of R6G.
-

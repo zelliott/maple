@@ -1,5 +1,0 @@
-
-The accurate placement of side chains in computational protein modeling and design involves the searching of vast numbers of rotamer combinations.
-
-We have applied the information contained within structurally aligned homologous families, in the form of conserved chi angle conservation rules, to the problem of the comparative modeling. This allows the accurate borrowing of entire side-chain conformations and/or the restriction to high probability rotamer bins. The application of these rules consistently reduces the number of rotamer combinations that need to be searched to trivial values and also reduces the overall side-chain root mean square deviation (rmsd) of the final model. The approach is complementary to current side-chain placement algorithms that use the decomposition of interacting clusters to increase the speed of the placement process.
-

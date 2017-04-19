@@ -1,9 +1,0 @@
-
-Our objective was to build a mechanism-based pharmacodynamic model for the time course of neutropenia in cancer patients following paclitaxel treatment with a tocopherol-based Cremophor-free formulation (Tocosol Paclitaxel) and Cremophor EL-formulated paclitaxel (Taxol).
-
-A randomized two-way crossover trial was performed with 35 adult patients who received 175 mg/m(2) paclitaxel as either 15 min (Tocosol Paclitaxel) or 3 h (Taxol) intravenous infusions. Paclitaxel concentrations were measured by LC-MS/MS. NONMEM VI was used for population pharmacodynamics.
-
-The cytotoxic effect on neutrophils was described by four mechanism-based models predicated on known properties of paclitaxel that used unbound concentrations in the central, deep peripheral or an intracellular compartment as forcing functions. Tocosol Paclitaxel was estimated to release 9.8% of the dose directly into the deep peripheral compartment (DPC). All models provided reasonable fitting of neutropenic effects. The model with the best predictive performance assumed that this dose fraction was released into 22.5% of the DPC which included the site of toxicity. The second-order cytotoxic rate constant was 0.00211 mL/ng per hour (variability: 52% CV). The relative exposure at the site of toxicity was 2.21 +/- 0.41 times (average +/- SD) larger for Tocosol Paclitaxel compared to Taxol. Lifespan was 11.0 days for progenitor cells, 1.95 days for maturating cells, and 4.38 days for neutrophils. Total drug exposure in blood explained half of the variance in nadir to baseline neutrophil count ratio.
-
-The relative exposure of unbound paclitaxel at the site of toxicity was twice as large for Tocosol Paclitaxel compared to Taxol. The proposed mechanism-based models explained the extent and time course of neutropenia jointly for both formulations.
-

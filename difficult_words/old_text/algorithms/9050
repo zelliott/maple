@@ -1,9 +1,0 @@
-
-To investigate the feasibility of combining GESFIDE with PROPELLER sampling approaches for simultaneous abdominal R2 and R2* mapping.
-
-R2 and R2* measurements were performed in 9 healthy volunteers and phantoms using the GESFIDE-PROPELLER and the conventional Cartesian-sampling GESFIDE approaches.
-
-Images acquired with the GESFIDE-PROPELLER sequence effectively mitigated the respiratory motion artifacts, which were clearly evident in the images acquired using the conventional GESFIDE approach. There was no significant difference between GESFIDE-PROPELLER and reference MGRE R2* measurements (p=0.162) whereas the Cartesian-sampling based GESFIDE methods significantly overestimated R2* values compared to MGRE measurements (p<0.001).
-
-The GESFIDE-PROPELLER sequence provided high quality images and accurate abdominal R2 and R2* maps while avoiding the motion artifacts common to the conventional Cartesian-sampling GESFIDE approaches.
-

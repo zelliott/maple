@@ -1,3 +1,0 @@
-
-An algorithm using the graph theoretical approach to predict secondary structures of large nucleic acids is discussed. Reliability of prediction can be improved by incorporating available experimental data and sequence homology information. As a case study, this algorithm is applied to predict the secondary structure of the 16S-23S rRNA complex from E. coli. It was found that several structures of the complex can coexist. The computer program developed to predict the secondary structure of large RNAs can be run on IBM PC/AT compatible systems.
-

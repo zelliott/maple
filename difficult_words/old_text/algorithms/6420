@@ -1,3 +1,0 @@
-
-The increasing use of cDNA microarrays necessitates the development of methods for extracting quality data. Here, we set forth hurdles to overcome in image analysis of microarrays. We emphasize the importance of objective data extraction methods resulting in reliable signal estimates. Based on statistical principles, we describe a method for automated grid alignment, spot detection, background estimation, flagging, and signal extraction. A software application that we call SignalViewer has been implemented for this method. We identify areas where we improved upon current methods used for array image analysis at each step in the process. Finally, we give examples to illustrate the performance of our algorithms on raw data.
-

@@ -1,3 +1,0 @@
-
-We investigate dependencies between cancer morbidity and associated diseases. A statistical method that yields blocks of diseases with most significant influence on the cancer morbidity is described. Based on USA data about cause-specific mortality we select diseases which have maximum differences between distributions of associated diseases in a group of people which had cancer or died from it and a group of people which didn't have cancer. A medical interpretation of the results is discussed.
-

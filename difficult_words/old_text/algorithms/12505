@@ -1,7 +1,0 @@
-
-As part of the ENCODE Genome Annotation Assessment Project (EGASP), we developed the MARS extension to the Twinscan algorithm. MARS is designed to find human alternatively spliced transcripts that are conserved in only one or a limited number of extant species. MARS is able to use an arbitrary number of informant sequences and predicts a number of alternative transcripts at each gene locus.
-
-MARS uses the mouse, rat, dog, opossum, chicken, and frog genome sequences as pairwise informant sources for Twinscan and combines the resulting transcript predictions into genes based on coding (CDS) region overlap. Based on the EGASP assessment, MARS is one of the more accurate dual-genome prediction programs. Compared to the GENCODE annotation, we find that predictive sensitivity increases, while specificity decreases, as more informant species are used. MARS correctly predicts alternatively spliced transcripts for 11 of the 236 multi-exon GENCODE genes that are alternatively spliced in the coding region of their transcripts. For these genes a total of 24 correct transcripts are predicted.
-
-The MARS algorithm is able to predict alternatively spliced transcripts without the use of expressed sequence information, although the number of loci in which multiple predicted transcripts match multiple alternatively spliced transcripts in the GENCODE annotation is relatively small.
-

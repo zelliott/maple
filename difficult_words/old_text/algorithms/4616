@@ -1,3 +1,0 @@
-
-Nonlinear diffusion has been successfully employed over the past two decades to enhance images by reducing undesirable intensity variability within the objects in the image, while enhancing the contrast of the boundaries (edges) in scalar and, more recently, in vector-valued images, such as color, multispectral, and hyperspectral imagery. In this paper, we show that nonlinear diffusion can improve the classification accuracy of hyperspectral imagery by reducing the spatial and spectral variability of the image, while preserving the boundaries of the objects. We also show that semi-implicit schemes can speedup significantly the evolution of the nonlinear diffusion equation with respect to traditional explicit schemes.
-

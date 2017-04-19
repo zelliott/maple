@@ -1,9 +1,0 @@
-
-Gene identification by nonsense-mediated mRNA decay inhibition (GINI) has proven its usefulness in identifying mutant genes in cancer cell lines. An increase in transcription in response to NMD inhibition of a subset of genes is a major cause of false positives when genes are selected for sequencing analysis. To distinguish between mRNA accumulations caused by stress response-induced transcription and nonsense-containing mRNA stabilizations is a challenge in identifying mutant genes using GINI.
-
-To identify potential tumor-suppressor genes mutated in prostate cancer cell lines, we applied a version of GINI that involves inhibition of NMD in two steps. In the first step, NMD is inhibited in duplicate tissue-culture plates. During this step, both the substrate for NMD and stress-response mRNA transcripts are accumulated in cells. In the second step, transcription is inhibited in both plates and NMD is inhibited in one plate and released in the second plate. Microarray analysis of gene-expression profiles in both plates after the second step detects only the differences in mRNA degradation but not in mRNA accumulation.
-
-Analyzing gene expression profile alterations in 22RV1 and LNCaP prostate cancer cells following NMD inhibition we selected candidates for sequencing analysis in both cell lines. Sequencing identified inactivating mutations in both alleles of the PARD3 and AS3 genes in the LNCaP and 22RV1 cells, respectively. Introduction of a wild-type PARD3 cDNA into the LNCaP cells resulted in a higher proliferation rate in tissue culture, a higher adhesion of LNCaP cells to the components of extracellular matrix and impaired the growth of the LNCaP cells in soft agar and in a three-dimensional cell-culture.
-
-The mutational inactivation in a prostate cancer cell line of the PARD3 gene involved in asymmetric cell division and maintenance of cell-polarity suggests that the loss of cell-polarity contributes to prostate carcinogenesis.
-

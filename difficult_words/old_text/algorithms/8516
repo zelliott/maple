@@ -1,3 +1,0 @@
-
-We introduce the spectral analysis of distributions (SAD), a method for detecting and evaluating possible periodicity in experimental data distributions (histograms) of arbitrary shape. SAD determines whether a given empirical distribution contains a periodic component. We also propose a system of probabilistic mixture distributions to model a histogram consisting of a smooth background together with peaks at periodic intervals, with each peak corresponding to a fixed number of subunits added together. This mixture distribution model allows us to estimate the parameters of the data and to test the statistical significance of the estimated peaks. The analysis is applied to the length distribution of eukaryotic enzymes.
-

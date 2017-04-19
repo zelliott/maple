@@ -1,3 +1,0 @@
-
-Recently, the stochastic approximation Monte Carlo algorithm has been proposed by Liang et al. (2007) as a general-purpose stochastic optimization and simulation algorithm. An annealing version of this algorithm was developed for real small protein folding problems. The numerical results indicate that it outperforms simulated annealing and conventional Monte Carlo algorithms as a stochastic optimization algorithm. We also propose one method for the use of secondary structures in protein folding. The predicted protein structures are rather close to the true structures.
-

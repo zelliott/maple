@@ -1,7 +1,0 @@
-
-Predicting protein residue-residue contacts is an important 2D prediction task. It is useful for ab initio structure prediction and understanding protein folding. In spite of steady progress over the past decade, contact prediction remains still largely unsolved.
-
-Here we develop a new contact map predictor (SVMcon) that uses support vector machines to predict medium- and long-range contacts. SVMcon integrates profiles, secondary structure, relative solvent accessibility, contact potentials, and other useful features. On the same test data set, SVMcon's accuracy is 4% higher than the latest version of the CMAPpro contact map predictor. SVMcon recently participated in the seventh edition of the Critical Assessment of Techniques for Protein Structure Prediction (CASP7) experiment and was evaluated along with seven other contact map predictors. SVMcon was ranked as one of the top predictors, yielding the second best coverage and accuracy for contacts with sequence separation > or = 12 on 13 de novo domains.
-
-We describe SVMcon, a new contact map predictor that uses SVMs and a large set of informative features. SVMcon yields good performance on medium- to long-range contact predictions and can be modularly incorporated into a structure prediction pipeline.
-

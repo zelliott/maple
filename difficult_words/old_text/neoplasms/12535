@@ -1,3 +1,0 @@
-
-We apply a full Bayesian model framework to a dataset on stomach cancer mortality in West Germany. The data are stratified by age group, year, and district. Using an age-period-cohort model with an additional spatial component, our goal is to investigate whether there is evidence for space-time interactions in these data. Furthermore, we will determine whether a period-space or a cohort-space interaction model is more appropriate to predict future mortality rates. The setup will be fully Bayesian based on a series of Gaussian Markov random field priors for each of the components. Statistical inference is based on efficient algorithms to block update Gaussian Markov random fields, which have recently been proposed in the literature.
-

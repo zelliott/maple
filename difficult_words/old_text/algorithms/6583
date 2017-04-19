@@ -1,7 +1,0 @@
-
-Microarray experiments are expected to contribute significantly to the progress in cancer treatment by enabling a precise and early diagnosis. They create a need for class prediction tools, which can deal with a large number of highly correlated input variables, perform feature selection and provide class probability estimates that serve as a quantification of the predictive uncertainty. A very promising solution is to combine the two ensemble schemes bagging and boosting to a novel algorithm called BagBoosting.
-
-When bagging is used as a module in boosting, the resulting classifier consistently improves the predictive performance and the probability estimates of both bagging and boosting on real and simulated gene expression data. This quasi-guaranteed improvement can be obtained by simply making a bigger computing effort. The advantageous predictive potential is also confirmed by comparing BagBoosting to several established class prediction tools for microarray data.
-
-Software for the modified boosting algorithms, for benchmark studies and for the simulation of microarray data are available as an R package under GNU public license at http://stat.ethz.ch/~dettling/bagboost.html.
-

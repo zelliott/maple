@@ -1,3 +1,0 @@
-
-Recent advances in biotechnology offer the ability to measure the levels of expression of thousands of genes in parallel. Analysis of such data can provide understanding and insight into gene function and regulatory mechanisms. Several machine learning approaches have been used to aid to understand the functions of genes. However, these tasks are made more difficult due to the noisy nature of array data and the overwhelming number of gene features. In this paper, we use the parallel genetic algorithm to filter out the informative genes relative to classification. By combing with the classification method proposed by Golub et al. and Slonim et al., we classify the data sets with tissues of different classes, and the preliminary results are presented in this paper.
-

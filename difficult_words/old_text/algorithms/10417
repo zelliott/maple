@@ -1,3 +1,0 @@
-
-Diffusion-weighted images of the human brain are acquired more and more routinely in clinical research settings, yet segmenting and labeling white matter tracts in these images is still challenging. We present in this paper a fully automated method to extract many anatomical tracts at once on diffusion tensor images, based on a Markov random field model and anatomical priors. The approach provides a direct voxel labeling, models explicitly fiber crossings and can handle white matter lesions. Experiments on simulations and repeatability studies show robustness to noise and reproducibility of the algorithm, which has been made publicly available.
-

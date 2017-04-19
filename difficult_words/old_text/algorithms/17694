@@ -1,3 +1,0 @@
-
-This article presents a practical implementation of an ECG compression algorithm using a Max-Lloyd quantizer, to optimize the low resources of an ECG acquisition and transmission system (telemetry system) for dolphins and human divers. The algorithm scheme is based on a first-order differential pulse code modulation (DPCM) and uses a Max-Lloyd quantizer to code the difference between the current and predicted samples. The use of the non-uniform quantizer instead of a uniform quantizer improves the percent root mean-square difference (PRD), thereby producing a low distortion in the reconstructed signals. Due to its low computational complexity, the compression process can be accomplished on-line during the ECG acquisition process.
-

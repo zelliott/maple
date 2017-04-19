@@ -1,9 +1,0 @@
-
-Rough set theory (RST) provides powerful methods for reduction of attributes and creation of decision rules, which have successfully been applied in numerous medical applications. The variable precision rough set model (VPRS model), an extension of the original rough set approach, tolerates some degree of misclassification of the training data. The basic idea of the VPRS model is to change the class information of those objects whose class information cannot be induced without contradiction from the available attributes. Thereafter, original methods of RST are applied. An approach of this model is presented that allows uncertain objects to change class information during the process of attribute reduction and rule generation. This method is referred to as variable precision rough set approach with flexible classification of uncertain objects (VPRS(FC) approach) and needs only slight modifications of the original VPRS model.
-
-To compare the VPRS model and VPRS(FC) approach both methods are applied to a clinical data set based on electroencephalogram of awake and anesthetized patients. For comparison, a second data set obtained from the UCI machine learning repository is used. It describes the shape of different vehicle types. Further well known feature selection methods were applied to both data sets to compare their results with the results provided by rough set based approaches.
-
-The VPRS(FC) approach requires higher computational effort, but is able to achieve better reduction of attributes for noisy or inconsistent data and provides smaller rule sets.
-
-The presented approach is a useful method for substantial attribute reduction in noisy and inconsistent data sets.
-

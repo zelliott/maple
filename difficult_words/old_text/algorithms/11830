@@ -1,3 +1,0 @@
-
-A software scheme is presented to extract the shapes of tibiae and fibulae from amputee computer tomography (CT) data for use in prosthetic finite element modeling. A snake algorithm is implemented to overcome challenges of bone-soft tissue edge detection common in this application. Means to enhance initial guess contours, ensure contour continuity, overcome point-clustering problems, and handle high-curvature regions are also described. Effectiveness of the algorithm is demonstrated on image data from a unilateral transtibial amputee subject.
-

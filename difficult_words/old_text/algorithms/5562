@@ -1,3 +1,0 @@
-
-The multistate perfect phylogeny problem is a classic problem in computational biology. When no perfect phylogeny exists, it is of interest to find a set of characters to remove in order to obtain a perfect phylogeny in the remaining data. This is known as the character removal problem. We show how to use chordal graphs and triangulations to solve the character removal problem for an arbitrary number of states, which was previously unsolved. We outline a preprocessing technique that speeds up the computation of the minimal separators of a graph. Minimal separators are used in our solution to the missing data character removal problem and to Gusfield's solution of the perfect phylogeny problem with missing data.
-

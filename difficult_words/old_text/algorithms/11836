@@ -1,3 +1,0 @@
-
-The Clustal programs are widely used for carrying out automatic multiple alignment of nucleotide or amino acid sequences. The most familiar version is ClustalW, which uses a simple text menu system that is portable to more or less all computer systems. ClustalX features a graphical user interface and some powerful graphical utilities for aiding the interpretation of alignments and is the preferred version for interactive usage. Users may run Clustal remotely from several sites using the Web or the programs may be downloaded and run locally on PCs, Macintosh, or Unix computers. The protocols in this unit discuss how to use ClustalX and ClustalW to construct an alignment, and create profile alignments by merging existing alignments.
-

@@ -1,3 +1,0 @@
-
-In this paper we introduce a new reconstruction algorithm for X-ray differential phase-contrast Imaging (DPCI). Our approach is based on 1) a variational formulation with a weighted data term and 2) a variable-splitting scheme that allows for fast convergence while reducing reconstruction artifacts. In order to improve the quality of the reconstruction we take advantage of higher-order total-variation regularization. In addition, the prior information on the support and positivity of the refractive index is considered, which yields significant improvement. We test our method in two reconstruction experiments involving real data; our results demonstrate its potential for in-vivo and medical imaging.
-

@@ -1,5 +1,0 @@
-
-PCP (Pattern Classification Program) is an open-source machine learning program for supervised classification of patterns (vectors of measurements). The principal use of PCP in bioinformatics is design and evaluation of classifiers for use in clinical diagnostic tests based on measurements of gene expression. PCP implements leading pattern classification and gene selection algorithms and incorporates cross-validation estimation of classifier performance. Importantly, the implementation integrates gene selection and class prediction stages, which is vital for computing reliable performance estimates in small-sample scenarios. Additionally, the program includes automated and efficient model selection (optimization of parameters) for support vector machine (SVM) classifier. The distribution includes Linux and Windows/Cygwin binaries. The program can easily be ported to other platforms.
-
-Free download at http://pcp.sourceforge.net
-

@@ -1,3 +1,0 @@
-
-ClusterDraw is a program aimed to identification of binding sites and binding-site clusters. Major difference of the ClusterDraw from existing tools is its ability to scan a wide range of parameter values and weigh statistical significance of all possible clusters, smaller than a selected size. The program produces graphs along with decorated FASTA files. ClusterDraw web server is available at the following URL: http://flydev.berkeley.edu/cgi-bin/cld/submit.cgi
-

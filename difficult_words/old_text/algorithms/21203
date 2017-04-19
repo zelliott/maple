@@ -1,9 +1,0 @@
-
-To improve birth weight estimation in fetuses weighing <or= 1600 g at birth by deriving a new formula including measurements obtained using three-dimensional (3D) sonography.
-
-In a prospective cohort study, biometric data of 150 singleton fetuses weighing <or= 1600 g at birth were obtained by sonographic examination within 1 week before delivery. Exclusion criteria were multiple pregnancy, intrauterine death as well as major structural or chromosomal anomalies. A new formula was derived using our data, and was then compared with currently available equations for estimating weight in the preterm fetus.
-
-Different statistical estimation strategies were pursued. Gradient boosting with component- wise smoothing splines achieved the best results. The resulting new formula (estimated fetal weight = 656.41 + 1.8321 x volABDO + 31.1981 x HC + 5.7787 x volFEM + 73.5214 x FL + 8.3009 x AC - 449.8863 x BPD + 32.5340 x BPD(2), where volABDO is abdominal volume determined by 3D volumetry, HC is head circumference, volFEM is thigh volume determined by 3D volumetry, FL is femur length and BPD is biparietal diameter) proved to be superior to established equations in terms of mean squared prediction errors, signed percentage errors and absolute percentage errors.
-
-Our new formula is relatively easy to use and needs no adjustment to weight percentiles or to fetal lie. In fetuses weighing <or= 1600 g at birth it is superior to weight estimation by traditional formulae using two-dimensional measurements.
-

@@ -1,3 +1,0 @@
-
-The analysis of experimental data of exponential type plays a central role in many biophysical applications. We introduce a novel noniterative algorithm to analyze the association phase and dissociation phase of surface plasmon resonance experiments. It is shown that this algorithm can determine kinetic constants with a high level of accuracy in the presence of significant levels of noise. This algorithm should provide a valuable alternative to existing data analysis techniques.
-

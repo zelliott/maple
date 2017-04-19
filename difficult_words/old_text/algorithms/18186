@@ -1,9 +1,0 @@
-
-Polymorphism in the genes for cytochrome (CYP)2C9 and the vitamin K epoxide reductase complex subunit 1 (VKORC1) affect the pharmacokinetics and pharmacodynamics of warfarin. We developed and validated a warfarin-dosing algorithm for a multi-ethnic population that predicts the best dose for stable anticoagulation, and compared its performance against other regression equations.
-
-We determined the allele and haplotype frequencies of genes for CYP2C9 and VKORC1 on 167 Caucasian, African-American, Asian and Hispanic patients on warfarin. On a subset where complete data were available (n=92), we developed a dosing equation that predicts the actual dose needed to maintain target anticoagulation using demographic variables and genotypes. This regression was validated against an independent group of subjects. We also applied our data to five other published warfarin-dosing equations.
-
-The allele frequency for CYP2C9*2 and *3 and the A allele for VKORC1 3673 was similar to previously published reports. For Caucasians and Asians, VKORC1 SNPs were in Hardy-Weinberg linkage equilibrium. Some VKORC1 SNPs among the African-American population and one SNP among Hispanics were not in equilibrium. The linear regression of predicted versus actual warfarin dose produced r-values of 0.71 for the training set and 0.67 for the validation set. The regression coefficient improved (to r=0.78 and 0.75, respectively) when rare genotypes were eliminated or when the 7566 VKORC1 genotype was added to the model. All of the regression models tested produced a similar degree of correlation. The exclusion of rare genotypes that are more associated with certain ethnicities improved the model.
-
-Minor improvements in algorithms can be observed with the inclusion of ethnicity and more CYP2C9 and VKORC1 SNPs as variables. Major improvements will likely require the identification of new gene associations with warfarin dosing.
-

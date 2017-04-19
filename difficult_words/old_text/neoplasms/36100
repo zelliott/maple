@@ -1,9 +1,0 @@
-
-To reinvestigate ultra-high dose rate radiation (UHDRR) radiobiology and consider potential implications for hadrontherapy.
-
-A literature search of cellular UHDRR exposures was performed. Standard oxygen diffusion equations were used to estimate the time taken to replace UHDRR-related oxygen depletion. Dose rates from conventional and novel methods of hadrontherapy accelerators were considered, including spot scanning beam delivery, which intensifies dose rate.
-
-The literature findings were that, for X-ray and electron dose rates of around 10(9) Gy s(-1), 5-10 Gy depletes cellular oxygen, significantly changing the radiosensitivity of cells already in low oxygen tension (around 3 mmHg or 0.4 kPa). The time taken to reverse the oxygen depletion of such cells is estimated to be over 20-30 s at distances of over 100 μm from a tumour blood vessel. In this time window, tumours have a higher hypoxic fraction (capable of reducing tumour control), so the next application of radiation within the same fraction should be at a time that exceeds these estimates in the case of scanned beams or with ultra-fast laser-generated particles.
-
-This study has potential implications for particle therapy, including laser-generated particles, where dose rate is greatly increased. Conventional accelerators probably do not achieve the critical UHDRR conditions. However, specific UHDRR oxygen depletion experiments using proton and ion beams are indicated.
-

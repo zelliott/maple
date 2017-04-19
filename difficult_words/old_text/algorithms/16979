@@ -1,9 +1,0 @@
-
-In this paper we have evaluated the gene expression programming (GEP) methodology for modeling the effect of different variables (continuous and nominal) and their interactions on the properties of direct compression formulations.
-
-The effect of four variables was studied; variety of diluents, type and percentage of drug and maximum compression force, on the mechanical and drug release properties of direct compression tablets. The generated database (36 formulations) was used for mathematical and GEP modeling.
-
-GEP has been shown to have a high accuracy in prediction for four out five outputs studied including friability which had no replicate measurements. Compared to the traditional statistical treatment GEP is less time consuming and gives equations which are extremely helpful in understanding the interactions of the different variables and for establishing the design space in the development of direct compression formulations.
-
-GEP allows similar conclusions than traditional statistical treatment. The helpfulness of this methodology in establishing the design space has been demonstrated. The knowledge derived from GEP can easily be increased by including additional information or new inputs, such as additional drugs or combinations of excipients in the data set.
-

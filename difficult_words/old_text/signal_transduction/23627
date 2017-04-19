@@ -1,9 +1,0 @@
-
-Health risks from exposure to low doses of ionizing radiation (IR) are becoming a concern due to the rapidly growing medical applications of X-rays. Using microarray techniques, this study aims for a better understanding of whole blood response to low and high doses of IR.
-
-Aliquots of peripheral blood samples were irradiated with 0, 0.05, and 1 Gy X-rays. RNA was isolated and prepared for microarray gene expression experiments. Bioinformatic approaches, i.e., univariate statistics and Gene Set Enrichment Analysis (GSEA) were used for analyzing the data generated. Seven differentially expressed genes were selected for further confirmation using quantitative real-time PCR (RT-PCR).
-
-Functional analysis of genes differentially expressed at 0.05 Gy showed the enrichment of chemokine and cytokine signaling. However, responsive genes to 1 Gy were mainly involved in tumor suppressor protein 53 (p53) pathways. In a second approach, GSEA showed a higher statistical ranking of inflammatory and immune-related gene sets that are involved in both responding and/or secretion of growth factors, chemokines, and cytokines. This indicates the activation of the immune response. Whereas, gene sets enriched at 1 Gy were 'classical' radiation pathways like p53 signaling, apoptosis, DNA damage and repair. Comparative RT-PCR studies showed the significant induction of chemokine-related genes (PF4, GNG11 and CCR4) at 0.05 Gy and DNA damage and repair genes at 1 Gy (DDB2, AEN and CDKN1A).
-
-This study moves a step forward in understanding the different cellular responses to low and high doses of X-rays. In addition to that, and in a broader context, it addresses the need for more attention to the risk assessment of health effects resulting from the exposure to low doses of IR.
-

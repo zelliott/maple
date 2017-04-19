@@ -1,3 +1,0 @@
-
-The use of random-effects models for the analysis of longitudinal data with missing responses has been discussed by several authors. In this paper, we extend the non-linear random-effects model for a single response to the case of multiple responses, allowing for arbitrary patterns of observed and missing data. Parameters for this model are estimated via the EM algorithm and by the first-order approximation available in SAS Proc NLMIXED. The set of equations for this estimation procedure is derived and these are appropriately modified to deal with missing data. The methodology is illustrated with an example using data coming from a study involving 161 pregnant women presenting to a private obstetrics clinic in Santiago, Chile.
-

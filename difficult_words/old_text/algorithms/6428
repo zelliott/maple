@@ -1,3 +1,0 @@
-
-The spatial ordering information of amino acid residue in protein primary sequence is an important determinant of protein three-dimensional structure. In this paper, we describe a radial basis function neural network (RBFNN), whose hidden centers and basis function widths are optimized by a genetic algorithm (GA), for the purpose of predicting three dimensional spatial distance location from primary sequence information. Experimental evidence on soybean protein sequences indicates the utility of this approach.
-

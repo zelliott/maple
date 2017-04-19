@@ -1,9 +1,0 @@
-
-To optimize the diagnostic accuracy of the functional diffusion map for monitoring tumor treatment response in cancer patients.
-
-Using Monte Carlo simulations, measurement precision of the apparent diffusion coefficient (ADC), and particularly accuracy of threshold determination from healthy reference tissue, are evaluated by investigating the repeatability limit of the ADC as a function of different degrees of diffusion weighting of the sequence. Phantom and in-vivo experiments are performed to verify and illustrate the results of the simulations.
-
-While diagnostic accuracy of the functional diffusion map is hardly diminished by differing values of the T(2) relaxation time in tumor and reference tissue, it is shown to be impaired by differing ADCs, resulting in erroneously determined segmentation thresholds. This problem can be addressed by decreasing the maximum b-factor and increasing the number of signal averages at the maximum b-factor or, alternatively, the number of b-factors while favoring schemes with higher b-factors. Phantom experiments confirm the results of the simulations. In-vivo data are presented to illustrate the effect of sequence optimization on the diagnostic accuracy of the functional diffusion map.
-
-The present work demonstrates that the diagnostic accuracy of the functional diffusion map can be impaired by inaccurate segmentation thresholds and derives means for its optimization that will increase the fidelity of future clinical studies.
-

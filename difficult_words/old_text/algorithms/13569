@@ -1,3 +1,0 @@
-
-Accuracy validation is essential to clinical application of medical image registration techniques. Registration validation remains a challenging problem in practice mainly due to lack of 'ground truth'.In this paper, an overview of current validation methods for medical image registration is presented with detailed discussion of their benefits and drawbacks.Special focus is on non-rigid registration validation. Promising solution is also discussed.
-

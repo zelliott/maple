@@ -1,3 +1,0 @@
-
-In the registration of temporal and stereo retinal images, the rotation angle is normally less than 5 degrees and the scaling factor is between 0.95 and 1.05. Due to sitting constraints in the imaging process, the x translation can be more than 100 pixels, but the y translation is usually small. This paper successfully incorporates these constraints in the mutual information-based registration and exploits a constrained optimization to seek an optimal registration. The proposed approach increases the success rate of the registration algorithm significantly. The impacts of the dynamic ranges of registration parameters on the registration outcome are studied and the effects of the order of rotation, scaling, and translation are also investigated.
-

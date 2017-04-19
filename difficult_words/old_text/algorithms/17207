@@ -1,3 +1,0 @@
-
-A novel algorithm for the reconstruction of dynamic images using diametric excitation has been developed. The algorithm is specifically designed to image impedance changes in the brain using boundary data obtained from scalp electrodes by incorporating a priori information. The a priori information is obtain by solving the forward problem using a finite-element model (FEM) which includes the discontinuity of the skull resistivity. The advantages with this new approach are that the sensitivity and accuracy of the location of the impedance changes are improved compared to methods based on adjacent excitation.
-

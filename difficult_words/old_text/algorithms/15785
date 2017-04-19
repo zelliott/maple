@@ -1,5 +1,0 @@
-
-The human genome project has led to the discovery of many human protein coding genes which were previously unknown. As a large fraction of these are functionally uncharacterized, it is of interest to develop methods for predicting their molecular function from sequence.
-
-We have developed a method for prediction of protein function for a subset of classes from the Gene Ontology classification scheme. This subset includes several pharmaceutically interesting categories-transcription factors, receptors, ion channels, stress and immune response proteins, hormones and growth factors can all be predicted. Although the method relies on protein sequences as the sole input, it does not rely on sequence similarity, but instead on sequence derived protein features such as predicted post translational modifications (PTMs), protein sorting signals and physical/chemical properties calculated from the amino acid composition. This allows for prediction of the function for orphan proteins where no homologs can be found. Using this method we propose two novel receptors in the human genome, and further demonstrate chromosomal clustering of related proteins.
-

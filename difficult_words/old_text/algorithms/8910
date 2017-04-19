@@ -1,9 +1,0 @@
-
-Anesthetics mediate portions of their activity via modulation of the γ-aminobutyric acid receptor (GABAaR). Although its molecular structure remains unknown, significant progress has been made toward understanding its interactions with anesthetics via molecular modeling.
-
-The structure of the torpedo acetylcholine receptor (nAChRα), the structures of the α4 and β2 subunits of the human nAChR, the structures of the eukaryotic glutamate-gated chloride channel (GluCl), and the prokaryotic pH-sensing channels, from Gloeobacter violaceus and Erwinia chrysanthemi, were aligned with the SAlign and 3DMA algorithms. A multiple sequence alignment from these structures and those of the GABAaR was performed with ClustalW. The Modeler and Rosetta algorithms independently created three-dimensional constructs of the GABAaR from the GluCl template. The CDocker algorithm docked a congeneric series of propofol derivatives into the binding pocket and scored calculated binding affinities for correlation with known GABAaR potentiation EC50s.
-
-Multiple structure alignments of templates revealed a clear consensus of residue locations relevant to anesthetic effects except for torpedo nAChR. Within the GABAaR models generated from GluCl, the residues notable for modulating anesthetic action within transmembrane segments 1, 2, and 3 converged on the intersubunit interface between α and β subunits. Docking scores of a propofol derivative series into this binding site showed strong linear correlation with GABAaR potentiation EC50.
-
-Consensus structural alignment based on homologous templates revealed an intersubunit anesthetic binding cavity within the transmembrane domain of the GABAaR, which showed a correlation of ligand docking scores with experimentally measured GABAaR potentiation.
-

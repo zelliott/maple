@@ -1,3 +1,0 @@
-
-Hopfield/constraint satisfaction type networks can be used to learn (autoassociate) patterns. Random inputs to the network will sometimes converge on states which are learned patterns, and sometimes converge on states which are unlearned/spurious. It would be useful for many reasons to be able to tell whether or not a given state was learned or spurious. In this paper we present a robust and general method, based on 'energy profiles', which allows us to make this distinction. We briefly describe related research, and note links with the study of recall, recognition and familiarity in the psychological literature.
-

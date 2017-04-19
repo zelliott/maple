@@ -1,3 +1,0 @@
-
-Algorithms that attempt to reconfirm the presence of an arrhythmia prior to definite treatment have been implemented in ICDs to prevent inappropriate shock therapy due to self-terminating ventricular arrhythmias. Nevertheless, in two patients, clinically inappropriate shocks were delivered after spontaneous conversion of the arrhythmia despite the use of a specific reconfirmation algorithm. Reconfirmation criteria were met due to a premature ventricular complex causing a short cycle in the first patient and a long postextrasystolic pause in the second patient. To avoid inappropriate shock therapy due to self-terminating ventricular arrhythmias, further improvement of detection algorithms is required.
-

@@ -1,3 +1,0 @@
-
-We present a novel, low complexity method for the detection of the first and second of heart sounds (S1 and S2, respectively) and the periods of systole and diastole without using an electrocardiogram reference. The algorithm uses a technique called empirical mode decomposition to produce intensity envelopes of the main heart sounds in the time domain. The performance of the algorithm was evaluated using 14,000 cardiac periods from 100 normal and abnormal digital phonocardiographic recordings. The sensitivity of the detection method was 88.3% for both S1 and S2, and the precision (positive predictive value) was 95.8% for both S1 and S2.
-

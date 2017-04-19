@@ -1,7 +1,0 @@
-
-Microarray data appear particularly useful to investigate mechanisms in cancer biology and represent one of the most powerful tools to uncover the genetic mechanisms causing loss of cell cycle control. Recently, several different methods to employ microarray data as a diagnostic tool in cancer classification have been proposed. These procedures take changes in the expression of particular genes into account but do not consider disruptions in certain gene interactions caused by the tumor. It is probable that some genes participating in tumor development do not change their expression level dramatically. Thus, they cannot be detected by simple classification approaches used previously. For these reasons, a classification procedure exploiting information related to changes in gene interactions is needed.
-
-We propose a MAximal MArgin Linear Programming (MAMA) method for the classification of tumor samples based on microarray data. This procedure detects groups of genes and constructs models (features) that strongly correlate with particular tumor types. The detected features include genes whose functional relations are changed for particular cancer types. The proposed method was tested on two publicly available datasets and demonstrated a prediction ability superior to previously employed classification schemes.
-
-The MAMA system was developed using the linear programming system LINDO http://www.lindo.com. A Perl script that specifies the optimization problem for this software is available upon request from the authors.
-

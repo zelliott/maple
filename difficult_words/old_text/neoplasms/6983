@@ -1,9 +1,0 @@
-
-We address the problem of identifying differentially expressed genes between two conditions in the scenario where the data arise from an observational study, in which confounding factors are likely to be present.
-
-We suggest to use matching methods to balance two groups of observed cases on measured covariates, and to identify differentially expressed genes using a test suited to matched data. We illustrate this approach on two microarray studies: the first study consists of data from patients with two cancer subtypes, and the second study consists of data from AMKL patients with and without Down syndrome.
-
-R code (www.r-project.org) for implementing our approach is included as Supplementary Material.
-
-Supplementary data are available at Bioinformatics online.
-

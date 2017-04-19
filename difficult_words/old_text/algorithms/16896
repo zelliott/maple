@@ -1,9 +1,0 @@
-
-To assess the efficacy and robustness of motion sensitized driven equilibrium (MSDE) for blood suppression in volumetric 3D whole-heart cardiac MR.
-
-To investigate the efficacy of MSDE on blood suppression and myocardial signal-to-noise ratio (SNR) loss on different imaging sequences, seven healthy adult subjects were imaged using 3D electrocardiogram (ECG)-triggered MSDE-prep T(1) -weighted turbo spin echo (TSE), and spoiled gradient echo (GRE), after optimization of MSDE parameters in a pilot study of five subjects. Imaging artifacts, myocardial and blood SNR were assessed. Subsequently, the feasibility of isotropic spatial resolution MSDE-prep black-blood was assessed in six subjects. Finally, 15 patients with known or suspected cardiovascular disease were recruited to be imaged using a conventional multislice 2D double inversion recovery (DIR) TSE imaging sequence and a 3D MSDE-prep spoiled GRE.
-
-The MSDE-prep yielded significant blood suppression (75%-92%), enabling a volumetric 3D black-blood assessment of the whole heart with significantly improved visualization of the chamber walls. The MSDE-prep also allowed successful acquisition of black-blood images with isotropic spatial resolution. In the patient study, 3D black-blood MSDE-prep and DIR resulted in similar blood suppression in left ventricle and right ventricle walls but the MSDE-prep had superior myocardial signal and wall sharpness.
-
-MSDE-prep allows volumetric black-blood imaging of the heart.
-

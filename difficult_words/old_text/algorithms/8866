@@ -1,3 +1,0 @@
-
-An integrated segmentation method for 3D ultrasound carotid artery was proposed. 3D ultrasound image was sliced into transverse, coronal and sagittal 2D images on the carotid bifurcation point. Then, the three images were processed respectively, and the carotid artery contours and thickness were obtained finally. This paper tries to overcome the disadvantages of current computer aided diagnosis method, such as high computational complexity, easily introduced subjective errors et al. The proposed method could get the carotid artery overall information rapidly, accurately and completely. It could be transplanted into clinical usage for atherosclerosis diagnosis and prevention.
-

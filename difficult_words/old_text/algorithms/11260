@@ -1,3 +1,0 @@
-
-The development of a simulator for a packing and weighing system (PWS) of granulated powder is described. It employed system identification to obtain the deterministic part of the model and stochastic processes to reproduce disturbances. It reproduces the fluctuations in carton weight observed in real packing systems. Its final use is to evaluate proposed improvements in the PWS, aiming at reducing overweight and underweight. Its performance is satisfactory, as the oscillations observed in the carton weights, due to powder density variability, are close to reality as well as the monetary losses due to overweight and underweight and the power spectral density graphs of the real and simulated weights.
-

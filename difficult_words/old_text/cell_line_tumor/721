@@ -1,9 +1,0 @@
-
-Over the past few years, the alkylating agent temozolomide has become the standard-of-care therapy for patients with glioblastoma, the most common brain tumor. Recently, large-scale cancer genome sequencing efforts have identified a hypermutation phenotype and inactivating MSH6 mismatch repair gene mutations in recurrent, post-temozolomide glioblastomas, particularly those growing more rapidly during temozolomide treatment. This study aimed to clarify the timing and role of MSH6 mutations in mediating glioblastoma temozolomide resistance.
-
-MSH6 sequence and microsatellite instability (MSI) status were determined in matched prechemotherapy and postchemotherapy glioblastomas identified by The Cancer Genome Atlas (TCGA) as having posttreatment MSH6 mutations. Temozolomide-resistant lines were derived in vitro through selective growth under temozolomide, and the MSH6 gene was sequenced in resistant clones. The role of MSH6 inactivation in mediating resistance was explored using lentiviral short hairpin RNA knockdown and MSH6 reconstitution.
-
-MSH6 mutations were confirmed in posttreatment TCGA glioblastomas but absent in matched pretreatment tumors. The posttreatment hypermutation phenotype displayed a signature bias toward CpC transitions and was not associated with MSI. In vitro modeling through exposure of an MSH6 wild-type glioblastoma line to temozolomide resulted in resistant clones; one clone showed an MSH6 mutation, Thr(1219)Ile, that had been independently noted in two treated TCGA glioblastomas. Knockdown of MSH6 in the glioblastoma line U251 increased resistance to temozolomide cytotoxicity and reconstitution restored cytotoxicity in MSH6-null glioma cells.
-
-MSH6 mutations are selected in glioblastomas during temozolomide therapy both in vitro and in vivo and are causally associated with temozolomide resistance.
-

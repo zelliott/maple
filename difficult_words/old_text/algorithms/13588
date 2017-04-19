@@ -1,9 +1,0 @@
-
-To develop and test a decision-support tool for prioritizing new competing Health Technologies (HTs) after their assessment using the mini-HTA approach.
-
-A two layer value/risk tool was developed based on the mini-HTA. The first layer included 12 mini-HTA variables classified in two dimensions, namely value (safety, clinical benefit, patient impact, cost-effectiveness, quality of the evidence, innovativeness) and risk (staff, space and process of care impacts, incremental costs, net cost, investment effort). Weights given to these variables were obtained from a survey among decision-makers (at National/Regional level and hospital settings). A second layer included results from mini-HTA (scored as higher, equal or lower), which compares the performance of the new HT (in terms of the abovementioned 12 variables) with the available comparator. An algorithm combining the first (weights) and second (scores) layers was developed to obtain an overall score for each HT, which was then plotted in a value/risk matrix. The tool was tested using results from the mini-HTAs for three new HTs (Surgical Robot, Platelet Rich Plasma, Deep Brain Stimulation).
-
-No significant differences among decision-makers were observed as regards the weights given to the 12 variables, therefore, the median aggregate weights from decision-makers were introduced in the first layer. The dot plot resulting from the mini-HTA presented good power to visually discriminate between the assessed HTs.
-
-The decision-support tool developed here makes possible a robust and straightforward comparison of different competing HTs. This facilitates hospital decision-makers deliberations on the prioritization of competing investments under fixed budgets.
-

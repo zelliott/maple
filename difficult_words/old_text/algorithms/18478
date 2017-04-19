@@ -1,9 +1,0 @@
-
-The objective of this paper was to face the complex spatio-temporal dynamics shown by Magnetoencephalography (MEG) data by applying a nonlinear distributed approach for the Blind Sources Separation. The effort was to characterize and differ-entiate the phases of a yogic respiratory exercise used in the treatment of obsessive compulsive disorders.
-
-The patient performed a precise respiratory protocol, at one breath per minute for 31 minutes, with 10 minutes resting phase before and after. The two steps of classical Independent Component Approach have been performed by using a Cellular Neural Network with two sets of templates. The choice of the couple of suitable templates has been carried out using genetic algorithm optimization techniques.
-
-Performing BSS with a nonlinear distributed approach, the outputs of the CNN have been compared to the ICA ones. In all the protocol phases, the main components founded with CNN have similar trends compared with that ones obtained with ICA. Moreover, using this distributed approach, a spatial location has been associated to each component.
-
-To underline the spatio-temporal and the nonlinearly of the neural process a distributed nonlinear architecture has been proposed. This strategy has been designed in order to overcome the hypothesis of linear combination among the sources signals, that is characteristic of the ICA approach, taking advantage of the spatial information.
-

@@ -1,9 +1,0 @@
-
-Evaluation of a simplified intensity-modulated irradiation (IMRT), a three-field (MFT), and a conventional two-tangential-field technique regarding dose homogeneity, target coverage, feasibility and, for the first time, dosimetric reliability in patients with large breasts treated postoperatively for breast cancer on a low-energy linac.
-
-CT datasets of ten patients with relatively large breast volumes treated for breast cancer were selected. For each patient, four treatment plans were created: low-energy conventional (C-LE), high-energy conventional (C-HE), three-field (MFT), and a two-field aperture-based IMRT technique. Apertures for the IMRT and MFT were created with the aid of a three-dimensional dose display. Dosimetric accuracy of each technique was evaluated in an anthropomorphic thorax/breast phantom.
-
-The mean of planning target volumes receiving < 95% or > 105% of the prescribed total dose was reduced from 16.0% to 13.9% to 10.4% to 8.9% in the C-LE, C-HE, MFT, and IMRT plans, respectively. Phantom dose measurements agreed well with the calculated dose within the breast tissue.
-
-Aperture-based IMRT using two tangential incident beam directions, as well as a three-field technique with inverse optimization, provide a better alternative to the standard wedged tangential beams for patients with large breasts treated on low-energy linacs while maintaining the efficiency of the treatment-planning and delivery process.
-

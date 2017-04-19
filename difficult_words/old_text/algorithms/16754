@@ -1,9 +1,0 @@
-
-The purpose of this study was to evaluate the performance of gantry angle optimisation (GAO) compared to equidistant beam geometry for two inverse treatment planning systems (TPSs) by utilising the information obtained from a range of treatment plans.
-
-The comparison was based on treatment plans generated for four different head and neck (H&N) cancer cases using two inverse treatment planning systems (TPSs); Varian Eclipse™ representing dynamic MLC intensity modulated radiotherapy (IMRT) and Oncentra® Masterplan representing segmented MLC-based IMRT. The patient cases were selected on the criterion of representing different degrees of overlap between the planning target volume (PTV) and the investigated organ at risk, the ipsilateral parotid gland. For each case, a number of 'Pareto optimal' plans were generated in order to investigate the trade-off between the under-dosage to the PTV (V(PTV,D < 95%)) or the decrease in dose homogeneity (D(5)-D(95)) to the PTV as a function of the mean absorbed dose to the ipsilateral parotid gland (<D>(parotid gland)).
-
-For the Eclipse system, GAO had a clear advantage for the cases with smallest overlap (Cases 1 and 2). The set of data points, representing the underlying trade-offs, generated with and without using GAO were, however, not as clearly separated for the cases with larger overlap (Cases 3 and 4). With the OMP system, the difference was less pronounced for all cases. The Eclipse GAO displays the most favourable trade-off for all H&N cases.
-
-We have found differences in the effectiveness of GAO as compared to equidistant beam geometry, in terms of handling conflicting trade-offs for two commercial inverse TPSs. A comparison, based on a range of treatment plans, as developed in this study, is likely to improve the understanding of conflicting trade-offs and might apply to other thorough comparison techniques.
-

@@ -1,3 +1,0 @@
-
-We extracted a collection of eye movement signals employed for almost two decades in clinical otoneurological tests at a balance laboratory. During those years we designed and programmed signal analysis methods to analyse their features in detail and to compute medically important attributes. In the present study, using such attributes and their results computed we classified test cases into groups of healthy subjects and patients with multilayer perceptron neural networks. Classification succeeded in total accuracies from 60% to 90% depending on the type of eye movements, which were saccades, nystagmus, sinusoidal movements and vestibulo-ocular reflex stimulated in two different ways; these are the chief eye movement tests applied in otoneurology.
-

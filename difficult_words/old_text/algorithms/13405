@@ -1,3 +1,0 @@
-
-A complete texture image retrieval system includes two techniques: texture feature extraction and similarity measurement. Specifically, similarity measurement is a key problem for texture image retrieval study. In this paper, we present an effective similarity measurement formula. The MIT vision texture database, the Brodatz texture database, and the Outex texture database were used to verify the retrieval performance of the proposed similarity measurement method. Dual-tree complex wavelet transform and nonsubsampled contourlet transform were used to extract texture features. Experimental results show that the proposed similarity measurement method achieves better retrieval performance than some existing similarity measurement methods.
-

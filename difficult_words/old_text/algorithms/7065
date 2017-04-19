@@ -1,3 +1,0 @@
-
-This paper considers some of the landscape problems encountered in matching molecules by simulated annealing. Although the method is in theory ergodic, the global minimum in the objective function is not always encountered. Factors inherent in the molecular data that lead the trajectory of the minimization away from its optimal route are analysed. Segments comprised of the C alpha atoms of dihydrofolate reductase are used as test data. The evolution of a reverse ordering landscape problem is examined in detail. Where such patterns in the data could lead to incorrect matches, the problem can in part be circumvented by assigning an initial random ordering to the molecules.
-

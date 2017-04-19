@@ -1,5 +1,0 @@
-
-P-value computation is often used in bioinformatics to quantify the surprise, or significance, associated with a given observation. An implementation is provided that computes the exact p-value associated with any observed sample, against a null multinomial distribution, using the likelihood-ratio statistic. The efficient branch and bound code, far exceeding the full enumeration implemented by commercial packages, is especially useful with small sample, sparse data and rare events, common scenarios in bioinformatics, where approximations are often inaccurate and inappropriate. This code base can also be adapted to compute exact p-values of other statistics in diverse sampling scenarios.
-
-Freely available at http://www.soe.ucsc.edu/~jill/src/.
-

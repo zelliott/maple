@@ -1,3 +1,0 @@
-
-We have developed a web server for the life sciences community to use to search for short repeats of DNA sequence of length between 3 and 10,000 bases within multiple species. This search employs a unique and fast hash function approach. Our system also applies information retrieval algorithms to discover knowledge of cross-species conservation of repeat sequences. Furthermore, we have incorporated a part of the Gene Ontology database into our information retrieval algorithms to broaden the coverage of the search. Our web server and tutorial can be found at http://acmes.rnet.missouri.edu.
-

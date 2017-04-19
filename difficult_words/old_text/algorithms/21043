@@ -1,3 +1,0 @@
-
-Split networks are increasingly being used in phylogenetic analysis. Usually, a simple equal angle algorithm is used to draw such networks, producing layouts that leave much room for improvement. Addressing the problem of producing better layouts of split networks, this paper presents an algorithm for maximizing the area covered by the network, describes an extension of the equal-daylight algorithm to networks, looks into using a spring embedder and discusses how to construct rooted split networks.
-

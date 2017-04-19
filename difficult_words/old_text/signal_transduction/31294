@@ -1,3 +1,0 @@
-
-In the post-genomic era, the biochemical information for individual compounds, enzymes, reactions to be found within named organisms has become readily available. The well-known KEGG and BioCyc databases provide a comprehensive catalogue for this information and have thereby substantially aided the scientific community. Using these databases, the complement of enzymes present in a given organism can be determined and, in principle, used to reconstruct the metabolic network. However, such reconstructed networks contain numerous properties contradicting biological expectation. The metabolic networks for a number of organisms are reconstructed from KEGG and BioCyc databases, and features of these networks are related to properties of their originating database.
-

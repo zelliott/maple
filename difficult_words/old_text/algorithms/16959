@@ -1,9 +1,0 @@
-
-Conventional algorithms show uncertainties in dose calculation already for three-dimensional conformal radiotherapy (3D-CRT). Intensity-modulated radiotherapy (IMRT) might even increase these. We wanted to assess differences in dose distribution for pencil beam (PB), collapsed cone (CC), and Monte Carlo (MC) algorithm for both 3D-CRT and IMRT in patients with mediastinal Hodgkin lymphoma.
-
-Based on 20 computed tomograph (CT) datasets of patients with mediastinal Hodgkin lymphoma, we created treatment plans according to the guidelines of the German Hodgkin Study Group (GHSG) with PB and CC algorithm for 3D-CRT and with PB and MC algorithm for IMRT. Doses were compared for planning target volume (PTV) and organs at risk.
-
-For 3D-CRT, PB overestimated PTV(95) and V(20) of the lung by 6.9% and 3.3% and underestimated V(10) of the lung by 5.8%, compared to the CC algorithm. For IMRT, PB overestimated PTV(95), V(20) of the lung, V(25) of the heart and V(10) of the female left/right breast by 8.1%, 25.8%, 14.0% and 43.6%/189.1%, and underestimated V(10) of the lung, V(4) of the heart and V(4) of the female left/right breast by 6.3%, 6.8% and 23.2%/15.6%, compared to MC.
-
-The PB algorithm underestimates low doses to the organs at risk and overestimates dose to PTV and high doses to the organs at risk. For 3D-CRT, a well-modeled PB algorithm is clinically acceptable; for IMRT planning, however, an advanced algorithm such as CC or MC should be used at least for part of the plan optimization.
-

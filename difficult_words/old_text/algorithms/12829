@@ -1,3 +1,0 @@
-
-A digital microscopy image is an array of number values, which with adequate contrast can be interpreted as spatial information. Through processing and analysis by mathematical means, using computer-assisted imaging software programs, raw image data contrast can be enhanced to improve the extraction of image features for measurement and analysis. This mathematical feature extraction (referred to as segmentation) provides the basis for general image processing. The methods discussed in this unit address common image analysis challenges such as object counting with touching objects, objects within other objects, and object identification in a field with uneven illumination or uneven brightness, along with step-by-step procedures for achieving these results.
-

@@ -1,9 +1,0 @@
-
-Determine effects of a limited-enforcement intelligent tutoring system in dermatopathology on student errors, goals and solution paths. Determine if limited enforcement in a medical tutoring system inhibits students from learning the optimal and most efficient solution path. Describe the type of deviations from the optimal solution path that occur during tutoring, and how these deviations change over time. Determine if the size of the problem-space (domain scope), has an effect on learning gains when using a tutor with limited enforcement.
-
-Analyzed data mined from 44 pathology residents using SlideTutor-a Medical Intelligent Tutoring System in Dermatopathology that teaches histopathologic diagnosis and reporting skills based on commonly used diagnostic algorithms. Two subdomains were included in the study representing sub-algorithms of different sizes and complexities. Effects of the tutoring system on student errors, goal states and solution paths were determined.
-
-Students gradually increase the frequency of steps that match the tutoring system's expectation of expert performance. Frequency of errors gradually declines in all categories of error significance. Student performance frequently differs from the tutor-defined optimal path. However, as students continue to be tutored, they approach the optimal solution path. Performance in both subdomains was similar for both errors and goal differences. However, the rate at which students progress toward the optimal solution path differs between the two domains. Tutoring in superficial perivascular dermatitis, the larger and more complex domain was associated with a slower rate of approximation towards the optimal solution path.
-
-Students benefit from a limited-enforcement tutoring system that leverages diagnostic algorithms but does not prevent alternative strategies. Even with limited enforcement, students converge toward the optimal solution path.
-

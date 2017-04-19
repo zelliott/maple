@@ -1,9 +1,0 @@
-
-Studies that have combined accelerometers and global positioning systems (GPS) to identify walking have done so in carefully controlled conditions. This study tested algorithms for identifying walking trips from accelerometer and GPS data in free-living conditions. The study also assessed the accuracy of the locations where walking occurred compared with what participants reported in a diary.
-
-A convenience sample of high school females was recruited (N = 42) in 2007. Participants wore a GPS unit and an accelerometer, and recorded their out-of-school travel for 6 days. Split-sample validation was used to examine agreement in the daily and total number of walking trips with Kappa statistics and count regression models, while agreement in locations visited by walking was examined with geographic information systems.
-
-Agreement varied based on the parameters of the algorithm, with algorithms exhibiting moderate to substantial agreement with self-reported daily (Kappa = 0.33-0.48) and weekly (Kappa = 0.41-0.64) walking trips. Comparison of reported locations reached by walking and GPS data suggest that reported locations are accurate.
-
-The use of GPS and accelerometers is promising for assessing the number of walking trips and the walking locations of adolescent females.
-

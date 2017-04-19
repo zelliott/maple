@@ -1,7 +1,0 @@
-
-Clustering of protein sequences is widely used for the functional characterization of proteins. However, it is still not easy to cluster distantly-related proteins, which have only regional similarity among their sequences. It is therefore necessary to develop an algorithm for clustering such distantly-related proteins.
-
-We have developed a time and space efficient clustering algorithm. It uses a graph representation where its vertices and edges denote proteins and their sequence similarities above a certain cutoff score, respectively. It repeatedly partitions the graph by removing edges that have small weights, which correspond to low sequence similarities. To find the appropriate partitions, we introduce a score combining the normalized cut and a locally minimal cut capacities. Our method is applied to the entire 40,703 human proteins in SWISS-PROT and TrEMBL. The resulting clusters shows a 76% recall (20,529 proteins) of the 26,917 classified by InterPro. It also finds relationships not found by other clustering methods.
-
-The complete result of our algorithm for all the human proteins in SWISS-PROT and TrEMBL, and other supplementary information are available at http://motif.ics.es.osaka-u.ac.jp/Ncut-KL/
-

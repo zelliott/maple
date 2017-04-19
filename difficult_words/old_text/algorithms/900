@@ -1,3 +1,0 @@
-
-This paper describes the use of probability-generating functions for calculating the probabilities of finding motifs in nucleic acid and protein sequences. Equations and algorithms are given for calculating the probabilities associated with nine different ways of defining motifs. Comparisons are made with searches of random sequences. A higher level structure--the pattern--is defined as a list of motifs. A pattern also specifies the permitted ranges of spacing allowed between its constituent motifs. Equations for calculating the expected numbers of matches to patterns are given.
-

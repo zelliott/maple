@@ -1,5 +1,0 @@
-
-Recombination plays an important role in the evolution of many pathogens, such as HIV or malaria. Despite substantial prior work, there is still a pressing need for efficient and effective methods of detecting recombination and analyzing recombinant sequences.
-
-We introduce Recco, a novel fast method that, given a multiple sequence alignment, scores the cost of obtaining one of the sequences from the others by mutation and recombination. The algorithm comes with an illustrative visualization tool for locating recombination breakpoints. We analyze the sequence alignment with respect to all choices of the parameter alpha weighting recombination cost against mutation cost. The analysis of the resulting cost curve yields additional information as to which sequence might be recombinant. On random genealogies Recco is comparable in its power of detecting recombination with the algorithm Geneconv (Sawyer, 1989). For specific relevant recombination scenarios Recco significantly outperforms Geneconv.
-

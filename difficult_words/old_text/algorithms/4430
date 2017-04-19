@@ -1,3 +1,0 @@
-
-Biological data mining using kernel methods can be improved by a task-specific choice of the kernel function. Oligo kernels for genomic sequence analysis have proven to have a high discriminative power and to provide interpretable results. Oligo kernels that consider subsequences of different lengths can be combined and parameterized to increase their flexibility. For adapting these parameters efficiently, gradient-based optimization of the kernel-target alignment is proposed. The power of this new, general model selection procedure and the benefits of fitting kernels to problem classes are demonstrated by adapting oligo kernels for bacterial gene start detection.
-

@@ -1,7 +1,0 @@
-
-Network motifs are recurrent interaction patterns, which are significantly more often encountered in biological interaction graphs than expected from random nets. Their existence raises questions concerning their emergence and functional capacities. In this context, it has been shown that feed forward loops (FFL) composed of three genes are capable of processing external signals by responding in a very specific, robust manner, either accelerating or delaying responses. Early studies suggested a one-to-one mapping between topology and dynamics but such view has been repeatedly questioned. The FFL's function has been attributed to this specific response. A general response analysis is difficult, because one is dealing with the dynamical trajectory of a system towards a new regime in response to external signals.
-
-We have developed an analytical method that allows us to systematically explore the patterns and probabilities of the emergence for a specific dynamical response. The method is based on a rather simple, but powerful geometrical analysis of the system's nullclines complemented by an appropriate formalization of the response probability.
-
-Our analysis allows to determine unambiguously the relationship between motif topology and the set of potentially implementable functions. The distribution probability distributions are linked to the degree of specialization or flexibility of the given network topology. The implications for the emergence of different motif topologies in complex networks are outlined.
-

@@ -1,9 +1,0 @@
-
-Over time, adaptive Gaussian Hermite quadrature (QUAD) has become the preferred method for estimating generalized linear mixed models with binary outcomes. However, penalized quasi-likelihood (PQL) is still used frequently. In this work, we systematically evaluated whether matching results from PQL and QUAD indicate less bias in estimated regression coefficients and variance parameters via simulation.
-
-We performed a simulation study in which we varied the size of the data set, probability of the outcome, variance of the random effect, number of clusters and number of subjects per cluster, etc. We estimated bias in the regression coefficients, odds ratios and variance parameters as estimated via PQL and QUAD. We ascertained if similarity of estimated regression coefficients, odds ratios and variance parameters predicted less bias.
-
-Overall, we found that the absolute percent bias of the odds ratio estimated via PQL or QUAD increased as the PQL- and QUAD-estimated odds ratios became more discrepant, though results varied markedly depending on the characteristics of the dataset.
-
-Given how markedly results varied depending on data set characteristics, specifying a rule above which indicated biased results proved impossible. This work suggests that comparing results from generalized linear mixed models estimated via PQL and QUAD is a worthwhile exercise for regression coefficients and variance components obtained via QUAD, in situations where PQL is known to give reasonable results.
-

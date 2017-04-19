@@ -1,9 +1,0 @@
-
-The traditional fuzzy-rule-based risk assessment technique has been applied in many industries due to the capability of combining different parameters to obtain an overall risk. However, a drawback occurs as the technique is applied in circumstances where there are multiple parameters to be evaluated that are described by multiple linguistic terms.
-
-In this study, a risk prediction model incorporating fuzzy set theory and Artificial Neural Network (ANN) capable of resolving the problem encountered is proposed. An algorithm capable of converting the risk-related parameters and the overall risk level from the fuzzy property to the crisp-valued attribute is also developed. Its application is demonstrated by a test case evaluating the navigational safety within port areas.
-
-It is concluded that a risk predicting ANN model is capable of generating reliable results as long as the training data takes into account any potential circumstance that may be met.
-
-This paper provides safety assessment practitioners with a novel and flexible framework of modelling risks using a fuzzy-rule-base technique. It is especially applicable in circumstances where there are multiple parameters to be considered. The proposed framework also enables the port industry to manage navigational safety in a rational manner.
-

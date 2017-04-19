@@ -1,3 +1,0 @@
-
-This paper presents a two stage algorithm for real-time estimation of instantaneous tremor parameters from gyroscope recordings. Gyroscopes possess the advantage of providing directly joint rotational speed, overcoming the limitations of traditional tremor recording based on accelerometers. The proposed algorithm first extracts tremor patterns from raw angular data, and afterwards estimates its instantaneous amplitude and frequency. Real-time separation of voluntary and tremorous motion relies on their different frequency contents, whereas tremor modelling is based on an adaptive LMS algorithm and a Kalman filter. Tremor parameters will be employed to drive a neuroprosthesis for tremor suppression based on biomechanical loading.
-

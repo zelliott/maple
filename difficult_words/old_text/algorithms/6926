@@ -1,3 +1,0 @@
-
-Due to the regularity of activity of the heart and similarity among each period of ECG signal, there is high correlation between DCT coefficients of every two frames of ECG data. Using this characteristic, we present a compression method for ECG data in this paper, by which we can get a higher compression ratio(CR) than the compression method just via DCT does.
-

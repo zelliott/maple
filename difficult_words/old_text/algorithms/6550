@@ -1,5 +1,0 @@
-
-DNAfan (DNA Feature ANalyzer) is a tool combining sequence-filtering and pattern searching. DNAfan automatically extracts user-defined sets of sequence fragments from large sequence sets. Fragments are defined by annotated gene feature keys and co- or non-occurring patterns within the feature or close to it. A gene feature parser and a pattern-based filter tool localizes and extracts the specific subset of sequences. The selected sequence data can subsequently be retrieved for analyses or further processed with DNAfan to find the occurrence of specific patterns or structural motifs. DNAfan is a powerful tool for pattern analysis. Its filter features restricts the pattern search to a well-defined set of sequences, allowing drastic reduction in false positive hits.
-
-http://bighost.ba.itb.cnr.it:8080/Framework.
-

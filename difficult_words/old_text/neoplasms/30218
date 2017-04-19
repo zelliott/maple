@@ -1,3 +1,0 @@
-
-Cure models are a popular topic within statistical literature but are not as widely known in the clinical literature. Many patients with cancer can be long-term survivors of their disease, and cure models can be a useful tool to analyze and describe cancer survival data. The goal of this article is to review what a cure model is, explain when cure models can be used, and use cure models to describe multiple myeloma survival trends. Multiple myeloma is generally considered an incurable disease, and this article shows that by using cure models, rather than the standard Cox proportional hazards model, we can evaluate whether there is evidence that therapies at the University of Arkansas for Medical Sciences induce a proportion of patients to be long-term survivors.
-

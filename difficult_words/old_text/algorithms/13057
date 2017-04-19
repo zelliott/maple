@@ -1,3 +1,0 @@
-
-In this article, we present a new strategy for locating a point on a psychometric function (threshold determination) for yes-no procedures, called EntFirst. Our results show that it performs better than many existing strategies for estimating the 50% threshold that are commonly used in nonlaboratory settings. We also provide a review of existing algorithms for finding thresholds, with an emphasis on identifying the types of problems for which each algorithm is useful. Finally, we address a number of issues that are not adequately covered in the literature, including choosing an appropriate loss function to evaluate the performance of an algorithm for a given problem.
-

@@ -1,3 +1,0 @@
-
-Changing the configuration of a cooperative whole arm manipulator is not easy while enclosing an object. This difficulty is mainly because of risk of jamming caused by kinematic constraints. To reduce this risk, this paper proposes a feedback manipulation planning algorithm that takes grasp kinematics into account. The idea is based on a vector field that imposes perturbation in object motion inducing directions when the movement is considerably along manipulator redundant directions. Obstacle avoidance problem is then considered by combining the algorithm with sampling-based techniques. As experimental results confirm, the proposed algorithm is effective in avoiding jamming as well as obstacles for a 6-DOF dual arm whole arm manipulator.
-

@@ -1,3 +1,0 @@
-
-In this paper, a syntactic pattern recognition method of the detection of pulse wave's characteristic information is introduced. According to it, the pressure signal of pulse is measured by non-invasive diagnostic method. Then, the elementary abstracting system transfers it into an input pattern. The recognizer, constructed by Earley algorithm, recognizes the pulse wave's pattern. On the base of it, the pulse wave's characteristic information can be got. Thus, the expert system will make a diagnosis with the information. The experiment result shows that, the new method is of anti-interference, preciseness and intelligence, and it provides an advanced, practical and intelligent means for the pulse diagnostic system.
-

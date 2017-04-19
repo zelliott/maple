@@ -1,9 +1,0 @@
-
-Gene expression patterns characterizing clinically-relevant molecular subgroups of glioblastoma are difficult to reproduce. We suspect a combination of biological and analytic factors confounds interpretation of glioblastoma expression data. We seek to clarify the nature and relative contributions of these factors, to focus additional investigations, and to improve the accuracy and consistency of translational glioblastoma analyses.
-
-We analyzed gene expression and clinical data for 340 glioblastomas in The Cancer Genome Atlas (TCGA). We developed a logic model to analyze potential sources of biological, technical, and analytic variability and used standard linear classifiers and linear dimensional reduction algorithms to investigate the nature and relative contributions of each factor.
-
-Commonly-described sources of classification error, including individual sample characteristics, batch effects, and analytic and technical noise make measurable but proportionally minor contributions to inconsistent molecular classification. Our analysis suggests that three, previously underappreciated factors may account for a larger fraction of classification errors: inherent non-linear/non-orthogonal relationships among the genes used in conjunction with classification algorithms that assume linearity; skewed data distributions assumed to be Gaussian; and biologic variability (noise) among tumors, of which we propose three types.
-
-Our analysis of the TCGA data demonstrates a contributory role for technical factors in molecular classification inconsistencies in glioblastoma but also suggests that biological variability, abnormal data distribution, and non-linear relationships among genes may be responsible for a proportionally larger component of classification error. These findings may have important implications for both glioblastoma research and for translational application of other large-volume biological databases.
-

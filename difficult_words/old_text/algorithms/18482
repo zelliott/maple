@@ -1,3 +1,0 @@
-
-AdaBoost can be derived by sequential minimization of the exponential loss function. It implements the learning process by exponentially reweighting examples according to classification results. However, weights are often too sharply tuned, so that AdaBoost suffers from the nonrobustness and overlearning. Wepropose a new boosting method that is a slight modification of AdaBoost. The loss function is defined by a mixture of the exponential loss and naive error loss functions. As a result, the proposed method incorporates the effect of forgetfulness into AdaBoost. The statistical significance of our method is discussed, and simulations are presented for confirmation.
-

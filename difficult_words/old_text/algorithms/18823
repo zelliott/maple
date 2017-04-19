@@ -1,3 +1,0 @@
-
-String matching plays an important role in biomedical Term Normalisation, the task of linking mentions of biomedical entities to identifiers in reference databases. This paper evaluates exact, rule-based and various string-similarity-based matching techniques. The matchers are compared in two ways: first, we measure precision and recall against a gold-standard dataset and second, we integrate the matchers into a curation tool and measure gains in curation speed when they were used to assist a curator in normalising protein and tissue entities. The evaluation shows that a rule-based matcher works better on the gold-standard data, while a string-similarity based system and exact string matcher win out on improving curation efficiency.
-

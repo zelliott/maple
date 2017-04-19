@@ -1,7 +1,0 @@
-
-Approximate tandem repeats (ATR) occur frequently in the genomes of organisms, and are a source of polymorphisms observed in individuals, and thus are of interest to those studying genetic disorders. Though extensive work has been done in order to identify ATRs, there are inherent limitations with the current approaches in terms of the number of pattern sizes that can be searched or the size of the input length.
-
-This paper describes (1) a new algorithm which exhaustively finds all variable-length ATRs in a genomic sequence and (2) a precise description of, and an algorithm to significantly reduce, redundancy in the output. Our ATR definition is parameterized by a mismatch ratio p which allows for more mismatches in longer tandem repeats (and fewer in shorter). Furthermore, our algorithm is embarrassingly parallel and thus can attain near-linear speed-up on Beowulf clusters. We present results of our algorithm applied to sequences of widely differing lengths (from genes to chromosomes).
-
-Source and binaries are available on request.
-

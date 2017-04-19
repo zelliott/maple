@@ -1,9 +1,0 @@
-
-RECIST is used to quantify tumor changes during exposure to anticancer agents. Responses are categorized as complete response (CR), partial response (PR), stable disease (SD), or progressive disease (PD). Clinical trials dictate a patient's management options based on the category into which his or her response falls. However, the association between response and survival is not well studied in the early trial setting.
-
-To study the correlation between response as quantified by RECIST and overall survival (OS, the gold-standard survival outcome), we analyzed 570 participants of 24 phase I trials conducted between October 2004 and May 2009, of whom 468 had quantifiable changes in tumor size. Analyses of Kaplan-Meier estimates of OS by response and null Martingale residuals of Cox models were the primary outcome measures. All analyses are landmark analyses.
-
-Kaplan-Meier analyses revealed strong associations between change in tumor size by RECIST and survival (P = 4.5 × 10(-6) to &lt; 1 × 10(-8)). The relationship was found to be near-linear (R(2) = 0.75 to 0.92) and confirmed by the residual analyses. No clear inflection points were found to exist in the relationship between tumor size changes and survival.
-
-RECIST quantification of response correlates with survival, validating RECIST's use in phase I trials. However, the lack of apparent boundary values in the relationship between change in tumor size and OS demonstrates the arbitrary nature of the CR/PR/SD/PD categories and questions emphasis placed on this categorization scheme. Describing tumor responses as a continuous variable may be more informative than reporting categoric responses when evaluating novel anticancer therapies.
-

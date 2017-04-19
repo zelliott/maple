@@ -1,3 +1,0 @@
-
-Chromium Renderserver (CRRS) is software infrastructure that provides the ability for one or more users to run and view image output from unmodified, interactive OpenGL and X11 applications on a remote, parallel computational platform equipped with graphics hardware accelerators via industry-standard Layer 7 network protocols and client viewers. The new contributions of this work include a solution to the problem of synchronizing X11 and OpenGL command streams, remote delivery of parallel hardware accelerated rendering, and a performance analysis of several different optimizations that are generally applicable to a variety of rendering architectures. CRRS is fully operational, Open Source software. imagery and sending it to a remote viewer.
-

@@ -1,9 +1,0 @@
-
-The aim was to select an optimal technique for low-dose high-resolution CT of the sacroiliac joints (SJ).
-
-Dose measurements were performed on a Rando anthropomorphic phantom using thermoluminescence dosimeters for 4 CT protocols and 2 conventional radiography protocols used for SJ evaluation. Six available reconstruction algorithms were tested on CT protocols using 285-665 mAs and 120 or 130 kVp settings and noncontiguous 1.5-mm-thin sections with 3.5-mm intervals. Settings with optimum performance on phantom tests were also applied in a series of 10 patients with SJ arthropathies.
-
-A CT protocol using 120 kVp/175 mA/2.9 s/1.5-mm slice thickness/5-mm table increment implied the lower radiation dose among all examination protocols tested and provided high image quality of the SJ. A reconstruction algorithm yielding images of improved spatial resolution with acceptable noise was selected.
-
-A high spatial frequency reconstruction algorithm, and 120 kVp and 508 mAs were considered optimal for a low-dose CT examination of the SJ that employed narrow (1.5 mm) slice images with interspacing.
-

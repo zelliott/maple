@@ -1,7 +1,0 @@
-
-In the yeast Saccharomyces cerevisiae, the presence of high levels of glucose leads to an array of down-regulatory effects known as glucose repression. This process is complex due to the presence of feedback loops and crosstalk between different pathways, complicating the use of intuitive approaches to analyze the system.
-
-We established a logical model of yeast glucose repression, formalized as a hypergraph. The model was constructed based on verified regulatory interactions and it includes 50 gene transcripts, 22 proteins, 5 metabolites and 118 hyperedges. We computed the logical steady states of all nodes in the network in order to simulate wildtype and deletion mutant responses to different sugar availabilities. Evaluation of the model predictive power was achieved by comparing changes in the logical state of gene nodes with transcriptome data. Overall, we observed 71% true predictions, and analyzed sources of errors and discrepancies for the remaining.
-
-Though the binary nature of logical (Boolean) models entails inherent limitations, our model constitutes a primary tool for storing regulatory knowledge, searching for incoherencies in hypotheses and evaluating the effect of deleting regulatory elements involved in glucose repression.
-

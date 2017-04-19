@@ -1,3 +1,0 @@
-
-This paper proposes a technique to improve the quality of high-resolution electrocardiogram by weighting the coherent average of beats by a function of the energy of the corrupting myoelectric noise, prior to subsequent detection of ventricular late potentials. The results obtained with 20 patients indicate the method requires fewer beats than conventional nonweighted average to achieve the same noise level.
-

@@ -1,7 +1,0 @@
-
-Several methods in molecular population genetics have recently been described to estimate the amount and pattern of the DNA polymorphism in natural populations, and also to test the neutral theory of molecular evolution. These methods are essential for understanding the molecular evolutionary process. However, a comprehensive computer program for the analysis is not currently available.
-
-Here we present DnaSP (DNA Sequence Polymorphism) version 2.0, a software package for Windows that performs extensive population genetics analyses on DNA sequence data. DnaSP estimates several measures of DNA sequence variation within and between populations, linkage disequilibrium, recombination, gene flow and gene conversion (a new algorithm to detect gene conversion tracts has been included). DnaSP can also carry out several tests of neutrality: those of Fu and Li; Hudson, Kreitman and Aguadé; and Tajima. The results of the analyses are displayed in tabular and graphic form.
-
-For academic uses, DnaSP is available via anonymous ftp: ftp.ebi.ac.uk in the directory/pub/software/dos.
-

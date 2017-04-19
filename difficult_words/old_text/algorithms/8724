@@ -1,9 +1,0 @@
-
-Content-based image retrieval (CBIR) in medicine has been demonstrated to improve evidence-based diagnosis, education, and teaching. However, the low clinical adoption of CBIR is partially because the focus of most studies has been the development of feature extraction and similarity measurement algorithms with limited work on facilitating better understanding of the similarity between complex volumetric and multi-modality medical images. In this paper, we present a method for defining user interfaces (UIs) that enable effective human user interpretation of retrieved images.
-
-We derived a set of visualisation and interaction requirements based on the characteristics of modern volumetric medical images. We implemented a UI that visualised multiple views of a single image, displayed abstractions of image data, and provided access to supplementary non-image data. We also defined interactions for refining the search and visually indicating the similarities between images. We applied the UI for the retrieval of multi-modality positron emission tomography and computed tomography (PET-CT) images. We conducted a user survey to evaluate the capabilities of our UI.
-
-Our proposed method obtained a high rating ( ≥ 4 out of 5) in the majority of survey questions. In particular, the survey responses indicated the UI presented all the information necessary to understand the retrieved images, and did so in an intuitive manner.
-
-Our proposed UI design improved the ability of users to interpret and understand the similarity between retrieved PET-CT images. The implementation of CBIR UIs designed to assist human interpretation could facilitate wider adoption of medical CBIR systems.
-

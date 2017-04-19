@@ -1,3 +1,0 @@
-
-A version of interleaved echo-planar imaging (EPI) is presented in which only one polarity of the readout gradient is used for signal acquisition to avoid ghosting artifacts. Two possible forms of the phase encoding gradient, blipped and constant, are discussed. With the constant phase encoding, interleaving of partial trajectories in the Fourier domain (k-space) is controlled automatically by the echo train delay. The constant phase encoding gradient introduces a shear distortion of the k-space grid. A modification of the reconstruction procedure is given which corrects for this effect. The method provides a 128 x 128 image in 1 s on a clinical system with standard gradients.
-

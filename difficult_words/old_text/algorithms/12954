@@ -1,3 +1,0 @@
-
-We applied compressed sensing (CS) to spectral domain optical coherence tomography (SD OCT) and studied its effectiveness. We tested the CS reconstruction by randomly undersampling the k-space SD OCT signal. We achieved this by applying pseudo-random masks to sample 62.5%, 50%, and 37.5% of the CCD camera pixels. OCT images are reconstructed by solving an optimization problem that minimizes the l(1) norm of a transformed image to enforce sparsity, subject to data consistency constraints. CS could allow an array detector with fewer pixels to reconstruct high resolution OCT images while reducing the total amount of data required to process the images.
-

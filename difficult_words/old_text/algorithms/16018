@@ -1,3 +1,0 @@
-
-An approach based on the modified Karhunen-Loéve expansion (MKLE) of constitutive and facultative skin colour data acquired by colorimeters in melanoma patients and healthy control subjects, was used to identify two colour features defining skin-colour-associated risk of melanoma. None of four common statistical classifiers trained on colour features were sufficiently accurate for allowing skin colour alone to be used for classification purposes, though a Bayesian quadratic classifier matched the transformed data well. This study supersedes the indeterminate character of most common clinical criteria based on qualitative factors and, irrespective of the results of classification, provides objective skin colour information for the prevention of melanoma.
-

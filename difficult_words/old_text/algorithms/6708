@@ -1,3 +1,0 @@
-
-Following our previous work on optimal modeling of corneal surfaces with Zernike polynomials, we have developed a refined bootstrap-based procedure which improves the accuracy of the previous method. We show that for normal corneas, the optimal number of Zernike terms usually corresponds to the fourth or fifth radial order expansion of Zernike polynomials. On the other hand, for distorted corneas such as those encountered in keratoconus or in surgically altered cases, the estimated model was found to be up to three radial orders higher than for normal corneas.
-

@@ -1,3 +1,0 @@
-
-Presently, the quality assurance of agarwood oil is performed by sensory panels which has significant drawbacks in terms of objectivity and repeatability. In this paper, it is shown how an electronic nose (e-nose) may be successfully utilised for the classification of agarwood oil. Hierarchical Cluster Analysis (HCA) and Principal Component Analysis (PCA), were used to classify different types of oil. The HCA produced a dendrogram showing the separation of e-nose data into three different groups of oils. The PCA scatter plot revealed a distinct separation between the three groups. An Artificial Neural Network (ANN) was used for a better prediction of unknown samples.
-

@@ -1,3 +1,0 @@
-
-In this study, a simplified spherical harmonics approximated higher order diffusion model is employed for 3-D diffuse optical tomography of osteoarthritis in the finger joints. We find that the use of a higher-order diffusion model in a stand-alone framework provides significant improvement in reconstruction accuracy over the diffusion approximation model. However, we also find that this is not the case in the image-guided setting when spatial prior knowledge from x-rays is incorporated. The results show that the reconstruction error between these two models is about 15 and 4%, respectively, for stand-alone and image-guided frameworks.
-

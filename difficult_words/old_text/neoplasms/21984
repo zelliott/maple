@@ -1,9 +1,0 @@
-
-The aim of this study was to first calculate the dose-enhancement effect from internalized radiation by the presence of exogenous contrast media using Monte Carlo simulations, and then provide in vitro proof-of-concept for this novel method of radiation-dose enhancement.
-
-The Monte Carlo program EGSnrc (Electron Gamma Shower) was used to simulate the interaction of internalizing radiation with iodine (I) or gadolinium (Gd) containing contrast media. Experimentally, the doseenhancement effect induced by I or Gd was evaluated in cell culture assays using internalizing peptides chelated with beta- emitting radionuclides and clinically available contrast media.
-
-Monte Carlo simulations predicted significant enhancement (approximately 70-340%) of radiation dose in the presence of high Zelement contrast media. This enhancement is radiation and Z-element dependent. Calculations showed that in the presence of contrast media, low-energy radionuclides favor localization of secondary particles, whereas higher energy beta- emitters localize radiation by reducing the pathway of the primary beta-particle. The dose enhancement was verified in vitro in two cell lines.
-
-Monte Carlo simulations in parallel with in vitro studies provide proof-of-principle for dose enhancement that occurs when utilizing an internalized source of radiation followed by the addition of exogenous contrast media. This dose enhancement is both radiation and Z-element dependent.
-

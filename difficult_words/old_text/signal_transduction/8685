@@ -1,3 +1,0 @@
-
-We summarize here the Implicit statistical inference approach as an alternative to Bayesian networks and we give an effective iterative algorithm analogous to the Expectation Maximization algorithm to infer signal transduction network when the set of data is incomplete. We proved the convergence of our algorithm that we called Implicit algorithm and we apply it to simulated data for a simplified signal transduction pathway of the EGFR protein.
-

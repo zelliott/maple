@@ -1,9 +1,0 @@
-
-Cerebral vascular diseases are detect- able by CT/MRI-based methods. Drawbacks of these methods are that they are expensive, time-consuming and intolerable to critically ill patients. Ultrasound, as an inexpensive bedside method, promises to become an alternative. Among other harmonic imaging methods, the diminution harmonic imaging (DHI) method is known, which determines perfusion-related parameters by analyzing ultrasound contrast agent (UCA) diminution kinetics based on constant UCA infusion. The shortcoming of DHI is that the used mathematical model can only determine these parameters by least squares fitting the model onto the data.
-
-In this work, the underlying mathematical model is further developed such that it becomes possible to directly calculate the parameters from the image data. Furthermore, the new model offers an improved way to estimate the spatial distribution of the destruction coefficient necessary for accurately determining the destruction power of the ultrasound pulse on the contrast agent.
-
-The direct calculation of the perfusion coefficient is much faster than the former fitting of the model. Perfusion as well as destruction coefficients are displayed as color-coded images. In an example, a region with perfusion deficits (as shown in a MR image of the same patient) is clearly identifiable.
-
-Displaying the parameters as color-coded images facilitates result interpretation for the diagnosing physician. The results are preliminary and still have to be validated, but they suggest that the new DHI model improves the significance of ultrasound as a diagnostic help.
-

@@ -1,9 +1,0 @@
-
-In recent years, image-guided liver surgery based on intraoperative ultrasound (US) imaging has become common. Using an efficient point-based registration method to improve both accuracy and computational time for the registration of predeformation computer tomography, liver images with postdeformation US images are important during surgical procedure. Although iterative closest point (ICP) algorithm is widely used in surface-based registration, its performance strongly depends on the presence of noise and initial alignment. A registration technique based on unscented Kalman filter (UKF), which has been proposed recently, can used to overcome the noise and outliers on an incremental basis; however, the technique is associated with computational complexity.
-
-To overcome the limitations of ICP and UKF algorithms, we proposed an incremental two-stage registration method based on the combination of ICP and UKF algorithms to update the registration process with the acquired new points from US images. The registration is based on both the vessels and surface information of the liver.
-
-The two-stage method was examined using numerical simulations and phantom data sets. The results of the phantom data set confirmed that the two-stage method outperforms the accuracy of ICP by 23% and reduces the running time of UKF by 60%.
-
-The convergence rate, computational speed, and accuracy of the UKF algorithm can be improved using the two-stage method.
-

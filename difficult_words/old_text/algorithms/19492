@@ -1,3 +1,0 @@
-
-A method is presented for reconstruction of the optical absorption coefficient from transmission near-infrared data with a cw source. As it is distinct from other available schemes such as optimization or Newton's iterative method, this method resolves the inverse problem by solving a boundary value problem for a Volterra-type integral-differential equation. It is demonstrated in numerical studies that this technique has a better than average stability with respect to the discrepancy between the initial guess and the actual unknown absorption coefficient. The method is particularly useful for reconstruction from a large data set obtained from a CCD camera. Several numerical reconstruction examples are presented.
-

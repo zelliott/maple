@@ -1,9 +1,0 @@
-
-To construct vector pEGFP-C1-hTERT-ribozyme (pGTRz-U6) and its mutant (pGTmRz-U6) against hTERT containing U6 promoter, then transfect them into human liver cancer cell line SMMC7721 to observe the action of the human telomerase catalytic subunit (hTERT) hammerhead ribozyme on proliferation and apoptosis of human liver cancer cell SMMC7721.
-
-Eukaryotic expressing vector pGTRz-U6 and mutant pGTmRz-U6 were constructed and transfected into SMMC7721 using Lipofectamine2000 Reagent, with pEGFP-C1 as the control group. After strict screening by G418, positive clones were cultured; the amount of expression of ribozyme and hTERT was detected by RT-PCR; cell proliferation by MTT; telomerase activity by TRAP and silver staining assay; cell apoptosis by FCM.
-
-We found that the two ribozymes were expressed persistently in SMMC7721; different expression levels (P < 0.01) of hTERT among SMMC7721-Rz, SMMC7721-mRz and SMMC7721-pEGFP-C1 was exhibited by the analysis of variance with SPSS software. The difference between SMMC7721-Rz and the others is significant in t-test (P < 0.01), while there was no difference between SMMC7721-mRz and SMMC7721-pEGFP-C1 (P > 0.05). With the advance of cell division, telomerase activities of the cells treated by SMMC7721-Rz and SMMC7721-mRz decreased gradually, and the percentage of apoptosis of the cells transfected with Rz and mRz increased gradually. The apoptosis percentage of 7PDS SMMC7721-Rz was 29.86%, while those of SMMC7721-mRz and SMMC7721-pEGFP-C1 were 9.87% and 3.36%, respectively.
-
-The apoptosis level of SMMC7721 induced by hTERT ribozyme increases as cells divide, and this ribozyme maybe a potential approach for liver cancer gene therapy.
-

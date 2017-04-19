@@ -1,3 +1,0 @@
-
-This paper presents a new method to find motifs from multiple protein sequences and multiple protein structures. The method consists of two parts: quantification and local multiple alignment. In the former part, protein sequences and protein structures are transformed into sequences of real numbers and real vectors respectively. In the latter part, fixed length regions having similar shapes are located. A Gibbs sampling algorithm for sequences of real numbers/vectors is newly developed for finding common regions. The results of the comparison with a standard Gibbs sampling program show that the method is particularly useful when structural information is available.
-

@@ -1,3 +1,0 @@
-
-The Ohmeda 3700 pulse oximeter provides trend data storage of arterial oxygen saturation (SaO2) and pulse rate measurements for a maximum of 8 hours. This feature allows the oximeter to be used as a stand-alone unit for overnight studies of saturation during sleep. Subsequent transfer and processing of the stored SaO2 data requires additional software. We present a program for data processing that uses the Lotus 1-2-3 program on IBM and compatible microcomputers and that performs a data distribution and statistical analysis on these trend data and presents them in graphic form. Processing SaO2 trend data within the Lotus 1-2-3 worksheet format allows the user to easily add to or modify the program presented here, depending on individual needs.
-

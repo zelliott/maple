@@ -1,9 +1,0 @@
-
-Spatial characteristics of atrial fibrillatory waves have been extracted by using a vectorcardiogram (VCG) during atrial fibrillation (AF). However, the VCG is usually not recorded in clinical practice and atrial loops are derived from the 12-lead electrocardiogram (ECG). We evaluated the suitability of the reconstruction of orthogonal leads from the 12-lead ECG for fibrillatory waves in AF.
-
-We used the Physikalisch-Technische Bundesanstalt diagnostic ECG database, which contains 15 simultaneously recorded signals (12-lead ECG and three Frank orthogonal leads) of 13 patients during AF. Frank leads were derived from the 12-lead ECG by using Dower's inverse transform. Derived leads were then compared to true Frank leads in terms of the relative error achieved. We calculated the orientation of AF loops of both recorded orthogonal leads and derived leads and measured the difference in estimated orientation. Also, we investigated the relationship of errors in derivation with fibrillatory wave amplitude, frequency, wave residuum, and fit to a plane of the AF loops.
-
-Errors in derivation of AF loops were 68 +/- 31% and errors in the estimation of orientation were 35.85 +/- 20.43 degrees . We did not find any correlation among these errors and amplitude, frequency, or other parameters.
-
-In conclusion, Dower's inverse transform should not be used for the derivation of orthogonal leads from the 12-lead ECG for the analysis of fibrillatory wave loops in AF. Spatial parameters obtained after this derivation may differ from those obtained from recorded orthogonal leads.
-

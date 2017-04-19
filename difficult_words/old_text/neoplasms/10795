@@ -1,9 +1,0 @@
-
-The aim of this study was to cross-validate an automated and customized severity of illness score as a means of predicting death among adult cancer patients admitted to the intensive care unit (ICU).
-
-We conducted a retrospective study of ICU discharges between January 1, 2001, and December 31, 2005, in a university comprehensive cancer center. We randomly selected training and validation samples in 2 ICU groups (medical and surgical patients). We used logistic regression to calculate the probabilities of death in the ICU and in-hospital death in training samples and applied these probabilities to the validation samples to calculate sensitivity and specificity, construct curves, and determined the areas under the receiver operating characteristic curve (AUC).
-
-We included 6880 patients. In predicting ICU mortality, the AUC was 0.77 (95% confidence interval [CI], 0.73-0.82) for the medical validation group and 0.8207 (95% CI, 0.7304-0.9109) for the surgical validation group. For in-hospital mortality, the AUCs for the groups of medical and surgical patients were 0.73 (95% CI, 0.69-0.76) and 0.77 (95% CI, 0.73-0.80), respectively.
-
-The modified Sequential Organ Failure Assessment score is a good and valid predictor of cancer patients' risk of dying in the ICU and/or hospital despite the modifications needed to automate the score using existing electronic data.
-

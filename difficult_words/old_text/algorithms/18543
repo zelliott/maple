@@ -1,7 +1,0 @@
-
-The power of multi-sequence comparison for biological discovery is well established. The need for new capabilities to visualize and compare cross-species alignment data is intensified by the growing number of genomic sequence datasets being generated for an ever-increasing number of organisms. To be efficient these visualization algorithms must support the ability to accommodate consistently a wide range of evolutionary distances in a comparison framework based upon phylogenetic relationships.
-
-We have developed Phylo-VISTA, an interactive tool for analyzing multiple alignments by visualizing a similarity measure for multiple DNA sequences. The complexity of visual presentation is effectively organized using a framework based upon interspecies phylogenetic relationships. The phylogenetic organization supports rapid, user-guided interspecies comparison. To aid in navigation through large sequence datasets, Phylo-VISTA leverages concepts from VISTA that provide a user with the ability to select and view data at varying resolutions. The combination of multiresolution data visualization and analysis, combined with the phylogenetic framework for interspecies comparison, produces a highly flexible and powerful tool for visual data analysis of multiple sequence alignments.
-
-Phylo-VISTA is available at http://www-gsd.lbl.gov/phylovista. It requires an Internet browser with Java Plug-in 1.4.2 and it is integrated into the global alignment program LAGAN at http://lagan.stanford.edu
-

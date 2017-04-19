@@ -1,7 +1,0 @@
-
-Chromatin structure plays the crucial role in proper gene functioning. Therefore, it is very important to investigate nucleosomal DNA properties and recognize genome nucleosome positioning sequences. Nevertheless, applying different sequence analysis methods separately is insufficient for complete nucleosomal DNA description. One of the most probable reasons for that is the weakness of nucleosome positioning signals. The present paper offers a set of methods to reveal the most important nucleosomal DNA characteristics and to show a common pattern of nucleosome site properties.
-
-A complex approach was used to determine conformational and physicochemical properties that are most significant for nucleosome binding site description. The integrated database of nucleosomal DNA properties is compiled. This database comprises different sections for description of DNA characteristics. Revealing significant DNA characteristics allows the classification of various samples of site sequences and the generation of programs for site recognition.
-
-The current version of the database is available at http://wwwmgs.bionet.nsc. ru/system/BDNAvideo/. C-code of the recognition program may be found in the section FEATURE. WWW-available programs for testing arbitrary sequences are accessible at http://wwwmgs.bionet.nsc. ru/Programs/bDNA/NA_bDNA.htm/. The links to the mirror site(s) can be found at http://wwwmgs.bionet.nsc.ru/mgs/links/mirrors.html+ ++.
-

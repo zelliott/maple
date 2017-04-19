@@ -1,9 +1,0 @@
-
-Real-time quantitative PCR is increasingly used in clinical laboratories. Genomic DNA or plasmids containing cloned target sequences are necessary to generate data for standard curves. These data must be analysed to obtain the relative or absolute quantity of the target concentration in a sample. The method chosen for data analysis can strongly influence results of the quantification. Absolute quantification is important especially in clinical settings. For different reasons estimating the copy number of the gene of interest based on DNA concentration measurements is vague and tends toward overestimation, especially if cell lines are used.
-
-Data gained by limiting dilution and multiple-tube approach were analyzed using our new Poisson distribution based software and were compared with results from DNA concentration measurement. Data from different cell sources (peripheral blood mononuclear cells and two cell lines) were compared:
-
-Limiting dilution and multiple-tube approach analyzed by a Poisson distribution simplifies and improves the generation of standard curves for real time PCR if cell lines are used. The absolute target copy number in a sample, the standard deviation, and a 95% confidence interval are calculated by the software.
-
-With this easy to use program a target copy number can be reliably quantified. The program is available free of charge from: http://www.medizin.uni-greifswald.de/InnereC/index.php?id=18 (link will be activated after acceptance of the paper).
-

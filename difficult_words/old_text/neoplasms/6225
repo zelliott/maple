@@ -1,9 +1,0 @@
-
-Competing risks observations, in which patients are subject to a number of potential failure events, are a feature of most clinical cancer studies. With competing risks, several modeling approaches are available to evaluate the relationship of covariates to cause-specific failures. We discuss the use and interpretation of commonly used competing risks regression models.
-
-For competing risks analysis, the influence of covariate can be evaluated in relation to cause-specific hazard or on the cumulative incidence of the failure types. We present simulation studies to illustrate how covariate effects differ between these approaches. We then show the implications of model choice in an example from a Radiation Therapy Oncology Group (RTOG) clinical trial for prostate cancer.
-
-The simulation studies illustrate that, depending on the relationship of a covariate to both the failure type of principal interest and the competing failure type, different models can result in substantially different effects. For example, a covariate that has no direct influence on the hazard of a primary event can still be significantly associated with the cumulative probability of that event, if the covariate influences the hazard of a competing event. This is a logical consequence of a fundamental difference between the model formulations. The example from RTOG similarly shows differences in the influence of age and tumor grade depending on the endpoint and the model type used.
-
-Competing risks regression modeling requires that one considers the specific question of interest and subsequent choice of the best model to address it.
-

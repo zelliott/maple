@@ -1,9 +1,0 @@
-
-To introduce a new method for calculating the paternity index (PI).
-
-Assuming that each allele from parents has undergone a transition before it segregates and transmits to child. The transition probability is 1 when parent allele is the same as child's, the transition probability is 0 when parent allele is different from the child's. Every allele has a transmission probability with 0.5. Base on these theories, it is easy to gain the probability that child inherits an allele from the alleged father or mother. Thus, the X value (numerator) and Y value (denominator) of PI formula can be calculated, as unknown man provide an allele for child with the allele frequency.
-
-A general formula that calculated the PI for trios, duos and missing child cases was deduced.
-
-The new method is practical in all kinds of forensic paternity case.
-

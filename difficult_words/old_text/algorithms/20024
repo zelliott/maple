@@ -1,9 +1,0 @@
-
-We present a parametric method for linkage analysis of quantitative phenotypes. The method provides a test for linkage as well as an estimate of different phenotype parameters. We have implemented our new method in the program GENEHUNTER-QMOD and evaluated its properties by performing simulations.
-
-The phenotype is modeled as a normally distributed variable, with a separate distribution for each genotype. Parameter estimates are obtained by maximizing the LOD score over the normal distribution parameters with a gradient-based optimization called PGRAD method.
-
-The PGRAD method has lower power to detect linkage than the variance components analysis (VCA) in case of a normal distribution and small pedigrees. However, it outperforms the VCA and Haseman-Elston regression for extended pedigrees, nonrandomly ascertained data and non-normally distributed phenotypes. Here, the higher power even goes along with conservativeness, while the VCA has an inflated type I error. Parameter estimation tends to underestimate residual variances but performs better for expectation values of the phenotype distributions.
-
-With GENEHUNTER-QMOD, a powerful new tool is provided to explicitly model quantitative phenotypes in the context of linkage analysis. It is freely available at http://www.helmholtz-muenchen.de/genepi/downloads.
-

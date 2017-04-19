@@ -1,3 +1,0 @@
-
-Software for the removal of noise from reaction curves using the principle of Fourier filtering has been written in BASIC to execute on a PC. The program inputs reaction traces which are subjected to a rotation-inversion process, to produce functions suitable for Fourier analysis. Fourier transformation into the frequency domain is followed by multiplication of the transform by a rectangular filter function, to remove the noise frequencies. Inverse transformation then yields a noise-reduced reaction trace suitable for further analysis. The program is interactive at each stage and could easily be modified to remove noise from a range of input data types.
-

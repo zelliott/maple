@@ -1,3 +1,0 @@
-
-The automatic segmentation of the prostate and rectum from 3D computed tomography (CT) images is still a challenging problem, and is critical for image-guided therapy applications. We present a new, automatic segmentation algorithm based on deformable organ models built from previously segmented training data. The major contributions of this work are a new segmentation cost function based on a Bayesian framework that incorporates anatomical constraints from surrounding bones and a new appearance model that learns a nonparametric distribution of the intensity histograms inside and outside organ contours. We report segmentation results on 185 datasets of the prostate site, demonstrating improved performance over previous models.
-

@@ -1,9 +1,0 @@
-
-The aims of this study were to identify candidate single nucleotide polymorphisms (SNPs) and candidate mechanisms of RA and generate hypotheses for SNP 'gene' pathways.
-
-We used a meta-analysis dataset of rheumatoid arthritis (RA) genome-wide association studies (GWAS) which included 2,554,714 SNPs in 5,539 RA cases and 20,169 controls of European descent. ICSNPathway (Identify candidate Causal SNPs and Pathways) analysis was applied to the meta-analysis results of the RA GWAS dataset.
-
-ICSNPathway analysis identified 49 candidate SNPs included in 37 candidate pathways. The top 5 candidate causal SNPs, rs1063478 (p=5.40E-09), rs 375256 (p=3.44E-09), rs365066 (p=3.60E-30), rs2581 (p=2.7E-25), and rs1059510 (p=2.52E-06) were all at human leukocyte antigen (HLA) loci. These candidate SNPs and pathways provided 22 hypothetical biological mechanisms. The most strongly associated pathway concerned HLA: rs1063478 alters the role of HLA-DMA in the context of the pathway of antigen processing and presentation of peptide antigen. ICSNPathway analysis identified two candidate non-HLA SNPs included in ten candidate pathways, which provided two hypothetical biological mechanisms. First, rs2476601 alters the role of protein tyrosine phosphatase non-receptor 22 (PTPN22) in the context of immune response-activation cell surface receptor signalling pathway, and, rs2230926 alters the role of tumour necrosis factor-alpha-induced protein 3 (TNFAIP3) in the context of the CD40L signalling pathway.
-
-The application of ICSNPathway analysis to the meta-analysis results of RA GWAS datasets indicated candidate SNPs and pathways involving HLA-DMA, PTPN22, and TNAIP3 associated with RA susceptibility.
-

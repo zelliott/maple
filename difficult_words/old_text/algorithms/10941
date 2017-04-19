@@ -1,9 +1,0 @@
-
-In the clinical setting, brief general mental status tests tend to detect early-stage Alzheimer's disease (AD) less well than more specific cognitive tests. Some preliminary information was collected on the diagnostic accuracy of the Traveling Salesman Problem (TSP) compared with the Mini-Mental State Examination (MMSE) in recognizing early AD from normal aging.
-
-Fifteen AD outpatients (mean +/- SD MMSE: 24.45 +/- 2.61) and 30 age- and education-matched controls were submitted in a single blind protocol to a paper-and-pencil visually-presented version of the TSP, containing a random array of 30 points (TSP30). The task consisted of drawing the shortest continuous path, passing through each point once and only once, and returning to the starting point. Path lengths for subjects' solutions were computed and compared with the optimal solution given by a specific evolutionary algorithm called GenD.
-
-TP30 discriminated significantly better between AD subjects and controls (ROC curve AUC = 0.976; 95% CI 0.94-1.01) compared with the MMSE corrected for age and education (ROC curve AUC = 0.877; 95% CI 0.74-1.005). A path length of 478.2354, taken as "cut-off point", classified correctly subjects with a sensitivity of 93.3% and a specificity of 99.3%, whereas a score corrected for age and education of 25.85 on the MMSE had a sensitivity of 73.3% and a specificity of 96.7%.
-
-The TSP seems to be particularly sensitive to early AD and independent of patient's age and educational level. The high diagnostic ability, simplicity, and independence of age and education make the TSP promising as a screening test for early AD.
-

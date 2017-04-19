@@ -1,3 +1,0 @@
-
-To use crystallography for the determination of the three-dimensional structures of proteins, protein crystals need to be grown. Automated imaging systems are increasingly being used to monitor these crystallization experiments. These present problems of accessibility to the data, repeatability of any image analysis performed and the amount of storage required. Various image formats and techniques can be combined to provide effective solutions to high volume processing problems such as these, however lack of widespread support for the most effective algorithms, such as JPeg2000 which yielded a 64% improvement in file size over the bitmap, currently inhibits the immediate take up of this approach.
-

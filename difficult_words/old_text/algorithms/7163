@@ -1,3 +1,0 @@
-
-In this paper, a digital audio processing chip which uses a wide dynamic range compression (WDRC) algorithm is designed and implemented for implantable hearing aids system. The designed chip operates at a single voltage of 3.3V and drives a 16 bit parallel input and output at 32 kHz sample. The designed chip has 1-channel 3-band WDRC composed of a FIR filter bank, a level detector, and a compression part. To verify the performance of the designed chip, we measured the frequency separations of bands and compression gain control to reflect the hearing threshold level.
-

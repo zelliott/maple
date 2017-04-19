@@ -1,9 +1,0 @@
-
-The physical and potential biological advantages of proton and carbon ions have not been fully exploited in radiation therapy for the treatment of cancer. In this work, an approach to predict proton and carbon ion relative biological effectiveness (RBE) in a representative spread-out Bragg peak (SOBP) is derived using the repair-misrepair-fixation (RMF) model.
-
-Formulas linking dose-averaged linear-quadratic parameters to DSB induction and processing are derived from the RMF model. The Monte Carlo Damage Simulation (MCDS) software is used to quantify the effects of radiation quality on the induction of DNA double-strand breaks (DSB). Trends in parameters α and β for clinically relevant proton and carbon ion kinetic energies are determined.
-
-Proton and carbon ion RBE are shown to increase as particle energy, dose, and tissue α/β ratios decrease. Entrance RBE is ∼1.0 and ∼1.3 for protons and carbon ions, respectively. For doses in the range of 0.5 to 10 Gy, proton RBE ranges from 1.02 (proximal edge) to 1.4 (distal edge). Over the same dose range, the RBE for carbon ions ranges from 1.5 on the proximal edge to 6.7 on the distal edge.
-
-The proposed approach is advantageous because the RBE for clinically relevant particle distributions is guided by well-established physical and biological (track structure) considerations. The use of an independently tested Monte Carlo model to predict the effects of radiation quality on DSB induction also minimizes the number of ad hoc biological parameters that must be determined to predict RBE. Large variations in predicted RBE across an SOBP may produce undesirable biological hot and cold spots. These results highlight the potential for the optimization of physical dose for a uniform biological effect.
-

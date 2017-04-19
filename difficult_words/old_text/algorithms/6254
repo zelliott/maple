@@ -1,3 +1,0 @@
-
-In this paper, an algorithm based on independent component analysis (ICA) for extracting the fetal heart rate (FHR) from maternal abdominal electrodes is presented. Three abdominal ECG channels are used to extract the FHR in three steps: first preprocessing procedures such as DC cancellation and low-pass filtering are applied to remove noise. Then the algorithm for multiple unknown source extraction (AMUSE) algorithm is fed to extract the sources from the observation signals include fetal ECG (FECG). Finally, FHR is extracted from FECG. The method is shown to be capable of completely revealing FECG R-peaks from observation leads even with a SNR=-200dB using semi-synthetic data.
-

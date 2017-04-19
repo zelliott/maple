@@ -1,9 +1,0 @@
-
-The purpose of this study was to introduce a novel meal detection algorithm (MDA) to be used as part of an artificial beta-cell that uses a continuous glucose monitor (CGM).
-
-We developed our MDA on a dataset of 26 meal events using records from 19 children aged 1-6 years who used the MiniMed CGMS Gold. We then applied this algorithm to CGM records from a DirecNet pilot study of the FreeStyle Navigator continuous glucose sensor. During a research center admission, breakfast insulin was withheld for 1 h, and discrete glucose levels were obtained every 10 min after the meal.
-
-Based on the Navigator readings, the MDA detected a meal at a mean time of 30 min from the onset of eating, at which time the mean serum glucose was 21 mg/dl above baseline (range 2-36 mg/dl), and >90% of meals were detected before the glucose had risen 40 mg/dl from baseline.
-
-The MDA will enable automated insulin dosing in response to meals, facilitating the development of an artificial pancreas.
-

@@ -1,7 +1,0 @@
-
-Identifying bacterial promoters is an important step towards understanding gene regulation. In this paper, we address the problem of predicting the location of promoters and their transcription start sites (TSSs) in Escherichia coli. The accepted method for this problem is to use position weight matrices (PWMs), which define conserved motifs at the sigma-factor binding site. However this method is known to result in large numbers of false positive predictions.
-
-Our approaches to TSS prediction are based upon an ensemble of support vector machines (SVMs) employing a variant of the mismatch string kernel. This classifier is subsequently combined with a PWM and a model based on distribution of distances from TSS to gene start. We investigate the effect of different scoring techniques and quantify performance using area under a detection-error tradeoff curve. When tested on a biologically realistic task, our method provides performance comparable with or superior to the best reported for this task. False positives are significantly reduced, an improvement of great significance to biologists.
-
-The trained ensemble-SVM model with instructions on usage can be downloaded from http://eresearch.fit.qut.edu.au/downloads
-

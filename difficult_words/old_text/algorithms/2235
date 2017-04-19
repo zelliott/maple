@@ -1,3 +1,0 @@
-
-Since the early 1980s, protein/DNA sequence similarity search has become of major importance to biologists, and the need for fast and efficient tools grows with the size of databanks. Two programs use the strategy of finite state deterministic automatons to accomplish these searches. One of these two is BLAST, which is now widely used, and the other Automat, which has just been published. The differences and similarities in their basic principles, their use and their performances are analysed in this paper in order to allow optimal use of these important softwares.
-

@@ -1,9 +1,0 @@
-
-Quantitative structure-pharmacokinetic relationships (QSPKR) modeling is a valuable tool in drug discovery and development. It can provide insights into the molecular determinants of processes governing the time course of drug exposure and response.
-
-Empirical and mechanism-based QSPKR models are discussed, including specific examples for oral absorption, nonspecific protein binding, volume of distribution, total metabolic stability and specific interactions with drug metabolizing enzymes. Emphasis is placed on state-of-the-art techniques, including new approaches for the direct simulation of concentration-time profiles from molecular descriptors (temporal QSPKR).
-
-Reviewing the application of current QSPKR modeling techniques will place these methods in context and highlight their respective advantages and limitations, as well as opportunities for further refinement.
-
-The expansion of readily available molecular descriptors and advanced algorithms has improved empirical models and enabled the development of robust models for non-congeneric series. Empirical models focus on point estimates of global PK processes and physiologically-based models may be more desirable than data-driven methods. Further integration of relevant biological and pharmacological mechanisms will improve the ability to predict the full time course of drug concentration and effect profiles for diverse compounds and experimental conditions.
-

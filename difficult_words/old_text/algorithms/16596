@@ -1,9 +1,0 @@
-
-To adapt a magnetization-prepared spiral imaging technique, termed T1prep, for time-efficient radiofrequency (RF)-insensitive prostate T(1) quantification at 1.5 T and evaluate signal-to-noise ratio (SNR) limits to voxel-based versus subregion analysis.
-
-A magnetization-prepared spiral imaging technique was adapted for robust T(1) contrast development, multislice imaging within 5 minutes, and data regression to a monoexponential decay. In vitro testing evaluated RF insensitivity of the multislice acquisition plus method accuracy. A pilot study was performed in 15 patients with low or intermediate risk localized prostate cancer.
-
-The multislice design displayed excellent RF insensitivity (<1% error for RF mistunings to ± 20%) and accuracy (within 3% of gold standard for T(1) values between 140 and 2100 msec). A clinical pilot study reported significantly reduced T(1) from PZ to CG to tumor subregions (PZ: 1421 ± 168 msec, n = 11; CG: 1314 ± 49 msec, n = 13; 1246 ± 68 msec, n = 8). SNR measurements identified an inappropriateness of voxel-based analysis.
-
-T1prep can quantify prostate T(1) as an adjunct measure for quantitative perfusion measurements and longitudinal treatment response monitoring. Intrapatient heterogeneities support T(1) assessment within individual patients. SNR calculations will support a transition to voxel-based analysis in future trials.
-

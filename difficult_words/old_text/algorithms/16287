@@ -1,9 +1,0 @@
-
-Although an apparent diffusion coefficient (ADC) value is often used for differential diagnosis of tumours, it varies with scanning parameters. The present study was performed to investigate the influence of imaging parameters, i.e., b value, repetition time (TR) and echo time (TE), on ADC value.
-
-The phantoms were scanned using diffusion weighted imaging (DWI) with changing b values (b=0-3000 s/mm(2)), TR and TE to determine the influence on ADC. Moreover, ADC of the brain in normal volunteers was determined with varying b values (b=0-1000 s/mm(2)).
-
-Diffusion decay curves were obtained by biexponential fitting in all phantoms. The points where fast and slow components of the biexponential decay crossed were called turning points. The b values of turning points that crossed from the biexponential curve were different in each phantom. The b values of turning points depended on ADC of fast diffusion component. When ADC is calculated using two b values of front and back for the turning point, the ADC value may be different. Therefore, it was necessary to perform calculations by b value until the turning point to obtain the ADC value of the fast component. In addition, b≥100 was recommended to avoid the influence of perfusion by blood. Furthermore, the choice of long TR and short TE was effective for accurate measurement of ADC.
-
-It is important to determine the turning point for measuring ADC.
-

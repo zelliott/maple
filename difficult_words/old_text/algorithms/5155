@@ -1,3 +1,0 @@
-
-The strongly NP-complete Double Digest Problem (DDP), for physical mapping of DNA, is now used for efficient genotyping. Existing methods: are inefficient in tackling large instances; produce only one solution while an instance may have multiple distinct solutions. In this paper, we employ the notion of equivalence among the distinct solutions to obtain almost all of them. Our method comprises two phases: finding a representative from each equivalence class using an elitist Genetic Algorithm (GA); for each representative generating the entire class efficiently. Experimental results tally for known instances. Significant reduction in search space provides notable efficiency.
-

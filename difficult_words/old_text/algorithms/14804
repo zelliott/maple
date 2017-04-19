@@ -1,3 +1,0 @@
-
-Field inhomogeneities in Magnetic Resonance Imaging (MRI) can cause blur or image distortion as they produce off-resonance frequency at each voxel. These effects can be corrected if an accurate field map is available. Field maps can be estimated starting from the phase of multiple complex MRI data sets. In this paper we present a technique based on statistical estimation in order to reconstruct a field map exploiting two or more scans. The proposed approach implements a Bayesian estimator in conjunction with the Graph Cuts optimization method. The effectiveness of the method has been proven on simulated and real data.
-

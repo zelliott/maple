@@ -1,3 +1,0 @@
-
-A thorough discussion of the random forest (RF) algorithm as it relates to a SELDI-TOF proteomics study is presented, with special emphasis on its application for cancer prevention: specifically, what makes it an efficient, yet reliable classifier, and what makes it optimal among the many available approaches. The main body of the paper treats the particulars of how to successfully apply the RF algorithm in a proteomics profiling study to construct a classifier and discover peak intensities most likely responsible for the separation between the classes.
-

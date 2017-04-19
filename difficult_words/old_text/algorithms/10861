@@ -1,3 +1,0 @@
-
-A linear programming algorithm is presented to constructively compute thermodynamically feasible fluxes and change in chemical potentials of reactions for a metabolic network. It is based on physical laws of mass conservation and the second law of thermodynamics that all chemical reactions should satisfy. As a demonstration, the algorithm has been applied to the core metabolic pathway of E. coli.
-

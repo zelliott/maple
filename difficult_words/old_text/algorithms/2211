@@ -1,3 +1,0 @@
-
-Algorithms for computing with DNA currently require the construction of pools of molecules in which each distinct molecule represents a different starting point for the calculation. We have begun building such pools using the technique of parallel overlap assembly that is already used for the generation of diversity in biologically useful combinatorial search techniques such as gene shuffling. Unlike these applications, a pool in a molecular computer must be complete, containing all possible strands, and ordered, having minimal contamination from incorrectly assembled DNA. We present an experiment in which parallel overlap assembly is used to construct a computational pool and an experiment in which this pool is used to solve the NP-complete maximal-clique problem.
-

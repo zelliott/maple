@@ -1,3 +1,0 @@
-
-In the December 2005 issue of this journal, Lam and Leung proposed stability results for fuzzy control systems where the membership functions in the controller were not the same as those from the process one, but some multiplicative bounds were known. The main practical context where that situation arises is the uncertain knowledge of the memberships of a Takagi-Sugeno model. This correspondence presents further extensions of those results, allowing for a richer description of the membership uncertainty, in terms of affine inequalities.
-

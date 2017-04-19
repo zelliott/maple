@@ -1,3 +1,0 @@
-
-Multidimensional scaling (MDS) is the process of transforming a set of points in a high-dimensional space to a lower-dimensional one while preserving the relative distances between pairs of points. Although effective methods have been developed for solving a variety of MDS problems, they mainly depend on the vectors in the lower-dimensional space having real-valued components. For some applications, the training of neural networks in particular, it is preferable or necessary to obtain vectors in a discrete, binary space. Unfortunately, MDS into a low-dimensional discrete space appears to be a significantly harder problem than MDS into a continuous space. This article introduces and analyzes several methods for performing approximately optimized binary MDS.
-

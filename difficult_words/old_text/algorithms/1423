@@ -1,3 +1,0 @@
-
-We describe a set of procedures and algorithms which have been developed to provide an efficient and reliable method for reconstructing a three-dimensional density map from specimens with helical symmetry. These procedures build on the original MRC helical processing suite, with extensions principally developed using the SUPRIM image processing package. Actomyosin is used as a model specimen to demonstrate the utility of this repackaged and expanded set of routines. The time required to complete a three-dimensional map has been reduced from several weeks using traditional manual techniques to a few days. The increased signal/noise provided has allowed for the extraction of additional layer lines not previously identified by manual techniques.
-

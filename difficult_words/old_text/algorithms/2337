@@ -1,3 +1,0 @@
-
-A computer simulation program capable of demonstrating various artifacts, such as image distortion caused by metallic implants in MR imaging, is presented. The structure of the program allows for the implementation of various imaging situations as long as spins only experience weak interaction, i.e., the Bloch equations are obeyed. The raw data are obtained by repeatedly applying the Bloch equations to the magnetization vector of each point of the simulated object, throughout the pulse sequence. With only a limited number of spins in each voxel, the effects of intravoxel dephasing and rephasing require special attention, and algorithms for this have been implemented.
-

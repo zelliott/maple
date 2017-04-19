@@ -1,3 +1,0 @@
-
-A technique for automatic retrospective correction of motion artifacts on magnetic resonance (MR) images was developed that uses only the raw (complex) data from the MR imager and requires no knowledge of patient motion during the acquisition. The algorithm was tested on coronal images of the rotator cuff in a series of 144 patients, and the improvements in image quality were similar to those achieved with navigator echoes. The results demonstrate that autocorrection can significantly reduce motion artifacts in a technically demanding MR imaging application.
-

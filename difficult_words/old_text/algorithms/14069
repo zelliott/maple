@@ -1,9 +1,0 @@
-
-To develop a fast and highly automated method for calculating two-dimensional myocardial motion and deformation using velocity encoded magnetic resonance imaging.
-
-Two-dimensional phase contrast magnetic resonance imaging was used to acquire time resolved velocity maps of the myocardium. Cardiac motion was calculated by an iterative integration-regularization scheme of low computational cost. Image segmentation was performed using active appearance models.
-
-Validation of motion tracking was performed in N = 47 subjects using saturation grid-tagging and closely followed "tag-lines." Image segmentation was validated vs. manual delineation.
-
-The speed and limited user interaction gives the method good potential for use in clinical practice.
-

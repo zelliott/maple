@@ -1,9 +1,0 @@
-
-To determine signal-to-noise (SNR), contrast-to-noise ratio, and segmentation error measurements in various low-dose computed tomographic (CT) acquisitions of an anthropomorphic phantom containing urinary stones before and after implementation of a structure-preserving diffusion (SPD) denoising algorithm, and to compare the measurements with those of standard-dose CT acquisitions.
-
-After institutional review board approval, written informed consent was waived and 36 calcium oxalate stones were evaluated after CT acquisitions in an anthropomorphic phantom at variable tube currents (33-137 mA s). The SPD denoising algorithm was applied to all images. Signal-to-noise ratio, contrast-to-noise ratio, and expected segmentation error were determined using manually drawn regions of interest to quantify the effect of the noise reduction on the image quality.
-
-The value of segmentation error measurements using the SPD denoising algorithm obtained at tube currents as low as 33 mA s (up to 75% dose reduction level) were similar to standard imaging at 137 mA s. The denoised images at reduced doses up to 75% dose reduction have higher SNR than the standard-dose images without denoising (P < 0.005). Stepwise regression showed significant (P < 0.001) effect of dose length product on SNR, and segmentation error measurements.
-
-Based on objective noise-related image quality metrics, the SPD denoising algorithm may be useful as a robust and fast tool, and it has the potential to improve image quality in low-dose CT ureter protocols.
-

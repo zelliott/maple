@@ -1,3 +1,0 @@
-
-In this paper, the delayed projection neural network for a class of solving convex programming problem is proposed. The existence of solution and global exponential stability of the proposed network are proved, which can guarantee to converge at an exact optimal solution of the convex programming problems. Several examples are given to show the effectiveness of the proposed network.
-

@@ -1,3 +1,0 @@
-
-We describe some new developments in the methodology of making heteronuclear and homonuclear recoupling experiments in solid state NMR insensitive to rf-inhomogeneity by phase alternating the irradiation on the spin system every rotor period. By incorporating delays of half rotor periods in the pulse sequences, these phase alternating experiments can be made gamma encoded. The proposed methodology is conceptually different from the standard methods of making recoupling experiments robust by the use of ramps and adiabatic pulses in the recoupling periods. We show how the concept of phase alternation can be incorporated in the design of homonuclear recoupling experiments that are both insensitive to chemical shift dispersion and rf-inhomogeneity.
-

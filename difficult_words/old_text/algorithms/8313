@@ -1,3 +1,0 @@
-
-An optimal solution is found to a real-world problem which has the characteristics of a multiple travelling-salesman problem. It deals specifically with methods of obtaining the 'best' routeing for four vehicles which provide a daily service from a depot to 38 locations. The solution technique uses both heuristic and exact algorithms to derive the order for visits to the 38 locations.
-

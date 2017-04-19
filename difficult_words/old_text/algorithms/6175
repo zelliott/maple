@@ -1,7 +1,0 @@
-
-Selecting SNP markers for genome-wide association studies is an important and challenging task. The goal is to minimize the number of markers selected for genotyping in a particular platform and therefore reduce genotyping cost while simultaneously maximizing the information content provided by selected markers.
-
-We devised an improved algorithm for tagSNP selection using the pairwise r(2) criterion. We first break down large marker sets into disjoint pieces, where more exhaustive searches can replace the greedy algorithm for tagSNP selection. These exhaustive searches lead to smaller tagSNP sets being generated. In addition, our method evaluates multiple solutions that are equivalent according to the linkage disequilibrium criteria to accommodate additional constraints. Its performance was assessed using HapMap data.
-
-A computer program named FESTA has been developed based on this algorithm. The program is freely available and can be downloaded at http://www.sph.umich.edu/csg/qin/FESTA/
-

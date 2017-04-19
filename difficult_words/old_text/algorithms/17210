@@ -1,3 +1,0 @@
-
-Accurate mathematical modelling is important in the development of iterative image reconstruction algorithms for electrical impedance tomography (EIT). In such schemes the forward problem of calculating the electric potential from Neumann boundary data is solved many times. One aspect of this problem which has received some attention is the mathematical modelling of the electrodes used in the technique. In this paper we describe an integral equation formulation of a boundary value problem associated with this tissue and we indicate some of the ways in which this formulation can be used to obtain numerical and analytic results.
-

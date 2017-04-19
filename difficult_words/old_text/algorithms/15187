@@ -1,9 +1,0 @@
-
-To evaluate the possibility of processing Z-spectra using time domain analysis.
-
-An inverse Fourier transform (IFT) is applied on Z-spectra, thus transforming the chemical exchange saturation transfer (CEST) data into the time domain. Here, large interfering signals from solvent and semisolid magnetization transfer can be fit and filtered out. The method is demonstrated on a range of phantoms (creatine, a para-CEST agent, and hen egg white) and also in vivo on a mouse brain.
-
-Using time domain analysis, signal components in Z-spectra could be fit very well, thus enabling irreverent or nuisance components to be removed. The method worked equally well for samples in a solution or a gel where the large contribution from conventional magnetization transfer contrast (MTC) was easily separated out. Results from egg white and mouse brain in vivo data showed that the large water resonance could easily be removed thus allowing the remaining signal to be analyzed without interference from direct water saturation.
-
-This method successfully filtered out the large nuisance signals from bulk water and MTC in Z-spectra in a large variety of phantom types and also in vivo. It is expected to be a potentially powerful tool for CEST studies without needing asymmetry analysis.
-

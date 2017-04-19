@@ -1,3 +1,0 @@
-
-Two examples in quantitative biology are examined to emphasize the need for two-phase regression models: the osmotic behaviour of cells and the non-linear temperature kinetics of membrane-bound enzyme systems. Existing statistical techniques are inadequate to test the equality of break-points of two data sets for specific reasons. We suggest here a pragmatic solution by way of a computer programme useful in applying two-phase regression models to such data sets wherein a decision needs to be made whether the critical transition differs or not.
-

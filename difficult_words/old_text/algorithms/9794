@@ -1,9 +1,0 @@
-
-To investigate the ability of an intravascular magnetic resonance (MR) loopless antenna to reduce the radiofrequency shielding of a vascular stent during signal reception as a way to improve the visualization of the in-stent lumen.
-
-Using a balanced steady-state free-precession (bSSFP) sequence and a dedicated vascular phantom, the signal-to-noise ratio (SNR) inside the lumen of a stent is evaluated as a function of the nominal flip angle and compared with the results obtained for a reference vessel without a stent. All experiments are performed using successively an intravascular loopless antenna and surface arrays coils. Using an optimized protocol, in vitro in-stent restenosis visualization and quantification experiments are performed to evaluate the validity of an approach using an intravascular antenna and cross-sectional images to depict a vascular lesion inside a stent.
-
-The use of a loopless antenna effectively eliminates the radiofrequency shielding effect of the stent during signal reception. Furthermore, using a bSSFP sequence with a carefully chosen nominal flip angle, an equally good blood SNR can be obtained inside and outside the stent. Results of in vitro in-stent restenosis quantification measurements using the proposed method illustrate the benefits arising from the use of the intravascular antenna.
-
-In the perspective of MR-guided vascular interventions, the presented results illustrate that the use of an intravascular antenna can significantly facilitate imaging inside a vascular stent. Potential applications include the monitoring of stent deployment as well as visualization and quantification of in-stent restenosis during an intervention.
-

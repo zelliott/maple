@@ -1,3 +1,0 @@
-
-Most biologists now conduct sequence searches as a matter of course. But how do we know that a relationship predicted by a homology search is a true, rather than false, hit with the same score? Many biologists design their own experiments with exquisite care yet still assume that results from programs with more than 20 adjustable parameters are 100% reliable. This article explains some of the key steps in getting the most from PSI-Blast, one of the most popular and powerful homology search programs currently available.
-

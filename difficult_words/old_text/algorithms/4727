@@ -1,9 +1,0 @@
-
-To experimentally verify the feasibility of focused heating in the neck region by an array of two rings of six electromagnetic antennas. We also measured the dynamic specific absorption rate (SAR) steering possibilities of this setup and compared these SAR patterns to simulations.
-
-Using a specially constructed laboratory prototype head-and-neck applicator, including a neck-mimicking cylindrical muscle phantom, we performed SAR measurements by electric field, Schottky-diode sheet measurements and, using the power-pulse technique, by fiberoptic thermometry and infrared thermography. Using phase steering, we also steered the SAR distribution in radial and axial directions. All measured distributions were compared with the predictions by a finite-difference time-domain-based electromagnetic simulator.
-
-A central 50% iso-SAR focus of 35 +/- 3 mm in diameter and about 100 +/- 15 mm in length was obtained for all investigated settings. Furthermore, this SAR focus could be steered toward the desired location in the radial and axial directions with an accuracy of approximately 5 mm. The SAR distributions as measured by all three experimental methods were well predicted by the simulations.
-
-The results of our study have shown that focused heating in the neck is feasible and that this focus can be effectively steered in the radial and axial directions. For quality assurance measurements, we believe that the Schottky-diode sheet provides the best compromise among effort, speed, and accuracy, although a more specific and improved design is warranted.
-

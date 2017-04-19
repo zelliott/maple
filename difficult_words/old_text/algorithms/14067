@@ -1,9 +1,0 @@
-
-Primary systemic therapy (PST) with gemcitabine (G), epirubicin (E), and docetaxel (Doc) has resulted in a pathologic complete response (pCR) in 26% of primary breast cancer patients. This study was aimed at the identification of a gene expression signature in diagnostic core biopsy tissue samples that predicts pCR.
-
-Core biopsy samples from patients with operable primary breast cancer, T2-4N0-2M0, enrolled onto two phase I and II trials evaluating GEDoc (n = 48) and GE sequentially followed by Doc (GEsDoc; n = 52) as PST were snap frozen and subjected to RNA expression profiling. A signature predicting pCR was discovered in the training set (GEsDoc) applying a support vector machine algorithm, and performance of this classifier was validated on the independent test set (GEDoc) by receiver operator characteristics analysis.
-
-We identified a signature consisting of 512 genes, which was enriched in genes involved in transforming growth factor beta and RAS-mediated signaling pathways, that predicts pCR with a sensitivity of 78%, a specificity of 90%, and an overall accuracy of 88% (95% CI, 75% to 95%). Apart from our signature, only HER2 overexpression was an independent predictor of pCR in multivariate analysis.
-
-In conclusion, our gene expression signature allows prediction of pCR to PST containing G, E, and Doc with unprecedented high overall accuracy and robustness.
-

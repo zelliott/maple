@@ -1,9 +1,0 @@
-
-Pulsed Brachytherapy consists of replacing continuous irradiation at low dose-rate with a series of medium dose-rate fractions in the same overall time and to the same total dose. For example, pulses of 1 Gy given every 2 hr or 2 Gy given every 4 hr would deliver the same 70 Gy in 140 hr as continuous irradiation at 0.5 Gy/hr. If higher dose-rates are used, even with gaps between the pulses, the biological effects are always greater. Provided that dose rates in the pulse do not exceed 3 Gy/hr, and provided that pulses are given as often as every 2 hr, the inevitable increases of biological effect are no larger than a few percent (of biologically effective dose or extrapolated response dose). However, these increases are more likely to exceed 10% (and thus become clinically significant) if the half-time of repair of sublethal damage is short (less than 1 hr) rather than long. This somewhat unexpected finding is explained in detail here.
-
-The rise and fall of Biologically Effective Dose (and hence of Relative Effectiveness, for a constant dose in each pulse) is calculated during and after single pulses, assuming a range of values of T1/2, the half-time of sublethal damage repair. The area under each curve is proportional to Biologically Effective Dose and therefore to log cell kill.
-
-Pulses at 3 Gy/hr do yield greater biological effect (dose x integrated Relative Effectiveness) than lower dose-rate pulses or continuous irradiation at 0.5 Gy/hr. The contrast is greater for the short T1/2 of 0.5 hr than for the longer T1/2 of 1.5 hr.
-
-More biological damage will be done (compared with traditional low dose rate brachytherapy) in tissues with short T1/2 (0.1-1 hr) than in tissues with longer T1/2 values.
-

@@ -1,3 +1,0 @@
-
-We report the initiation of pacemaker-mediated tachycardia by a St Jude implantable cardioverter-defibrillator with a programmed Ventricular Intrinsic Preference algorithm used for minimizing or inhibiting right ventricular pacing. This feature prolongs the atrioventricular (AV) delay periodically to determine if ventricular sensed events follow atrial events. Retrograde ventriculoatrial conduction and pacemaker-mediated tachycardia were initiated by long extended AV delays of 300 and 400 milliseconds. The 400-millisecond AV delay consisted of the programmed sensed AV delay (100 milliseconds) plus the Ventricular Intrinsic Preference increment (200 milliseconds) plus 100 milliseconds imposed by the AutoCapture algorithm when it detected loss of ventricular capture.
-

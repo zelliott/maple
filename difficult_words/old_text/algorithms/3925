@@ -1,9 +1,0 @@
-
-Image quantification in optoacoustic tomography implies the use of accurate forward models of excitation, propagation, and detection of optoacoustic signals while inversions with high spatial resolution usually involve very large matrices, leading to unreasonably long computation times. The development of fast and memory efficient model-based approaches represents then an important challenge to advance on the quantitative and dynamic imaging capabilities of tomographic optoacoustic imaging.
-
-Herein, a method for simplification and acceleration of model-based inversions, relying on inherent symmetries present in common tomographic acquisition geometries, has been introduced. The method is showcased for the case of cylindrical symmetries by using polar image discretization of the time-domain optoacoustic forward model combined with efficient storage and inversion strategies.
-
-The suggested methodology is shown to render fast and accurate model-based inversions in both numerical simulations and post mortem small animal experiments. In case of a full-view detection scheme, the memory requirements are reduced by one order of magnitude while high-resolution reconstructions are achieved at video rate.
-
-By considering the rotational symmetry present in many tomographic optoacoustic imaging systems, the proposed methodology allows exploiting the advantages of model-based algorithms with feasible computational requirements and fast reconstruction times, so that its convenience and general applicability in optoacoustic imaging systems with tomographic symmetries is anticipated.
-

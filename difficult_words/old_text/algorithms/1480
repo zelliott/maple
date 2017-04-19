@@ -1,3 +1,0 @@
-
-The selection of unbiased representatives from a large database is complicated by the requirement for the chosen entries to be not only genuinely different from each other but also typical for the family of related entries. A method satisfying this 2-fold objective was developed by equipping complete linkage clustering with a novel noise elimination procedure to deal with overlapping cluster structure. A total of 200 nuclear families of truly related Brookhaven Protein Data Bank structures were generated, from which any entry can be chosen to represent its family.
-

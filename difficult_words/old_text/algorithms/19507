@@ -1,3 +1,0 @@
-
-Systems with counter-clockwise input-output (I-O) dynamics were recently introduced in order to study the convergence of positive feedback loops (possibly to many different equilibrium states). The author shows how this notion can be used to perform bifurcation analysis and globally predict multistability of a closed-loop feedback interconnection just by using the knowledge of steady-state I-O responses of the systems. To illustrate the theory, this method is then applied to a recently published model of mitogen activated protein kinase (MAPK) cascade. Furthermore, some examples (mainly motivated by molecular biology) of systems that enjoy the property are presented and discussed.
-

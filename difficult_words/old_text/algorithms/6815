@@ -1,9 +1,0 @@
-
-Fast and reliable phylogeny estimation is rapidly gaining importance as more and more genomic sequence information is becoming available, and the study of the evolution of genes and genomes accelerates our understanding in biology and medicine alike. Branch attraction phenomena due to unequal amounts of evolutionary change in different parts of the phylogeny are one major problem for current methods, placing the species that evolved fast in one part of the phylogenetic tree, and the species that evolved slowly in the other.
-
-We describe a way to avoid the artifactual attraction of species that evolved slowly, by detecting shared old character states using a calibrated comparison with an outgroup. The corresponding focus on shared novel character states yields a fast and transparent phylogeny estimation algorithm, by application of the divide-and-conquer principle, and heuristic search: shared novelties give evidence of the exclusive common heritage (monophyly) of a subset of the species. They indicate conflict in a split of all species considered, if the split tears them apart. Only the split at the root of the phylogenetic tree cannot have such conflict. Therefore, we can work top-down, from the root to the leaves, by heuristically searching for a minimum-conflict split, and tackling the resulting two subsets in the same way. The algorithm, called "minimum conflict phylogeny estimation" (MCOPE), has been validated successfully using both natural and artificial data. In particular, we reanalyze published trees, yielding more plausible phylogenies, and we analyze small "undisputed" trees on the basis of alignments considering structural homology.
-
-MCOPEis available via http://bibiserv.techfak.uni-bielefeld.de/mcope/.
-
-fuellen@alum.mit.edu
-

@@ -1,5 +1,0 @@
-
-We developed an algorithm named GEAR (genomic enrichment analysis of regional DNA copy number changes) for functional interpretation of genome-wide DNA copy number changes identified by array-based comparative genomic hybridization. GEAR selects two types of chromosomal alterations with potential biological relevance, i.e. recurrent and phenotype-specific alterations. Then it performs functional enrichment analysis using a priori selected functional gene sets to identify primary and clinical genomic signatures. The genomic signatures identified by GEAR represent functionally coordinated genomic changes, which can provide clues on the underlying molecular mechanisms related to the phenotypes of interest. GEAR can help the identification of key molecular functions that are activated or repressed in the tumor genomes leading to the improved understanding on the tumor biology.
-
-GEAR software is available with online manual in the website, http://www.systemsbiology.co.kr/GEAR/.
-

@@ -1,3 +1,0 @@
-
-A non-linear control method, known as Variable Structure Control (VSC), is employed to reduce the duration of ultrasonic (US) transducer transients. A physically realizable system using a simplified form of the VSC algorithm is proposed for standard piezoelectric transducers and simulated. Results indicate a VSC-controlled transmitter reduces the transient duration to less than a carrier wave cycle. Applications include high capacity ultrasound communication and localization systems.
-

@@ -1,9 +1,0 @@
-
-To compare signal identification algorithms for recording visual evoked potentials (VEP).
-
-VEPs were recorded both in the presence and absence of a stimulus. Four algorithms were designed to estimate the probability that a recording contains a stimulus evoked signal, and to assign weights for use in a weighted average to isolate a final VEP. Algorithms were compared on their ability to identify trials containing VEPs; the signal-to-noise (SNR) ratios of the final VEP, and the number of trials required to isolate a VEP that was significantly different from background noise.
-
-All the algorithms isolated VEPs that did not differ significantly in timing or amplitude from those extracted using traditional ensemble averaging. All the studied algorithms were capable of identifying and assigning a significantly greater weight to trials containing visually evoked signals compared with trials containing only noise potentials (P < 0.01). The best performing algorithm produced a ninefold increase in the signal-to-noise of the extracted waveform.
-
-The present investigation provides empirical confirmation that computational signal identification algorithms can improve the detection of VEP signal embedded in noise. When combined with weighted averaging they can reduce the number of trials required for evaluation.
-

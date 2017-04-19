@@ -1,7 +1,0 @@
-
-The integration of biomedical information is essential for tackling medical problems. We describe a data model in the domain of flow cytometry (FC) allowing for massive management, analysis and integration with other laboratory and clinical information. The paper is concerned with the proper translation of the Flow Cytometry Standard (FCS) into a relational database schema, in a way that facilitates end users at either doing research on FC or studying specific cases of patients undergone FC analysis
-
-The proposed database schema provides integration of data originating from diverse acquisition settings, organized in a way that allows syntactically simple queries that provide results significantly faster than the conventional implementations of the FCS standard. The proposed schema can potentially achieve up to 8 orders of magnitude reduction in query complexity and up to 2 orders of magnitude reduction in response time for data originating from flow cytometers that record 256 colours. This is mainly achieved by managing to maintain an almost constant number of data-mining procedures regardless of the size and complexity of the stored information.
-
-It is evident that using single-file data storage standards for the design of databases without any structural transformations significantly limits the flexibility of databases. Analysis of the requirements of a specific domain for integration and massive data processing can provide the necessary schema modifications that will unlock the additional functionality of a relational database.
-

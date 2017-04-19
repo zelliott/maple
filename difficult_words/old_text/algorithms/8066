@@ -1,7 +1,0 @@
-
-Understanding transcriptional regulation is one of the main challenges in computational biology. An important problem is the identification of transcription factor (TF) binding sites in promoter regions of potential TF target genes. It is typically approached by position weight matrix-based motif identification algorithms using Gibbs sampling, or heuristics to extend seed oligos. Such algorithms succeed in identifying single, relatively well-conserved binding sites, but tend to fail when it comes to the identification of combinations of several degenerate binding sites, as those often found in cis-regulatory modules.
-
-We propose a new algorithm that combines the benefits of existing motif finding with the ones of support vector machines (SVMs) to find degenerate motifs in order to improve the modeling of regulatory modules. In experiments on microarray data from Arabidopsis thaliana, we were able to show that the newly developed strategy significantly improves the recognition of TF targets.
-
-The python source code (open source-licensed under GPL), the data for the experiments and a Galaxy-based web service are available at http://www.fml.mpg.de/raetsch/suppl/kirmes/.
-

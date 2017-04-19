@@ -1,3 +1,0 @@
-
-We study the problem of sorting genomes under an evolutionary model that includes genomic rearrangements and segmental duplications. We propose an iterative algorithm to improve any initial evolutionary trajectory between two genomes in terms of parsimony. Our algorithm is based on a new graphical model, the trajectory graph, which models not only the final states of two genomes but also an existing evolutionary trajectory between them. We show that redundant rearrangements in the trajectory correspond to certain cycles in the trajectory graph, and prove that our algorithm converges to an optimal trajectory for any initial trajectory involving only rearrangements.
-

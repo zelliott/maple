@@ -1,3 +1,0 @@
-
-A block-based compressive imaging (BCI) system using sequential architecture is presented in this paper. Feature measurements are collected using the principal component analysis (PCA) projection. The linear Wiener operator and a nonlinear method based on the Field-of-Expert (FoE) prior model are used for object reconstruction. Experimental results are given to demonstrate the superior reconstruction performance of the FoE-based method over the Wiener operator. In addition, the effects of system parameters, such as the object block size, the number of features per block, and the noise level to the BCI reconstruction performance are discussed with different kinds of objects. Then an optimal block size is defined and studied for BCI.
-

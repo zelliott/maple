@@ -1,3 +1,0 @@
-
-Two-dimensional covariance (COV2D) spectroscopy with non-uniform and consecutive acquisition (NUCA) scheme is introduced. This NUCA-COV2D method allows the number of t(1) points to be reduced by a factor of 1.5-3 without any broadening of the linewidth. Furthermore, the signal-to-noise ratio (S/N) can be increased up to 50%, which can further save experimental time by another factor of 2. This method has been demonstrated with model samples and the microcrystalline proteins. In all cases, the total experimental time can be reduced by a factor of 3-6, without any loss of resolution and S/N, with respect to what is necessary with the FT2D NMR.
-

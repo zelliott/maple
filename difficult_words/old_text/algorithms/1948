@@ -1,9 +1,0 @@
-
-Accurate cardiac deformation analysis for cardiac displacement and strain imaging over time requires Lagrangian description of deformation of myocardial tissue structures. Failure to couple the estimated displacement and strain information with the correct myocardial tissue structures will lead to erroneous result in the displacement and strain distribution over time.
-
-Lagrangian based tracking in this paper divides the tissue structure into a fixed number of pixels whose deformation is tracked over the cardiac cycle. An algorithm that utilizes a polar-grid generated between the estimated endocardial and epicardial contours for cardiac short axis images is proposed to ensure Lagrangian description of the pixels. Displacement estimates from consecutive radiofrequency frames were then mapped onto the polar grid to obtain a distribution of the actual displacement that is mapped to the polar grid over time.
-
-A finite element based canine heart model coupled with an ultrasound simulation program was used to verify this approach. Segmental analysis of the accumulated displacement and strain over a cardiac cycle demonstrate excellent agreement between the ideal result obtained directly from the finite element model and our Lagrangian approach to strain estimation. Traditional Eulerian based estimation results, on the other hand, show significant deviation from the ideal result. An in vivo comparison of the displacement and strain estimated using parasternal short axis views is also presented.
-
-Lagrangian displacement tracking using a polar grid provides accurate tracking of myocardial deformation demonstrated using both finite element and in vivo radiofrequency data acquired on a volunteer. In addition to the cardiac application, this approach can also be utilized for transverse scans of arteries, where a polar grid can be generated between the contours delineating the outer and inner wall of the vessels from the blood flowing though the vessel.
-

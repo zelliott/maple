@@ -1,3 +1,0 @@
-
-An integrated methodology for the detection and removal of cracks on digitized paintings is presented in this paper. The cracks are detected by thresholding the output of the morphological top-hat transform. Afterward, the thin dark brush strokes which have been misidentified as cracks are removed using either a median radial basis function neural network on hue and saturation data or a semi-automatic procedure based on region growing. Finally, crack filling using order statistics filters or controlled anisotropic diffusion is performed. The methodology has been shown to perform very well on digitized paintings suffering from cracks.
-

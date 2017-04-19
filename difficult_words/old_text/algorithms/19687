@@ -1,3 +1,0 @@
-
-The design, analysis, and system simulation of an adaptive processor based on a current-mode mixed analog-digital circuit is presented. The processor consists of a mixed four-quadrant multiplier and a current conveyor that performs the nonlinearity. Schematics, circuit parameters, and a high-level model are shown. The results achieved when applying this processor model to conditioning several sensor types are discussed.
-

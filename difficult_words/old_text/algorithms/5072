@@ -1,7 +1,0 @@
-
-We propose an efficient and biologically sensitive algorithm based on repeated random walks (RRW) for discovering functional modules, e.g., complexes and pathways, within large-scale protein networks. Compared to existing cluster identification techniques, RRW implicitly makes use of network topology, edge weights, and long range interactions between proteins.
-
-We apply the proposed technique on a functional network of yeast genes and accurately identify statistically significant clusters of proteins. We validate the biological significance of the results using known complexes in the MIPS complex catalogue database and well-characterized biological processes. We find that 90% of the created clusters have the majority of their catalogued proteins belonging to the same MIPS complex, and about 80% have the majority of their proteins involved in the same biological process. We compare our method to various other clustering techniques, such as the Markov Clustering Algorithm (MCL), and find a significant improvement in the RRW clusters' precision and accuracy values.
-
-RRW, which is a technique that exploits the topology of the network, is more precise and robust in finding local clusters. In addition, it has the added flexibility of being able to find multi-functional proteins by allowing overlapping clusters.
-

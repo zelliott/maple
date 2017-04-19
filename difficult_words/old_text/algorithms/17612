@@ -1,3 +1,0 @@
-
-This paper presents and proves an algorithm to calculate the isotopic composition of individual (nominal) isotopic peaks. From this information one can calculate the accurate masses of isotopic peaks. This opens the way to use accurate mass measurements to determine chemical compositions of compounds using non-mono-isotopic peaks. The algorithm is computationally efficient and rigorously correct in the absence of roundoff error. Highly effective error correction strategies are described to detect and correct computational errors arising in practical calculations. Results from theoretical calculations of isotopic masses for a krypton inclusion complex agreed well with experimental measurements.
-

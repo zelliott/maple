@@ -1,9 +1,0 @@
-
-This paper proposes a novel method for the extraction and classification of individual motor unit action potentials (MUAPs) from intramuscular electromyographic signals.
-
-The proposed method automatically detects the number of template MUAP clusters and classifies them into normal, neuropathic or myopathic. It consists of three steps: (i) preprocessing of electromyogram (EMG) recordings, (ii) MUAP detection and clustering and (iii) MUAP classification.
-
-The approach has been validated using a dataset of EMG recordings and an annotated collection of MUAPs. The correct identification rate for MUAP clustering is 93, 95 and 92% for normal, myopathic and neuropathic, respectively. Ninety-one percent of the superimposed MUAPs were correctly identified. The obtained accuracy for MUAP classification is about 86%.
-
-The proposed method, apart from efficient EMG decomposition addresses automatic MUAP classification to neuropathic, myopathic or normal classes directly from raw EMG signals.
-

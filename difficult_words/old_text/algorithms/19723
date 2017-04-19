@@ -1,9 +1,0 @@
-
-To evaluate maximum likelihood (ML) blind deconvolution as a technique for improving the repeatability of topographic height measurements obtained from scanning laser tomography (Heidelberg Retinal Tomograph [HRT]; Heidelberg Engineering, Heidelberg, Germany).
-
-ML blind deconvolution is an image-processing technique that estimates the original scene from a degraded image. This technique has been used in confocal scanning laser microscopy to remove "out-of-focus" haze in three-dimensional confocal image stacks. ML blind deconvolution requires no prior estimation of the point-spread function (PSF), as opposed to classic linear deconvolution methods. Instead, the algorithm estimates an initial PSF based on the optical setup of the confocal scanning device and optics of the eye and iteratively proceeds to a solution. The improvement in repeatability of height measurements from mean topography images within scan (intrascan) and between scans (interscan) afforded by ML deconvolution was evaluated in a test-retest series of HRT images from 40 ocular hypertensive and glaucomatous patients with varying degrees of media opacity.
-
-There was an improvement in intrascan repeatability in 38 out of the 40 mean topography images (median improvement 2.5 microm, inter-quartile range 2.19, P < 0.001), and an improvement in interscan repeatability in 33 of the 40 mean topographies (median improvement, 1.0 microm, interquartile range 3.49, P < 0.001). There was a positive association between the magnitude of the improvement in repeatability and the level of mean pixel height standard deviation (MPHSD), intrascan (P = 0.004) and interscan (P = 0.002).
-
-ML blind deconvolution algorithm improves the repeatability of topographic height measurements from the HRT. This improvement was greater in patients with poorer quality images.
-

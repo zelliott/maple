@@ -1,3 +1,0 @@
-
-Promoter prediction is a difficult but important problem in gene finding, and it is critical for elucidating the regulation of gene expression. We introduce a new promoter prediction program, CoreBoost, which applies a boosting technique with stumps to select important small-scale as well as large-scale features. CoreBoost improves greatly on locating transcription start sites. We also demonstrate that by further utilizing some tissue-specific information, better accuracy can be achieved.
-

@@ -1,9 +1,0 @@
-
-In this paper, we present a novel framework for inferring regulatory and sequence-level information from gene co-expression networks. The key idea of our methodology is the systematic integration of network inference and network topological analysis approaches for uncovering biological insights.
-
-We determine the gene co-expression network of Bacillus subtilis using Affymetrix GeneChip time-series data and show how the inferred network topology can be linked to sequence-level information hard-wired in the organism's genome. We propose a systematic way for determining the correlation threshold at which two genes are assessed to be co-expressed using the clustering coefficient and we expand the scope of the gene co-expression network by proposing the slope ratio metric as a means for incorporating directionality on the edges. We show through specific examples for B. subtilis that by incorporating expression level information in addition to the temporal expression patterns, we can uncover sequence-level biological insights. In particular, we are able to identify a number of cases where (1) the co-expressed genes are part of a single transcriptional unit or operon and (2) the inferred directionality arises due to the presence of intra-operon transcription termination sites.
-
-The software will be provided on request.
-
-http://www.phys.psu.edu/~ralbert/pdf/gma_bioinf_supp.pdf
-

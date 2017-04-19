@@ -1,7 +1,0 @@
-
-A mathematical/computer model of cardiac tissue was used to study the estimation of transmembrane current (EIm) from extracellular potential recordings.
-
-The simulated EIm of transmembrane current was compared with the simulated transmembrane current (Im), and both simulated values were compared with experimentally derived EIm obtained during sinus rhythm and ventricular fibrillation in dogs. We found that although EIm measurements slightly overestimate the duration of the Im waveform, they provide a reasonable approximation of Im during normal conduction and during decremental conduction and conduction block.
-
-There is a very clear linear correlation between the time spent at or below 25% of the peak inward transmembrane current (Im25), its corresponding estimate (EIm25), the peak inward Im and EIm, and the peak ionic current, providing some evidence that EIm25 may be a suitable in vivo measure of peak ionic current.
-

@@ -1,3 +1,0 @@
-
-Sayre's equations give a set of relationships that exist among the structure factors of an equal-atom structure. In order to obtain the correct phases of the structure factors, a genetic algorithm is used to minimize a least-squares residual of Sayre's equations. In the genetic algorithm, a phase is treated as a gene and the whole set of phases is considered as a chromosome. Every chromosome is relaxed to a nearby local minimum by quenching after being produced from a previous generation. Trial calculations for a structure containing 92 non-H equal atoms with synthetic data and another structure containing 62 non-H equal atoms with real data are presented. Compared to simulated annealing, a genetic algorithm is a more efficient means of global optimization.
-

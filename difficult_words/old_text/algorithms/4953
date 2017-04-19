@@ -1,3 +1,0 @@
-
-Compression and variable selection are two classical strategies to deal with large-dimension data sets in classification. We propose an alternative strategy, called aggregation, which consists of a clustering step of redundant variables and a compression step within each group. We develop a statistical framework to define tailored aggregation methods that can be combined with selection methods to build reliable classifiers that benefit from the information contained in redundant variables. Two algorithms are proposed for ordered and nonordered variables, respectively. Applications to the kNN and CART algorithms are presented.
-

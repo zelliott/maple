@@ -1,3 +1,0 @@
-
-This study focused on the impact of noise on the reliability of heart-rate variability and complexity (HRV, HRC) to discriminate between different trauma patients and to monitor individual patients. Life-saving interventions (LSIs) were chosen as an endpoint because performance of LSIs is a critical aspect of trauma patient care. Noise was modeled and simulated by modifying original R-R interval (RRI) sequences via decimation, concatenation, and division of RRIs, as well as R-wave detection using the electrocardiogram. Results showed that under increasing simulated noise, entropy and autocorrelation measures can still effectively discriminate between LSI and non-LSI patients and monitor individuals over time.
-

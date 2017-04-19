@@ -1,9 +1,0 @@
-
-A widely accepted method to quantify differences in dose distributions is the gamma (gamma) evaluation. Currently, almost all gamma implementations utilize the central processing unit (CPU). Recently, the graphics processing unit (GPU) has become a powerful platform for specific computing tasks. In this study, we describe the implementation of a 3D gamma evaluation using a GPU to improve calculation time.
-
-The gamma evaluation algorithm was implemented on an NVIDIA Tesla C2050 GPU using the compute unified device architecture (CUDA). First, several cubic virtual phantoms were simulated. These phantoms were tested with varying dose cube sizes and set-ups, introducing artificial dose differences. Second, to show applicability in clinical practice, five patient cases have been evaluated using the 3D dose distribution from a treatment planning system as the reference and the delivered dose determined during treatment as the comparison. A calculation time comparison between the CPU and GPU was made with varying thread-block sizes including the option of using texture or global memory.
-
-A GPU over CPU speed-up of 66 +/- 12 was achieved for the virtual phantoms. For the patient cases, a speed-up of 57 +/- 15 using the GPU was obtained. A thread-block size of 16 x 16 performed best in all cases. The use of texture memory improved the total calculation time, especially when interpolation was applied. Differences between the CPU and GPU gammas were negligible.
-
-The GPU and its features, such as texture memory, decreased the calculation time for gamma evaluations considerably without loss of accuracy.
-

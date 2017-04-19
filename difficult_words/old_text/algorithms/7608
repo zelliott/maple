@@ -1,9 +1,0 @@
-
-Predicting technical difficulties in laparoscopic cholecystectomy (LC) in a small regional hospital increases efficacy, cost-benefit and safety of the procedure. The aim of the study was to assess whether it is possible to accurately predict a difficult LC (DLC) in a small regional hospital based only on the routine available clinical work-up parameters (patient history, ultrasound examination and blood chemistry) and their combinations.
-
-A prospective, cohort, of 369 consecutive patients operated by the same surgeon was analyzed. Conversion rate was 10 (2.7%). DLC was registered in 55 (14.90%). Various data mining techniques were applied and assessed.
-
-Seven significant predictors of DLC were identified: i) shrunken (fibrotic) gallbladder (GB); ii) ultrasound (US) GB wall thickness >4 mm; iii) >5 attacks of pain lasting >5 hours; iv) WBC >10x109 g/L; v) pericholecystic fluid; vi) urine amylase >380 IU/L, and vii) BMI >30kg/m2. Bayesian network was selected as the best classifier with accuracy of 94.57, specificity 0.98, sensitivity 0.77, AUC 0.96 and F-measure 0.81.
-
-It is possible to predict a DLC with high accuracy using data mining techniques, based on routine preoperative clinical parameters and their combinations. Use of sophisticated diagnostic equipment is not necessary.
-

@@ -1,3 +1,0 @@
-
-This report describes the occurrence of a repetitive nonreentrant ventriculoatrial (VA) synchronous rhythm precipitated by the noncompetitive atrial pacing algorithm of a Medtronic DDDR pacemaker. This algorithm delivers an atrial stimulus 300 ms after the detection of an atrial signal in the postventricular atrial refractory period of the pacemaker. In our patient, the atrial stimulus released by the algorithm was ineffectual because it encountered prolonged refractoriness of the atrial myocardium. This situation produced a repetitive nonreentrant VAl synchronous rhythm in the setting of retrograde VA conduction.
-

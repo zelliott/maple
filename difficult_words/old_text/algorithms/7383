@@ -1,7 +1,0 @@
-
-Gene regulatory networks (GRN) inference is an important bioinformatics problem in which the gene interactions need to be deduced from gene expression data, such as microarray data. Feature selection methods can be applied to this problem. A feature selection technique is composed by two parts: a search algorithm and a criterion function. Among the search algorithms already proposed, there is the exhaustive search where the best feature subset is returned, although its computational complexity is unfeasible in almost all situations. The objective of this work is the development of a low cost parallel solution based on GPU architectures for exhaustive search with a viable cost-benefit. We use CUDA™, a general purpose parallel programming platform that allows the usage of NVIDIA® GPUs to solve complex problems in an efficient way.
-
-We developed a parallel algorithm for GRN inference based on multiple GPU cards and obtained encouraging speedups (order of hundreds), when assuming that each target gene has two multivariate predictors. Also, experiments using single and multiple GPUs were performed, indicating that the speedup grows almost linearly with the number of GPUs.
-
-In this work, we present a proof of principle, showing that it is possible to parallelize the exhaustive search algorithm in GPUs with encouraging results. Although our focus in this paper is on the GRN inference problem, the exhaustive search technique based on GPU developed here can be applied (with minor adaptations) to other combinatorial problems.
-

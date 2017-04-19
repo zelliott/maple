@@ -1,3 +1,0 @@
-
-Breast tissue classification is an important and effective way for computer aided diagnosis of breast cancer with digital mammogram. Current methods endure two problems, firstly pectoral muscle influences the classification performance owing to its texture similar to parenchyma, and secondly classification algorithms fail to deal with the nonlinear problem from the digital mammogram. For these problems, we propose a novel framework of breast tissue classification based on kernel self-optimized discriminant analysis combined with the artifacts and pectoral muscle removal with multi-level segmentation based Connected Component Labeling analysis. Experiments on mini-MIAS database are implemented to testify and evaluate the performance of proposed algorithm.
-

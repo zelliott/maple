@@ -1,3 +1,0 @@
-
-A novel approach of ECG baseline wander correction based on mean-median filter and empirical mode decomposition is presented in this paper. The low frequency parts of the original signals were removed by the mean median filter in a nonlinear way to obtain the baseline wander estimation, then its series of IMFs were sifted by t-test after empirical mode decomposition. The proposed method, tested by the ECG signals in MIT-BIH Arrhythmia database and European ST_T database, is more effective compared with other baseline wander removal methods.
-

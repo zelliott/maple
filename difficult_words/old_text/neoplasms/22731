@@ -1,9 +1,0 @@
-
-Currently, optimisation of the dose distribution and clinical acceptance are almost entirely based on the physical dose distribution and tumour control probability modelling is far from being routinely used as objective in treatment planning. For future individualised radiotherapeutic strategies, a reliable patient specific simulation model, taking into account customised tumour features, is needed to predict and improve treatment outcome.
-
-To approach these demands, a single cell and Monte-Carlo based model was developed, which enables three-dimensional tumour growth and radiation response simulation. Tumour cells were characterised by cell-associated features such as age, intrinsic radio-sensitivity, proliferation ability, and oxygenation status, while capillary cells were considered as sources of a radial-dependent oxygen profile. Response to radiation was simulated by the linear-quadratic model, taking into account the lower radio-sensitivity of poorly oxygenated tumour cells.
-
-The present study shows the influence of the model components and demonstrates the impact of the intra- and inter-tumoural radio-sensitivity heterogeneity on the treatment response.
-
-The simulation model adequately delineates the importance of the above described selected parameters on tumour control probability, providing an insight into the interplay of different physical and biological parameters, and its relevance for an individual tumour response.
-

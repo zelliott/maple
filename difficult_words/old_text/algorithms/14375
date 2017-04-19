@@ -1,3 +1,0 @@
-
-A wavelet threshold denoising algorithm for CR images is put forward here . A noised CR image is decomposed into wavelet coefficients, which are processed by the algorithm, and the denoised CR image is reconstructed based on the processed coefficients. Examples are too presented to demonstrate the efficiency of the algorithm on denoising and, maintaining the detail of the CR images.
-

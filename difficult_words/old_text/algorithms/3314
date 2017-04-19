@@ -1,9 +1,0 @@
-
-To derive and validate a clinical prediction model with high sensitivity for differentiating aseptic meningitis (AM) patients from bacterial meningitis (BM) patients.
-
-We developed the model using the derivation cohort in a community rural hospital in Okinawa and assessed its performance using the validation cohort in a metropolitan urban hospital in Tokyo. There were 66 (39.5%) and 5 (17.9%) adult patients with BM among the derivation (n=167) and the validation cohort (n=28), respectively. Recursive partitioning analysis was used to determine the important classification variables and to develop a sensitive model to safely exclude BM.
-
-The model produced high- and low-risk groups based on the following: 1) Gram stain, 2) CSF neutrophil percent < or =15%, 3) CSF neutrophil count < or =150 cells/mm(3), and, 4) mental status change. Among the derivation cohort, there were 65 patients with BM in the high-risk group (n=76), while only one patient with BM was noted (sensitivity, 99%) in the low-risk group (n=91). Among the validation cohort, there were 5 patients with BM in the high-risk group (n=7), while no patient was classified with BM (sensitivity, 100%) in the low-risk group (n=21).
-
-This simple and sensitive model might be useful to safely identify low-risk patients for BM who would not require antibiotic treatment.
-

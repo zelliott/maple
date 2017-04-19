@@ -1,9 +1,0 @@
-
-Fall-related injuries are multifaceted problems. One approach to identify the critical biomechanical factors is biodynamic simulation.
-
-A 2-degree-of-freedom discrete impact model was constructed through system identification and validated using experimental data in order to understand the dynamic interactions of various biomechanical parameters in bimanual forward fall arrests.
-
-The bimodal reaction force responses from the identified models had very small identification errors (<3.5%) and high coherence (R(2)=0.95) between the measured and identified model responses. Model validation with separate experimental data also demonstrated excellent validation accuracy and coherence, less than 7% errors and R(2)=0.87, respectively. The first force peak was usually greater than the second force peak and strongly correlated with the impact velocity of the upper extremity, while the second force peak was associated with the impact velocity of the body. The impact velocity of the upper extremity relative to the body could be a major risk factor to fall-related injuries as observed from model simulations that a 75% faster arm movement relative to the falling speed of the body alone could double the first force peak from that of a soft landing, thereby readily exceeding the fracture strength of the distal radius.
-
-Despite the time-critical nature of falling often calling for a rapid arm movements, the safe use of the upper extremity in forward fall arrests requires adequate reaction times and coordinated protective motions of the upper extremity.
-

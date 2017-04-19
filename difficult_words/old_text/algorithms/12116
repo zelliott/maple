@@ -1,7 +1,0 @@
-
-The analysis of repeated elements in genomes is a fascinating domain of research that is lacking relevant tools for transposable elements (TEs), the most complex ones. The dynamics of TEs, which provides the main mechanism of mutation in some genomes, is an essential component of genome evolution. In this study we introduce a new concept of domain, a segmentation unit useful for describing the architecture of different copies of TEs. Our method extracts occurrences of a terminus-defined family of TEs, aligns the sequences, finds the domains in the alignment and searches the distribution of each domain in sequences. After a classification step relative to the presence or the absence of domains, the method results in a graphical view of sequences segmented into domains.
-
-Analysis of the new non-autonomous TE AtREP21 in the model plant Arabidopsis thaliana reveals copies of very different sizes and various combinations of domains which show the potential of our method.
-
-DomainOrganizer web page is available at www.irisa.fr/symbiose/DomainOrganizer/.
-

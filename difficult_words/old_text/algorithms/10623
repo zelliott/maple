@@ -1,3 +1,0 @@
-
-Two single-method servers, SPARKS 2 and SP3, participated in automatic-server predictions in CASP6. The overall results for all as well as detailed performance in comparative modeling targets are presented. It is shown that both SPARKS 2 and SP3 are able to recognize their corresponding best templates for all easy comparative modeling targets. The alignment accuracy, however, is not always the best among all the servers. Possible factors are discussed. SPARKS 2 and SP3 fold recognition servers, as well as their executables, are freely available for all academic users on http://theory.med.buffalo.edu.
-

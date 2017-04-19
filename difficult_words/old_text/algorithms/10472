@@ -1,9 +1,0 @@
-
-A statistical projection restoration algorithm based on the penalized weighted least-squares (PWLS) criterion can substantially improve the image quality of low-dose CBCT images. The performance of PWLS is largely dependent on the choice of the penalty parameter. Previously, the penalty parameter was chosen empirically by trial and error. In this work, the authors developed an inverse technique to calculate the penalty parameter in PWLS for noise suppression of low-dose CBCT in image guided radiotherapy (IGRT).
-
-In IGRT, a daily CBCT is acquired for the same patient during a treatment course. In this work, the authors acquired the CBCT with a high-mAs protocol for the first session and then a lower mAs protocol for the subsequent sessions. The high-mAs projections served as the goal (ideal) toward, which the low-mAs projections were to be smoothed by minimizing the PWLS objective function. The penalty parameter was determined through an inverse calculation of the derivative of the objective function incorporating both the high and low-mAs projections. Then the parameter obtained can be used for PWLS to smooth the noise in low-dose projections. CBCT projections for a CatPhan 600 and an anthropomorphic head phantom, as well as for a brain patient, were used to evaluate the performance of the proposed technique.
-
-The penalty parameter in PWLS was obtained for each CBCT projection using the proposed strategy. The noise in the low-dose CBCT images reconstructed from the smoothed projections was greatly suppressed. Image quality in PWLS-processed low-dose CBCT was comparable to its corresponding high-dose CBCT.
-
-A technique was proposed to estimate the penalty parameter for PWLS algorithm. It provides an objective and efficient way to obtain the penalty parameter for image restoration algorithms that require predefined smoothing parameters.
-

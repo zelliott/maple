@@ -1,3 +1,0 @@
-
-Present proteomic studies increasingly address experimental strategies focused on multiple comparisons of proteomic profiles. To accomplish semiautomatic protein separations based on 2-D LC, the Beckman Coulter PF2D has been developed. Here, we present a novel general purpose tool called MPA (multiple peak alignment) able to perform multiple comparisons of proteomic profiles both in a pairwise guided fashion and in a fully automatic mode using a strategy based on dynamic programing and progressive alignment of time series. The tool is available at http://grup.cribi.unipd.it/people/stefano/mpa/.
-

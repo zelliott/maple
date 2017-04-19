@@ -1,3 +1,0 @@
-
-A common approach to the analysis of gene expression data is to define clusters of genes that have similar expression. A critical step in cluster analysis is the determination of similarity between the expression levels of two genes. We introduce a neural network-based similarity index as a non-linear similarity index and compare the results with other proximity measures for Saccharomyces cerevisiae gene expression data. We show that the clusters obtained using Euclidean distance, correlation coefficients, and mutual information were not significantly different. The clusters formed with the neural network-based index were more in agreement with those defined by functional categories and common regulatory motifs.
-

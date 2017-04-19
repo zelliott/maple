@@ -1,3 +1,0 @@
-
-A new algorithm for calculating the metamer mismatch volumes that arise in colour vision and colour imaging is introduced. Unlike previous methods, the proposed method places no restrictions on the set of possible object reflectance spectra. As a result of such restrictions, previous methods have only been able to provide approximate solutions to the mismatch volume. The proposed new method is the first to characterize precisely the metamer mismatch volume for any possible reflectance.
-

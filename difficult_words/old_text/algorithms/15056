@@ -1,9 +1,0 @@
-
-To compare the performance of two predictive radiologic models, logistic regression (LR) and neural network (NN), with five different resampling methods.
-
-One hundred sixty-seven patients with proven calvarial lesions as the only known disease were enrolled. Clinical and CT data were used for LR and NN models. Both models were developed with cross-validation, leave-one-out, and three different bootstrap algorithms. The final results of each model were compared with error rate and the area under receiver operating characteristic curves (Az).
-
-The NN obtained statistically higher Az values than LR with cross-validation. The remaining resampling validation methods did not reveal statistically significant differences between LR and NN rules.
-
-The NN classifier performs better than the one based on LR. This advantage is well detected by three-fold cross-validation but remains unnoticed when leave-one-out or bootstrap algorithms are used.
-

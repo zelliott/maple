@@ -1,9 +1,0 @@
-
-To improve the conspicuity of bladder tumors in a virtual environment, we developed an algorithm for color mapping the thickness of the bladder wall. The purpose of this study was to demonstrate the feasibility of this algorithm as a component of virtual CT cystoscopy.
-
-Five subjects with a history of superficial transitional-cell carcinoma of the bladder underwent helical CT scanning after insufflation of the bladder with air. Source images were transformed into three-dimensional models, and the thickness of the bladder wall was demarcated by using a new computer algorithm and a fixed color scale. Results were compared with those obtained by conventional cystoscopy.
-
-Three tumors, one site of benign wall thickening, and normal wall thickness were correctly identified by using axial source images and virtual cystoscopy with color mapping.
-
-Color mapping of bladder wall thickness is feasible and demonstrates both normal and thickened urothelium. Its value in identification of small or sessile tumors will require further trials.
-

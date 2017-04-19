@@ -1,3 +1,0 @@
-
-In this paper, two new concepts of DR (Dose Repulsion) and DG (Dose Gravitation) are presented with their calculation formulas. For the problem of selecting beam arcs in x-knife radiotherapy Planning system, a mathematics model of constrained optimization has been built. Furthermore, we have produced a feasible project of automatic selecting optimized beam arcs plan using SA (Simulated Annealing) arithmetic based on the distribution of the fields of DR and DG in the reduced phase space.
-

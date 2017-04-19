@@ -1,7 +1,0 @@
-
-Inhibition of Akt signaling is considered one of the most promising therapeutic strategies for many cancers. However, rational target-orientated approaches to cell based drug screens for anti-cancer agents have historically been compromised by the notorious absence of suitable control cells.
-
-In order to address this fundamental problem, we have developed BaFiso, a live-cell screening platform to identify specific inhibitors of this pathway. BaFiso relies on the co-culture of isogenic cell lines that have been engineered to sustain interleukin-3 independent survival of the parental Ba/F3 cells, and that are individually tagged with different fluorescent proteins. Whilst in the first of these two lines cell survival in the absence of IL-3 is dependent on the expression of activated Akt, the cells expressing constitutively-activated Stat5 signaling display IL-3 independent growth and survival in an Akt-independent manner. Small molecules can then be screened in these lines to identify inhibitors that rescue IL-3 dependence.
-
-BaFiso measures differential cell survival using multiparametric live cell imaging and permits selective inhibitors of Akt signaling to be identified. BaFiso is a platform technology suitable for the identification of small molecule inhibitors of IL-3 mediated survival signaling.
-

@@ -1,3 +1,0 @@
-
-We introduce a haplotype-sharing correlation in founder haplotypes for use in genome scanning. The method evaluates the correlation between phenotype similarity and haplotype similarity at each candidate location. When applied to Genetic Analysis Workshop 12 simulated data for disease status, age at onset, and quantitative traits Q1-Q5, we found highly significant signals near four simulated disease loci in genome scans using microsatellite marker data and highly significant gene effects in three casual genes using sequence data.
-

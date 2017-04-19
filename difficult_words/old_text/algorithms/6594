@@ -1,3 +1,0 @@
-
-The concept of qth order Hamming ball for general bidirectional associative memories (GBAMs) is presented, which results in an enhanced recall capability. A technique based on the minimum overlap algorithm (MOA) is proposed to deal with the separability problem of the qth order Hamming balls. Simulation results show that the recall capability obtained by using the proposed method is indeed larger than that obtained by using the conventional method.
-

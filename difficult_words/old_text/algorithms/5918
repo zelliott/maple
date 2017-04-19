@@ -1,3 +1,0 @@
-
-One important technique common throughout surgery is achieving proper exposure of critical anatomic structures so that their shapes, which may vary somewhat among patients, can be confidently established and avoided. In this paper, we present an algorithm for determining which regions of selected structures are properly exposed in the context of a mastoidectomy simulation. Furthermore, our algorithm then finds and displays all other points along the surface of the structure that lie along a sufficiently short and straight path from an exposed portion such that their locations can be safely inferred. Finally, we present an algorithm for providing realistic visual cues about underlying structures with view-dependent shading of the bone.
-

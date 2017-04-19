@@ -1,3 +1,0 @@
-
-In this paper we propose methods for designing phase II trials that allow for a trade-off between treatment safety and antitumor activity, where safety and antitumor activity are measured as binary endpoints. The designs can be carried out either in a single stage or can be conducted in two stages, with an interim analysis to assess whether the treatment appears sufficiently safe and effective to warrant continuing. The emphasis is on the derivation of stopping rules for phase II trials that require the enrollment of a small number of patients and are based on enumerating the exact distribution of the proposed test statistic. We illustrate the methods with a recent study that required the use of a group sequential design to monitor antitumor activity and toxicity.
-

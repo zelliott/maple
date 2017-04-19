@@ -1,7 +1,0 @@
-
-Many recent studies have suggested the possibility that a variety of different biomarkers may be associated with treatment outcome. However, it is also apparent that some of these biomarkers are heterogeneously distributed within a tumor. Due to this heterogeneous distribution of the biomarker, the association sought may appear weak or nonexistent. Thus, there is a wide range of conclusions in the literature on the association between a biomarker and an outcome.
-
-This article presents how to quantify the heterogeneity and how it influences the observed effect size and the ability to detect it (power of the study). It can be shown that the estimated effect size and the power of the study are diminished when the biomarker is measured with error. The estimated effect of the association with outcome of the average of several replicates per patient is closer to the true effect size when the number of replicates increases.
-
-The first step in designing a study of association between a biomarker and outcome is to conduct a pilot study in which several measurements per patient are taken. Based on these data, the heterogeneity of the marker within and between individuals can be estimated and used in the process of designing an appropriate study of the association between the biomarker and outcome.
-

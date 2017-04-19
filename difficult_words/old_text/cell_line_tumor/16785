@@ -1,9 +1,0 @@
-
-Immunodeficient mice transplanted with subcutaneous tumors (xenograft or allograft) are widely used as a model of preclinical activity for the discovery and development of anticancer drug candidates. Despite their widespread use, there is a widely held view that these models provide minimal predictive value for discerning clinically active versus inactive agents. To improve the predictive nature of these models, we have carried out a retrospective population pharmacokinetic-pharmacodynamic (PK-PD) analysis of relevant xenograft/allograft efficacy data for eight agents (molecularly targeted and cytotoxic) with known clinical outcome.
-
-PK-PD modeling was carried out to first characterize the relationship between drug concentration and antitumor activity for each agent in dose-ranging xenograft or allograft experiments. Next, simulations of tumor growth inhibition (TGI) in xenografts/allografts at clinically relevant doses and schedules were carried out by replacing the murine pharmacokinetics, which were used to build the PK-PD model with human pharmacokinetics obtained from literature to account for species differences in pharmacokinetics.
-
-A significant correlation (r = 0.91, P = 0.0008) was observed between simulated xenograft/allograft TGI driven by human pharmacokinetics and clinical response but not when TGI observed at maximum tolerated doses in mice was correlated with clinical response (r = 0.36, P = 0.34).
-
-On the basis of these analyses, agents that led to greater than 60% TGI in preclinical models, at clinically relevant exposures, are more likely to lead to responses in the clinic. A proposed strategy for the use of murine subcutaneous models for compound selection in anticancer drug discovery is discussed.
-

@@ -1,3 +1,0 @@
-
-In abdomen computed tomography (CT), repeated radiation exposures are often inevitable for cancer patients who receive surgery or radiotherapy guided by CT images. Low-dose scans should thus be considered in order to avoid the harm of accumulative x-ray radiation. This work is aimed at improving abdomen tumor CT images from low-dose scans by using a fast dictionary learning (DL) based processing. Stemming from sparse representation theory, the proposed patch-based DL approach allows effective suppression of both mottled noise and streak artifacts. The experiments carried out on clinical data show that the proposed method brings encouraging improvements in abdomen low-dose CT images with tumors.
-

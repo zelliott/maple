@@ -1,7 +1,0 @@
-
-We introduce a new approach to using the information contained in sequence-to-function prediction data in order to recognize protein template classes, a critical step in predicting protein structure. The data on which our method is based comprise probabilities of functional categories; for given query sequences these probabilities are obtained by a neural net that has previously been trained on a variety of functionally important features. On a training set of sequences we assess the relevance of individual functional categories for identifying a given structural family. Using a combination of the most relevant categories, the likelihood of a query sequence to belong to a specific family can be estimated.
-
-The performance of the method is evaluated using cross-validation. For a fixed structural family and for every sequence, a score is calculated that measures the evidence for family membership. Even for structural families of small size, family members receive significantly higher scores. For some examples, we show that the relevant functional features identified by this method are biologically meaningful. The proposed approach can be used to improve existing sequence-to-structure prediction methods.
-
-Matlab code is available on request from the authors. The data are available at http://www.mpisb.mpg.de/~sommer/Fun2Struc/
-

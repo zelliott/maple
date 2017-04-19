@@ -1,3 +1,0 @@
-
-This paper describes a new model for human visual classification that enables the recovery of image features that explain performance on different visual classification tasks. Unlike some common methods, this algorithm does not explain performance with a single linear classifier operating on raw image pixels. Instead, it models classification as the result of combining the output of multiple feature detectors. This approach extracts more information about human visual classification than has been previously possible with other methods and provides a foundation for further exploration.
-

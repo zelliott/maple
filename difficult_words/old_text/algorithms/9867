@@ -1,3 +1,0 @@
-
-With the rise of systems biology as an important paradigm in the life sciences and the availability and increasingly good quality of high-throughput molecular data, the role of mathematical models has become central in the understanding of the relationship between structure and function of organisms. This chapter focuses on a particular type of models, so-called algebraic models, which are generalizations of Boolean networks. It provides examples of such models and discusses several available methods to construct such models from high-throughput time course data. One specific such method, Polynome, is discussed in detail.
-

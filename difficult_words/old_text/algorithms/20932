@@ -1,3 +1,0 @@
-
-We describe and analyze a model for a stochastic pulse-coupled neural network, in which the randomness in the model corresponds to synaptic failure and random external input. We show that the network can exhibit both synchronous and asynchronous behavior, and surprisingly, that there exists a range of parameters for which the network switches spontaneously between synchrony and asynchrony. We analyze the associated mean-field model and show that the switching parameter regime corresponds to a bistability in the mean field, and that the switches themselves correspond to rare events in the stochastic system.
-

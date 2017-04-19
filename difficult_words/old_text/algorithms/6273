@@ -1,3 +1,0 @@
-
-In this paper, we present a new approach for chaos reproduction using variable structure recurrent neural networks (VSRNN). A neural network identifier is designed, with a variable structure that will change according to its output performance as compared to the given orbits of an unknown chaotic systems. A tradeoff between identification errors and computational complexity is discussed.
-

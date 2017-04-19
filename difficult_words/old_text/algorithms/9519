@@ -1,9 +1,0 @@
-
-In the field of cardiac MR image segmentation, active contour models, or snakes have been extensively used, owing to their promising results and to the numerous extensions proposed to improve their performance. This paper explores a methodology for evaluating cardiac MR image segmentation algorithms, which assesses the distance between computer-generated and the observer's hand-outlined boundaries. This metric was applied to various external force extensions of the traditional snake, since no systematic comparison has been performed.
-
-Cardiac MRI from six patients were analyzed. Imaging was performed on a 1.5 T MR scanner with ECG-gated balanced steady-state free precession (b-SSFP) sequences. Segmentation performances were established for traditional snake, gradient vector flow snake, standard- and guided- pressure force-based snake. The use of a pre-treatment with non-linear anisotropic filtering was also compared to non-filtered images.
-
-Agreement between manual and segmentation algorithms was satisfactory for ejection fraction for every segmentation scheme. However end-systolic and end-diastolic volumes were systematically underestimated.
-
-The developed regional error metric provided a more rigorous evaluation of the segmentation schemes in comparison to the classical derived parameters based on left ventricle volume estimation, usually used in functional cardiac MR studies. These derived parameters can furthermore mask local segmentation errors.
-

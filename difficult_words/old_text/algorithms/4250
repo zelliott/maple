@@ -1,3 +1,0 @@
-
-In this paper, a numerical method for the solution of a strongly coupled reaction-diffusion system, with suitable initial and Neumann boundary conditions, by using cubic B-spline collocation scheme on a uniform grid is presented. The scheme is based on the usual finite difference scheme to discretize the time derivative while cubic B-spline is used as an interpolation function in the space dimension. The scheme is shown to be unconditionally stable using the von Neumann method. The accuracy of the proposed scheme is demonstrated by applying it on a test problem. The performance of this scheme is shown by computing L∞ and L2 error norms for different time levels. The numerical results are found to be in good agreement with known exact solutions.
-

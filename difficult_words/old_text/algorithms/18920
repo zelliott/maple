@@ -1,7 +1,0 @@
-
-Compensating alterations during the evolution of protein families give rise to coevolving positions that contain important structural and functional information. However, a high background composed of random noise and phylogenetic components interferes with the identification of coevolving positions.
-
-We have developed a rapid, simple and general method based on information theory that accurately estimates the level of background mutual information for each pair of positions in a given protein family. Removal of this background results in a metric, MIp, that correctly identifies substantially more coevolving positions in protein families than any existing method. A significant fraction of these positions coevolve strongly with one or only a few positions. The vast majority of such position pairs are in contact in representative structures. The identification of strongly coevolving position pairs can be used to impose significant structural limitations and should be an important additional constraint for ab initio protein folding.
-
-Alignments and program files can be found in the Supplementary Information.
-

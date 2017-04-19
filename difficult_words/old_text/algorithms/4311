@@ -1,9 +1,0 @@
-
-To identify regional differences in apparent diffusion coefficient (ADC) and fractional anisotropy (FA) using customized preprocessing before voxel-based analysis (VBA) in 14 normal subjects with the specific genes that decrease (apolipoprotein [APO] E ε2) and that increase (APOE ε4) the risk of Alzheimer's disease.
-
-Diffusion tensor images (DTI) acquired at 1.5 Tesla were denoised with a total variation tensor regularization algorithm before affine and nonlinear registration to generate a common reference frame for the image volumes of all subjects. Anisotropic and isotropic smoothing with varying kernel sizes was applied to the aligned data before VBA to determine regional differences between cohorts segregated by allele status.
-
-VBA on the denoised tensor data identified regions of reduced FA in APOE ε4 compared with the APOE ε2 healthy older carriers. The most consistent results were obtained using the denoised tensor and anisotropic smoothing before statistical testing. In contrast, isotropic smoothing identified regional differences for small filter sizes alone, emphasizing that this method introduces bias in FA values for higher kernel sizes.
-
-Voxel-based DTI analysis can be performed on low signal to noise ratio images to detect subtle regional differences in cohorts using the proposed preprocessing techniques.
-

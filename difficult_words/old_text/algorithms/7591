@@ -1,3 +1,0 @@
-
-The ability to conduct high-quality semiautomatic 3D segmentation of lung nodules in CT scans is of high value to busy radiologists. Discriminative random fields (DRFs) were used to segment 3D volumes of lung nodules in CT scan data using only one seed point per nodule. Optimal parameters for the DRF inference were first found using simulated annealing. These parameters were then used to solve the inference problem using the graph cuts algorithm. Results of the segmentation exhibited high precision and recall. The system can be adapted to facilitate the process of longitudinal studies but will still require human checking for failed cases.
-

@@ -1,9 +1,0 @@
-
-To develop an algorithm for fast and accurate T2 estimation from highly undersampled multi-echo spin-echo data.
-
-The algorithm combines a model-based reconstruction with a signal decay based on the slice-resolved extended phase graph (SEPG) model with the goal of reconstructing T2 maps from highly undersampled radial multi-echo spin-echo data with indirect echo compensation. To avoid problems associated with the nonlinearity of the SEPG model, principal component decomposition is used to linearize the signal model. The proposed CUrve Reconstruction via principal component-based Linearization with Indirect Echo compensation (CURLIE) algorithm is used to estimate T2 curves from highly undersampled data. T2 maps are obtained by fitting the curves to the SEPG model.
-
-Results on phantoms showed T2 biases (1.9% to 18.4%) when indirect echoes are not taken into account. The T2 biases were reduced (< 3.2%) when the CURLIE reconstruction was performed along with SEPG fitting even for high degrees of undersampling (4% sampled). Experiments in vivo for brain, liver, and heart followed the same trend as the phantoms.
-
-The CURLIE reconstruction combined with SEPG fitting enables accurate T2 estimation from highly undersampled multi-echo spin-echo radial data thus, yielding a fast T2 mapping method without errors caused by indirect echoes.
-

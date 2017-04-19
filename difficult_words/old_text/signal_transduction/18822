@@ -1,5 +1,0 @@
-
-Parallel multifactor dimensionality reduction is a tool for large-scale analysis of gene-gene and gene-environment interactions. The MDR algorithm was redesigned to allow an unlimited number of study subjects, total variables and variable states, and to remove restrictions on the order of interactions being analyzed. In addition, the algorithm is markedly more efficient, with approximately 150-fold decrease in runtime for equivalent analyses. To facilitate the processing of large datasets, the algorithm was made parallel.
-
-Parallel MDR is freely available for non-commercial research institutions. For full details see http://chgr.mc.vanderbilt.edu/ritchielab/pMDR. An open-source version of MDR software is available at http://www.epistasis.org.
-

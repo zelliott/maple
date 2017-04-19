@@ -1,3 +1,0 @@
-
-The development of a RF ablation therapeutic instrument based on improved PID algorithm is introduced here. It is based on the theory of radio frequency local destruction. By adopting the improved PID temperature control algorithm, the problem of the temperature control precision reduction due to tumor tissue characteristic changing by heating has been solved, thus ensuring homogeneous and smooth radio frequency heating to tumor foci. Experiments demonstrate that the new algorithm has strong adaptability and anti-disturbance capability, the equipment works stably and reliably, and can control therapeutic temperature precisely (+/- 2 degrees C), which indicates a good clinical application value.
-

@@ -1,3 +1,0 @@
-
-We present two-layered neural network models with Q (> or =2)-states neurons for a system with middle temporal (MT) neurons and medial superior temporal (MST) neurons by using a wake-sleep algorithm proposed by Hinton et al.; we notice that the wake-sleep algorithm consists of local learning rules. We first investigate a model with binary neurons for response properties of the MST neurons to optical flows as for various types of motion. We next extend the model with binary neurons to a model with Q (> or =3)-states neurons and investigate the response properties of the MST neurons for various values of Q (> or =3). We obtain better response properties for the model with Q (> or =3)-states neurons than for the one with binary neurons.
-

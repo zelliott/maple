@@ -1,3 +1,0 @@
-
-Using the Lyapunov functional approach, we study the global stability of a class of neural networks with distributed delays. Without assuming the boundedness, monotonicity and differentiability of the activation functions and symmetry of the interconnection matrix, we give some new sufficient conditions on the existence, uniqueness and global asymptotic stability of the equilibrium point. Our results improve, extend and complement some existing ones.
-

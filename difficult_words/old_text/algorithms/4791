@@ -1,3 +1,0 @@
-
-We focus on the majority model in a topology consisting of two coupled fully connected networks, thereby mimicking the existence of communities in social networks. We show that a transition takes place at a value of the interconnectivity parameter. Above this value, only symmetric solutions prevail, where both communities agree with each other and reach consensus. Below this value, in contrast, the communities can reach opposite opinions and an asymmetric state is attained. The importance of the interface between the subnetworks is shown.
-

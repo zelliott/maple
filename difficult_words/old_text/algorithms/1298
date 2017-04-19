@@ -1,9 +1,0 @@
-
-Verbal autopsy (VA) is an indirect method for estimating cause-specific mortality. In most previous studies, cause of death has been assigned from verbal autopsy data using expert algorithms or by physician review. Both of these methods may have poor validity. In addition, physician review is time consuming and has to be carried out by doctors. A range of methods exist for deriving classification rules from data. Such rules are quick and simple to apply and in many situations perform as well as experts.
-
-This paper has two aims. First, it considers the advantages and disadvantages of the three main methods for deriving classification rules empirically; (a) linear and other discriminant techniques, (b) probability density estimation and (c) decision trees and rule-based methods. Second, it reviews the factors which need to be taken into account when choosing a classification method for assigning cause of death from VA data.
-
-Four main factors influence the choice of classification method: (a) the purpose for which a classifier is being developed, (b) the number of validated causes of death assigned to each case, (c) the characteristics of the VA data and (d) the need for a classifier to be comprehensible. When the objective is to estimate mortality from a single cause of death, logistic regression should be used. When the objective is to determine patterns of mortality, the choice of method will depend on the above factors in ways which are elaborated in the paper.
-
-Choice of classification method for assigning cause of death needs to be considered when designing a VA validation study. Comparison of the performance of classifiers derived using different methods requires a large VA dataset, which is not currently available.
-

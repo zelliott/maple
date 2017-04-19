@@ -1,9 +1,0 @@
-
-Although abnormally high Lactate/Pyruvate ratio (LPR) could indicate cerebral ischemia for brain injury patients, there is a debate on what is primary factor responsible for LPR increase.
-
-A data analysis experiment is taken to test whether any association between cerebral vasodilatation/vasoconstriction and LPR increase exists. We studied 4,316 microdialysis data samples collected in an average interval of 1.3 h from 30 severe traumatic brain injury (TBI) patients. The LPR increase episodes were automatically identified using a moving time-window of 5 samples. A novel pulse morphological template matching (PMTM) algorithm was applied to the intracranial pressure (ICP) data of the corresponding patients to assess the occurrence of cerebral vasodilatation and vasoconstriction during the identified LPR increase episodes. Several analyses were performed to evaluate the association between cerebral vasoconstriction/vasodilatation and LPR increase.
-
-Results revealed that although more than half of the LPR increase episodes are not associated with any detected cerebral vasoconstriction/vasodilatation, when a vaso-change happens in association of LPR increase, it is more likely that this vaso-change is in the form of vasoconstriction rather than vasodilatation. Also for few subjects with dominant number of vasoconstriction episodes, a causality relationship between vasoconstriction and LPR increase were observed (vasoconstriction precedes LPR increase).
-
-Using continuous intracranial pressure monitoring and our pulse morphological template matching (PMTM) algorithm could be potentially helpful in teasing out whether culprit cerebral vascular changes precede metabolic crisis for traumatic brain injury patients and hence guiding the management of this condition.
-

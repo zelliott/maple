@@ -1,3 +1,0 @@
-
-For the first time, we study the sorting of permutations by length-weighted transpositions under a wide class of cost functions, namely f(l)=l(alpha), where l is the length of the transposition. For different alpha, we give corresponding upper and lower bounds of the cost of sorting any binary sequences or any permutations. Furthermore, an O(log n)-approximation algorithm and an exact algorithm are given to determine the optimal transposition series of sorting a permutation of length n when 1< alpha < 2 and alpha > or =2 respectively. Our work poses some interesting questions to both biologists and computer scientists and suggests some new bioinformatic insights that are currently being studied.
-

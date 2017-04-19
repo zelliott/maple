@@ -1,3 +1,0 @@
-
-Current techniques in composite-block-structured grid generation and unstructured grid generation for general 3D geometries are summarized, including both algebraic and elliptic generation procedures for the former and Delaunay tessellations for the latter. Citations of relevant theory are given. Examples of applications for several geometries are included.
-

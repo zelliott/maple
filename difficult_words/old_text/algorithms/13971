@@ -1,7 +1,0 @@
-
-The secondary structure is a key element of architectural organization in proteins. Accurate assignment of the secondary structure elements (SSE) (helix, strand, coil) is an essential step for the analysis and modelling of protein structure. Various methods have been proposed to assign secondary structure. Comparative studies of their results have shown some of their drawbacks, pointing out the difficulties in the task of SSE assignment.
-
-We have designed a new automatic method, named P-SEA, to assign efficiently secondary structure from the sole C alpha position. Some advantages of the new algorithm are discussed.
-
-The program P-SEA is available by anonymous ftp: ftp.lmcp.jussieu.fr directory: pub/.
-

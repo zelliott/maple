@@ -1,3 +1,0 @@
-
-We apply a linear mixed-effects model to multivariate failure time data. Computation of the regression parameters involves the Buckley-James method in an iterated Monte Carlo expectation-maximization algorithm, wherein the Monte Carlo E-step is implemented using the Metropolis-Hastings algorithm. From simulation studies, this approach compares favorably with the marginal independence approach, especially when there is a strong within-cluster correlation.
-

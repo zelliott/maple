@@ -1,9 +1,0 @@
-
-In computed tomography (CT), metal objects in the region of interest introduce data inconsistencies during acquisition. Reconstructing these data results in an image with star shaped artifacts induced by the metal inconsistencies. To enhance image quality, the influence of the metal objects can be reduced by different metal artifact reduction (MAR) strategies. For an adequate evaluation of new MAR approaches a ground truth reference data set is needed. In technical evaluations, where phantoms can be measured with and without metal inserts, ground truth data can easily be obtained by a second reference data acquisition. Obviously, this is not possible for clinical data. Here, an alternative evaluation method is presented without the need of an additionally acquired reference data set.
-
-The proposed metric is based on an inherent ground truth for metal artifacts as well as MAR methods comparison, where no reference information in terms of a second acquisition is needed. The method is based on the forward projection of a reconstructed image, which is compared to the actually measured projection data.
-
-The new evaluation technique is performed on phantom and on clinical CT data with and without MAR. The metric results are then compared with methods using a reference data set as well as an expert-based classification. It is shown that the new approach is an adequate quantification technique for artifact strength in reconstructed metal or MAR CT images.
-
-The presented method works solely on the original projection data itself, which yields some advantages compared to distance measures in image domain using two data sets. Beside this, no parameters have to be manually chosen. The new metric is a useful evaluation alternative when no reference data are available.
-

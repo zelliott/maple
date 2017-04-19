@@ -1,3 +1,0 @@
-
-In this present article, genetic algorithms and multilayer perceptron neural network (MLPNN) have been integrated in order to reduce the complexity of an optimization problem. A data-driven identification method based on MLPNN and optimal design of experiments is described in detail. The nonlinear model of an extractive ethanol process, represented by a MLPNN, is optimized using real-coded and binary-coded genetic algorithms to determine the optimal operational conditions. In order to check the validity of the computational modeling, the results were compared with the optimization of a deterministic model, whose kinetic parameters were experimentally determined as functions of the temperature.
-

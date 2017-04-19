@@ -1,3 +1,0 @@
-
-Umbrella integration is a method to analyze umbrella sampling simulations. It calculates free-energy changes from distributions obtained from molecular dynamics. While it can be formulated on the full sampled distributions, they are generally approximated by normal distributions. This is equivalent to the truncation of a power series of the free energy with respect to the reaction coordinate after the quadratic term or by a truncation of a cumulant expansion. Here, expressions for additional terms in the power series are derived. They can be calculated from the central moments of the distributions. This extension allows to test the approximations in applications.
-

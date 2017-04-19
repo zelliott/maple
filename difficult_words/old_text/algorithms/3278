@@ -1,3 +1,0 @@
-
-We define a new general framework, the family of (psi,p,q)-vulnerabilities, as a tool that produces many new vulnerability functions that measure the capacity of a network to maintain its functional performance under random damages or malicious attacks. This new framework comprises most of the vulnerability definitions appearing in the literature and allows to calculate some relationships between the different (psi,p,q)-vulnerabilities in terms of their function psi or their parameters p, q that improve several known results for the vulnerability functions. Some graphics of simulations are provided in order to show the sharpness of these relationships.
-

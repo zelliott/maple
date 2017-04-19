@@ -1,3 +1,0 @@
-
-We apply a phase retrieval algorithm to the intensity pattern of a Hartmann wavefront sensor to measure with enhanced accuracy the phase structure of a Hartmann hole array. It is shown that the rms wavefront error achieved by phase reconstruction is one order of magnitude smaller than the one obtained from a typical centroid algorithm. Experimental results are consistent with a phase measurement performed independently using a Shack-Hartmann wavefront sensor.
-

@@ -1,5 +1,0 @@
-
-When evaluating the results of a sequence similarity search, there are many situations where it can be useful to determine whether sequences appearing in the results share some distinguishing characteristic. Such dependencies between database entries are often not readily identifiable, but can yield important new insights into the biological function of a gene or protein.
-
-We have developed a program called CBLAST that sorts the results of a BLAST sequence similarity search according to sequence membership in user-defined 'clusters' of sequences. To demonstrate the utility of this application, we have constructed two cluster databases. The first describes clusters of nucleotide sequences representing the same gene, as documented in the UNIGENE database, and the second describes clusters of protein sequences which are members of the protein families documented in the PROSITE database. Cluster databases and the CBLAST post-processor provide an efficient mechanism for identifying and exploring relationships and dependencies between new sequences and database entries.
-

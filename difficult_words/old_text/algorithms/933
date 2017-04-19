@@ -1,3 +1,0 @@
-
-The authors describe the development of a computerized on-line monitoring system and its application during major pediatric neurosurgical procedures. The system acquires from monitor by serial communication the values of heart rate, systemic pressures, intracranial and central venous pressures, peripheral and central body temperatures and stores all these data on hard-disk. The system allows the collecting of clinical information, and other data concerning the metabolic and hemodynamic perioperative status of the patient. It also calculates in real time many derived parameters and stores all the measured data, the therapeutical administrations and their temporal relationship with the various surgical procedures on disk for statistical evaluation.
-

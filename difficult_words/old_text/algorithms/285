@@ -1,9 +1,0 @@
-
-A phantom set was devised to evaluate capability of independent component analysis (ICA) as an image filter for magnetic resonance (MR) images to segregate components.
-
-Four components (free water [FW], olive oil [OL], 2% and 4% agar gels [2A and 4A, respectively]) were arranged in a phantom set. Seven MR images were obtained with different echo time and repetition time. ICA was performed on 23 combinations of four components. A segregation rate higher than 70% was defined as effective.
-
-Four-component segregation was obtained in 5 of 23 combinations. The best result showed a mean of 87% across the four components. For each component, there were 20 of 23 for FW, 22 for OL, 9 for 2A, and 16 for 4A.
-
-The results demonstrated ICA works as an image filter and provides new contrast images that unambiguously segregate components in MR images. For practical application, the best performance should be obtained when T(1)W, T(2)W, and proton density images are included in the dataset for ICA.
-

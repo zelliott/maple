@@ -1,9 +1,0 @@
-
-. The influence of two different calculation algorithms ("pencil beam" [PB] versus "collapsed cone" [CC]) on dose distribution, as well as the dose-volume histograms (DVHs) of the planning target volume (PTV) and the organs at risk was analyzed for irradiation of lung cancer.
-
-. Between 10/2001 and 02/2002 three-dimensional treatment planning was done in ten patients with lung cancer (Helax, TMS((R)), V.6.01). The PTV, the ipsilateral lung (IL) and the contralateral lung (CL) were defined in each axial CT slice (slice thickness 1 cm). Dose distributions for three-dimensional multiple-field technique were calculated using a PB and a CC algorithm, respectively. Normalization was in accordance with ICRU 50. The DVHs were analyzed relating the minimum, maximum, median and mean dose to the volumes of interest (VOI).
-
-. Median PTV amounted to 774 cm(3). Minimum dose within the PTV was 67.4% for CC and 75.6% for PB algorithm (p = 0.04). Using the CC algorithm, only 76.5% of the PTV was included by the 95% isodose, whereas 90.1% was included when the PB algorithm (p = 0.01) was used. Median volume of IL amounted to 1 953 cm(3). Mean dose to IL was 43.0% for CC and 44.0% for PB algorithm (p = 0.02). Median volume of IL within the 80% isodose was 19.6% for CC and 24.1% for PB algorithm (p < 0.01). Median volume of CL amounted to 1 847 cm(3). Mean dose to CL was 17.4% for CC and 18.1% for PB algorithm (p < 0.01). Volume of CL within the 80% isodose was 3.3% for CC and 4.1% for PB algorithm (p = 0.03).
-
-. The CC and PB calculation algorithms result in different dose distributions in case of lung tumors. Particularly the minimum dose to the PTV, which may be relevant for tumor control, is significantly lower for CC. Since it is generally accepted that the CC algorithm describes secondary particle transport more exactly than PB models, the use of the latter should be critically evaluated in the treatment planning of lung cancer.
-

@@ -1,9 +1,0 @@
-
-To develop and evaluate image registration methodology for automated re-identification of tumor-suspicious foci from preprocedural MR exams during MR-guided transperineal prostate core biopsy.
-
-A hierarchical approach for automated registration between planning and intra-procedural T2-weighted prostate MRI was developed and evaluated on the images acquired during 10 consecutive MR-guided biopsies. Registration accuracy was quantified at image-based landmarks and by evaluating spatial overlap for the manually segmented prostate and sub-structures. Registration reliability was evaluated by simulating initial mis-registration and analyzing the convergence behavior. Registration precision was characterized at the planned biopsy targets.
-
-The total computation time was compatible with a clinical setting, being at most 2 min. Deformable registration led to a significant improvement in spatial overlap of the prostate and peripheral zone contours compared with both rigid and affine registration. Average in-slice landmark registration error was 1.3 ± 0.5 mm. Experiments simulating initial mis-registration resulted in an estimated average capture range of 6 mm and an average in-slice registration precision of ±0.3 mm.
-
-Our registration approach requires minimum user interaction and is compatible with the time constraints of our interventional clinical workflow. The initial evaluation shows acceptable accuracy, reliability and consistency of the method.
-

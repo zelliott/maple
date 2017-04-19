@@ -1,7 +1,0 @@
-
-Multiclass response (MCR) experiments are those in which there are more than two classes to be compared. In these experiments, though the null hypothesis is simple, there are typically many patterns of gene expression changes across the different classes that led to complex alternatives. In this paper, we propose a new strategy for selecting genes in MCR that is based on a flexible mixture model for the marginal distribution of a modified F-statistic. Using this model, false positive and negative discovery rates can be estimated and combined to produce a rule for selecting a subset of genes. Moreover, the method proposed allows calculation of these rates for any predefined subset of genes.
-
-We illustrate the performance our approach using simulated datasets and a real breast cancer microarray dataset. In this latter study, we investigate predefined subset of genes and point out interesting differences between three distinct biological pathways.
-
-http://www.bgx.org.uk/software.html
-

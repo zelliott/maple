@@ -1,9 +1,0 @@
-
-Software-based image analysis is important for studies of cartilage changes in knee osteoarthritis (OA). This study describes an evaluation of a semi-automated cartilage segmentation software tool capable of quantifying paired images for potential use in longitudinal studies of knee OA. We describe the methodology behind the analysis and demonstrate its use by determination of test-retest analysis precision of duplicate knee magnetic resonance imaging (MRI) data sets.
-
-Test-retest knee MR images of 12 subjects with a range of knee health were evaluated from the Osteoarthritis Initiative (OAI) pilot MR study. Each subject was removed from the magnet between the two scans. The 3D DESS (sagittal, 0.456 mm x 0.365 mm, 0.7 mm slice thickness, TR 16.5 ms, TE 4.7 ms) images were obtained on a 3-T Siemens Trio MR system with a USA Instruments quadrature transmit-receive extremity coil. Segmentation of one 3D-image series was first performed and then the corresponding retest series was segmented by viewing both image series concurrently in two adjacent windows. After manual registration of the series, the first segmentation cartilage outline served as an initial estimate for the second segmentation. We evaluated morphometric measures of the bone and cartilage surface area (tAB and AC), cartilage volume (VC), and mean thickness (ThC.me) for medial/lateral tibia (MT/LT), total femur (F) and patella (P). Test-retest reproducibility was assessed using the root-mean square coefficient of variation (RMS CV%).
-
-For the paired analyses, RMS CV % ranged from 0.9% to 1.2% for VC, from 0.3% to 0.7% for AC, from 0.6% to 2.7% for tAB and 0.8% to 1.5% for ThC.me.
-
-Paired image analysis improved the measurement precision of cartilage segmentation. Our results are in agreement with other publications supporting the use of paired analysis for longitudinal studies of knee OA.
-

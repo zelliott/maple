@@ -1,7 +1,0 @@
-
-The completion of human and mouse genome sequences provides a valuable resource for decoding other mammalian genomes. The comparative mapping by annotation and sequence similarity (COMPASS) strategy takes advantage of the resource and has been used in several genome-mapping projects. It uses existing comparative genome maps based on conserved regions to predict map locations of a sequence. An automated multiple-species COMPASS tool can facilitate in the genome sequencing effort and comparative genomics study of other mammalian species.
-
-The prerequisite of COMPASS is a comparative map table between the reference genome and the predicting genome. We have built and collected comparative maps among five species including human, cattle, pig, mouse and rat. Cattle-human and pig-human comparative maps were built based on the positions of orthologous markers and the conserved synteny groups between human and cattle and human and pig genomes, respectively. Mouse-human and rat-human comparative maps were based on the conserved sequence segments between the two genomes. With a match to human genome sequences, the approximate location of a query sequence can be predicted in cattle, pig, mouse and rat genomes based on the position of the match relatively to the orthologous markers or the conserved segments.
-
-The COMPASS-tool and databases are available at http://titan.biotec.uiuc.edu/COMPASS/
-

@@ -1,3 +1,0 @@
-
-A complex-valued nonlinear gradient descent (CNGD) learning algorithm for a simple finite impulse response (FIR) nonlinear neural adaptive filter with an adaptive amplitude of the complex activation function is proposed. This way the amplitude of the complex-valued analytic nonlinear activation function of a neuron in the learning algorithm is made gradient adaptive to give the complex-valued adaptive amplitude nonlinear gradient descent (CAANGD). Such an algorithm is beneficial when dealing with signals that have rich dynamical behavior. Simulations on the prediction of complex-valued coloured and nonlinear input signals show the gradient adaptive amplitude, CAANGD, outperforming the standard CNGD algorithm.
-

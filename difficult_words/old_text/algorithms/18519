@@ -1,9 +1,0 @@
-
-To formulate a mathematical model of odontogenic cyst growth and establish the dynamics of cyst enlargement and role of osmotic pressure forces throughout its growth.
-
-The model assumed a spherical cyst with a semipermeable lining of living cells and a core consisting of degraded cellular material, including generic osmotic material, fed by the continuous death of epithelial cells in the lining. The lining cells were assumed to have both elastic and viscous properties, reflecting the action of physical stresses by the surrounding cyst capsule, composed of fibroblasts and collagen fibers. The model couples the cyst radius and osmotic pressure differences resulting in a system of 2 nonlinear ordinary differential equations.
-
-The model predicts that in all parameter regimens the long-time behavior of the cyst is the same and that linear radial expansion results.
-
-In the early and intermediate stages of cystic growth, osmotic pressure differences play an important role; however, in very large cysts, this role becomes negligible, and cell birth in the lining dominates growth.
-

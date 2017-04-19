@@ -1,9 +1,0 @@
-
-Combined MR∕PET is a relatively new, hybrid imaging modality. A human MR∕PET prototype system consisting of a Siemens 3T Trio MR and brain PET insert was installed and tested at our institution. Its present design does not offer measured attenuation correction (AC) using traditional transmission imaging. This study is the development of quantification tools including MR-based AC for quantification in combined MR∕PET for brain imaging.
-
-The developed quantification tools include image registration, segmentation, classification, and MR-based AC. These components were integrated into a single scheme for processing MR∕PET data. The segmentation method is multiscale and based on the Radon transform of brain MR images. It was developed to segment the skull on T1-weighted MR images. A modified fuzzy C-means classification scheme was developed to classify brain tissue into gray matter, white matter, and cerebrospinal fluid. Classified tissue is assigned an attenuation coefficient so that AC factors can be generated. PET emission data are then reconstructed using a three-dimensional ordered sets expectation maximization method with the MR-based AC map. Ten subjects had separate MR and PET scans. The PET with [(11)C]PIB was acquired using a high-resolution research tomography (HRRT) PET. MR-based AC was compared with transmission (TX)-based AC on the HRRT. Seventeen volumes of interest were drawn manually on each subject image to compare the PET activities between the MR-based and TX-based AC methods.
-
-For skull segmentation, the overlap ratio between our segmented results and the ground truth is 85.2 ± 2.6%. Attenuation correction results from the ten subjects show that the difference between the MR and TX-based methods was <6.5%.
-
-MR-based AC compared favorably with conventional transmission-based AC. Quantitative tools including registration, segmentation, classification, and MR-based AC have been developed for use in combined MR∕PET.
-

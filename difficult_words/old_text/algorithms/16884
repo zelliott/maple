@@ -1,9 +1,0 @@
-
-The objective of this study was to develop and validate a novel noise insertion method that can accurately simulate lower-dose images from existing standard-dose computed tomography (CT) data.
-
-The noise insertion method incorporates the effects of the bowtie filter, automatic exposure control, and electronic noise. We validated this tool using both phantom and patient studies. The phantom study compared simulated lower-dose images with the actually acquired lower-dose images. The patient studies included 105 pediatric and 24 adult CT body examinations.
-
-The noise level in the simulated images was within 3.2% of the actual lower-dose images in phantom experiments. Noise power spectrum also demonstrated excellent agreement. For the patient examinations, a mean difference of noise level between 2.0% and 9.7% was observed for simulated dose levels between 75% and 30% of the original dose.
-
-An accurate technique for simulating lower-dose CT images was developed and validated, which can be used to retrospectively optimize CT protocols.
-

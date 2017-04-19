@@ -1,3 +1,0 @@
-
-Theoretical light scattering calculations, when applied to models based on structures seen in electron micrographs of corneal stroma, require knowledge of the constituent fibril positions and radii. Obtaining this information manually is a difficult and time-consuming task. In order to facilitate this problem, we present a simple and flexible computer algorithm that allows the process to be automated using a Macintosh computer. The accuracy of the results is checked by comparing light scattering calculations using fibril positions and radii found manually with those found by the computer. The results show that the computer algorithm is a viable and accurate means of obtaining the needed data.
-

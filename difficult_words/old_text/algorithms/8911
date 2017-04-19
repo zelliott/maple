@@ -1,9 +1,0 @@
-
-In imaging functional connectivity (FC) analyses of the resting brain, alterations of FC during unconsciousness have been reported. These results are in accordance with recent electroencephalographic studies observing impaired top-down processing during anesthesia. In this study, simultaneous records of functional magnetic resonance imaging (fMRI) and electroencephalogram were performed to investigate the causality of neural mechanisms during propofol-induced loss of consciousness by correlating FC in fMRI and directional connectivity (DC) in electroencephalogram.
-
-Resting-state 63-channel electroencephalogram and blood oxygen level-dependent 3-Tesla fMRI of 15 healthy subjects were simultaneously registered during consciousness and propofol-induced loss of consciousness. To indicate DC, electroencephalographic symbolic transfer entropy was applied as a nonlinear measure of mutual interdependencies between underlying physiological processes. The relationship between FC of resting-state networks of the brain (z values) and DC was analyzed by a partial correlation.
-
-Independent component analyses of resting-state fMRI showed decreased FC in frontoparietal default networks during unconsciousness, whereas FC in primary sensory networks increased. DC indicated a decline in frontal-parietal (area under the receiver characteristic curve, 0.92; 95% CI, 0.68-1.00) and frontooccipital (0.82; 0.53-1.00) feedback DC (P<0.05 corrected). The changes of FC in the anterior default network correlated with the changes of DC in frontal-parietal (rpartial=+0.62; P=0.030) and frontal-occipital (+0.63; 0.048) electroencephalographic electrodes (P<0.05 corrected).
-
-The simultaneous propofol-induced suppression of frontal feedback connectivity in the electroencephalogram and of frontoparietal FC in the fMRI indicates a fundamental role of top-down processing for consciousness.
-

@@ -1,7 +1,0 @@
-
-Searching RNA gene occurrences in genomic sequences is a task whose importance has been renewed by the recent discovery of numerous functional RNA, often interacting with other ligands. Even if several programs exist for RNA motif search, none exists that can represent and solve the problem of searching for occurrences of RNA motifs in interaction with other molecules.
-
-We present a constraint network formulation of this problem. RNA are represented as structured motifs that can occur on more than one sequence and which are related together by possible hybridization. The implemented tool MilPat is used to search for several sRNA families in genomic sequences. Results show that MilPat allows to efficiently search for interacting motifs in large genomic sequences and offers a simple and extensible framework to solve such problems. New and known sRNA are identified as H/ACA candidates in Methanocaldococcus jannaschii.
-
-http://carlit.toulouse.inra.fr/MilPaT/MilPat.pl.
-

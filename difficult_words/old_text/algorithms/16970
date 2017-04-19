@@ -1,9 +1,0 @@
-
-To develop and critically evaluate an information theory method for identifying gene-gene and gene-environment interactions in count and rate data.
-
-The entropy-based metric k-way interaction information (KWII) was critically assessed for utility in detecting interactions with count data and over-dispersed count data in three simulation studies of increasing complexity and in datasets from animal models of depression and colitis. The results were compared to Poisson regression. The power and effect size dependence of the KWII for detecting interactions was also assessed.
-
-The KWII was capable of effectively identifying the genetic and environmental predictors and their interactions in all three simulated datasets. The results indicate that the KWII approach may produce more parsimonious results than regression. In a rat model of depression, we successfully identified a prominent gender effect as well as other published associations. Analysis of severity scores from an animal model of colitis identified markers from chromosome 3, as well as unique first- and second-order associations for the individual sections of the colon and cecum.
-
-The results demonstrate the utility and versatility of our entropy-based method for gene-environment interaction analysis of count and rate data with Poisson and over-dispersed distributions.
-

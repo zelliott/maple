@@ -1,3 +1,0 @@
-
-An adaptive system for active noise reduction in an acoustic duct is presented. The system is based on a modification of a least mean square (LMS) algorithm called filtered-U with on-line error path modelling. The system was assembled and examined on a laboratory test stand in the Laboratory of Active Noise Reduction Methods of the Central Institute for Labour Protection (Warsaw, Poland). The structure of the test stand, the block structure of the active noise reduction system, the basic assumption concerning the applied adaptive algorithm, and examples of measured effectiveness of the system for various kinds of noise are presented.
-

@@ -1,9 +1,0 @@
-
-To determine the precision for in vivo applications of model and non-model-based bootstrap algorithms for estimating the measurement uncertainty of diffusion parameters derived from diffusion tensor imaging data.
-
-Four different bootstrap methods were applied to diffusion datasets acquired during 10 repeated imaging sessions. Measurement uncertainty was derived in eight manually selected regions of interest and in the entire brain white matter and gray matter. The precision of the bootstrap methods was analyzed using coefficients of variation and intra-class correlation coefficients. Comprehensive simulations were performed to validate the results.
-
-All bootstrap algorithms showed similar precision which slightly varied in dependence of the selected region of interest. The averaged coefficient of variation in the selected regions of interest was 13.81%, 12.35%, and 17.93% with respect to the apparent diffusion coefficient, the fractional anisotropy value, and the cone of uncertainty, respectively. The repeated measurements showed a very high similarity with intraclass-correlation coefficients larger than 0.96. The simulations confirmed most of the in vivo findings.
-
-All investigated bootstrap methods perform with a similar, high precision in deriving the measurement uncertainty of diffusion parameters. Thus, the time-efficient model-based bootstrap approaches should be the method of choice in clinical practice.
-

@@ -1,9 +1,0 @@
-
-Classical isobologram analysis offers a way for analysing combined drug effects in dose-response experiments statistically. The aim is to determine as to whether two agents or drugs can be considered synergistic or antagonistic in their effect.
-
-We describe a MATLAB-based software tool for automated isobologram analysis and computation of combination indices. Statistical issues like estimation together with respective confidence intervals are of key interest. Additional predictive values are computed to facilitate a more easy interpretation of obtained results.
-
-Analysis of an experimental and a real in vitro data set demonstrates the approach and the way of interpreting results. Results are summarized in two ways: tables and graphical displays containing classical isobolograms.
-
-Our package supplements the clinical software-equipment and is a tool for automatic evaluation of combined dose-response experiments in experimental oncology in the urologic clinic.
-

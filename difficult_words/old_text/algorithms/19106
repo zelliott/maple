@@ -1,3 +1,0 @@
-
-Mean-field theories that include nonelectrostatic interactions acting on ions near interfaces have been found to accommodate many experimentally observed ion specific effects. However, it is clear that this approach does not fully account for the liquid molecular structure and hydration effects. This is now improved by using parametrized ionic potentials deduced from recent nonprimitive model molecular dynamics (MD) simulations in a generalized Poisson-Boltzmann equation. We investigate how ion distributions and double layer forces depend on the choice of background salt. There is a strong ion specific double layer force set up due to unequal ion specific short-range potentials acting between ions and surfaces.
-

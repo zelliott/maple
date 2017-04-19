@@ -1,7 +1,0 @@
-
-Protein families evolve a multiplicity of functions through gene duplication, speciation and other processes. As a number of studies have shown, standard methods of protein function prediction produce systematic errors on these data. Phylogenomic analysis--combining phylogenetic tree construction, integration of experimental data and differentiation of orthologs and paralogs--has been proposed to address these errors and improve the accuracy of functional classification. The explicit integration of structure prediction and analysis in this framework, which we call structural phylogenomics, provides additional insights into protein superfamily evolution.
-
-Results of protein functional classification using phylogenomic analysis show fewer expected false positives overall than when pairwise methods of functional classification are employed. We present an overview of the motivations and fundamental principles of phylogenomic analysis, new methods developed for the key tasks, benchmark datasets for these tasks (when available) and suggest procedures to increase accuracy. We also discuss some of the methods used in the Celera Genomics high-throughput phylogenomic classification of the human genome.
-
-Software tools from the Berkeley Phylogenomics Group are available at http://phylogenomics.berkeley.edu
-

@@ -1,3 +1,0 @@
-
-A mathematical model is described for the simulation of peak profiles in capillary zone electrophoresis taking wall adsorption into account. It is based on such physico-chemical relations as mass balance equations, sorption rate equations and appropriate boundary conditions. The numerical solution of the model is carried out, allowing the depiction of the concentration profile of the sample in the capillary as a result of the dynamics of the processes involved, which depend on a number of input parameters: rate constants, adsorption isotherms, column dimensions, field strength etc. Four cases are discussed in detail, namely those with either slow or fast adsorption kinetics and linear or nonlinear isotherms.
-

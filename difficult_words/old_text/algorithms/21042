@@ -1,3 +1,0 @@
-
-Under a stochastic model of molecular sequence evolution the probability of each possible pattern of a characters is well defined. The Kimura's three-substitution-types (K3ST) model of evolution, allows analytical expression for these probabilities of by means of the Hadamard conjugation as a function of the phylogeny T and the substitution probabilities on each edge of TM . In this paper we produce a direct combinatorial proof of these results, using pathset distances which generalise pairwise distances between sequences. This interpretation provides us with tools that were proved useful in related problems in the mathematical analysis of sequence evolution.
-

@@ -1,9 +1,0 @@
-
-We introduce an algorithm for the automatic decomposition of Wigner Distribution (WD) and we applied it for the quantitative extraction of Heart Rate Variability (HRV) spectral parameters during non-stationary events. Early response to tilt was investigated.
-
-Quantitative analysis of multi-components non-stationary signals is obtained through an automatic decomposition of WD based on least square (LS) fitting of the instantaneous autocorrelation function (ACF). Through this approach the different signal and interference terms which contributes to the ACF may be separated and their parameters (instantaneous frequency and amplitude) quantified. A beat-to-beat monitoring of HRV spectral components is obtained.
-
-Analysis of simulated signals demonstrated the capability of the proposed approach to track and separate the signal components. Analysis of HRV data evidenced different dynamics in the early Autonomic Nervous System (ANS) response to tilt.
-
-The novel approach to the quantification of the beat-to-beat HRV spectral parameters obtained from decomposition of Wigner distribution was demonstrated to be effective in the analysis of HRV data. Relevant physiological information about the dynamics of the early sympathetic response to tilt were obtained. The method is a general approach which may be employed for a quantitative time-frequency analysis of non-stationary biological signals.
-

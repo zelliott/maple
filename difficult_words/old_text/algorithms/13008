@@ -1,9 +1,0 @@
-
-This paper focuses on how we could analyze and interpret filtered back-projection reconstructed signals from low-dose computed tomographic (CT) imaging systems. There exists a growing imbalance between dosage reduction and effective signal interpretation. At the same time, low-dose applications are undergoing alarming growth.
-
-This paper interprets filtered back-projection images in low-dose CT systems and details the possible properties of the artifacts. The interpretation leads to design of a new multi-image filtered back-projection approach that allows artifacts to be effectively identified across multiple images. We use this approach as a building block to propose a new reconstruction method that enables effective artifacts reduction and efficient implementation.
-
-Experiments with both clinical and simulated low-dose images demonstrate the validity and effectiveness of the proposed approach.
-
-This study discusses a new FBP-based reconstruction approach based on signal interpretation from low-dosage acquisition. This method uses multiple filtered back-projection images from projection subsets to provide clues for distinguishing underlying clinical structure from artifacts. A framework is derived for effective signal interpretation and artifacts reduction. It requires no hardware change and a minimum amount of extra software support compared with current CT systems. Clinical and simulated low-dose CT scans demonstrated effectiveness of the proposed method.
-

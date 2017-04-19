@@ -1,3 +1,0 @@
-
-Conventional retinal laser photocoagulation is presently performed by an ophthalmologist manually aiming a low-power laser beam at a desired site and firing a high-power laser for a preselected interval of time. To automate this process a retinal tracker must acquire a target, track small saccades, and identify loss of track during a large saccade. The authors successfully implemented a real-time algorithm that used a simple computer, video digitizing card, low light video camera, and fundus camera to perform rudimentary tracking on a photograph of a retina undergoing smooth circular motion. The algorithm tracked speeds up to 5 Hz, or 27 degrees/s, which equated to the retina moving in a 525 microns diameter circle.
-

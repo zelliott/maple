@@ -1,7 +1,0 @@
-
-Current methodology and software for quantitative trait loci (QTL) analyses do not use all available information and are inadequate to deal with the huge amount of QTL analyses to be needed in forecoming genetical genomics' studies.
-
-We show that a mixed model statistical framework provides a very flexible tool for QTL modeling in a variety of populations, be it a cross between inbred lines, a within population study, or experiments involving a mixture of populations or crosses. The software allows multitrait and multiQTL analyses, inclusion of infinitesimal genetic value and a batch multitrait option suitable for genetical genomics studies. It also allows massive association studies between single nucleotide polymorphisms and the trait(s) of interest.
-
-A software (Qxpak), together with a manual and example files, is freely available for research purposes. So far, the compiled program is available for linux systems, the windows version will follow soon. See http://www.icrea.es/pag.asp?id=Miguel.Perez
-

@@ -1,3 +1,0 @@
-
-It is shown that time frequency signal analysis could be a useful technique in detecting late potentials (LP). In particular, the spectrogram, the Wigner distribution and the wavelet transform have been applied to ECG signals from patients with sustained ventricular tachycardia. Comparisons of the three algorithms reveals that much better time localization is achieved by the wavelet transform. Moreover, it is concluded that a separation between healthy subjects and patients could be obtained based upon time frequency analysis.
-

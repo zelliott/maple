@@ -1,9 +1,0 @@
-
-To compare the Swedish interactive thresholding algorithm (SITA) with the full-threshold (FT) strategy for short-wavelength automated perimetry (SWAP).
-
-One eye of 286 patients with glaucomatous optic neuropathy (GON) and 289 age-matched participants without GON from the Diagnostic Innovations in Glaucoma Study (DIGS) and the African Descent and Glaucoma Evaluation Study (ADAGES) were classified with optic disc stereophotographs taken within 6 months of visual field testing, conducted within a 3-month period. Six parameters were derived per test, including pattern standard deviation (PSD) and the number of pattern deviation plot (PDP) points triggered at <1%. Receiver-operating characteristic (ROC) analysis equated the tests for specificity (80%, 90%, and 95%). Sensitivities of parameters with the highest area under the curve (AUC) and STATPAC (Carl Zeiss Meditec, Inc., Dublin, CA) PSD were compared. Agreement, severity, and test duration between algorithms were assessed.
-
-Sensitivities were not different between algorithms using PSD. With PDP <1%, SWAP-FT was more sensitive (35%) than SWAP-SITA (29%) at 95% specificity (P<0.05). Sensitivity and specificity using the STATPAC PSD at 95% (P<5%) and 99.5% (P<0.05%) was similar between algorithms. Severity correlated significantly between algorithms (P<0.001), although there was bias for SWAP-SITA to suggest more severe loss. SWAP-SITA required significantly less test time than did SWAP-FT (P<0.001). Mean differences in PSD, PDP <1%, and MD between algorithms were not clinically significant.
-
-Both algorithms performed similarly when equated for specificity. The reduced test duration makes SWAP-SITA the better choice. Testing with both algorithms within a short period is recommended for confirmation of results when switching from FT to SITA.
-

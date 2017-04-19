@@ -1,3 +1,0 @@
-
-The reporting of measures of effect size has become increasingly important in psychology. A Monte Carlo resampling permutation procedure is introduced to find near-optimum maximum values for Stuart's tau(c) measure for two-way ordinal contingency tables, also termed Kendall's tau(c) since Kendall introduced tau(a) and tau(b). Comparisons between resampling and exact procedures demonstrate the accuracy and utility of resampling measures of effect size for two-way ordinal contingency tables. The resampling procedure is shown to be more precise than the traditional method of standardizing tau(c).
-

@@ -1,3 +1,0 @@
-
-We describe the design and initial implementation of a notification sub-system, as a component of a modern information management architecture. The system, based on the publish-subscribe paradigm, provides a framework of event-based communications for the implementation of various important clinical applications including the notification of alerts and reminders with escalation algorithms, the reliable distribution of documents, and the implementation of intelligent patient-specific monitoring processes. The initial implementation of the system, providing the notification of the unit staff about new orders, indicates that the model is viable both in terms of functionality and ability to scale up.
-

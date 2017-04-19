@@ -1,9 +1,0 @@
-
-To investigate the significance of multi-parameter quantitative evaluation of hepatic fat using ultrasound radiofrequency signal analysis.
-
-Thirty two SD rats were divided into two groups, with 24 having fatty livers and 8 serving as normal controls. Radiofrequency signals were sampled with a 13-MHz ultrasound probe and digitized at 40 MHz in 16-bit resolution. Four statistical parameters of the radiofrequency envelope [Mean, Mean/SD ratio (MSR), skewness (SK), and kurtosis (KU)] within the ROI were calculated offline, and their ability to diagnose fatty liver was analyzed.
-
-The rats with fatty livers had greater Mean and MSR but lower skewness and kurtosis than the controls. The areas under the ROC curve of Mean, MSR, skewness and kurtosis for diagnosing fatty livers were 0.85, 0.96, 0.98, and 0.98 respectively. The sensitivity and specificity of Mean, MSR, skewness and kurtosis for diagnosing fatty livers were 70.8%/88.9%, 87.5%/100%, 95.8%/100% and 95.8%/100% respectively, whereas conventional ultrasound achieved only 68.2% in sensitivity and 66.7% in specificity.
-
-Compared with conventional ultrasound, radiofrequency signal analysis is more accurate in diagnosing fatty livers.
-

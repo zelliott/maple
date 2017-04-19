@@ -1,3 +1,0 @@
-
-Protein identification from tandem mass spectra is one of the most versatile and widely used proteomics workflows, able to identify proteins, characterize post-translational modifications, and provide semi-quantitative measurements of relative protein abundance. This manuscript describes the concepts, prerequisites, and methods required to analyze a tandem mass spectrometry dataset in order to identify its proteins, by using a tandem mass spectrometry search engine to search protein sequence databases. The discussion includes instructions for extraction, preparation, and formatting of spectral datafiles; selection of appropriate search parameter settings; and basic interpretation of the results.
-

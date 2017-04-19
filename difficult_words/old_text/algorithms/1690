@@ -1,3 +1,0 @@
-
-The sign of the largest Lyapunov exponent is the fundamental indicator of chaos in a dynamical system. However, although the extraction of Lyapunov exponents can be accomplished with (necessarily noisy) the experimental data, this is still a relatively data-intensive and sensitive endeavor. This paper presents an alternative pragmatic approach to identifying chaos using response frequency characteristics and extending the concept of the spectrogram. The method is shown to work well on both experimental and simulated time series.
-

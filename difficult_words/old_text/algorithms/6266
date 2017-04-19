@@ -1,3 +1,0 @@
-
-Sigmoidal feedforward artificial neural networks (FFANNs) have been established to be universal approximators of continuous functions. The universal approximation results are summarized to identify the function sets represented by the sigmoidal FFANNs with the universal approximation properties. The equicontinuous properties of the identified sets is analyzed. The equicontinuous property is related to the fault tolerance of the sigmoidal FFANNs. The generally used arbitrary weight sigmoidal FFANNs are shown to be nonequicontinuous sets. A class of bounded weight sigmoidal FFANNs is established to be equicontinuous. The fault-tolerance behavior of the networks is analyzed and error bounds for the induced errors established.
-

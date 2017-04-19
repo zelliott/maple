@@ -1,3 +1,0 @@
-
-DOCS is a computer program which generates the staff schedule. An accounting framework is combined with an optimization technique that searches for a schedule in which all accounts are simultaneously in balance. The search is accomplished using a Monte-Carlo process which shuffles staff within the schedule. The shuffling is biased according to each staffer's account balance: the staffer who owes the most is most likely to be scheduled.
-

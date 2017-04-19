@@ -1,9 +1,0 @@
-
-To determine the appropriate computed tomographic (CT) image reconstruction algorithms for a quantitative multicenter trial of diffuse lung disease.
-
-Phantom images were reconstructed using relevant reconstruction algorithms from 2 CT manufacturers to measure mean CT numbers and image noise. High-contrast spatial resolution and edge response function were determined for each algorithm. Clinical images of patients with diffuse lung disease were evaluated by a thoracic radiologist in terms of image quality and disease extent.
-
-The CT numbers were accurate for most reconstruction algorithms for both manufacturers, although some algorithms with strong midfrequency enhancement altered CT numbers. The Bone (GE) and B46f (Siemens) algorithms provided the higher spatial resolution deemed clinically necessary for imaging diffuse lung disease while preserving CT number accuracy. The extent of diffuse lung disease was strongly dependent on the reconstruction algorithm.
-
-A moderately sharp reconstruction algorithm (Bone/B46f) was selected for the evaluation of diffuse lung disease.
-

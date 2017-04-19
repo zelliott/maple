@@ -1,3 +1,0 @@
-
-A novel higher order singular value decomposition (HOSVD)-based image fusion algorithm is proposed. The key points are given as follows: 1) Since image fusion depends on local information of source images, the proposed algorithm picks out informative image patches of source images to constitute the fused image by processing the divided subtensors rather than the whole tensor; 2) the sum of absolute values of the coefficients (SAVC) from HOSVD of subtensors is employed for activity-level measurement to evaluate the quality of the related image patch; and 3) a novel sigmoid-function-like coefficient-combining scheme is applied to construct the fused result. Experimental results show that the proposed algorithm is an alternative image fusion approach.
-

@@ -1,9 +1,0 @@
-
-The precise localization of the site of origin of a premature ventricular contractions (PVC) prior to ablation would facilitate the planning and execution of the electrophysiological procedure. Current electrocardiographic imaging (ECGI) techniques require body surface maps, a costly and complex procedure, that requires as many as 256 leads to localize the PVC origin. We developed and tested a novel myocardial activation based ECGI technique utilizing the readily available 12-lead ECG to localize the PVC origin.
-
-The major components of the 12-lead ECGI method are: the source model, proximity effect and spatial orientation, volume conductor, and patient specific model of the heart, lungs, and thorax as derived from magnetic resonance imaging (MRI). For the PVC origin localization, the fastest route algorithm is used on patient specific models created by newly developed morphing software. PVC localization by the 12-lead ECGI was correlated to the site of successful ablation.
-
-Seven patients that underwent electrophysiological mapping and ablation of PVCs were studied. All patients (7/7) had accurate prediction of the PVC origin. However in two patients, no specific MRI was used for localization that resulted in an incorrect switch between the RV free wall and septum of the RVOT. With patient-specific models, these latter two cases would likely be localized correctly.
-
-This feasibility study of a novel myocardial activation-based ECGI using only the standard 12-lead ECG shows promise to localize the origin of PVC. This ECGI method yields activation estimates of isochrones on both ventricles from which the PVC origin location is derived. This method has the capability to localize the PVC from any part of the ventricular endocardium, intra-myocardium or epicardium.
-

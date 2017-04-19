@@ -1,7 +1,0 @@
-
-Our main objective was to propose an alternative to the technique of signal averaging (SA) to avoid shape distortions due to jittering and scale fluctuations, leading to a mean shape signal rather than to an average one.
-
-In case of both time shift and time scale fluctuations of the individual signals, the first point was to show what model makes it possible to interpret their expected action as a linear shift invariant filter followed by a scale invariant one. So, even in the case of equal shape signals, the average is clearly not the same shape. The second point was to propose another averaging process, using the normalized integrals and called Shape Averaging (ShA) which provides, in this case, a mean signal preserving the common shape.
-
-The performances of ShA were firstly shown by simulation. Shifted and scaled versions of a given signal, without and with additive noise, have been generated at random. The mean shape signal obtained by ShA was compared to the shifted and scaled signal using the exact average values of the shifts and scale factors. A very good reconstruction of the mean shape signal is obtained for SNR = 20 dB and quite good for 8 dB, especially compared to SA. The method was then applied to a series of M-waves coming from surface EMG signals. In this case, the comparison of ShA with SA makes it possible to appreciate the validity of equal shape signal hypothesis.
-

@@ -1,9 +1,0 @@
-
-The object of this study was to investigate the feasibility of generating a bone surface from data provided by an ultrasound examination and to match this surface with the previous computed tomography (CT) scan.
-
-From a CT data set of a training model of the pelvis, a three-dimensional surface was extracted by global thresholding-based segmentation. The same model was placed in a water basin, and ultrasound images were taken with a guided ultrasound transducer. The three-dimensional surface was generated from the ultrasound data set, and the two surfaces were matched in a semiautomatic mode.
-
-With special segmentation methods, a surface could be extracted automatically from the CT and the ultrasound data set. From these segmented ultrasound slices, a volume data set of the model was generated. After approximate initial matching, the local matching process was completed automatically.
-
-One of the limitations in computer-assisted surgery is the complicated matching process. Using special algorithms, a surface was extracted from the data set of an ultrasound examination and matched in a semiautomatic mode with the surface of a CT data set, facilitating the matching process.
-

@@ -1,3 +1,0 @@
-
-A new method that extracts phase directly from randomly phase-shifted interferograms is proposed. In this method, the background intensity and the modulation amplitude are determined by a temporal method and used as the system parameters and then the phase is extracted from one single interferogram by arc cosine function with range of (0, π). By partitioning the extracted phase distribution into watershed regions and determining the sign of phase in each region, the extracted phase is recovered to its principle phase with range of (-π, π). Numerical simulation and experiment are implemented to verify the effectiveness of this method. The method has applications in both static and dynamic phase measurement.
-

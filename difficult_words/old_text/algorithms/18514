@@ -1,9 +1,0 @@
-
-To evaluate the accuracy of calculation of T2 relaxation time with simplified algorithm in characterization of liver focal lesions with Turbo Spin Echo (TSE) T2-weighted sequences with double echo time (TE).
-
-We carried out a retrospective analysis of 113 hyperintense hepatic focal lesions in T2-weighted sequences (52 metastases, 51 hemangiomas and 10 cysts). We have employed a single TSE T2-weighted sequence with effective TE of 83 and 165 msec and turbo factor 9. Signal intensity (IS) of each lesion was measured on different TE. Using these values, we calculated T2 relaxation time by the following simplified algorithm: T2(ms)=(TE2-TE1)/ (lnIS1-lnIS2). T2 relaxation time has been correlated with the final diagnosis, obtained by percutaneous biopsy, surgical resection or three months follow-up.
-
-The mean T2 relaxation time for metastases was 108,7 msec (+/-30), for hemangiomas 166,5 msec (+/- 29) and for cysts 312,4 msec (+/-19). The difference between the mean T2 relaxation time for metastases and hemangiomas was statistically significant (p<0.0001). Most metastases were best characterized between the threshold value of 130 and 140 msec. The values of specificity and sensitivity of the diagnosis of malignant hepatic lesion was respective 0,86 and 0,88. All false positive diagnoses were hemangiomas of less than one centimeter.
-
-Introducing double echo time TSE sequences in the protocol of liver study concurs to obtain high diagnostic accuracy in the characterization of the hepatic lesions. The quantitative analysis of T2 represents a useful additional instrument to the morphologic analysis in discrimination between hepatic lesions and can be carried out by TSE sequences with elevated reliability reducing the imaging time compared with conventional sequences. The evaluation of hepatic lesions of less than one centimeter should always include analysis of dynamic gadolinium-contrast images.
-

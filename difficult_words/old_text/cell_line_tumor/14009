@@ -1,3 +1,0 @@
-
-Full exploitation of microarray data requires hidden information that cannot be extracted using current analysis methodologies. We present a new approach, hidden variable dynamic modeling (HVDM), which derives the hidden profile of a transcription factor from time series microarray data, and generates a ranked list of predicted targets. We applied HVDM to the p53 network, validating predictions experimentally using small interfering RNA. HVDM can be applied in many systems biology contexts to predict regulation of gene activity quantitatively.
-

@@ -1,3 +1,0 @@
-
-Respiratory gas-exchange data from progressive exercise tests are typically interpreted by visual inspection. Attempts to objectify such interpretation have applied particular parametric models which limit the measures which can be studied and the inferences which can be made. We use a known spline-smoothing procedure which fits a continuous curve to such data, yielding confidence intervals for the curve and for its first and second derivatives. Rules can be made which use the derivatives to infer features of a curve's shape and to relate features from different curves in the same data set. In this way complex interpretations can be made objective, so that they may be adequately tested.
-

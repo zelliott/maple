@@ -1,9 +1,0 @@
-
-Most studies of computer-aided detection (CAD) for pulmonary nodules have focused on solid nodule detection. The aim of this study was to evaluate the performance of a commercially available CAD system in the detection of pulmonary nodules with or without ground-glass opacity (GGO) using 64-detector-row computed tomography compared to visual interpretation.
-
-Computed tomographic examinations were performed on 48 patients with existing or suspicious pulmonary nodules on chest radiography. Three radiologists independently reported the location and pattern (GGO, solid, or part solid) of each nodule candidate on computed tomographic scans, assigned each a confidence score, and then analyzed all scans using the CAD system. A reference standard was established by a consensus panel of different radiologists, who found 229 noncalcified nodules with diameters > or = 4 mm. True-positive and false-positive results and confidence levels were used to generate jackknife alternative free-response receiver-operating characteristic plots.
-
-The sensitivity of GGO for 3 radiologists (60%-80%) was significantly higher than that for the CAD system (21%) (McNemar's test, P < .0001). For overall and solid nodules, the figure-of-merit values without and with the CAD system were significantly different (P = .005-.04) on jackknife alternative free-response receiver-operating characteristic analysis. For GGO and part-solid nodules, the figure-of-merit values with the CAD system were greater than those without the CAD system, indicating no significant differences.
-
-Radiologists are significantly superior to this CAD system in the detection of GGO, but the CAD system can still play a complementary role in detecting nodules with or without GGO.
-

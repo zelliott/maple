@@ -1,3 +1,0 @@
-
-This paper presents a sensor system for detecting defects in ship hull surfaces. The sensor was developed to enable a robotic system to perform grit blasting operations on ship hulls. To achieve this, the proposed sensor system captures images with the help of a camera and processes them in real time using a new defect detection method based on thresholding techniques. What makes this method different is its efficiency in the automatic detection of defects from images recorded in variable lighting conditions. The sensor system was tested under real conditions at a Spanish shipyard, with excellent results.
-

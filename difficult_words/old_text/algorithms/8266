@@ -1,3 +1,0 @@
-
-Finding significant nucleotide sequence motifs in prokaryotic genomes can be divided into three types of tasks: (1) supervised motif finding, where a sample of motif sequences is used to find other similar sequences in genomes; (2) unsupervised motif finding, which typically relates to the task of finding regulatory motifs and protein binding sites and (3) exploratory motif finding, which aims to identify potential functionally significant sequence motifs as those that are unusual in some statistical sense. This article provides a conceptual overview for each type of task, a brief description of basic algorithms used in their solution, and a review of selected relevant software available online.
-

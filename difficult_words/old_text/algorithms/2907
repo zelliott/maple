@@ -1,9 +1,0 @@
-
-Validation of blood pressure measurement devices is always difficult because the gold standard method depends on the observer's manual assessment. To improve the assessment algorithm in automatic blood pressure measurement devices, knowing the reference blood pressure values and analyzing various data are always necessary. A digital system to record Korotkoff sound and cuff pressure is suggested.
-
-The recording system consists of cuff, microphone, amplifier, and all the components of an oscillometric measurement device, which enable the collection of various data from patients. After collecting the data, the browsing software can playback the recorded sound and pressure variation on a computer.
-
-The system records the Korotkoff sound faithfully. The sound can be played with sound card on a personal computer. Cuff pressure can also be displayed with Korotkoff sound at the same time. With this playback software, the observer can assess systolic blood pressure and diastolic blood pressure . The observer can listen again and discuss with others when the decision is not clear.
-
-The digital recording system of sphygmomanometry can be used for validation of blood pressure measurement devices, collecting of oscillometric data for research, and educating the students who learn blood pressure measurement.
-

@@ -1,5 +1,0 @@
-
-The Physiome Project was established in 1997 to develop tools to facilitate international collaboration in the physiological sciences and the sharing of biological models and experimental data. The CellML language was developed to represent and exchange mathematical models of biological processes. CellML models can be very complicated, making it difficult to interpret the underlying physical and biological concepts and relationships captured/described in the mathematical model.
-
-To address this issue a set of ontologies was developed to explicitly annotate the biophysical concepts represented in the CellML models. This article presents a framework that combines a visual language, together with CellML ontologies, to support the visualization of the underlying physical and biological concepts described by the mathematical model and also their relationships with the CellML model. Automated CellML model visualization assists in the interpretation of model concepts and facilitates model communication and exchange between different communities.
-

@@ -1,9 +1,0 @@
-
-Chimeric antigen receptor (CAR) engineered T-cells occupy an increasing niche in cancer immunotherapy. In this context, CAR-mediated CD3ζ signaling is sufficient to elicit cytotoxicity and interferon-γ production while the additional provision of CD28-mediated signal 2 promotes T-cell proliferation and interleukin (IL)-2 production. This compartmentalisation of signaling opens the possibility that complementary CARs could be used to focus T-cell activation within the tumor microenvironment.
-
-Here, we have tested this principle by co-expressing an ErbB2- and MUC1-specific CAR that signal using CD3ζ and CD28 respectively. Stoichiometric co-expression of transgenes was achieved using the SFG retroviral vector containing an intervening Thosea asigna peptide.
-
-We found that "dual-targeted" T-cells kill ErbB2(+) tumor cells efficiently and proliferate in a manner that requires co-expression of MUC1 and ErbB2 by target cells. Notably, however, IL-2 production was modest when compared to control CAR-engineered T-cells in which signaling is delivered by a fused CD28 + CD3ζ endodomain.
-
-These findings demonstrate the principle that dual targeting may be achieved using genetically targeted T-cells and pave the way for testing of this strategy in vivo.
-

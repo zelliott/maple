@@ -1,9 +1,0 @@
-
-For most US health statistics, Asian-Americans are grouped into a single race category. We use a unique data file to determine site-specific cancer death rates for persons aged 65 and older in six Asian-American ethnic subgroups (Chinese, Indian, Japanese, Korean, Filipino, and Vietnamese) and determine for which cancer sites the aggregate Asian-American race category is a misleading summary of subgroup cancer risk.
-
-We previously determined all-cause death rates for Asian-American subgroups using Social Security files, in collaboration with a colleague at the Social Security Administration. By linking these records to death certificates, we determine cause-specific death rates for 21 cancer sites. We test whether there is significant heterogeneity among subgroups, using Poisson regression.
-
-For about half of cancer sites, all Asian subgroups have lower rates than Whites. For three sites most subgroups have higher rates than Whites (stomach, liver, and cervix), but there is significant heterogeneity. For other cancer sites, there is an inconsistent pattern, with some subgroups having rates lower than Whites and some having rates similar to Whites. Asian Indians are most often the Asian subgroup with a divergent rate.
-
-The aggregate Asian-American rate masks significant subgroup heterogeneity for many, but not all, cancer sites.
-

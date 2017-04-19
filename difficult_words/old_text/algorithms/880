@@ -1,9 +1,0 @@
-
-Biochemical quality control (QC) data have been reported to be autocorrelated. Serial correlation may increase the rate of false alarms if the traditional exponentially weighted moving average (EWMA) control chart to monitoring the process mean is used. False alarms are the focus of this paper, where an alarm is defined as the occurrence of a QC value outside the three standard deviation control limits.
-
-Daily QC measurements of common biochemical (Vitros 500) and hematological (SF-3000 and Behring Coagulation Timer (BCT)) quantities were recorded during several months while methods and analyzers showed no signs of malfunctioning. The time series were examined for autocorrelation and the performance of the EWMAST chart was compared with that of the EWMA chart when autocorrelation was present.
-
-Many of the time series showed significant signs of autocorrelation. Using the EWMA chart to monitor the process mean, false alarms were noted for positively autocorrelated time series, while this was seldom the case when the EWMAST chart was used. For some quantities, the EWMAST chart gave alarms. However, when the process autocorrelation and therefore the limits of the control chart were updated, the alarms given by the EWMAST chart were reduced or disappeared. In some cases the mean level changed over time, which is expected due to calibrations. This problem will be the topic of a subsequent paper.
-
-Positive autocorrelation may be present in QC data. In this case the EWMAST chart should be used in place of the EWMA chart.
-

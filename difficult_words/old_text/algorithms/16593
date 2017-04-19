@@ -1,9 +1,0 @@
-
-To experimentally verify a theoretical model describing the MR signal dephasing under nonstatic conditions in a voxel containing a vascular network, and to estimate the stability of the model for qBOLD measurements.
-
-Measurement phantoms reflecting the properties of the theoretical model, i.e., statistically distributed and randomly oriented cylinders in a homogeneous medium were constructed by randomly coiled polyamide fibers immersed in a NiSO(4) solution. The resemblance between measured and theoretical signal curves was investigated by calculation of root mean squared error maps. Simulated nonstatic dephasing data were evaluated using the static dephasing model to estimate the stability of the model and the influence of input parameters.
-
-The theoretical model describing the MR signal dephasing under nonstatic conditions was experimentally verified in phantom measurements. In simulations, it was found that, by neglecting the effect of diffusion when predicting the MR signal-time course expected in an in vivo measurement of the tissue oxygenation, errors of 10-30% would be introduced into the parameter estimation. The simulations indicate unpredictable results for simultaneous evaluation of blood oxygenation level and blood volume fraction.
-
-Neglecting the effects of diffusion in quantitative BOLD measurements could give rise to substantial errors in the parameter estimation.
-

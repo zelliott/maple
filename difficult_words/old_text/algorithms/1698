@@ -1,3 +1,0 @@
-
-In this paper we address the "skull-stripping" problem in 3D MR images. We propose a new method that employs an efficient and unique histogram analysis. A fundamental component of this analysis is an algorithm for partitioning a histogram based on the position of the maximum deviation from a Gaussian fit. In our experiments we use a comprehensive image database, including both synthetic and real MRI, and compare our method with other two well-known methods, namely BSE and BET. For all datasets we achieved superior results. Our method is also highly independent of parameter tuning and very robust across considerable variations of noise ratio.
-

@@ -1,5 +1,0 @@
-
-We propose a statistical model for estimating gene expression using data from multiple laser scans at different settings of hybridized microarrays. A functional regression model is used, based on a non-linear relationship with both additive and multiplicative error terms. The function is derived as the expected value of a pixel, given that values are censored at 65 535, the maximum detectable intensity for double precision scanning software. Maximum likelihood estimation based on a Cauchy distribution is used to fit the model, which is able to estimate gene expressions taking account of outliers and the systematic bias caused by signal censoring of highly expressed genes. We have applied the method to experimental data. Simulation studies suggest that the model can estimate the true gene expression with negligible bias.
-
-FORTRAN 90 code for implementing the method can be obtained from the authors.
-

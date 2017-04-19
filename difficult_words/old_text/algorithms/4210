@@ -1,3 +1,0 @@
-
-Wireless Body Sensor Networks (WBSNs) constitute a subset of Wireless Sensor Networks (WSNs) responsible for monitoring vital sign-related data of patients and accordingly route this data towards a sink. In routing sensed data towards sinks, WBSNs face some of the same routing challenges as general WSNs, but the unique requirements of WBSNs impose some more constraints that need to be addressed by the routing mechanisms. This paper identifies various issues and challenges in pursuit of effective routing in WBSNs. Furthermore, it provides a detailed literature review of the various existing routing protocols used in the WBSN domain by discussing their strengths and weaknesses.
-

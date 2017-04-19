@@ -1,3 +1,0 @@
-
-A novel diversity assessment method, the Explicit Diversity Index (EDI), is introduced for druglike molecules. EDI combines structural and synthesis-related dissimilarity values and expresses them as a single number. As an easily interpretable measure, it facilitates the decision making in the design of combinatorial libraries, and it might assist in the comparison of compound sets provided by different manufacturers. Because of its rapid calculation algorithm, EDI enables the diversity assessment of in-house or commercial compound collections.
-

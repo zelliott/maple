@@ -1,3 +1,0 @@
-
-The Solid Transportation Problem arises when bounds are given on three item properties. Usually, these properties are source, destination and mode of transport (conveyance), and may be given in an interval way. This paper deals with solid transportation problems in which the data in the constraint set are expressed in an interval form, i.e. when sources, destinations and conveyances have interval values instead of point values. An arbitrary linear or nonlinear objective function is also considered. To solve the problem, an Evolutionary Algorithm which extends and generalizes other approaches considering only point values, is proposed.
-

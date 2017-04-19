@@ -1,5 +1,0 @@
-
-Existing algorithms for automated protein structure alignment generate contradictory results and are difficult to interpret. An algorithm which can provide a context for interpreting the alignment and uses a simple method to characterize protein structure similarity is needed.
-
-We describe a heuristic for limiting the search space for structure alignment comparisons between two proteins, and an algorithm for finding minimal root-mean-squared-distance (RMSD) alignments as a function of the number of matching residue pairs within this limited search space. Our alignment algorithm uses coordinates of alpha-carbon atoms to represent each amino acid residue and requires a total computation time of O(m(3) n(2)), where m and n denote the lengths of the protein sequences. This makes our method fast enough for comparisons of moderate-size proteins (fewer than approximately 800 residues) on current workstation-class computers and therefore addresses the need for a systematic analysis of multiple plausible shape similarities between two proteins using a widely accepted comparison metric.
-

@@ -1,7 +1,0 @@
-
-When inspecting two maps of a chromosome or chromosomal region derived by similar or different methodologies, a computer-generated description of their differences is valuable, both to guide laboratory research as well as to assist version control. Our program, Mapdiff, can be used to compare two independently derived maps, or two revisions of the same map. Its usefulness increases in proportion to the percentage of shared objects between the two maps. Mapdiff uses a greedy algorithm to determine differences between shared objects.
-
-We illustrate Mapdiff's use in comparing the publicly available STS-content and radiation hybrid maps of human chromosome 12.
-
-Freely available, (source, executables for Windows/DOS and Sun Solaris, documentation) on request from the author.
-

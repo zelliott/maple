@@ -1,9 +1,0 @@
-
-Patients with newly diagnosed cancer may request an estimate of their prospects for long-term survival. Unfortunately, standard estimates of survival may be outdated, because they do not reflect recent advances. The authors present a projection method that incorporates trends in survival and provides more up-to-date estimates of long-term survival for newly diagnosed patients.
-
-The projection method fits a regression model to interval relative survival and includes a parameter associated with a trend on diagnosis year. The cumulative relative survival rate (CRS) in a target year is calculated by multiplying the projected interval survival rates for that year. To investigate the predictive ability of the projection approach and to develop model-selection rules, data from the Surveillance, Epidemiology, and End Results Program and the Connecticut tumor registry were used to recreate data that were available at a particular time in the past, and those data were used to project survival for specified target years.
-
-The projection method was better at predicting the survival of recently diagnosed patients than current methods, especially long-term survival for patients who had disease sites with an increasing and stable trend in survival. The authors predicted that the 15-year CRS for patients who were diagnosed in 2003 will be 61% for all cancer sites combined, 57% for colorectal cancer, 82% for female breast cancer, 53% for ovarian cancer, and 97% for prostate cancer.
-
-Although the projection method was more speculative than other methods that are aligned more closely with current observed data, it offered the possibility of providing improved estimates of long-term survival for recently diagnosed patients. Caution should be used when applying these methods for cancer sites where there has been a dramatic uptake of screening, e.g., prostate cancer, for which the projected results may be overly optimistic.
-

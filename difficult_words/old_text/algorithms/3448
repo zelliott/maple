@@ -1,3 +1,0 @@
-
-The probability formula of the direct-method SAD (single-wavelength anomalous diffraction) phasing proposed by Fan & Gu (1985, Acta Cryst. A41, 280-284) contains an error term which is related to the lack-of-closure error. This error term is used as a weighting function in the phase derivation and in the subsequent calculation of electron-density maps. Previously, there has been a constant in the error term that has had to be determined empirically for each particular case. It has been found that improper choice of the constant often leads to failure of the direct-method SAD phasing. The problem is resolved by introducing a modified error term and a method of automatically tuning the associated scaling factor.
-

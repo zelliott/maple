@@ -1,9 +1,0 @@
-
-Eight different learning algorithms used for creating artificial neural network (ANN) models and the different ANN models in the prediction of coronary artery disease (CAD) are introduced.
-
-This work was carried out as a retrospective case-control study. Overall, 124 consecutive patients who had been diagnosed with CAD by coronary angiography (at least 1 coronary stenosis > 50% in major epicardial arteries) were enrolled in the work. Angiographically, the 113 people (group 2) with normal coronary arteries were taken as control subjects. Multi-layered perceptrons ANN architecture were applied. The ANN models trained with different learning algorithms were performed in 237 records, divided into training (n=171) and testing (n=66) data sets. The performance of prediction was evaluated by sensitivity, specificity and accuracy values based on standard definitions.
-
-The results have demonstrated that ANN models trained with eight different learning algorithms are promising because of high (greater than 71%) sensitivity, specificity and accuracy values in the prediction of CAD. Accuracy, sensitivity and specificity values varied between 83.63%-100%, 86.46%-100% and 74.67%-100% for training, respectively. For testing, the values were more than 71% for sensitivity, 76% for specificity and 81% for accuracy.
-
-It may be proposed that the use of different learning algorithms other than backpropagation and larger sample sizes can improve the performance of prediction. The proposed ANN models trained with these learning algorithms could be used a promising approach for predicting CAD without the need for invasive diagnostic methods and could help in the prognostic clinical decision.
-

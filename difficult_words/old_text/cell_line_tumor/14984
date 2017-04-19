@@ -1,9 +1,0 @@
-
-To investigate the saturation-power dependence of amide proton transfer (APT)-weighted and nuclear Overhauser enhancement-weighted image contrasts in a rat glioma model at 4.7 T.
-
-The 9L tumor-bearing rats (n = 8) and fresh chicken eggs (n = 4) were scanned on a 4.7-T animal magnetic resonance imaging scanner. Z-spectra over an offset range of ±6 ppm were acquired with different saturation powers, followed by the magnetization transfer-ratio asymmetry analyses around the water resonance.
-
-The nuclear Overhauser enhancement signal upfield from the water resonance (-2.5 to -5 ppm) was clearly visible at lower saturation powers (e.g., 0.6 µT) and was larger in the contralateral normal brain tissue than in the tumor. Conversely, the APT effect downfield from the water resonance was maximized at relatively higher saturation powers (e.g., 2.1 µT) and was larger in the tumor than in the contralateral normal brain tissue. The nuclear Overhauser enhancement decreased the APT-weighted image signal, based on the magnetization transfer-ratio asymmetry analysis, but increased the APT-weighted image contrast between the tumor and contralateral normal brain tissue.
-
-The APT and nuclear Overhauser enhancement image signals in tumor are maximized at different saturation powers. The saturation power of roughly 2 μT is ideal for APT-weighted imaging at clinical B0 field strengths.
-

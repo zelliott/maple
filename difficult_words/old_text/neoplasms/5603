@@ -1,3 +1,0 @@
-
-We derive the large sample distribution of the weighted log rank statistic under a general class of local alternatives in which both the cure rates and the conditional distribution of time to failure among those who fail are assumed to vary in the two treatment arms. The analytic result presented here is important to data analysts who are designing clinical trials for diseases such as non-Hodgkins lymphoma, leukemia and melanoma, where a significant proportion of patients are cured. We present a numerical illustration comparing powers obtained from the analytic result to those obtained from simulations.
-

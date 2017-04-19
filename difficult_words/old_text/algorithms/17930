@@ -1,3 +1,0 @@
-
-We simulate an individual-based model that represents both the phenotype and genome of digital organisms with predator-prey interactions. We show how open-ended growth of complexity arises from the invariance of genetic evolution operators with respect to changes in the complexity, and that the dynamics which emerges shows scaling indicative of a nonequilibrium critical point. The mechanism is analogous to the development of the cascade in fluid turbulence.
-

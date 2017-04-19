@@ -1,3 +1,0 @@
-
-A graph-based clustering method is proposed to cluster protein sequences into families, which automatically improves clusters of the conventional single linkage clustering method. Our approach formulates sequence clustering problem as a kind of graph partitioning problem in a weighted linkage graph, which vertices correspond to sequences, edges correspond to higher similarities than given threshold and are weighted by their similarities. The effectiveness of our method is shown in comparison with InterPro families in all mouse proteins in SWISS-PROT. The result clusters match to InterPro families much better than the single linkage clustering method. 77% of proteins in InterPro families are classified into appropriate clusters.
-

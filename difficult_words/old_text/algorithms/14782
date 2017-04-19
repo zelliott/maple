@@ -1,3 +1,0 @@
-
-A wireless camera sensor network is useful for surveillance and monitoring for its visibility and easy deployment. However, it suffers from the limited capacity of wireless communication and a network is easily overflown with a considerable amount of video traffic. In this paper, we propose an autonomous video coding rate control mechanism where each camera sensor node can autonomously determine its coding rate in accordance with the location and velocity of target objects. For this purpose, we adopted a biological model, i.e., reaction-diffusion model, inspired by the similarity of biological spatial patterns and the spatial distribution of video coding rate. Through simulation and practical experiments, we verify the effectiveness of our proposal.
-

@@ -1,9 +1,0 @@
-
-We evaluated the feasibility of Raman spectroscopy (RS) in diagnosis and prognosis of castration-resistant prostate cancer (CRPC) in patients with prostate cancer (PC).
-
-Raman spectra are detected from PC cell lines (LNCaP and C4-2) and tissues using a Labram HR 800 RS. Then, principal component analysis (PCA) and support vector machine (SVM) are applied for prediction. A leave-one-out cross-validation is used to train and test the SVM.
-
-There are 50 qualified patients, including 33 with androgen-dependent prostate cancer (ADPC) and 17 with CRPC. The spectral changes at 1126, 1170, 1315 to 1338, and 1447  cm-1 between CRPC and ADPC are detected in both cells and tissues models, which are assigned to specific amino acids and DNA. PCA/SVM algorithm provided a sensitivity of 88.2% and a specificity of 87.9% for diagnosing CRPC tissues. Furthermore, 14 patients with ADPC progressed to CRPC within 12 months. These patients are separated into two groups depending on whether their cancers progressed to CRPC within 12 months. PCA/SVM could differentiate these two groups with a sensitivity of 85.7% and a specificity of 88.9%.
-
-RS has the potential in diagnosis and prognosis of CRPC in clinical practice.
-

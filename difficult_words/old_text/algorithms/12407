@@ -1,5 +1,0 @@
-
-THESEUS is a command line program for performing maximum likelihood (ML) superpositions and analysis of macromolecular structures. While conventional superpositioning methods use ordinary least-squares (LS) as the optimization criterion, ML superpositions provide substantially improved accuracy by down-weighting variable structural regions and by correcting for correlations among atoms. ML superpositioning is robust and insensitive to the specific atoms included in the analysis, and thus it does not require subjective pruning of selected variable atomic coordinates. Output includes both likelihood-based and frequentist statistics for accurate evaluation of the adequacy of a superposition and for reliable analysis of structural similarities and differences. THESEUS performs principal components analysis for analyzing the complex correlations found among atoms within a structural ensemble.
-
-ANSI C source code and selected binaries for various computing platforms are available under the GNU open source license from http://monkshood.colorado.edu/theseus/ or http://www.theseus3d.org.
-

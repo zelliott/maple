@@ -1,9 +1,0 @@
-
-To compare the image quality and diagnostic confidence of low-dose computed tomography (CT) of urololithiasis using filtered back projection (FBP) and iterative reconstruction techniques (IRT).
-
-A 4.8 × 4.3 × 5.2 mm(3) uric acid ureteral stone was placed inside an anthropomorphic Alderson phantom at the pelvic level. Fifteen scans were performed on a 64-row dual-source CT system using different tube voltages (80, 100, and 120 kV) and current-time products (8, 15, 30, 70, and 100 mAs). Image reconstruction using FBP and IRT (iterative reconstruction in image space) resulted in 30 data sets. Objective image quality was evaluated by noise measurements. Effective doses were estimated for each data set with use of an established dosimetry program. Subjective image quality and confidence level were rated by two radiologists.
-
-Noise was systematically lower for images reconstructed with IRT compared to FBP (55 ± 30 vs 65 ± 26 Hounsfield units; P = .004) for volume CT dose index values above about 0.6 mGy (or an effective dose of about 0.4 mSv for both sexes). For the 14 scans rated to have diagnostic image quality, the estimated effective doses ranged from 0.3 to 2.5 mSv for males and from 0.4 to 3.1 mSv for females. Subjective image quality and diagnostic confidence for IRT was not significantly better than those for FBP.
-
-In a phantom study for CT of urolithiasis, IRT improves objective image quality compared to FBP above a certain dose threshold. However, this does not translate into improved subjective image quality or a higher degree of confidence for the diagnosis of high-contrast urinary stones.
-

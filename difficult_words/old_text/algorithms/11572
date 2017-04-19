@@ -1,3 +1,0 @@
-
-A new formalism for molecular shape description is described. The formalism, based on considering each molecule as a collection of its 3-atom submolecules, is applied to both the graph theory and geometrical coordinate representations of molecules. The timing results for shape description of several databases indicate that this new method is applicable to large databases. Furthermore, results from clustering a small database show good agreement with clustering results obtained by a distance-matching algorithm.
-

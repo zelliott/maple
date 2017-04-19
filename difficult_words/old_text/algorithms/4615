@@ -1,3 +1,0 @@
-
-We propose a direction-adaptive DWT (DA-DWT) that locally adapts the filtering directions to image content based on directional lifting. With the adaptive transform, energy compaction is improved for sharp image features. A mathematical analysis based on an anisotropic statistical image model is presented to quantify the theoretical gain achieved by adapting the filtering directions. The analysis indicates that the proposed DA-DWT is more effective than other lifting-based approaches. Experimental results report a gain of up to 2.5 dB in PSNR over the conventional DWT for typical test images. Subjectively, the reconstruction from the DA-DWT better represents the structure in the image and is visually more pleasing.
-

@@ -1,3 +1,0 @@
-
-We studied the performance of several lossless compression algorithms on eye movement signals recorded in otoneurological balance and other physiological laboratories. Despite the wide use of these signals their compression has not been studied prior to our research. The compression methods were based on the common model of using a predictor to decorrelate the input and using an entropy coder to encode the residual. We found that these eye movement signals recorded at 400 Hz and with 13 bit amplitude resolution could losslessly be compressed with a compression ratio of about 2.7.
-

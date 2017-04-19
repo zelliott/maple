@@ -1,7 +1,0 @@
-
-The aim of this study was to develop an algorithm for scheduling pick-up and delivery tasks in hospitals. The number of jobs and the dynamic nature of the problem, in having jobs arriving over time, makes the use of information technology indispensable. An optimized scheduling for all types of transportation tasks occurring in a hospital accelerates medical procedures, and reduces the patient's waiting time and costs.
-
-In the design of the algorithm we use techniques from classical scheduling theory. In addition, due to some special properties and constraints, we model the problem using methods from graph theory. The resulting algorithm combines both approaches in a transparent manner.
-
-To optimize the schedules, we define the average weighted flow time as an objective function that corresponds to a measure for the task throughput. An evaluation of the algorithm at the Natters State Hospital in Austria shows that it has a superior performance than the current scheduling mechanism.
-

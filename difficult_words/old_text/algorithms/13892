@@ -1,3 +1,0 @@
-
-In this study, optokinetic nystagmus (OKN) is hypothesized to be controlled by a low-dimensional deterministic and possibly chaotic generator. A procedure for quantifying the presumably low-dimensional structure of the OKN signal, based on the Singular Spectrum Approach and the Grassberger--Procaccia algorithm for estimating the correlation dimension, v, is described. The procedure developed showed robustness against noise. Applying this method to OKN signals from 10 healthy subjects and 10 patients suffering from vertigo showed a statistically significant lower mean v value for the patients.
-

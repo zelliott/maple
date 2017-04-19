@@ -1,3 +1,0 @@
-
-In applications where precise image section positioning is vital, the interactive section rotation and offset capabilities of interactive MRI should be valuable. However, due to the independent nature of these two adjustments, the desired structure may often not be visible in the image after a rotation. Valuable time is wasted during relocation. An algorithm is presented that automatically alters the section offset after a rotation to provide continuous viewing of a marked structure, greatly improving section orientation efficiency. The technique is illustrated in the determination of double oblique angulation for through-plane imaging of the portal vein. This algorithm is expected to prove useful in applications of interactive MRI requiring precise positioning.
-

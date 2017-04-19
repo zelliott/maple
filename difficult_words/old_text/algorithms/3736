@@ -1,3 +1,0 @@
-
-We propose a method for estimating depth from images captured with a real aperture camera by fusing defocus and stereo cues. The idea is to use stereo-based constraints in conjunction with defocusing to obtain improved estimates of depth over those of stereo or defocus alone. The depth map as well as the original image of the scene are modeled as Markov random fields with a smoothness prior, and their estimates are obtained by minimizing a suitable energy function using simulated annealing. The main advantage of the proposed method, despite being computationally less efficient than the standard stereo or DFD method, is simultaneous recovery of depth as well as space-variant restoration of the original focused image of the scene.
-

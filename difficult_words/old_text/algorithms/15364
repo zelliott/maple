@@ -1,9 +1,0 @@
-
-This study addresses the modelling and simulation of blood collection for fixed blood collection sites in a medium-sized large French city, as well as mobile blood collection in urban and rural environments.
-
-Formal Petri net models were used to describe all relevant donor flows of the various blood collection systems; the Petri net models were converted onto discrete-event simulation models, allowing the evaluation of a large number of scenarios and configurations of blood collection systems. Quantitative models were proposed that encompassed all components of the blood collection systems, such as the donor arrival process, resource capacities and performance indicators. Appropriate experimental designs and cost-effectiveness analyses were used to determine the best configurations of human resources and donor appointment strategies.
-
-The donor service level depended on both adequate human resources capacity and appropriate appointment strategies. These decisions depend on the distribution during the day of walk-in donors.
-
-Models permit to improve management of blood collection; they have now partially entered the real situation, awaiting further implementation.
-

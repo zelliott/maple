@@ -1,3 +1,0 @@
-
-A quality-control chart based on exponentially weighted moving averages (EWMA) has, in the past few years, become a popular tool for controlling inaccuracy in industrial quality control. In this paper, I explain the principles of this technique, present some numerical examples, and by computer simulation compare EWMA with other control charts currently used in clinical chemistry. The EWMA chart offers a flexible instrument for visualizing imprecision and inaccuracy and is a good alternative to other charts for detecting inaccuracy, especially where small shifts are of interest. Detection of imprecision with EWMA charts, however, requires special modification.
-

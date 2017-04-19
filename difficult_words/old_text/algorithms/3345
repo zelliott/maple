@@ -1,3 +1,0 @@
-
-In an epidemiological study with a small sample size or a sparse data structure, the use of an asymptotic method of analysis may not be appropriate. In this paper we present an alternative method of analyzing data for case-control studies with a matched design that does not rely on large-sample assumptions. A recursive algorithm to compute the exact distribution of the conditional sufficient statistics of the parameters of the logistic model for such a design is given. This distribution can be used to perform exact inference on model parameters, the methodology of which is outlined. To illustrate the exact method, and compare it with the conventional asymptotic method, analyses of data from two case-control studies are also presented.
-

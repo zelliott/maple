@@ -1,3 +1,0 @@
-
-This paper reports the first computational estimation of the comb polymers' third virial coefficients. The number of the chains in the comb polymers range from 5 to 11. An algorithm that counts the contributing terms of the third virial coefficients in an accelerated manner is presented along with its efficiency dependence on the polymers' size. In addition, the second virial coefficients are estimated for the comb polymers and compared to previously reported results.
-

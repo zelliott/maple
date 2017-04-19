@@ -1,3 +1,0 @@
-
-X-Z inverted pendulum is a new kind of inverted pendulum which can move with the combination of the vertical and horizontal forces. Through a new transformation, the X-Z inverted pendulum is decomposed into three simple models. Based on the simple models, sliding-mode control is applied to stabilization and tracking control of the inverted pendulum. The performance of the sliding mode control is compared with that of the PID control. Simulation results show that the design scheme of sliding-mode control is effective for the stabilization and tracking control of the X-Z inverted pendulum.
-

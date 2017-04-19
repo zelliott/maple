@@ -1,3 +1,0 @@
-
-In this initial report, an imaging technique is described for automatically recognising the walls of a blood vessel during Doppler measurements, and hence automatically adjusting the position of the sample volume. The method reduces the inherently two-dimensional edge detection problem to a one-dimensional one, and iterates over several imaging frames to optimise the information. The orientation and diameter of the vessel are also measured. The technique has been clinically tested off-line and is particularly applicable to Doppler volumetric flow studies.
-

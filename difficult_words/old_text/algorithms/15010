@@ -1,3 +1,0 @@
-
-A simple method is presented for optimizing the efficiency of drawing line stimuli in Turbo Pascal. It involves the substitution of Rectangle and Bar commands for Line commands and results in time savings of up to 90%. The savings are most consistent for horizontal lines, although some savings may also be made for vertical lines. The effects of different graphics libraries, graphics modes, and hardware configurations are discussed. The method proves especially useful in improving the spatiotemporal resolution of on-line-generated motion displays.
-

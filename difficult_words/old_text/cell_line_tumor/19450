@@ -1,9 +1,0 @@
-
-Overprediction of the potency and toxicity of high-dose ablative radiotherapy such as stereotactic body radiotherapy (SBRT) by the linear quadratic (LQ) model led to many clinicians' hesitating to adopt this efficacious and well-tolerated therapeutic option. The aim of this study was to offer an alternative method of analyzing the effect of SBRT by constructing a universal survival curve (USC) that provides superior approximation of the experimentally measured survival curves in the ablative, high-dose range without losing the strengths of the LQ model around the shoulder.
-
-The USC was constructed by hybridizing two classic radiobiologic models: the LQ model and the multitarget model. We have assumed that the LQ model gives a good description for conventionally fractionated radiotherapy (CFRT) for the dose to the shoulder. For ablative doses beyond the shoulder, the survival curve is better described as a straight line as predicted by the multitarget model. The USC smoothly interpolates from a parabola predicted by the LQ model to the terminal asymptote of the multitarget model in the high-dose region. From the USC, we derived two equivalence functions, the biologically effective dose and the single fraction equivalent dose for both CFRT and SBRT.
-
-The validity of the USC was tested by using previously published parameters of the LQ and multitarget models for non-small-cell lung cancer cell lines. A comparison of the goodness-of-fit of the LQ and USC models was made to a high-dose survival curve of the H460 non-small-cell lung cancer cell line.
-
-The USC can be used to compare the dose fractionation schemes of both CFRT and SBRT. The USC provides an empirically and a clinically well-justified rationale for SBRT while preserving the strengths of the LQ model for CFRT.
-

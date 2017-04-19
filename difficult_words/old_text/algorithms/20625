@@ -1,3 +1,0 @@
-
-We construct generalized translation networks to approximate uniformly a class of nonlinear, continuous functionals defined on Lp ([-1, 1]s) for integer s > or = 1, 1 < or = p < infinity, or C ([-1, 1]s). We obtain lower bounds on the possible order of approximation for such functionals in terms of any approximation process depending continuously on a given number of parameters. Our networks almost achieve this order of approximation in terms of the number of parameters (neurons) involved in the network. The training is simple and noniterative; in particular, we avoid any optimization such as that involved in the usual backpropagation.
-

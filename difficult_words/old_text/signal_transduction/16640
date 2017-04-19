@@ -1,3 +1,0 @@
-
-The continuing growth in high-throughput data acquisition has led to a proliferation of network models to represent and analyse biological systems. These networks involve distinct interaction types detected by a combination of methods, ranging from directly observed physical interactions based in biochemistry to interactions inferred from phenotype measurements, genomic expression and comparative genomics. The discovery of interactions increasingly requires a blend of experimental and computational methods. Considering yeast as a model system, recent analytical methods are reviewed here and specific aims are proposed to improve network interaction inference and facilitate predictive biological modelling.
-

@@ -1,3 +1,0 @@
-
-With the steady growth in electronic patient records and clinical medical informatics systems, the data collected for routine clinical use have been accumulating at a dramatic rate. Inter-disciplinary research provides a new generation of computation tools in knowledge discovery and data management is in great demand. In this study, an expert-guided decision tree construction strategy is proposed to offer an user-oriented knowledge discovery environment. The strategy allows experts, based on their expertise and/or preference, to override inductive decision tree construction process. Moreover, by reviewing decision paths, experts could focus on subsets of data that may be clues to new findings, or simply contaminated cases.
-

@@ -1,3 +1,0 @@
-
-We consider point estimates and confidence intervals for the difference in location or scale between two populations when the observations are subject to truncation. We suggest procedures analogous to those for the complete-sample case. A rigorous justification is presented to support the proposed confidence interval procedure. Finally, some simulations verify the properties of the estimators and confidence intervals. We illustrate the procedure using data on tumor size.
-

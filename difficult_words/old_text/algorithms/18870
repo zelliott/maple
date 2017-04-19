@@ -1,3 +1,0 @@
-
-This communication presents an interactive tool performing adaptive speckle filtering so that the medical expert who runs the algorithm has permanent control over the output and guides the process towards obtaining enhanced images that agree to his/her subjective quality criteria. The core of the filtering tool is an Interactive Genetic Algorithm that adapts online the coefficients of a general order statistics filter. Preliminary results show the potential of the method in comparison to other powerful speckle reduction filters on a test bed comprising obstetrics and gynecology ultrasound images.
-

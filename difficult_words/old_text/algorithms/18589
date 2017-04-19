@@ -1,3 +1,0 @@
-
-We present an algorithm that provides a frequency-domain solution of the equation of radiative transfer (ERT) for heterogeneous media of arbitrary shape. Although an ERT is more accurate than a diffusion equation, no ERT code for the widely employed frequency-domain case has been developed to date. In this work the ERT is discretized by a combination of discrete-ordinate and finite-volume methods. Two numerical simulations are presented.
-

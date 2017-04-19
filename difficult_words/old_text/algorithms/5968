@@ -1,9 +1,0 @@
-
-To develop an advanced diagnostic method for urinary bladder tumour grading. A novel soft computing modelling methodology based on the augmentation of fuzzy cognitive maps (FCMs) with the unsupervised active Hebbian learning (AHL) algorithm is applied.
-
-One hundred and twenty-eight cases of urinary bladder cancer were retrieved from the archives of the Department of Histopathology, University Hospital of Patras, Greece. All tumours had been characterized according to the classical World Health Organization (WHO) grading system. To design the FCM model for tumour grading, three experts histopathologists defined the main histopathological features (concepts) and their impact on grade characterization. The resulted FCM model consisted of nine concepts. Eight concepts represented the main histopathological features for tumour grading. The ninth concept represented the tumour grade. To increase the classification ability of the FCM model, the AHL algorithm was applied to adjust the weights of the FCM.
-
-The proposed FCM grading model achieved a classification accuracy of 72.5%, 74.42% and 95.55% for tumours of grades I, II and III, respectively.
-
-An advanced computerized method to support tumour grade diagnosis decision was proposed and developed. The novelty of the method is based on employing the soft computing method of FCMs to represent specialized knowledge on histopathology and on augmenting FCMs ability using an unsupervised learning algorithm, the AHL. The proposed method performs with reasonably high accuracy compared to other existing methods and at the same time meets the physicians' requirements for transparency and explicability.
-

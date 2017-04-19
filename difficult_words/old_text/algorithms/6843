@@ -1,3 +1,0 @@
-
-Principal component and minor component extractions provide powerful techniques in many information processing fields. There have been proposed a number of algorithms for principal and minor component (or subspace) extraction, which have different dynamical behaviors. In this paper, we give rigorous stability analysis of these algorithms, obtaining a unified insight view on the dynamical behaviors of various algorithms.
-

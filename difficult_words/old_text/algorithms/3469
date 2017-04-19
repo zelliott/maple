@@ -1,3 +1,0 @@
-
-The commonly used solid-state reaction models (for example-Prout-Tompkins, Avrami-Erofe'ev) describe the polymorphic transformation data only over a certain range, alpha from 10% to 90%. Predictions based on a fit to a fraction of the data are inadequate because we ignore the early induction phase of the reaction, which is important for predictive purposes. A four-parameter logistic equation describes the data over the entire curve for polymorphic transformation at high temperatures. We use the parameters of the logistic equation to predict the transformation curves. The predicted curves agree with the experimental data.
-

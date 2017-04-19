@@ -1,7 +1,0 @@
-
-To discover remote evolutionary relationships and functional similarities between proteins, biologists rely on comparative sequence analysis, and when structures are available, on structural alignments and various measures of structural similarity. The measures/scores that have most commonly been used for this purpose include: alignment length, percent sequence identity, superposition RMSD and their different combinations. More recently, we have introduced the "Homologous core structure overlap score" (HCS) and the "Loop Hausdorff Measure" (LHM). Along with these we also consider the "gapped structural alignment score" (GSAS), which was introduced earlier by other researchers.
-
-We analyze the performance of these and other conventional measures at the task of ranking structure neighbors by homology, and we show that the HCS, LHM, and GSAS scores display considerably improved performance over the conventional measures of sequence or structural similarity.
-
-The HCS, LHM, and GSAS scores are easily computable quantities that allow users of structure-neighbor databases to more easily identify interesting structural similarities between proteins.
-

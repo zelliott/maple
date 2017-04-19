@@ -1,7 +1,0 @@
-
-The hydrodynamic model of the labyrinth spaces (LHM) is a useful tool for research on implantable audioprostheses, in particular to develop suitable actuators using MEMS technology (micro-electromechanic machine system). It has other potential applications for auditory research.
-
-The energy reaching the labyrinth fluids is crucial information for developing prostheses to substitute the tympanic-ossicular system because adequate stimulation of the cochlear partition is essential. However, in vivo measurements in human ears are not currently available. Therefore a model of the normal labyrinth resembling its hydrodynamic properties becomes a valuable tool. It could allow comparison of different processing systems, algorithms and transducers, to develop new audioprostheses and improve their effectiveness and efficiency.
-
-This work presents one LHM that emulates the conduction of the stimuli from the stapes footplate through the labyrinthine fluids, including its dimensions and physical properties, and some examples of measurements of perilymph stimulation by different audioprostheses and algorithms. RESULTS. As shown in the reported examples, this LHM provided effective measurement of acoustic stimulation across the whole human auditory frequency and intensity spectrum. Air-delivered and direct stimulation methods are possible. This provided convenient information for the actuator development and allowed comparison between different prototypes, stimulation patterns and algorithms.
-

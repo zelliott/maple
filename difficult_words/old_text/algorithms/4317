@@ -1,9 +1,0 @@
-
-To evaluate a method to enable single-slice or multiple-slice cine phase contrast (cine-PC) acquisition during a single breath-hold using a highly sparsified radial acquisition ordering and temporally constrained image reconstruction with a spatially varying temporal constraint.
-
-Simulated and in vivo cine-PC datasets of the proximal ascending aorta were obtained at different acceleration factors using a view projection acquisition order optimized for temporally constrained reconstruction (TCR). Reconstruction of the sparse cine-PC data performed with TCR was compared to reconstructions using zero-filled regridding and temporal interpolation.
-
-TCR resulted in more accurate velocity measurements than regridding or temporal interpolation. In one dataset, TCR of undersampled in vivo data (16 views per cardiac phase) resulted in a peak systolic velocity within 3.3% of the value measured by Doppler ultrasound while shortening the scan time to 13 seconds. High temporal-resolution undersampled TCR was also compared lower temporal-resolution, more highly sampled, regridding in three normal volunteers.
-
-TCR proved to be an effective method for reconstructing undersampled radial PC data. Although TCR utilizes a temporal constraint, temporal blurring was minimized by using appropriate constraint weights in addition to a spatially varying temporal constraint. TCR allowed for the acquisition time to be reduced to the duration of a breath-hold, while still resulting in accurate velocity measurements.
-

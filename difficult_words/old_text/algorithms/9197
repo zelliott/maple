@@ -1,3 +1,0 @@
-
-Artificial neural networks have gained much attention in recent years as fast and flexible methods for quality control in traditional medicine. Near-infrared (NIR) spectroscopy has become an accepted method for the qualitative and quantitative analyses of traditional Chinese medicine since it is simple, rapid, and non-destructive. The present paper describes a method by which to discriminate official and unofficial rhubarb samples using three layer perceptron neural networks applied to NIR data. Multilayer perceptron neural networks were trained with back propagation, delta-bar-delta and quick propagation algorithms. Results obtained using these methods were all satisfactory, but the best outcomes were obtained with the delta-bar-delta algorithm.
-

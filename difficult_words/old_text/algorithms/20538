@@ -1,3 +1,0 @@
-
-A method of segmenting echocardiography images based on three dimensional (two spatial and one time) surface was developed and tested on transcutaneous images from 38 patients and a four-dimensional (three spatial and one time) transesophageal scan of one patient. Active contour models with finite elements representing the curves in the imaging planes and finite difference description linking curves from time frame to time frame were employed. Region-based external forces were incorporated into the framework of the model and an analytical procedure for estimating the values of most of the model parameters was developed and used.
-

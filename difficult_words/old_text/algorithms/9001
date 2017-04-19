@@ -1,3 +1,0 @@
-
-The classification of biological and medical datasets is essential to humanity. This study proposes a hyper ellipse method based on mixed integer nonlinear program for classifying datasets. A linearization technique with a number of piecewise line segments is used to treat nonlinear constraints, which aims to obtain an approximate optimal solution. Numerical examples are presented to demonstrate the efficacy of the proposed method.
-

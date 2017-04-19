@@ -1,5 +1,0 @@
-
-Lucy2 is a raw DNA sequence trimming and visualization tool based on the popular command-line Lucy1. Users can change parameters, trim multiple sequences and visualize the results within an integrated, easy-to-use graphical user interface. Lucy2 is designed specifically for non-programmers to use, and is currently available on Windows, Linux and MacOS X. Source code is also available for porting to the other platforms.
-
-Lucy2 is distributed under the GNU General Public License and can be downloaded from www.complex.iastate.edu
-

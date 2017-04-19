@@ -1,3 +1,0 @@
-
-This paper presents a method for tessellating tissue boundaries and their interiors, given as input a tissue map consisting of relevant classes of the head, in order to produce anatomical models for finite element-based simulation of endoscopic pituitary surgery. Our surface meshing method is based on the simplex model, which is initialized by duality from the topologically accurate results of the Marching Cubes algorithm, and which features explicit control over mesh scale, while using tissue information to adhere to relevant boundaries. Our mesh scale strategy is spatially varying, based on the distance to a central point or linearized surgical path. The tetrahedralization stage also features a spatially varying mesh scale, consistent with that of the surface mesh.
-

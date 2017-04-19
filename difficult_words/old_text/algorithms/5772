@@ -1,9 +1,0 @@
-
-: To contribute to the understanding of the pharmacokinetics of intravenously administered, renally excreted contrast media with circulation, distribution, and renal excretion providing access to optimized and patient-based administration protocols.
-
-: Numerical solutions of the pharmacokinetic equations are presented where the physiological parameters (organ volumes, blood flows) and administration parameters (dose, concentration, and velocity) are fixed and the variable parameters (the exchange rates between plasma and interstitium, the rate for renal excretion) are adjusted to results from clinical studies of healthy individuals.
-
-: Recirculation, organ plasma concentrations, and renal excretion are adequately modeled. With the calculated distribution and renal excretion rates, 3 time periods are discriminated:
-
-: The model describes bolus tracking, recirculation, plasma to interstitium distribution, and renal excretion. For known administration parameters, the relevant pharmacokinetic parameters can be achieved from the results of clinical studies. If the arguments are reversed, the pharmacokinetic parameters obtained allow the calculation of personalized administration protocols for computed tomography and magnetic resonance imaging examinations where the 2 initial time periods are essential.
-

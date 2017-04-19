@@ -1,3 +1,0 @@
-
-Abstract An O(nm&#x03B1;(m)) time algorithm is given for inferring haplotypes from genotypes of non-recombinant pedigree data, where n is the number of members, m is the number of sites, and &#x03B1;(m) is the inverse of the Ackermann function. The algorithm works on both tree and general pedigree structures with cycles. Constraints between pairs of heterozygous sites are used to resolve unresolved sites for the pedigree, enabling the algorithm to avoid problems previously experienced for non-tree pedigrees.
-

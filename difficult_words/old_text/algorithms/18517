@@ -1,9 +1,0 @@
-
-A study was undertaken to verify the accuracy of computer algorithms on administrative data to identify hospital complications. The assessment was based on a medical records indicator that differentiated hospital-acquired conditions from preexisting comorbidities.
-
-The indicators for identifying potential hospital complications were applied to all secondary diagnoses to distinguish hospital-acquired from preexisting conditions for all 1997-1998 discharges.
-
-Of the 95 defined complication types, cases were found with secondary diagnoses that met the criteria for 71 different complications. Sixty-nine of these complications had one or more cases with the trigger diagnosis coded as an acquired condition. Thirty-five complications had at least 30 cases with acquired conditions. Hospital complications add greatly to costs; for example, postoperative septicemia increased the hospital bill by more $25,000, added 13 hospital days to the stay, and increased hospital mortality by 16.6%.
-
-Current complication algorithms identify many cases where the condition was actually present on hospital admission. This fact, coupled with the known variability in coding between institutions, makes comparisons between hospitals on many of the complications problematic. Collection of the present-on-admission flag significantly reduces the noise in monitoring complication rates.
-

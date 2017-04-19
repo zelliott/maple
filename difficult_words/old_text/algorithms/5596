@@ -1,3 +1,0 @@
-
-In this paper, we discuss a deterministic regularization algorithm to handle the missing cone problem of three-dimensional optical diffraction tomography (ODT). The missing cone problem arises in most practical applications of ODT and is responsible for elongation of the reconstructed shape and underestimation of the value of the refractive index. By applying positivity and piecewise-smoothness constraints in an iterative reconstruction framework, we effectively suppress the missing cone artifact and recover sharp edges rounded out by the missing cone, and we significantly improve the accuracy of the predictions of the refractive index. We also show the noise-handling capability of our algorithm in the reconstruction process.
-

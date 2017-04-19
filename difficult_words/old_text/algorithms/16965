@@ -1,7 +1,0 @@
-
-With the decrease of DNA sequencing costs, sequence-based typing methods are rapidly becoming the gold standard for epidemiological surveillance. These methods provide reproducible and comparable results needed for a global scale bacterial population analysis, while retaining their usefulness for local epidemiological surveys. Online databases that collect the generated allelic profiles and associated epidemiological data are available but this wealth of data remains underused and are frequently poorly annotated since no user-friendly tool exists to analyze and explore it.
-
-PHYLOViZ is platform independent Java software that allows the integrated analysis of sequence-based typing methods, including SNP data generated from whole genome sequence approaches, and associated epidemiological data. goeBURST and its Minimum Spanning Tree expansion are used for visualizing the possible evolutionary relationships between isolates. The results can be displayed as an annotated graph overlaying the query results of any other epidemiological data available.
-
-PHYLOViZ is a user-friendly software that allows the combined analysis of multiple data sources for microbial epidemiological and population studies. It is freely available at http://www.phyloviz.net.
-

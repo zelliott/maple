@@ -1,7 +1,0 @@
-
-To improve the ability of biologists (both researchers and students) to ask biologically interesting questions of the Gene Ontology (GO) database and to explore the ontologies by seeing large portions of the ontology graphs in context, along with details of individual terms in the ontologies.
-
-GoGet and GoView are two new tools built as part of an extensible web application system based on Java 2 Enterprise Edition technology. GoGet has a user interface that enables users to ask biologically interesting questions, such as (1) What are the DNA binding proteins involved in DNA repair, but not in DNA replication? and (2) Of the terms containing the word triphosphatase, which have associated gene products from mouse, but not fruit fly? The results of such queries can be viewed in a collapsed tabular format that eases the burden of getting through large tables of data. GoView enables users to explore the large directed acyclic graph structure of the ontologies in the GO database. The two tools are coordinated, so that results from queries in GoGet can be visualized in GoView in the ontology in which they appear, and explorations started from GoView can request details of gene product associations to appear in a result table in GoGet.
-
-Free access to the GoGet query tool and free download of the GoView ontology viewer are provided to all users at http://db.math.macalester.edu/goproject. In addition, source code for the GoView tool is also available from this site, along with a user manual for both tools.
-

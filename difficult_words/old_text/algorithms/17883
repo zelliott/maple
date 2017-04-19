@@ -1,3 +1,0 @@
-
-In tackling data mining and pattern recognition tasks, finding a compact but effective set of features has often been found to be a crucial step in the overall problem-solving process. In this paper, we present an empirical study on feature analysis for recognition of classical instrument, using machine learning techniques to select and evaluate features extracted from a number of different feature schemes. It is revealed that there is significant redundancy between and within feature schemes commonly used in practice. Our results suggest that further feature analysis research is necessary in order to optimize feature selection and achieve better results for the instrument recognition problem.
-

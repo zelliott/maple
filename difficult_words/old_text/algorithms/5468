@@ -1,3 +1,0 @@
-
-Sorting a permutation by transpositions (SPbT) is an important problem in bioinformtics. In this article, we improve the running time of the best known approximation algorithm for SPbT.
-

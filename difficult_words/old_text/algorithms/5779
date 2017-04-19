@@ -1,9 +1,0 @@
-
-To investigate the effect of the configuration of fiducials on target registration error (TRE) and test the accuracy of theoretical model of TRE prediction in image-guided cranio-maxillofacial surgery.
-
-A skull specimen was prepared with 20 titanium microscrews placed at defined locations and scanned with a 64-slice spiral computed tomography unit. These markers were separated into a registration fiducial group and a target fiducial group. An optical tracking system was used to perform skull-to-image registration procedures. Subsequent to each registration, the TRE was calculated by the navigation system. Each configuration registration was performed 50 times and the average was regarded as TRE of the configuration. The TRE prediction was also calculated for each configuration.
-
-The TRE ranged from 0.58 mm to 3.88 mm. Relatively smaller values of TRE may be achieved by placing a majority of fiducials on the maxillary alveolus in proximity to the target and placing a small number on the cranium contralaterally. The TRE values are always larger than the corresponding TRE prediction but there is a high correlation between them.
-
-The configuration of fiducials is an important factor in minimizing TRE and the TRE prediction is a good guide for fiducial marker placement.
-

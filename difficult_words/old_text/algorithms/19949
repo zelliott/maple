@@ -1,3 +1,0 @@
-
-This paper presents an improved indirect-driven self-sensing actuation circuit for robust vibration control of piezoelectrically-actuated flexible structures in mechatronic systems. The circuit acts as a high-pass filter and provides better self-sensing strain signals with wider sensing bandwidth and higher signal-to-noise ratio. An adaptive non-model-based control is used to compensate for the structural vibrations using the strain signals from the circuit. The proposed scheme is implemented in a PZT-actuated suspension of a commercial dual-stage hard disk drive. Experimental results show improvements of 50% and 75% in the vibration suppression at 5.4kHz and 21kHz respectively, compared to the conventional PI control.
-

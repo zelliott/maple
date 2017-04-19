@@ -1,9 +1,0 @@
-
-MicroRNA (miR) expression may have prognostic value for many types of cancers. However, the miR literature comprises many small studies. We systematically reviewed and synthesized the evidence.
-
-Using MEDLINE (last update December 2010), we identified English language studies that examined associations between miRs and cancer prognosis using tumor specimens for more than 10 patients during classifier development. We included studies that assessed a major clinical outcome (nodal disease, disease progression, response to therapy, metastasis, recurrence, or overall survival) in an agnostic fashion using either polymerase chain reaction or hybridized oligonucleotide microarrays.
-
-Forty-six articles presenting results on 43 studies pertaining to 20 different types of malignancy were eligible for inclusion in this review. The median study size was 65 patients (interquartile range [IQR] = 34-129), the median number of miRs assayed was 328 (IQR = 250-470), and overall survival or recurrence were the most commonly measured outcomes (30 and 19 studies, respectively). External validation was performed in 21 studies, 20 of which reported at least one nominally statistically significant result for a miR classifier. The median hazard ratio for poor outcome in externally validated studies was 2.52 (IQR = 2.26-5.40). For all classifier miRs in studies that evaluated overall survival across diverse malignancies, the miRs most frequently associated with poor outcome after accounting for differences in miR assessment due to platform type were let-7 (decreased expression in patients with cancer) and miR 21 (increased expression).
-
-MiR classifiers show promising prognostic associations with major cancer outcomes and specific miRs are consistently identified across diverse studies and platforms. These types of classifiers require careful external validation in large groups of cancer patients that have adequate protection from bias. -
-

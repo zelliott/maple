@@ -1,9 +1,0 @@
-
-To propose a respiratory reordered UNFOLD (RR-UNFOLD) imaging sequence to significantly reduce the amount of k-space data required for first-pass MR myocardial perfusion imaging.
-
-Rapid acquisition of high-resolution imaging data is essential to detailed quantitative analysis of first-pass myocardial perfusion. Existing MR sequences have explored the full capacity of the imaging hardware to reduce the acquisition window within each cardiac cycle while maintaining the desired spatial resolution. Further improvement in perfusion imaging will require a more efficient use of the information content of the k-space data. The method uses prospective diaphragmatic navigator echoes to ensure that temporal filtering of UNFOLD is carried out on a series of images that are spatially registered. An adaptive real-time rebinning algorithm is developed for the creation of static image subseries related to different levels of respiratory motion. Issues concerning the temporal smoothing of tracer kinetic signals are discussed, and a solution based on oversampling of the central k-space is provided. The method is assessed in 10 normal subjects without the administration of contrast agent, and further validated by administration of Gd-DTPA in 10 patients at rest.
-
-The results of this study show that RR-UNFOLD significantly extends the applicability of UNFOLD to perfusion imaging, which yields a 40% reduction in image artifact when the same amount of k-space information is used.
-
-The scan efficiency achieved can be used in combination with MR hardware improvements for extending the three-dimensional spatial coverage and shortening the data acquisition window to provide detailed information on regional myocardial perfusion abnormalities.
-

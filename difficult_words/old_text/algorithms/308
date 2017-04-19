@@ -1,3 +1,0 @@
-
-In tomographic scanning (TOSCA) imaging, light from a scene is focused onto a reticle mask using conical scan optics, and collected on a single element detector. Alternatively, one or several detectors replace the reticle. Tomographic processing techniques are then applied to the one-dimensional signal to reproduce a two-dimensional image. The TOSCA technique is presented in detail, including its mathematical foundations and some of its limitations. It is shown how TOSCA imaging can be used in a multispectral configuration, and compares well with more conventional alternatives both in simplicity and performance. Examples of image reconstruction using TOSCA techniques are shown.
-

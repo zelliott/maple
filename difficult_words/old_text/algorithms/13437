@@ -1,7 +1,0 @@
-
-The sequence alignment/map (SAM) and the binary alignment/map (BAM) formats have become the standard method of representation of nucleotide sequence alignments for next-generation sequencing data. SAM/BAM files usually contain information from tens to hundreds of millions of reads. Often, the sequencing technology, protocol and/or the selected mapping algorithm introduce some unwanted biases in these data. The systematic detection of such biases is a non-trivial task that is crucial to drive appropriate downstream analyses.
-
-We have developed Qualimap, a Java application that supports user-friendly quality control of mapping data, by considering sequence features and their genomic properties. Qualimap takes sequence alignment data and provides graphical and statistical analyses for the evaluation of data. Such quality-control data are vital for highlighting problems in the sequencing and/or mapping processes, which must be addressed prior to further analyses.
-
-Qualimap is freely available from http://www.qualimap.org.
-

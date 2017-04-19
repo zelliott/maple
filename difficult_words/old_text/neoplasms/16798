@@ -1,3 +1,0 @@
-
-A radiobiological model is represented, that allows to estimate the number of surviving tumor cells at the end of radiotherapeutic series with equivalent NSD. On this base a programme for computer-assisted calculation was elaborated. The programme allows to estimate optimal conditions of dose fractionation, in which a devitalization of a maximum number of tumor cells is guaranteed. For the radiotherapy of radioresistant tumors, characterized by the extrapolation number n greater than 2, optimal parameters can be obtained by means of simple mathematical formulas. The elaborated model allows to increase the efficiency in radiotherapy of malignant tumors with known radiobiological parameters.
-

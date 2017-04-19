@@ -1,7 +1,0 @@
-
-Analysis of complex samples with tandem mass spectrometry (MS/MS) has become routine in proteomic research. However, validation of database search results creates a bottleneck in MS/MS data processing. Recently, methods based on a randomized database have become popular for quality control of database search results. However, a consequent problem is the ignorance of how to combine different database search scores to improve the sensitivity of randomized database methods.
-
-In this paper, a multivariate nonlinear discriminate function (DF) based on the multivariate nonparametric density estimation technique was used to filter out false-positive database search results with a predictable false positive rate (FPR). Application of this method to control datasets of different instruments (LCQ, LTQ, and LTQ/FT) yielded an estimated FPR close to the actual FPR. As expected, the method was more sensitive when more features were used. Furthermore, the new method was shown to be more sensitive than two commonly used methods on 3 complex sample datasets and 3 control datasets.
-
-Using the nonparametric model, a more flexible DF can be obtained, resulting in improved sensitivity and good FPR estimation. This nonparametric statistical technique is a powerful tool for tackling the complexity and diversity of datasets in shotgun proteomics.
-

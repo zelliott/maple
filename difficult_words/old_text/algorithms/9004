@@ -1,9 +1,0 @@
-
-To compare objective and subjective image quality in neck CT images acquired at different tube current-time products (275 mAs and 340 mAs) and reconstructed with filtered-back-projection (FBP) and adaptive statistical iterative reconstruction (ASIR).
-
-HIPAA-compliant study with IRB approval and waiver of informed consent. 66 consecutive patients were randomly assigned to undergo contrast-enhanced neck CT at a standard tube-current-time-product (340 mAs; n = 33) or reduced tube-current-time-product (275 mAs, n = 33). Data sets were reconstructed with FBP and 2 levels (30%, 40%) of ASIR-FBP blending at 340 mAs and 275 mAs. Two neuroradiologists assessed subjective image quality in a blinded and randomized manner. Volume CT dose index (CTDIvol), dose-length-product (DLP), effective dose, and objective image noise were recorded. Signal-to-noise ratio (SNR) was computed as mean attenuation in a region of interest in the sternocleidomastoid muscle divided by image noise.
-
-Compared with FBP, ASIR resulted in a reduction of image noise at both 340 mAs and 275 mAs. Reduction of tube current from 340 mAs to 275 mAs resulted in an increase in mean objective image noise (p=0.02) and a decrease in SNR (p = 0.03) when images were reconstructed with FBP. However, when the 275 mAs images were reconstructed using ASIR, the mean objective image noise and SNR were similar to those of the standard 340 mAs CT images reconstructed with FBP (p>0.05). Subjective image noise was ranked by both raters as either average or less-than-average irrespective of the tube current and iterative reconstruction technique.
-
-Adapting ASIR into neck CT protocols reduced effective dose by 17% without compromising image quality.
-

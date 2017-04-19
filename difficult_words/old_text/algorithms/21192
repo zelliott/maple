@@ -1,9 +1,0 @@
-
-To explore the use of pre-hospital heart rate variability (HRV) as a predictor of clinical outcomes such as hospital admission, intensive care unit (ICU) admission and mortality. We also implemented an automated pre-analysis signal processing algorithm and multiple principal component analysis (PCA) for outcomes.
-
-We conducted a prospective observational clinical study at an emergency medical services (EMS) system in a medium sized urban setting in the United States. Electrocardiogram (ECG) data was obtained from a sample of 45 ambulance patients conveyed to a tertiary hospital, monitored with a LIFEPAK12 defibrillator/monitor. After extracting the data, filtering for noise reduction and isolating non-sinus beats, various HRV parameters were computed. These included time domain, frequency domain and geometric parameters. PCA was performed on the hospital outcomes for these patients.
-
-We used a combination of HRV parameters, age and vital signs such as respiratory rate, SpO2 and Glasgow coma score (GCS) in a PCA analysis. For predicting admission to ICU, sensitivity was 100%, specificity was 48.6%, and negative predictive value (NPV) was 100%; for predicting admission to hospital, sensitivity was 78.9%, specificity was 85.7%, and NPV was 75.0%; for predicting death, sensitivity was 50.0%, specificity was 100%, and NPV was 97.4%. There was also a significant correlation of several HRV parameters with length of hospital stay.
-
-With signal processing techniques, it is feasible to filter and analyze ambulance ECG data for HRV. We found a combination of HRV parameters and traditional 'vital signs' to have an association with clinical outcomes in pre-hospital patients. This may have potential as a triage tool for ambulance patients.
-

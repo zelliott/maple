@@ -1,3 +1,0 @@
-
-During cell migration, local protrusion events are regulated by biochemical and physical processes that are in turn coordinated with the dynamic properties of cell-substratum adhesion structures. In this chapter, we present a modeling approach for integrating the apparent stochasticity and spatial dependence of signal transduction pathways that promote protrusion in tandem with adhesion dynamics. We describe our modeling framework, as well as its abstraction, parameterization, and validation against experimental data. Analytical techniques for identifying and evaluating the effects of model bistability on simulation simulation results are shown, and implications of this analysis for understanding cell protrusion behavior are offered.
-

@@ -1,3 +1,0 @@
-
-In this paper, an automatic method for registering multimodal retinal images is presented. The method consists of three steps: the vessel centerline detection and extraction of bifurcation points only in the reference image, the automatic correspondence of bifurcation points in the two images using a novel implementation of the self organizing maps and the extraction of the parameters of the affine transform using the previously obtained correspondences. The proposed registration algorithm was tested on 24 multimodal retinal pairs and the obtained results show an advantageous performance in terms of accuracy with respect to the manual registration.
-

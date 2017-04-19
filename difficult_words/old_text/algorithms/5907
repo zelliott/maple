@@ -1,3 +1,0 @@
-
-Mass-spring systems are often used to model anatomical structures in medical simulation. They can produce plausible deformations in soft tissue, and are computationally efficient. Determining damping values for a stable mass-spring system can be difficult. Previously stable models can become unstable with topology changes, such as during cutting. In this paper, we derive bounds for the damping coefficient in a mass-spring system. Our formulation can be used to evaluate the stability for user specified damping values, or to compute values that are unconditionally stable.
-

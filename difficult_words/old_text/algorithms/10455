@@ -1,7 +1,0 @@
-
-The hybridization of nucleic acid targets with surface-immobilized probes is a widely used assay for the parallel detection of multiple targets in medical and biological research. Despite its widespread application, DNA microarray technology still suffers from several biases and lack of reproducibility, stemming in part from an incomplete understanding of the processes governing surface hybridization. In particular, non-random spatial variations within individual microarray hybridizations are often observed, but the mechanisms underpinning this positional bias remain incompletely explained.
-
-This study identifies and rationalizes a systematic spatial bias in the intensity of surface hybridization, characterized by markedly increased signal intensity of spots located at the boundaries of the spotted areas of the microarray slide. Combining observations from a simplified single-probe block array format with predictions from a mathematical model, the mechanism responsible for this bias is found to be a position-dependent variation in lateral diffusion of target molecules. Numerical simulations reveal a strong influence of microarray well geometry on the spatial bias.
-
-Reciprocal adjustment of the size of the microarray hybridization chamber to the area of surface-bound probes is a simple and effective measure to minimize or eliminate the diffusion-based bias, resulting in increased uniformity and accuracy of quantitative DNA microarray hybridization.
-

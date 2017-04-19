@@ -1,9 +1,0 @@
-
-The purpose of this study was the development and preliminary evaluation of multiprojection correlation imaging with 3D computer-aided detection (CAD) on chest radiographs for cost- and dose-effective improvement of early detection of pulmonary nodules.
-
-Digital chest radiographs of 10 configurations of a chest phantom and of seven human subjects were acquired in multiple angular projections with an acquisition time of 11 seconds (single breath-hold) and total exposure comparable with that of a posteroanterior chest radiograph. An initial 2D CAD algorithm with two difference-of-gaussians filters and multilevel thresholds was developed with an independent database of 44 single-view chest radiographs with confirmed lesions. This 2D CAD algorithm was used on each projection image to find likely suspect nodules. The CAD outputs were reconstructed in 3D, reinforcing signals associated with true nodules while simultaneously decreasing false-positive findings produced by overlapping anatomic features. The performance of correlation imaging was tested on two to 15 projection images.
-
-Optimum performance of correlation imaging was attained when nine projection images were used. Compared with conventional, single-view CAD, correlation imaging decreased as much as 79% the frequency of false-positive findings in phantom cases at a sensitivity level of 65%. The corresponding reduction in false-positive findings in the cases of human subjects was 78%.
-
-Although limited by a relatively simple CAD implementation and a small number of cases, the findings suggest that correlation imaging performs substantially better than single-view CAD and may greatly enhance identification of subtle solitary pulmonary nodules on chest radiographs.
-

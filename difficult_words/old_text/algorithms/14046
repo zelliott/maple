@@ -1,5 +1,0 @@
-
-Phage display is a widespread technique used to obtain peptide mimotopes selected by binding to a given monoclonal antibody in a similar way as the native epitope. However, the localization of the interaction site mimicked by the mimotopes on the surface of the antigen is not always a straightforward task. MIMOP is a computational tool developed with the aim of helping experimentalists to analyze a set of mimotope sequences and guide them in the identification of the mimicked region.
-
-To predict potential epitopic regions, MIMOP integrates two different approaches combining two- and three-dimensional analyses: MimAlign starts from degenerated alignment analyses, and MimCons is based on consensus identification. The relevance and usefulness of the tool are illustrated by four use cases corresponding to real-life situations.
-

@@ -1,3 +1,0 @@
-
-Shannon entropy from information theory has been applied to estimate the degree of deviation from equal usage of synonymous codons; however, previous attempts have failed to take into account all three aspects of amino acid usage, i.e. (i) the number of distinct amino acids, (ii) their relative frequencies, and (iii) their degree of codon degeneracy. A new index taking into account all of these aspects is proposed. The index, designated as the 'weighted sum of relative entropy' (E(w)), is defined as the sum of the relative entropy of each amino acid weighted by its relative frequency in the sequence. In this paper, we demonstrate that E(w) allows us to avoid some amino acid usage biases and can yield results contradictory to those obtained by previous methods.
-

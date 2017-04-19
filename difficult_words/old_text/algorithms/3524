@@ -1,3 +1,0 @@
-
-Stability conditions for Tanaka-Sugeno (T-S) fuzzy discrete systems based on a single quadratic Lyapunov function or a weighting dependent Lyapunov function have been mentioned in lots of literature. The existence of a common matrix P is required in the former, and r (rules' number) positive matrices satisfying r2 Lyapunov inequalities are necessary in the latter. In this paper, the weighting dependent Lyapunov function is used again. Moreover according to the idea of the firing rule group and the distance estimation between two successive states of the system, the relaxed stability criterion of T-S fuzzy discrete system is proposed.
-

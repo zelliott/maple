@@ -1,3 +1,0 @@
-
-We present several image reconstruction algorithms for generating three-dimensional (3-D) renderings of bright-field micrographs that are founded on maximum likelihood estimation (MLE) theory. The basic principle of the algorithms is in estimating the values of the optical densities of the specimen. A computer simulation and initial experimental testing of a steepest ascent version of the algorithm is presented. The computer simulation demonstrates that the MLE algorithm has an advantage over previously used inverse filtering techniques in that it partially restores the zeroed Fourier components in the well-known missing-cone region. We present 3-D reconstructions from real biological data to show the potential of the algorithm in practical applications.
-

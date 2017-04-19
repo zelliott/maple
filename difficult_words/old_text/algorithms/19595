@@ -1,7 +1,0 @@
-
-We describe Distill, a suite of servers for the prediction of protein structural features: secondary structure; relative solvent accessibility; contact density; backbone structural motifs; residue contact maps at 6, 8 and 12 Angstrom; coarse protein topology. The servers are based on large-scale ensembles of recursive neural networks and trained on large, up-to-date, non-redundant subsets of the Protein Data Bank. Together with structural feature predictions, Distill includes a server for prediction of Calpha traces for short proteins (up to 200 amino acids).
-
-The servers are state-of-the-art, with secondary structure predicted correctly for nearly 80% of residues (currently the top performance on EVA), 2-class solvent accessibility nearly 80% correct, and contact maps exceeding 50% precision on the top non-diagonal contacts. A preliminary implementation of the predictor of protein Calpha traces featured among the top 20 Novel Fold predictors at the last CASP6 experiment as group Distill (ID 0348). The majority of the servers, including the Calpha trace predictor, now take into account homology information from the PDB, when available, resulting in greatly improved reliability.
-
-All predictions are freely available through a simple joint web interface and the results are returned by email. In a single submission the user can send protein sequences for a total of up to 32k residues to all or a selection of the servers. Distill is accessible at the address: http://distill.ucd.ie/distill/.
-

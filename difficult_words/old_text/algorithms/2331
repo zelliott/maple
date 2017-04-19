@@ -1,3 +1,0 @@
-
-A new ultra-fast imaging technique that does not place extreme demands on the speed of the gradient system is described. When used with comparable MRI systems, the rotating ultra-fast imaging sequence (RUFIS) can acquire images 4 to 5 times faster than gradient-moment nulled EPI and more than twice as fast as DUFIS, OUFIS, or BURST techniques. Because the technique uses free induction decays instead of echoes, it can be made particularly insensitive to effects of motion, flow, and diffusion. Preliminary images of turbulent flow are presented to demonstrate this insensitivity. However, with appropriate encoding, flow effects may be imaged.
-

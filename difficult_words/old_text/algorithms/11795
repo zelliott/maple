@@ -1,3 +1,0 @@
-
-We put forward an image rendering system based on pipeline framework for processing and displaying medical images. Compared to original computer graphics algorithms divided into volume rendering and surface rendering, this framework can effectively comprehend methods of computer graphics and image processing, import some new concepts such as vertex buffer, pixel buffer and texture buffer. We implement Shaded Surface Display, Maximum Intensity Projection, Digitally Reconstructed Radiography, Multi planar Reformation, Curved Planar Reformation and Interactive Virtual Endoscopy in our new developed PACS image system.
-

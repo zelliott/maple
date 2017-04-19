@@ -1,3 +1,0 @@
-
-A non-linear algorithm, ACE (Algorithm for Cross-Evaluation), was developed to correlate the activity of anti-cancer drugs against human cell lines. ACE evaluates the relationships among compounds and cell lines and displays the resulting clusters on a 3-D surface plot. This plot along with a frequency plot and rank graph provides clear information regarding the sensitivity of groups of cell lines to particular compounds. The program was tested on published anti-cancer data sets and found associations useful in the selection and design of chemotherapy drugs for pre-clinical trials. ACE may be applied to other situations where details of groupings and relationships need to be extracted from large sets of data.
-

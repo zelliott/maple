@@ -1,7 +1,0 @@
-
-Probabilistic Boolean Network (PBN) is a popular model for studying genetic regulatory networks. An important and practical problem is to find the optimal control policy for a PBN so as to avoid the network from entering into undesirable states. A number of research works have been done by using dynamic programming-based (DP) method. However, due to the high computational complexity of PBNs, DP method is computationally inefficient for a large size network. Therefore it is natural to seek for approximation methods.
-
-Inspired by the state reduction strategies, we consider using dynamic programming in conjunction with state reduction approach to reduce the computational cost of the DP method. Numerical examples are given to demonstrate both the effectiveness and the efficiency of our proposed method.
-
-Finding the optimal control policy for PBNs is meaningful. The proposed problem has been shown to be ∑2p - hard. By taking state reduction approach into consideration, the proposed method can speed up the computational time in applying dynamic programming-based algorithm. In particular, the proposed method is effective for larger size networks.
-

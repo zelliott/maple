@@ -1,3 +1,0 @@
-
-We study the problem of finding a path that joins a given initial state with a final one, where the evolution is governed by classical (Hamiltonian) dynamics. A new algorithm for the computation of long time transition trajectories connecting two configurations is presented. In particular, a strategy for finding transition paths between two stable basins is established. The starting point is the formulation of the equation of motion of classical mechanics in the framework of Jacobi's principle; a shortening procedure inspired by Birkhoff's method is then applied to find geodesic solutions. Numerical examples are given for Muller's potential and the collinear reaction H(2) + H --> H + H(2).
-

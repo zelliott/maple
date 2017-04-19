@@ -1,9 +1,0 @@
-
-To evaluate the effects of Optical Character Recognition (OCR) on the automatic cancer classification of pathology reports.
-
-Scanned images of pathology reports were converted to electronic free-text using a commercial OCR system. A state-of-the-art cancer classification system, the Medical Text Extraction (MEDTEX) system, was used to automatically classify the OCR reports. Classifications produced by MEDTEX on the OCR versions of the reports were compared with the classification from a human amended version of the OCR reports.
-
-The employed OCR system was found to recognise scanned pathology reports with up to 99.12% character accuracy and up to 98.95% word accuracy. Errors in the OCR processing were found to minimally impact on the automatic classification of scanned pathology reports into notifiable groups. However, the impact of OCR errors is not negligible when considering the extraction of cancer notification items, such as primary site, histological type, etc.
-
-The automatic cancer classification system used in this work, MEDTEX, has proven to be robust to errors produced by the acquisition of freetext pathology reports from scanned images through OCR software. However, issues emerge when considering the extraction of cancer notification items.
-

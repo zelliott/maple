@@ -1,3 +1,0 @@
-
-What we believe to be a novel 3D diffuse optical tomography scheme is developed to reconstruct images of both absorption and scattering coefficients of finger joint systems. Compared with our previous reconstruction method, the improved 3D algorithm employs both modified Newton methods and an enhanced initial value optimization scheme to recover the optical properties of highly heterogeneous media. The developed approach is tested using simulated, phantom, and in vivo measurement data. The recovered results suggest that the improved approach is able to provide quantitatively better images than our previous algorithm for optical tomography reconstruction.
-

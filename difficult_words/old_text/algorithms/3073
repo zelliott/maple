@@ -1,3 +1,0 @@
-
-A polyhelix is continuous space curve with continuous Frenet frame that consists of a sequence of connected helical segments. The main result of this paper is that given n points in space, there exist infinitely many polyhelices passing through these points. These curves are by construction continuous with continuous derivatives and are completely specified by 3n numbers, i.e., the initial position, the signed curvature, torsion, and length of each helical segment. Polyhelices can be parametrised by the arc length and easily expressed in terms of product of matrices.
-

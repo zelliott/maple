@@ -1,3 +1,0 @@
-
-A graphical user interface (GUI) has been developed which enables interactive feedback and control to the real-time diminishing variance algorithm (DVA). This interactivity allows the user to set scan parameters, view scan statistics, and view image updates during the course of the scan. In addition, the DVA has been extended to simultaneously reduce motion artifacts in three dimensions using three orthogonal navigators. Preliminary in vivo studies indicate that these improvements to the standard DVA allow for significantly improved consistency and robustness in eliminating respiratory motion artifacts from MR images, particularly when imaging the coronary arteries.
-

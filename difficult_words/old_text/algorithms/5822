@@ -1,9 +1,0 @@
-
-X-ray computed tomography (CT) images in the dento-alveolar region are sometimes rendered unusable for diagnostic purposes due to the appearance of streak artifacts. The purpose of the study is to reduce streak artifacts appeared on dental and maxillofacial X-ray CT images by the application of modified iterative restoration method.
-
-We took advantage of the aspect that adjacent CT images often depict very similar anatomical structures within the resulting collection of thin-slice images. CT images having streak artifacts were processed using the projection data of adjacent CT images. A modified iterative correction, the maximum likelihood-expectation maximization (ML-EM) reconstruction algorithm, was employed to reduce the streak artifact caused by metallic materials in the oral cavity. It approximates between the processed image and the original projection data. First, the projection data of an intact image were obtained, and then, the next image that had streak artifacts was processed. The projection data of the processed image were obtained, and the ML-EM method was applied to the next image again. Then, the successive iterative restoration was carried out.
-
-Twelve adjacent images were processed. Each iterative restoration was carried out fifty times. Streak artifacts were observed on processed images at the initial stage, but some of them either suppressed or disappeared as the iteration progressed.
-
-The modified ML-EM method was effective to reduce streak artifacts in X-ray CT images in dento-alveolar region.
-

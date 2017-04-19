@@ -1,3 +1,0 @@
-
-Recently, regression analysis of the cumulative incidence function has gained interest in competing risks data analysis, through the model proposed by Fine and Gray (JASA 1999; 94: 496-509). In this note, we point out that inclusion of time-dependent covariates in this model can lead to serious bias. We illustrate the problems arising in such a context, using bone marrow transplant data as a working example and numerical simulations. Practical advices are given, preventing the misuse of this model.
-

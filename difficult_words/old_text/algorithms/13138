@@ -1,9 +1,0 @@
-
-The shape of the face can be estimated before the surgery by using 3-dimensional computer programs that provide tools to guide skill modifications. The aim of this study was to present the dynamic volume spline method to predict facial soft tissue changes after the modification of the skull associated with orthognathic surgery.
-
-Soft tissue volume is modeled by a dynamic volume spline that includes the elastic behavior of the actual tissue. The model is a hybrid of spring-mass model and finite element model, and combines their advantageous properties. It provides fast and realistic soft tissue simulations. Postsurgical shape of the patient's face is estimated by reshaping the skull and letting the soft tissue model relax over the new boundary conditions formed by the new skull shape. Postsurgical estimations were compared with the conventional method's estimations, where the soft tissue is not modeled biomechanically. Also, postsurgical estimations were compared with the actual postsurgical data for 6 orthognathic surgery patients.
-
-The mean of the error between the estimated shapes and the actual postsurgical shapes was ∼1.8 mm when the whole face was considered.
-
-When the facial soft tissue is modeled by the dynamic volume spline, the postsurgical shape is estimated better than by the conventional method and previous methods in the literature.
-

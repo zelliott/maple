@@ -1,3 +1,0 @@
-
-For any initially correlated network after any kind of attack where either nodes or edges are removed, we obtain general expressions for the degree-degree probability matrix and degree distribution. We show that the proposed analytical approach predicts the correct topological changes after the attack by comparing the evolution of the assortativity coefficient for different attack strategies and intensities in theory and simulations. We find that it is possible to turn an initially assortative network into a disassortative one, and vice versa, by fine-tuning removal of either nodes or edges. For an initially uncorrelated network, on the other hand, we discover that only a targeted edge-removal attack can induce such correlations.
-

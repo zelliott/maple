@@ -1,7 +1,0 @@
-
-Identifying regulatory elements in genomic sequences is a key component in understanding the control of gene expression. Computationally, this problem is often addressed by motif discovery, where the goal is to find a set of mutually similar subsequences within a collection of input sequences. Though motif discovery is widely studied and many approaches to it have been suggested, it remains a challenging and as yet unresolved problem.
-
-We introduce SAMF (Solution-Aggregating Motif Finder), a novel approach for motif discovery. SAMF is based on a Markov Random Field formulation, and its key idea is to uncover and aggregate multiple statistically significant solutions to the given motif finding problem. In contrast to many earlier methods, SAMF does not require prior estimates on the number of motif instances present in the data, is not limited by motif length, and allows motifs to overlap. Though SAMF is broadly applicable, these features make it particularly well suited for addressing the challenges of prokaryotic regulatory element detection. We test SAMF's ability to find transcription factor binding sites in an Escherichia coli dataset and show that it outperforms previous methods. Additionally, we uncover a number of previously unidentified binding sites in this data, and provide evidence that they correspond to actual regulatory elements.
-
-Supplementary data are available at Bioinformatics online.
-

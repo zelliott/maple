@@ -1,9 +1,0 @@
-
-Conventional CT requires generation of separate images utilizing different convolution kernels to optimize lesion detection. Our goal was to develop and test a hybrid CT algorithm to simultaneously optimize bone and soft-tissue characterization, potentially halving the number of images that need to be stored, transmitted, and reviewed.
-
-CT images generated with separate high-pass (bone) and low-pass (soft tissue) kernels were retrospectively combined so that low-pass algorithm pixels less than -150 HU or greater than 150 HU are substituted with corresponding high-pass kernel reconstructed pixels. A total of 38 CT examinations were reviewed using the hybrid technique, including 20 head, eight spine, and 10 head and neck scans. Three neuroradiologists independently reviewed all 38 hybrid cases, comparing them to both standard low-pass and high-pass kernel convolved images for characterization of anatomy and pathologic abnormalities. The conspicuity of bone, soft tissue, and related anatomy were compared for each CT reconstruction technique.
-
-For the depiction of bone, in all 38 cases, the three neuroradiologists scored the hybrid images as being equivalent to high-pass kernel reconstructions but superior to the low-pass kernel. For depiction of extracranial soft tissues and brain, the hybrid kernel was rated equivalent to the low-pass kernel but superior to that of the high-pass kernel.
-
-The hybrid convolution kernel is a promising technique affording optimized bone and soft tissue evaluation while potentially halving the number of images needed to be transmitted, stored, and reviewed.
-

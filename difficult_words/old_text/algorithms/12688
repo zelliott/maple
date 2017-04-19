@@ -1,3 +1,0 @@
-
-The scoring function is one of the most important components in structure-based drug design. Despite considerable success, accurate and rapid prediction of protein-ligand interactions is still a challenge in molecular docking. In this perspective, we have reviewed three basic types of scoring functions (force-field, empirical, and knowledge-based) and the consensus scoring technique that are used for protein-ligand docking. The commonly-used assessment criteria and publicly available protein-ligand databases for performance evaluation of the scoring functions have also been presented and discussed. We end with a discussion of the challenges faced by existing scoring functions and possible future directions for developing improved scoring functions.
-

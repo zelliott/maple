@@ -1,9 +1,0 @@
-
-Radiobiologic modeling is increasingly used to estimate the effects of altered treatment plans, especially for dose escalation. The present article shows how much the linear-quadratic (LQ) (calculated biologically equivalent dose [BED] varies when individual parameters of the LQ formula are varied by +/-20% and by 1%.
-
-Equivalent total doses (EQD2 = normalized total doses (NTD) in 2-Gy fractions for tumor control, acute mucosal reactions, and late complications were calculated using the linear- quadratic formula with overall time: BED = nd (1 + d/ [alpha/beta]) - log(e)2 (T - Tk) / alphaTp, where BED is BED = total dose x relative effectiveness (RE = nd (1 + d/ [alpha/beta]). Each of the five biologic parameters in turn was altered by +/-10%, and the altered EQD2s tabulated; the difference was finally divided by 20. EQD2 or NTD is obtained by dividing BED by the RE for 2-Gy fractions, using the appropriate alpha/beta ratio.
-
-Variations in tumor and acute mucosal EQD ranged from 0.1% to 0.45% per 1% change in each parameter for conventional schedules, the largest variation being caused by overall time. Variations in "late" EQD were 0.4% to 0.6% per 1% change in the only biologic parameter, the alpha/beta ratio. For stereotactic body radiotherapy schedules, variations were larger, up to 0.6 to 0.9 for tumor and 1.6% to 1.9% for late, per 1% change in parameter.
-
-Robustness occurs similar to that of equivalent uniform dose (EUD), for the same reasons. Total dose, dose per fraction, and dose-rate cause their major effects, as well known.
-

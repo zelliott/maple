@@ -1,3 +1,0 @@
-
-We provide an alternative to the maximum likelihood method for making inferences about the parameters of the logistic regression model. The method is based appropriate permutational distributions of sufficient statistics. It is useful for analysing small or unbalanced binary data with covariates. It also applies to small-sample clustered binary data. We illustrate the method by analysing several biomedical data sets.
-

@@ -1,3 +1,0 @@
-
-In this paper, we propose a novel method for the detection of microcalcifications using mathematical morphology and a support vector machine (SVM). First, the contrast in the original mammogram was improved by gamma correction and two carefully designed structural elements were used to enhance any microcalcifications. Next, the potential regions were extracted using our proposed dual-threshold technique. Finally, a SVM classifier was used to reduce the number of false positives. The performance of the proposed method was evaluated using the MIAS database. The experimental results demonstrated the efficiency and effectiveness of our method.
-

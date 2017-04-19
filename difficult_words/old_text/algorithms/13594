@@ -1,9 +1,0 @@
-
-An insulin pump shutoff system can prevent nocturnal hypoglycemia and is a first step on the pathway toward a closed-loop artificial pancreas. In previous pump shutoff studies using a voting algorithm and a 1 min continuous glucose monitor (CGM), 80% of induced hypoglycemic events were prevented.
-
-The pump shutoff algorithm used in previous studies was revised to a single Kalman filter to reduce complexity, incorporate CGMs with different sample times, handle sensor signal dropouts, and enforce safety constraints on the allowable pump shutoff time.
-
-Retrospective testing of the new algorithm on previous clinical data sets indicated that, for the four cases where the previous algorithm failed (minimum reference glucose less than 60 mg/dl), the mean suspension start time was 30 min earlier than the previous algorithm. Inpatient studies of the new algorithm have been conducted on 16 subjects. The algorithm prevented hypoglycemia in 73% of subjects. Suspension-induced hyperglycemia is not assessed, because this study forced excessive basal insulin infusion rates.
-
-The new algorithm functioned well and is flexible enough to handle variable sensor sample times and sensor dropouts. It also provides a framework for handling sensor signal attenuations, which can be challenging, particularly when they occur overnight.
-

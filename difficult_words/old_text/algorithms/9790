@@ -1,9 +1,0 @@
-
-The authors sought to compare different algorithms for dose reduction in retrospectively echocardiographically (ECG)-gated dual-source computed tomography (CT) coronary angiography (DSCT-CA) in a phantom model.
-
-Weighted CT dose index (CTDI) was measured by using an anthropomorphic phantom in spiral cardiac mode (retrospective ECG gating) at five pitch values adapted with two heart-rate-adaptive ECG pulsing windows using four algorithms: narrow pulsing window, with tube current reduction to 20% (A) and 4% (B) of peak current outside the pulsing window; wide pulsing window, with tube current reduction to 20% (C) and 4% (D). Each algorithm was applied at different heart rates (45, 60, 75, 90, 120 bpm).
-
-Mean CTDI volume (CTDIvol) was 36.9+/-9.7 mGy, 23.9+/-5.6 mGy, 49.7+/-16.2 mGy and 38.5+/-12.3 mGy for A, B, C and D, respectively. Consistent dose reduction was observed with protocols applying the 4% tube current reduction (B and D). Using the conversion coefficient for the chest, the mean effective dose was the highest for C (9.6 mSv) and the lowest for B (4.6 mSv). Heart-ratedependent pitch values (pitch=0.2, 0.26, 0.34, 0.43, 0.5) and the use of heart-rate-adaptive ECG pulsing windows provided a significant decrease in the CTDIvol with progressively higher heart rates (45, 60, 75, 90, 120 bpm), despite using wider pulsing windows.
-
-Radiation exposure with DSCT-CA using a narrow pulsing window significantly decreases when compared with a wider pulsing window. When using a protocol with reduced tube current to 4%, the radiation dose is significantly lower.
-

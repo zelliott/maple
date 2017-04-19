@@ -1,9 +1,0 @@
-
-Digital mammography is one of the most promising options to diagnose breast cancer which is the most common cancer in women. However, its effectiveness is enfeebled due to the difficulty in distinguishing actual cancer lesions from benign abnormalities, which results in unnecessary biopsy referrals. To overcome this issue, computer aided diagnosis (CADx) using machine learning techniques have been studied worldwide. Since this is a classification problem and the number of features obtainable from a mammogram image is infinite, a feature selection method that is tailored for use in the CADx systems is needed.
-
-We propose a feature selection method based on multiple support vector machine recursive feature elimination (MSVM-RFE). We compared our method with four previously proposed feature selection methods which use support vector machine as the base classifier. Experiments were performed on lesions extracted from the Digital Database of Screening Mammography, the largest public digital mammography database available. We measured average accuracy over 5-fold cross validation on the 8 datasets we extracted.
-
-Selecting from 8 features, conventional algorithms like SVM-RFE and multiple SVM-RFE showed slightly better performance than others. However, when selecting from 22 features, our proposed modified multiple SVM-RFE using boosting outperformed or was at least competitive to all others.
-
-Our modified method may be a possible alternative to SVM-RFE or the original MSVM-RFE in many cases of interest. In the future, we need a specific method to effectively combine models trained during the feature selection process and a way to combine feature subsets generated from individual SVM-RFE instances.
-

@@ -1,5 +1,0 @@
-
-Mauve Contig Mover provides a new method for proposing the relative order of contigs that make up a draft genome based on comparison to a complete or draft reference genome. A novel application of the Mauve aligner and viewer provides an automated reordering algorithm coupled with a powerful drill-down display allowing detailed exploration of results.
-
-The software is available for download at http://gel.ahabs.wisc.edu/mauve.
-

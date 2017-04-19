@@ -1,9 +1,0 @@
-
-Our aim is high spatial resolution imaging of maximum intensity projection (MIP) images in renal magnetic resonance angiography (MRA) by constructing a protocol for acquiring three-dimensional volume data with isotropic voxels.
-
-We eliminated water-selective excitation (WATS) and utilized effective contrast behavior between fat and water before reaching a steady state-that is, during the transient phase-to cover fat suppression by WATS. In a phantom study, the optimal flip angle was investigated under the "low-high Y" profile order using distilled water and baby oil to construct a protocol with isotropic voxels. Signal intensity, contrast, noise and signal-to-noise ratio were investigated to compare image qualities between the conventional and the constructed isotropic protocols. In a clinical study, three radiologists and two radiological technologists visually evaluated clinical images of 20 volunteers for spatial resolution, contrast and overall reader confidence in two protocols.
-
-We constructed an isotropic protocol with voxel dimensions of 0.78 mm × 0.78 mm × 0.78 mm at a flip angle of 90°. We maintained the scan time but enlarged the x-y pixel dimensions from 0.59 mm × 0.59 mm to 0.78 mm × 0.78 mm and shortened image height from 48 mm to 42.9 mm. Data from the phantom study were worse in the isotropic protocol than in the conventional protocol. However, overall reader confidence in the clinical images was significantly better in the isotropic protocol than in the conventional protocol (p<.001).
-
-Our study indicated the value of addressing high spatial resolution imaging of MIP images for renal MRA by constructing an isotropic protocol.
-

@@ -1,7 +1,0 @@
-
-In individually dye-balanced microarray designs, each biological sample is hybridized on two different slides, once with Cy3 and once with Cy5. While this strategy ensures an automatic correction of the gene-specific labelling bias, it also induces dependencies between log-ratio measurements that must be taken into account in the statistical analysis.
-
-We present two original statistical procedures for the statistical analysis of individually balanced designs. These procedures are compared with the usual ML and REML mixed model procedures proposed in most statistical toolboxes, on both simulated and real data.
-
-The UP procedure we propose as an alternative to usual mixed model procedures is more efficient and significantly faster to compute. This result provides some useful guidelines for the analysis of complex designs.
-

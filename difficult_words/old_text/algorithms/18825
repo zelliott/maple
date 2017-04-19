@@ -1,3 +1,0 @@
-
-We present a two-stage method for obtaining both phase and object estimates from phase-diversity time series data. In the first stage, the phases are estimated for each time frame using the limited memory BFGS method. In the second stage, an algorithm that incorporates a nonnegativity constraint as well as prior knowledge of data noise statistics is used to obtain an estimate of the object being observed. The approach is tested on real phase-diversity data with 32 time frames, and a comparison is made between it and a previously developed approach. Also, the image deblurring algorithm in stage two is tested against other standard methods and is shown to be the best for our problem.
-

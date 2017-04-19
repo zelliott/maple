@@ -1,9 +1,0 @@
-
-To accelerate iterative algebraic reconstruction algorithms using a cylindrical image grid.
-
-Tetrahedron beam computed tomography (TBCT) is designed to overcome the scatter and detector problems of cone beam computed tomography (CBCT). Iterative algebraic reconstruction algorithms have been shown to mitigate approximate reconstruction artifacts that appear at large cone angles, but clinical implementation is limited by their high computational cost. In this study, a cylindrical voxelization method on a cylindrical grid is developed in order to take advantage of the symmetries of the cylindrical geometry. The cylindrical geometry is a natural fit for the circular scanning trajectory employed in volumetric CT methods such as CBCT and TBCT. This method was implemented in combination with the simultaneous algebraic reconstruction technique (SART). Both two- and three-dimensional numerical phantoms as well as a patient CT image were utilized to generate the projection sets used for reconstruction. The reconstructed images were compared to the original phantoms using a set of three figures of merit (FOM).
-
-The cylindrical voxelization on a cylindrical reconstruction grid was successfully implemented in combination with the SART reconstruction algorithm. The FOM results showed that the cylindrical reconstructions were able to maintain the accuracy of the Cartesian reconstructions. In three dimensions, the cylindrical method provided better accuracy than the Cartesian methods. At the same time, the cylindrical method was able to provide a speedup factor of approximately 40 while also reducing the system matrix storage size by 2 orders of magnitude.
-
-TBCT image reconstruction using a cylindrical image grid was able to provide a significant improvement in the reconstruction time and a more compact system matrix for storage on the hard drive and in memory while maintaining the image quality provided by the Cartesian voxelization on a Cartesian grid.
-

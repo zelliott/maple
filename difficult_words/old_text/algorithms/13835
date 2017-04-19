@@ -1,3 +1,0 @@
-
-META is a knowledge-based expert system that simulates the biotransformation of xenobiotics. It operates with the help of a dictionary (knowledge base) to seek target fragments in a compound and transform them to products. Here, a genetic algorithm is introduced to help build the knowledge base and optimize the performance of the methodology.
-

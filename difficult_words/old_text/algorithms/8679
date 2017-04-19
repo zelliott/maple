@@ -1,3 +1,0 @@
-
-A set of 200 patients in the 6 hours immediately following cardiac surgery was analysed within a multidimensional space of 13 commonly monitored physiological variables in order to identify high risk patterns. The application of an unsupervised learning (clustering) method to these data clearly showed the existence of two well-separated classes of low and high risk patients. A stepwise discriminant analysis was then applied to patients representative of the two classes in order to find those variables which, over time, possessed the greatest separation power. The latter always included the oxygen delivery (DO2), an index related to the oxygen content in the blood (Pv(-)O2 or avO2D) and a myocardial contractility index (VF or LAP).
-

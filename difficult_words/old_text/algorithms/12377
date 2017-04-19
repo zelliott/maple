@@ -1,3 +1,0 @@
-
-We propose a new multistatic adaptive microwave imaging (MAMI) method for early breast cancer detection. MAMI is a two-stage robust Capon beamforming (RCB) based image formation algorithm. MAMI exhibits higher resolution, lower sidelobes, and better noise and interference rejection capabilities than the existing approaches. The effectiveness of using MAMI for breast cancer detection is demonstrated via a simulated 3-D breast model and several numerical examples.
-

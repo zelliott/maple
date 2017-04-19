@@ -1,3 +1,0 @@
-
-Two low-level motion models are applied to a second-order stimulus, a translating contrast modulation of static binary noise. Both models have been used to demonstrate equivalence between energy and gradient algorithms and can be split into a motion-opponent stage followed by a contrast-normalised stage. Analysis of results shows no directional bias at the motion-opponent stage but a strong bias, indicating the correct direction of second-order motion, at the contrast-normalised stage. This demonstrates that the intrinsically non-linear process of contrast-normalisation may play a part in the detection of second-order motion.
-

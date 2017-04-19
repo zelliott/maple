@@ -1,7 +1,0 @@
-
-The ability to control specific protein-protein interactions conditionally in vivo would be extremely helpful for analyzing protein-protein interaction networks. SH3 (Src homology 3) modular protein binding domains are found in many signaling proteins and they play a crucial role in signal transduction by binding to proline-rich sequences.
-
-Random in vitro mutagenesis coupled with yeast two-hybrid screening was used to identify mutations in the second SH3 domain of Nck that render interaction with its ligand temperature sensitive. Four of the mutants were functionally temperature sensitive in mammalian cells, where temperature sensitivity was correlated with a pronounced instability of the mutant domains at the nonpermissive temperature. Two of the mutations affect conserved residues in the hydrophobic core (Val133 and Val160), suggesting a general strategy for engineering temperature-sensitive SH3-containing proteins. Indeed mutagenesis of the corresponding positions in another SH3 domain, that of Crk-1, rendered the full-length Crk-1 protein temperature sensitive for function and stability in mammalian cells.
-
-Construction of temperature-sensitive SH3 domains is a novel approach to regulating the function of SH3 domains in vivo. Such mutants will be valuable in dissecting SH3-mediated signaling pathways. Furthermore, the methodology described here to isolate temperature-sensitive domains should be widely applicable to any domain involved in protein-protein interactions.
-

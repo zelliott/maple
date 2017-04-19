@@ -1,3 +1,0 @@
-
-An essential and indispensable component of automated microscopy framework is the automatic focusing system, which determines the in-focus position of a given field of view by searching the maximum value of a focusing function over a range of z-axis positions. The focus function and its computation time are crucial to the accuracy and efficiency of the system. Sixteen focusing algorithms were analyzed for histological and histopathological images. In terms of accuracy, results have shown an overall high performance by most of the methods. However, we included in the evaluation study other criteria such as computational cost and focusing curve shape which are crucial for real-time applications and were used to highlight the best practices.
-

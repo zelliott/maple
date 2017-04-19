@@ -1,3 +1,0 @@
-
-Since the histological quantification of necrosis is a common task in medical research and practice, we evaluate different image analysis methods for quantifying necrosis in whole-slide images. In a practical usage scenario, we assess the impact of different classification algorithms and feature sets on both accuracy and computation time. We show how a well-chosen combination of multiresolution features and an efficient postprocessing step enables the accurate quantification necrosis in gigapixel images in less than a minute. The results are general enough to be applied to other areas of histological image analysis as well.
-

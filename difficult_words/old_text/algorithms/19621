@@ -1,3 +1,0 @@
-
-This article presents a warping technique for correcting brain tissue distortion on magnetic resonance imaging (MRI) scans due to stroke lesion growth and for mapping MRI scans to histological sections. Meshes are imposed upon the images for feature specification, and these features are exactly matched in the different images to be mapped, while the other voxels are matched by interpolation. This technique was tested on serial MR images and histological sections that were acquired in a nonhuman primate model of stroke. This technique was able to deliver satisfactory warping results. It is simple and robust and can be utilized in many applications for comparison of multimodality medical images and histological sections.
-

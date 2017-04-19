@@ -1,3 +1,0 @@
-
-We introduce a biologically motivated dynamical principle of sequential memory which is based on winnerless competition (WLC) of event images. This mechanism is implemented in a two-layer neural model of sequential spatial memory. We present the learning dynamics which leads to the formation of a WLC network. After learning, the system is capable of associative retrieval of prerecorded sequences of patterns.
-

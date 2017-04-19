@@ -1,3 +1,0 @@
-
-Software is a powerful tool to help us analyze industrial information and control processes. In this paper, we will show our recently development of a software algorithm/package which can help us select the more eco-efficient control configuration. Nowadays, the eco-efficiency of all industrial processes/plants has become more and more important; engineers need to find a way to integrate control loop configuration and measurements of eco-efficiency. The exergy eco-efficiency factor; a new measure of eco-efficiency for control loop configuration has been developed. This software algorithm/package will combine a commercial simulator, VMGSim, and Excel together to calculate the exergy eco-efficiency factor.
-

@@ -1,3 +1,0 @@
-
-In this paper we describe a natural language processing system which is able to predict whether or not a patient exhibits a specific phenotype using the information extracted from the narrative reports associated with the patient. Furthermore, the phenotypic annotations from our report dataset were performed at the report level which allows us to perform the prediction of the clinical phenotype at any point in time during the patient hospitalization period. Our experiments indicate that an important factor in achieving better results for this problem is to determine how much information to extract from the patient reports in the time interval between the patient admission time and the current prediction time.
-

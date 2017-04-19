@@ -1,3 +1,0 @@
-
-The first reported hybrid artificial neural network-genetic algorithm (ANN-GA) approach for the optimization of on-capillary dipeptide derivatization is presented. More specifically, genetic optimization proved valuable in the determination of effective network structure with three defined parameter inputs: (i) phthalic anhydride injection volume, (ii) time of injection, and (iii) voltage, for the maximum conversion of the dipeptide D-Ala-D-Ala by phthalic anhydride. Results obtained from the hybrid approach proved superior to an ANN model without GA optimization in terms of training data and predictive ability. The model developed will likely prove useful for the analysis of other organic-based reaction systems.
-

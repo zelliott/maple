@@ -1,9 +1,0 @@
-
-Prospective testing of denitrogenation protocols to reduce the risk of decompression sickness (DCS) in astronauts requires pre-defined accept and reject criteria. We assume that the end-point of a test, the presence or absence of signs and symptoms attributable to DCS, is unequivocal. However, diagnosis of DCS is not perfect, nor is there is a gold standard to assess diagnosis error rates. These error rates could cause consistent bias in the decision to accept or reject proposed protocols. We used a Latent Class Model (LCM) incorporating inter-rater agreement to estimate false-positive and negative rates of DCS diagnosis for each of six symptomatic (covariate) strata.
-
-Case descriptions from 135 reports collected since 1982 were available with 103 diagnosed as DCS (73.1%). There were 3 subsets of 45 descriptions that were randomly selected, information about the original diagnosis omitted, and were sent to 15 physicians (raters), all experts in altitude DCS. Subsets were diagnosed for DCS by either four, five, or six raters. We then used a LCM to estimate false-positive and false-negative error rates for the original NASA test diagnosis, even though a gold standard was not available.
-
-Estimates of false-positive rates in the NASA diagnoses ranged from 13% to 83% and from 1% to 32% for false-negative rates over the six strata of symptomatic response variables.
-
-Our findings suggest that use of current DCS diagnostic outcomes as if they were error free would likely produce an inflated rejection rate of acceptable protocols in future testing if adjustments are not made.
-

@@ -1,3 +1,0 @@
-
-In this article, we present a method for determining whether a model is at least locally identifiable and in the case of non-identifiable models whether any of the parameters are individually at least locally identifiable. This method combines symbolic and numeric methods to create an algorithm that is extremely accurate compared to other numeric methods and computationally inexpensive. A series of generic computational steps are developed to create a method that is ideal for practitioners to use. The algorithm is compared to symbolic methods for two capture-recapture models and a compartment model.
-

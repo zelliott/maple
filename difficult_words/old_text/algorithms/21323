@@ -1,3 +1,0 @@
-
-The aim of this paper is to describe the analysis of a high resolution ECG recorded from the body surface. Standard signal averaging techniques are improved by using a new time delay estimation method which leads to a better alignment accuracy of P and T waves. A second method uses adaptive identification to achieve a beat by beat fine ECG estimation. Information provided by the two methods allows a better interpretation of low and very low level signals.
-

@@ -1,3 +1,0 @@
-
-Experimental data collection time in multidimensional nuclear magnetic resonance experiments can be significantly decreased if the lineshapes of all the components of one of the ID summations of the spectrum are known. When this condition is fulfilled, a simple linear least squares fit of the time-domain signal taking the lineshapes into account not only allows saving time in data collection, but also improves sensitivity and resolution. The reliability of the proposed procedure is carefully addressed in the particular case of Lorentzian lines. This strategy applied to a 3Q-REDOR experiment reduced experimental time by a factor of 6.
-

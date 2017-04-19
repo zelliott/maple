@@ -1,7 +1,0 @@
-
-The alignment of multiple protein sequences is a fundamental step in the analysis of biological data. It has traditionally been applied to analyzing protein families for conserved motifs, phylogeny, structural properties, and to improve sensitivity in homology searching. The availability of complete genome sequences has increased the demands on multiple sequence alignment (MSA) programs. Current MSA methods suffer from being either too inaccurate or too computationally expensive to be applied effectively in large-scale comparative genomics.
-
-We developed Kalign, a method employing the Wu-Manber string-matching algorithm, to improve both the accuracy and speed of multiple sequence alignment. We compared the speed and accuracy of Kalign to other popular methods using Balibase, Prefab, and a new large test set. Kalign was as accurate as the best other methods on small alignments, but significantly more accurate when aligning large and distantly related sets of sequences. In our comparisons, Kalign was about 10 times faster than ClustalW and, depending on the alignment size, up to 50 times faster than popular iterative methods.
-
-Kalign is a fast and robust alignment method. It is especially well suited for the increasingly important task of aligning large numbers of sequences.
-

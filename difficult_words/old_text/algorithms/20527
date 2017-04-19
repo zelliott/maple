@@ -1,3 +1,0 @@
-
-In studying population data, it is common to have many equally possible parsimonious trees. This has caused representational problems, all of which have been addressed by using various kinds of consensus trees. Recognizing that the incubus may in fact be the constraint of having to have a tree representation, several authors have investigated networks as a better form. In this paper, a beginning to a new procedure for making most parsimonious networks is developed. The algorithm, as developed so far, is presented. Its applicability to several viral evolutionary problems is illustrated and the nature of the problems needing yet to be addressed are discussed.
-

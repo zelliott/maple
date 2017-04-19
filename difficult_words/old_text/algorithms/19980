@@ -1,9 +1,0 @@
-
-The goals of this study were to create cryo-imaging methods to quantify characteristics (size, dispersal, and blood vessel density) of mouse orthotopic models of glioblastoma multiforme (GBM) and to enable studies of tumor biology, targeted imaging agents, and theranostic nanoparticles.
-
-Green fluorescent protein-labeled, human glioma LN-229 cells were implanted into mouse brain. At 20-38 days, cryo-imaging gave whole brain, 4-GB, 3D microscopic images of bright field anatomy, including vasculature, and fluorescent tumor. Image analysis/visualization methods were developed.
-
-Vessel visualization and segmentation methods successfully enabled analyses. The main tumor mass volume, the number of dispersed clusters, the number of cells/cluster, and the percent dispersed volume all increase with age of the tumor. Histograms of dispersal distance give a mean and median of 63 and 56 μm, respectively, averaged over all brains. Dispersal distance tends to increase with age of the tumors. Dispersal tends to occur along blood vessels. Blood vessel density did not appear to increase in and around the tumor with this cell line.
-
-Cryo-imaging and software allow, for the first time, 3D, whole brain, microscopic characterization of a tumor from a particular cell line. LN-229 exhibits considerable dispersal along blood vessels, a characteristic of human tumors that limits treatment success.
-

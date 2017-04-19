@@ -1,3 +1,0 @@
-
-Bayesian experimental design for a clinical trial involves specifying a utility function that models the purpose of the trial, in this case the selection of patients for a diagnostic test. The best sample of patients is selected by maximizing expected utility. This optimization task poses difficulties due to a high-dimensional discrete design space and, also, to an expected utility formula of high complexity. A simulation-based optimal design method is feasible in this case. In addition, two deterministic algorithms that perform a systematic search over the design space are developed to address the computational issues.
-

@@ -1,5 +1,0 @@
-
-We introduce a novel Matlab toolbox for microarray data analysis. This toolbox uses normalization based upon a normally distributed background and differential gene expression based on five statistical measures. The objects in this toolbox are open source and can be implemented to suit your application.
-
-MDAT v1.0 is a Matlab toolbox and requires Matlab to run. MDAT is freely available at http://microarray.omrf.org/publications/2004/knowlton/MDAT.zip.
-

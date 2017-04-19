@@ -1,3 +1,0 @@
-
-Most atlases, such as cancer incidence or mortality atlases, show information for geographical subunits with major differences in population size. Under such conditions, classical epidemiological mapping indexes (SIR, SMR) are unsatisfactory. Regional pattern, if they exist, cannot be shown. Empirical Bayes methods produce smoothed relative risk estimators useful for solving this problem. We present some elementary principles of these methods using cancer incidence data in the French department of Isere.
-

@@ -1,3 +1,0 @@
-
-A novel method is presented for the prediction of protein architecture from sequence using neural networks. The method involves the preprocessing of protein sequence data by numerically encoding it and then applying a Fourier transform. The encoded and transformed data are then used to train a neural network to recognize a number of different protein architectures. The method proved significantly better than comparable alternative strategies such as percentage dipeptide frequency, but is still limited by the size of the data set and the input demands of a neural network. Its main potential is as a complement to existing fold recognition techniques, with its ability to identify global symmetries within protein structures its greatest strength.
-

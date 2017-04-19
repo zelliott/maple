@@ -1,3 +1,0 @@
-
-Using non-parametric estimation techniques, we have modeled an area of 126 actuators of a micro-electro-mechanical deformable mirror with 1024 actuators. These techniques produce models applicable to open-loop adaptive optics, where the turbulent wavefront is measured before it hits the deformable mirror. The model's input is the wavefront correction to apply to the mirror and its output is the set of voltages to shape the mirror. Our experiments have achieved positioning errors of 3.1% rms of the peak-to-peak wavefront excursion.
-

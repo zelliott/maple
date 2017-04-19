@@ -1,9 +1,0 @@
-
-Accurate identification of the NP in MR images is crucial to properly and objectively assess the intervertebral disk. Therefore, computerized segmentation of the NP in T2WI is necessary to produce repeatable and accurate results with minimal user input.
-
-A semiautomated CS method was developed to identify the NP in T2WI on the basis of intensity differences compared with the AF. The method was validated by segmenting computer-generated images with a known ROI. The method was tested by using 63 MR images of rabbit lumbar disks, which were segmented to detect disk degeneration. An ICC was used to assess the repeatability of this method compared with manual segmentation.
-
-The error in the detected area of the rabbit NP by using CS was -3.49% ± 4.4% (mean ± SD) compared with 22.36% ± 5.55% by using manual segmentation. Moreover, the method was capable of detecting disk degeneration in a known rabbit puncture model of disk degeneration. Finally, this method had an ICC of 0.97 and 0.99 in regard to segmenting the area and calculating the MR imaging index of the NP, deeming it highly repeatable.
-
-The CS method is a semiautomated computer method able to segment the NP of the rabbit disk and detect disk degeneration. In addition, it could assist in clinical detection, assessment, and monitoring of early degeneration in human disks.
-

@@ -1,3 +1,0 @@
-
-Clustering has become an integral part of microarray data analysis and interpretation. The algorithmic basis of clustering -- the application of unsupervised machine-learning techniques to identify the patterns inherent in a data set -- is well established. This review discusses the biological motivations for and applications of these techniques to integrating gene expression data with other biological information, such as functional annotation, promoter data and proteomic data.
-

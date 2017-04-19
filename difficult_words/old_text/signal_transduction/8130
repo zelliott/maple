@@ -1,5 +1,0 @@
-
-Elementary modes (EMs) analysis has been well established. The existing methodologies for assigning weights to EMs cannot be directly applied for large-scale metabolic networks, since the tremendous number of modes would make the computation a time-consuming or even an impossible mission. Therefore, developing more efficient methods to deal with large set of EMs is urgent.
-
-We develop a method to evaluate the performance of employing a subset of the elementary modes to reconstruct a real flux distribution by using the relative error between the real flux vector and the reconstructed one as an indicator. We have found a power function relationship between the decrease of relative error and the increase of the number of the selecting EMs, and a logarithmic relationship between the increases of the number of non-zero weighted EMs and that of the number of the selecting EMs. Our discoveries show that it is possible to reconstruct a given flux distribution by a selected subset of EMs from a large metabolic network and furthermore, they help us identify the 'governing modes' to represent the cellular metabolism for such a condition.
-

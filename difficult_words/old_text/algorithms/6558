@@ -1,7 +1,0 @@
-
-The last few years have seen the advent of high-throughput technologies to analyze various properties of the transcriptome and proteome of several organisms. The congruency of these different data sources, or lack thereof, can shed light on the mechanisms that govern cellular function. A central challenge for bioinformatics research is to develop a unified framework for combining the multiple sources of functional genomics information and testing associations between them, thus obtaining a robust and integrated view of the underlying biology.
-
-We present a graph-theoretic approach to test the significance of the association between multiple disparate sources of functional genomics data by proposing two statistical tests, namely edge permutation and node label permutation tests. We demonstrate the use of the proposed tests by finding significant association between a Gene Ontology-derived predictome and data obtained from mRNA expression and phenotypic experiments for Saccharomyces cerevisiae. Moreover, we employ the graph-theoretic framework to recast a surprising discrepancy presented elsewhere between gene expression and knockout phenotype, using expression data from a different set of experiments.
-
-An R software package, GraphAT, containing the data and statistical procedures is available from Bioconductor: http://www.bioconductor.org.
-

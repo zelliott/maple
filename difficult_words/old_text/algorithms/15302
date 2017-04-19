@@ -1,9 +1,0 @@
-
-Liver iron quantification by MRI has become routine. Pixelwise (PW) fitting to the iron-mediated signal decay has some advantages but is slower and more vulnerable to noise than region-based techniques. We present a fast, pseudo-pixelwise mapping (PPWM) algorithm.
-
-The PPWM algorithm divides the entire liver into non-contiguous groups of pixels sorted by rapid relative relaxivity estimates. Pixels within each group of like-relaxivity were binned and fit using a Levenberg-Marquadt algorithm.
-
-The developed algorithm worked about 30 times faster than the traditional PW approach and generated R2* maps qualitatively and quantitatively similar. No systematic difference was observed in median R2* values with a coefficient of variability (CoV) of 2.4%. Intra-observer and inter-observer errors were also under 2.5%. Small systematic differences were observed in the right tail of the R2* distribution resulting in slightly lower mean R2* values (CoV of 4.2%) and moderately lower SD of R2* values for the PPWM algorithm. Moreover, the PPWM provided the best accuracy, giving a lower error of R2* estimates.
-
-The PPWM yielded comparable reproducibility and higher accuracy than the TPWM. The method is suitable for relaxivity maps in other organs and applications.
-

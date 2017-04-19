@@ -1,3 +1,0 @@
-
-When a full-field optical coherence tomography (OCT) system is used to extract tomographic images from a multilayer information carrier, the resulting images may suffer from interlayer modulations and parasitic patterns derived from interference fringes. We describe and analyze these negative influences that degrade the quality of extracted tomographic images and propose practical algorithms and methods to minimize them. The emphasis of the discussion will be the removal of the parasitic fringes produced by the imperfection of a CCD camera. The simulative and experimental results of image enhancement for multilayer tomography extraction using full-field OCT are provided.
-

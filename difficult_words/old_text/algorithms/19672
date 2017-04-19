@@ -1,3 +1,0 @@
-
-In this paper, the multiperiodicity of a general class of discrete-time delayed neural networks (DTDNNs) is formulated and studied. Several sufficient conditions are obtained to ensure n-neuron DTDNNs can have 2n periodic orbits and these periodic orbits are locally attractive. In addition, we give the conditions for a periodic orbit to be locally or globally attractive when the periodic orbit locates in a designated region. As two typical representatives, the Hopfield neural network and the cellular neural network are examined in detail. These conditions improve and extend the existing stability results in the literature. Simulations results are also discussed in three illustrative examples.
-

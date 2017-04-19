@@ -1,3 +1,0 @@
-
-Clustering Protein-Protein Interaction (PPI) data is a difficult problem due to its small world and scale-free characteristics. Existing clustering methods could not perform well. This paper proposes an improved functional-flow based approach through Quantum-behaved Particle Swarm Optimisation (QPSO) algorithm, which can find the optimum threshold automatically when calculating the lowest similarity between modules. We also take bridging nodes into account to improve the clustering result. The experiments on Munich Information Center for Protein Sequences (MIPS) PPI data sets show that the algorithm has better performance than functional flow method in terms of accuracy and number of matched clusters.
-

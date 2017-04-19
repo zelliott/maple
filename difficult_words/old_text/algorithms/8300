@@ -1,9 +1,0 @@
-
-This study was undertaken to determine what characteristics should be recorded on which days to build a predictive model for selection of Day 3 embryos.
-
-Embryos failing to form a clinical sac or that formed a viable fetus (to > or =12 weeks), and transferred singly (n = 269) or in pairs (n = 1326) were scored for early cleavage and pronuclear status on Day 1, and cell number, fragmentation, and symmetry on Days 2 and 3, with number of nuclei per blastomere also recorded on Day 2. Seven candidate models were identified using a priori clinical knowledge and univariate analyses. Each model was fit on a training-set and evaluated on a test-set with resampling, with discrimination assessed using the area under the ROC curve (AUC) and calibration assessed using the Hosmer-Lemeshow statistics.
-
-Models built using Day 1, 2 or 3 scores independently on the 30 resampled data sets showed that Day 1 evaluations provided the poorest predictive value (median AUC = 0.683 versus 0.729 and 0.725, for Day 2 and 3). Combining information from Day 1, 2 and 3 marginally improved discrimination (median AUC = 0.737). Using the final Day 3 model fitted on the whole dataset, the median AUC was 0.732 (95% CI, 0.700-0.764), and 68.6% of embryos would be correctly classified with a cutoff probability equal to 0.3.
-
-Day 2 or Day 3 evaluations alone are sufficient for morphological selection of cleavage stage embryos. The derived regression coefficients can be used prospectively in an algorithm to rank embryos for selection.
-

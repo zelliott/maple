@@ -1,3 +1,0 @@
-
-The long short-term memory (LSTM) network trained by gradient descent solves difficult problems which traditional recurrent neural networks in general cannot. We have recently observed that the decoupled extended Kalman filter training algorithm allows for even better performance, reducing significantly the number of training steps when compared to the original gradient descent training algorithm. In this paper we present a set of experiments which are unsolvable by classical recurrent networks but which are solved elegantly and robustly and quickly by LSTM combined with Kalman filters.
-

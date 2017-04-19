@@ -1,3 +1,0 @@
-
-This paper discusses the employment of non-parametric non-linear prediction algorithms to investigate non-linear dynamics in the rhythmic brain activity of rats. Three algorithms (Sugihara-May Simplex, K-neighbour and Casdagli's) were tested yielding similar prediction results which--when subject to a suitable bootstrap based t-tests--revealed that the theta waves recorded in rat brains cannot have their intrinsic non-linearity dismissed at a significance of 0.05.
-

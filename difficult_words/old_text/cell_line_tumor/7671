@@ -1,7 +1,0 @@
-
-Changes in environmental conditions lead to expression variation that manifest at the level of gene regulatory networks. Despite a strong understanding of the role noise plays in synthetic biological systems, it remains unclear how propagation of expression heterogeneity in an endogenous regulatory network is distributed and utilized by cells transitioning through a key developmental event.
-
-Here we investigate the temporal dynamics of a single-cell transcriptional network of 45 transcription factors in THP-1 human myeloid monocytic leukemia cells undergoing differentiation to macrophages. We systematically measure temporal regulation of expression and variation by profiling 120 single cells at eight distinct time points, and infer highly controlled regulatory modules through which signaling operates with stochastic effects. This reveals dynamic and specific rewiring as a cellular strategy for differentiation. The integration of both positive and negative co-expression networks further identifies the proto-oncogene MYB as a network hinge to modulate both the pro- and anti-differentiation pathways.
-
-Compared to averaged cell populations, temporal single-cell expression profiling provides a much more powerful technique to probe for mechanistic insights underlying cellular differentiation. We believe that our approach will form the basis of novel strategies to study the regulation of transcription at a single-cell level.
-

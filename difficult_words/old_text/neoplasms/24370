@@ -1,5 +1,0 @@
-
-Alteration of gene expression often results in up- or down-regulated genes and the most common analysis strategies look for such differentially expressed genes. However, molecular disease mechanisms typically constitute abnormalities in the regulation of genes producing strong alterations in the expression levels. The search for such deregulation states in the genomic expression profiles will help to identify disease-altered genes better.
-
-We have developed an algorithm that searches for the genes which present a significant alteration in the variability of their expression profiles, by comparing an altered state with a control state. The algorithm provides groups of genes and assigns a statistical measure of significance to each group of genes selected. The method also includes a prefilter tool to select genes with a threshold of differential expression that can be set by the user ad casum. The method is evaluated using an experimental set of microarrays of human control and cancer samples from patients with acute promyelocytic leukemia.
-

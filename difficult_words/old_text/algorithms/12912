@@ -1,3 +1,0 @@
-
-A new upper bound on the capacity of power- and bandwidth-constrained optical wireless links using selection transmit diversity over exponential atmospheric turbulence channels with intensity modulation and direct detection is derived when non-uniform on-off keying (OOK) formats are used. In this strong turbulence free-space optical (FSO) scenario, average capacity is investigated subject to an average optical power constraint and not only to an average electrical power constraint when the transmit diversity technique assumed is based on the selection of the optical path with a greater value of irradiance. Simulation results for the mutual information are further demonstrated to confirm the analytical results for different diversity orders.
-

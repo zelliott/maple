@@ -1,3 +1,0 @@
-
-We explore a number of matrix factorization methods in terms of their ability to identify signatures of biological processes in a large gene expression study. We focus on the ability of these methods to find signatures in terms of gene ontology enhancement and on the interpretation of these signatures in the samples. Two Bayesian approaches, Bayesian Decomposition (BD) and Bayesian Factor Regression Modeling (BFRM), perform best. Differences in the strength of the signatures between the samples suggest that BD will be most useful for systems modeling and BFRM for biomarker discovery.
-

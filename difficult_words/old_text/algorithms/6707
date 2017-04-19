@@ -1,3 +1,0 @@
-
-We designed a new methodology to estimate the pulse pressure variation index (deltaPP) in arterial blood pressure (ABP). The method uses automatic detection algorithms, kernel smoothing, and rank-order filters to continuously estimate deltaPP. The technique can be used to estimate deltaPP from ABP alone, eliminating the need for simultaneously acquiring airway pressure.
-

@@ -1,3 +1,0 @@
-
-The combination of genetic algorithm and neural network approach (GANN) has been developed to improve the calculation accuracy of density functional theory. As a demonstration, this combined quantum mechanical calculation and GANN correction approach has been applied to evaluate the optical absorption energies of 150 organic molecules. The neural network approach reduces the root-mean-square (rms) deviation of the calculated absorption energies of 150 organic molecules from 0.47 to 0.22 eV for the TDDFTB3LYP6-31G(d) calculation, and the newly developed GANN correction approach reduces the rms deviation to 0.16 eV.
-

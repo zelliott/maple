@@ -1,9 +1,0 @@
-
-To evaluate the inhibition of shRNA mediated by magnetic liposome in the growth of non-small cell lung cancer (NSCLC) under the interference of magnetic field in vitro and in vivo and explore the effects of magnetic field on the efficiency of magnetofection.
-
-The plasmid of pGFPshIGF-1R was constructed for expressing GFP and shRNA against IGF-1R. CombiMAG as superparamagnetic iron oxide nanoparticles (SPIONs) and Lipofectamine2000 as cationic liposome comprised the magnetic liposome. pGFPshIGF-1R was transferred into A549 cells by magnetofection under a series of interaction durations and intensity of external magnetic fields. pGFPshIGF-1R was delivered into A549 cells in vitro and injected intravenously into the tumor-bearing mice every 48 h for four doses in vivo by way of lipofection or magnetofection. The magnetofection efficiency was analyzed by cytometry and the potency of IGF-1R knockdown by Western blot. At Week 3 after the 4th injection, the mice were sacrificed and the tumors removed and weighed. The tumor inhibition rate was calculated.
-
-The interaction durations and intensity of magnetic field could influence the magnetofection efficiency. In vitro, IGF-1R specific-shRNA transfected by lipofection inhibited IGF-1R protein by 56.1% ± 6.0% and by liposomal magnetofection by 85.1% ± 3.0%. In vivo, pGFPshIGF-1R delivered by both lipofection and magnetofection significantly inhibited the tumor growth by 41.3% (P < 0.01) and 65.2% (P < 0.01).
-
-Based on magnetic liposome as gene vectors, magnetofection may become a promising targeted therapy for lung cancer. And the transfection efficiency is influenced by magnetic field.
-

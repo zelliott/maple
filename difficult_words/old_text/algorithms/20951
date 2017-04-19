@@ -1,3 +1,0 @@
-
-Hidden Markov models are an effective computational method for modelling and interpreting digital signals of biological, as well as other, origin. In the current investigation, we explored whether hidden Markov models can be used to control and represent phenomena in human balance signals recorded from subjects standing on a force platform. Additionally, our aim was to classify healthy controls and patients who suffered from Meniere's disease into their own classes. Hidden Markov models were capable of these tasks and of overcoming such disturbances as noise and other unforeseen perturbations in balance signals, which are inherently complex and possibly difficult to visually specify.
-

@@ -1,7 +1,0 @@
-
-Viruses that infect bacteria, called phages, are well-known for their extreme mosaicism, in which an individual genome shares many different parts with many others. The mechanisms for creating these mosaics are largely unknown but are believed to be recombinations, either illegitimate, or partly homologous. In order to reconstruct the history of these recombinations, we need to identify the positions where recombinations may have occurred, and develop algorithms to generate and explore the possible reconstructions.
-
-We first show that, provided that their gene order is co-linear, genomes of phages can be aligned, even if large parts of their sequences lack any detectable similarity and are annotated hypothetical proteins. We give such an alignment for 31 Staphylococcus aureus phage genomes, and algorithms that can be used in any similar context. These alignments provide the datasets needed for a combinatorial study of recombinations. We next reconstruct the most likely recombination history of the set of 31 phages, under the hypothesis that recombinations are partly homologous. This history relies on the computational identification of missing phages.
-
-This first combinatorial study of modular recombinations acts as a proof of concept. We show that alignments of whole genomes are feasible for large sets of phages, and that this representation yields data that can be used to reconstruct parts of the evolutionary history of these organisms.
-

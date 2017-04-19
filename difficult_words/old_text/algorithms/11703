@@ -1,3 +1,0 @@
-
-Gradient vector flow (GVF), an elegant external force for parametric deformable models, can capture object boundaries from both sides. A new geometric deformable model is proposed that combines GVF and the geodesic active contour model. The level set method is used as the numerical method of this model. The model is applied for echocardiographic image segmentation.
-

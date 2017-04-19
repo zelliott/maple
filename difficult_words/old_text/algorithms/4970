@@ -1,3 +1,0 @@
-
-An overview of computational procedures for examining neuroanatomical variability is presented. The review focuses on approaches that can be applied using the SPM software package, beginning by explaining briefly how statistical parametric mapping is usually applied to functional imaging data. The review then proceeds to discuss volumetry, with an emphasis on voxel-based morphometry, and the pre-processing steps involved using the SPM software. Most volumetric studies involve univariate approaches, with a correction for some global measure, such as total brain volume. In contrast, the overall form of the brain may be more accurately modeled using multivariate approaches. Such models of anatomical variability may prove accurate enough for computer assisted diagnoses.
-

@@ -1,9 +1,0 @@
-
-Chimera spectra make it challenging to identify proteins in complex mixtures by LC/MS/MS. Approximately half of the spectra collected are chimera spectra even when high-resolution tandem mass spectrometry is used. Chimera spectra are generated from the co-fragmentation of different co-elute peptides, and it is often difficult to distinguish monoisotopic precursors of these peptides from each other.
-
-In this paper, we propose a peak intensity ratio-based monoisotopic peak determination algorithm (PIRMD) to distinguish different monoisotopic precursors of chimera spectra. Monoisotopic peaks in non-overlapping clusters are detected by the edge features of the isotopic peak intensity ratios. For multiple overlapping clusters grouped as one cluster, monoisotopic peaks can be detected by an advanced estimation of the similarity between the estimated and the experimental isotopic distribution based on the isotopic peak intensity ratios.
-
-High-resolution mass spectrometric datasets acquired from mixtures of 30 synthetic peptides and mixtures of 18 proteins were used to evaluate the efficiency and accuracy of PIRMD. The results indicate that PIRMD can recognize monoisotopic precursors from the chimera spectra containing non-overlapping and overlapping isotopic clusters. Compared to several published algorithms, PIRMD identifies approximately 2 ~ 14% more spectra and has fewer false positives.
-
-The results on standard datasets and actual samples demonstrated that PIRMD could notably improve the successful identification rates of the spectra by identifying more chimera spectra, and of the identified spectra, approximately 25% are chimera spectra. This novel algorithm will help to interpret spectra produced by shotgun strategy in proteomics.
-

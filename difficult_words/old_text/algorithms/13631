@@ -1,9 +1,0 @@
-
-The term clinical functional magnetic resonance imaging (fMRI) describes an examination with direct clinical impact on the patient. Interpretation of clinical fMRI especially in children, however, is often difficult due to suboptimal data quality. The current gold standard is standardized visual evaluation. To evaluate such data in an automated and objective way, we developed an approach to identify successful sessions.
-
-Average activation inside a predefined, task-specific region of interest (ROI) is compared with average activation in the rest of the brain, and their ratio (classification factor [Fc]) is determined for different statistical thresholds (T). The approach was tested and validated using 239 clinical pediatric fMRI sessions (sensorimotor, perceptive /productive language). Performance was assessed in terms of sensitivity, specificity, and positive likelihood ratio.
-
-Best performance was found for Fc ≥ 2 and T ≥ 2.5, achieving a sensitivity of 0.87 and specificity of 0.94. Comparing the different domains, sensitivity was lowest for language production tasks, mainly due to atypical activation foci.
-
-We demonstrate that an objective, automated framework for the classification of clinical pediatric fMRI sessions may provide important additional information, supporting visual evaluation, especially from sensorimotor and language perception domains. In the current form, atypical or strong network activation is not easily captured.
-

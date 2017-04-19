@@ -1,3 +1,0 @@
-
-Bottlenose dolphins (tursiops truncatus) produce individually distinctive narrow-band "signature whistles." These whistles may be differentiated by the structure of their frequency contours. An algorithm is presented for extracting frequency contours from whistles and comparing two such contours. This algorithm performs nonuniform time dilation to align the contours and provides a quantitative distance measure between the contours. Two recognition experiments using the algorithm on three dolphin whistles from each of five individuals classified 15 out of 15 single-loop whistles correctly, and 14 out of 15 central loops for multiple-loop whistles correctly.
-

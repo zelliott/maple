@@ -1,3 +1,0 @@
-
-A Boltzmann machine is a classic model of neural computation, and a number of methods have been proposed for its estimation. Most methods are plagued by either very slow convergence or asymptotic bias in the resulting estimates. Here we consider estimation in the basic case of fully visible Boltzmann machines. We show that the old principle of pseudolikelihood estimation provides an estimator that is computationally very simple yet statistically consistent.
-

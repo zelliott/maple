@@ -1,3 +1,0 @@
-
-A commonly seen artifact in PET/CT scanning is areas of "washed out" activity on the reconstructed PET scan due to arm movement after the CT scan. When a patient moves his/her arms after the CT scan, there are areas of activity outside the mask defined by the CT. This leads to an overestimation of scatter in these areas creating significant reconstruction artifacts. This case presents an example of a novel processing algorithm known as "scatter limitation" that corrects the overestimation of scatter caused by arm movement.
-

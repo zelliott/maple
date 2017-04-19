@@ -1,3 +1,0 @@
-
-A method of reducing the amount of data required to reconstruct an image is described. In this scheme, fully sampled low spatial frequency data are acquired up to a given cutoff frequency and above this point, only alternate lines are sampled. Two images are produced, one of low definition and one of high definition but aliased. The proposed algorithm unwraps the aliased data, which are then used to enhance the low pass image, yielding a best estimate of the true image. The reduced sampling technique is shown to afford biological images that are almost indistinguishable from those obtained from a complete data set.
-

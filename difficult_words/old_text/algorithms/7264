@@ -1,9 +1,0 @@
-
-The aim of the study was to determine the influence and clinical consequences of different tomographic reconstruction algorithms on the image quality and diagnostic accuracy of low count statistics single photon emission computed tomography (SPECT).
-
-Phantom scans were used to assess the image quality (percentage of recovered contrast, relative noise level, and spatial resolution). The diagnostic accuracy of parathyroid SPECT performed in 60 patients with primary hyperparathyroidism was assessed. Phantom and patient SPECT scans were reconstructed by two different algorithms (ReSPECT and HOSEM). Two blinded nuclear medicine physicians interpreted the patient scans in random order, without knowledge of any clinical data. Subjective image quality and certainty of diagnosis were scored.
-
-Significantly lower relative noise levels (0.08 vs. 0.13, respectively; P=0.042) and higher image spatial resolution (6.6 vs. 17.1 mm full-width at half-maximum in the transaxial plane, respectively) were found in the phantom studies using ReSPECT as compared with HOSEM. In the clinical scans, the mean target-to-background ratio was higher for ReSPECT (4.53 vs. 2.97; P<0.001). There was no significant difference in region-based sensitivity (73 vs. 68%; P=0.538) or specificity (93 vs. 92%; P=0.815) between ReSPECT and HOSEM. Subjective image quality as well as certainty of interpretation was higher for ReSPECT (P<0.001).
-
-There is a significant difference in image quality between commercially available algorithms for tomographic reconstruction of SPECT scans, which appears to have an impact on diagnostic accuracy and interpreter certainty. Therefore, we believe that a systematic comparison of different SPECT reconstruction algorithms should be made to ensure reproducible high image quality in clinical SPECT.
-

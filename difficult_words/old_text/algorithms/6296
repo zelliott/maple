@@ -1,3 +1,0 @@
-
-To predict human tumor-specific promoters using computer technology, three data sets of tumor-specific promoter sequences, transcription factor binding site sequences and non-tumor promoter sequences were collected, and the tumor-specific promoter sequences and non-tumor promoter sequences were analyzed for the comparative density of each unique transcription factor binding site. The density of each transcription factor binding site in the corresponding data set was used to derive the density ratio, from which the eigenvector was constructed to identify human tumor-specific promoters. This method proved to be highly accurate in predicting the tumor-specific promoters, with recognition rates of over 90% of the training sequences and over 80% of the testing sequences.
-

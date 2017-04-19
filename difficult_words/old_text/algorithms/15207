@@ -1,9 +1,0 @@
-
-Brain-computer interfaces (BCIs) aim to provide a means for people with severe motor disabilities to control their environment directly with neural activity. In intracortical BCIs for people with tetraplegia, the decoder that maps neural activity to desired movements has typically been calibrated using 'open-loop' (OL) imagination of control while a cursor automatically moves to targets on a computer screen. However, because neural activity can vary across contexts, a decoder calibrated using OL data may not be optimal for 'closed-loop' (CL) neural control. Here, we tested whether CL calibration creates a better decoder than OL calibration even when all other factors that might influence performance are held constant, including the amount of data used for calibration and the amount of elapsed time between calibration and testing.
-
-Two people with tetraplegia enrolled in the BrainGate2 pilot clinical trial performed a center-out-back task using an intracortical BCI, switching between decoders that had been calibrated on OL versus CL data.
-
-Even when all other variables were held constant, CL calibration improved neural control as well as the accuracy and strength of the tuning model. Updating the CL decoder using additional and more recent data resulted in further improvements.
-
-Differences in neural activity between OL and CL contexts contribute to the superiority of CL decoders, even prior to their additional 'adaptive' advantage. In the near future, CL decoder calibration may enable robust neural control without needing to pause ongoing, practical use of BCIs, an important step toward clinical utility.
-

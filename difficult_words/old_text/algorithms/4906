@@ -1,3 +1,0 @@
-
-This correspondence presents servo and nonlinear model following controls for a class of nonlinear systems using the Takagi-Sugeno fuzzy model-based control approach. First, the construction method of the augmented fuzzy system for continuous-time nonlinear systems is proposed by differentiating the original nonlinear system. Second, the dynamic fuzzy servo controller and the dynamic fuzzy model following controller, which can make outputs of the nonlinear system converge to target points and to outputs of the reference system, respectively, are introduced. Finally, the servo and model following controller design conditions are given in terms of linear matrix inequalities. Design examples illustrate the utility of this approach.
-

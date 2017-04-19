@@ -1,3 +1,0 @@
-
-Networks have become an indispensable tool in modelling infectious diseases, with the structure of epidemiologically relevant contacts known to affect both the dynamics of the infection process and the efficacy of intervention strategies. One of the key reasons for this is the presence of clustering in contact networks, which is typically analysed in terms of prevalence of triangles in the network. We present a more general approach, based on the prevalence of different four-motifs, in the context of ODE approximations to network dynamics. This is shown to outperform existing models for a range of small world networks.
-

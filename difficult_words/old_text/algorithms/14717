@@ -1,3 +1,0 @@
-
-This paper presents an original non-invasive procedure for the diagnosis of electromagnetic devices, as well as AC electrical rotating machines using two external flux coil sensors that measure the external magnetic field in the machines' vicinity. The diagnosis exploits the signal delivered by the two sensors placed in particular positions. Contrary to classical methods using only one sensor, the presented method does not require any knowledge of a presumed machine's healthy former state. On the other hand, the loading operating is not a disturbing factor but it is used to the fault discrimination. In order to present this procedure, an internal stator inter-turn short-circuit fault is considered as well.
-

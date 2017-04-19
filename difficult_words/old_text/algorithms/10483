@@ -1,9 +1,0 @@
-
-Image segmentation techniques using fuzzy connectedness (FC) principles have shown their effectiveness in segmenting a variety of objects in several large applications. However, one challenge in these algorithms has been their excessive computational requirements when processing large image datasets. Nowadays, commodity graphics hardware provides a highly parallel computing environment. In this paper, the authors present a parallel fuzzy connected image segmentation algorithm implementation on NVIDIA's compute unified device Architecture (CUDA) platform for segmenting medical image data sets.
-
-In the FC algorithm, there are two major computational tasks: (i) computing the fuzzy affinity relations and (ii) computing the fuzzy connectedness relations. These two tasks are implemented as CUDA kernels and executed on GPU. A dramatic improvement in speed for both tasks is achieved as a result.
-
-Our experiments based on three data sets of small, medium, and large data size demonstrate the efficiency of the parallel algorithm, which achieves a speed-up factor of 24.4x, 18.1x, and 10.3x, correspondingly, for the three data sets on the NVIDIA Tesla C1060 over the implementation of the algorithm on CPU, and takes 0.25, 0.72, and 15.04 s, correspondingly, for the three data sets.
-
-The authors developed a parallel algorithm of the widely used fuzzy connected image segmentation method on the NVIDIA GPUs, which are far more cost- and speed-effective than both cluster of workstations and multiprocessing systems. A near-interactive speed of segmentation has been achieved, even for the large data set.
-

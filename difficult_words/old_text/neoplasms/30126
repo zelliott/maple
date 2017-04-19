@@ -1,7 +1,0 @@
-
-The goal of feature selection is to select useful features and simultaneously exclude garbage features from a given dataset for classification purposes. This is expected to bring reduction of processing time and improvement of classification accuracy.
-
-In this study, we devised a new feature selection algorithm (CBFS) based on clearness of features. Feature clearness expresses separability among classes in a feature. Highly clear features contribute towards obtaining high classification accuracy. CScore is a measure to score clearness of each feature and is based on clustered samples to centroid of classes in a feature. We also suggest combining CBFS and other algorithms to improve classification accuracy.
-
-From the experiment we confirm that CBFS is more excellent than up-to-date feature selection algorithms including FeaLect. CBFS can be applied to microarray gene selection, text categorization, and image classification.
-

@@ -1,9 +1,0 @@
-
-Quantitative understanding of tear dynamics may help in developing better ophthalmic drug delivery vehicles and dry eye treatments. This paper attempts to develop a comprehensive model that can predict the effect of physiological parameters on various issues related to tear dynamics.
-
-The model is based on mass balances of water and solutes such as glucose, sodium, potassium, and chloride. The mass balances require models for the drainage of fluid through the canaliculi and the transport of tears and solutes through the conjunctiva. The model parameters are obtained by simulating Ussing-chamber experiments. The differential equations for the unsteady balances are solved numerically.
-
-The model predicts that under normal conditions, the tear volume, tear osmolarity and potential are 7.1 microl, 297.6 mM, and -15.1 mV, respectively. The model also predicts that the conjunctiva is secretory and contributes about 25% of the total tear production. We also predict the effect of evaporation on tear physiology and show that an increase in evaporation increases osmolarity, reduces tear volume, and increases conjuctival secretion. Additionally, the new tear dynamics model helps assess the effect of osmolarity of the instilled drops, insertion of punctum plugs and use of moisture chamber as treatments for dry eyes. Furthermore, the model is used to predict the effect of modulation of specific transport pathways, which is proposed as a potential remedy for dry eyes, on conjuctival secretion and total tear volume.
-
-Most of the predicted results agree with the reported experimental results, at least qualitatively. However, some predictions disagree with experiments suggesting that further improvements in the model are needed. The model developed in this paper can improve our understanding of tear dynamics and also serve as a tool to evaluate the efficacy of various modalities at treating dry eyes.
-

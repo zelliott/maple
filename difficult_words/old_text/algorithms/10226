@@ -1,9 +1,0 @@
-
-SF-6D is a preference-based measure of health developed to estimate utility values from the SF-36. The aim of this study was to estimate a weighting system for the SF-6D health states representing the preferences of a sample of the Southern Brazilian general population.
-
-A sample of 248 health states defined by the SF-6D was valued by a sample of the southern Brazilian population using the standard gamble. Mean and individual level multivariate regression models were fitted to the standard gamble valuation data to estimate preference weights for all SF-6D health states. The models were compared with those estimated in the UK study.
-
-Five hundred twenty-eight participants were interviewed, but 58 (11%) were excluded for failing to value the worst state. Data from 469 subjects producing 2696 health states valuations were used in the regression analysis. In contrast to the best performing model for the UK data, the best performing model for the Brazilian data was a random effects model using only the main effects variables, highlighting the importance of adopting a country-specific algorithm to derive SF-6D health states values. Inconsistent coefficients were merged to produce the final recommended model, which has all significant coefficients and a mean absolute difference between observed and predicted standard gamble values of 0.07.
-
-The results provide the first population-based value set for Brazil for SF-6D health states, making it possible to generate quality-adjusted life years for cost-utility studies using regional data. Besides, utility weights derived using the preferences of a sample from a southern Brazilian population can be derived from existing SF-36 data sets.
-

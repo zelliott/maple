@@ -1,9 +1,0 @@
-
-A critical requirement of MR-guided interventions is the visualization of an instrument (e.g., catheter, needle) during the procedure. One approach is to fill the instrument with a contrast agent. Previously, the optimization of contrast agent visualization was performed only empirically. In the present study, an analytic optimization of contrast agent SNR efficiency was performed for a spoiled gradient echo pulse sequence.
-
-Optimal flip angle, repetition time, echo time, and contrast agent concentration were derived analytically. The solution is valid for any contrast agent, provided the relationship between T1 , T2 , and doping concentration is known.
-
-Phantom experiments validated the analytic optimization for Gd- and MnCl2 -based contrast agents. Results showed excellent agreement between experimentally predicted and theoretically observed magnetization behavior. In vivo experiments demonstrated optimized contrast agent visualization in brain, heart, and prostate applications. The results demonstrated the large SNR that can be achieved with analytic optimization. As a practical guideline, an 11% dilution of 500 mMol/L Gd-DTPA solution, repetition time ≈ 4 ms, echo time ≈ 1 ms, and θ ≈ 65° was found to provide a large SNR.
-
-This study derived and validated a method for analytically optimizing contrast agent SNR efficiency. This information may be useful for visualizing instruments during MR-guided interventions.
-

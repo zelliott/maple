@@ -1,9 +1,0 @@
-
-Glycemic variability (GV) is an important component of overall glycemic control for patients with diabetes mellitus. Physicians are able to recognize excessive GV from continuous glucose monitoring (CGM) plots; however, there is currently no universally agreed upon GV metric. The objective of this study was to develop a consensus perceived glycemic variability (CPGV) metric that could be routinely applied to CGM data to assess diabetes mellitus control.
-
-Twelve physicians actively managing patients with type 1 diabetes mellitus rated a total of 250 24 h CGM plots as exhibiting low, borderline, high, or extremely high GV. Ratings were averaged to obtain a consensus and then input into two machine learning algorithms: multilayer perceptrons (MPs) and support vector machines for regression (SVR). In silica experiments were run using each algorithm with different combinations of 12 descriptive input features. Ten-fold cross validation was used to evaluate the performance of each model.
-
-The SVR models approximated the physician consensus ratings of unseen CGM plots better than the MP models. When judged by the root mean square error, the best SVR model performed comparably to individual physicians at matching consensus ratings. When applied to 262 different CGM plots as a screen for excessive GV, this model had accuracy, sensitivity, and specificity of 90.1%, 97.0%, and 74.1%, respectively. It significantly outperformed mean amplitude of glycemic excursion, standard deviation, distance traveled, and excursion frequency.
-
-This new CPGV metric could be used as a routine measure of overall glucose control to supplement glycosylated hemoglobin in clinical practice.
-

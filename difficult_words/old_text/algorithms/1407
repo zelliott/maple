@@ -1,3 +1,0 @@
-
-This article proposes an EM-like algorithm for estimating, by maximum likelihood, the population parameters of a nonlinear mixed-effect model given sparse individual data. The first step involves Bayesian estimation of the individual parameters. During the second step, population parameters are estimated using a linearization about those Bayesian estimates. This algorithm (implemented in P-PHARM) is evaluated on simulated data, mimicking pharmacokinetic analyses and compared to the First-Order method and the First-Order Conditional Estimates method (both implemented in NONMEM). The accuracy of the results, within few iterations, shows the estimation capabilities of the proposed approach.
-

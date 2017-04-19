@@ -1,3 +1,0 @@
-
-A new highly automated heavy-atom search procedure combines a fast Fourier transform translation function, Patterson superposition functions and Patterson correlation refinement. The search procedure can be applied to various native and difference Patterson maps and their statistically weighted averages. The procedure was tested with diffraction data for several crystal structures with up to 30 heavy-atom sites in the asymmetric unit and with minimum Bragg spacings ranging from 3 to 4 A. In all cases, the correct sites were found with modest computing time.
-

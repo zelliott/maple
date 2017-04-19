@@ -1,9 +1,0 @@
-
-The literature presents many different algorithms for classifying heartbeats from ECG signals. The performance of the classifier is normally presented in terms of sensitivity, specificity or other metrics describing the proportion of correct versus incorrect beat classifications. From the clinician's point of view, such metrics are however insufficient to rate the performance of a classifier.
-
-We propose a new methodology for the presentation of classifier performance, based on Bayesian classification theory. Our proposition lets the investigators report their findings in terms of beat-by-beat comparisons, and defers the role of assessing the utility of the classifier to the statistician. Evaluation of the classifier's utility must be undertaken in conjunction with the set of relative costs applicable to the clinicians' application. Such evaluation produces a metric more tuned to the specific application, whilst preserving the information in the results.
-
-By way of demonstration, we propose a set of costs, based on clinical data from the literature, and examine the results of two published classifiers using our method. We make recommendations for reporting classifier performance, such that this method can be used for subsequent evaluation.
-
-The proportion of misclassified beats contains insufficient information to fully evaluate a classifier. Performance reports should include a table of beat-by-beat comparisons, showing not-only the number of misclassifications, but also the identity of the classes involved in each inaccurate classification.
-

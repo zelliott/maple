@@ -1,7 +1,0 @@
-
-PCOAT (Positional COrrelation Analysis Tool) is a program to perform positional correlation analysis for protein multiple sequence alignment in order to identify structurally or functionally important interactions between positions in a protein family. We implement different statistical methods to detect highly correlated position pairs, amino acid pairs, individual positions and networks of correlated positions, and utilize multiple sequence weighting and sampling methods to eliminate background correlations caused by phylogeny and stochastic events. Our program runs relatively fast and is suitable for analyzing alignments containing large number of sequences.
-
-ftp://iole.swmed.edu/pub/PCOAT/.
-
-The PCOAT ftp site contains a detailed description of the program, and the results of PCOAT analysis on C2H2 alignment and ACT domain alignment.
-

@@ -1,3 +1,0 @@
-
-We study the inference of rigid three-dimensional interpretations for the structure and motion of four or more moving points from but two orthographic views of the points. We develop an algorithm to determine whether image data are compatible with a rigid interpretation. As a corollary of this result we find that the measure of false targets (roughly, nonrigid objects that appear rigid) is zero. We find that if the two views have at least one rigid interpretation, then in fact there is a canonical one-parameter family of rigid interpretations; we show how to compute this family, and we describe precisely how the rigid interpretations vary within it. Since only two views are used, this analysis is relevant also to stereo vision.
-

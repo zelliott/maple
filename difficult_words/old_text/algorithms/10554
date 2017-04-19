@@ -1,9 +1,0 @@
-
-Currently, there are no standard guidelines for recommending re-administration of a chemotherapeutic drug to a patient after a serious adverse drug reaction (ADR) incident. The decision on whether to rechallenge the patient is based on the experience of the clinician and is highly subjective. Thus the aim of this study is to develop a decision support tool to assist clinicians in this decision making process.
-
-The inclusion criteria for patients in this study are: (1) had chemotherapy at National Cancer Centre Singapore between 2004 to 2009, (2) suffered from serious ADRs, and (3) were rechallenged. A total of 46 patients fulfilled the inclusion criteria. A genetic algorithm attribute selection method was used to identify clinical predictors for patients' rechallenge status. A Naïve Bayes model was then developed using 35 patients and externally validated using 11 patients.
-
-Eight patient attributes (age, chemotherapeutic drug, albumin level, red blood cell level, platelet level, abnormal white blood cell level, abnormal alkaline phosphatase level and abnormal alanine aminotransferase level) were identified as clinical predictors for rechallenge status of patients. The Naïve Bayes model had an AUC of 0.767 and was found to be useful for assisting clinical decision making after clinicians had identified a group of patients for rechallenge. A platform independent version and an online version of the model is available to facilitate independent validation of the model.
-
-Due to the limited size of the validation set, a more extensive validation of the model is necessary before it can be adopted for routine clinical use. Once validated, the model can be used to assist clinicians in deciding whether to rechallenge patients by determining if their initial assessment of rechallenge status of patients is accurate.
-

@@ -1,3 +1,0 @@
-
-Floating absolute risks are an alternative way of presenting relative risk estimates for polychotomous risk factors. Instead of choosing one level of the risk factor as a reference category, each level is assigned a 'floated' variance which describes the uncertainty in risk without reference to another level. In this paper, a method for estimating the floated variances is presented that improves on the previously proposed 'heuristic' method. The estimates may be calculated iteratively with a simple algorithm. A benchmark for validating the floated variance estimates is also proposed and an interpretation of floating confidence intervals is given.
-

@@ -1,3 +1,0 @@
-
-Peer-to-Peer systems are emerging as one of the most popular Internet applications. Structured Peer-to-Peer overlay networks use identifier based routing algorithms to allow robustness, load balancing, and distributed lookup needed in this environment. However, identifier based routing that is independent of Internet topology tends to be of low efficiency. Aimed at improving the routing efficiency, the super-proximity routing algorithms presented in this paper combine Internet topology and overlay routing table in choosing the next hop. Experimental results showed that the algorithms greatly improve the efficiency of Peer-to-Peer routing.
-

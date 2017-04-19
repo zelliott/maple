@@ -1,7 +1,0 @@
-
-We sought to test the utility of weight gain algorithms to predict episodes of worsening heart failure (WHF) using home-telemonitoring data collected as part of the TEN-HMS study.
-
-Simple rule-of-thumb (RoT) algorithms (i.e. 3 lbs in 1 day and 5 lbs in 3 days) and a moving average convergence divergence (MACD) algorithm were compared. WHF was defined as hospitalization for WHF or worsening of breathlessness or leg oedema. Of 168 patients, 45 were hospitalized with WHF and 76 were hospitalized for other reasons. On average, weight gain occurred in the 14 days prior to WHF hospitalizations but not in the 14 days prior to non-WHF hospitalizations [1.9 +/- 4.7 lbs (0.9 +/- 2.1 kg) vs. -0.4 +/- 2.5 lbs (-0.2 +/- 1.1 kg), P < 0.0001]. The true alerts rate was higher for the RoT algorithms compared with the MACD (58 and 65% vs. 20%). However, the RoT algorithms had much higher false alert rates (54 and 58% vs. 9%) rendering them of little practical use for predicting WHF events.
-
-A MACD algorithm is more specific but less sensitive than RoT when trying to predict episodes of WHF based on daily weight measurements. However, many episodes of WHF do not appear to be associated with weight gain and therefore telemonitoring of weight alone may not have great value for heart failure management.
-
