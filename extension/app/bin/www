@@ -8,16 +8,20 @@ var fs = require('fs');
 var app = require('../app');
 var debug = require('debug')('maple-api:server');
 var http = require('http');
-// var https = require('https');
+var https = require('https');
 // var ps = require('python-shell');
 
 /**
  * Set up certificate stuff.
  */
 
-// var key  = fs.readFileSync('key.pem', 'utf8');
-// var cert = fs.readFileSync('cert.pem', 'utf8');
-// var credentials = { key: key, cert: cert };
+var credentials = {
+    key: fs.readFileSync('./localhost.key').toString(),
+    cert: fs.readFileSync('./localhost.crt').toString(),
+    ciphers: 'ECDHE-RSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-SHA:ECDHE-RSA-AES128-SHA256:ECDHE-RSA-AES256-SHA:ECDHE-RSA-AES256-SHA384',
+    honorCipherOrder: true,
+    secureProtocol: 'TLSv1_2_method'
+};
 
 /**
  * Get port from environment and store in Express.
@@ -30,15 +34,15 @@ app.set('port', port);
  * Create HTTP server.
  */
 
-var httpServer = http.createServer(app);
-// var httpsServer = https.createServer(credentials, app);
+// var httpServer = http.createServer(app);
+var httpsServer = https.createServer(credentials, app);
 
 /**
  * Listen on provided port, on all network interfaces.
  */
 
-httpServer.listen(port);
-// httpsServer.listen(8443);
+// httpServer.listen(port);
+httpsServer.listen(8443);
 
 /**
  * Normalize a port into a number, string, or false.

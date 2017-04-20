@@ -6,6 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "async": "^2.3.0",
     "body-parser": "~1.16.0",
     "concurrently": "^3.4.0",
     "cookie-parser": "~1.4.3",
@@ -15,6 +16,8 @@
     "morgan": "~1.7.0",
     "pug": "~2.0.0-beta10",
     "python-shell": "^0.4.0",
-    "serve-favicon": "~2.3.2"
+    "serve-favicon": "~2.3.2",
+    "webdict": "^0.1.0",
+    "wordnet": "^0.1.2"
   }
 }

@@ -11,7 +11,8 @@ Maple.prototype = {
       var $item = $(this);
       var $itemInfo = $item.find('.rprtnum');
       var url = $item.find('a').attr('href');
-      var mapleUrl = 'https://sample-env.q6yemetfiv.us-west-1.elasticbeanstalk.com/api/analyze';
+      // var mapleUrl = 'https://sample-env.q6yemetfiv.us-west-1.elasticbeanstalk.com/api/analyze';
+      var mapleUrl = 'https://localhost:8443/api/analyze';
 
       var $mapleLoading = $(document.createElement('div'))
         .text('...')
@@ -29,9 +30,10 @@ Maple.prototype = {
           $.ajax({
             type: 'POST',
             async: true,
+            crossDomain: true,
             url: mapleUrl,
             data: abstractText,
-            dataType: 'json',
+            dataType: 'application/json',
             success: function (data) {
               var score = Math.floor(data.score * 100);
               var scoreColorClass = (score < 33) ? 'maple-score-green' :
@@ -66,7 +68,8 @@ Maple.prototype = {
   simplifyWords: function() {
     console.log('simplifyWords');
 
-    var mapleUrl = 'https://sample-env.q6yemetfiv.us-west-1.elasticbeanstalk.com/api/analyze';
+    // var mapleUrl = 'https://sample-env.q6yemetfiv.us-west-1.elasticbeanstalk.com/api/analyze';
+    var mapleUrl = 'https://localhost:8443/api/analyze';
     var abstractText = $('abstracttext').text();
 
     $.ajax({
