@@ -1,5 +1,5 @@
 var Maple = function () {
-  this.mapleURL = 'https://sample-env.q6yemetfiv.us-west-1.elasticbeanstalk.com/api/analyze';
+
 };
 
 Maple.prototype = {
@@ -11,6 +11,7 @@ Maple.prototype = {
       var $item = $(this);
       var $itemInfo = $item.find('.rprtnum');
       var url = $item.find('a').attr('href');
+      var mapleUrl = 'https://sample-env.q6yemetfiv.us-west-1.elasticbeanstalk.com/api/analyze';
 
       var $mapleLoading = $(document.createElement('div'))
         .text('...')
@@ -28,7 +29,7 @@ Maple.prototype = {
           $.ajax({
             type: 'POST',
             async: true,
-            url: this.mapleUrl,
+            url: mapleUrl,
             data: abstractText,
             dataType: 'json',
             success: function (data) {
@@ -65,17 +66,16 @@ Maple.prototype = {
   simplifyWords: function() {
     console.log('simplifyWords');
 
+    var mapleUrl = 'https://sample-env.q6yemetfiv.us-west-1.elasticbeanstalk.com/api/analyze';
     var abstractText = $('abstracttext').text();
 
     $.ajax({
       type: 'POST',
       async: true,
-      url: this.mapleUrl,
+      url: mapleUrl,
       data: abstractText,
       dataType: 'json',
       success: function (data) {
-        console.log(data);
-
         var definitions = data.definitions;
         var abstractTextWords= abstractText.split('');
 
